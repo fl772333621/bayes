@@ -41,11 +41,13 @@ public class BayesMailDetection {
 	public static final String TEST_EMAIL_PATH = BASE_PATH + "test\\";
 
 	public static void main(String[] args) throws Exception {
+		// 1、计算正常邮件语料的词频
 		Map<String, Double> normalWFMap = createWordFrequencyMap(NORMAL_EMAIL_PATH);
+		// 2、计算垃圾邮件语料的词频
 		Map<String, Double> spamWFMap = createWordFrequencyMap(SPAM_EMAIL_PATH);
-
+		// 3、应用bayes公式计算垃圾邮件中词对判定垃圾邮件的概率值
 		Map<String, Double> wordRateMap = createSpamProbabilityMap(spamWFMap, normalWFMap);
-
+		// 4、根据分词结果判断是垃圾邮件的概率
 		judgeMail(TEST_EMAIL_PATH, wordRateMap);
 	}
 
@@ -71,8 +73,8 @@ public class BayesMailDetection {
 	}
 
 	/**
-	 * 建立map<str,rate> <br />
-	 * 邮件中出现word时,<br />
+	 * 应用bayes公式计算垃圾邮件中词对判定垃圾邮件的概率值<br />
+	 * 邮件中出现word时<br />
 	 * 该邮件为垃圾邮件的概率 P(Spam|word) =P(Spam)/P(word)*P(word|Spam)
 	 */
 	public static Map<String, Double> createSpamProbabilityMap(Map<String, Double> spamWFMap, Map<String, Double> normalWFMap) {
@@ -89,31 +91,12 @@ public class BayesMailDetection {
 		return resultMap;
 	}
 
-	public static void judgeMail(String emailPath, Map<String, Double> rateMap) throws Exception {
-		File parent = new File(emailPath);
-		if (!parent.isDirectory()) {
-			return;
-		}
-		File[] children = parent.listFiles();
-		if (children == null || children.length == 0) {
-			return;
-		}
-		for (File child : children) {
-			double probability = judgeMail(child, rateMap);
-			if (probability > 0.5) {
-				System.out.println("这是正常邮件");
-			} else {
-				System.out.println("这是垃圾邮件");
-			}
-		}
-	}
-
 	/**
 	 * 给定邮件,分词,根据分词结果判断是垃圾邮件的概率
 	 * P(Spam|t1,t2,t3……tn)=（P1*P2*……PN）/(P1*P2*……PN+(1-P1)*(1-P2)*……(1-PN))
 	 */
-	public static double judgeMail(File filePath, Map<String, Double> rateMap) throws Exception {
-		List<String> words = segment(FileUtils.readFileToString(filePath));
+	public static void judgeMail(String emailPath, Map<String, Double> rateMap) throws Exception {
+		List<String> words = segment(FileUtils.readFileToString(new File(emailPath)));
 		double rate = 1.0;
 		double tempRate = 1.0;
 		for (String word : words) {
@@ -123,7 +106,12 @@ public class BayesMailDetection {
 				rate *= tmp;
 			}
 		}
-		return rate / (rate + tempRate);
+		double probability = rate / (rate + tempRate);
+		if (probability > 0.5) {
+			System.out.println("这是正常邮件");
+		} else {
+			System.out.println("这是垃圾邮件");
+		}
 	}
 
 	/**
