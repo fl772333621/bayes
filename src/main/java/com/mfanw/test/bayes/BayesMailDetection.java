@@ -38,38 +38,47 @@ public class BayesMailDetection {
 	/**
 	 * 要判别的邮件
 	 */
-	public static final String TEST_EMAIL_PATH = BASE_PATH + "test\\";
+	public static final String TEST_EMAIL_PATH = BASE_PATH + "ham\\";
 
 	public static void main(String[] args) throws Exception {
 		// 1、计算正常邮件语料的词频
-		Map<String, Double> normalWFMap = createWordFrequencyMap(NORMAL_EMAIL_PATH);
+		Map<String, Double> normalRates = createRateMap(NORMAL_EMAIL_PATH);
 		// 2、计算垃圾邮件语料的词频
-		Map<String, Double> spamWFMap = createWordFrequencyMap(SPAM_EMAIL_PATH);
+		Map<String, Double> spamRates = createRateMap(SPAM_EMAIL_PATH);
 		// 3、应用bayes公式计算垃圾邮件中词对判定垃圾邮件的概率值
-		Map<String, Double> wordRateMap = createSpamProbabilityMap(spamWFMap, normalWFMap);
+		Map<String, Double> preditRates = createPredictMap(spamRates, normalRates);
 		// 4、根据分词结果判断是垃圾邮件的概率
-		judgeMail(TEST_EMAIL_PATH, wordRateMap);
+		judgeMail(TEST_EMAIL_PATH, preditRates);
 	}
 
 	/**
 	 * 从给定的垃圾邮件、正常邮件语料中建立map <切出来的词,出现的频率>
 	 */
-	public static Map<String, Double> createWordFrequencyMap(String filePath) throws Exception {
-		String contents = FileUtils.readFileToString(new File(filePath));
-		List<String> list = segment(contents);
-		Map<String, Integer> tmpmap = new HashMap<String, Integer>();
-		Map<String, Double> retmap = new HashMap<String, Double>();
+	public static Map<String, Double> createRateMap(String filePath) throws Exception {
+		Map<String, Double> rates = new HashMap<String, Double>();
+		File parent = new File(filePath);
+		if (parent == null || !parent.isDirectory()) {
+			return rates;
+		}
+		File[] children = parent.listFiles();
+		if (children == null || children.length == 0) {
+			return rates;
+		}
+		Map<String, Integer> wordMaps = new HashMap<String, Integer>();
+		for (File child : children) {
+			String contents = FileUtils.readFileToString(child);
+			List<String> words = segment(contents);
+			for (String word : words) {
+				wordMaps.put(word, wordMaps.containsKey(word) ? wordMaps.get(word) + 1 : 1);
+			}
+		}
 		double rate = 0.0;
-		int count = 0;
-		for (String s : list) {
-			tmpmap.put(s, tmpmap.containsKey(s) ? count + 1 : 1);
+		for (Iterator<String> it = wordMaps.keySet().iterator(); it.hasNext();) {
+			String key = (String) it.next();
+			rate = wordMaps.get(key) / wordMaps.size();
+			rates.put(key, rate);
 		}
-		for (Iterator<String> iter = tmpmap.keySet().iterator(); iter.hasNext();) {
-			String key = (String) iter.next();
-			rate = tmpmap.get(key) / list.size();
-			retmap.put(key, rate);
-		}
-		return retmap;
+		return rates;
 	}
 
 	/**
@@ -77,40 +86,50 @@ public class BayesMailDetection {
 	 * 邮件中出现word时<br />
 	 * 该邮件为垃圾邮件的概率 P(Spam|word) =P(Spam)/P(word)*P(word|Spam)
 	 */
-	public static Map<String, Double> createSpamProbabilityMap(Map<String, Double> spamWFMap, Map<String, Double> normalWFMap) {
-		Map<String, Double> resultMap = new HashMap<String, Double>();
-		for (Iterator<String> it = spamWFMap.keySet().iterator(); it.hasNext();) {
+	public static Map<String, Double> createPredictMap(Map<String, Double> spamRates, Map<String, Double> normalRates) {
+		Map<String, Double> preditRates = new HashMap<String, Double>();
+		for (Iterator<String> it = spamRates.keySet().iterator(); it.hasNext();) {
 			String key = (String) it.next();
-			double rate = spamWFMap.get(key);
+			double rate = spamRates.get(key);
 			double allRate = rate;
-			if (normalWFMap.containsKey(key)) {
-				allRate += normalWFMap.get(key);
+			if (normalRates.containsKey(key)) {
+				allRate += normalRates.get(key);
 			}
-			resultMap.put(key, rate / allRate);
+			preditRates.put(key, rate / allRate);
 		}
-		return resultMap;
+		return preditRates;
 	}
 
 	/**
 	 * 给定邮件,分词,根据分词结果判断是垃圾邮件的概率
 	 * P(Spam|t1,t2,t3……tn)=（P1*P2*……PN）/(P1*P2*……PN+(1-P1)*(1-P2)*……(1-PN))
 	 */
-	public static void judgeMail(String emailPath, Map<String, Double> rateMap) throws Exception {
-		List<String> words = segment(FileUtils.readFileToString(new File(emailPath)));
-		double rate = 1.0;
-		double tempRate = 1.0;
-		for (String word : words) {
-			if (rateMap.containsKey(word)) {
-				double tmp = rateMap.get(word);
-				tempRate *= 1 - tmp;
-				rate *= tmp;
-			}
+	public static void judgeMail(String filePath, Map<String, Double> preditRates) throws Exception {
+		File parent = new File(filePath);
+		if (parent == null || !parent.isDirectory()) {
+			return;
 		}
-		double probability = rate / (rate + tempRate);
-		if (probability > 0.5) {
-			System.out.println("这是正常邮件");
-		} else {
-			System.out.println("这是垃圾邮件");
+		File[] children = parent.listFiles();
+		if (children == null || children.length == 0) {
+			return;
+		}
+		for (File child : children) {
+			List<String> words = segment(FileUtils.readFileToString(child));
+			double rate = 1.0;
+			double wordRate = 1.0;
+			for (String word : words) {
+				if (preditRates.containsKey(word)) {
+					double predit = preditRates.get(word);
+					wordRate *= 1 - predit;
+					rate *= predit;
+				}
+			}
+			double probability = rate / (rate + wordRate);
+			if (probability > 0.5) {
+				System.out.println(child.getName() + " --> 这是正常邮件");
+			} else {
+				System.err.println(child.getName() + " --> 这是垃圾邮件");
+			}
 		}
 	}
 
