@@ -5,9 +5,12 @@ import java.util.HashMap;
 import java.util.Iterator;
 import java.util.List;
 import java.util.Map;
+import java.util.Set;
 
 import org.apache.commons.io.FileUtils;
 
+import com.google.common.collect.Maps;
+import com.google.common.collect.Sets;
 import com.mfanw.test.bayes.utils.AnsjUtil;
 import com.mfanw.test.bayes.utils.PrintUtils;
 
@@ -19,10 +22,19 @@ import com.mfanw.test.bayes.utils.PrintUtils;
  * 
  * @author mengwei
  */
-public class BayesMailPredict {
+public class BayesMailPredict2 {
 
 	/**
-	 * 从给定的垃圾邮件、正常邮件语料中建立map <切出来的词,出现的频率>
+	 * 正常邮件的个数
+	 */
+	public static long NORMAL_EMAIL_SIZE;
+	/**
+	 * 垃圾邮件的个数
+	 */
+	public static long SPAM_EMAIL_SIZE;
+
+	/**
+	 * 从给定的垃圾邮件、正常邮件语料中建立map <切出来的词,合计在多少个邮件中出现该词>
 	 */
 	public Map<String, Double> createRateMap(String filePath) throws Exception {
 		Map<String, Double> rates = new HashMap<String, Double>();
@@ -34,49 +46,47 @@ public class BayesMailPredict {
 		if (children == null || children.length == 0) {
 			return rates;
 		}
-		Map<String, Double> wordMaps = new HashMap<String, Double>();
+		// 统计全部词
+		Set<String> allWords = Sets.newHashSet();
 		for (File child : children) {
 			String contents = FileUtils.readFileToString(child, "UTF-8");
-			List<String> words = AnsjUtil.segment(contents);
-			for (String word : words) {
-				wordMaps.put(word, wordMaps.containsKey(word) ? wordMaps.get(word) + 1 : 1);
-			}
+			allWords.addAll(AnsjUtil.segment(contents));
 		}
-		double rate = 0.0;
-		for (Iterator<String> it = wordMaps.keySet().iterator(); it.hasNext();) {
-			String key = (String) it.next();
-			rate = wordMaps.get(key) / wordMaps.size();
-			rates.put(key, rate);
+		for (File child : children) {
+			String contents = FileUtils.readFileToString(child, "UTF-8");
+			// 统计每一篇文章中不重复的词
+			Set<String> words = Sets.newHashSet(AnsjUtil.segment(contents));
+			for (String word : words) {
+				if (allWords.contains(word)) {
+					rates.put(word, rates.get(word) == null ? 1D : rates.get(word) + 1);
+				}
+			}
 		}
 		return rates;
 	}
 
 	/**
 	 * 统计垃圾邮件中词综合正常邮件后的概率<br />
-	 * 
-	 * word垃圾邮件预测值=垃圾概率/(垃圾概率+正常概率)
 	 */
-	public Map<String, Double> createPredictMap(Map<String, Double> spamRates, Map<String, Double> normalRates) {
-		Map<String, Double> preditRates = new HashMap<String, Double>();
+	public Map<String, WordInfo> createPredictMap(Map<String, Double> spamRates, Map<String, Double> normalRates) {
+		Map<String, WordInfo> preditRates = Maps.newHashMap();
 		for (Iterator<String> it = spamRates.keySet().iterator(); it.hasNext();) {
 			String key = (String) it.next();
-			double spamRate = spamRates.get(key);
-			double normalRate = 0.0001;
+			double spamRate = (spamRates.get(key) + 1) / (SPAM_EMAIL_SIZE + 2);
+			double normalCount = 0;
 			if (normalRates.containsKey(key)) {
-				normalRate = normalRates.get(key);
+				normalCount = normalRates.get(key);
 			}
-			// 贝叶斯公式
-			double bayesRate = (Consts.SPAM_RATE * spamRate) / (Consts.SPAM_RATE * spamRate + (1 - Consts.SPAM_RATE) * normalRate);
-			preditRates.put(key, bayesRate);
+			double normalRate = (normalCount + 1) / (NORMAL_EMAIL_SIZE + 2);
+			preditRates.put(key, new WordInfo(key, normalRate, spamRate));
 		}
 		return preditRates;
 	}
 
 	/**
 	 * 给定邮件,分词,根据分词结果判断是垃圾邮件的概率<br />
-	 * P(Spam|t1,t2,t3……tn)=（P1*P2*……PN）/(P1*P2*……PN+(1-P1)*(1-P2)*……(1-PN))
 	 */
-	public void judgeMail(String filePath, Map<String, Double> preditRates) throws Exception {
+	public void judgeMail(String filePath, Map<String, WordInfo> preditRates) throws Exception {
 		File parent = new File(filePath);
 		if (parent == null || !parent.isDirectory()) {
 			return;
@@ -87,16 +97,16 @@ public class BayesMailPredict {
 		}
 		for (File child : children) {
 			List<String> words = AnsjUtil.segment(FileUtils.readFileToString(child));
-			double rate = 1.0;
-			double wordRate = 1.0;
+			double normalRate = 1.0;
+			double spamRate = 1.0;
 			for (String word : words) {
 				if (preditRates.containsKey(word)) {
-					double predit = preditRates.get(word);
-					wordRate *= 1 - predit;
-					rate *= predit;
+					WordInfo predit = preditRates.get(word);
+					normalRate *= predit.getNormalRate();
+					spamRate *= predit.getSpamRate();
 				}
 			}
-			double probability = rate / (rate + wordRate);
+			double probability = spamRate / (spamRate + normalRate);
 			if (probability > 0.5) {
 				System.err.println(child.getName() + "\t 这是垃圾邮件 \t" + probability);
 			} else {
@@ -106,6 +116,10 @@ public class BayesMailPredict {
 	}
 
 	public void start() throws Exception {
+		// 0、pre
+		NORMAL_EMAIL_SIZE = new File(Consts.NORMAL_EMAIL_PATH).listFiles().length;
+		SPAM_EMAIL_SIZE = new File(Consts.SPAM_EMAIL_PATH).listFiles().length;
+
 		// 1、计算正常邮件语料的词频
 		Map<String, Double> normalRates = createRateMap(Consts.NORMAL_EMAIL_PATH);
 		PrintUtils.printMap("正常邮件语料", normalRates);
@@ -115,15 +129,14 @@ public class BayesMailPredict {
 		PrintUtils.printMap("垃圾邮件语料", spamRates);
 
 		// 3、应用bayes公式计算垃圾邮件中词对判定垃圾邮件的概率值
-		Map<String, Double> preditRates = createPredictMap(spamRates, normalRates);
-		PrintUtils.printMap("预测", preditRates);
+		Map<String, WordInfo> preditRates = createPredictMap(spamRates, normalRates);
 
 		// 4、根据分词结果判断是垃圾邮件的概率
 		judgeMail(Consts.TEST_EMAIL_PATH, preditRates);
 	}
 
 	public static void main(String[] args) throws Exception {
-		new BayesMailPredict().start();
+		new BayesMailPredict2().start();
 	}
 
 }
