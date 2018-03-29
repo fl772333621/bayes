@@ -21,16 +21,20 @@ import com.google.common.collect.Lists;
  * 
  * @author mengwei
  */
-public class BayesMailDetection {
+public class BayesMailPredict {
 
 	/**
-	 * 邮件存放的基准路径
+	 * 邮件存放的基准路径 "D:\\Bayes\\chinese_email\\";
 	 */
 	public static final String BASE_PATH = "D:\\Bayes\\email\\";
 	/**
 	 * 正常邮件语料
 	 */
 	public static final String NORMAL_EMAIL_PATH = BASE_PATH + "ham\\";
+	/**
+	 * 垃圾邮件先验概率
+	 */
+	public static double SPAM_RATE = 0.5D;
 	/**
 	 * 垃圾邮件语料
 	 */
@@ -40,27 +44,10 @@ public class BayesMailDetection {
 	 */
 	public static final String TEST_EMAIL_PATH = BASE_PATH + "test\\";
 
-	public static void main(String[] args) throws Exception {
-		// 1、计算正常邮件语料的词频
-		Map<String, Double> normalRates = createRateMap(NORMAL_EMAIL_PATH);
-		printMap("正常邮件语料", normalRates);
-
-		// 2、计算垃圾邮件语料的词频
-		Map<String, Double> spamRates = createRateMap(SPAM_EMAIL_PATH);
-		printMap("垃圾邮件语料", spamRates);
-
-		// 3、应用bayes公式计算垃圾邮件中词对判定垃圾邮件的概率值
-		Map<String, Double> preditRates = createPredictMap(spamRates, normalRates);
-		printMap("预测", preditRates);
-
-		// 4、根据分词结果判断是垃圾邮件的概率
-		judgeMail(TEST_EMAIL_PATH, preditRates);
-	}
-
 	/**
 	 * 从给定的垃圾邮件、正常邮件语料中建立map <切出来的词,出现的频率>
 	 */
-	public static Map<String, Double> createRateMap(String filePath) throws Exception {
+	public Map<String, Double> createRateMap(String filePath) throws Exception {
 		Map<String, Double> rates = new HashMap<String, Double>();
 		File parent = new File(filePath);
 		if (parent == null || !parent.isDirectory()) {
@@ -75,9 +62,6 @@ public class BayesMailDetection {
 			String contents = FileUtils.readFileToString(child, "UTF-8");
 			List<String> words = segment(contents);
 			for (String word : words) {
-				if (word == null || word.trim().isEmpty() || word.length() < 2) {
-					continue;
-				}
 				wordMaps.put(word, wordMaps.containsKey(word) ? wordMaps.get(word) + 1 : 1);
 			}
 		}
@@ -91,29 +75,31 @@ public class BayesMailDetection {
 	}
 
 	/**
-	 * 应用bayes公式计算垃圾邮件中词对判定垃圾邮件的概率值<br />
-	 * 邮件中出现word时<br />
-	 * 该邮件为垃圾邮件的概率 P(Spam|word) =P(Spam)/P(word)*P(word|Spam)
+	 * 统计垃圾邮件中词综合正常邮件后的概率<br />
+	 * 
+	 * word垃圾邮件预测值=垃圾概率/(垃圾概率+正常概率)
 	 */
-	public static Map<String, Double> createPredictMap(Map<String, Double> spamRates, Map<String, Double> normalRates) {
+	public Map<String, Double> createPredictMap(Map<String, Double> spamRates, Map<String, Double> normalRates) {
 		Map<String, Double> preditRates = new HashMap<String, Double>();
 		for (Iterator<String> it = spamRates.keySet().iterator(); it.hasNext();) {
 			String key = (String) it.next();
-			double rate = spamRates.get(key);
-			double allRate = rate;
+			double spamRate = spamRates.get(key);
+			double normalRate = 1;
 			if (normalRates.containsKey(key)) {
-				allRate += normalRates.get(key);
+				normalRate = normalRates.get(key);
 			}
-			preditRates.put(key, rate / allRate);
+			// 贝叶斯公式
+			double bayesRate = SPAM_RATE * spamRate / (SPAM_RATE * spamRate + (1 - SPAM_RATE) * normalRate);
+			preditRates.put(key, bayesRate);
 		}
 		return preditRates;
 	}
 
 	/**
-	 * 给定邮件,分词,根据分词结果判断是垃圾邮件的概率
+	 * 给定邮件,分词,根据分词结果判断是垃圾邮件的概率<br />
 	 * P(Spam|t1,t2,t3……tn)=（P1*P2*……PN）/(P1*P2*……PN+(1-P1)*(1-P2)*……(1-PN))
 	 */
-	public static void judgeMail(String filePath, Map<String, Double> preditRates) throws Exception {
+	public void judgeMail(String filePath, Map<String, Double> preditRates) throws Exception {
 		File parent = new File(filePath);
 		if (parent == null || !parent.isDirectory()) {
 			return;
@@ -145,7 +131,7 @@ public class BayesMailDetection {
 	/**
 	 * 中文分词
 	 */
-	public static List<String> segment(String message) {
+	public List<String> segment(String message) {
 		Result result = BaseAnalysis.parse(message);
 		List<Term> terms = result.getTerms();
 		List<String> words = Lists.newArrayList();
@@ -164,7 +150,7 @@ public class BayesMailDetection {
 		return words;
 	}
 
-	public static void printMap(String message, Map<String, Double> datas) {
+	public void printMap(String message, Map<String, Double> datas) {
 		System.out.println("===== " + message + " =====");
 		if (datas == null || datas.isEmpty()) {
 			return;
@@ -172,6 +158,27 @@ public class BayesMailDetection {
 		for (String key : datas.keySet()) {
 			System.out.println(key + "\t\t" + datas.get(key));
 		}
+	}
+
+	public void start() throws Exception {
+		// 1、计算正常邮件语料的词频
+		Map<String, Double> normalRates = createRateMap(NORMAL_EMAIL_PATH);
+		printMap("正常邮件语料", normalRates);
+
+		// 2、计算垃圾邮件语料的词频
+		Map<String, Double> spamRates = createRateMap(SPAM_EMAIL_PATH);
+		printMap("垃圾邮件语料", spamRates);
+
+		// 3、应用bayes公式计算垃圾邮件中词对判定垃圾邮件的概率值
+		Map<String, Double> preditRates = createPredictMap(spamRates, normalRates);
+		printMap("预测", preditRates);
+
+		// 4、根据分词结果判断是垃圾邮件的概率
+		judgeMail(TEST_EMAIL_PATH, preditRates);
+	}
+
+	public static void main(String[] args) throws Exception {
+		new BayesMailPredict().start();
 	}
 
 }
