@@ -14,7 +14,7 @@ import com.mfanw.test.bayes.utils.PrintUtils;
 /**
  * <b>贝叶斯垃圾邮件检测<b>
  * <p>
- * 利用朴素贝叶斯原理对邮件进行分类
+ * 利用朴素贝叶斯原理检测垃圾邮件 - 主要利用词数词频
  * </p>
  * 
  * @author mengwei
@@ -22,7 +22,7 @@ import com.mfanw.test.bayes.utils.PrintUtils;
 public class BayesMailPredict {
 
 	/**
-	 * 从给定的垃圾邮件、正常邮件语料中建立map <切出来的词,出现的频率>
+	 * 从给定的垃圾邮件、正常邮件语料中建立map <切出来的词,出现的概率>
 	 */
 	public Map<String, Double> createRateMap(String filePath) throws Exception {
 		Map<String, Double> rates = new HashMap<String, Double>();
@@ -35,26 +35,32 @@ public class BayesMailPredict {
 			return rates;
 		}
 		Map<String, Double> wordMaps = new HashMap<String, Double>();
+		int wordSize = 0;
 		for (File child : children) {
 			String contents = FileUtils.readFileToString(child, "UTF-8");
 			List<String> words = AnsjUtil.segment(contents);
+			// 统计所有文档中所有词的数目总和
+			wordSize += words.size();
+			// 计算每一个词的词频
 			for (String word : words) {
 				wordMaps.put(word, wordMaps.containsKey(word) ? wordMaps.get(word) + 1 : 1);
 			}
 		}
+		// 依据词频计算出概率
 		double rate = 0.0;
 		for (Iterator<String> it = wordMaps.keySet().iterator(); it.hasNext();) {
 			String key = (String) it.next();
-			rate = wordMaps.get(key) / wordMaps.size();
+			rate = wordMaps.get(key) / wordSize;
 			rates.put(key, rate);
 		}
 		return rates;
 	}
 
 	/**
-	 * 统计垃圾邮件中词综合正常邮件后的概率<br />
-	 * 
-	 * word垃圾邮件预测值=垃圾概率/(垃圾概率+正常概率)
+	 * 求：该词出现后，判定为垃圾邮件的概率 <br />
+	 * A行：P(垃圾|词)=P(垃圾)*P(词|垃圾)/P(词) <br />
+	 * B行：P(词)=P(垃圾)*P(词|垃圾)+P(正常)*P(词|正常) <br />
+	 * 综合AB两行：P(垃圾|词)=P(垃圾)*P(词|垃圾)/(P(垃圾)*P(词|垃圾)+P(正常)*P(词|正常))
 	 */
 	public Map<String, Double> createPredictMap(Map<String, Double> spamRates, Map<String, Double> normalRates) {
 		Map<String, Double> preditRates = new HashMap<String, Double>();

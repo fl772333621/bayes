@@ -17,7 +17,7 @@ import com.mfanw.test.bayes.utils.PrintUtils;
 /**
  * <b>贝叶斯垃圾邮件检测<b>
  * <p>
- * 利用朴素贝叶斯原理对邮件进行分类
+ * 利用朴素贝叶斯原理检测垃圾邮件 - 主要利用邮件个数
  * </p>
  * 
  * @author mengwei
@@ -67,17 +67,17 @@ public class BayesMailPredict2 {
 
 	/**
 	 * 统计垃圾邮件中词综合正常邮件后的概率<br />
+	 * 似然估计
 	 */
 	public Map<String, WordInfo> createPredictMap(Map<String, Double> spamRates, Map<String, Double> normalRates) {
 		Map<String, WordInfo> preditRates = Maps.newHashMap();
 		for (Iterator<String> it = spamRates.keySet().iterator(); it.hasNext();) {
 			String key = (String) it.next();
-			double spamRate = (spamRates.get(key) + 1) / (SPAM_EMAIL_SIZE + 2);
-			double normalCount = 0;
-			if (normalRates.containsKey(key)) {
-				normalCount = normalRates.get(key);
-			}
+			double normalCount = normalRates.get(key) == null ? 0D : normalRates.get(key);
+			// 利用似然估计计算概率
 			double normalRate = (normalCount + 1) / (NORMAL_EMAIL_SIZE + 2);
+			double spamRate = (spamRates.get(key) + 1) / (SPAM_EMAIL_SIZE + 2);
+			// 将两个概率存储
 			preditRates.put(key, new WordInfo(key, normalRate, spamRate));
 		}
 		return preditRates;
