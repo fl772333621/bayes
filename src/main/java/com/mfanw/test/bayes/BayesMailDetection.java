@@ -69,6 +69,9 @@ public class BayesMailDetection {
 			String contents = FileUtils.readFileToString(child);
 			List<String> words = segment(contents);
 			for (String word : words) {
+				if (word == null || word.trim().isEmpty() || word.length() < 2) {
+					continue;
+				}
 				wordMaps.put(word, wordMaps.containsKey(word) ? wordMaps.get(word) + 1 : 1);
 			}
 		}
@@ -126,9 +129,9 @@ public class BayesMailDetection {
 			}
 			double probability = rate / (rate + wordRate);
 			if (probability > 0.5) {
-				System.out.println(child.getName() + " --> 这是正常邮件");
+				System.out.println(child.getName() + " --> 这是正常邮件 " + probability);
 			} else {
-				System.err.println(child.getName() + " --> 这是垃圾邮件");
+				System.err.println(child.getName() + " --> 这是垃圾邮件 " + probability);
 			}
 		}
 	}
