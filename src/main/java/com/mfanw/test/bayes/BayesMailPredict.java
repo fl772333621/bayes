@@ -34,7 +34,7 @@ public class BayesMailPredict {
 	/**
 	 * 垃圾邮件先验概率
 	 */
-	public static double SPAM_RATE = 0.5D;
+	public static double SPAM_RATE = 0.01D;
 	/**
 	 * 垃圾邮件语料
 	 */
@@ -84,7 +84,7 @@ public class BayesMailPredict {
 		for (Iterator<String> it = spamRates.keySet().iterator(); it.hasNext();) {
 			String key = (String) it.next();
 			double spamRate = spamRates.get(key);
-			double normalRate = 1;
+			double normalRate = 0.00001;
 			if (normalRates.containsKey(key)) {
 				normalRate = normalRates.get(key);
 			}
