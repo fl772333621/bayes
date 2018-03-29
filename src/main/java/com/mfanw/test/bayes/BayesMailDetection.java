@@ -38,15 +38,21 @@ public class BayesMailDetection {
 	/**
 	 * 要判别的邮件
 	 */
-	public static final String TEST_EMAIL_PATH = BASE_PATH + "ham\\";
+	public static final String TEST_EMAIL_PATH = BASE_PATH + "test\\";
 
 	public static void main(String[] args) throws Exception {
 		// 1、计算正常邮件语料的词频
 		Map<String, Double> normalRates = createRateMap(NORMAL_EMAIL_PATH);
+		printMap("正常邮件语料", normalRates);
+
 		// 2、计算垃圾邮件语料的词频
 		Map<String, Double> spamRates = createRateMap(SPAM_EMAIL_PATH);
+		printMap("垃圾邮件语料", spamRates);
+
 		// 3、应用bayes公式计算垃圾邮件中词对判定垃圾邮件的概率值
 		Map<String, Double> preditRates = createPredictMap(spamRates, normalRates);
+		printMap("预测", preditRates);
+
 		// 4、根据分词结果判断是垃圾邮件的概率
 		judgeMail(TEST_EMAIL_PATH, preditRates);
 	}
@@ -64,9 +70,9 @@ public class BayesMailDetection {
 		if (children == null || children.length == 0) {
 			return rates;
 		}
-		Map<String, Integer> wordMaps = new HashMap<String, Integer>();
+		Map<String, Double> wordMaps = new HashMap<String, Double>();
 		for (File child : children) {
-			String contents = FileUtils.readFileToString(child);
+			String contents = FileUtils.readFileToString(child, "UTF-8");
 			List<String> words = segment(contents);
 			for (String word : words) {
 				if (word == null || word.trim().isEmpty() || word.length() < 2) {
@@ -129,9 +135,9 @@ public class BayesMailDetection {
 			}
 			double probability = rate / (rate + wordRate);
 			if (probability > 0.5) {
-				System.out.println(child.getName() + " --> 这是正常邮件 " + probability);
+				System.err.println(child.getName() + "\t 这是垃圾邮件 \t" + probability);
 			} else {
-				System.err.println(child.getName() + " --> 这是垃圾邮件 " + probability);
+				System.out.println(child.getName() + "\t 这是正常邮件 \t" + probability);
 			}
 		}
 	}
@@ -151,10 +157,21 @@ public class BayesMailDetection {
 				continue;
 			}
 			if (term.getName() == null || term.getName().isEmpty() || term.getName().length() < 2) {
-				words.add(term.getName());
+				continue;
 			}
+			words.add(term.getName());
 		}
 		return words;
+	}
+
+	public static void printMap(String message, Map<String, Double> datas) {
+		System.out.println("===== " + message + " =====");
+		if (datas == null || datas.isEmpty()) {
+			return;
+		}
+		for (String key : datas.keySet()) {
+			System.out.println(key + "\t\t" + datas.get(key));
+		}
 	}
 
 }
