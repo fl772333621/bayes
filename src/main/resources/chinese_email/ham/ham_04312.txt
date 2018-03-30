@@ -1,0 +1,53 @@
+Return-Path: <fan@ns.6test.edu.cn>
+Received: from tsinghua.org.cn ([210.77.143.228])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id i9D8RUso021901
+	for <chen@ccert.edu.cn>; Wed, 13 Oct 2004 16:27:37 +0800
+Received: (eyou send program); Wed, 13 Oct 2004 16:38:18 +0800
+Received: (eyou send program); Wed, 13 Oct 2004 16:37:28 +0800
+X-EYOU-ORIGINAL-IP: 202.38.99.65
+X-EYOU-ENVELOPE-MAILFROM: toefl-bounces@server.cool-meeting.com
+Received: from unknown (HELO server.cool-meeting.com) (unknown@202.38.99.65)
+ by 210.77.143.228 with SMTP; Wed, 13 Oct 2004 16:37:28 +0800
+Received: from server.cool-meeting.com (localhost.localdomain [127.0.0.1])
+	by server.cool-meeting.com (8.12.8/8.12.8) with ESMTP id i9D8VAlg016085
+	for <chen@ccert.edu.cn>; Wed, 13 Oct 2004 16:31:24 +0800
+Received: from ns.6test.edu.cn ([202.38.99.18])
+	by server.cool-meeting.com (8.12.8/8.12.8) with ESMTP id i9D8V9kr016081
+	for <chen@ccert.edu.cn>; Wed, 13 Oct 2004 16:31:09 +0800
+Received: from [210.25.128.109] (helo=tsinghua89o1rm)
+	by ns.6test.edu.cn with asmtp (Exim 4.12) id 1CHemU-0009CS-00
+	for Toefl@server.cool-meeting.com; Wed, 13 Oct 2004 16:46:46 +0800
+Message-ID: <001001c4b0fd$f7b141a0$6d8019d2@tsinghua89o1rm>
+From: "fan" <fan@ns.6test.edu.cn>
+To: chen@ccert.edu.cn
+Date: Wed, 13 Oct 2004 16:23:20 +0800
+MIME-Version: 1.0
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2600.0000
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2600.0000
+Cc: 
+Subject: =?gb2312?B?UmU6IMTQxfPT0dPQsci9z9bYtcTVrs7xo6zO0rjDsru4w7DR19S8urXEuaTXyr3ouPjL+7Ch?=
+X-BeenThere: toefl@server.cool-meeting.com
+X-Mailman-Version: 2.1.2
+Precedence: list
+List-Id: &#26446;&#26143;&#21644;&#20182;&#30340;&#23398;&#29983;&#20204;
+	<toefl.server.cool-meeting.com>
+List-Unsubscribe: <http://server.cool-meeting.com/mailman/listinfo/toefl>,
+	<mailto:toefl-request@server.cool-meeting.com?subject=unsubscribe>
+List-Archive: <http://server.cool-meeting.com/mailman/private/toefl>
+List-Post: <mailto:toefl@server.cool-meeting.com>
+List-Help: <mailto:toefl-request@server.cool-meeting.com?subject=help>
+List-Subscribe: <http://server.cool-meeting.com/mailman/listinfo/toefl>,
+	<mailto:toefl-request@server.cool-meeting.com?subject=subscribe>
+Content-Type: multipart/mixed; boundary="===============5756650826320544=="
+Sender: toefl-bounces@server.cool-meeting.com
+Errors-To: toefl-bounces@server.cool-meeting.com
+X-UIDL: 0GF"!6-1"!j2R"!K2o"!
+
+  牛人，我觉得你该考虑的不是借不借工资给他
+:     我和男友认识时间不是特别长，不过彼此都对对方比较钟情，和他交往以后，才知道他不是特别善于理财，工作五年了，不仅没有存钱，还有一万五千左右的债务。
+:     刚开始他对我说银行一直催他还信用卡里的贷款，我担心他的信用受影响，就把自己的一点点积蓄（我去年毕业的，给家里寄了大概7000多，就只剩下不多的积蓄了）去借给他了，弄得我手里只剩150块左右，离发工资日还有半个月。不过我平常比较省，花钱的地方也少，也就还�
+:     后来，因为发生了一点点事情，他把钱还给我了，这件事情是什么我就不说了，倘若不是这趟意外，我估计他在今年是不会还我钱的。
+: ...................
+

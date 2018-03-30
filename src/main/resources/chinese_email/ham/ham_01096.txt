@@ -1,0 +1,27 @@
+Return-Path: <ding@rbl.ccert.edu.cn>
+Received: from rbl.ccert.edu.cn (rbl.ccert.edu.cn [202.112.57.71])
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id i97Hunbd023636
+	for <xing@ccert.edu.cn>; Fri, 8 Oct 2004 01:56:50 +0800 (CST)
+Received: from rbl.ccert.edu.cn (localhost.localdomain [127.0.0.1])
+	by rbl.ccert.edu.cn (8.12.11/8.12.11) with ESMTP id i97I2iWP021767
+	for <xing@ccert.edu.cn>; Fri, 8 Oct 2004 02:02:44 +0800
+Received: (from qa@localhost)
+	by rbl.ccert.edu.cn (8.12.11/8.12.11/Submit) id i97I2iUp021766;
+	Fri, 8 Oct 2004 02:02:44 +0800
+Date: Fri, 8 Oct 2004 02:02:44 +0800
+Message-Id: <200410071802.i97I2iUp021766@rbl.ccert.edu.cn>
+Subject: =?gb2312?B?UmU6ILCz1qq1wLXEw8C5+qOh?=
+To: xing@ccert.edu.cn
+From: Tran Quang Anh <ding@cernet.edu.cn>
+Content-Type: multipart/mixed; boundary="----------=_1097172164-1044-50"
+MIME-Version: 1.0
+X-UIDL: 95~!!<Q>"!1<E"!]Z3"!
+
+: 中国的税赋全世界第二重，前段时间报纸报道了的，呵呵。
+: 不要以为中国不交税，中国交税不但重，而且，取之于民，不用于民。
+: 看看个人所得税就知道了，月薪超过7000，基本上就是20％的税率了。
+: ...................
+7000的话交税865元，离20％差很远呐……
+如果月薪7000的话，要扣除10％左右的住房公积金、8％的养老保险、2％的医疗保险、0.5％的失业保险……再交税的话是584.5元，也就8％
+如果自己的父母是工薪阶层，别人的父母是小资家庭，那么就要说自己的父母不好，认别家作父母去？我不会出国，我要看这自己的家强大起来。
+

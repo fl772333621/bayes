@@ -1,0 +1,35 @@
+Return-Path: <shi@home.ccert.edu.cn>
+Received: from home.ccert.edu.cn (localhost [127.0.0.1])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id j2H1Jstl016811;
+	Thu, 17 Mar 2005 09:19:54 +0800
+Received: (from majordomo@localhost)
+	by home.ccert.edu.cn (8.13.1/8.13.1/Submit) id j2H1JsV9016810;
+	Thu, 17 Mar 2005 09:19:54 +0800
+X-Authentication-Warning: home.ccert.edu.cn: majordomo set sender to owner-ccertstaff using -f
+Received: from kill ([202.112.50.201])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with SMTP id j2H1JoV9016805
+	for <lei@ccert.edu.cn>; Thu, 17 Mar 2005 09:19:51 +0800
+Message-Id: <200503170119.j2H1JoV9016805@home.ccert.edu.cn>
+Date: Thu, 17 Mar 2005 09:30:09 +0800
+From: "shi" <shi@ccert.edu.cn>
+Reply-To: shi@ccert.edu.cn
+To: lei@ccert.edu.cn
+Subject: =?gb2312?B?UmU6INPWtb3J+sjVo6y78tDtsrvTprjDzKvJy7jQo7qjqQ==?=
+Organization: CCERT
+X-mailer: Foxmail 5.0 beta2 [cn]
+Mime-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: 8bit
+X-MIME-Autoconverted: from base64 to 8bit by home.ccert.edu.cn id j2H1JsV9016808
+Sender: owner-ccertstaff@home.ccert.edu.cn
+Precedence: bulk
+X-UIDL: TW7!!1W;!!K#;"!#P#!!
+
+感觉像在说自己.....
+刚过20岁生日.......
+: 忽然有点害怕过生日，不是怕变老，只是觉得孤独。
+: 去年的这个时候，我在糊涂上发帖子祝自己生日快乐，今年还是自己祝自己生日快乐，也相信生日那天会收到家人朋友的祝福，可是这句“生日快乐”是不是客套的都失去了它自己的意义了呢。
+: 今年算是真正的整二十岁生日了吧，在外地上学，没法和爸爸妈妈一起，现在真的好怀念在家的日子，想想真的就泪流满面，想爸爸妈妈烧的好吃的，和他们一起聊天的时光。从小偶就是一个话比较多的人，每天放学回家从吃饭前一直扯到洗完碗，有时还坐在客厅靠在爸爸或妈妈怀里
+: ...................
+

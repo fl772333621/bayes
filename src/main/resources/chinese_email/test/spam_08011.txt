@@ -1,0 +1,26 @@
+Return-Path: <guo@hotmail.com>
+Received: from tomato ([202.195.182.214])
+	by home.ccert.edu.cn (MIMEDefang) with ESMTP id NOQUEUE
+	for <chen@ccert.edu.cn>; Thu, 09 Jun 2005 09:31:37 +0800 (CST)
+Message-ID: <200506090931.0.666521557699486@home.ccert.edu.cn>
+From: "guo" <guo@hotmail.com>
+To: chen@ccert.edu.cn
+Subject: =?gb2312?B?vNu48bHt?=
+Mime-Version: 1.0
+Content-Type: text/plain; charset="GB2312"
+Date: Thu, 9 Jun 2005 09:48:59
+
+
+"赤水河酒"团购价格表
+
+序 号	品 种	规 格	单 位	团购价(元)
+1	一渡赤水河46°	500ml	瓶	26
+2	二渡赤水河46°	500ml	瓶	38
+3	三渡赤水河46°	500ml	瓶	60
+4	大运酒46°	500ml	瓶	80
+5	铜 樽46°	500ml	瓶	90
+6	银 樽52°	500ml	瓶	164
+7	金 樽52°	800ml	瓶	320
+
+
+

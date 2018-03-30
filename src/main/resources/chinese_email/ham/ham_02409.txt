@@ -1,0 +1,35 @@
+Return-Path: <gao@tsinghua.org.cn>
+Received: from tsinghua.org.cn ([210.77.143.228])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id iB17nfeO020958
+	for <tan@ccert.edu.cn>; Wed, 1 Dec 2004 15:49:42 +0800
+Received: (eyou send program); Wed, 01 Dec 2004 16:01:49 +0800
+X-EYOU-ORIGINAL-IP: 166.111.203.24
+X-EYOU-ENVELOPE-MAILFROM: chenguangying@tsinghua.org.cn
+Received: from unknown (HELO ccertdawei) (unknown@166.111.203.24)
+ by 210.77.143.228 with SMTP; Wed, 01 Dec 2004 16:01:49 +0800
+Message-ID: <00d501c4d77c$051fe770$18cb6fa6@CCERTDAWEI>
+From: "gao" <gao@tsinghua.org.cn>
+To: tan@ccert.edu.cn
+Subject: [VIRUS-LIKED] Fw: test
+Date: Wed, 1 Dec 2004 16:01:46 +0800
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="----=_NextPart_000_00D1_01C4D7BF.0F38C2C0"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2900.2180
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+X-UIDL: 'Up!!&[P!!@Y("!4'i!!
+
+1. 如果选择的备选项有一个明显好的，大家不会愁；
+2. 其次就是各有优劣，那只能靠自己来取舍，选学校专业既是如此
+听听大家的意见很好，决定自己做，因为取舍受影响的只是自己
+每个人的经历看法都有自己的有色眼镜
+比如一个人清华毕业的，他可能觉得学校的综合环境比专业重要
+相反一个清华毕业的因为专业不好没找到好工作，反而可能告诉你专业重要
+基本上，这个，很难
+: 你试的前提是什么？ 还不是看别人的评价，你的感觉来得信息啊
+: 回到你前面的话题就是，不要看起点，要看加速度，前提是，你能保证你能获得加
+: 速度。 很多人都把后面那句话藏起来了，用前面的话给自己做借口....
+: ...................
+

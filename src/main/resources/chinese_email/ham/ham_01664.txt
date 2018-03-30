@@ -1,0 +1,42 @@
+Return-Path: <han@tsinghua.edu.cn>
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id iBG509Si018987
+	for <xiao@ccert.edu.cn>; Thu, 16 Dec 2004 13:00:09 +0800 (CST)
+Received: (eyou send program); Thu, 16 Dec 2004 12:44:47 +0800
+Message-ID: <303172286.15946@mail.tsinghua.edu.cn>
+Received: from unknown (HELO mail.tsinghua.edu.cn) (unknown@127.0.0.1)
+ by 127.0.0.1 with SMTP; Thu, 16 Dec 2004 12:44:47 +0800
+X-scanvirus: By Symantec Scan Engine
+X-scanresult: CLEAN
+Received: (eqmail ); 16 Dec 2004 04:18:03 -0000
+Received: from unknown (HELO sony) (duanhx@166.111.204.106)
+  by localhost with SMTP; 16 Dec 2004 04:18:03 -0000
+Message-ID: <006601c4e328$5d4a6490$6acc6fa6@sony>
+From: "han" <han@tsinghua.edu.cn>
+To: xiao@ccert.edu.cn
+Cc: <zhuang@ccert.edu.cn>, <tao@ccert.edu.cn>, <yuan@ccert.edu.cn>,
+        <cheng@ccert.edu.cn>, <zeng@ccert.edu.cn>, <rao@ccert.edu.cn>,
+        <chen@ccert.edu.cn>, <xia@ccert.edu.cn>
+Subject: =?gb2312?B?ofEgtsHR0LrztdrSu7TO1dK5pNf3yqew3KOozOW87Ln9udi687G7xLPQqbnYz7W2pcHLo6m687XE
+t7TLvA==?=
+Date: Thu, 16 Dec 2004 12:33:15 +0800
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="----=_NextPart_000_0064_01C4E36B.6A66E2F0"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2900.2180
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+X-UIDL: ?4?"!E%/"!<hV"!\>G!!
+
+夏天越来越近了，去年的这个季节在郁闷中渡过，上天总是把我安排这一个个尴尬的旋涡里，从小到而立之年，有N个夏天在混沌中渡过，难道这就是我的命运安排吗？
+命运由性格来决定，是不是该再次反省自己到底是何种性格，该做何种道路的规划呢，是不是幼稚的想法太多呢，是不是没有真正看清自己的处境呢……一连串的问题在我脑海里盘绕，路在何方？
+想想那些急功尽力的指导原则下，囫囵吞枣地读书，结果是一无所获，留下下一次失败的隐患，想起那些取得一点成绩后的沾沾自喜，心里有很多懊悔，难道年轻的生命就要在这些“软货币”似的投入中消耗吗？
+确实需要改掉一些本末倒置的习惯了，改掉那些多愁善感、自以为是，改掉那些工作一分放松十分的懒惰行为，要珍重身边的任何人。
+要突破这个怪圈就要突破自己，不能再找那些没有可比性的参照物，自寻烦恼；要结合自己的情况找路径，不能攀比；不能再强求自己该是怎样，要顺自然；要学会树立自己的尊严，而不是庸俗的顾忌自己的脸面。
+无论如何都要坚持自己的道路，去年和今年初的失败告诉我，有些事情不能强求，但不代表永远得不到，相信自己的坚毅和不太低的智商能够得到心中的那片自由。
+想辉煌就要痛苦，就要放弃太多放纵的享受和娱乐，没有必要看到别人欢笑时自己伤感，自己的最大快乐就是枯燥和冷静，要注意强身健体，要抵住诱惑，但不能冷漠别人，更不能牵肠挂肚。
+一切在反思中前进，一切在细节中超然脱俗……
+思绪混乱，请您为我指路，谢谢！
+现在的我依然迷茫。。。。。。
+

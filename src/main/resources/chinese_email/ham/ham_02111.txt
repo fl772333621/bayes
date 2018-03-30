@@ -1,0 +1,23 @@
+Return-Path: <cheng@rbl.ccert.edu.cn>
+Received: from rbl.ccert.edu.cn (rbl.ccert.edu.cn [202.112.57.71])
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id i972Cse8013500
+	for <wen@ccert.edu.cn>; Thu, 7 Oct 2004 10:12:54 +0800 (CST)
+Received: from rbl.ccert.edu.cn (localhost.localdomain [127.0.0.1])
+	by rbl.ccert.edu.cn (8.12.11/8.12.11) with ESMTP id i972IqD5002183
+	for <wen@ccert.edu.cn>; Thu, 7 Oct 2004 10:18:52 +0800
+Received: (from qa@localhost)
+	by rbl.ccert.edu.cn (8.12.11/8.12.11/Submit) id i972IqOY002182;
+	Thu, 7 Oct 2004 10:18:52 +0800
+Date: Thu, 7 Oct 2004 10:18:52 +0800
+Message-Id: <200410070218.i972IqOY002182@rbl.ccert.edu.cn>
+Subject: =?gb2312?B?UmU6IM/rzOHHsLHP0rW/vNHQo6y087zSuPi149LivPuwog==?=
+To: wen@ccert.edu.cn
+From: Tran Quang Anh <cheng@cernet.edu.cn>
+Content-Type: multipart/mixed; boundary="----------=_1097115532-996-794"
+MIME-Version: 1.0
+X-UIDL: XiJ!!lB=!!\9""!4ck"!
+
+在职教育在中国的普及是个趋势，不需要那么大大学生呀。
+: 但是在我的意识里，这两年其实不说明什么问题，实际上的情况是，那些真正学业难以维继的人15，6岁开始打工工作的多得是，而那些可以继续学业的人，又白白耽误两年时间
+: 我的意思是，很多人高中毕业甚至初中毕业就是他们学习的终点了，不是所有没考上的都有重考的打算和经济条件的，在职业教育还很不发达的中国，你的计划是把他们早早的抛向社会，似乎更不合理
+

@@ -1,0 +1,49 @@
+Return-Path: <jin@home.ccert.edu.cn>
+Received: from home.ccert.edu.cn (localhost [127.0.0.1])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id iBF2imkD017253;
+	Wed, 15 Dec 2004 10:44:48 +0800
+Received: (from majordomo@localhost)
+	by home.ccert.edu.cn (8.13.1/8.13.1/Submit) id iBF2imql017252;
+	Wed, 15 Dec 2004 10:44:48 +0800
+X-Authentication-Warning: home.ccert.edu.cn: majordomo set sender to owner-ccertstaff using -f
+Received: from ns.6test.edu.cn (ns.6test.edu.cn [202.112.54.2])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id iBF2ilNs017248
+	for <ning@ccert.edu.cn>; Wed, 15 Dec 2004 10:44:48 +0800
+Received: from tu203047.tsinghua.edu.cn ([166.111.203.47] helo=wanglanjia)
+	by ns.6test.edu.cn with asmtp (Exim 4.12)
+	id 1CePlo-000BA7-00
+	for ccertstaff@ccert.edu.cn; Wed, 15 Dec 2004 11:24:08 +0800
+Message-ID: <00cb01c4e251$f7142f20$2fcb6fa6@wanglanjia>
+From: "jin" <jin@ns.6test.edu.cn>
+To: ning@ccert.edu.cn
+Subject: =?gb2312?B?ofEgzbvIu8/rxvDBy6G2x+/I1bSrxuahtw==?=
+Date: Wed, 15 Dec 2004 10:58:32 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_00C8_01C4E295.049ED8A0"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2800.1437
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1441
+Sender: owner-ccertstaff@home.ccert.edu.cn
+Precedence: bulk
+X-UIDL: ~^@"!![?"!#Ol"!7e0!!
+
+ 刚在家版看了一个贴子，立刻就想起了好多年前看过的《秋日传奇》了
+ 第一次看就喜欢上了卓斯顿这个人物，当然同时也为苏珊娜的遭遇遗憾
+ 当时不明白为什么导演在说明卓斯顿弃家而去的时候，没有做太多的说明
+ 而似乎我们也不会问太多的为什么， 因为在每个人的心中，似乎都会有对自由的追求，
+ 完全的自由，一望无际的大草原，映满眼界的绿色，奔腾的骏马，似乎是对这最好的表现
+ 
+ 当影片开始的时候，从几个人物的口中，我们似乎可以得出这种结论，老上校最喜欢的
+ 
+ 儿子是死在欧洲的那个，因为他毕业于明校，（^_^）。而随着影片的不短推进，我们
+ 可以很自然的发现父亲对卓斯顿的爱，甚至是欣赏，或者说，羡慕。
+ 当年，父亲限于自己的责任，一直留在草原，而卓斯顿似乎就是为了实现他所有无法实现
+ 的愿望和梦想而出现的化身，那心中野兽的呐喊每个人都会听到
+ 但是，听任这样的呐喊，自己必须付出代价，而更矛盾的是，那些自己所深深爱着的人也
+ 会因此收到伤害
+  而我们大多数的人，会听任这呐喊慢慢逝去，并非缺乏勇气而是因为我们珍视一些我们
+ 更加不愿意失去的东西， 所做的不过是 坐在电脑前 （有钱的去电影院，反对盗版！！）
+ ，为这些人物的悲欢离合 唏嘘不已。
+

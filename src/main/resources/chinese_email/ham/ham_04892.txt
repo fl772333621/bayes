@@ -1,0 +1,27 @@
+Return-Path: <zhou@rbl.ccert.edu.cn>
+Received: from rbl.ccert.edu.cn (rbl.ccert.edu.cn [202.112.57.71])
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id i97AwRuF018794
+	for <yi@ccert.edu.cn>; Thu, 7 Oct 2004 18:58:27 +0800 (CST)
+Received: from rbl.ccert.edu.cn (localhost.localdomain [127.0.0.1])
+	by rbl.ccert.edu.cn (8.12.11/8.12.11) with ESMTP id i97B4Ql1000983
+	for <yi@ccert.edu.cn>; Thu, 7 Oct 2004 19:04:26 +0800
+Received: (from qa@localhost)
+	by rbl.ccert.edu.cn (8.12.11/8.12.11/Submit) id i97B4Qod000982;
+	Thu, 7 Oct 2004 19:04:26 +0800
+Date: Thu, 7 Oct 2004 19:04:26 +0800
+Message-Id: <200410071104.i97B4Qod000982@rbl.ccert.edu.cn>
+Subject: =?gb2312?B?ofEgztK07cHLw7Sjv6O/o7+jvw==?=
+To: yi@ccert.edu.cn
+From: Tran Quang Anh <zhou@cernet.edu.cn>
+Content-Type: multipart/mixed; boundary="----------=_1097147066-996-884"
+MIME-Version: 1.0
+X-UIDL: >]\"!gao!!8HX"!^N*"!
+
+爱我所爱，我错了么？
+我不喜欢现在的学科，我是个急性子，对做实验太反感了，所以我不想再读下去了
+，现在有一个出国读硕士的机会，可是读出来以后基本上只能找到做实验的工作，
+或者是继续读博士，我想转行，可使所有的人都来反对我，父母骂我，朋友以为我
+神经病，他们都认为转行那么难，根本是不切实际的，为什么别人都能继续读下去
+，我非要转行，哪有什么人都能按照自己感兴趣的学科学习？我只是不能忍受做实
+验的学科，我有我喜欢的学科，爱我所爱，我错了么？我是真的顶不住这样的压力了。。。
+

@@ -1,0 +1,65 @@
+Return-Path: <weng@ns.6test.edu.cn>
+Received: from tsinghua.org.cn ([210.77.143.228])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id iAIG0IDp014744
+	for <pan@ccert.edu.cn>; Fri, 19 Nov 2004 00:00:19 +0800
+Received: (eyou send program); Fri, 19 Nov 2004 00:12:51 +0800
+Received: (eyou send program); Fri, 19 Nov 2004 00:12:51 +0800
+X-EYOU-ORIGINAL-IP: 210.77.143.235
+X-EYOU-ENVELOPE-MAILFROM: toefl-bounces@server.cool-meeting.com
+Received: from unknown (HELO eyou.net) (unknown@210.77.143.235)
+ by 210.77.143.228 with SMTP; Fri, 19 Nov 2004 00:12:51 +0800
+Received: (eyou send program); Fri, 19 Nov 2004 00:08:34 +0800
+Message-ID: <300794114.12491@eyou.net>
+Received: from 202.38.99.65 by 210.77.143.235 with SMTP; Fri, 19 Nov 2004 00:08:33 +0800
+Received: from server.cool-meeting.com (localhost.localdomain [127.0.0.1])
+	by server.cool-meeting.com (8.12.8/8.12.8) with ESMTP id iAIGQclZ017186
+	for <pan@ccert.edu.cn>; Fri, 19 Nov 2004 00:26:45 +0800
+Received: from ns.6test.edu.cn ([202.38.99.18])
+	by server.cool-meeting.com (8.12.8/8.12.8) with ESMTP id iAIGQVkr017182
+	for <pan@ccert.edu.cn>; Fri, 19 Nov 2004 00:26:31 +0800
+Received: from tu179067.tsinghua.edu.cn ([166.111.179.67] helo=IBM-E4AA49AF703)
+	by ns.6test.edu.cn with asmtp (Exim 4.12)
+	id 1CUpDN-0008Ki-00; Fri, 19 Nov 2004 00:32:57 +0800
+From: "weng" <weng@ns.6test.edu.cn>
+To: pan@ccert.edu.cn
+Subject: Re: [TOEFL] Google Unveils Scholar Search Tool
+X-mailer: Foxmail 4.2 [cn]
+Mime-Version: 1.0
+Content-Type: text/plain;
+      charset="GB2312"
+Date: Fri, 19 Nov 2004 0:12:31 +0800
+Message-Id: <E1CUpDN-0008Ki-00@ns.6test.edu.cn>
+Content-Transfer-Encoding: 8bit
+X-MIME-Autoconverted: from quoted-printable to 8bit by server.cool-meeting.com
+	id iAIGQVkr017182
+Cc: 
+X-BeenThere: toefl@server.cool-meeting.com
+X-Mailman-Version: 2.1.2
+Precedence: list
+List-Id: &#26446;&#26143;&#21644;&#20182;&#30340;&#23398;&#29983;&#20204;
+	<toefl.server.cool-meeting.com>
+List-Unsubscribe: <http://server.cool-meeting.com/mailman/listinfo/toefl>,
+	<mailto:toefl-request@server.cool-meeting.com?subject=unsubscribe>
+List-Archive: <http://server.cool-meeting.com/mailman/private/toefl>
+List-Post: <mailto:toefl@server.cool-meeting.com>
+List-Help: <mailto:toefl-request@server.cool-meeting.com?subject=help>
+List-Subscribe: <http://server.cool-meeting.com/mailman/listinfo/toefl>,
+	<mailto:toefl-request@server.cool-meeting.com?subject=subscribe>
+Sender: toefl-bounces@server.cool-meeting.com
+Errors-To: toefl-bounces@server.cool-meeting.com
+X-UIDL: _#j"!7B8"!\+k!!6*j!!
+
+我，上海GG
+78年，上海区级部门公务员，
+月薪7200，年中年终奖金一共6万左右
+平时还有胡乱发一些奖金，大概一年1到2万
+去年扣掉税什么的总共拿到14.7万(不包括发的购物卡什么的）
+LP，浙江MM
+78年，上海市级部门公务员，
+月薪7700，年中年终奖金一共7万左右
+平时还有也是胡乱发一些奖金，大概一年1到2万
+去年扣掉税什么的总共拿到16.8万(也不包括发的购物卡什么的）
+住房两套，都无贷款，一套140平，市价210万，自己住。
+一套120平方，租出去，一月5000，开的单位的车，每月补助2000元。
+我们加起来年薪30万左右，希望2年以后能到50万，能再买一套房子。另外，我们双方父母也是公务员，我家里父母有4套房子，市价1000万不到一点。虽然这个条件在上海还算不错，但是看到那么多有钱人买一千万的宾利，还是觉得自己钱不购用。
+

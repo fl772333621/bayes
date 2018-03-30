@@ -1,0 +1,36 @@
+Return-Path: <ren@compass.net.edu.cn>
+Received: from tsinghua.org.cn ([210.77.143.228])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id iAOE3t4q023979
+	for <lian@ccert.edu.cn>; Wed, 24 Nov 2004 22:03:56 +0800
+Received: (eyou send program); Wed, 24 Nov 2004 22:16:43 +0800
+Received: (eyou send program); Wed, 24 Nov 2004 22:16:42 +0800
+X-EYOU-ORIGINAL-IP: 210.77.143.235
+X-EYOU-ENVELOPE-MAILFROM: ys@compass.net.edu.cn
+Received: from unknown (HELO eyou.net) (unknown@210.77.143.235)
+ by 210.77.143.228 with SMTP; Wed, 24 Nov 2004 22:16:42 +0800
+Received: (eyou send program); Wed, 24 Nov 2004 22:12:10 +0800
+Message-ID: <301305530.17404@eyou.net>
+Received: from 202.38.188.130 by 210.77.143.235 with SMTP; Wed, 24 Nov 2004 22:12:08 +0800
+Received: from [210.25.128.113] ([210.25.128.113])
+	by compass.net.edu.cn (8.9.2/8.9.2) with ESMTP id WAA11870
+	for <lian@ccert.edu.cn>; Wed, 24 Nov 2004 22:19:37 +0800 (CST)
+Message-ID: <41A4971B.6040807@compass.net.edu.cn>
+Date: Wed, 24 Nov 2004 22:13:47 +0800
+From: Shaozhi Ye <ren@compass.net.edu.cn>
+User-Agent: Mozilla Thunderbird 0.9 (Windows/20041103)
+X-Accept-Language: en-us, en
+MIME-Version: 1.0
+To: lian@ccert.edu.cn
+Subject: Re: =?GB2312?B?zsrSu8/Cu/rG9w==?=
+References: <301289476.11048@eyou.net> <004d01c4d22d$63a36370$7203510a@CCERTDAWEI> <301304963.17405@eyou.net> <008101c4d22f$f24b1800$7203510a@CCERTDAWEI>
+In-Reply-To: <008101c4d22f$f24b1800$7203510a@CCERTDAWEI>
+Content-Type: text/plain; charset=GB2312
+Content-Transfer-Encoding: 8bit
+X-UIDL: ia8!!n"X"!@_J"!7=="!
+
+终于看到中国式离婚现实版,太可怜了...
+: 今天早上我们吃完饭就去家旁边的俱乐部打球了。这是这么多年来他第一次陪我打乒乓球，在打球以前他手机响了，他和我说要接个电话就躲出去接了，当时我也没多心。
+: 我们玩儿得很开心，他边玩边和我讲以后的发展，因为最近一年公司派他到外地做区域经理了，他和我说打算做两年就回来。存点钱和我一起开公司或者做个小生意，然后过这种周末能一起运动放松的生活。
+: 打完球我们去吃饭，他和我说下午走，回家后让我帮他整理行李。我边干活他边和我聊天，这时候又接了一个电话，他去客厅接的，还开了电视。这时候我开始想昨天和今天网友的回帖，觉得这两个电话不大对头。
+: ...................
+

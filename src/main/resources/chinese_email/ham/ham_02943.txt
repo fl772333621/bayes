@@ -1,0 +1,29 @@
+Return-Path: <huang@tsinghua.org.cn>
+Received: from tsinghua.org.cn ([210.77.143.228])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id i9H7mPnD004679
+	for <fu@ccert.edu.cn>; Sun, 17 Oct 2004 15:48:27 +0800
+Received: (eyou send program); Sun, 17 Oct 2004 15:59:26 +0800
+X-EYOU-ORIGINAL-IP: 218.107.132.130
+X-EYOU-ENVELOPE-MAILFROM: chenguangying@tsinghua.org.cn
+Received: from unknown (HELO ccertdawei) (unknown@218.107.132.130)
+ by 210.77.143.228 with SMTP; Sun, 17 Oct 2004 15:59:26 +0800
+Message-ID: <041301c4b41f$38359cc0$9f01510a@CCERTDAWEI>
+From: "huang" <huang@tsinghua.org.cn>
+To: fu@ccert.edu.cn
+Subject: =?gb2312?B?ofEgtPO80rDvv7S/tCDV4rj2uavLvtKqsrvSqsilo78=?=
+Date: Sun, 17 Oct 2004 15:59:23 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_040E_01C4B462.451E12D0"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2800.1437
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1441
+X-UIDL: dQ_"!lV="!X"M"!Zfp"!
+
+我是在我们学校就业网站上看到招聘信息的，觉得其中有个岗位：国际部工作人员的要求条件我可以胜任就网投了简历，周四回我油箱说周六面试，具体时间让我打电话过去问他们（为什么他们不给我打？）
+面试在清华胜因院，接待人员素质一般，连谁都没给我们倒，其中一个的穿着实在不敢恭维，白衬衫都成黑的了......五个人一起面试，给我们三个同样的问题：为什么选择这个职位；如果通过，对公司具体要求是什么；以前求职中的个人原因有哪些。回答完问题后，就跟我们说下午一点后给他们电话问结果（又是我们打过去！！）
+我打去后，对方说让我周一下午带着学生证身份证毕业推荐表过去签实习协议。
+今天下午过去 ，那个不敢恭维的人给我一份承诺书让我签，我说还有几个问题不知道，让他给我描述下我的工作内容，他说市场推广，工资要看每月的考核情况，跟市场部不同的是由底薪，大概一千多，我说在考虑下，他送我出来时，说，可以解决户口。其实，我关心的银子....（他边说还打哈欠...）
+这是广告公司，怎么看都不正规，工作人员说，在华清商务会馆还有办公地点。大家说这是不是皮包公司阿？倒是没受什么培训费....觉得在学校发的应该不会假吧...矛盾...
+

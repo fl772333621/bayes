@@ -1,0 +1,39 @@
+Return-Path: <weng@cernet.edu.cn>
+Received: from tsinghua.org.cn ([210.77.143.231])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id j0A26Vr5027849
+	for <zheng@ccert.edu.cn>; Mon, 10 Jan 2005 10:06:33 +0800
+Received: (eyou send program); Mon, 10 Jan 2005 09:57:51 +0800
+Received: (eyou send program); Mon, 10 Jan 2005 09:57:51 +0800
+X-EYOU-ORIGINAL-IP: 210.77.143.235
+X-EYOU-ENVELOPE-MAILFROM: wlzxrs@cernet.edu.cn
+Received: from unknown (HELO eyou.net) (unknown@210.77.143.235)
+ by 210.77.143.231 with SMTP; Mon, 10 Jan 2005 09:57:51 +0800
+Received: (eyou send program); Mon, 10 Jan 2005 10:11:49 +0800
+Message-ID: <305323109.13408@eyou.net>
+Received: from 202.112.5.66 by 210.77.143.235 with SMTP; Mon, 10 Jan 2005 10:11:44 +0800
+Received: from 56ls81hgnjb0ggr ([202.112.4.6])
+	(authenticated bits=0)
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id j0A2ILIL020118
+	for <zheng@ccert.edu.cn>; Mon, 10 Jan 2005 10:18:23 +0800 (CST)
+Message-Id: <200501100218.j0A2ILIL020118@sea.net.edu.cn>
+From: "weng" <weng@cernet.edu.cn>
+Reply-To: weng@cernet.edu.cn
+To: zheng@ccert.edu.cn
+Subject: =?gb2312?B?ofEgyc+6o7n6vMq159Owvdq1xM/7z6K6zdXVxqx6eiAo16rU2Ck=?=
+X-mailer: Foxmail 4.2 [cn]
+Mime-Version: 1.0
+Content-Type: multipart/mixed;
+      boundary="=====000_Dragon780557084587_====="
+Date: Mon, 10 Jan 2005 10:17:9 +0800
+X-UIDL: f8]"!X]K!!W8'#!Y~7!!
+
+【 以下文字转载自 Vicki 讨论区 】
+发信人: SeawoodS (海林), 信区: Vicki
+标  题: 上海国际电影节的消息和照片zz
+发信站: 水木社区 (Tue Jun 14 23:19:48 2005), 站内
+上海国际电影节的消息和照片(6月14日最新消息)  
+  六月十四日，由赵薇和陆毅主演的中国影片《情人结》在上海上演给国际电影节评委评
+审，《情人结》是该电影节十七部参赛影片之一，图为导演霍建起(中)携赵薇(左)、陆毅
+与评委见面。作者：潘索菲  
+ 
+

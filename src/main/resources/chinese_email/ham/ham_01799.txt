@@ -1,0 +1,38 @@
+Return-Path: <xin@rbl.ccert.edu.cn>
+Received: from rbl.ccert.edu.cn (rbl.ccert.edu.cn [202.112.57.71])
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id i98CI1Mx009259
+	for <zhao@ccert.edu.cn>; Fri, 8 Oct 2004 20:18:02 +0800 (CST)
+Received: from rbl.ccert.edu.cn (localhost.localdomain [127.0.0.1])
+	by rbl.ccert.edu.cn (8.12.11/8.12.11) with ESMTP id i98CNwji021919
+	for <zhao@ccert.edu.cn>; Fri, 8 Oct 2004 20:24:01 +0800
+Received: (from qa@localhost)
+	by rbl.ccert.edu.cn (8.12.11/8.12.11/Submit) id i98CNwFO021918;
+	Fri, 8 Oct 2004 20:23:58 +0800
+Date: Fri, 8 Oct 2004 20:23:58 +0800
+Message-Id: <200410081223.i98CNwFO021918@rbl.ccert.edu.cn>
+Subject: =?gb2312?B?ofEgW9XQxrhdsbG+qbrL0MTV0Ma4Lk5ldLe9z/K/qreiuaSzzMqm?=
+To: zhao@ccert.edu.cn
+From: Tran Quang Anh <xin@cernet.edu.cn>
+Content-Type: multipart/mixed; boundary="----------=_1097238241-26230-66"
+MIME-Version: 1.0
+X-UIDL: jji"!$:M!!Z$K"!M,9!!
+
+公司概况
+北京核心是专门从事计算机软件开发和系统集成的企业，是国家规划布局内重点软
+件企业，是北京软件行业协会的理事单位，现有员工200多人，本公司重点提供的服
+务包括：面向政府机关的各种信息系统和办公系统、面向客户的网络管理解决方案
+、移动通信增值服务、软件系统评测等业务。借鉴国外的先进技术和管理方法，以
+顾客为关注焦点，重视产品质量，建立了完善的 ISO 和 CMM 相结合的质量控制体
+系，通过了 ISO9001 ： 2000 认证。采用 ISO/IEC17799-2000 信息安全管理体系
+进行管理，确保顾客资产和其信息资产的安全。公司为员工提供很有竞争力的薪酬
+和福利体系，为员工职业发展提供广阔的空间。
+详情请登陆公司外部网站http://www.coresoft.com.cn。
+技能经验要求
+1. 具有至少1年的.Net相关开发经验
+2. 精通C#、ASP.Net等开发语言
+3. 具及SQL Server 、Oracle等大型数据库开发设计经验
+4. 具有OO的开发思想和开发经验
+5. 有良好的工作习惯、文档编写能力和团队协作精神
+欢迎优秀人士投递简历至：linmanxing@coresoft.com.cn，请勿投递到站内信箱，
+谢谢。
+

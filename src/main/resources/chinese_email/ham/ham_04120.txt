@@ -1,0 +1,102 @@
+Return-Path: <luo@cernet.edu.cn>
+Received: from tsinghua.org.cn ([210.77.143.231])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id j0A26Vr5027849
+	for <shen@ccert.edu.cn>; Mon, 10 Jan 2005 10:06:33 +0800
+Received: (eyou send program); Mon, 10 Jan 2005 09:57:51 +0800
+Received: (eyou send program); Mon, 10 Jan 2005 09:57:51 +0800
+X-EYOU-ORIGINAL-IP: 210.77.143.235
+X-EYOU-ENVELOPE-MAILFROM: wlzxrs@cernet.edu.cn
+Received: from unknown (HELO eyou.net) (unknown@210.77.143.235)
+ by 210.77.143.231 with SMTP; Mon, 10 Jan 2005 09:57:51 +0800
+Received: (eyou send program); Mon, 10 Jan 2005 10:11:49 +0800
+Message-ID: <305323109.13408@eyou.net>
+Received: from 202.112.5.66 by 210.77.143.235 with SMTP; Mon, 10 Jan 2005 10:11:44 +0800
+Received: from 56ls81hgnjb0ggr ([202.112.4.6])
+	(authenticated bits=0)
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id j0A2ILIL020118
+	for <shen@ccert.edu.cn>; Mon, 10 Jan 2005 10:18:23 +0800 (CST)
+Message-Id: <200501100218.j0A2ILIL020118@sea.net.edu.cn>
+From: "luo" <luo@cernet.edu.cn>
+Reply-To: luo@cernet.edu.cn
+To: shen@ccert.edu.cn
+Subject: =?gb2312?B?ofEg1dDGuNDFz6KjusvV1t3W0L/GvK+zybXnwrfJ6LzG1tDQxCi8xsvjy/nL1dbdt9bL+aOp1dDG
+uNHQvr8=?=
+X-mailer: Foxmail 4.2 [cn]
+Mime-Version: 1.0
+Content-Type: multipart/mixed;
+      boundary="=====000_Dragon780557084587_====="
+Date: Mon, 10 Jan 2005 10:17:9 +0800
+X-UIDL: f8]"!X]K!!W8'#!Y~7!!
+
+苏州中科集成电路设计中心(计算所苏州分所）成立于2003年8月，是计算所与苏州政府共同创办的一家集科研开发与成果的市场转化功能于一体的一家单位。拥有价值近3000万目前国际上一流的集成电路设计软硬件平台。
+ 
+欢迎访问我们的网址hdy
+dy
+p://www.szicc.com.cn
+新加坡工业园网址：hdy
+dy
+p://www.sipac.gov.cn
+国际科技园网址：hdy
+dy
+p://www.sipis.com.cn
+ 
+招聘部门：中科院计算所（苏州分所）
+招聘职位：研究助理
+招聘人数：2名
+工作地点：苏州市
+招聘条件
+1．在校硕士生。通信或计算机网络专业;
+2.   完成一年基础课，到本所做毕业论文设计，回校答辩;
+3.   熟悉通信或计算机网络，熟悉通信网络MAC协议;
+4. 熟悉linux下c/c++开发，熟练使用GNU相关调试工具;
+5．熟悉网络模拟软件NS2的将优先考虑;
+6．从事无线网络研发. 
+ 
+招聘部门：中科院计算所（苏州分所）
+招聘职位：研究助理
+招聘人数：2名
+工作地点：苏州市
+招聘条件
+1．在校硕士生。电子专业，或应用物理专业。
+2。完成一年基础课，到本所做毕业论文设计，回校答辩。
+3．从事CMOS senor研发.
+ 
+招聘部门：中科院计算所（苏州分所）
+招聘职位：研究助理
+招聘人数：2名
+工作地点：苏州市
+招聘条件
+1．在校硕士生。信号处理（DSP）专业;
+2.   完成一年基础课，到本所做毕业论文设计，回校答辩;
+3.   熟悉mady
+hlab
+4. 从事DSP研发
+ 
+招聘部门：中科院计算所（苏州分所）
+招聘职位：研究助理
+招聘人数：1名
+工作地点：苏州市
+招聘条件：
+1.     在校硕士生。微电子专业。
+2.      完成一年基础课，到本所实习。
+3.    协助PCB设计
+ 
+招聘部门：中科院计算所（苏州分所）
+招聘职位：研究助理
+招聘人数：1名
+工作地点：苏州市
+招聘条件：
+1.     在校硕士生。微电子专业。
+2.      完成一年基础课，到本所实习。
+3.    熟悉 Verilog
+4． 从事数字电路研发
+ 
+注：1、必须导师同意出来实习
+      2、可以稳定工作到论文完成回校到答辩（大约一年半时间）
+ 
+ 
+简历投送：lihua@szicc.com.cn
+中心地址：苏州工业园区机场路328号国际科技园E301
+公司网址：www.szicc.com.cn
+MSN:lihua753@homail.com
+

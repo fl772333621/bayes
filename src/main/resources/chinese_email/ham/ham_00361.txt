@@ -1,0 +1,23 @@
+Return-Path: <tan@rbl.ccert.edu.cn>
+Received: from rbl.ccert.edu.cn (rbl.ccert.edu.cn [202.112.57.71])
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id i97IsOYb024330
+	for <weng@ccert.edu.cn>; Fri, 8 Oct 2004 02:54:24 +0800 (CST)
+Received: from rbl.ccert.edu.cn (localhost.localdomain [127.0.0.1])
+	by rbl.ccert.edu.cn (8.12.11/8.12.11) with ESMTP id i97J0Oon025637
+	for <weng@ccert.edu.cn>; Fri, 8 Oct 2004 03:00:25 +0800
+Received: (from qa@localhost)
+	by rbl.ccert.edu.cn (8.12.11/8.12.11/Submit) id i97J0Ouh025636;
+	Fri, 8 Oct 2004 03:00:24 +0800
+Date: Fri, 8 Oct 2004 03:00:24 +0800
+Message-Id: <200410071900.i97J0Ouh025636@rbl.ccert.edu.cn>
+Subject: =?gb2312?B?ofEgyfrI1S0tLbi4xLiwrg==?=
+To: weng@ccert.edu.cn
+From: Tran Quang Anh <tan@cernet.edu.cn>
+Content-Type: multipart/mixed; boundary="----------=_1097175625-1044-74"
+MIME-Version: 1.0
+X-UIDL: j2E"!p25"!Y/b"!:&D!!
+
+    有个小女孩过生日,她一直哭喊着要吃奶油蛋糕.可是家里真的很穷很穷,根本没有钱给小女孩买生日蛋糕.爸妈为难的涨红了脸相互凝视.突然,爸爸起身拿起了家中的小猪存钱罐狠狠的摔在了地上.小女孩被这巨响镇住了哭声,泪汪汪的看着父母一个一个的捡起了地上的硬币.将它们捧到了小女孩的面前,说:宝宝,爸爸带你买生日蛋糕去.小女孩止住了抽泣,开心的拍着手说:好哦,好哦~吃蛋糕!妈妈猛地站起打开了大衣柜取出了一件呢子大衣,那是家中妈妈仅有的最值钱的衣服.妈妈拉住爸爸说:把这件衣服卖了给宝宝买个玩具吧!
+   1个小时以后,爸妈回来了,带回了蛋糕和电动小火车.小女孩开心的跳着叫着.爸妈微笑的看着.小女孩那里知道,那件大衣是爸爸送给妈妈的结婚纪念物.那个小猪存钱罐里攒的是爸爸一个月的烟钱啊!!!
+   读者,不要怀疑,那个不懂事的女孩就是我.那个卖衣服砸存钱罐的就是我的父母!只有他们才能给我这人间最真挚的情---亲情.
+

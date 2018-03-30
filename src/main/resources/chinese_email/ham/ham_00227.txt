@@ -1,0 +1,59 @@
+Return-Path: <hou@mails.tsinghua.edu.cn>
+Received: from tsinghua.org.cn ([210.77.143.232])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with SMTP id j3LB8r7X009372
+	for <yu@ccert.edu.cn>; Thu, 21 Apr 2005 19:09:04 +0800
+Received: (eyou send program); Thu, 21 Apr 2005 19:24:52 +0800
+Message-ID: <314082692.00789@tsinghua.org.cn>
+X-EYOU-AUTOFORWARD: tsinghua.org.cn
+Received: (eyou send program); Thu, 21 Apr 2005 19:24:52 +0800
+Message-ID: <314082692.19350@tsinghua.org.cn>
+Received: from unknown (HELO eyou.net) (210.77.143.235)
+ by 210.77.143.232 with SMTP; Thu, 21 Apr 2005 19:24:52 +0800
+X-EYOU-SPAMVALUE: 0
+Received: (eyou anti_spam gateway 3.0); Thu, 21 Apr 2005 19:14:28 +0800
+Message-ID: <314082068.00478@eyou.net>
+Received: from 202.112.49.111 by 210.77.143.235 with SMTP; Thu, 21 Apr 2005 19:14:27 +0800
+Received: from Garfield. (localhost [IPv6:::1])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with ESMTP id j3LBKsPa060227
+	for <yu@ccert.edu.cn>; Thu, 21 Apr 2005 19:21:20 +0800 (CST)
+	(envelope-from toefl-bounces@gradinfo.net.edu.cn)
+Received: from mails.tsinghua.edu.cn (mails.tsinghua.edu.cn [166.111.8.16])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with SMTP id j3LBKlvd060223
+	for <yu@ccert.edu.cn>; Thu, 21 Apr 2005 19:20:49 +0800 (CST)
+	(envelope-from lguohan00@mails.tsinghua.edu.cn)
+Received: (eyou send program); Thu, 21 Apr 2005 19:11:49 +0800
+Message-ID: <314081909.05698@mails.tsinghua.edu.cn>
+Received: from 202.112.0.89 by mails.tsinghua.edu.cn with HTTP;
+	Thu, 21 Apr 2005 19:11:49 +0800
+X-WebMAIL-MUA: [202.112.0.89]
+From: "hou" <hou@mails.tsinghua.edu.cn>
+To: yu@ccert.edu.cn
+Date: Thu, 21 Apr 2005 19:11:49 +0800
+X-Priority: 3
+Subject: =?gb2312?B?UmU6IL3jw8PDxyzI57n71eLKwreiyfq1vcHLxOPDx8ntyc8sxOPDx9T1w7Sw7D8=?=
+Content-Type: multipart/mixed; boundary="----------=_1114081747-987-409"
+Cc: 
+X-BeenThere: toefl@gradinfo.net.edu.cn
+X-Mailman-Version: 2.1.5
+Precedence: list
+Reply-To: =?gb2312?B?wsC5+urP?= <hou@mails.tsinghua.edu.cn>
+List-Id: "&#26446; &#26143; &#21644; &#20182; &#30340; &#23398; &#29983;
+	&#20204; " <toefl.gradinfo.net.edu.cn>
+List-Unsubscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=unsubscribe>
+List-Archive: <http://gradinfo.net.edu.cn/mailman/private/toefl>
+List-Post: <mailto:toefl@gradinfo.net.edu.cn>
+List-Help: <mailto:toefl-request@gradinfo.net.edu.cn?subject=help>
+List-Subscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=subscribe>
+Sender: toefl-bounces@gradinfo.net.edu.cn
+Errors-To: toefl-bounces@gradinfo.net.edu.cn
+MIME-Version: 1.0
+X-UIDL: ?>`"!fGm"!?pV"!IX!"!
+
+像这种家庭矛盾，最理性的办法就是先和丈夫单独谈谈，说明你的想法，让他明白，孝敬父母是应该的，但是在法律上，夫妻关系最为重要。首先是要他把位置摆好，由他去劝父母，这比你直接去说要好得多。
+第二，是独立，只有这样想，很多纠纷才可以避免。一大家子住在一起，难免磕磕碰碰，如果实在觉得难受，可以自己单过，但前提是要和老公说好，得到他的支持。
+: 我和老公大学同学,去年4月结的婚,10月生的孩子,属于未婚先孕,就在我还有两个月要生孩子的时候,婆婆从外边抱回去了一个40天的小孩,当女儿养着,对此我心里有所不满,觉得对我们的孩子太不公平,本来一家4口都应该疼我们的孩子,但我也没表现出来,去年9月28日,第一次矛盾:婆婆说都不说一声,去我们屋子里,打开我们的柜子把我给我们孩子准备的小衣服拿出去给那孩子穿了,其实这没什么,就一件衣服而已,可婆婆连个招呼都没打.我有点不高兴,公公婆婆看出来了,就问我怎么了,我就直说了,我说我们孩子马上要出生了,(预产期10月2日)我就给孩子准备了那么? 患路?我就说了,觉得对我们孩子不公平,婆婆说,她抱回来的那个孩子她自己愿意养着,她有的是钱,谁都管不着,也不碍谁的事,说我刚进门没几天就想骑到她头上了.
+: 去年11月由于老公工作调动,我们搬出去住了,我一个人带着孩子,今年4月,公婆叫我们回去和他们同住,我已经想到肯定会有矛盾发生的,就怕闹矛盾,我提出还是搬出去住,可公公婆婆不答应 ,平时婆婆和保姆带着抱来的那个孩子,我一个人带着我们的孩子
+: ...................
+

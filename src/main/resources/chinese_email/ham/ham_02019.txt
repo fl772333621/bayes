@@ -1,0 +1,26 @@
+Return-Path: <mei@rbl.ccert.edu.cn>
+Received: from rbl.ccert.edu.cn (rbl.ccert.edu.cn [202.112.57.71])
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id i972HeKX013544
+	for <zhong@ccert.edu.cn>; Thu, 7 Oct 2004 10:17:40 +0800 (CST)
+Received: from rbl.ccert.edu.cn (localhost.localdomain [127.0.0.1])
+	by rbl.ccert.edu.cn (8.12.11/8.12.11) with ESMTP id i972NbPO010943
+	for <zhong@ccert.edu.cn>; Thu, 7 Oct 2004 10:23:38 +0800
+Received: (from qa@localhost)
+	by rbl.ccert.edu.cn (8.12.11/8.12.11/Submit) id i972NbmT010942;
+	Thu, 7 Oct 2004 10:23:37 +0800
+Date: Thu, 7 Oct 2004 10:23:37 +0800
+Message-Id: <200410070223.i972NbmT010942@rbl.ccert.edu.cn>
+Subject: =?gb2312?B?UmU6INXxt9zSu8/CsMmj2KPEo8qjzcPH?=
+To: zhong@ccert.edu.cn
+From: Tran Quang Anh <mei@cernet.edu.cn>
+Content-Type: multipart/mixed; boundary="----------=_1097115818-996-800"
+MIME-Version: 1.0
+X-UIDL: dN$!!-XR"!HJR"!-J*"!
+
+其实在哪方面真的做出来点东西，工作也还找着
+不过现在大家都在混文凭而已，光靠学位也没什么优势了
+: 每次都忍不住要上这里来，明知道每次来之后都会感慨良多．
+: 想起每次同学聚饭时，大家都会为未来感慨：好歹是一桌子博士啊，怎么连个满意的工作都寻不着？
+: 前面有一回复帖说的很是，既然已经走到这条路上来，那么努力去针对今后的工作，多找几个方向，不要被自己的专业所拘，早点做准备．郁闷的时候时间好象很慢，可转眼一年又晃过去了．
+: ...................
+

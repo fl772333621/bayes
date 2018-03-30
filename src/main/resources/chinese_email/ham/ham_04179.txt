@@ -1,0 +1,32 @@
+Return-Path: <zhan@smth.edu.cn>
+Received: from tsinghua.org.cn ([210.77.143.228])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id iANFcQ2u008011
+	for <wang@ccert.edu.cn>; Tue, 23 Nov 2004 23:38:27 +0800
+Received: (eyou send program); Tue, 23 Nov 2004 23:51:12 +0800
+Received: (eyou send program); Tue, 23 Nov 2004 23:51:11 +0800
+X-EYOU-ORIGINAL-IP: 210.77.143.235
+X-EYOU-ENVELOPE-MAILFROM: svm@smth.edu.cn
+Received: from unknown (HELO eyou.net) (unknown@210.77.143.235)
+ by 210.77.143.228 with SMTP; Tue, 23 Nov 2004 23:51:11 +0800
+Received: (eyou send program); Tue, 23 Nov 2004 23:46:42 +0800
+Message-ID: <301224802.15161@eyou.net>
+Received: from 211.68.16.32 by 210.77.143.235 with SMTP; Tue, 23 Nov 2004 23:46:40 +0800
+Received: from smth.edu.cn (bbs.tsinghua.edu.cn [166.111.8.238])
+	by alpha.linux.edu.cn (8.11.6/8.11.6) with ESMTP id iANGKT607872
+	for <wang@ccert.edu.cn>; Wed, 24 Nov 2004 00:20:30 +0800
+MIME-Version: 1.0
+Content-Type: text/plain; charset=gb2312
+Content-Transfer-Encoding: 8bit
+From: "zhan" <zhan@smth.edu.cn>
+To: wang@ccert.edu.cn
+Date: Tue, 23 Nov 2004 23:51:07 +0800
+Message-Id: <1101225067.0@smth.edu.cn>
+Subject: =?gb2312?B?UmU6IG9mZmVy0aHU8aOsusPE0bCho6E=?=
+X-UIDL: \G7"!,Z)!!$&4"!&`Y"!
+
+真准备做一辈子技术啊？
+: 第一个是在北京一家IC设计公司做技术，公司前途比较好。可惜我去了不是搞核心技术，是一些底层的软件开发和测试。差不多3K吧，成长空间不是很大，最多也就一年1K。工作环境比较好，压力不大，不用经常加班，最重要的是：能学到很多东西！以后跳槽什么的比较有资本了。
+: 第二个是北京某部下面附属的公路工程检测单位，国企，人不多，小单位。效益应该比较好，工资不好说，不会比上面的少，灰色收入应该比较多。但是很累很忙，要长期出差，应付各种场面。做得好的话说不定可以干一辈子，毕竟有一点点小垄断的意味。但是面很窄，技术含量不高
+: 达人们有什么意见都说说吧！谢了！
+: ...................
+

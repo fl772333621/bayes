@@ -1,0 +1,47 @@
+Return-Path: <hu@home.ccert.edu.cn>
+Received: from home.ccert.edu.cn (localhost [127.0.0.1])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id i8M3CwYL018917;
+	Wed, 22 Sep 2004 11:12:58 +0800
+Received: (from majordomo@localhost)
+	by home.ccert.edu.cn (8.13.1/8.13.1/Submit) id i8M3CwNu018916;
+	Wed, 22 Sep 2004 11:12:58 +0800
+X-Authentication-Warning: home.ccert.edu.cn: majordomo set sender to owner-ccertstaff using -f
+Received: from ccertspark (puma.ccert.edu.cn [202.112.50.50])
+	(authenticated bits=0)
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id i8M3AW5w018861;
+	Wed, 22 Sep 2004 11:10:32 +0800
+From: "hu" <hu@ccert.edu.cn>
+To: lian@ccert.edu.cn
+Cc: <bi@ccert.edu.cn>
+Subject: =?gb2312?B?ofEgob7W0Ln6tPPRp8n6vs3Stbz7z7DN+MruxtrKtc+wuNrOu83GvPahvw==?=
+Date: Wed, 22 Sep 2004 11:23:56 +0800
+Message-ID: <000a01c4a053$988c2e70$323270ca@ccertspark>
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="----=_NextPart_000_000B_01C4A096.A6AF6E70"
+X-Priority: 3 (Normal)
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook, Build 10.0.6626
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.3790.181
+Importance: Normal
+Sender: owner-ccertstaff@home.ccert.edu.cn
+Precedence: bulk
+X-UIDL: FDd!!''g!!Ua("!*n3!!
+
+欢迎登录www.54club.com查询更多暑期实习职位信息！
+近期最新部分职位信息：
+公司名称：上海开拓者化学研究管理有限公司
+招聘职位：实验室助理、实验室研究员
+应聘地址：http://jx.edu.sina.com.cn/favorite/view_corp_job.php?id=5834
+公司名称：上海维哲商务咨询有限公司
+招聘职位：项目销售专员
+应聘地址：http://jx.edu.sina.com.cn/favorite/view_corp_job.php?id=5812
+公司名称：中金投资（集团）有限公司
+招聘职位：建筑工程、能源矿业、投资信息、人力资源、金融财务、企业管理
+应聘地址：http://jx.edu.sina.com.cn/favorite/view_corp_job.php?id=5843
+公司名称：北京市隆安律师事务所上海分所
+招聘职位：实习生（非专业）、实习生（法律）
+应聘地址：http://jx.edu.sina.com.cn/favorite/view_corp_job.php?id=5822
+……
+欢迎登录www.54club.com查询更多暑期实习信息！
+

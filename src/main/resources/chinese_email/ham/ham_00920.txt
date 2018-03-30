@@ -1,0 +1,25 @@
+Return-Path: <zhang@rbl.ccert.edu.cn>
+Received: from rbl.ccert.edu.cn (rbl.ccert.edu.cn [202.112.57.71])
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id i922CHnw010190
+	for <hua@ccert.edu.cn>; Sat, 2 Oct 2004 10:12:17 +0800 (CST)
+Received: from rbl.ccert.edu.cn (localhost.localdomain [127.0.0.1])
+	by rbl.ccert.edu.cn (8.12.11/8.12.11) with ESMTP id i922Hx5k005897
+	for <hua@ccert.edu.cn>; Sat, 2 Oct 2004 10:17:59 +0800
+Received: (from qa@localhost)
+	by rbl.ccert.edu.cn (8.12.11/8.12.11/Submit) id i922Hxt0005896;
+	Sat, 2 Oct 2004 10:17:59 +0800
+Date: Sat, 2 Oct 2004 10:17:59 +0800
+Message-Id: <200410020217.i922Hxt0005896@rbl.ccert.edu.cn>
+Subject: =?gb2312?B?UmU6IM/rv+zA1sLwo7+4+s7S0rvG8LfWz+2wyQ==?=
+To: hua@ccert.edu.cn
+From: Tran Quang Anh <zhang@cernet.edu.cn>
+Content-Type: multipart/mixed; boundary="----------=_1096683479-996-330"
+MIME-Version: 1.0
+X-UIDL: kcY!!?VE"!Y_1!!#:*"!
+
+版主呢？
+: 我是一位即将走向社会的女孩。在此，我想与大家一起分享我自己。我想把我的自信和美丽是如何得来的告诉大家，与大家一起分享我的快乐。
+: 我相信女孩子一定都听过玫琳凯这个护肤品的名字，可能没接触过它的人都认为它只是一个化妆品直销公司，可是你知道吗？玫琳凯公司是把护肤、彩妆、成功学、时间管理、服饰搭配、沟通技巧、商务礼仪等等各种培训融为一体的。大家知道吗？在走进玫琳凯之前，我是一个成天爱
+: 后来，在一次偶然的机会，我走进了玫琳凯公司。那里，有很多很多跟我同龄甚至比我小的女孩，最让我震撼的是，她们都很成功！她们始终有一个信念，那就是“相信”；她们还有一个共同点，就是“始终怀着一颗感恩的心”。她们始终给我鼓励，让我激动。激动得我一下子都不知
+: ...................
+

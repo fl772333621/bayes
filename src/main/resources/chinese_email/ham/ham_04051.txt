@@ -1,0 +1,24 @@
+Return-Path: <hong@rbl.ccert.edu.cn>
+Received: from rbl.ccert.edu.cn (rbl.ccert.edu.cn [202.112.57.71])
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id i971BovD012860
+	for <tang@ccert.edu.cn>; Thu, 7 Oct 2004 09:11:50 +0800 (CST)
+Received: from rbl.ccert.edu.cn (localhost.localdomain [127.0.0.1])
+	by rbl.ccert.edu.cn (8.12.11/8.12.11) with ESMTP id i971HmPc026337
+	for <tang@ccert.edu.cn>; Thu, 7 Oct 2004 09:17:48 +0800
+Received: (from qa@localhost)
+	by rbl.ccert.edu.cn (8.12.11/8.12.11/Submit) id i971Hmg1026336;
+	Thu, 7 Oct 2004 09:17:48 +0800
+Date: Thu, 7 Oct 2004 09:17:48 +0800
+Message-Id: <200410070117.i971Hmg1026336@rbl.ccert.edu.cn>
+Subject: =?gb2312?B?ofEgxt/UwrP1z+vV0s2s0NSjqMWuuqKjqcilv7S3qMC8zve80r7T17DKztLVyvXVuQ==?=
+To: tang@ccert.edu.cn
+From: Tran Quang Anh <hong@cernet.edu.cn>
+Content-Type: multipart/mixed; boundary="----------=_1097111868-996-776"
+MIME-Version: 1.0
+X-UIDL: =`_"!;_p!!Kd]!!T'F"!
+
+我是女的。
+展览举办地点在国贸，7月5号到9号。主题是“艺术法国，家中绽放”，本次展览是中法文化年所有经济交流项目中最大的一场活动，它的目的不是为企业带来直接的经济效益，而是给法国的建筑和室内装饰领域的专业人员提供一个舞台，让他们有机会与中国同行交流，展示法国的技术工艺。
+www.france-habitat-beijing2005.com
+就是不知道是否会让我们这些非专业人士进场参观？！
+

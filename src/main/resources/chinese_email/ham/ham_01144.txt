@@ -1,0 +1,68 @@
+Return-Path: <pan@ns.6test.edu.cn>
+Received: from tsinghua.org.cn ([210.77.143.231])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id iBED2ERj007595
+	for <ye@ccert.edu.cn>; Tue, 14 Dec 2004 21:02:19 +0800
+Received: (eyou send program); Tue, 14 Dec 2004 20:55:39 +0800
+Received: (eyou send program); Tue, 14 Dec 2004 20:55:39 +0800
+X-EYOU-ORIGINAL-IP: 210.77.143.235
+X-EYOU-ENVELOPE-MAILFROM: toefl-bounces@server.cool-meeting.com
+Received: from unknown (HELO eyou.net) (unknown@210.77.143.235)
+ by 210.77.143.231 with SMTP; Tue, 14 Dec 2004 20:55:39 +0800
+Received: (eyou send program); Tue, 14 Dec 2004 21:10:19 +0800
+Message-ID: <303029819.00370@eyou.net>
+Received: from 202.38.99.65 by 210.77.143.235 with SMTP; Tue, 14 Dec 2004 21:10:14 +0800
+Received: from server.cool-meeting.com (localhost.localdomain [127.0.0.1])
+	by server.cool-meeting.com (8.12.8/8.12.8) with ESMTP id iBEDX3li030124
+	for <ye@ccert.edu.cn>; Tue, 14 Dec 2004 21:34:22 +0800
+Received: from ns.6test.edu.cn ([202.38.99.18])
+	by server.cool-meeting.com (8.12.8/8.12.8) with ESMTP id iBEDWvkr030120
+	for <ye@ccert.edu.cn>; Tue, 14 Dec 2004 21:32:57 +0800
+Received: from tu203047.tsinghua.edu.cn ([166.111.203.47] helo=wanglanjia)
+	by ns.6test.edu.cn with asmtp (Exim 4.12) id 1CeCu2-00076s-00
+	for Toefl@server.cool-meeting.com; Tue, 14 Dec 2004 21:39:46 +0800
+Message-ID: <006801c4e1de$d234ee10$2fcb6fa6@wanglanjia>
+From: "pan" <pan@ns.6test.edu.cn>
+To: ye@ccert.edu.cn
+Date: Tue, 14 Dec 2004 21:14:19 +0800
+MIME-Version: 1.0
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2800.1437
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1441
+Cc: 
+Subject: =?gb2312?B?UmU6IMfrzsqhttDHx/K089W9obfPtcHQt6LJ+rXEyrG85Muz0PKjvw==?=
+X-BeenThere: toefl@server.cool-meeting.com
+X-Mailman-Version: 2.1.2
+Precedence: list
+List-Id: &#26446;&#26143;&#21644;&#20182;&#30340;&#23398;&#29983;&#20204;
+	<toefl.server.cool-meeting.com>
+List-Unsubscribe: <http://server.cool-meeting.com/mailman/listinfo/toefl>,
+	<mailto:toefl-request@server.cool-meeting.com?subject=unsubscribe>
+List-Archive: <http://server.cool-meeting.com/mailman/private/toefl>
+List-Post: <mailto:toefl@server.cool-meeting.com>
+List-Help: <mailto:toefl-request@server.cool-meeting.com?subject=help>
+List-Subscribe: <http://server.cool-meeting.com/mailman/listinfo/toefl>,
+	<mailto:toefl-request@server.cool-meeting.com?subject=subscribe>
+Content-Type: multipart/mixed; boundary="===============43044904547188201=="
+Sender: toefl-bounces@server.cool-meeting.com
+Errors-To: toefl-bounces@server.cool-meeting.com
+X-UIDL: +B7"!<g(!!h/F!!$hh!!
+
+标准答案来啦：
+        ① 星球大战前传1：幽灵的威胁 （1999年） 
+　　 
+　　　　② 星球大战前传2：克隆人的进攻 （2002年） 
+　　 
+　　　　③ 星球大战前传3：西斯的反击 （2005年） 
+　　 
+　　　　④ 星球大战正传1：新希望 （1977年） 
+　　 
+　　　　⑤ 星球大战正传2：帝国反击战 （1980年） 
+　　 
+　　　　⑥ 星球大战正传3：武士归来 （1983年） 
+在3与4之间还有一部动画片，叫克隆人战争，感觉是象Matrix学习，不过拍的不如骇客的动画片好。
+: 我还没怎么看过星球大战系列。
+: 这次想依照故事发生的时间顺序，从前往后看一遍。
+: 谁能给一个顺序表，谢谢！
+: ...................
+

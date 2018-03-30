@@ -1,0 +1,46 @@
+Return-Path: <wu@chinatextile.net>
+Received: from tsinghua.org.cn ([210.77.143.228])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id i8OF05xx021114
+	for <qian@ccert.edu.cn>; Fri, 24 Sep 2004 23:00:14 +0800
+Received: (eyou send program); Fri, 24 Sep 2004 17:21:51 +0800
+Received: (eyou send program); Fri, 24 Sep 2004 17:21:51 +0800
+X-EYOU-ORIGINAL-IP: 211.150.100.26
+X-EYOU-ENVELOPE-MAILFROM: beijing@chinatextile.net
+Received: from unknown (HELO smtp.263xmail.com) (unknown@211.150.100.26)
+ by 210.77.143.228 with SMTP; Fri, 24 Sep 2004 17:21:51 +0800
+Received: from sd (e-smtp1 [127.0.0.1])
+	by smtp.263xmail.com (Postfix) with ESMTP id 356C2341F2
+	for <qian@ccert.edu.cn>; Fri, 24 Sep 2004 17:21:20 +0800 (CST)
+	(envelope-from beijing@chinatextile.net)
+Received: from sd (unknown [221.216.90.79])
+	by antispam-1 (Coremail:263(040326)) with SMTP id pIATABDnU0FFElpP.1
+	for <qian@ccert.edu.cn>; Fri, 24 Sep 2004 17:21:20 +0800 (CST)
+X-TEBIE-Originating-IP: [221.216.90.79]
+Message-ID: <002001c4a217$c485ff40$0300a8c0@sd>
+From: "wu" <wu@chinatextile.net>
+To: qian@ccert.edu.cn
+Subject: =?gb2312?B?ofEg1ffIy7jmy9/O0sLyyv3C68/gu/rP4LnYs6PKtqOsu/LV38P3zOzSu8bwyKXC8qO6o6k=?=
+Date: Fri, 24 Sep 2004 17:20:43 +0800
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="multipart/alternative";
+	boundary="----=_NextPart_000_001C_01C4A25A.D27E37A0"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 5.00.2919.6700
+X-MimeOLE: Produced By Microsoft MimeOLE V5.00.2919.6700
+X-UIDL: #9Z"!%+@"![@F!!=XS!!
+
+我基本没有任何概念……
+可是发现，有个DC还是很有用的~
+爸爸建议我买一个DV+DC,但是我觉得有DV一般都不好看~
+价格家人没有什么意见
+但是我不想买太贵的！（哈哈，花爸爸妈妈的钱，还是节省点好~）
+2000-2500吧~
+主要也就是平时拍照，希望可以很方便地上传到电脑（听说有的传输特别慢）
+然后质量好一些，也不需要样式很in，差不多就行
+可以站内，可以msn
+偶是mm
+：）
+提提意见也好，谢过大家！~~
+

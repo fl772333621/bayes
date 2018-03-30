@@ -1,0 +1,25 @@
+Return-Path: <wei@rbl.ccert.edu.cn>
+Received: from rbl.ccert.edu.cn (rbl.ccert.edu.cn [202.112.57.71])
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id i97AwPSN018791
+	for <yan@ccert.edu.cn>; Thu, 7 Oct 2004 18:58:25 +0800 (CST)
+Received: from rbl.ccert.edu.cn (localhost.localdomain [127.0.0.1])
+	by rbl.ccert.edu.cn (8.12.11/8.12.11) with ESMTP id i97B4Oor000960
+	for <yan@ccert.edu.cn>; Thu, 7 Oct 2004 19:04:25 +0800
+Received: (from qa@localhost)
+	by rbl.ccert.edu.cn (8.12.11/8.12.11/Submit) id i97B4OjD000959;
+	Thu, 7 Oct 2004 19:04:24 +0800
+Date: Thu, 7 Oct 2004 19:04:24 +0800
+Message-Id: <200410071104.i97B4OjD000959@rbl.ccert.edu.cn>
+Subject: =?gb2312?B?UmU6IL71tcPX1Ly6usPJtSzD99aqy/vSu7TOtM7U2satztIuLi4=?=
+To: yan@ccert.edu.cn
+From: Tran Quang Anh <wei@cernet.edu.cn>
+Content-Type: multipart/mixed; boundary="----------=_1097147065-996-878"
+MIME-Version: 1.0
+X-UIDL: ~'H"!ZW]!!<+>"!_,h!!
+
+年薪十万在南方并不是很难
+:   和他相识在03年暑假,马上就大四了也没打算考研,无聊上网相识.那是他在海外出差,是做技术支持,他的工作很辛苦,比我年长4岁,家里是农村的,也许对他产生一种佩服吧,漫漫在键盘的敲击中相识,相爱.
+:   我家里条件还好,毕业前在南方找了份很不错的工作,可以说什么事我都不必操心.也许是一直在学校未接触过社会,自己天真,甚至幼稚,当时他在公司三年的合同期也即将期满,答应我毕业他也应聘一家南方的公司.
+:   其实上网相识一年我们才真正见面,是他去学校看的我,第一眼我们就觉得找到彼此心仪得人了,他真是让我喜欢,外表才华都很出众.当时我是单纯到极点,确信他肯定会和我一起南下的.在我和公司准备签协议的前几天,他打来电话还说我去哪里他也去哪里,可我一次无意中上校友录,看
+: ...................
+

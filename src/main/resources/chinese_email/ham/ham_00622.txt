@@ -1,0 +1,47 @@
+Return-Path: <luo@sina.com>
+Received: from sina.com (sina187-158.sina.com.cn [202.106.187.158] (may be forged))
+	by home.ccert.edu.cn (8.13.1/8.13.1) with SMTP id j2ECuWBC009473
+	for <you@ccert.edu.cn>; Mon, 14 Mar 2005 20:56:47 +0800
+Message-Id: <200503141256.j2ECuWBC009473@home.ccert.edu.cn>
+Received: (qmail 53305 invoked from network); 14 Mar 2005 13:07:47 -0000
+Received: from unknown (HELO ibm-t23) (219.224.134.126)
+  by 202.106.187.158 with SMTP; 14 Mar 2005 13:07:47 -0000
+Received: from(cheriff@sina.com) to(qa@ccert.edu.cn)
+Date: Mon, 14 Mar 2005 20:50:02 +0800
+From: "luo" <luo@sina.com>
+To: you@ccert.edu.cn
+Subject: =?gb2312?B?UmU6INTbw8fT0MDgy8a1xL6twPpSZTogsNaw1rXEzsc=?=
+X-mailer: Foxmail 5.0 [cn]
+Mime-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: 8bit
+X-MIME-Autoconverted: from base64 to 8bit by home.ccert.edu.cn id j2ECuWBC009473
+X-UIDL: 3L(#!SC`!!9TH"!%d4!!
+
+不要难过，我相信无论如何你的父亲是爱你的
+让我们想想《激情燃烧的岁月》里的脾气乖戾的老头石光荣
+他对自己的子女可以说是苛刻严厉得无以复加
+和自己的儿子几乎成了仇敌，
+可是能说他不爱石林么
+相反，他是把这片爱深深地藏在心底，不让任何人知道，甚至羞于让自己知道
+或许他们觉得，哪怕有些许感情的表露也会使得自己坚强的形象大打折扣
+从而在子女面前失去某种权威感
+我认为，这大概就是他们的顾虑
+父亲们，都有着他们自己的价值观
+石光荣认为他的儿子应该当将军
+你的父亲要求你能成为成功的商人
+他们或者希望自己的孩子走上自己的道路，走得更远
+或者希望自己的孩子走一条自己多年来盼望走上却没有走过的道路
+所以
+不要责怪我们的父亲
+他们在心里一定是爱我们的
+爱之深，责之切
+我相信当他们年老的时候，
+他们觉得不再需要维护自己权威的时候，
+当他们也像我们小时候需要父爱一样的需要我们的爱时候
+他们会变得温柔
+温柔地需要我们也给他们一个吻
+: 我能感觉你的幸福。你说的故事简直就像在说我的一样。
+: 我父亲也要求我，男孩子能做到的一切，我都要做到：从小时候学习、长大以后的学习，包括工作以后赚钱，日常生活中买米要我去扛，下雨天要我下楼把全家人的自行车推进棚里，晚上送客人下楼都是我去，尽管我也害怕黑暗的楼道，如果我实话实说一定会遭来一顿没出息之类的臭骂。不过我爸爸没有自己付出过什么努力，比如说每天检查作业什么的，小学时，他只是要求我拿回100分的卷子，如果不是100分，就打或者骂，90多分他也会黑着脸生气。中学后，他连成绩如何都不知道了，但是那时候我自己懂事了，知道除了学习没有别的出路，我总是年级第一
+

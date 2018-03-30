@@ -1,0 +1,41 @@
+Return-Path: <xue@rbl.ccert.edu.cn>
+Received: from rbl.ccert.edu.cn (rbl.ccert.edu.cn [202.112.57.71])
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id i9719xqh012820
+	for <shi@ccert.edu.cn>; Thu, 7 Oct 2004 09:09:59 +0800 (CST)
+Received: from rbl.ccert.edu.cn (localhost.localdomain [127.0.0.1])
+	by rbl.ccert.edu.cn (8.12.11/8.12.11) with ESMTP id i971Fvag020872
+	for <shi@ccert.edu.cn>; Thu, 7 Oct 2004 09:15:57 +0800
+Received: (from qa@localhost)
+	by rbl.ccert.edu.cn (8.12.11/8.12.11/Submit) id i971FvLJ020871;
+	Thu, 7 Oct 2004 09:15:57 +0800
+Date: Thu, 7 Oct 2004 09:15:57 +0800
+Message-Id: <200410070115.i971FvLJ020871@rbl.ccert.edu.cn>
+Subject: =?gb2312?B?ofEgsbG+qc/It+ayqbS0uavLvryxxrjHtsjryr3I7bz+uaSzzMqmo6jTpr3sy7bKv7HP0rXJ+r/J
+0tS94r4=?=
+To: shi@ccert.edu.cn
+From: Tran Quang Anh <xue@cernet.edu.cn>
+Content-Type: multipart/mixed; boundary="----------=_1097111757-996-752"
+MIME-Version: 1.0
+X-UIDL: A9U"!g15"!2_V!!8H^"!
+
+北京先锋博创科技发展有限公司急聘嵌入式软件工程师
+具体要求如下：
+1.正直诚实，高度的责任感和敬业精神。
+2. 精通C/C++语言,熟练阅读英文材料.
+3. 熟悉数据结构，软件工程。
+4. 熟悉LINUX图形编程或熟悉makefile优先考虑
+5. 热衷于实际产品的开发，具有耐心,能技术攻关。
+6. 熟悉音频，视频算法或者界面设计者优先考虑
+7. 从事过多媒体研究,懂音频、视频、图像处理优先考虑
+注：2005年毕业的优秀硕士生公司可以为其解决北京市户口, 时间截止至6月15日,请应届硕士生踊跃应聘.
+待遇：工资待遇优厚，聘用后签订正式合同，并提供有竞争力的薪酬和国家规定的福利。
+望有意者与我公司联系! 
+地址：北京市海淀区体院西路甲2号A座202  
+ 电话：010-62967645 62967646-25
+ 传真: 8610-62967644
+ 邮编：100084
+ E-mail:jcyan@broadmaking.com
+ 网址：http://www.broadmaking.com
+             http://www.broadmaking.com.cn
+              http://www.digi-teck.com
+

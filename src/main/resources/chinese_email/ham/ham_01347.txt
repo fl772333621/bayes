@@ -1,0 +1,40 @@
+Return-Path: <peng@cernet.edu.cn>
+Received: from tsinghua.org.cn ([210.77.143.231])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id iB313NjO015510
+	for <gong@ccert.edu.cn>; Fri, 3 Dec 2004 09:03:25 +0800
+Received: (eyou send program); Fri, 03 Dec 2004 08:56:31 +0800
+Received: (eyou send program); Fri, 03 Dec 2004 08:56:31 +0800
+X-EYOU-ORIGINAL-IP: 210.77.143.235
+X-EYOU-ENVELOPE-MAILFROM: wlzxrs@cernet.edu.cn
+Received: from unknown (HELO eyou.net) (unknown@210.77.143.235)
+ by 210.77.143.231 with SMTP; Fri, 03 Dec 2004 08:56:31 +0800
+Received: (eyou send program); Fri, 03 Dec 2004 09:11:35 +0800
+Message-ID: <302036295.14436@eyou.net>
+Received: from 202.112.5.66 by 210.77.143.235 with SMTP; Fri, 03 Dec 2004 09:11:34 +0800
+Received: from 56ls81hgnjb0ggr ([202.112.4.6])
+	(authenticated bits=0)
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id iB31GOhv017543
+	for <gong@ccert.edu.cn>; Fri, 3 Dec 2004 09:16:27 +0800 (CST)
+Message-Id: <200412030116.iB31GOhv017543@sea.net.edu.cn>
+From: "peng" <peng@cernet.edu.cn>
+Reply-To: peng@cernet.edu.cn
+To: gong@ccert.edu.cn
+Subject: =?gb2312?B?UmU6IM/W1NrV5rXEsrvWqrXAuMPU9cO0sOzByw==?=
+X-mailer: Foxmail 4.2 [cn]
+Mime-Version: 1.0
+Content-Type: text/plain;
+      charset="GB2312"
+Date: Fri, 3 Dec 2004 9:15:31 +0800
+Content-Transfer-Encoding: 8bit
+X-MIME-Autoconverted: from quoted-printable to 8bit by home.ccert.edu.cn id iB313NjO015510
+X-UIDL: H,?"!J:~!!X%a!!";<!!
+
+连续考了三年都失败了，这研不必再考了
+好好工作吧
+工作一段时间休息好了还想考的话考个差点的学校，出来也不错的
+我04年没有复习，考了100多分，05年考了360多，今年打算全面调整，再冲一次
+不行的话永不再考清华
+退一步海阔天空
+清华不是终点，不是唯一出路
+: 我一般本科毕业,于03,04,05年参加了研究生入学考试,报考的清华大学建设管理系项目管理专业,第一年没怎么复习考的不是很理想,接着没有找工作义无反顾的再一次报考,这次还没达线考试成绩不上不下,我下定了决心再考一年,于是又辛辛苦苦的准备重头再来,折腾了大半年后还是没考取,心想找工作吧,但是本科又很烂,找了几个工作都不太理想,简历中工作经验也没多少,没什么单位要,现在就是呆着,做什么的都没心情,也不想上班,也不想重考,哎愁啊,怎么办啊~~~有没有人跟我一样的情况.你们又是怎么处理的呢?真是没办法了.
+

@@ -1,0 +1,47 @@
+Return-Path: <yi@ccert.edu.cn>
+Received: from home.ccert.edu.cn (ccert.edu.cn [202.112.57.12])
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id i9I3p0Px025784
+	for <weng@ccert.edu.cn>; Mon, 18 Oct 2004 11:51:00 +0800 (CST)
+Received: from 8jmd55gawpz3tjh ([202.112.50.7])
+	(authenticated bits=0)
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id i9I3dhsQ017658
+	for <weng@ccert.edu.cn>; Mon, 18 Oct 2004 11:39:45 +0800
+Message-ID: <00b801c4b4c5$ba7bd090$073270ca@8jmd55gawpz3tjh>
+From: "yi" <yi@ccert.edu.cn>
+To: weng@ccert.edu.cn
+References: <002301c4b1a8$36a3c0e0$c60af5d2@CCERTDAWEI>
+Subject: =?gb2312?B?ofEgsO/Dpr+0v7TE3LK7xNy6zcDPsOXJzMG/zOG437Xjtvk=?=
+Date: Mon, 18 Oct 2004 11:51:19 +0800
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2800.1437
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1441
+Content-Transfer-Encoding: 8bit
+X-MIME-Autoconverted: from base64 to 8bit by sea.net.edu.cn id i9I3p0Px025784
+X-UIDL: `,3!!\5P!!(J1!!E49!!
+
+环境硕士，一个小公司，10来人的规模。
+今天去和老板谈了谈，基调是欢迎加盟。
+不过没签什么东西，就是口头上交流了一下公司今后发展的方向方式等。
+公司有两项自己的技术，不过我对工艺颇存疑虑。
+此外大概就是采用别人的技术，本身角色相当于代理。
+公司要做的就是市场风险分析和工程技术支持。
+这方面，技术支持当前只有老板一个人，其余员工都是其他专业的，比如机械之类。
+关于待遇，老板问希望的底线，答：3k。结果就定下来是3k了。
+我晕，然后问他户口的问题。老板说自己是德籍，对此并不知情，公司
+其他人也都没有户口，我还是第一个提出这个问题的。户口的申请程序他不清楚，
+不过他保证为我办到...常规或者非常规方式，或者通过其他可以申请户口公司都可以。
+住房不解决。后来问了租房的情形，就加了700/m，不过，试用期期间没有。
+也就是试用期3000，正式员工之后3000+700
+接着，说了，第一年年薪可以达到5w，每年13/14个月
+以后的基本工资，看表现
+以后的项目提成，看任务的完成程度，至于比例，没说
+进入公司两三年的员工，待遇“远高于我”。
+其他待遇，医疗保险等公司会出。
+能不能这样重新商量商量？
+——试用期3个月，3000+700；正式员工之后4000+700。一年之后再定。
+或者干脆          4k                      5k   并明确每年工资月数。
+

@@ -1,0 +1,57 @@
+Return-Path: <guan@ns.6test.edu.cn>
+Received: from tsinghua.org.cn ([210.77.143.228])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id i9F9ORNL028672
+	for <jiang@ccert.edu.cn>; Fri, 15 Oct 2004 17:24:31 +0800
+Received: (eyou send program); Fri, 15 Oct 2004 17:35:12 +0800
+Received: (eyou send program); Fri, 15 Oct 2004 17:34:40 +0800
+X-EYOU-ORIGINAL-IP: 202.38.99.65
+X-EYOU-ENVELOPE-MAILFROM: toefl-bounces@server.cool-meeting.com
+Received: from unknown (HELO server.cool-meeting.com) (unknown@202.38.99.65)
+ by 210.77.143.228 with SMTP; Fri, 15 Oct 2004 17:34:40 +0800
+Received: from server.cool-meeting.com (localhost.localdomain [127.0.0.1])
+	by server.cool-meeting.com (8.12.8/8.12.8) with ESMTP id i9F9Selj019680
+	for <jiang@ccert.edu.cn>; Fri, 15 Oct 2004 17:29:09 +0800
+Received: from ns.6test.edu.cn ([202.38.99.18])
+	by server.cool-meeting.com (8.12.8/8.12.8) with ESMTP id i9F9Sbkr019676
+	for <jiang@ccert.edu.cn>; Fri, 15 Oct 2004 17:28:37 +0800
+Received: from [202.112.3.177] (helo=[202.112.3.177])
+	by ns.6test.edu.cn with asmtp (Exim 4.12) id 1CIOWj-0006he-00
+	for toefl@server.cool-meeting.com; Fri, 15 Oct 2004 17:37:33 +0800
+Message-ID: <416F964B.1010004@ns.6test.edu.cn>
+Date: Fri, 15 Oct 2004 17:20:11 +0800
+From: CHEN Maoke <guan@ns.6test.edu.cn>
+User-Agent: Mozilla Thunderbird 0.8 (Macintosh/20040913)
+X-Accept-Language: en-us, en
+MIME-Version: 1.0
+To: jiang@ccert.edu.cn
+Content-Type: multipart/mixed; boundary="------------080405050501070706030405"
+Subject: [SPAM-TEST] [SPAM] [TOEFL] [Fwd: [Fwd: =?utf-8?b?MjAwNcOEw6rDlcOQw4rDlcOMw6HDh8KwwrnCpcK2?= =?utf-8?b?w4HCssKpw4rCv8ORw5DCvsK/w4nDusK1w4TCucKkw5fDt8KwwrLDhcOFwrw=?= =?utf-8?b?wrDCsMOswrfCqF1d?=
+X-BeenThere: toefl@server.cool-meeting.com
+X-Mailman-Version: 2.1.2
+Precedence: list
+List-Id: &#26446;&#26143;&#21644;&#20182;&#30340;&#23398;&#29983;&#20204;
+	<toefl.server.cool-meeting.com>
+List-Unsubscribe: <http://server.cool-meeting.com/mailman/listinfo/toefl>,
+	<mailto:toefl-request@server.cool-meeting.com?subject=unsubscribe>
+List-Archive: <http://server.cool-meeting.com/mailman/private/toefl>
+List-Post: <mailto:toefl@server.cool-meeting.com>
+List-Help: <mailto:toefl-request@server.cool-meeting.com?subject=help>
+List-Subscribe: <http://server.cool-meeting.com/mailman/listinfo/toefl>,
+	<mailto:toefl-request@server.cool-meeting.com?subject=subscribe>
+Sender: toefl-bounces@server.cool-meeting.com
+Errors-To: toefl-bounces@server.cool-meeting.com
+X-UIDL: 6k*!!SE##!A;n!!(>E!!
+
+服了,刚在一处看到一个JJ要去照,也是纽约纽约,并且说有卡可以借人使,好象介绍的被介绍的都可以打折,看下她的介绍先,也许我可以帮你们搭个线儿````````汗
+以下是她写的:
+第三家：纽约.纽约
+地点：在赛特对面，一个比较大的门脸，看上去很气派
+个人体验总结：纽约.纽约的服务很不错，里面的小姐讲话和个人素质都还可以；不过价钱相比米兰春天和罗微稍贵那么一点点。服饰和婚纱不分vip，但有购买去和非购买区的区分，只有消费在8000以上的顾客可以选择购买区的服装，但购买区的服装在非购买区里面也可以找到，只是做工没有那么细致而已，样子的差不多的。场棚是不分vip的，有一个很不错的休息大厅，可以供男士休息使用，可以上网的，这样服务比较人性话。所有的服饰大家都可以非购买区自由选择，每对新人给5套服饰，包括2套台照。目前的优惠3000多的打折2000多，如果当天老板要是在公司，你又是第一对或最后一对新人的话可以给你跨越的优惠，就是在打折的基础上选购上一个级别的服务或是选择本级别的服务花下一个级别的钱，这样算来就和米兰春天和罗微就不差太多了。两个相册的照片是一样的，入册是28张，可以跟小姐商量达到满页和数码各一半；两个放大片；一个海报但是用料比较好，要不上两家的做工细致一些。水晶是一个12的，不过你也可以争取到10个；请柬的样子要比罗微的好看，争取多了20个。
+外景：提供雪景的拍摄，如果当时客人不想去外景可以去阳光影棚
+如果有想照婚纱照的朋友我推荐你去纽约，我已经交过定金了。当时店员说如果我能介绍新人的话，可以享受折扣基础上再优惠一些的利益。嘻嘻，因为我已经是纽约.纽约的会员了。如果有需要的朋友我可以帮你的哦，好事情要大家分享。
+最后，祝福所有的新人拍婚纱照愉快！～～～～～～～～～～～～～～
+ 
+: 我这个月23号要去拍婚纱照了，听说有那个卡可以打9折，想借用一下
+: 如果那位mm有的话请给我发信好吗？非常感谢！
+: 顺便问一下，当时我定了套系以后回来看精华区关于在纽约纽约拍婚纱照的文章发现自己订的太亏了，请问现在还有没有办法可以补救啊？还可以去跟那些人说吗？
+

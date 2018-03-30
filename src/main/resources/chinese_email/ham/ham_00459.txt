@@ -1,0 +1,71 @@
+Return-Path: <yi@mails.tsinghua.edu.cn>
+Received: from tsinghua.org.cn ([210.77.143.228])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id i8S4m1qq029124
+	for <huang@ccert.edu.cn>; Tue, 28 Sep 2004 12:48:03 +0800
+Received: (eyou send program); Tue, 28 Sep 2004 12:58:14 +0800
+Received: (eyou send program); Tue, 28 Sep 2004 12:58:13 +0800
+X-EYOU-ORIGINAL-IP: 202.38.99.65
+X-EYOU-ENVELOPE-MAILFROM: toefl-bounces@server.cool-meeting.com
+Received: from unknown (HELO server.cool-meeting.com) (unknown@202.38.99.65)
+ by 210.77.143.228 with SMTP; Tue, 28 Sep 2004 12:58:13 +0800
+Received: from server.cool-meeting.com (localhost.localdomain [127.0.0.1])
+	by server.cool-meeting.com (8.12.8/8.12.8) with ESMTP id i8S4nQlf022410
+	for <huang@ccert.edu.cn>; Tue, 28 Sep 2004 12:49:34 +0800
+Received: from mails.tsinghua.edu.cn (mails.tsinghua.edu.cn [166.111.8.16])
+	by server.cool-meeting.com (8.12.8/8.12.8) with SMTP id i8S4nOkr022406
+	for <huang@ccert.edu.cn>; Tue, 28 Sep 2004 12:49:24 +0800
+Received: (eyou send program); Tue, 28 Sep 2004 12:39:48 +0800
+Message-ID: <296346388.28750@mails.tsinghua.edu.cn>
+Received: from unknown (HELO mails.tsinghua.edu.cn) (unknown@127.0.0.1)
+	by 127.0.0.1 with SMTP; Tue, 28 Sep 2004 12:39:48 +0800
+X-scanvirus: By Symantec Scan Engine
+X-scanresult: NOREP
+Received: (eqmail ); 28 Sep 2004 04:39:46 -0000
+Received: from tu172175.tsinghua.edu.cn (HELO hoho)
+	(zhuyangbo99@166.111.172.175)
+	by mails.tsinghua.edu.cn with SMTP; 28 Sep 2004 04:39:46 -0000
+Date: Tue, 28 Sep 2004 12:51:17 +0800
+From: "yi" <yi@mails.tsinghua.edu.cn>
+To: huang@ccert.edu.cn
+Subject: =?gb2312?B?ofEgus3FrtPRtcTQxMfpyNW8xw==?=
+X-mailer: Foxmail 5.0 [cn]
+Mime-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: 8bit
+X-MIME-Autoconverted: from base64 to 8bit by server.cool-meeting.com id
+	i8S4nOkr022406
+Cc: =?gb2312?B?zfjC59bQ0MRUb2VmbMzWwtvX6Q==?= <jiang@ccert.edu.cn>
+X-BeenThere: toefl@server.cool-meeting.com
+X-Mailman-Version: 2.1.2
+Precedence: list
+List-Id: &#26446;&#26143;&#21644;&#20182;&#30340;&#23398;&#29983;&#20204;
+	<toefl.server.cool-meeting.com>
+List-Unsubscribe: <http://server.cool-meeting.com/mailman/listinfo/toefl>,
+	<mailto:toefl-request@server.cool-meeting.com?subject=unsubscribe>
+List-Archive: <http://server.cool-meeting.com/mailman/private/toefl>
+List-Post: <mailto:toefl@server.cool-meeting.com>
+List-Help: <mailto:toefl-request@server.cool-meeting.com?subject=help>
+List-Subscribe: <http://server.cool-meeting.com/mailman/listinfo/toefl>,
+	<mailto:toefl-request@server.cool-meeting.com?subject=subscribe>
+Sender: toefl-bounces@server.cool-meeting.com
+Errors-To: toefl-bounces@server.cool-meeting.com
+X-UIDL: ,O*!!Qh%!!jUj"!=!8!!
+
+今天是6月6日。
+好，现在写写我现在的心情。
+是的，有点小郁闷。因为不能天天和她在一起。现在她快考试了，学习很紧张。而我却不一样了。现在就是等着程序一样的论文答辩。然后等着毕业。
+快毕业的时候，心里，慌慌张张的。好象觉得忘记了些什么，又什么也抓不到。
+也许大家都这样吧。
+只能和她发短信，但是 我也想到了，她在学习的时候去发是不合适的，但是还是忍不住。
+她说了，这几天天天都有课，功课很紧张，所以我不能给她打电话，就是打她也不接。
+熬了一天，昨天晚上还是打了。
+果然，她一狠心，就是没有接啊。
+只是发来短信来说，让我快回去休息。
+呜呼。看来只有等着了……
+看来还要等几天喽。
+还是去踢球吧。过两天去看巴西和阿根廷的比赛。期待ing^^^^^
+看来我还是蛮有转移注意力的本事的嘛。
+自己赞一个。
+zishanlang2005-06-06
+

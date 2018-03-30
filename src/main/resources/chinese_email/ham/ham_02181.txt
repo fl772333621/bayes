@@ -1,0 +1,27 @@
+Return-Path: <fan@sina.com>
+Received: from sina.com (sina187-158.sina.com.cn [202.106.187.158] (may be forged))
+	by home.ccert.edu.cn (8.13.1/8.13.1) with SMTP id j2834luD030465
+	for <fu@ccert.edu.cn>; Tue, 8 Mar 2005 11:04:51 +0800
+Message-Id: <200503080304.j2834luD030465@home.ccert.edu.cn>
+Received: (qmail 75561 invoked from network); 8 Mar 2005 03:16:26 -0000
+Received: from unknown (HELO ibm-t23) (219.224.134.126)
+  by 202.106.187.158 with SMTP; 8 Mar 2005 03:16:26 -0000
+Received: from(cheriff@sina.com) to(qa@ccert.edu.cn)
+Date: Tue, 8 Mar 2005 11:06:46 +0800
+From: "fan" <fan@sina.com>
+To: fu@ccert.edu.cn
+Subject: =?gb2312?B?ofEgzeLD5sfn18WjrNDEyLTPwtfF0+o=?=
+X-mailer: Foxmail 5.0 [cn]
+Mime-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: 8bit
+X-MIME-Autoconverted: from base64 to 8bit by home.ccert.edu.cn id j2834luD030465
+X-UIDL: J16"!1`W"!6&0"!D^N"!
+
+   好不容易放假，却少了印象中的狂喜。自己也不知道为什么，也许是因为还有很多事情要做并未觉得轻松吧。上QQ看到看到有希望看到的人在线，虽然是离开状态，还是让我兴奋了一下。留言过去，过了一会却发现那个人没有回复就离开了。刹那间超乎想象的难过。有的时候人的坚强和软弱都超乎想象。想起那句话
+      有时候外面晴着，心却下着雨
+      有时候外面下着雨，心却晴着
+      心晴之时，雨也是晴
+      心雨之时，晴也是雨
+

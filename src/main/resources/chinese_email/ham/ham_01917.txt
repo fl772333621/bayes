@@ -1,0 +1,31 @@
+Return-Path: <han@rbl.ccert.edu.cn>
+Received: from rbl.ccert.edu.cn (rbl.ccert.edu.cn [202.112.57.71])
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id i96EiYcH005645
+	for <tao@ccert.edu.cn>; Wed, 6 Oct 2004 22:44:34 +0800 (CST)
+Received: from rbl.ccert.edu.cn (localhost.localdomain [127.0.0.1])
+	by rbl.ccert.edu.cn (8.12.11/8.12.11) with ESMTP id i96EoVSj028141
+	for <tao@ccert.edu.cn>; Wed, 6 Oct 2004 22:50:31 +0800
+Received: (from qa@localhost)
+	by rbl.ccert.edu.cn (8.12.11/8.12.11/Submit) id i96EoVPV028140;
+	Wed, 6 Oct 2004 22:50:31 +0800
+Date: Wed, 6 Oct 2004 22:50:31 +0800
+Message-Id: <200410061450.i96EoVPV028140@rbl.ccert.edu.cn>
+Subject: =?gb2312?B?ofEgyre/y83+tvuwrMThv8vLudXQxrhQSFAvSlNQv6q3ormks8zKpg==?=
+To: tao@ccert.edu.cn
+From: Tran Quang Anh <han@cernet.edu.cn>
+Content-Type: multipart/mixed; boundary="----------=_1097074231-996-682"
+MIME-Version: 1.0
+X-UIDL: Q#n!!d7:!!(Kp!!G[-"!
+
+1、熟悉Linux 系统的基本命令、熟悉Linux平台下的apache的基本配置。
+2、熟悉SQL语法及MsSQL数据库应用。
+3、精通PHP语法，有PHP Web程序实际开发经验一年以上。
+4、熟悉J2EE架构，有Servlet、JavaBean、XML相关开发经验,熟悉weblogic或WebSphere
+。
+5、沟通良好、抗压性高、责任感强、积极学习。
+6、良好的编程风格。 
+7、熟悉ruby语言开发者优先。
+8、同时会PHP和JSP开发者优先。
+有意者请将个人简历mailto: nathan@square-enix.net.cn
+请在邮件标题处注明“应聘PHP/JSP开发工程师”字样。
+

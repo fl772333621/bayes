@@ -1,0 +1,37 @@
+Return-Path: <yang@tsinghua.edu.cn>
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with SMTP id iBN2EVlp017076
+	for <hou@ccert.edu.cn>; Thu, 23 Dec 2004 10:15:07 +0800
+Received: (eyou send program); Thu, 23 Dec 2004 10:13:03 +0800
+Message-ID: <303767983.14854@mail.tsinghua.edu.cn>
+Received: from unknown (HELO mail.tsinghua.edu.cn) (unknown@127.0.0.1)
+ by 127.0.0.1 with SMTP; Thu, 23 Dec 2004 10:13:03 +0800
+X-scanvirus: By Symantec Scan Engine
+X-scanresult: CLEAN
+Received: (eqmail ); 23 Dec 2004 02:13:00 -0000
+Received: from unknown (HELO sony) (duanhx@166.111.204.187)
+  by localhost with SMTP; 23 Dec 2004 02:13:00 -0000
+Message-ID: <011f01c4e897$12f61780$d53270ca@sony>
+From: "yang" <yang@tsinghua.edu.cn>
+To: hou@ccert.edu.cn
+Cc: =?gb2312?B?1qPPyM6w?= <jin@ccert.edu.cn>, <cao@ccert.edu.cn>
+References: <303767006.10323@mail.tsinghua.edu.cn>
+Subject: =?gb2312?B?UmU6INC0uPjSqszuuN+/vNa+1Li1xMjLw8ejrLzmzLi149DQ0rW/tLeooaM=?=
+Date: Thu, 23 Dec 2004 10:28:21 +0800
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2900.2180
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+Content-Transfer-Encoding: 8bit
+X-MIME-Autoconverted: from base64 to 8bit by home.ccert.edu.cn id iBN2EVlp017076
+X-UIDL: 7`0"!Oin!!9Lh"!Plc!!
+
+工作的时候真的要在意专业么？
+我三份工作都和专业毫无关系
+我自己觉得干得还不错
+:    其实这个东西很难说清楚，呵呵,穷人的孩子早当.，总的来说读书就是为了养家糊口，活得体面一点。帖子的主人说的比较现实，说的可能有点偏激一点，但是也说的很对。可以肯定地说在未来很长一段时间，计算机和通信还是能找到比较好的工作（前提是要学的不错）。
+:    能考到这类的专业最好，当然不要得意(计算机和通信专业要学的东西太多,技术更新的太快,你需要不停地学习才能保证你能得到好的offer,才能保证好的工作)，因为万里长征才刚刚开始，现在公司的要求普遍都很高。不能考到这类专业的完全可以自学，我想在你毕业的时候只要�
+

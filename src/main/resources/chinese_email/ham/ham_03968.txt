@@ -1,0 +1,44 @@
+Return-Path: <yang@ccert.edu.cn>
+Received: from home.ccert.edu.cn (ccert.edu.cn [202.112.57.12])
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id j0I222eL028947
+	for <xiao@ccert.edu.cn>; Tue, 18 Jan 2005 10:02:02 +0800 (CST)
+Received: from sunbin_S ([202.112.50.201])
+	(authenticated bits=0)
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id j0I1oNAe009520;
+	Tue, 18 Jan 2005 09:50:24 +0800
+Message-Id: <200501180150.j0I1oNAe009520@home.ccert.edu.cn>
+Date: Tue, 18 Jan 2005 09:58:17 +0800
+From: "yang" <yang@ccert.edu.cn>
+Reply-To: yang@ccert.edu.cn
+To: xiao@ccert.edu.cn
+Cc: "lv@ccert.edu.cn" <mo@ccert.edu.cn>
+Subject: =?gb2312?B?ofEgSUJNIENSTLyx1dDSu8P707DS9NfKwc+31s721LE=?=
+Organization: CCERT
+X-mailer: Foxmail 5.0 beta2 [cn]
+Mime-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: 8bit
+X-MIME-Autoconverted: from base64 to 8bit by sea.net.edu.cn id j0I222eL028947
+X-UIDL: 9>n"!\aj!!`p5!!1>-!!
+
+IBM中国研究中心用户研究组现急招一名影音资料分析员
+由于是项目临时招人，希望拉来就能干活，而且任务比较简单，我们的要求也不是
+很高，因此，比较鼓励勤工俭学的同学来试试。
+职责：
+1.整理项目前期收集的影音资料（磁带、录像带）；
+2.参加项目中的访谈、观察等；
+3.依据项目需求对有关资料进行分析。
+要求：
+1.有社会学或心理学背景的本科生；大三或大四保研者为佳；（不是歧视研究生哈，
+实在是觉得有点人才浪费）
+2.有录音录像整理和分析经验；
+3.踏实、细心、有耐力。（估计这项工作会比较枯燥，先给大家打预防针）
+4.至少6月-9月之间能保证每周三天工作量。（不一定非得在公司，把材料拿回学校
+整理亦可）
+酬劳方面，将依据IBM公司招聘实习生的有关标准进行，相当有竞争力。
+有意者请于6月6日（周一）下午17点前将个人简历发送至
+liaoqy@cn.ibm.com
+符合要求者，我们将在6月7日周二通知面试
+由于项目较紧，不能一一回复，请见谅
+

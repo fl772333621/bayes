@@ -1,0 +1,35 @@
+Return-Path: <tang@mail.tsinghua.edu.cn>
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with SMTP id j5D4bNIU029260
+	for <guan@ccert.edu.cn>; Mon, 13 Jun 2005 12:37:33 +0800
+Received: (eyou send program); Mon, 13 Jun 2005 12:36:25 +0800
+Message-ID: <318637385.09180@mail.tsinghua.edu.cn>
+Received: from unknown (HELO mail.tsinghua.edu.cn) (unknown@127.0.0.1)
+ by 127.0.0.1 with SMTP; Mon, 13 Jun 2005 12:36:25 +0800
+X-scanvirus: By Symantec Scan Engine
+X-scanresult: CLEAN
+Received: (eqmail ); 13 Jun 2005 04:36:24 -0000
+Received: from unknown (HELO yinqi) (yinqi@166.111.12.243)
+  by localhost with SMTP; 13 Jun 2005 04:36:24 -0000
+Message-ID: <006201c56fd4$e3f45e40$f30c6fa6@yinqi>
+From: "tang" <tang@mail.tsinghua.edu.cn>
+To: guan@ccert.edu.cn
+Subject: =?gb2312?B?UmU6ILK7w/ew186qyrLDtNPQtcTIy9Xiw7TXotbYyfrI1Q==?=
+Date: Mon, 13 Jun 2005 13:00:58 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_NextPart_000_005F_01C57017.F15B5320"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 5.50.4927.1200
+X-MimeOLE: Produced By Microsoft MimeOLE V5.50.4927.1200
+X-UIDL: O$"#!Q2$#!ok=!!2LM"!
+
+过节过生日 lp都是命令禁止我浪费钱给她买礼物 特别是花 又贵又没有用
+她说你要送 就送我一个kiss好了
+不过。。。过生气还是要买个蛋糕我们一起吃
+因为这玩意儿 平时我们看着都馋 正好打着过生日的旗号 嘿嘿。。。
+: 生日究竟为什么要庆祝，为来到这个世界至于又是花又是礼物的么
+: 有的还是学生，自己也没有赚钱，大多是男方还要给女方买花吃饭，相对学生来说要花不少，人家花的也是父母的钱啊，有的女孩就这么理所应当的多不好啊。如果真的非常看重这些等工作以后再说。两个人之间一句话，一个温馨的眼神，比什么都强啊，只要心里有对方，这不就是我
+: 生日有这么高兴么？如果要庆祝也是应该给自己的妈妈庆祝阿，因为这一天她成为了母亲，当初抱着你的时候她心里多感慨多高兴啊。要过也是应该陪母亲过啊
+: ...................
+

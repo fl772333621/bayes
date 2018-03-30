@@ -1,0 +1,59 @@
+Return-Path: <jiang@home.ccert.edu.cn>
+Received: from home.ccert.edu.cn (localhost [127.0.0.1])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id j0B2evp8023586;
+	Tue, 11 Jan 2005 10:41:02 +0800
+Received: (from majordomo@localhost)
+	by home.ccert.edu.cn (8.13.1/8.13.1/Submit) id j0B2evvl023585;
+	Tue, 11 Jan 2005 10:40:57 +0800
+X-Authentication-Warning: home.ccert.edu.cn: majordomo set sender to owner-ccertstaff using -f
+Received: from ccertspark (tu203021.ip.tsinghua.edu.cn [166.111.203.21])
+	(authenticated bits=0)
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id j0B2edQg023531
+	for <xu@ccert.edu.cn>; Tue, 11 Jan 2005 10:40:47 +0800
+Reply-To: <jiang@cernet.edu.cn>
+From: "jiang" <jiang@ccert.edu.cn>
+To: xu@ccert.edu.cn
+Subject: =?gb2312?B?UmU6INP0w8Y=?=
+Date: Tue, 11 Jan 2005 10:50:51 +0800
+Message-ID: <000e01c4f788$69515f90$15cb6fa6@ccertspark>
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+X-Priority: 3 (Normal)
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook, Build 10.0.6626
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.3790.181
+Importance: Normal
+Content-Transfer-Encoding: 8bit
+X-MIME-Autoconverted: from quoted-printable to 8bit by home.ccert.edu.cn id j0B2elQg023569
+Sender: owner-ccertstaff@home.ccert.edu.cn
+Precedence: bulk
+X-UIDL: mk*!!Tal"!kc"#!;iU!!
+
+admire
+: 标  题: Re: 郁闷 
+: 发信站: 水木社区 (Wed Jun 15 17:49:53 2005), 站内
+: 
+: 电脑怎么会崩溃啊
+: —……
+: 
+: 我两台电脑
+: 至今没一台重装过系统……
+: 
+: 是不是打游戏的问题啊
+: 
+: 
+: 
+: 
+: 
+: : 自习回来 ,电脑就 莫名其妙地 崩溃了 ,我记得 走得时候 还是好的 啊 ,烦死了 懒得 重装 .
+: 
+: 
+: --
+: 
+: 幽兰露，如啼眼
+: 无物结同心，烟花不堪剪
+: 
+: 
+: ※ 来源:·水木社区 newsmth.net·[FROM: 162.105.118.*]
+

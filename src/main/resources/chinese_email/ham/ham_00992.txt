@@ -1,0 +1,30 @@
+Return-Path: <bi@mails.tsinghua.edu.cn>
+Received: from mails.tsinghua.edu.cn (mails.tsinghua.edu.cn [166.111.8.16])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j27GG7Q4011768
+	for <ke@ccert.edu.cn>; Tue, 8 Mar 2005 00:16:07 +0800 (CST)
+X-scanvirus: By SOPHOS Scan Engine
+X-scanresult: CLEAN
+X-Received: unknown,166.111.154.210,20050308000929
+Received: from unknown (HELO xiner) (xwang03@166.111.154.210)
+  by localhost with SMTP; 7 Mar 2005 16:09:29 -0000
+Message-ID: <001101c52330$f3121ca0$d29a6fa6@xiner>
+From: "bi" <bi@mails.tsinghua.edu.cn>
+To: ke@ccert.edu.cn
+References: <309919310.26424@mails.tsinghua.edu.cn> <001c01c52092$40cbf6b0$d8cb6fa6@xiner> <309951706.04191@mails.tsinghua.edu.cn> <001501c52124$aaa6e210$d29a6fa6@xiner> <310027632.23739@mails.tsinghua.edu.cn> <001901c522e0$c86a3730$d8cb6fa6@xiner> <310177387.16489@mails.tsinghua.edu.cn> <002201c522e6$925e4040$d8cb6fa6@xiner> <310180062.17711@mails.tsinghua.edu.cn> <003901c522f7$ffe10290$d8cb6fa6@xiner> <310210669.14224@mails.tsinghua.edu.cn>
+Subject: =?gb2312?B?UmU6ILvY0uQ=?=
+Date: Tue, 8 Mar 2005 00:15:57 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_000E_01C52374.00658980"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2800.1409
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1409
+X-UIDL: NhO!!UKR"!g(G"!Bc7!!
+
+mj！
+: 记得很多年前那次高考，成绩出来后，我放弃了某重点高校的多媒体专业，带着一丝迷茫与憧憬，忐忑与紧张，离开了北京，来到了位于南方某大城市的一所军事院校，从此，我穿着军装，挂着红牌，叠着豆腐块，行进在队列中，一天天的重复直线加方块的生活。很长一段时间，我分
+: 逐渐的我适应了自己的军人身分，适应了那里的环境，虽然有很多限制，很不自由，但慢慢的也不觉得什么了，同时，或许单调的生活反而更让我学会了如何控制情绪，如何承受压力。那四年是我最难忘的，不仅因为自己的人生发生了重大转变，更因为自己经历了很多的事情，真正开
+: 毕业后，我分回了北京，到单位报到后不久，我被派去带新兵，也算是补上当兵的这段经历吧。象我们这样直接考到军校的学生兵，因为没有当兵的经历，总让人觉得缺点什么。那段带兵的经历也很有意思，至少从新兵身上我看到自己四年前的影子。带兵回来后我被留在机关，成了一
+: ...................
+

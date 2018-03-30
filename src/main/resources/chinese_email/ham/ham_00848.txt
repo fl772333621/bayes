@@ -1,0 +1,31 @@
+Return-Path: <kong@tsinghua.org.cn>
+Received: from tsinghua.org.cn ([210.77.143.228])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id i9H7ehDD004536
+	for <bi@ccert.edu.cn>; Sun, 17 Oct 2004 15:40:45 +0800
+Received: (eyou send program); Sun, 17 Oct 2004 15:51:44 +0800
+X-EYOU-ORIGINAL-IP: 218.107.132.130
+X-EYOU-ENVELOPE-MAILFROM: chenguangying@tsinghua.org.cn
+Received: from unknown (HELO ccertdawei) (unknown@218.107.132.130)
+ by 210.77.143.228 with SMTP; Sun, 17 Oct 2004 15:51:44 +0800
+Message-ID: <03a701c4b41e$237d9db0$9f01510a@CCERTDAWEI>
+From: "kong" <kong@tsinghua.org.cn>
+To: bi@ccert.edu.cn
+Subject: =?gb2312?B?UmU6IDNHyc/C7cqxvOTQ/Lb4zrS+9iA1MM3yyMuyxcixv9q8tLHGvfzR28ewKHp6KQ==?=
+Date: Sun, 17 Oct 2004 15:51:36 +0800
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2800.1437
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1441
+Content-Transfer-Encoding: 8bit
+X-MIME-Autoconverted: from base64 to 8bit by home.ccert.edu.cn id i9H7ehDD004536
+X-UIDL: R,#!!8BT"!4<?!!]4m"!
+
+典型的yy文章，中国什么时候缺人才了？
+: 3G上马时间悬而未决，50万人才缺口即逼近眼前。据计世资讯最新报告显示，保守估计，明年起中国将进入3G基础建设高峰期，3G人才的市场缺口将达到50万以上。
+: 　　“目前，国内对于3G的关注，出现了冷热不均的现象。 
+: ”计世资讯分析师郭畅表示，设备厂商热，最终用户冷；上马时间讨论热，基础条件冷；3G行业热，配套行业冷。而3G人才建设就需要马上提到日程上来。
+: ...................
+

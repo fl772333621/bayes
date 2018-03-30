@@ -1,0 +1,82 @@
+Return-Path: <li@ns.6test.edu.cn>
+Received: from tsinghua.org.cn ([210.77.143.228])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id i9F9ORNL028672
+	for <gong@ccert.edu.cn>; Fri, 15 Oct 2004 17:24:31 +0800
+Received: (eyou send program); Fri, 15 Oct 2004 17:35:12 +0800
+Received: (eyou send program); Fri, 15 Oct 2004 17:34:40 +0800
+X-EYOU-ORIGINAL-IP: 202.38.99.65
+X-EYOU-ENVELOPE-MAILFROM: toefl-bounces@server.cool-meeting.com
+Received: from unknown (HELO server.cool-meeting.com) (unknown@202.38.99.65)
+ by 210.77.143.228 with SMTP; Fri, 15 Oct 2004 17:34:40 +0800
+Received: from server.cool-meeting.com (localhost.localdomain [127.0.0.1])
+	by server.cool-meeting.com (8.12.8/8.12.8) with ESMTP id i9F9Selj019680
+	for <gong@ccert.edu.cn>; Fri, 15 Oct 2004 17:29:09 +0800
+Received: from ns.6test.edu.cn ([202.38.99.18])
+	by server.cool-meeting.com (8.12.8/8.12.8) with ESMTP id i9F9Sbkr019676
+	for <gong@ccert.edu.cn>; Fri, 15 Oct 2004 17:28:37 +0800
+Received: from [202.112.3.177] (helo=[202.112.3.177])
+	by ns.6test.edu.cn with asmtp (Exim 4.12) id 1CIOWj-0006he-00
+	for toefl@server.cool-meeting.com; Fri, 15 Oct 2004 17:37:33 +0800
+Message-ID: <416F964B.1010004@ns.6test.edu.cn>
+Date: Fri, 15 Oct 2004 17:20:11 +0800
+From: CHEN Maoke <li@ns.6test.edu.cn>
+User-Agent: Mozilla Thunderbird 0.8 (Macintosh/20040913)
+X-Accept-Language: en-us, en
+MIME-Version: 1.0
+To: gong@ccert.edu.cn
+Content-Type: multipart/mixed; boundary="------------080405050501070706030405"
+Subject: [SPAM-TEST] [SPAM] [TOEFL] [Fwd: [Fwd: =?utf-8?b?MjAwNcOEw6rDlcOQw4rDlcOMw6HDh8KwwrnCpcK2?= =?utf-8?b?w4HCssKpw4rCv8ORw5DCvsK/w4nDusK1w4TCucKkw5fDt8KwwrLDhcOFwrw=?= =?utf-8?b?wrDCsMOswrfCqF1d?=
+X-BeenThere: toefl@server.cool-meeting.com
+X-Mailman-Version: 2.1.2
+Precedence: list
+List-Id: &#26446;&#26143;&#21644;&#20182;&#30340;&#23398;&#29983;&#20204;
+	<toefl.server.cool-meeting.com>
+List-Unsubscribe: <http://server.cool-meeting.com/mailman/listinfo/toefl>,
+	<mailto:toefl-request@server.cool-meeting.com?subject=unsubscribe>
+List-Archive: <http://server.cool-meeting.com/mailman/private/toefl>
+List-Post: <mailto:toefl@server.cool-meeting.com>
+List-Help: <mailto:toefl-request@server.cool-meeting.com?subject=help>
+List-Subscribe: <http://server.cool-meeting.com/mailman/listinfo/toefl>,
+	<mailto:toefl-request@server.cool-meeting.com?subject=subscribe>
+Sender: toefl-bounces@server.cool-meeting.com
+Errors-To: toefl-bounces@server.cool-meeting.com
+X-UIDL: 6k*!!SE##!A;n!!(>E!!
+
+地点：海淀南路东四楼906，海淀黄庄麦当劳往西200米
+电话：83342765
+全天恭候，欢迎前来选购考研书籍
+英语资料
+书名                  作者                     原价
+新东方考研英语辅导班教材 (阅读理解-英译汉,完型,词汇-听力-写作共四册)2005年版   40.00
+新东方考研英语核心词汇笔记2005年版            29.00
+新东方考研英语阅读理解精读100篇2005年版       29.00
+新东方考研英语阅读理解高分宝典2005年版        29.00
+新航道考研英语新题型速战速决              14.00
+新航道考研英语考前10天作文突破（附送新东方写作策略与高分范文）    10.00
+英语最后冲刺预测试卷2005年版 张锦芯             25.00
+2005年英语全真模拟试卷含磁带   高教 杜子华         58.00
+2005年考研英语阅读200篇    张锦芯                    48.00
+2005年考研英语模拟考场  张锦芯                       36.00
+2005年考研英语考研英语水平定位测试  张锦芯           26.00
+2005年毕金献8套题                                    26.00
+2005年朱太奇8套冲刺题                     20.00
+考研英语(94-02)英语阅读真题语言注释与难句突破   胡敏 28.00
+2004年考研英语词汇复习指南        谢振元         38.00
+2004年考研标准阅读280篇          王长喜              35.00
+2004年英语阅读理解240篇200例难句突破             38.00
+精编英语阅读理解220篇    石春祯                 49.00
+政治资料
+2005年考研政治核心试题 考试虫 赵宇             29.00
+2004年政治基础过关2000题       陈先奎                40.00
+2005年政治理论高教参考书                 35.00
+2005年任汝芬序列二                     29.00
+2005年政治理论考试分析                     23.00
+2005年启航政治辅导班教材一套习题一套             50.00
+政治理论经典文选导读 龙十一                 12.00
+心理学专业资料
+心理实验纲要  杨博民 北大出版社                 38.00
+心理统计英文版教材                     50.00
+Psychology and Life 第五版                 50.00
+Psychology and Life 第五版习题                 30.00
+北大心理系专业资料，集合我两年所收集各家之精华，包含各种信息，讲义，笔记，试卷达十多公斤
+

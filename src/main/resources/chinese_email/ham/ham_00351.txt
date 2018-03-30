@@ -1,0 +1,25 @@
+Return-Path: <han@rbl.ccert.edu.cn>
+Received: from rbl.ccert.edu.cn (rbl.ccert.edu.cn [202.112.57.71])
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id i8T6rbdo006440
+	for <jian@ccert.edu.cn>; Wed, 29 Sep 2004 14:53:38 +0800 (CST)
+Received: from rbl.ccert.edu.cn (localhost.localdomain [127.0.0.1])
+	by rbl.ccert.edu.cn (8.12.11/8.12.11) with ESMTP id i8T60laA005107
+	for <jian@ccert.edu.cn>; Wed, 29 Sep 2004 14:00:48 +0800
+Received: (from qa@localhost)
+	by rbl.ccert.edu.cn (8.12.11/8.12.11/Submit) id i8T60lKs005106;
+	Wed, 29 Sep 2004 14:00:47 +0800
+Date: Wed, 29 Sep 2004 14:00:47 +0800
+Message-Id: <200409290600.i8T60lKs005106@rbl.ccert.edu.cn>
+Subject: =?gb2312?B?UmU6IEdHy7XL+8Lowuiz9seusO/O0ru51vrRp7T7v+6jrNXi0fm6z8rKwvCjvw==?=
+To: jian@ccert.edu.cn
+From: Tran Quang Anh <han@cernet.edu.cn>
+Content-Type: multipart/mixed; boundary="----------=_1096437648-996-142"
+MIME-Version: 1.0
+X-UIDL: EV^!!U!`"!#K""!eAB"!
+
+呵呵，老人家一片好意，你也可领了，毕竟也不算太见外。不过你可以说到时连利息一起环给他妈就是了，和他说好一定还，至于结婚后给你们是另外一回事。
+: 我现在刚毕业，要还款，GG说让他妈妈出钱还，以后我存了钱再还他妈妈就可以了，不用付利息。
+: 我现在的工作一年还清贷款比较有希望，但可能还要还2000左右的利息（总共3万左右），GG觉得把利息付银行挺亏的。
+: 我和GG还没结婚，但感情挺好，只是觉得还没嫁给他就和他们家扯上钱的关系，感觉不太舒服，欠了他妈妈人情似的，这样合适吗？
+: ...................
+

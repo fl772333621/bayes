@@ -1,0 +1,41 @@
+Return-Path: <tao@home.ccert.edu.cn>
+Received: from home.ccert.edu.cn (localhost [127.0.0.1])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id iBU8O8n6021178;
+	Thu, 30 Dec 2004 16:24:08 +0800
+Received: (from majordomo@localhost)
+	by home.ccert.edu.cn (8.13.1/8.13.1/Submit) id iBU8O88v021177;
+	Thu, 30 Dec 2004 16:24:08 +0800
+X-Authentication-Warning: home.ccert.edu.cn: majordomo set sender to owner-ccertstaff using -f
+Received: from ns.6test.edu.cn (ns.6test.edu.cn [202.112.54.2])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id iBU8O8G9021173
+	for <hua@ccert.edu.cn>; Thu, 30 Dec 2004 16:24:08 +0800
+Received: from tu203047.tsinghua.edu.cn ([166.111.203.47] helo=wanglanjia)
+	by ns.6test.edu.cn with asmtp (Exim 4.12)
+	id 1CjwGz-000G12-00
+	for ccertstaff@ccert.edu.cn; Thu, 30 Dec 2004 17:07:09 +0800
+Message-ID: <005c01c4ee4a$eca9ad30$2fcb6fa6@wanglanjia>
+From: "tao" <tao@ns.6test.edu.cn>
+To: hua@ccert.edu.cn
+Subject: =?gb2312?B?UmU6INC0uPjSqszuuN+/vNa+1Li1xMjLw8ejrLzmzLi149DQ0rW/tLeooaM=?=
+Date: Thu, 30 Dec 2004 16:38:23 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0059_01C4EE8D.FAC0DF40"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2800.1437
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1441
+Sender: owner-ccertstaff@home.ccert.edu.cn
+Precedence: bulk
+X-UIDL: EE"#!'<U"!%8O!!80+"!
+
+很多话说得不错
+专业嘛，确实现在基础学科都不好找工作，我是学化学的，我同学里也就几个转行的混得不错。大多数都继续读研读博或出国，简言之就是不出国不转行基本没什么前途。转行也不是那么容易的。当然如果你在名校的这些基础学科成绩能排得很靠前的话，还是有机会的。但这些人基本都会选择出国的。
+毕业找工作不是光论学校的，清华毕业的没什么了不起的，用人单位根本不管这个。大部分非技术类职位谁做都一样，是不。
+各行业各名企业确实都存在学校势力的问题，例如某公司上海交大势力很强，你如果是个复旦的去面试碰到个交大的面试官你就自认倒霉吧。专业性的学校在很多领域确实有优势，像北邮在通信领域，石油大学在石油领域，财大在金融领域，等等。考个清华的烂系真是不如在这些学校的强系，你能在里面出类拔萃的机会也远比在清华大。
+清华唯一的好处就是读研比例高，出国稍微容易些。如果你想好了读完本科就出来找工作的，一定别选清华的烂系。
+: 看那么多人问，很想跟大家一起探讨一下，欢迎拍砖，当然，反对谩骂。
+: 感觉这个东西跟job很有关系，好的学校加专业是找到一个好工作的开始，所以发在这，希望斑竹别珊。
+: 读了四年，考了半年研，找了半年工作的一些感想。
+: ...................
+

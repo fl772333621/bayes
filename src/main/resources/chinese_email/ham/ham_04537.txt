@@ -1,0 +1,40 @@
+Return-Path: <gu@ccert.edu.cn>
+Received: from tsinghua.org.cn ([210.77.143.231])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id j073JI3Z019370
+	for <ou@ccert.edu.cn>; Fri, 7 Jan 2005 11:19:19 +0800
+Received: (eyou send program); Fri, 07 Jan 2005 11:10:33 +0800
+Received: (eyou send program); Fri, 07 Jan 2005 11:10:32 +0800
+X-EYOU-ORIGINAL-IP: 210.77.143.235
+X-EYOU-ENVELOPE-MAILFROM: starry@ccert.edu.cn
+Received: from unknown (HELO eyou.net) (unknown@210.77.143.235)
+ by 210.77.143.231 with SMTP; Fri, 07 Jan 2005 11:10:32 +0800
+Received: (eyou send program); Fri, 07 Jan 2005 11:24:37 +0800
+Message-ID: <305068277.02653@eyou.net>
+Received: from 202.112.57.12 by 210.77.143.235 with SMTP; Fri, 07 Jan 2005 11:24:36 +0800
+Received: from starry ([202.112.50.9])
+	(authenticated bits=0)
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id j073J5HO019328;
+	Fri, 7 Jan 2005 11:19:05 +0800
+Message-Id: <200501070319.j073J5HO019328@home.ccert.edu.cn>
+Date: Fri, 7 Jan 2005 11:30:53 +0800
+From: "gu" <gu@ccert.edu.cn>
+To: ou@ccert.edu.cn
+Cc: "zhenghui" <gu@ccert.edu.cn>,
+        "chenguangying" <kang@ccert.edu.cn>,
+        "zjwu" <kang@ccert.edu.cn>
+Subject: =?gb2312?B?ofEgz+CwrrW9t9bK1g==?=
+X-mailer: Foxmail 5.0 [cn]
+Mime-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: 8bit
+X-MIME-Autoconverted: from base64 to 8bit by home.ccert.edu.cn id j073JI3Z019370
+X-UIDL: ZT""!eW?!!#6K!!KB_!!
+
+    终于到了这一天，我从爱恋的纠缠中冷静了下来---宛如从云端跌下，虽然直到此刻我仍不能否认自己对你的感情，但我们毕竟已经从相爱走到了分手......
+    回忆中有许许多多你的影子，酸甜苦辣的爱的滋味，我们都那么的年轻那么的激动，那么深切的爱着彼此，那么的敏感和不宽容。其实从我和你在一起的第一天开始我就知道我一定会和你分开，心碎的一个人走......
+    写这些文字，不过是想寻找一个载体让自己倾诉，再从倾诉中平静下来，一切都只是过程，生命是很长很远的路，但我最美好的青春年华的一段是和你一起度过的，我曾爱着你就象爱我自己，你是我心底深刻的烙印，直到我忘记所有温情，激情，深情，多情的思绪.......
+     从今天起，我要告别和你同行的岁月，试着一个人勇敢的前行，不管前面的路程是快乐还是痛苦你曾经的爱都会一直温暖着我的心，直到我的声音沙哑，容颜老去，在无穷无尽的时光之中仍会有一个片段的时光属于我们相爱的那个秋天----我站在凤凰树下，嘴边恍惚的笑容，思念着远方的你......
+    
+    
+

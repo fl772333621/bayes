@@ -1,0 +1,53 @@
+Return-Path: <liu@tsinghua.edu.cn>
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with SMTP id j0A5bDsR021597
+	for <zhao@ccert.edu.cn>; Mon, 10 Jan 2005 13:37:29 +0800
+Received: (eyou send program); Mon, 10 Jan 2005 13:33:19 +0800
+Message-ID: <305335199.27553@mail.tsinghua.edu.cn>
+Received: from unknown (HELO mail.tsinghua.edu.cn) (unknown@127.0.0.1)
+ by 127.0.0.1 with SMTP; Mon, 10 Jan 2005 13:33:19 +0800
+X-scanvirus: By Symantec Scan Engine
+X-scanresult: CLEAN
+Received: (eqmail ); 10 Jan 2005 05:33:17 -0000
+Received: from unknown (HELO sony) (duanhx@166.111.204.107)
+  by localhost with SMTP; 10 Jan 2005 05:33:17 -0000
+Message-ID: <01b601c4f6d8$13929980$6ce86fa6@sony>
+From: "liu" <liu@tsinghua.edu.cn>
+To: zhao@ccert.edu.cn
+Subject: =?gb2312?B?UmU6INXi0fm1xMjLLLCm?=
+Date: Mon, 10 Jan 2005 13:48:56 +0800
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="----=_NextPart_000_01B2_01C4F71B.20EA9A40"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2800.1106
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1106
+X-UIDL: :Hh"!fjW!!1bQ"!F!m!!
+
+: 标  题: Re: 这样的人,唉
+: 发信站: 水木社区 (Mon Jun  6 13:03:14 2005), 站内
+: 
+: 不愿考别勉强自己，也许他只是担心你被社会淘汰
+: 而不是认为你和他之间差距太大
+: 我就不会鼓励mm考研，那意味着我还要很多年才能安定下来
+～～～～～～～～～～～～～～～～～～～～～～～
+这最后一句这么熟悉。。。
+: 
+: 
+: : 其实我以前从来没认为一个女人要多高的学历~本科是基本.要是喜欢读书可以再上研~
+: : 但是看了那位清华博士的dd后,我觉得很难受.是不是自己的女人要不输给别人的女人?无论是长相还是学历?其实他不明白除去清华,他还有什么可牛的?
+: : 我的清华男友也在鼓励我考研,我其实有点害怕.要是考不上会怎样?真的,我从来没有感受过这么大的压力~我也许真的会离开他的
+: 
+: 
+: --
+: 叫一声约瑟夫孤的好兄弟          嗔一声敬爱的……（帮腔）弗拉基米尔·依里奇
+: 有件事朕同你细说端的            三日前本将军已传话下去
+: 打冬宫咱还要从长计议            打冬宫不准毁坏文物古迹
+: 切不可闹意气误了战机            开枪不能朝着壁上的裸体
+: 冬宫内到处有许多裸体            那都是尼古拉留给咱们无产阶级的
+: 全都是大理石雕刻成的                            ——川剧·列宁在十月
+: 
+: 
+: ※ 来源:·水木社区 newsmth.net·[FROM: 211.144.20.*]
+

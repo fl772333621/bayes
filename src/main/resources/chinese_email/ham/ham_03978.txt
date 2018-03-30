@@ -1,0 +1,25 @@
+Return-Path: <hu@rbl.ccert.edu.cn>
+Received: from rbl.ccert.edu.cn (rbl.ccert.edu.cn [202.112.57.71])
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id i8TLuoXQ015838
+	for <tang@ccert.edu.cn>; Thu, 30 Sep 2004 05:56:50 +0800 (CST)
+Received: from rbl.ccert.edu.cn (localhost.localdomain [127.0.0.1])
+	by rbl.ccert.edu.cn (8.12.11/8.12.11) with ESMTP id i8TM2MNG023247
+	for <tang@ccert.edu.cn>; Thu, 30 Sep 2004 06:02:22 +0800
+Received: (from qa@localhost)
+	by rbl.ccert.edu.cn (8.12.11/8.12.11/Submit) id i8TM2MIj023246;
+	Thu, 30 Sep 2004 06:02:22 +0800
+Date: Thu, 30 Sep 2004 06:02:22 +0800
+Message-Id: <200409292202.i8TM2MIj023246@rbl.ccert.edu.cn>
+Subject: =?gb2312?B?UmU6ILTzvNLF3MziwcstLS0tLS0tLS0tLbHqIMziOiDH673MtPO80qGjoaOho7bg0Ls=?=
+To: tang@ccert.edu.cn
+From: Tran Quang Anh <hu@cernet.edu.cn>
+Content-Type: multipart/mixed; boundary="----------=_1096495342-996-236"
+MIME-Version: 1.0
+X-UIDL: !d`"!~(g"!8;K!!@R+!!
+
+        有关系，市场类职位毕竟都有相通之处的，当然一般都要求有类似行业背景的经验，你可以去zhaopin.com上搜搜一些市场类职位，看看他们都需要什么
+: 我现在在一个很小的公司做业务的拓展的实习， 我想问问这个对我将来找工作有用吗？ 
+: 这个属于市场类吗？
+: 如果将来我想做市场类的，因为不同的公司，业务都是不一样的，我就在想会有用吗？ 将来工作了去了另外的一个公司，那岂不是还得从头再来啊？
+: ...................
+

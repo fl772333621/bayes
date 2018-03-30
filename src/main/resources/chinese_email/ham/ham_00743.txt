@@ -1,0 +1,29 @@
+Return-Path: <qian@ebay.com.cn>
+Received: from autoforward.mail.sohu.com ([61.135.132.166])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id j05FET77015856
+	for <xue@ccert.edu.cn>; Wed, 5 Jan 2005 23:14:29 +0800
+Received: from mx23.mail.sohu.com (unknown [192.168.41.141])
+	by autoforward.mail.sohu.com (Postfix) with ESMTP id E99E78E409
+	for <xue@ccert.edu.cn>; Wed,  5 Jan 2005 23:28:58 +0800 (CST)
+Received: by mx23.mail.sohu.com (Postfix)
+	id AB52314018; Wed,  5 Jan 2005 23:28:57 +0800 (CST)
+Delivered-To: chen741120@mx23.mail.sohu.com
+Received: from mx20.sjc.ebay.com (unknown [66.135.197.16])
+	by admx.sohu.com (Postfix) with ESMTP id 24DCF122BC2
+	for <xue@ccert.edu.cn>; Wed,  5 Jan 2005 23:28:57 +0800 (CST)
+Received: from sj-v3bota03 (sj-v3bota03.sjc.ebay.com [10.6.173.212])
+	by mx20.sjc.ebay.com (8.12.3/8.12.3) with ESMTP id j05FQU5e008010
+	for <xue@ccert.edu.cn>; Wed, 5 Jan 2005 07:28:54 -0800
+Date: Wed, 5 Jan 2005 07:28:54 -0800
+Message-ID: <776232731.1104938934672.JavaMail.ebayapp@sj-v3bota03>
+From: qian@ebay.com.cn
+To: xue@ccert.edu.cn
+Subject: =?gb2312?B?UmU6INXi0ru0ztXmtcS3xcrWwvCjvw==?=
+Mime-Version: 1.0
+Content-Type: multipart/mixed; boundary="----------=_1104938070-13540-2"
+X-eBay-MailTracker: 10081..223.0
+X-UIDL: JY&"!#9J!!*YE!!B>T"!
+
+还有这样的人，庆幸没嫁他才对呀，可怜那个吉林MM了
+: 和他是高中同学，从93年就相识了，01年开始相恋，不过一直分隔两地，现在我在广州读书，而他今年就要毕业了。四年的异地恋情，让我们有很多的争吵，期间也曾几次说到分手每次都是他提出，可每次都被我挽回，我实在是舍不得，这么多年的感情啊，哪能说断就断？我一直在等着他来广州工作，我以为只要在一起，我们就一定不会有问题了，因为我知道我很爱他，我想他应该也是爱着我的。虽然这半年来关系一直不好，若有若无的，可是大家都知道我还是一直在等着他的，就在一个多月前，他告诉我说如果他顺利毕业的话，很快就会结婚了，是个吉林MM? ！！！！！Ｕ娴氖翘齑蚶着频模吲宰穑梦已≡窳顺聊Ｕ庖桓龆嘣拢惺碧馗叶绦牛惺币哺业缁埃晌掖永炊济唤庸也恢栏迷趺疵娑运蚁胍残硭皇窍肫野桑峁柑烨八褽-mail，仔细形容了那个女孩，还说可能9月就结婚，虽然他爱的是我。我真的不敢相信，一个真正爱我的人，会和另一个女人结婚吗？这一次我真的要放手吗？
+

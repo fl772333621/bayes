@@ -1,0 +1,35 @@
+Return-Path: <han@mails.tsinghua.edu.cn>
+Received: from mails.tsinghua.edu.cn (mails.tsinghua.edu.cn [166.111.8.16])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j092qdvj015953
+	for <pan@ccert.edu.cn>; Sun, 9 Jan 2005 10:52:39 +0800 (CST)
+Received: (eyou send program); Sun, 09 Jan 2005 10:47:10 +0800
+Message-ID: <305238830.24162@mails.tsinghua.edu.cn>
+Received: from unknown (HELO mails.tsinghua.edu.cn) (unknown@127.0.0.1)
+ by 127.0.0.1 with SMTP; Sun, 09 Jan 2005 10:47:10 +0800
+X-scanvirus: By Symantec Scan Engine
+X-scanresult: CLEAN
+X-Received: tu172250.ip.tsinghua.edu.cn,166.111.172.250,20050109104706
+Received: from tu172250.ip.tsinghua.edu.cn (HELO yfzy) (yang.feng00@166.111.172.250)
+  by localhost with SMTP; 9 Jan 2005 02:47:06 -0000
+Message-ID: <001001c4f5f6$65afda80$faac6fa6@yfzy>
+From: "han" <han@mails.tsinghua.edu.cn>
+To: pan@ccert.edu.cn
+References: <001e01c4f4a9$27d1ae80$15cb6fa6@ccertspark> <305192741.29836@mails.tsinghua.edu.cn>
+Subject: =?gb2312?B?UmU6IMWuyMu1xNaws6HJ+tHEvr++ubbgs6Q=?=
+Date: Sun, 9 Jan 2005 10:53:26 +0800
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2600.0000
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2600.0000
+Content-Transfer-Encoding: 8bit
+X-MIME-Autoconverted: from base64 to 8bit by sea.net.edu.cn id j092qdvj015953
+X-UIDL: 6AZ"!SiW"!"O_"!lW+!!
+
+我觉得主要是要严格要求自己，把时间安排好，既要当个好妈妈，职业上也不能松懈。
+我是以婆婆为榜样的，她是两个孩子的妈妈，做得各种好菜，亲自给他们缝制衣服，织毛衣，但事业上也很上进，年轻时经常学习业务到深夜，给孩子讲完故事，哄他们睡了，她就和公公一起看书。所以，当她快退休的时候（60岁），回首看来，有一双好儿女，还有令自己欣慰的职业生涯，真的很不错。
+: 是么？
+: 我怎么觉得生完孩子后，累赘会更大？
+

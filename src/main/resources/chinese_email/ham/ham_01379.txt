@@ -1,0 +1,68 @@
+Return-Path: <luo@compass.net.edu.cn>
+Received: from tsinghua.org.cn ([210.77.143.232])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with SMTP id j3R5sMHg021000
+	for <you@ccert.edu.cn>; Wed, 27 Apr 2005 13:54:35 +0800
+Received: (eyou send program); Wed, 27 Apr 2005 14:10:51 +0800
+Message-ID: <314582251.17426@tsinghua.org.cn>
+X-EYOU-AUTOFORWARD: tsinghua.org.cn
+Received: (eyou send program); Wed, 27 Apr 2005 14:10:51 +0800
+Message-ID: <314582245.15528@tsinghua.org.cn>
+Received: from unknown (HELO eyou.net) (210.77.143.235)
+ by 210.77.143.232 with SMTP; Wed, 27 Apr 2005 14:10:51 +0800
+X-EYOU-SPAMVALUE: 0
+Received: (eyou anti_spam gateway 3.0); Wed, 27 Apr 2005 14:00:15 +0800
+Message-ID: <314581615.14152@eyou.net>
+Received: from 202.112.49.111 by 210.77.143.235 with SMTP; Wed, 27 Apr 2005 14:00:14 +0800
+Received: from Garfield. (localhost [IPv6:::1])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with ESMTP id j3R66OOh008807
+	for <you@ccert.edu.cn>; Wed, 27 Apr 2005 14:06:53 +0800 (CST)
+	(envelope-from toefl-bounces@gradinfo.net.edu.cn)
+Received: from compass.net.edu.cn (compass.net.edu.cn [202.38.188.130])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with ESMTP id j3R66KEr008803
+	for <you@ccert.edu.cn>; Wed, 27 Apr 2005 14:06:20 +0800 (CST)
+	(envelope-from liyue@compass.net.edu.cn)
+Received: from tu203074.ip.tsinghua.edu.cn ([166.111.203.74] helo=thtfcomputer)
+	by compass.net.edu.cn with asmtp (Exim 3.36 #1 (Debian))
+	id 1DQflt-00064U-00
+	for <you@ccert.edu.cn>; Wed, 27 Apr 2005 14:11:43 +0800
+From: "luo" <luo@compass.net.edu.cn>
+To: you@ccert.edu.cn
+Date: Wed, 27 Apr 2005 14:08:12 +0800
+Message-ID: <000001c54aef$966aada0$0100a8c0@thtfcomputer>
+MIME-Version: 1.0
+X-Priority: 3 (Normal)
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook, Build 10.0.2627
+Importance: Normal
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+Cc: 
+Subject: =?gb2312?B?ofEg1K3AtM7S0rvWsdTa19TX97bgx+k=?=
+X-BeenThere: toefl@gradinfo.net.edu.cn
+X-Mailman-Version: 2.1.5
+Precedence: list
+List-Id: "&#26446; &#26143; &#21644; &#20182; &#30340; &#23398; &#29983;
+	&#20204; " <toefl.gradinfo.net.edu.cn>
+List-Unsubscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=unsubscribe>
+List-Archive: <http://gradinfo.net.edu.cn/mailman/private/toefl>
+List-Post: <mailto:toefl@gradinfo.net.edu.cn>
+List-Help: <mailto:toefl-request@gradinfo.net.edu.cn?subject=help>
+List-Subscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=subscribe>
+Content-Type: multipart/mixed; boundary="===============1654672882=="
+Sender: toefl-bounces@gradinfo.net.edu.cn
+Errors-To: toefl-bounces@gradinfo.net.edu.cn
+X-UIDL: k6;"!EBD"!!8P"!C6D!!
+
+    喜欢一个女生，但是异地。很喜欢她。基本上每天晚上都给她打电话。就这样联系也有两个月了。
+    有一天晚上，她说喜欢我，做我的女朋友。我当时真的很高兴，有种想出去跑步或游泳的感觉。我真的很喜欢她，想很好的对待这段感情，想好好的疼她，包容她。她也说过和我在一起觉得我能包容她。虽然不在一个地方，我想只要努力，肯定会在一起的。甚至还发帖请教前辈们异地恋的经验。
+    我以为她说喜欢我，做我的女朋友，我们的关系就算是确定了。谁知她经常头天说做我女朋友，转天就说没有答应做我女朋友，说以前只是在我身上练习，因为有人说她太矜持。她还说过喜欢我，要嫁给我这样暧昧的话。不知哪句是真是假。
+    在那边还有两个喜欢她的男生（她告诉我说那两个男生喜欢她，但是被她拒绝。他们之间是亲情加友情）。我也没有多说，只是告诉她以后少联系，我也在乎这个。
+    她和他们一直联系，简直是频繁联系。她只是在心情不好的时候打我电话，响一声挂掉，然后我给打过去。从来不回我的短信，不管我有多么着急。
+    今天晚上又是这样，和一个男生一直电话，我给她打就是不理我（她的电话通话时也可以显示有电话打入）。终于明白了。原来是我一直在自作多情。人家根本就没在乎过我，我只是她心情不好时宣泄的地方。可怜我这两个月来还以为找到爱情了，一直备受折磨。心特别累。
+    偶还告诉了朋友，说有女朋友了。看来要一一解释清楚了。今后一定记住要把女朋友搞到手再告诉别人。
+    决定单身了，觉得单身也不错。决定要好好工作，拥有一个健康自信的心态。好好的生活，发展自己。
+    如果有一天爱情真的来临的时候，一定要抓住她。
+    偶喜欢旅游，一直想去敦煌，可惜也没有攒到多少钱，都贡献给网通了。今后一定要努力工作，好好锻炼身体。坚决完成任务。
+    次目的地敦煌（有想去的可以一起）。
+

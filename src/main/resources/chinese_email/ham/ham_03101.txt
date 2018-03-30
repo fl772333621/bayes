@@ -1,0 +1,28 @@
+Return-Path: <kong@rbl.ccert.edu.cn>
+Received: from rbl.ccert.edu.cn (rbl.ccert.edu.cn [202.112.57.71])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id i9L2dYJY009280
+	for <jin@ccert.edu.cn>; Thu, 21 Oct 2004 10:39:34 +0800
+Received: from rbl.ccert.edu.cn (localhost.localdomain [127.0.0.1])
+	by rbl.ccert.edu.cn (8.12.11/8.12.11) with ESMTP id i9L2uBZs004605
+	for <jin@ccert.edu.cn>; Thu, 21 Oct 2004 10:56:27 +0800
+Received: (from qa@localhost)
+	by rbl.ccert.edu.cn (8.12.11/8.12.11/Submit) id i9L2u6hd004604;
+	Thu, 21 Oct 2004 10:56:06 +0800
+Date: Thu, 21 Oct 2004 10:56:06 +0800
+Message-Id: <200410210256.i9L2u6hd004604@rbl.ccert.edu.cn>
+Subject: =?gb2312?B?UmU6IL3xzOy21EdH09DQqcqnzfuhraGt?=
+To: jin@ccert.edu.cn
+From: Tran Quang Anh <kong@cernet.edu.cn>
+Content-Type: multipart/mixed; boundary="----------=_1098327397-12939-164"
+MIME-Version: 1.0
+X-UIDL: %h@"!baj!!M!V!!)0)"!
+
+        广东人不小气，只是你的我的分的比较清楚，不像很多北方人
+        为了面子或者其它什么搞的好像不分彼此似的。
+        个人以为广东男人还是很好相处的，因为能够守着一种利益上
+        的原则。大家谁也不吃亏，谁也甭想占便宜。
+: hehe.. 我老婆原来就喜欢找广东男人,后来就是因为这个看上我的
+: 当时她们朋友有人说广东人小气
+: 结果现在她经常非常气愤地说我,怎么比他们北方人还大方
+: ...................
+

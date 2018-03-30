@@ -1,0 +1,36 @@
+Return-Path: <zhu@mails.tsinghua.edu.cn>
+Received: from mails.tsinghua.edu.cn (mails.tsinghua.edu.cn [166.111.8.16])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j1N7T4om016475
+	for <tao@ccert.edu.cn>; Wed, 23 Feb 2005 15:29:04 +0800 (CST)
+X-scanvirus: By SOPHOS Scan Engine
+X-scanresult: CLEAN
+X-Received: unknown,166.111.203.210,20050223152340
+Received: from unknown (HELO xiner) (xwang03@166.111.203.210)
+  by localhost with SMTP; 23 Feb 2005 07:23:40 -0000
+Message-ID: <001501c51979$998dee40$d2cb6fa6@xiner>
+From: "zhu" <zhu@mails.tsinghua.edu.cn>
+To: tao@ccert.edu.cn
+Subject: =?gb2312?B?UmU6INe8sbjNy9Gn?=
+Date: Wed, 23 Feb 2005 15:30:45 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0012_01C519BC.A4A12F20"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2900.2180
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+X-UIDL: ZGA"!WIc!!!RW!!%(f!!
+Status: RO
+
+    其实，你说的这些几乎是所有博士包括我都在经历或经历过的。我不能不承认中国的教育制度有问题，但我想说的是，你到今天这个地步也是有你自身的原因的，不是说你的人不好，是说你适应环境和规则的能力太差。
+    我当初上博士第一件事就是把我怎么能毕业搞清楚，量化的和非量化的标准我都牢记在心，这是规则，你要玩这个游戏，你就需要了解规则。在规则之内才是你发挥的余地。
+    但你读了这么长时间，连博士要发文章这个最基本的要求都不清楚，也真够可以的。
+    我象你一样一直在为老板卖力的工作，甚至结婚，有子都没有休过假，每个月只拿区区半千的补助，但我比你幸运的是我读了两年半，马上就可以毕业了。因为我知道规则。
+    真心希望你能走出来，而不是退回去，总结总结自己的教训，没有克服不了的困难！加油啊！
+   
+   
+: 想了足足一年了，终于开始有点决心的样子。
+: 其实我应该是属于教育制度失败的活例。
+:     硕士的时候，导师没怎么指导，但那时候年轻，有点冲劲，属于自导完成学业的那种，
+: ...................
+

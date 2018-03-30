@@ -1,0 +1,44 @@
+Return-Path: <liu@home.ccert.edu.cn>
+Received: from home.ccert.edu.cn (localhost [127.0.0.1])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id iB18u693022122;
+	Wed, 1 Dec 2004 16:56:06 +0800
+Received: (from majordomo@localhost)
+	by home.ccert.edu.cn (8.13.1/8.13.1/Submit) id iB18u6ge022121;
+	Wed, 1 Dec 2004 16:56:06 +0800
+X-Authentication-Warning: home.ccert.edu.cn: majordomo set sender to owner-ccertstaff using -f
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id iB18u0sj022117
+	for <bi@ccert.edu.cn>; Wed, 1 Dec 2004 16:56:01 +0800
+Received: from GirlOfGod (tu203027.tsinghua.edu.cn [166.111.203.27])
+	(authenticated bits=0)
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id iB1994Gg010916
+	for <bi@ccert.edu.cn>; Wed, 1 Dec 2004 17:09:05 +0800 (CST)
+Message-Id: <200412010909.iB1994Gg010916@sea.net.edu.cn>
+Date: Wed, 1 Dec 2004 17:13:25 +0800
+From: "liu" <liu@cernet.edu.cn>
+To: bi@ccert.edu.cn
+Subject: =?gb2312?B?ofEgofOh86Hzyq7E6suuxL68zcTu1b7JwLGow/u/qsq8ofOh86HzICjXqtTYKQ==?=
+X-mailer: Foxmail 5.0 [cn]
+Mime-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: 8bit
+X-MIME-Autoconverted: from base64 to 8bit by home.ccert.edu.cn id iB18u6sj022119
+Sender: owner-ccertstaff@home.ccert.edu.cn
+Precedence: bulk
+X-UIDL: iUH"!k:Q"!l@]"!9L&#!
+
+【 以下文字转载自 T_shirt 讨论区 】
+发信人: diameter (大米·蜜月中的大米), 信区: T_shirt
+标  题: ◇◇◇十年水木纪念站衫报名开始◇◇◇
+发信站: 水木社区 (Sun Jun  5 19:54:43 2005), 站内
+报名方法：
+        1.请点击链接: newsmth.net/tshirt/并登录。
+        3.填写内容。
+报名须知：
+        1.由于站衫创意未定，您在报名时可以先忽略“大小”和”款式“
+          底衫规格和大小以及款式将另文附上。
+        2.请注意维护您的报名信息,此信息可以在报名和收费完毕前任意修改；
+          站衫发放时将以此信息为准!
+        3.需要邮寄的网友请务必填写您的详细邮寄地址。
+

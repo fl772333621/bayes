@@ -1,0 +1,32 @@
+Return-Path: <you@rbl.ccert.edu.cn>
+Received: from rbl.ccert.edu.cn (rbl.ccert.edu.cn [202.112.57.71])
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id i9A7X1Qc012968
+	for <kong@ccert.edu.cn>; Sun, 10 Oct 2004 15:33:01 +0800 (CST)
+Received: from rbl.ccert.edu.cn (localhost.localdomain [127.0.0.1])
+	by rbl.ccert.edu.cn (8.12.11/8.12.11) with ESMTP id i9A7cGDb006276
+	for <kong@ccert.edu.cn>; Sun, 10 Oct 2004 15:38:17 +0800
+Received: (from qa@localhost)
+	by rbl.ccert.edu.cn (8.12.11/8.12.11/Submit) id i9A7cGsN006275;
+	Sun, 10 Oct 2004 15:38:16 +0800
+Date: Sun, 10 Oct 2004 15:38:16 +0800
+Message-Id: <200410100738.i9A7cGsN006275@rbl.ccert.edu.cn>
+Subject: =?gb2312?B?UmU6IM/rus1nZrfWytbBy6OsztK4w8jnus7Kx7rDo78=?=
+To: kong@ccert.edu.cn
+From: Tran Quang Anh <you@cernet.edu.cn>
+Content-Type: multipart/mixed; boundary="----------=_1097393897-1014-10"
+MIME-Version: 1.0
+X-UIDL: efJ!!C73"!l?<!!L&'"!
+
+太追求安逸的生活？嗬嗬，有可能。
+不过主要原因还是个子吧。。。
+还好，我家gg没有这样，哈哈哈哈。
+现在才发现是感动？
+老实说，觉得你。。。
+不过既然发现了，就早说早散吧。
+有话直说，不要拿出什么所谓顾及mm情绪就自己找碴，等着mm来说分手。。
+最讨厌这样的人。
+: 我和mm认识半年了，我发觉我们还是不太合适
+: 她太追求安逸的生活，我们的身高太不协调，我接近180，她只有153，父母也比较反对。
+: 经过交往，我发觉我对她的不是爱情，而是感动，
+: ...................
+

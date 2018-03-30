@@ -1,0 +1,24 @@
+Return-Path: <jiang@ee.tsinghua.edu.cn>
+Received: from Unixmail5.21 (mail.ee.tsinghua.edu.cn [166.111.64.188])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j066RtIS015046
+	for <hu@ccert.edu.cn>; Thu, 6 Jan 2005 14:27:55 +0800 (CST)
+Received: (qmail 7905 invoked by alias); 6 Jan 2005 06:23:26 -0000
+Received: from unknown (HELO tsinghuad60c2e) (166.111.64.226)
+  by mail.ee.tsinghua.edu.cn with SMTP; 6 Jan 2005 14:23:26 +0800
+Message-ID: <001101c4f3b8$f9bcd290$e2406fa6@tsinghuad60c2e>
+From: "jiang" <jiang@ee.tsinghua.edu.cn>
+To: hu@ccert.edu.cn
+Subject: =?gb2312?B?UmU6INfcveHSu8/C?=
+Date: Thu, 6 Jan 2005 14:28:44 +0800
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="----=_NextPart_000_000D_01C4F3FC.06B15690"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2800.1437
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1441
+X-Mozilla-Status2: 00000000
+
+提到狼，我又想说点什么了。想我刚进入社会才一年，却听到很多丑恶现象，而且就发生在我身边。当时感觉特惊诧，实在难以把哪个整天一本正经的人和狼放一起。当事人和我说了这事，我真害怕。不过，她说：你没事，一看你就是很正派的人，特纯洁，他不敢打你主意。稍稍放心了些，从此加倍小心。当然，他敢惹我，我让他不得好死！真是知人知面不知心，还好，刚从狼窝跳出来。
+: 那是你还有条件不出去，我也怕狼，但是12：00回家也是正常的
+

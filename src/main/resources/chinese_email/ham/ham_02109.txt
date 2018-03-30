@@ -1,0 +1,32 @@
+Return-Path: <wei@rbl.ccert.edu.cn>
+Received: from rbl.ccert.edu.cn (rbl.ccert.edu.cn [202.112.57.71])
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id i923OYWW010722
+	for <hua@ccert.edu.cn>; Sat, 2 Oct 2004 11:24:34 +0800 (CST)
+Received: from rbl.ccert.edu.cn (localhost.localdomain [127.0.0.1])
+	by rbl.ccert.edu.cn (8.12.11/8.12.11) with ESMTP id i923UGoD023872
+	for <hua@ccert.edu.cn>; Sat, 2 Oct 2004 11:30:16 +0800
+Received: (from qa@localhost)
+	by rbl.ccert.edu.cn (8.12.11/8.12.11/Submit) id i923UGS2023871;
+	Sat, 2 Oct 2004 11:30:16 +0800
+Date: Sat, 2 Oct 2004 11:30:16 +0800
+Message-Id: <200410020330.i923UGS2023871@rbl.ccert.edu.cn>
+Subject: =?gb2312?B?UmU6INC0uPjSqszuuN+/vNa+1Li1xMjLw8ejrLzmzLi149DQ0rW/tLeooaM=?=
+To: hua@ccert.edu.cn
+From: Tran Quang Anh <wei@cernet.edu.cn>
+Content-Type: multipart/mixed; boundary="----------=_1096687816-996-360"
+MIME-Version: 1.0
+X-UIDL: L09"!W%Q"!^Dp!!A7^!!
+
+追求理想和自给自足本不是矛盾的，虽说行行出状元这句话已经被拍的一塌糊涂了，
+但若你真能把职业当作理想和事业去做，就一定会干出一番模样，不至于像你说的
+那么惨，连家人都照顾不了
+我们的初级教育缺乏的就是真正的理想的培养，结果我们到了还不知道自己真正喜欢
+的是什么，慢慢在生活的压力下去开始羡慕那些所谓的热门专业，那些所谓的有油水
+的职业。
+我们已然如此，那也是没有办法的事情了，但你还要把这种思想灌输给后面的小朋友们，
+那我认为是误人子弟。
+: 看那么多人问，很想跟大家一起探讨一下，欢迎拍砖，当然，反对谩骂。
+: 感觉这个东西跟job很有关系，好的学校加专业是找到一个好工作的开始，所以发在这，希望斑竹别珊。
+: 读了四年，考了半年研，找了半年工作的一些感想。
+: ...................
+

@@ -1,0 +1,25 @@
+Return-Path: <han@rbl.ccert.edu.cn>
+Received: from rbl.ccert.edu.cn (rbl.ccert.edu.cn [202.112.57.71])
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id i921Ra0f009824
+	for <han@ccert.edu.cn>; Sat, 2 Oct 2004 09:27:36 +0800 (CST)
+Received: from rbl.ccert.edu.cn (localhost.localdomain [127.0.0.1])
+	by rbl.ccert.edu.cn (8.12.11/8.12.11) with ESMTP id i921XIjA031574
+	for <han@ccert.edu.cn>; Sat, 2 Oct 2004 09:33:18 +0800
+Received: (from qa@localhost)
+	by rbl.ccert.edu.cn (8.12.11/8.12.11/Submit) id i921XItt031573;
+	Sat, 2 Oct 2004 09:33:18 +0800
+Date: Sat, 2 Oct 2004 09:33:18 +0800
+Message-Id: <200410020133.i921XItt031573@rbl.ccert.edu.cn>
+Subject: =?gb2312?B?UmU6IL6tteTTsMasobaxz9K1yfqht8Wu0MfKxcrA?=
+To: han@ccert.edu.cn
+From: Tran Quang Anh <han@cernet.edu.cn>
+Content-Type: multipart/mixed; boundary="----------=_1096680798-996-318"
+MIME-Version: 1.0
+X-UIDL: KaP"!Y&B!!?e>!!3E#"!
+
+可怜啊，塑造这么一个不讨好的角色
+: (综合讯)看过好莱坞经典名片《毕业生》的人一定不会忘记电影中引诱女儿男友的风骚妇人罗宾逊太太。 
+: 　　据BBC报道，扮演罗宾逊太太的演员安妮·班克罗夫特因癌症在纽约病逝，享年73岁。 
+: 　　班克罗夫特曾经得到五次奥斯卡奖提名，并在1963年以扮演电影《热泪心声》（The Miracle Worker）中教会盲、聋、哑的海伦·凯勒与他人沟通的家庭女教师而得到奥斯卡奖。 
+: ...................
+

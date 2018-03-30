@@ -1,0 +1,35 @@
+Return-Path: <chi@tsinghua.edu.cn>
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id iBL2PWNJ029599
+	for <xiao@ccert.edu.cn>; Tue, 21 Dec 2004 10:25:32 +0800 (CST)
+Received: (eyou send program); Tue, 21 Dec 2004 10:10:02 +0800
+Message-ID: <303595001.00923@mail.tsinghua.edu.cn>
+Received: from unknown (HELO mail.tsinghua.edu.cn) (unknown@127.0.0.1)
+ by 127.0.0.1 with SMTP; Tue, 21 Dec 2004 10:10:02 +0800
+X-scanvirus: By Symantec Scan Engine
+X-scanresult: CLEAN
+Received: (eqmail ); 21 Dec 2004 02:09:57 -0000
+Received: from unknown (HELO sony) (duanhx@166.111.204.187)
+  by localhost with SMTP; 21 Dec 2004 02:09:57 -0000
+Message-ID: <005a01c4e704$4c922c70$bbcc6fa6@sony>
+From: "chi" <chi@tsinghua.edu.cn>
+To: xiao@ccert.edu.cn
+Subject: =?gb2312?B?UmU6IM7Sus3L/Q==?=
+Date: Tue, 21 Dec 2004 10:25:01 +0800
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2900.2180
+X-MIMEOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+Content-Transfer-Encoding: 8bit
+X-MIME-Autoconverted: from base64 to 8bit by sea.net.edu.cn id iBL2PWNJ029599
+X-UIDL: JjB"!h&j!!$E5"!=j&"!
+
+总是不讨厌你，可能慢慢有那么一点感觉。很有希望嘛
+: 我和她认识一年半，只有三四次见面
+: 也曾追求她，却遭拒n(n=她说对我没感觉之后我对她说我爱她的次数)次。
+: 终于皇天不负苦心人，我们毕业后都来到北京，而且在我的努力下，我们住到了一起（每人一室）。她说和我住一起放心。她对我说过好几次，找个女朋友吧，你那么多姐姐妹妹的。我说不行，我的姐姐妹妹都没有可能发展成为其它的关系，如果可以，我不会认做姐姐妹妹的。她说，
+: ...................
+

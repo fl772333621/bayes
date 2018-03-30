@@ -1,0 +1,26 @@
+Return-Path: <wua@rbl.ccert.edu.cn>
+Received: from rbl.ccert.edu.cn (rbl.ccert.edu.cn [202.112.57.71])
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id i987dNiX005120
+	for <qiu@ccert.edu.cn>; Fri, 8 Oct 2004 15:39:24 +0800 (CST)
+Received: from rbl.ccert.edu.cn (localhost.localdomain [127.0.0.1])
+	by rbl.ccert.edu.cn (8.12.11/8.12.11) with ESMTP id i987jPEr008616
+	for <qiu@ccert.edu.cn>; Fri, 8 Oct 2004 15:45:25 +0800
+Received: (from qa@localhost)
+	by rbl.ccert.edu.cn (8.12.11/8.12.11/Submit) id i987jPMm008615;
+	Fri, 8 Oct 2004 15:45:25 +0800
+Date: Fri, 8 Oct 2004 15:45:25 +0800
+Message-Id: <200410080745.i987jPMm008615@rbl.ccert.edu.cn>
+Subject: =?gb2312?B?UmU6INXi0fm1xMTQyfrE3NStwcLC8A==?=
+To: qiu@ccert.edu.cn
+From: Tran Quang Anh <wua@cernet.edu.cn>
+Content-Type: multipart/mixed; boundary="----------=_1097221525-1044-312"
+MIME-Version: 1.0
+X-UIDL: ;W-"!7SF!!Wo0!!&]3!!
+
+跳舞很容易出事儿的
+你要小心些了
+:   和gg在一起一年半了，一直感情很好，什么话都不瞒着对方，也常常在一起。昨天偶然用他的id上站，发现他的信箱里满满地全是和另一个女生的msg和mail，大惊失色的同时忍不住看了一下
+:   发现那是他去年上体育舞蹈课的舞伴，从二月份开始他们两个就一起报班，一起去北邮，化工，学研上跳舞课，每周四周六都是，还经常一起吃饭。而且寒假的时候那个女生回家，他还早上六点钟起床送她出校门。他们两个还一起去小西天买鞋子，去订裤子，为了跳舞，他拖着我满
+:   他们两个人的msg，mail，qq，比和我的多得多。现在可能真是时间久了审美疲劳，我们的qq内容极其少，每次都只是打招呼而已，和她却向来都是长篇大论。
+: ...................
+

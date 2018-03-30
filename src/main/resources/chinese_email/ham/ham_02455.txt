@@ -1,0 +1,28 @@
+Return-Path: <guan@sina.com>
+Received: from sina.com (sina187-158.sina.com.cn [202.106.187.158] (may be forged))
+	by home.ccert.edu.cn (8.13.1/8.13.1) with SMTP id j2834luD030465
+	for <yi@ccert.edu.cn>; Tue, 8 Mar 2005 11:04:51 +0800
+Message-Id: <200503080304.j2834luD030465@home.ccert.edu.cn>
+Received: (qmail 75561 invoked from network); 8 Mar 2005 03:16:26 -0000
+Received: from unknown (HELO ibm-t23) (219.224.134.126)
+  by 202.106.187.158 with SMTP; 8 Mar 2005 03:16:26 -0000
+Received: from(cheriff@sina.com) to(qa@ccert.edu.cn)
+Date: Tue, 8 Mar 2005 11:06:46 +0800
+From: "guan" <guan@sina.com>
+To: yi@ccert.edu.cn
+Subject: =?gb2312?B?UmU6ILnY09rNy9GnzsrM4g==?=
+X-mailer: Foxmail 5.0 [cn]
+Mime-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: 8bit
+X-MIME-Autoconverted: from base64 to 8bit by home.ccert.edu.cn id j2834luD030465
+X-UIDL: J16"!1`W"!6&0"!D^N"!
+
+老美也不都那么好，天下的老板都差不多，碰上什么样的就看rp了，
+我去美国读phd的同学里，也有不少退学了
+: 其实还有一个原因，多少博导是一个合格的导师，付出了时间，你学到了什么
+: 我想80%的博士生就是廉价劳动力，从文章，到论文都是自己一个人闭门造车，老板还要挂名，投入和产出太少，这是退学的关键之处，如果像老美那样，出来一个博士就是学科专家，博士还是很有吸引力的。
+: 国内博士生大部分就是混个文凭，但文凭也就那么回事，社会不再承认了而已
+: ...................
+

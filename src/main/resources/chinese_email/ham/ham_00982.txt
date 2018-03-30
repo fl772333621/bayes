@@ -1,0 +1,44 @@
+Return-Path: <tian@tsinghua.edu.cn>
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id i9R5buXd023539
+	for <zhong@ccert.edu.cn>; Wed, 27 Oct 2004 13:37:56 +0800 (CST)
+Received: (eyou send program); Wed, 27 Oct 2004 13:23:20 +0800
+Message-ID: <298854600.03396@mail.tsinghua.edu.cn>
+Received: from unknown (HELO mail.tsinghua.edu.cn) (unknown@127.0.0.1)
+ by 127.0.0.1 with SMTP; Wed, 27 Oct 2004 13:23:20 +0800
+X-scanvirus: By Symantec Scan Engine
+X-scanresult: CLEAN
+Received: (eqmail ); 27 Oct 2004 05:23:16 -0000
+Received: from unknown (HELO sony) (duanhx@202.112.50.6)
+  by localhost with SMTP; 27 Oct 2004 05:23:16 -0000
+Message-ID: <021201c4bbe7$15d64560$063270ca@sony>
+From: "tian" <tian@tsinghua.edu.cn>
+To: zhong@ccert.edu.cn
+References: <298854409.03695@mail.tsinghua.edu.cn>
+Subject: =?gb2312?B?ofEguN/QvbPPxrhQZXJsIFNvZnR3YXJlIEVuZ2luZWVy?=
+Date: Wed, 27 Oct 2004 13:37:43 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_020F_01C4BC2A.232FCCC0"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2900.2180
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+X-UIDL: 0;$"!%+5!![-<!!`Wl!!
+
+Perl Software Engineer Job Description:
+The engineer will work to enhance to biological information  web portal. This is a part-time position. Ideal for college students who willing to make a big sum of extra money during study time. You can also build up work experience from this position.
+You MUST have some free time to finish the allocated tasks in arranged schedule. Senior college students or graduate students for Master degree are preferred. Junior college student is also considered if you are really good at Perl and Linux, and has free time. 
+Requirements: MUST: 
+* good at Perl. 
+* good at with Unix/Linux system(administration and development) 
+* have knowledge of shell script. 
+* have basic knowledge on web technology (HTTP, HTML, Apache). 
+* be accomplished in OOP and Design Pattern. 
+* have good English abilities in both reading and writing. 
+* be able to research through internet to find out the solution for problems encountered during development. 
+* must be located in Beijing PLUS 
+* familiar with biology is a bug plus 
+* willing to learn new technology as is required during work.
+If you are interested in it, please send your resume to the email: wwwpingcom2002@yahoo.com.cn
+

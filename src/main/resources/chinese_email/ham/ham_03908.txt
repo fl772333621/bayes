@@ -1,0 +1,32 @@
+Return-Path: <zhong@rbl.ccert.edu.cn>
+Received: from rbl.ccert.edu.cn (rbl.ccert.edu.cn [202.112.57.71])
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id i977eJi6016933
+	for <he@ccert.edu.cn>; Thu, 7 Oct 2004 15:40:20 +0800 (CST)
+Received: from rbl.ccert.edu.cn (localhost.localdomain [127.0.0.1])
+	by rbl.ccert.edu.cn (8.12.11/8.12.11) with ESMTP id i977kHCk006665
+	for <he@ccert.edu.cn>; Thu, 7 Oct 2004 15:46:19 +0800
+Received: (from qa@localhost)
+	by rbl.ccert.edu.cn (8.12.11/8.12.11/Submit) id i977kH7i006664;
+	Thu, 7 Oct 2004 15:46:17 +0800
+Date: Thu, 7 Oct 2004 15:46:17 +0800
+Message-Id: <200410070746.i977kH7i006664@rbl.ccert.edu.cn>
+Subject: =?gb2312?B?UmU6ILXawfm40MDvw+bEx7j20r3J+sz9tMW0+LXEyrG68sz9tb3By8qyw7Q/?=
+To: he@ccert.edu.cn
+From: Tran Quang Anh <zhong@cernet.edu.cn>
+Content-Type: multipart/mixed; boundary="----------=_1097135179-996-836"
+MIME-Version: 1.0
+X-UIDL: hi*!!e7I!!Ge5"!MVL!!
+
+ok
+1、道歉不该问下载，我真的不知道会这么严厉
+2、我很喜欢科幻电影，我记得未来水世界上映的时候，我可是去
+电影院看得，当时这个电影被嘲笑，说花了很多钱，不叫好不叫座
+我觉得很遗憾，其实题材和拍的都很不错啊
+3、基努立维思也很支持科幻电影的，我猜他接拍matrix的时候也不知道
+会那么走红，我记得很早看过他一个电影，他在里面把鼻孔挖的很大
+（不恶心），挖出来一个什么盒子？把我吓了一跳。
+我觉得演员接拍什么片子，不止是他们的经纪人，肯定跟自己的品味
+爱好有关系的，我喜欢有自己个性爱好的演员，而不是只演容易走红的
+或者角色讨好的。
+: 唉，前面不是都说了Waterworld是Kevin Costner么..
+

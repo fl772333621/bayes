@@ -1,0 +1,26 @@
+Return-Path: <su@rbl.ccert.edu.cn>
+Received: from rbl.ccert.edu.cn (rbl.ccert.edu.cn [202.112.57.71])
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id i920sjRd009578
+	for <yu@ccert.edu.cn>; Sat, 2 Oct 2004 08:54:45 +0800 (CST)
+Received: from rbl.ccert.edu.cn (localhost.localdomain [127.0.0.1])
+	by rbl.ccert.edu.cn (8.12.11/8.12.11) with ESMTP id i9210R4O000685
+	for <yu@ccert.edu.cn>; Sat, 2 Oct 2004 09:00:27 +0800
+Received: (from qa@localhost)
+	by rbl.ccert.edu.cn (8.12.11/8.12.11/Submit) id i9210Rpw000684;
+	Sat, 2 Oct 2004 09:00:27 +0800
+Date: Sat, 2 Oct 2004 09:00:27 +0800
+Message-Id: <200410020100.i9210Rpw000684@rbl.ccert.edu.cn>
+Subject: =?gb2312?B?UmU6IM/W1NrV5rXEsrvWqrXAuMPU9cO0sOzByw==?=
+To: yu@ccert.edu.cn
+From: Tran Quang Anh <su@cernet.edu.cn>
+Content-Type: multipart/mixed; boundary="----------=_1096678827-996-312"
+MIME-Version: 1.0
+X-UIDL: GA7!!7,O!!d6d"!gW\"!
+
+我刚毕业的时候，也是很不甘心去一个平淡没意思的国企
+可是毕业一年之后，我羡慕死这样的工作了！！！
+在国企的希望出去闯荡，真在社会上颠簸的人希望找个安定的环境，总是得不到的最诱人啊
+: 唉其实也不一定……
+: 我也考了两年了，第一年本科毕业就没有过危机感也没怎么复习，这次又考的可是一向数学比较差的我这次把大多数时间都给了它可是还没有及格……而且差的还不是10分，8分的。但是其他课程都和不错，那大家说我该怎么办呢？我虽然已经有一份工作了，国企，很稳定，虽然钱不多可是福利待遇很好，可是每当看到人浮于事的这个地方每天早上9点前、下午3点前基本没人上班，而中午11点以后、下午4点半以后整个楼里空无一人的时候，我也很不甘心，如果我不再考，父母是绝对不会同意我一个女孩子跑到外面打工的。
+: 有时候事情真的不是我们所想那么简单的……
+

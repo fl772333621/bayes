@@ -1,0 +1,23 @@
+Return-Path: <wu@cniti.com>
+Received: from cniti.com ([218.201.41.16])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id iAT7eiIr017739
+	for <lian@ccert.edu.cn>; Mon, 29 Nov 2004 15:40:49 +0800
+Received: (foxmail 7621 invoked from network); 29 Nov 2004 07:21:47 -0000
+Received: from unknown (HELO FOXmailserver) (mhx@cniti.com@127.0.0.1)
+  by cniti.com with SMTP; 29 Nov 2004 07:21:47 -0000
+From: wu@cniti.com
+To: lian@ccert.edu.cn
+Subject: =?gb2312?B?UmU6INP0w8a1xMn6u+6jusDPuauyu9esx66jrMzszOzU2rzSwO+09NfF?=
+Mime-Version: 1.0
+Content-Type: multipart/mixed; boundary="----------=_1101714050-9076-383"
+Date: Mon, 29 Nov 2004 15:21:47 CST
+Message-ID: FMS_Benny_56F05BD7$1F26BC41$682DB9F5@foxmail.com.cn
+X-cmimelib: CMIMELIB 1.0 by Boda
+X-mailer: Foxmail Server by Boda
+X-UIDL: _W?"!7R+"!B\G!!3KL"!
+
+不赚钱不代表不挣钱,赚钱是开公司事情,挣浅是老百姓的事情
+俺从来没有赚过钱,只挣钱
+: 我95级，我老公93级，而他毕业到现在已经有8年时间了，不光没有存下一分钱，而且还靠我养着，现在我越想越是气，恨不得马上给他离婚。你们说说那一位女的能忍受这样的老公，做事一点都不操心，结婚不敢花钱，生小孩是我给钱，奶粉是我给钱，没有房子租房也是我掏钱，而�
+: 这样的老公大家帮我好好教训一下。
+

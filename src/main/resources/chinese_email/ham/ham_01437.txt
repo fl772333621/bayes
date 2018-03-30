@@ -1,0 +1,60 @@
+Return-Path: <tu@compass.net.edu.cn>
+Received: from tsinghua.org.cn ([210.77.143.231])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id iBNAosMT023701
+	for <cao@ccert.edu.cn>; Thu, 23 Dec 2004 18:50:55 +0800
+Received: (eyou send program); Thu, 23 Dec 2004 18:44:12 +0800
+Received: (eyou send program); Thu, 23 Dec 2004 18:44:12 +0800
+X-EYOU-ORIGINAL-IP: 210.77.143.235
+X-EYOU-ENVELOPE-MAILFROM: toefl-bounces@server.cool-meeting.com
+Received: from unknown (HELO eyou.net) (unknown@210.77.143.235)
+ by 210.77.143.231 with SMTP; Thu, 23 Dec 2004 18:44:12 +0800
+Received: (eyou send program); Thu, 23 Dec 2004 18:58:46 +0800
+Message-ID: <303799526.16742@eyou.net>
+Received: from 202.38.99.65 by 210.77.143.235 with SMTP; Thu, 23 Dec 2004 18:58:43 +0800
+Received: from server.cool-meeting.com (localhost.localdomain [127.0.0.1])
+	by server.cool-meeting.com (8.12.8/8.12.8) with ESMTP id iBNBOXlZ011616
+	for <cao@ccert.edu.cn>; Thu, 23 Dec 2004 19:24:52 +0800
+Received: from sun.com ([202.38.188.130])
+	by server.cool-meeting.com (8.12.8/8.12.8) with ESMTP id iBNBOKkr011612
+	for <cao@ccert.edu.cn>; Thu, 23 Dec 2004 19:24:21 +0800
+Received: from [166.111.165.193] (tu165193.tsinghua.edu.cn [166.111.165.193])
+	by sun.com (8.9.2/8.9.2) with ESMTP id TAA00543
+	for <cao@ccert.edu.cn>;
+	Thu, 23 Dec 2004 19:07:21 +0800 (CST)
+Message-ID: <41CAA629.5080903@compass.net.edu.cn>
+Date: Thu, 23 Dec 2004 19:04:09 +0800
+From: Shaozhi Ye <tu@compass.net.edu.cn>
+User-Agent: Mozilla Thunderbird 1.0 (Windows/20041206)
+X-Accept-Language: en-us, en
+MIME-Version: 1.0
+To: cao@ccert.edu.cn
+Content-Type: text/plain; charset=GB2312
+Content-Transfer-Encoding: 8bit
+X-MIME-Autoconverted: from quoted-printable to 8bit by server.cool-meeting.com
+	id iBNBOKkr011612
+Subject: =?gb2312?B?UmU6INfyzOy96LnKsNFnZ7rwwcvSu7bZ?=
+X-BeenThere: toefl@server.cool-meeting.com
+X-Mailman-Version: 2.1.2
+Precedence: list
+List-Id: &#26446;&#26143;&#21644;&#20182;&#30340;&#23398;&#29983;&#20204;
+	<toefl.server.cool-meeting.com>
+List-Unsubscribe: <http://server.cool-meeting.com/mailman/listinfo/toefl>,
+	<mailto:toefl-request@server.cool-meeting.com?subject=unsubscribe>
+List-Archive: <http://server.cool-meeting.com/mailman/private/toefl>
+List-Post: <mailto:toefl@server.cool-meeting.com>
+List-Help: <mailto:toefl-request@server.cool-meeting.com?subject=help>
+List-Subscribe: <http://server.cool-meeting.com/mailman/listinfo/toefl>,
+	<mailto:toefl-request@server.cool-meeting.com?subject=subscribe>
+Sender: toefl-bounces@server.cool-meeting.com
+Errors-To: toefl-bounces@server.cool-meeting.com
+X-UIDL: [JC"!9(H!!dph!!;*m!!
+
+这么解释起来，似乎猥琐者并不畏缩
+只是将yy付诸于实践，呵呵～～
+看来艺术和下流只是意淫和实作的差别
+^^
+:   呵呵!素质高低很大程度上是看其对自己行为得控制能力(当然区别与虚伪).看到身材好得mm,对每一个成熟得正常男人一定有吸引力得.从思维本质上,摸和不摸没有区别,只是行动区分了高低贵贱.
+:   qmd前两句是别人说过得,后一句才是自己写得.
+:   我体会大概意思是:爱情,必然需要碰撞和磨合.换句话:爱情中双方不是两个半圆合成一个圆,而应该是相互独立的两个圆能够重合.宽容理解和忍让是必须的,但如果能够相爱的代价是为其改变自己,那结果一定是痛苦的.
+: ...................
+

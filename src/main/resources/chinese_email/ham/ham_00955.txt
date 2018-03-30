@@ -1,0 +1,30 @@
+Return-Path: <yang@cernet.edu.cn>
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id iB21TDTX000490;
+	Thu, 2 Dec 2004 09:29:13 +0800
+Received: from WHITESNOW ([220.207.85.19])
+	(authenticated bits=0)
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id iB21gDjs025535;
+	Thu, 2 Dec 2004 09:42:17 +0800 (CST)
+Message-ID: <004601c4d810$2a46dce0$1355cfdc@WHITESNOW>
+From: "yang" <yang@cernet.edu.cn>
+To: chi@ccert.edu.cn
+Cc: <shen@ccert.edu.cn>
+References: <001801c4d808$d33af190$15cb6fa6@ccertspark>
+Subject: =?gb2312?B?UmU6IHJ1bzIwMDW9473jx+PH6bfuz9ejrLnY09rJz9bc1ffIy8mxyMuzqrjotcS747Go?=
+Date: Thu, 2 Dec 2004 09:42:12 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0043_01C4D853.32E944D0"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2900.2180
+X-Mimeole: Produced By Microsoft MimeOLE V6.00.2900.2180
+X-UIDL: 0jD!!Wg#"!kQg"!nO;"!
+
+干得不错 提出表扬 
+: 同志们，朋友们：
+:     大家下午好！今天很高兴大家能欢聚一堂，听俺做这个征友汇报。上周日下午，俺在这里发贴子征集了一批孩子去同一首歌杀人唱歌，今天就给大家做个汇报。总的来说，这次聚会是个成功的聚会，团结的聚会，先进的聚会。在此，俺代表组织中央，代表全体组织人员，向大家发出号召，要将杀人唱歌进行到底，坚持不懈的进行k歌技能的提高教育和杀人心理的素质教育。
+:     我们八个革命同志，本着男女搭配干活不累的原则，精简了活动队伍，调整了男女配比，四男四女的性别比例是俺们活动成功的前提条件。在此后很长一段时间内，我们将坚持这个原则，一百天不变。
+: ...................
+

@@ -1,0 +1,22 @@
+Return-Path: <zhu@rbl.ccert.edu.cn>
+Received: from rbl.ccert.edu.cn (rbl.ccert.edu.cn [202.112.57.71])
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id i976saWD016546
+	for <luo@ccert.edu.cn>; Thu, 7 Oct 2004 14:54:36 +0800 (CST)
+Received: from rbl.ccert.edu.cn (localhost.localdomain [127.0.0.1])
+	by rbl.ccert.edu.cn (8.12.11/8.12.11) with ESMTP id i9770ZAG001349
+	for <luo@ccert.edu.cn>; Thu, 7 Oct 2004 15:00:35 +0800
+Received: (from qa@localhost)
+	by rbl.ccert.edu.cn (8.12.11/8.12.11/Submit) id i9770ZNl001348;
+	Thu, 7 Oct 2004 15:00:35 +0800
+Date: Thu, 7 Oct 2004 15:00:35 +0800
+Message-Id: <200410070700.i9770ZNl001348@rbl.ccert.edu.cn>
+Subject: =?gb2312?B?ofEgenp+0rLMuMbFz7G52M+1o6zGxcbF08DUttKysrvKx8Lo?=
+To: luo@ccert.edu.cn
+From: Tran Quang Anh <zhu@cernet.edu.cn>
+Content-Type: multipart/mixed; boundary="----------=_1097132435-996-824"
+MIME-Version: 1.0
+X-UIDL: QXj"!O4p!!\M-!!*MF"!
+
+在家无聊，zz onlylady上的一篇文章，觉得写得很好
+天天在论坛上泡着，看得最多的就是老公外遇和婆媳矛盾，看得心里堵得慌。老公外遇懒得说了，今天聊聊婆媳之争。这个话题肯定会被大老爷们们砸，因为，婆媳之争又触及了他们脆弱且绷得紧紧的神经。但不得不说的是，婆婆永远成不了媳妇的母亲，婆媳关系也远不止母女关系那么简单融洽。如果你非要说我家的关系就好得跟母女似的，我也不打算跟你抬杠，祝你幸福，你遇到了宝，比中了500W还难，找个旮旯偷着乐去吧。
+

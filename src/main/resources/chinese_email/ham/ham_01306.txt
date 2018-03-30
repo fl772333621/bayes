@@ -1,0 +1,36 @@
+Return-Path: <wang@rbl.ccert.edu.cn>
+Received: from rbl.ccert.edu.cn (rbl.ccert.edu.cn [202.112.57.71])
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id i971BlZo012854
+	for <zhou@ccert.edu.cn>; Thu, 7 Oct 2004 09:11:47 +0800 (CST)
+Received: from rbl.ccert.edu.cn (localhost.localdomain [127.0.0.1])
+	by rbl.ccert.edu.cn (8.12.11/8.12.11) with ESMTP id i971HjsN026293
+	for <zhou@ccert.edu.cn>; Thu, 7 Oct 2004 09:17:46 +0800
+Received: (from qa@localhost)
+	by rbl.ccert.edu.cn (8.12.11/8.12.11/Submit) id i971Hjio026292;
+	Thu, 7 Oct 2004 09:17:45 +0800
+Date: Thu, 7 Oct 2004 09:17:45 +0800
+Message-Id: <200410070117.i971Hjio026292@rbl.ccert.edu.cn>
+Subject: =?gb2312?B?ofEgeWV0aW5nsajD+7LOvNPLrsS+yq7E6tW+ycDVucq+ICjXqtTYKQ==?=
+To: zhou@ccert.edu.cn
+From: Tran Quang Anh <wang@cernet.edu.cn>
+Content-Type: multipart/mixed; boundary="----------=_1097111866-996-764"
+MIME-Version: 1.0
+X-UIDL: U#X!!UVg!!c88!!f?k"!
+
+【 以下文字转载自 MyPhoto 讨论区 】
+发信人: yeting (阿随|乖), 信区: MyPhoto
+标  题: yeting报名参加水木十年站衫展示
+发信站: 水木社区 (Wed Jun  8 21:01:35 2005), 站内
+您的ID                                   
+yeting
+您是gg or mm?（gg or mm）                
+mm
+是否代报名?（是/否）                     
+是
+您的身高（单位cm）                       
+足够
+您适合的T恤尺码（S-XXL）                 
+貌似L
+最后想对大家说句什么？                   
+替俺mm报名。照片版权所有，呵呵。
+

@@ -1,0 +1,28 @@
+Return-Path: <pan@rbl.ccert.edu.cn>
+Received: from rbl.ccert.edu.cn (rbl.ccert.edu.cn [202.112.57.71])
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id i8U51qVv021217
+	for <qian@ccert.edu.cn>; Thu, 30 Sep 2004 13:01:52 +0800 (CST)
+Received: from rbl.ccert.edu.cn (localhost.localdomain [127.0.0.1])
+	by rbl.ccert.edu.cn (8.12.11/8.12.11) with ESMTP id i8U57Rr3002505
+	for <qian@ccert.edu.cn>; Thu, 30 Sep 2004 13:07:27 +0800
+Received: (from qa@localhost)
+	by rbl.ccert.edu.cn (8.12.11/8.12.11/Submit) id i8U57RhK002504;
+	Thu, 30 Sep 2004 13:07:27 +0800
+Date: Thu, 30 Sep 2004 13:07:27 +0800
+Message-Id: <200409300507.i8U57RhK002504@rbl.ccert.edu.cn>
+Subject: =?gb2312?B?ofEgx+u087zSsO/Dpta4tePC8tCpyrLDtLj4uLjEuLrDo78gKNeq1Ngp?=
+To: qian@ccert.edu.cn
+From: Tran Quang Anh <pan@cernet.edu.cn>
+Content-Type: multipart/mixed; boundary="----------=_1096520847-996-242"
+MIME-Version: 1.0
+X-UIDL: ?n:!!3Nf"!7o$#!CXg!!
+
+【 以下文字转载自 Medicine 讨论区 】
+发信人: happyhc (愿苍天变了心), 信区: Medicine
+标  题: 请大家帮忙指点买些什么给父母好？
+发信站: 水木社区 (Mon Jun  6 08:33:37 2005), 站内
+我父亲：胃不好，腰经常疼，抽烟（家人都希望他戒烟），有支气管炎
+我现在在国外，过几天有个朋友回去，想让他帮忙带点药回去，该带什么药呢？最好是补药，处方药不好买
+还有，我婆婆：糖尿病。该给她买什么好呢？
+谢谢
+

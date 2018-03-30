@@ -1,0 +1,34 @@
+Return-Path: <xiao@ccert.edu.cn>
+Received: from ns2.ccert.edu.cn (ccert.edu.cn [202.112.57.12])
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id j6P37FTQ013957
+	(version=TLSv1/SSLv3 cipher=DES-CBC3-SHA bits=168 verify=NO)
+	for <ou@ccert.edu.cn>; Mon, 25 Jul 2005 11:07:15 +0800 (CST)
+Received: from [202.112.50.10] (helo=sunbin)
+	by ns2.ccert.edu.cn with esmtp (Exim 4.50)
+	id 1DwtUL-0008Ig-7S
+	for qa@cernet.edu.cn; Mon, 25 Jul 2005 11:18:45 +0800
+Date: Mon, 25 Jul 2005 11:07:25 +0800
+From: "xiao" <xiao@ccert.edu.cn>
+Reply-To: xiao@ccert.edu.cn
+To: ou@ccert.edu.cn
+Subject: =?gb2312?B?UmU6INbQufrTsMas1Nq5+s3iuavTs9Kqt63S68Lwo78=?=
+Organization: CCERT
+X-mailer: Foxmail 5.0 [cn]
+Mime-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: 8bit
+Message-Id: <E1DwtUL-0008Ig-7S@ns2.ccert.edu.cn>
+X-UIDL: T$6!!ES6"!be?"!W<W!!
+
+取决于市场
+据我所知，在美国的话，如果是艺术院线的片子，多半是加字幕
+大规模公映的话就会配音了，比方说少林足球、功夫都是如此
+最近一期环球银幕做了个配音的专题，有些其他国家的介绍
+比如在意大利还是西班牙，当地就不会去看没有配音的电影
+国内也是一样，同时发行两个版本，看个人爱好了
+: 咱们中国观众在影院看到的好莱坞大片都是翻译成汉语的
+: 那么，咱中国的一些电影在外国公映，需要翻译成所在国的语言吗？
+: 或者是中文对白，仅有所在国文字字幕？
+: ...................
+

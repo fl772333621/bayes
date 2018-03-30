@@ -1,0 +1,57 @@
+Return-Path: <wei@ns.6test.edu.cn>
+Received: from tsinghua.org.cn ([210.77.143.231])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id iBU8Or8Y021247
+	for <zhou@ccert.edu.cn>; Thu, 30 Dec 2004 16:24:55 +0800
+Received: (eyou send program); Thu, 30 Dec 2004 16:18:33 +0800
+Received: (eyou send program); Thu, 30 Dec 2004 16:18:33 +0800
+X-EYOU-ORIGINAL-IP: 210.77.143.235
+X-EYOU-ENVELOPE-MAILFROM: toefl-bounces@server.cool-meeting.com
+Received: from unknown (HELO eyou.net) (unknown@210.77.143.235)
+ by 210.77.143.231 with SMTP; Thu, 30 Dec 2004 16:18:33 +0800
+Received: (eyou send program); Thu, 30 Dec 2004 16:32:53 +0800
+Message-ID: <304395573.06171@eyou.net>
+Received: from 202.38.99.65 by 210.77.143.235 with SMTP; Thu, 30 Dec 2004 16:32:48 +0800
+Received: from server.cool-meeting.com (localhost.localdomain [127.0.0.1])
+	by server.cool-meeting.com (8.12.8/8.12.8) with ESMTP id iBU90TlY022770
+	for <zhou@ccert.edu.cn>; Thu, 30 Dec 2004 17:00:35 +0800
+Received: from ns.6test.edu.cn ([202.38.99.18])
+	by server.cool-meeting.com (8.12.8/8.12.8) with ESMTP id iBU90Mkr022766
+	for <zhou@ccert.edu.cn>; Thu, 30 Dec 2004 17:00:22 +0800
+Received: from tu066132.tsinghua.edu.cn ([166.111.66.132] helo=kaka)
+	by ns.6test.edu.cn with asmtp (Exim 4.12) id 1CjwHI-000G11-00
+	for Toefl@server.cool-meeting.com; Thu, 30 Dec 2004 17:07:28 +0800
+Date: Thu, 30 Dec 2004 16:38:46 +0800
+From: "wei" <wei@ns.6test.edu.cn>
+To: zhou@ccert.edu.cn
+X-mailer: Foxmail 5.0 [cn]
+Mime-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Message-Id: <E1CjwHI-000G11-00@ns.6test.edu.cn>
+Content-Transfer-Encoding: 8bit
+X-MIME-Autoconverted: from base64 to 8bit by server.cool-meeting.com id
+	iBU90Mkr022766
+Cc: 
+Subject: =?gb2312?B?ofEgv7zR0MWuyfrV0sjLus/X4qOsz9bU2rW9ze3JzzmjujMw?=
+X-BeenThere: toefl@server.cool-meeting.com
+X-Mailman-Version: 2.1.2
+Precedence: list
+List-Id: &#26446;&#26143;&#21644;&#20182;&#30340;&#23398;&#29983;&#20204;
+	<toefl.server.cool-meeting.com>
+List-Unsubscribe: <http://server.cool-meeting.com/mailman/listinfo/toefl>,
+	<mailto:toefl-request@server.cool-meeting.com?subject=unsubscribe>
+List-Archive: <http://server.cool-meeting.com/mailman/private/toefl>
+List-Post: <mailto:toefl@server.cool-meeting.com>
+List-Help: <mailto:toefl-request@server.cool-meeting.com?subject=help>
+List-Subscribe: <http://server.cool-meeting.com/mailman/listinfo/toefl>,
+	<mailto:toefl-request@server.cool-meeting.com?subject=subscribe>
+Sender: toefl-bounces@server.cool-meeting.com
+Errors-To: toefl-bounces@server.cool-meeting.com
+X-UIDL: m!$#!Z$\"!O8N"!#eE!!
+
+去年毕业，今年考清华生物系研，无工作了
+现在清华校内新林院觅得十平米平房一间，两个单人床，每人月租350，包括水电费和冬天的暖气费。我是林大学生，对当地很熟悉，可帮你解决洗澡等生活小问题。
+希望你性格比较随和，社会关系简单，同为考研，最好为同考生物系。
+昨天，有位山大的陈姓女孩来看了，她人很好，觉得真是投缘，遗憾的是她有姐姐家作栖身之处。
+请回站内信箱，到晚上9：30为止，谢谢
+

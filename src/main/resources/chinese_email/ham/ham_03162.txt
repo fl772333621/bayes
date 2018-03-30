@@ -1,0 +1,39 @@
+Return-Path: <hua@home.ccert.edu.cn>
+Received: from home.ccert.edu.cn (localhost [127.0.0.1])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id j0KD4Zgw002378;
+	Thu, 20 Jan 2005 21:04:35 +0800
+Received: (from majordomo@localhost)
+	by home.ccert.edu.cn (8.13.1/8.13.1/Submit) id j0KD4Zjl002377;
+	Thu, 20 Jan 2005 21:04:35 +0800
+X-Authentication-Warning: home.ccert.edu.cn: majordomo set sender to owner-ccertstaff using -f
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id j0KD4Yjs002373
+	for <wei@ccert.edu.cn>; Thu, 20 Jan 2005 21:04:34 +0800
+Received: from WHITESNOW (tu203022.ip.tsinghua.edu.cn [166.111.203.22])
+	(authenticated bits=0)
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id j0KDGGCb003013
+	for <wei@ccert.edu.cn>; Thu, 20 Jan 2005 21:16:17 +0800 (CST)
+Message-ID: <001401c4fef2$4789cb10$16cb6fa6@WHITESNOW>
+From: "hua" <hua@cernet.edu.cn>
+To: wei@ccert.edu.cn
+Subject: =?gb2312?B?UmU6IMfrzsqjrMjLtPO1xL3wyNrXqNK11PXDtNH5o78=?=
+Date: Thu, 20 Jan 2005 21:16:35 +0800
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="----=_NextPart_000_000F_01C4FF35.527D00D0"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2900.2180
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+Sender: owner-ccertstaff@home.ccert.edu.cn
+Precedence: bulk
+X-UIDL: HQl"!nm-!!>&B"!@UY"!
+
+看你的目的和一些其他具体情况了,
+学术上讲，去上财、复旦学金融也不错，人大、中财也不错，国内够混了。
+这里仅提供一点：如果于前两个金融毕业，在北京这边的大型国有企业的金融投资类、国有商业银行、股份制银行等等就业机会的争取中，比毕业于后两者要差很多。
+反之，情况也差不太多。
+仅供参考。
+: 这些学校金融其实还是扯淡，金融上财和复旦不错，当然综合性大学学生素质高才好
+: 反正清华北大就业肯定比人大好的多
+

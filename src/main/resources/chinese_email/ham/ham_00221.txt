@@ -1,0 +1,37 @@
+Return-Path: <xiao@home.ccert.edu.cn>
+Received: from home.ccert.edu.cn (localhost [127.0.0.1])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id iB16b6YJ019727;
+	Wed, 1 Dec 2004 14:37:06 +0800
+Received: (from majordomo@localhost)
+	by home.ccert.edu.cn (8.13.1/8.13.1/Submit) id iB16b6oc019726;
+	Wed, 1 Dec 2004 14:37:06 +0800
+X-Authentication-Warning: home.ccert.edu.cn: majordomo set sender to owner-ccertstaff using -f
+Received: from sunbin_S ([202.112.50.201])
+	(authenticated bits=0)
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id iB16b6RQ019722;
+	Wed, 1 Dec 2004 14:37:06 +0800
+Message-Id: <200412010637.iB16b6RQ019722@home.ccert.edu.cn>
+Date: Wed, 1 Dec 2004 14:55:04 +0800
+From: "xiao" <xiao@ccert.edu.cn>
+Reply-To: xiao@ccert.edu.cn
+To: jin@ccert.edu.cn
+Subject: =?gb2312?B?ofEg1dLIy7et0uu5q8u+vPK96aOsNzYw1/PT0rj2urrX1qOszu/A7buv0afA4KOot8C4r8q0o6mh
+o7zbx64=?=
+Organization: CCERT
+X-mailer: Foxmail 5.0 beta2 [cn]
+Mime-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: 8bit
+X-MIME-Autoconverted: from base64 to 8bit by home.ccert.edu.cn id iB16b6RQ019724
+Sender: owner-ccertstaff@home.ccert.edu.cn
+Precedence: bulk
+X-UIDL: 6@~"!~6D"!B$S"!d\^!!
+
+下面是其中的2小段文字：
+在承接的基面表面处理、涂层保护、玻璃钢、耐酸胶泥衬砖板、衬橡胶、衬塑料、喷锌、喷铝、搪铅、衬铅、泡沫保温、对设备管道、高空塔架、海港码头、涵洞桥梁、电化学保护均积累了丰富的施工经验。
+走科技兴业之路，作创新工程，在濮阳油田用抛球法挤涂工艺技术，对φ100以下细管线内防腐，填补了我国空白。在北大附中地下室漏水和大港油田积水海滩地下管线用树脂改性00C以下施工水中固化，解决了地下室渗漏和沼泽地铺设管线的防腐难题。
+有意者请回  62781402(O)   51779180(H)   13522773516
+            wangln@mail.tsinghua.edu.cn
+            
+

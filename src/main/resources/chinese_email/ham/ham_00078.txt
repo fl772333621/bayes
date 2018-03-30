@@ -1,0 +1,39 @@
+Return-Path: <guo@tsinghua.edu.cn>
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id iAH4Gm6h020184
+	for <peng@ccert.edu.cn>; Wed, 17 Nov 2004 12:16:48 +0800 (CST)
+Received: (eyou send program); Wed, 17 Nov 2004 12:01:52 +0800
+Message-ID: <300664112.28028@mail.tsinghua.edu.cn>
+Received: from unknown (HELO mail.tsinghua.edu.cn) (unknown@127.0.0.1)
+ by 127.0.0.1 with SMTP; Wed, 17 Nov 2004 12:01:52 +0800
+X-scanvirus: By Symantec Scan Engine
+X-scanresult: CLEAN
+Received: (eqmail ); 17 Nov 2004 04:01:49 -0000
+Received: from unknown (HELO sony) (duanhx@166.111.204.105)
+  by localhost with SMTP; 17 Nov 2004 04:01:49 -0000
+Message-ID: <00b501c4cc5c$3d608610$d63270ca@sony>
+From: "guo" <guo@tsinghua.edu.cn>
+To: peng@ccert.edu.cn
+References: <300658772.10576@mail.tsinghua.edu.cn>
+Subject: =?gb2312?B?UmU6ILzSzaWhorCux+m6zc/WyrWhqqGqztK6zUdH?=
+Date: Wed, 17 Nov 2004 12:16:39 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_00B2_01C4CC9F.4ABEA150"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2900.2180
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+X-UIDL: +Zd"!8&p"!ne_!!&`J!!
+
+: 夸张，骑车，人大去清华哪要30分钟。
+: 的: 原因，一年里从来没对我发过一次火。GG是我的第二个男朋友，我也是GG的第二个女朋友，但是我们在一起的感觉就像初恋的感觉，我从来没有想过要和一个男人过一辈子，GG是第一个。
+爱一个人是要全部投入了,在接受他的优点的同时也要接受他的缺点,但爱一个人的同时你不能失去自己,失去了自己的女人最终会失去一切.
+假如三个月的时间会改变一切,这种担心完全是多余的.要变的三天三个小时三分钟都会变.假如你认为只有朝朝暮暮的情爱才是可靠的,这种感情对谁都会觉得太累.
+不要怪人家的父母,也不要怪你的GG,不同背景下成长起来的人,有他们思维的模式和处世哲学.
+门当户对自有他的道理,一个老是觉得自己是个忍辱负重的小媳妇得到最多的只是同情罢了.
+做你自己,不要做感情的奴隶,当你背负起一个家庭的责任时,你在回想这一段经历,有会有不同的见解,其实家庭终也不是只是你们两个人的家庭,除非你生活在真空中.只有你身边的每一个人幸福快乐了,你及你的家庭才会幸福快乐.
+不要因为别人的情绪和行为影响的你的情绪和行为.
+奇怪,男朋友手机上的短信是他告诉你的,还是你自己看到的.
+给他和自己一些空间和时间也许会更好,也许会得到你希望得到的.
+

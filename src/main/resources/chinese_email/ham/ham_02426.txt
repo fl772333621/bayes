@@ -1,0 +1,39 @@
+Return-Path: <bi@hit.edu.cn>
+Received: from tsinghua.org.cn ([210.77.143.228])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id i9QGGCxU014443
+	for <huang@ccert.edu.cn>; Wed, 27 Oct 2004 00:16:20 +0800
+Received: (eyou send program); Tue, 26 Oct 2004 16:11:34 +0800
+Received: (eyou send program); Tue, 26 Oct 2004 10:31:44 +0800
+X-EYOU-ORIGINAL-IP: 210.77.143.235
+X-EYOU-ENVELOPE-MAILFROM: xinwang@hit.edu.cn
+Received: from unknown (HELO eyou.net) (unknown@210.77.143.235)
+ by 210.77.143.228 with SMTP; Tue, 26 Oct 2004 10:31:44 +0800
+Received: (eyou send program); Tue, 26 Oct 2004 10:28:33 +0800
+Message-ID: <298757713.04612@eyou.net>
+Received: from 202.118.224.153 by 210.77.143.235 with SMTP; Tue, 26 Oct 2004 10:28:32 +0800
+Received: from 218.9.121.64 (HELO IBM16C26729934) (envelope-from xinwang@hit.edu.cn)
+	by mx.hit.edu.cn (quarkmail-1.2.1) with ESMTP id S508389AbUJZCrt
+	for chenguangying@tsinghua.org.cn; Tue, 26 Oct 2004 10:47:49 +0800
+Message-ID: <000a01c4bb04$21d46f10$0200a8c0@IBM16C26729934>
+From: "bi" <bi@hit.edu.cn>
+To: huang@ccert.edu.cn
+References: <002a01c485cc$aac97ad0$dc3270ca@CCERTDAWEI> <000c01c4873a$73a9fe70$0200a8c0@IBM16C26729934> <000b01c48785$cf7ea480$3601510a@CCERTDAWEI>
+Subject: =?gb2312?B?UmU6IL3xzOyxu8ewt/LG+MvAwcs=?=
+Date: Tue, 26 Oct 2004 10:33:05 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0007_01C4BB47.2DD93BE0"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2800.1106
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1106
+X-UIDL: h#k!!T(n"!7B&"!(TG!!
+Status: RO
+
+这种lg就是思想上的大男子主义比较严重
+支持你，老这么被他宠着，某天没有他的时候，你还真会非常难过，难以适应，跟缺了胳膊腿似的..
+:     上午出去看的房子，是现房热买中，离我们现在的房子大概5公里的距离。我们看中了一套96平米的两居，100平以下的就剩这么一套了。但是总价远超我们的预算。一开始他很想定，我不想要，因为觉得太贵了。
+:     看完了出来也两点多我们去吃饭，他一直劝我要了。说钱的事他来想办法。我一直很犹豫，本来我们说好的下午去打球，我也不想去了。他很郁闷就说要去王府井逛街散心，我没跟去，回家来上网。后来我改变主意想要了。打了售楼的电话，那边派车来接我。于是我给他打电话，
+:     我先去了售楼处，让他自己直接来。等我到了之后，他让我别缴定金，先问贷款的事。不一会儿他说不来了，让我回家再商量。但是那边的楼真的买得很好，6点多还来了两拨人看楼，就在我等的一个小时里有三个人缴首付，两个人缴定金（2万）。而且96得就那一套了，售楼先生
+: ...................
+

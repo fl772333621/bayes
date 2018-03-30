@@ -1,0 +1,34 @@
+Return-Path: <ning@mails.tsinghua.edu.cn>
+Received: from mails.tsinghua.edu.cn (mails.tsinghua.edu.cn [166.111.8.16])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id i9J2TUUL018327
+	for <pu@ccert.edu.cn>; Tue, 19 Oct 2004 10:29:30 +0800 (CST)
+Received: (eyou send program); Tue, 19 Oct 2004 10:24:20 +0800
+Message-ID: <298152660.00990@mails.tsinghua.edu.cn>
+Received: from unknown (HELO mails.tsinghua.edu.cn) (unknown@127.0.0.1)
+ by 127.0.0.1 with SMTP; Tue, 19 Oct 2004 10:24:20 +0800
+X-scanvirus: By Symantec Scan Engine
+X-scanresult: CLEAN
+Received: (eqmail ); 19 Oct 2004 02:24:14 -0000
+Received: from unknown (HELO user-7bkbiq72wz) (dijg01@202.112.50.202)
+  by mails.tsinghua.edu.cn with SMTP; 19 Oct 2004 02:24:14 -0000
+From: "ning" <ning@mails.tsinghua.edu.cn>
+To: pu@ccert.edu.cn
+Subject: Re: Re: 50.20
+X-mailer: Foxmail 4.2 [cn]
+Mime-Version: 1.0
+Content-Type: multipart/alternative;
+      boundary="=====002_Dragon122347410283_====="
+Date: Tue, 19 Oct 2004 10:26:5 +0800
+X-UIDL: V4+"!:G+!!*<2!!YX-!!
+
+天海宏业国际软件有限公司
+www.ensemble.com.cn
+要求:
+1.计算机及相关专业本科或本科以上学历;
+2.精通C#开发语言，有C#开发经验，熟悉.net平台，了解.net其他相关知识；
+（或者精通 C++开发语言 ，有一年以上的开发经验，熟悉C＃；）
+3.英语要求读写毫无障碍,口语可与外国工程师交流;
+4.有应用服务器经验,了解数据库者优先.
+我们将为你提供有竞争力的薪酬 ，以及及时全面的培训。
+有意者请将简历发送至:xiaoli.li@ensemble.com.cn
+

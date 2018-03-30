@@ -1,0 +1,32 @@
+Return-Path: <yun@rh2.home.sunbo.net>
+Received: from rh2.home.sunbo.net ([218.109.14.196])
+	by home.ccert.edu.cn (MIMEDefang) with ESMTP id NOQUEUE
+	for <ma@ccert.edu.cn>; Fri, 24 Jun 2005 11:14:23 +0800 (CST)
+Received: from rh2.home.sunbo.net (rh2.home.sunbo.net [127.0.0.1])
+	by rh2.home.sunbo.net (8.12.10/8.12.10) with ESMTP id j5O3WJTW007145
+	for <ma@ccert.edu.cn>; Fri, 24 Jun 2005 11:32:20 +0800
+Received: (from nobody@localhost)
+	by rh2.home.sunbo.net (8.12.10/8.12.10/Submit) id j5O3WImI007143;
+	Fri, 24 Jun 2005 11:32:18 +0800
+Date: Fri, 24 Jun 2005 11:32:18 +0800
+Message-Id: <200506240332.j5O3WImI007143@rh2.home.sunbo.net>
+To: ma@ccert.edu.cn
+Subject: =?gb2312?B?W8qlsqnNqNDQ1qRdINeisuHNqNaqIChSZWdpc3RlciBOb3RpZmljYXRpb24pLg==?=
+From: yun@sunbo.net
+Reply-To: yun@sunbo.net
+Content-Type: text/plain
+X-Mailer: ZJ001 Super Website System [SWS by hightman]
+
+
+您好! tttttt1:
+
+感谢您刚刚在 "FTERM - http://fterm.zj001.net/?xname=6DHH1U0" 注册了 圣博通行证 .
+登录帐号: tttttt1 登录密码: tttttt1 
+
+请将访问以下链接地址, 完成用户名激活程序, 谢谢. 
+http://fterm.zj001.net/sws.php?xname=6DHH1U0&action=active&uid=805144&actkey=45d4e694eaf750cd112c4c59934d3518
+
+注: 本信乃系统自动发出, 请勿回信!
+再次感谢您注册了 "圣博通行证" !!
+
+

@@ -1,0 +1,71 @@
+Return-Path: <li@compass.net.edu.cn>
+Received: from tsinghua.org.cn ([210.77.143.228])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id iAIFQFca014395
+	for <cao@ccert.edu.cn>; Thu, 18 Nov 2004 23:26:16 +0800
+Received: (eyou send program); Thu, 18 Nov 2004 23:38:44 +0800
+Received: (eyou send program); Thu, 18 Nov 2004 23:38:44 +0800
+X-EYOU-ORIGINAL-IP: 210.77.143.235
+X-EYOU-ENVELOPE-MAILFROM: toefl-bounces@server.cool-meeting.com
+Received: from unknown (HELO eyou.net) (unknown@210.77.143.235)
+ by 210.77.143.228 with SMTP; Thu, 18 Nov 2004 23:38:44 +0800
+Received: (eyou send program); Thu, 18 Nov 2004 23:34:28 +0800
+Message-ID: <300792068.11730@eyou.net>
+Received: from 202.38.99.65 by 210.77.143.235 with SMTP; Thu, 18 Nov 2004 23:34:25 +0800
+Received: from server.cool-meeting.com (localhost.localdomain [127.0.0.1])
+	by server.cool-meeting.com (8.12.8/8.12.8) with ESMTP id iAIFqOlZ017019
+	for <cao@ccert.edu.cn>; Thu, 18 Nov 2004 23:52:34 +0800
+Received: from compass.net.edu.cn ([202.38.188.130])
+	by server.cool-meeting.com (8.12.8/8.12.8) with ESMTP id iAIFqHkr017015
+	for <cao@ccert.edu.cn>; Thu, 18 Nov 2004 23:52:17 +0800
+Received: from [210.25.128.113] ([210.25.128.113])
+	by compass.net.edu.cn (8.9.2/8.9.2) with ESMTP id XAA19815
+	for <cao@ccert.edu.cn>;
+	Thu, 18 Nov 2004 23:41:16 +0800 (CST)
+Message-ID: <419CC145.9090105@compass.net.edu.cn>
+Date: Thu, 18 Nov 2004 23:35:33 +0800
+From: Shaozhi Ye <li@compass.net.edu.cn>
+User-Agent: Mozilla Thunderbird 0.9 (Windows/20041103)
+X-Accept-Language: en-us, en
+MIME-Version: 1.0
+To: cao@ccert.edu.cn
+Content-Type: text/plain; charset=GB2312
+Content-Transfer-Encoding: 8bit
+Cc: 
+Subject: =?gb2312?B?ofEgyre/y83+tvuwrMThv8vLudXQxri/zbuntsvI7bz+uaSzzMqm?=
+X-BeenThere: toefl@server.cool-meeting.com
+X-Mailman-Version: 2.1.2
+Precedence: list
+List-Id: &#26446;&#26143;&#21644;&#20182;&#30340;&#23398;&#29983;&#20204;
+	<toefl.server.cool-meeting.com>
+List-Unsubscribe: <http://server.cool-meeting.com/mailman/listinfo/toefl>,
+	<mailto:toefl-request@server.cool-meeting.com?subject=unsubscribe>
+List-Archive: <http://server.cool-meeting.com/mailman/private/toefl>
+List-Post: <mailto:toefl@server.cool-meeting.com>
+List-Help: <mailto:toefl-request@server.cool-meeting.com?subject=help>
+List-Subscribe: <http://server.cool-meeting.com/mailman/listinfo/toefl>,
+	<mailto:toefl-request@server.cool-meeting.com?subject=subscribe>
+Sender: toefl-bounces@server.cool-meeting.com
+Errors-To: toefl-bounces@server.cool-meeting.com
+X-UIDL: )]G"!2WE!!R;#!!fX[!!
+
+史克威尔艾尼克斯（中国）互动科技有限公司为世界知名游戏公司
+SQUARE ENIX在华的独资子公司。
+目前为开展业务，特招聘客户端软件工程师若干。
+[工作职责]
+1、开发/升级网络游戏客户端
+2、开发游戏运营和本地化的必要工具软件
+[职位要求]
+1、一年以上Win32开发经验，精通VC，良好的编程风格,有图形界面和图形按钮开发
+经验者优先；
+2、有MySQL/PostgreSQL/Oracle数据库开发经验；
+3、对网络编程有了解，精通WinSocket优先；
+4、对网络游戏有浓厚兴趣；
+5、很强的学习、解决问题的能力和团队合作精神，拥有创新精神，能很快读通他人
+开发的源代码，并在此基础上做出改进；
+6、流利的英语/日语交流能力者优先；
+7、有网络游戏开发经验者优先考虑。
+8、报酬：视能力待遇从优。公司将向员工提供良好的个人发展空间和极具有竞争力
+的薪资福利。
+有意者请将简历mailto: nathan@square-enix.net.cn
+请在邮件标题处注明“应聘客户端软件工程师”字样。
+

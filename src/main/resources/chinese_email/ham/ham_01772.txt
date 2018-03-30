@@ -1,0 +1,30 @@
+Return-Path: <peng@mails.tsinghua.edu.cn>
+Received: from mails.tsinghua.edu.cn (mails.tsinghua.edu.cn [166.111.8.16])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j3I1m9x5009335
+	for <tu@ccert.edu.cn>; Mon, 18 Apr 2005 09:48:09 +0800 (CST)
+X-scanvirus: By SOPHOS Scan Engine
+X-scanresult: CLEAN
+X-Received: th110141.ip.tsinghua.edu.cn,59.66.110.141,20050418093721
+Received: from th110141.ip.tsinghua.edu.cn (HELO xiner) (xwang03@59.66.110.141)
+  by localhost with SMTP; 18 Apr 2005 01:37:21 -0000
+Message-ID: <000a01c543b8$a3778650$8d6e423b@xiner>
+From: "peng" <peng@mails.tsinghua.edu.cn>
+To: tu@ccert.edu.cn
+Subject: =?gb2312?B?ofEgudy7ucrHsru53MTYPw==?=
+Date: Mon, 18 Apr 2005 09:47:52 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0007_01C543FB.B0585B40"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2800.1409
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1409
+X-UIDL: IN;!!I^U"!gLi"!P/P!!
+
+    老爸今年73了,超级体育迷,什么世界杯阿欧锦赛啊奥运会亚运会世锦赛NBA是逢赛必看,每次大型的比赛就像过节一样的。半夜也爬起来，看直播才有劲。从小跟我爸一块儿半夜起来看球，那真是一种乐趣。
+    可老人年纪大了，身体不好，中风后遗症，走路不方便。01年欧锦赛看了个尿潴留住院，回头还说“医生没说是看球看的” :)  老妈自然是非常担心，总是让他不要看，要么他老人家就不高兴，要么还是爬起来看。
+    
+    原来吧，我也每次就催着老爸去睡了，或者给他出主意，让他第二天看重播前不要看新闻，重播就当直播看。毕竟身体要紧，这要生了病自己多痛苦啊。
+    后来吧，我有时就想，保重身体是为了啥？还不是为了过得好。老人家年纪大了，想干啥就干啥，图个自己高兴呗。要是仅仅为了长寿，喜欢吃的不吃喜欢做的不做，过得又有啥意思呢？所以现在经常是睁一只眼闭一只眼，适当提醒一下，就算了。
+    可是有时总是不放心，不知道自己这样的观点妥不妥。
+

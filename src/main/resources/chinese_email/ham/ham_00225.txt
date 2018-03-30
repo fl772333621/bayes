@@ -1,0 +1,24 @@
+Return-Path: <kang@rbl.ccert.edu.cn>
+Received: from rbl.ccert.edu.cn (rbl.ccert.edu.cn [202.112.57.71])
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id i9A7X1Qc012968
+	for <yun@ccert.edu.cn>; Sun, 10 Oct 2004 15:33:01 +0800 (CST)
+Received: from rbl.ccert.edu.cn (localhost.localdomain [127.0.0.1])
+	by rbl.ccert.edu.cn (8.12.11/8.12.11) with ESMTP id i9A7cGDb006276
+	for <yun@ccert.edu.cn>; Sun, 10 Oct 2004 15:38:17 +0800
+Received: (from qa@localhost)
+	by rbl.ccert.edu.cn (8.12.11/8.12.11/Submit) id i9A7cGsN006275;
+	Sun, 10 Oct 2004 15:38:16 +0800
+Date: Sun, 10 Oct 2004 15:38:16 +0800
+Message-Id: <200410100738.i9A7cGsN006275@rbl.ccert.edu.cn>
+Subject: =?gb2312?B?UmU6IMfrzsogsbG+qcrAzNq3v7L6vq28zbmry761xNDF08PI57rOo78=?=
+To: yun@ccert.edu.cn
+From: Tran Quang Anh <kang@cernet.edu.cn>
+Content-Type: multipart/mixed; boundary="----------=_1097393897-1014-10"
+MIME-Version: 1.0
+X-UIDL: efJ!!C73"!l?<!!L&'"!
+
+: 今天小弟去面试他的经理助理，谁知他在签完录用协议后，要我到北京市外国语学院参加一个关于房地产的培训，费用自己先交上，一个月适用期结束后，公司报销。我当时傻了，出来后，感觉被骗了。如果不交算是违约，违约金300。
+:     到了所谓的培训学校后，很多人在报名，但是不是同一个公司的，都是来做这一行的（房地产）。3号开班，6号结束。费用360。我觉得自己受骗了只交了20的报名费，就回来了。我怎么也查不出来这个企业的信用，有那位GGJJMMDD知道，可否帮帮我？
+兄弟，八成是你被骗了，你上网查一查，像你这样经历的有的是。
+你还没有证据房产公司骗了你，实际上这样的房产公司很多。
+

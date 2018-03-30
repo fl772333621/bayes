@@ -1,0 +1,38 @@
+Return-Path: <liao@rbl.ccert.edu.cn>
+Received: from rbl.ccert.edu.cn (rbl.ccert.edu.cn [202.112.57.71])
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id i971BmW3012857
+	for <pu@ccert.edu.cn>; Thu, 7 Oct 2004 09:11:49 +0800 (CST)
+Received: from rbl.ccert.edu.cn (localhost.localdomain [127.0.0.1])
+	by rbl.ccert.edu.cn (8.12.11/8.12.11) with ESMTP id i971Hkv6026315
+	for <pu@ccert.edu.cn>; Thu, 7 Oct 2004 09:17:47 +0800
+Received: (from qa@localhost)
+	by rbl.ccert.edu.cn (8.12.11/8.12.11/Submit) id i971Hklq026314;
+	Thu, 7 Oct 2004 09:17:46 +0800
+Date: Thu, 7 Oct 2004 09:17:46 +0800
+Message-Id: <200410070117.i971Hklq026314@rbl.ccert.edu.cn>
+Subject: =?gb2312?B?ofEgSW50ZXJuc2hpcCBPcHBvcnR1bml0eSBpbiBBdXRvZGVzayBNU0QsIFNoYW5naGFp?=
+To: pu@ccert.edu.cn
+From: Tran Quang Anh <liao@cernet.edu.cn>
+Content-Type: multipart/mixed; boundary="----------=_1097111867-996-770"
+MIME-Version: 1.0
+X-UIDL: Rf?!!Am!#!3Ti"!bH7!!
+
+Internship Opportunity in Autodesk MSD, Shanghai
+Location: Shanghai
+Requirement:
+1. Graduating next year.
+2. Working toward a BS, MS or PhD degree in the following fields: Comput
+er Science, Computer Information Systems, Software Engineering, Maths or
+ Applied Maths, or Mechanical Engineering or Mechanics (FEA background i
+s preferred).
+3. English band 4 at least.
+4. Willing to relocate to Shanghai to work.
+5. GPA among the top 25%. (Or has exceptional programming skills.)
+6. 3 to 5 days per week and 4 months at least.
+7. Strong mechanical engineering background and CAD experience are preferred. 
+Responsibility:
+Software Quality Assurance
+If you are interested in this position, pls send your resume (as Attachm
+ent) to oboe.wu@autodesk.com, using the subject: "Internship in Au
+todesk MSD".
+

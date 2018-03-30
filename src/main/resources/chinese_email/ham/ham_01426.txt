@@ -1,0 +1,25 @@
+Return-Path: <xiao@rbl.ccert.edu.cn>
+Received: from rbl.ccert.edu.cn (rbl.ccert.edu.cn [202.112.57.71])
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id i9ELAWM1019017
+	for <xu@ccert.edu.cn>; Fri, 15 Oct 2004 05:10:32 +0800 (CST)
+Received: from rbl.ccert.edu.cn (localhost.localdomain [127.0.0.1])
+	by rbl.ccert.edu.cn (8.12.11/8.12.11) with ESMTP id i9ELG257009635
+	for <xu@ccert.edu.cn>; Fri, 15 Oct 2004 05:16:04 +0800
+Received: (from qa@localhost)
+	by rbl.ccert.edu.cn (8.12.11/8.12.11/Submit) id i9ELG2lH009634;
+	Fri, 15 Oct 2004 05:16:02 +0800
+Date: Fri, 15 Oct 2004 05:16:02 +0800
+Message-Id: <200410142116.i9ELG2lH009634@rbl.ccert.edu.cn>
+Subject: =?gb2312?B?ofEgsrvSqs6qsfDIy7XEx+C0usLytaU=?=
+To: xu@ccert.edu.cn
+From: Tran Quang Anh <xiao@cernet.edu.cn>
+Content-Type: multipart/mixed; boundary="----------=_1097788564-2811-56"
+MIME-Version: 1.0
+X-UIDL: >Fg"!,j3!!*O'#!doN!!
+
+  说说我哥么的事，我觉得他是对的
+  我哥么大学毕业就工作了。
+  在大三，他告诉我他又GF了，但没几个月就说GF觉得他没有男人味只会读书什么的就甩了，据说后来他EXGF找了一个临近学校玩体育的，他说看起来有点痞子，我在北京也不清楚什么叫有点痞子，估计就是所谓的男人味，嘿嘿。
+  这段时间，应该三年了吧，他EXGF又回来了，找他说了一大堆，说什么那个体育男用情不专啊，有没有自己的事业啊之类。我哥么已经月薪10K的人了，虽然心里还有那种初恋的味道但断然拒绝了，他的理由是每个人都应该为自己的青春买单。
+  我的理解是：当有些MM知道一个GG是很好的依靠时，她又不时的想去欣赏别的风景，当欣赏后又想回到GG身边的时候，她已经没有资本了？不知道是不是，我觉得他说话蛮深奥的，嘿嘿
+

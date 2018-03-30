@@ -1,0 +1,23 @@
+Return-Path: <wang@rbl.ccert.edu.cn>
+Received: from rbl.ccert.edu.cn (rbl.ccert.edu.cn [202.112.57.71])
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id i964l2uO028882
+	for <xu@ccert.edu.cn>; Wed, 6 Oct 2004 12:47:02 +0800 (CST)
+Received: from rbl.ccert.edu.cn (localhost.localdomain [127.0.0.1])
+	by rbl.ccert.edu.cn (8.12.11/8.12.11) with ESMTP id i964qvt7020307
+	for <xu@ccert.edu.cn>; Wed, 6 Oct 2004 12:52:58 +0800
+Received: (from qa@localhost)
+	by rbl.ccert.edu.cn (8.12.11/8.12.11/Submit) id i964qvmh020306;
+	Wed, 6 Oct 2004 12:52:57 +0800
+Date: Wed, 6 Oct 2004 12:52:57 +0800
+Message-Id: <200410060452.i964qvmh020306@rbl.ccert.edu.cn>
+Subject: =?gb2312?B?ofEgyMPAz7mrsO/Dptf2vNLO8dDo0qrEzdDE0rvQqaOsuse6xw==?=
+To: xu@ccert.edu.cn
+From: Tran Quang Anh <wang@cernet.edu.cn>
+Content-Type: multipart/mixed; boundary="----------=_1097038378-996-496"
+MIME-Version: 1.0
+X-UIDL: =cT!!*PK"!'aZ!!aEb!!
+
+ 原来房间都是我收拾，我喜欢收拾的非常干净的房间，所以周末的时候会有一个晚上或者半天来收拾，然后将所有的床单被罩啥的都洗一遍，饭也都是我来做。
+ 怀孕之后感觉精力不如从前了，老公也乐于帮我做一些家务，可是他对于房间干净的要求程度远远不如我，所以收拾了我还是觉得不彻底，不过自己也没有那么多精力收拾，说到做饭，他现在很积极的给我做饭吃，可是做出来的饭不如我做的好吃，然后他做饭的时候我在旁边还说这个说那个，说完了觉得自己蛮过分的，人家做饭我还指指点点，可是有的时候还是忍不住....
+ 呵呵，希望熟能生巧，熟练了慢慢的就会总结出一些经验。
+

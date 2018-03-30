@@ -1,0 +1,29 @@
+Return-Path: <wu@rbl.ccert.edu.cn>
+Received: from rbl.ccert.edu.cn (rbl.ccert.edu.cn [202.112.57.71])
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id i96CFMRh004132
+	for <hou@ccert.edu.cn>; Wed, 6 Oct 2004 20:15:22 +0800 (CST)
+Received: from rbl.ccert.edu.cn (localhost.localdomain [127.0.0.1])
+	by rbl.ccert.edu.cn (8.12.11/8.12.11) with ESMTP id i96CLIT9011830
+	for <hou@ccert.edu.cn>; Wed, 6 Oct 2004 20:21:18 +0800
+Received: (from qa@localhost)
+	by rbl.ccert.edu.cn (8.12.11/8.12.11/Submit) id i96CLIgQ011829;
+	Wed, 6 Oct 2004 20:21:18 +0800
+Date: Wed, 6 Oct 2004 20:21:18 +0800
+Message-Id: <200410061221.i96CLIgQ011829@rbl.ccert.edu.cn>
+Subject: =?gb2312?B?ofEg1dDGuNOyvP6y4srUuaSzzMqm?=
+To: hou@ccert.edu.cn
+From: Tran Quang Anh <wu@cernet.edu.cn>
+Content-Type: multipart/mixed; boundary="----------=_1097065278-996-646"
+MIME-Version: 1.0
+X-UIDL: SpQ"!6Oa!!Z+:"!Qe]"!
+
+本公司为高新技术企业，位于中关村保福寺，现由于工作需要，需招聘硬件测试工程师一名：
+具体要求如下：
+1.    对硬件设计有一定的了解，熟悉常用的IC芯片，熟悉基本的电路结构。做过单片机系统设计或DSP系统设计的最佳。
+2.    掌握protel98或protel99软件。
+3.    掌握C语言及汇编语言。
+4.    工作认真踏实，对硬件设计有兴趣，动手能力强。
+5.    善于沟通，具有团队合作精神。
+有意者请发简历和薪金要求至rachel.zhang@263.net
+代友发文，勿回本人信箱。
+

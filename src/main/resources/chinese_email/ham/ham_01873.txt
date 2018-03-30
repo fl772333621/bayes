@@ -1,0 +1,37 @@
+Return-Path: <hua@cernet.edu.cn>
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id j090DOPn016153
+	for <zheng@ccert.edu.cn>; Sun, 9 Jan 2005 08:13:39 +0800
+Received: from smart ([61.149.117.178])
+	(authenticated bits=0)
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id j090PIHi014233
+	for <zheng@ccert.edu.cn>; Sun, 9 Jan 2005 08:25:18 +0800 (CST)
+From: "hua" <hua@cernet.edu.cn>
+To: zheng@ccert.edu.cn
+Subject: =?gb2312?B?UmU6IKOjo6Ows9TawKe789bQsKGjo6Oj?=
+Date: Sun, 9 Jan 2005 08:28:16 +0800
+Message-ID: <NCEFLGKAPJDDOEBLPPNLOEJFCFAA.zhang@cernet.edu.cn>
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+X-Priority: 3 (Normal)
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook IMO, Build 9.0.6604 (9.0.2911.0)
+In-Reply-To: <000801c4f4b7$726f0f10$e800510a@CCERTDAWEI>
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1441
+Importance: Normal
+Content-Transfer-Encoding: 8bit
+X-MIME-Autoconverted: from base64 to 8bit by home.ccert.edu.cn id j090DOPn016153
+X-UIDL: /6:"!VkB!!n*0!!9`U"!
+
+  实际上，作软件是一时之计，对于大多数人而言，过上2－3年就要转，
+一般来说是根据自己的单位背景转硬件或者设备维护，技术支持，售前售后之类的。
+我个人感觉，要单纯做软件，还是需要有一定的基础，像其他专业转到it的，
+除非是很喜欢做软件，一般底子还是不够一些。
+  就看你怎么规划了，我同学本科毕业多年，男生，倒还是在做软件，也买了房子，
+一般对于硕士而言，怎么也饿不死这倒是事实。
+: 俺是MM，本科学的机械，现在读研主要做软件了，当然是做机械领域的软件，一直对以
+: 后的职业去向没有一个很好的想法。要是做机械，一个是现在对机械都生疏了，再一个
+: 应该待遇不会太高，做软件的话，总感觉自己太嫩，毕竟只有两年多的开发经历，并且
+: ...................
+

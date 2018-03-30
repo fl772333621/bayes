@@ -1,0 +1,49 @@
+Return-Path: <ni@rbl.ccert.edu.cn>
+Received: from rbl.ccert.edu.cn (rbl.ccert.edu.cn [202.112.57.71])
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id i9BDu6vK005935
+	for <lin@ccert.edu.cn>; Mon, 11 Oct 2004 21:56:06 +0800 (CST)
+Received: from rbl.ccert.edu.cn (localhost.localdomain [127.0.0.1])
+	by rbl.ccert.edu.cn (8.12.11/8.12.11) with ESMTP id i9BE1UCu017552
+	for <lin@ccert.edu.cn>; Mon, 11 Oct 2004 22:01:31 +0800
+Received: (from qa@localhost)
+	by rbl.ccert.edu.cn (8.12.11/8.12.11/Submit) id i9BE1UXN017551;
+	Mon, 11 Oct 2004 22:01:30 +0800
+Date: Mon, 11 Oct 2004 22:01:30 +0800
+Message-Id: <200410111401.i9BE1UXN017551@rbl.ccert.edu.cn>
+Subject: =?gb2312?B?UmU6INKyy7W8uLj2zcvRp7XEysLH6Q==?=
+To: lin@ccert.edu.cn
+From: Tran Quang Anh <ni@cernet.edu.cn>
+Content-Type: multipart/mixed; boundary="----------=_1097503291-1014-122"
+MIME-Version: 1.0
+X-UIDL: W`m!!7~i!!9iF!!lj7"!
+
+在说几个phd读完了的8g
+案例一,我大学同寝室的哥们,当初考北大的经管的研,因为拿到英国一个著名大学的
+offer而放弃了,去英国读博士,刚刚毕业,找不到工作,最后,只好在那个学校里接着
+做博士后.他在同学录上说,现在最后悔的就是没有去北大读经管,而跑来英国读什么
+自动控制.现在一辈子都只能做自己最不喜欢的研究了.本来很有灵气的人,如果在商
+场里面,他能混的很好的.可惜了
+案例二,我们大学的学生会主席,社会活动能力一流的,在社会上混能混的很好.结果
+跑去美国读phd,5年下来,读傻了.回国一趟,被人b4的不行了.现在在motoroal做一个
+team leader.年薪不高,工作还累.而且5年的phd,居然把他最擅长的社会活动能力给
+搞没了,我最诧异就这个,现在整个team里面搞的乱七八糟的.私下写信说,打算调去
+平台部门做研发去...
+案例三,本科直博的三个同学,在国内业毕业了.两个去了华为研发,一个去了opera咨
+询. 都感觉不错,因为他们三个都比较喜欢做研究方面的东西.钱不算多---跟本科出
+来工作的同学没的比---但也快乐.
+案例四,两个牛人师兄.一个去华盛顿读phd,一个国内phd quit去联想市场部工作.几
+年后,联想的哥们去美国公干,两人相遇在赌城,华大的phd郁闷的不行了.现在华大的
+哥们也毕业了,在ms总部,也是team leader,年薪10万刀.联想的哥们离开联想,被他
+家乡的一个私企用年薪120w请去做总经理了....最惨的时候,华大的哥们,现在还没
+老婆...鼓励他去pielove,他又觉得那些女的是看中能来美国才找他的.天天说郁闷
+案例五,我师弟,一个比较内向的家伙,做毕业答辩预演的时候,居然因为紧张不能说
+话,上台下台搞了好几次.最后正式答辩的时候,居然被问哭了...而他们那组的老师
+是公认最nice的了...他直博在我本科学校读书.两年两片IEEE Trans,读的很开心.
+未来打算就是做留校博后做老师...当然了,他家很有钱的,老爸是当地的一个大官.
+..每年放假和反校都是奥的给送来的.
+8g完毕 
+: 最近遇上很多.8g一下给各位phd candidates吧
+: 案例1, 一北理哥们,本科cs,拿全奖过来读phd.昨天大家一起包粽子才知道,这哥们
+: 在读了快3年的时候,转master了,现在已经开始工作了.因为学校规定,如果第一年的
+: ...................
+

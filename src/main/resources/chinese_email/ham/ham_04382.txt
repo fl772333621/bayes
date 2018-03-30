@@ -1,0 +1,30 @@
+Return-Path: <ling@mails.tsinghua.edu.cn>
+Received: from mails.tsinghua.edu.cn (mails.tsinghua.edu.cn [166.111.8.16])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j3M6nF2o013301
+	for <xia@ccert.edu.cn>; Fri, 22 Apr 2005 14:49:15 +0800 (CST)
+X-scanvirus: By SOPHOS Scan Engine
+X-scanresult: CLEAN
+X-Received: th110141.ip.tsinghua.edu.cn,59.66.110.141,20050422143759
+Received: from th110141.ip.tsinghua.edu.cn (HELO xiner) (xwang03@59.66.110.141)
+  by localhost with SMTP; 22 Apr 2005 06:37:59 -0000
+Message-ID: <001501c54707$5770ca80$8d6e423b@xiner>
+From: "ling" <ling@mails.tsinghua.edu.cn>
+To: xia@ccert.edu.cn
+References: <002b01c54644$b5590e00$d8cb6fa6@xiner> <314149604.18976@mails.tsinghua.edu.cn>
+Subject: =?gb2312?B?UmU6IM/uxL+3orD8o6xtc27U2s/ftcijoQ==?=
+Date: Fri, 22 Apr 2005 14:48:47 +0800
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="----=_NextPart_000_0013_01C5474A.63F2DDA0"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2800.1409
+X-MIMEOLE: Produced By Microsoft MimeOLE V6.00.2800.1409
+X-UIDL: AHL"!pY/"!c*3!!`eV"!
+
+:  我不是太懂啊，随便乱说一下：
+:  能不能绕过图像识别，毕竟AI的东西不太好做，而且台标那东西经常会变，有时候也不打台标。
+:  不知道这样做行不行：每个台的信号都有个频点，能不能分析这个频点，然后跟已知的频点/频道节目表(有线台肯定有这个数据)对比，得出正在播放的频道信息再上传？
+也可以的，但是怎么跟电视连接上，把观众家的电视机打开么？
+目前也有采用射频拦截方式的，但对机顶盒不好使。我们要求不对电视机发生任何动作就可以观测。
+

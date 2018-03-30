@@ -1,0 +1,32 @@
+Return-Path: <wua@cernet.edu.cn>
+Received: from smart ([221.217.93.248])
+	(authenticated bits=0)
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id i8KEKF9F005743
+	for <ling@ccert.edu.cn>; Mon, 20 Sep 2004 22:20:19 +0800 (CST)
+From: "wua" <wua@cernet.edu.cn>
+To: ling@ccert.edu.cn
+Subject: =?gb2312?B?UmU6ILTzvNK+9bXDxOG5xcCty7kuv63G5rXEPLn6vNKxprLYPtT1w7TR+bCh?=
+Date: Mon, 20 Sep 2004 22:21:46 +0800
+Message-ID: <NCEFLGKAPJDDOEBLPPNLOEPICDAA.zhang@cernet.edu.cn>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0010_01C49F60.374FF400"
+X-Priority: 3 (Normal)
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook IMO, Build 9.0.6604 (9.0.2911.0)
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1441
+In-Reply-To: <001001c49f1b$4b800130$3903510a@CCERTDAWEI>
+Importance: Normal
+X-UIDL: F]i"!T!W"!,k4!!Z8i"!
+
+  &lt;National Treasure&gt;如果说还有一点亮点的话，就是他的剧本了。
+  有Jerry Bruckheimer坐镇，这部电影里没见到一滴血，任何哪怕
+  稍带一点血腥暴力的场面都没出现。
+  在这样缚手缚脚的条件下，那些编剧还能把美国人熟稔的那段美国历史
+  及史料与故事情节想糅合，已经很不容易了。
+  所以对于这部志在票房的爆米花电影，剧本已经可算下了功夫了。
+: 如果有人请着去看电影，还可以一看
+: 自己一个人看，还是算了吧。
+: 虽然我喜欢凯奇，我还是不得不说他挑剧本的水平真不怎么样
+: ...................
+

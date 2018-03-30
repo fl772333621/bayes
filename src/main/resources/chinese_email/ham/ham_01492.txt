@@ -1,0 +1,57 @@
+Return-Path: <xiao@ccert.edu.cn>
+Received: from tsinghua.org.cn ([210.77.143.231])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id j0595FLI002362
+	for <yan@ccert.edu.cn>; Wed, 5 Jan 2005 17:05:16 +0800
+Received: (eyou send program); Wed, 05 Jan 2005 16:59:00 +0800
+Received: (eyou send program); Wed, 05 Jan 2005 16:59:00 +0800
+X-EYOU-ORIGINAL-IP: 210.77.143.235
+X-EYOU-ENVELOPE-MAILFROM: starry@ccert.edu.cn
+Received: from unknown (HELO eyou.net) (unknown@210.77.143.235)
+ by 210.77.143.231 with SMTP; Wed, 05 Jan 2005 16:59:00 +0800
+Received: (eyou send program); Wed, 05 Jan 2005 17:13:08 +0800
+Message-ID: <304916388.18502@eyou.net>
+Received: from 166.111.8.16 by 210.77.143.235 with SMTP; Wed, 05 Jan 2005 17:13:03 +0800
+Received: (eyou send program); Wed, 05 Jan 2005 17:14:08 +0800
+Message-ID: <304916448.00576@mails.tsinghua.edu.cn>
+Received: (eyou send program); Wed, 05 Jan 2005 17:14:07 +0800
+Message-ID: <304916447.04343@mails.tsinghua.edu.cn>
+Received: from unknown (HELO mails.tsinghua.edu.cn) (unknown@127.0.0.1)
+ by 127.0.0.1 with SMTP; Wed, 05 Jan 2005 17:14:07 +0800
+X-scanvirus: By Symantec Scan Engine
+X-scanresult: CLEAN
+X-Received: ccert.edu.cn,202.112.57.12,20050105171406
+Received: from ccert.edu.cn (HELO home.ccert.edu.cn) (202.112.57.12)
+  by localhost with SMTP; 5 Jan 2005 09:14:06 -0000
+Received: from home.ccert.edu.cn (localhost [127.0.0.1])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id j058UllJ031039;
+	Wed, 5 Jan 2005 16:30:47 +0800
+Received: (from majordomo@localhost)
+	by home.ccert.edu.cn (8.13.1/8.13.1/Submit) id j058UlOE031038;
+	Wed, 5 Jan 2005 16:30:47 +0800
+X-Authentication-Warning: home.ccert.edu.cn: majordomo set sender to owner-ccert_forum using -f
+Received: from starry ([202.112.50.10])
+	(authenticated bits=0)
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id j058UVSk031016;
+	Wed, 5 Jan 2005 16:30:35 +0800
+Message-Id: <200501050830.j058UVSk031016@home.ccert.edu.cn>
+Date: Wed, 5 Jan 2005 16:44:54 +0800
+From: "xiao" <xiao@ccert.edu.cn>
+To: yan@ccert.edu.cn
+Cc: "ccert_forum" <ren@ccert.edu.cn>
+Subject: =?gb2312?B?UmU6IL3oyMvG+M7KzsqjrM7Syu682dOmuMPJz7GxtPO1xMruvNnRp9CjxNi7ucrH1dK49rmk1/fK
+tc8=?=
+X-mailer: Foxmail 5.0 [cn]
+Mime-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: 8bit
+X-MIME-Autoconverted: from base64 to 8bit by home.ccert.edu.cn id j058UaSk031027
+Sender: owner-ccert_forum@home.ccert.edu.cn
+Precedence: bulk
+X-UIDL: 8)m"!kHH!!-L_!!7XM!!
+
+实习去吧
+暑期学校的选课已经结束了
+就算想去也要等明年了:)
+: 我现在大3，在北京一所普通大学英语专业，专业方向是有关出版版权方面的。暑假快到了，而且这个暑假时间很长，大概有3个月，我决定好好利用一下。我本打算去一个出版社实习（中国农业出版社），然后利用空余时间学学英语。但是我昨天听同学说了一个北大的暑假课堂，我觉得不错，想趁还是学生的时候多给自己充充电，我想报这两门课：危机公关与传播（葜遥嫌ビ胙侵奘谐?Ilchul Kim) .我想知道这个暑假学校有人去过吗？效果怎么样？如果不错的话我可以上这个课，大概1个月，然后后两个月去实习。各位觉得如何？谢谢各位先。
+

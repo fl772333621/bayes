@@ -1,0 +1,24 @@
+Return-Path: <yun@rbl.ccert.edu.cn>
+Received: from rbl.ccert.edu.cn (rbl.ccert.edu.cn [202.112.57.71])
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id i9B2xBXp027618
+	for <zhou@ccert.edu.cn>; Mon, 11 Oct 2004 10:59:12 +0800 (CST)
+Received: from rbl.ccert.edu.cn (localhost.localdomain [127.0.0.1])
+	by rbl.ccert.edu.cn (8.12.11/8.12.11) with ESMTP id i9B34XuG021989
+	for <zhou@ccert.edu.cn>; Mon, 11 Oct 2004 11:04:34 +0800
+Received: (from qa@localhost)
+	by rbl.ccert.edu.cn (8.12.11/8.12.11/Submit) id i9B34XC9021988;
+	Mon, 11 Oct 2004 11:04:33 +0800
+Date: Mon, 11 Oct 2004 11:04:33 +0800
+Message-Id: <200410110304.i9B34XC9021988@rbl.ccert.edu.cn>
+Subject: =?gb2312?B?ofEgxKbN0MLewK3Ez76p0dC3otbQ0MS99Lyx1dDGuMjtvP7R0LeiuaSzzMqm?=
+To: zhou@ccert.edu.cn
+From: Tran Quang Anh <yun@cernet.edu.cn>
+Content-Type: multipart/mixed; boundary="----------=_1097463874-1014-74"
+MIME-Version: 1.0
+X-UIDL: 5\`"!;7-"!I-]!!dDV"!
+
+刚得到另外一个offer，所以据掉了摩托罗拉南京研发中心的offer，为了弥补给对方招
+聘带来的影响，所以希望代收一些简历以弥补这个职位空缺。至于软件工程师的要求我
+想大家在其它一些招聘帖子中都见过了，这里就不说了。希望最好是硕士，当然也期望很自信的本科生。待遇我不便具体讲，只能说比华为和中兴高不少。请感兴趣的同学发到lsdong@mail.ustc.edu.cn，为方便我整理，请用附件发送简历，标题注明：应聘南京
+摩托罗拉。截至到本周日。
+

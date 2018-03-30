@@ -1,0 +1,78 @@
+Return-Path: <kang@mails.tsinghua.edu.cn>
+Received: from tsinghua.org.cn ([210.77.143.232])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with SMTP id j3LB8r7X009372
+	for <gong@ccert.edu.cn>; Thu, 21 Apr 2005 19:09:04 +0800
+Received: (eyou send program); Thu, 21 Apr 2005 19:24:52 +0800
+Message-ID: <314082692.00789@tsinghua.org.cn>
+X-EYOU-AUTOFORWARD: tsinghua.org.cn
+Received: (eyou send program); Thu, 21 Apr 2005 19:24:52 +0800
+Message-ID: <314082692.19350@tsinghua.org.cn>
+Received: from unknown (HELO eyou.net) (210.77.143.235)
+ by 210.77.143.232 with SMTP; Thu, 21 Apr 2005 19:24:52 +0800
+X-EYOU-SPAMVALUE: 0
+Received: (eyou anti_spam gateway 3.0); Thu, 21 Apr 2005 19:14:28 +0800
+Message-ID: <314082068.00478@eyou.net>
+Received: from 202.112.49.111 by 210.77.143.235 with SMTP; Thu, 21 Apr 2005 19:14:27 +0800
+Received: from Garfield. (localhost [IPv6:::1])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with ESMTP id j3LBKsPa060227
+	for <gong@ccert.edu.cn>; Thu, 21 Apr 2005 19:21:20 +0800 (CST)
+	(envelope-from toefl-bounces@gradinfo.net.edu.cn)
+Received: from mails.tsinghua.edu.cn (mails.tsinghua.edu.cn [166.111.8.16])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with SMTP id j3LBKlvd060223
+	for <gong@ccert.edu.cn>; Thu, 21 Apr 2005 19:20:49 +0800 (CST)
+	(envelope-from lguohan00@mails.tsinghua.edu.cn)
+Received: (eyou send program); Thu, 21 Apr 2005 19:11:49 +0800
+Message-ID: <314081909.05698@mails.tsinghua.edu.cn>
+Received: from 202.112.0.89 by mails.tsinghua.edu.cn with HTTP;
+	Thu, 21 Apr 2005 19:11:49 +0800
+X-WebMAIL-MUA: [202.112.0.89]
+From: "kang" <kang@mails.tsinghua.edu.cn>
+To: gong@ccert.edu.cn
+Date: Thu, 21 Apr 2005 19:11:49 +0800
+X-Priority: 3
+Subject: =?gb2312?B?UmU6IL3x0rmjrLCux+nLwM32oaqhqs7StcSwrsfptb/OxA==?=
+Content-Type: multipart/mixed; boundary="----------=_1114081747-987-409"
+Cc: 
+X-BeenThere: toefl@gradinfo.net.edu.cn
+X-Mailman-Version: 2.1.5
+Precedence: list
+Reply-To: =?gb2312?B?wsC5+urP?= <kang@mails.tsinghua.edu.cn>
+List-Id: "&#26446; &#26143; &#21644; &#20182; &#30340; &#23398; &#29983;
+	&#20204; " <toefl.gradinfo.net.edu.cn>
+List-Unsubscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=unsubscribe>
+List-Archive: <http://gradinfo.net.edu.cn/mailman/private/toefl>
+List-Post: <mailto:toefl@gradinfo.net.edu.cn>
+List-Help: <mailto:toefl-request@gradinfo.net.edu.cn?subject=help>
+List-Subscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=subscribe>
+Sender: toefl-bounces@gradinfo.net.edu.cn
+Errors-To: toefl-bounces@gradinfo.net.edu.cn
+MIME-Version: 1.0
+X-UIDL: ?>`"!fGm"!?pV"!IX!"!
+
+ 
+嗯，满同意的
+愿意一辈子爱一个得就找那种也愿意爱一辈子的
+不愿意的千万别找更别逼对方发誓
+事后又抱怨的那就活该了
+不过这时候呢，不管谁被踹了那也是自自然然
+: 标  题: Re: 今夜，爱情死亡——我的爱情悼文
+: 发信站: 水木社区 (Sun Jun 19 08:07:27 2005), 站内
+: 
+: 所以女同志也要正確認識男人的本性，不要愚蠢地逼男同志：“你快說你一輩子
+: 只愛我一個！”
+: 
+: 人家是愛你，又不是賣身賣給了你。
+: 
+: : 女人也一样
+: 
+: 
+: --
+: 
+: 
+:   学富五车，腰缠万贯，后宫三千，宫外一万。
+: 
+: 
+: ※ 来源:·水木社区 newsmth.net·[FROM: 61.149.44.*]
+

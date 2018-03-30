@@ -1,0 +1,27 @@
+Return-Path: <xing@rbl.ccert.edu.cn>
+Received: from rbl.ccert.edu.cn (rbl.ccert.edu.cn [202.112.57.71])
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id i923BdTu010649
+	for <cen@ccert.edu.cn>; Sat, 2 Oct 2004 11:11:39 +0800 (CST)
+Received: from rbl.ccert.edu.cn (localhost.localdomain [127.0.0.1])
+	by rbl.ccert.edu.cn (8.12.11/8.12.11) with ESMTP id i923HLcn015442
+	for <cen@ccert.edu.cn>; Sat, 2 Oct 2004 11:17:21 +0800
+Received: (from qa@localhost)
+	by rbl.ccert.edu.cn (8.12.11/8.12.11/Submit) id i923HLoD015441;
+	Sat, 2 Oct 2004 11:17:21 +0800
+Date: Sat, 2 Oct 2004 11:17:21 +0800
+Message-Id: <200410020317.i923HLoD015441@rbl.ccert.edu.cn>
+Subject: =?gb2312?B?UmU6INC0uPjSqszuuN+/vNa+1Li1xMjLw8ejrLzmzLi149DQ0rW/tLeooaM=?=
+To: cen@ccert.edu.cn
+From: Tran Quang Anh <xing@cernet.edu.cn>
+Content-Type: multipart/mixed; boundary="----------=_1096687041-996-348"
+MIME-Version: 1.0
+X-UIDL: AI~"!1QE!!-8&#!9Z>!!
+
+: 看那么多人问，很想跟大家一起探讨一下，欢迎拍砖，当然，反对谩骂。
+: 感觉这个东西跟job很有关系，好的学校加专业是找到一个好工作的开始，所以发在这，希望斑竹别珊。
+: 读了四年，考了半年研，找了半年工作的一些感想。
+: ...................
+太长了，没有耐心看。
+只想说，填什么志愿和找到什么样的工作是有关系，但这种关系真有那么直接么。
+填志愿是个系统工程，得综合考虑很多东西，兴趣最重要。坚决不赞成只是为了将来毕业好找工作而填志愿。
+

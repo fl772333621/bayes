@@ -1,0 +1,40 @@
+Return-Path: <qiu@rbl.ccert.edu.cn>
+Received: from rbl.ccert.edu.cn (rbl.ccert.edu.cn [202.112.57.71])
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id i983XJfj001261
+	for <tian@ccert.edu.cn>; Fri, 8 Oct 2004 11:33:20 +0800 (CST)
+Received: from rbl.ccert.edu.cn (localhost.localdomain [127.0.0.1])
+	by rbl.ccert.edu.cn (8.12.11/8.12.11) with ESMTP id i983dK0e007269
+	for <tian@ccert.edu.cn>; Fri, 8 Oct 2004 11:39:21 +0800
+Received: (from qa@localhost)
+	by rbl.ccert.edu.cn (8.12.11/8.12.11/Submit) id i983dKw7007268;
+	Fri, 8 Oct 2004 11:39:20 +0800
+Date: Fri, 8 Oct 2004 11:39:20 +0800
+Message-Id: <200410080339.i983dKw7007268@rbl.ccert.edu.cn>
+Subject: =?gb2312?B?UmU6IM2s0afV0rmk1/fIw87SsO/L/cWquPaxqLXA1qQ=?=
+To: tian@ccert.edu.cn
+From: Tran Quang Anh <qiu@cernet.edu.cn>
+Content-Type: multipart/mixed; boundary="----------=_1097206761-1044-258"
+MIME-Version: 1.0
+X-UIDL: To&"!nn3"!_-k"!i32"!
+
+还有个"老子"呢,嘿嘿
+揪那么细干啥,还不是为了好玩.....
+: 标  题: Re: 同学找工作让我帮她弄个报道证
+: 发信站: 水木社区 (Sun Jun 19 00:09:21 2005), 站内
+: 
+: 仔：广东的用法
+: 娃：陕西的用法
+: 这人是哪里的？
+: 
+: : 有了这个玩艺儿,你将来就可以自豪地跟仔说,"娃啊,你老子我的身份是干部!"
+: 
+: 
+: --
+: 单    位：华为移动通信技术有限公司手机业务部无线终端测试管理部无线终端测试X部
+: 地    址：上地信息产业基地信息路10号（100082）
+: 工作职责：为华为的U626、U636、U526双模手机找茬纠错
+: 上市时间：机密（要时刻注意信息安全问题，信息安全高于一切）
+: 
+: 
+: ※ 来源:·水木社区 newsmth.net·[FROM: 221.221.151.102]
+

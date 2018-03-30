@@ -1,0 +1,53 @@
+Return-Path: <han@ns.6test.edu.cn>
+Received: from tsinghua.org.cn ([210.77.143.228])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id i9L2lTa8009458
+	for <sun@ccert.edu.cn>; Thu, 21 Oct 2004 10:47:30 +0800
+Received: (eyou send program); Thu, 21 Oct 2004 10:58:35 +0800
+Received: (eyou send program); Thu, 21 Oct 2004 10:58:31 +0800
+X-EYOU-ORIGINAL-IP: 202.38.99.65
+X-EYOU-ENVELOPE-MAILFROM: toefl-bounces@server.cool-meeting.com
+Received: from unknown (HELO server.cool-meeting.com) (unknown@202.38.99.65)
+ by 210.77.143.228 with SMTP; Thu, 21 Oct 2004 10:58:31 +0800
+Received: from server.cool-meeting.com (localhost.localdomain [127.0.0.1])
+	by server.cool-meeting.com (8.12.8/8.12.8) with ESMTP id i9L2rcli029982
+	for <sun@ccert.edu.cn>; Thu, 21 Oct 2004 10:54:03 +0800
+Received: from ns.6test.edu.cn ([202.38.99.18])
+	by server.cool-meeting.com (8.12.8/8.12.8) with ESMTP id i9L2rbkr029978
+	for <sun@ccert.edu.cn>; Thu, 21 Oct 2004 10:53:37 +0800
+Received: from [210.25.128.109] (helo=tsinghua89o1rm)
+	by ns.6test.edu.cn with asmtp (Exim 4.12) id 1CKTDt-000HzQ-00
+	for Toefl@server.cool-meeting.com; Thu, 21 Oct 2004 11:02:41 +0800
+Message-ID: <003e01c4b718$0cdcc6b0$6d8019d2@tsinghua89o1rm>
+From: "han" <han@ns.6test.edu.cn>
+To: sun@ccert.edu.cn
+Date: Thu, 21 Oct 2004 10:45:09 +0800
+MIME-Version: 1.0
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2600.0000
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2600.0000
+Cc: 
+Subject: =?gb2312?B?UmU6IMfrzsrH5buqus3W0L/G1LrEx7j2usOjqL+8Q1OjqQ==?=
+X-BeenThere: toefl@server.cool-meeting.com
+X-Mailman-Version: 2.1.2
+Precedence: list
+List-Id: &#26446;&#26143;&#21644;&#20182;&#30340;&#23398;&#29983;&#20204;
+	<toefl.server.cool-meeting.com>
+List-Unsubscribe: <http://server.cool-meeting.com/mailman/listinfo/toefl>,
+	<mailto:toefl-request@server.cool-meeting.com?subject=unsubscribe>
+List-Archive: <http://server.cool-meeting.com/mailman/private/toefl>
+List-Post: <mailto:toefl@server.cool-meeting.com>
+List-Help: <mailto:toefl-request@server.cool-meeting.com?subject=help>
+List-Subscribe: <http://server.cool-meeting.com/mailman/listinfo/toefl>,
+	<mailto:toefl-request@server.cool-meeting.com?subject=subscribe>
+Content-Type: multipart/mixed; boundary="===============98107849413832482=="
+Sender: toefl-bounces@server.cool-meeting.com
+Errors-To: toefl-bounces@server.cool-meeting.com
+X-UIDL: gd7"!=90!!"XJ"!nDW"!
+
+不了解情况真的不要乱说吧．
+首先科学院是直属国务院的，和教育部是一个级别的．
+第二，科学院的软件所，计算所，自动化所，每一个所的中国科学院院士都比清华计算机系多很多倍，因为清华计算机系到现在才只有一个科学院院士，科学院的几个所比其来还是差很多的．最小的软件所，一个小院里还有四个院士呢，其它导师也都很知名的．
+我不否认清华计算机系也很强，但真的谈不上什么＂当然＂，说这样的话，是因为不了解情况呀．
+: 有实力当然是清华哦
+

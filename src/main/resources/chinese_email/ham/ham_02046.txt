@@ -1,0 +1,41 @@
+Return-Path: <zhang@chinatextile.net>
+Received: from tsinghua.org.cn ([210.77.143.231])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id j043Om7e024636
+	for <gong@ccert.edu.cn>; Tue, 4 Jan 2005 11:25:07 +0800
+Received: (eyou send program); Tue, 04 Jan 2005 11:17:24 +0800
+Received: (eyou send program); Tue, 04 Jan 2005 11:17:24 +0800
+X-EYOU-ORIGINAL-IP: 210.77.143.235
+X-EYOU-ENVELOPE-MAILFROM: beijing@chinatextile.net
+Received: from unknown (HELO eyou.net) (unknown@210.77.143.235)
+ by 210.77.143.231 with SMTP; Tue, 04 Jan 2005 11:17:24 +0800
+Received: (eyou send program); Tue, 04 Jan 2005 11:31:35 +0800
+Message-ID: <304809495.21290@eyou.net>
+Received: from 211.150.100.27 by 210.77.143.235 with SMTP; Tue, 04 Jan 2005 11:31:35 +0800
+Received: from wvooqwr5n4mdti (e-smtp2 [127.0.0.1])
+	by smtp.263xmail.com (Postfix) with ESMTP id EF28E22184
+	for <gong@ccert.edu.cn>; Tue,  4 Jan 2005 11:37:59 +0800 (CST)
+	(envelope-from beijing@chinatextile.net)
+Received: from wvooqwr5n4mdti (unknown [221.218.90.204])
+	by antispam-2 (Coremail:263(040326)) with SMTP id RUAEAJcP2kEyDlrM.1
+	for <gong@ccert.edu.cn>; Tue, 04 Jan 2005 11:38:00 +0800 (CST)
+X-TEBIE-Originating-IP: [221.218.90.204]
+Message-ID: <005001c4f20e$791093d0$4f00a8c0@wvooqwr5n4mdti>
+From: "zhang" <zhang@chinatextile.net>
+To: gong@ccert.edu.cn
+Subject: =?gb2312?B?UmU6INfyze21xLK70+S/7CAo16rU2Ck=?=
+Date: Tue, 4 Jan 2005 11:35:43 +0800
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----------=_1104809115-21636-164"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2800.1106
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1106
+X-UIDL: ?/,!!lZK"!HQX!!F*"#!
+
+看见最后一句想起昨天晚上我和LG也因为睡觉的问题不高兴了
+这几天他11点才能回来，还要看文档，他不睡我就睡不着，等到他12点半终于睡了。他可能由于精神太紧张睡不着，也有翻来覆去的毛病，我一有睡意他就翻身，气死我了，迷迷糊糊发了脾气，他只好抱着被子到客卧睡了。早上我醒来才想起他不见了，到客卧把他拽回来，真是不应该啊，忏悔忏悔～～～
+: 我觉得这种情况下你应该第一，示意他关灯，第二，示意他可以用台灯
+: 比如说：开着灯我睡不着，你用台灯好吗，对不起啊（或者谢谢啊）
+: 要是人家用台灯你也睡不着那真是没办法了，就是两夫妻作息也可能不一致的
+: ...................
+

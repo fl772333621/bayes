@@ -1,0 +1,23 @@
+Return-Path: <pu@cernet.edu.cn>
+Received: from lisa ([202.112.4.28])
+	(authenticated bits=0)
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id i8M1Xj5g000653;
+	Wed, 22 Sep 2004 09:33:45 +0800 (CST)
+Message-Id: <200409220133.i8M1Xj5g000653@sea.net.edu.cn>
+From: "pu" <pu@cernet.edu.cn>
+To: xiao@ccert.edu.cn
+Subject: =?gb2312?B?UmU6ILO5tde21Ljxwaa/1bX3yqfN+8HLfr3xzOzT1tbY0MLC8sHLyP3B4tbYuaQ=?=
+X-mailer: Foxmail 4.2 [cn]
+Mime-Version: 1.0
+Content-Type: text/plain;
+      charset="GB2312"
+Date: Wed, 22 Sep 2004 9:38:52 +0800
+Content-Transfer-Encoding: 8bit
+X-MIME-Autoconverted: from quoted-printable to 8bit by sea.net.edu.cn id i8M1Xj5g000653
+X-UIDL: dVH"!I3J!!FH*"![$5!!
+
+你说的关于车的是啥意思啊？俺考虑买车，不过没看明白你说的意思啊。飞渡亚阁算好还是算差啊？他们的价格也很高了吧
+: 而且说到日本的楼，在地震多发地区建楼当然要更坚固。
+: 有的时候从成本考虑，建筑质量也不是越高越好，毕竟质量越高，价格越贵。
+: 同样的道理，为啥那么多人买广本的车？飞渡亚阁啥的，要是开到120公里以上，基本就是在玩命。不过很多人买了就是做都市用车，也不上高速跑，或者顶多跑个北京到天津的距离。所以就不求那么高的质量了。价格和外观成了购买的决定性因素。
+

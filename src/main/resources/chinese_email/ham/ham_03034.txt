@@ -1,0 +1,32 @@
+Return-Path: <peng@sohu.com>
+Received: from cngnu.org ([211.157.2.95])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id iAP6V4RB001761
+	for <jian@ccert.edu.cn>; Thu, 25 Nov 2004 14:31:09 +0800
+Received: from localhost (localhost.localdomain [127.0.0.1])
+	by cngnu.org (Postfix) with ESMTP id C5A46CA029
+	for <jian@ccert.edu.cn>; Thu, 25 Nov 2004 14:43:53 +0800 (CST)
+Received: from cngnu.org ([211.157.2.95])
+ by localhost (xia.cngnu.net [127.0.0.1]) (amavisd-new, port 10024) with ESMTP
+ id 09291-08 for <jian@ccert.edu.cn>; Thu, 25 Nov 2004 14:43:53 +0800 (CST)
+Received: from 127.0.0.1 (localhost.localdomain [127.0.0.1])
+	by cngnu.org (Postfix) with SMTP id 0D06ACA023
+	for <jian@ccert.edu.cn>; Thu, 25 Nov 2004 14:43:53 +0800 (CST)
+From: "peng" <peng@sohu.com>
+To: jian@ccert.edu.cn
+Subject: =?gb2312?B?UmU6IM7S0qqyu9KqyKXJz9Gn?=
+X-Priority: 3
+X-Mailer: CASA IPB PHP Mailer
+Message-Id: <20041125064353.0D06ACA023@cngnu.org>
+Date: Thu, 25 Nov 2004 14:43:53 +0800 (CST)
+X-Virus-Scanned: by amavisd-new using ClamAV at cngnu.org
+X-UIDL: )1C"!,=["!<~>"!9e8"!
+
+首先想说的是，上学不是逃避的方法。因为你毕业出来，还是要工作。除非你自己很想上学，想去学习，否则，上学只能更痛苦。
+如果觉得上了个硕士，就能找到更好的工作，还是不要抱这样的天真想法比较好。现在扩招招的越来越多，学历也越来越不值钱。即使你学历比别人要高那么一点点，可是你资历比人家低那么一点点，也是白搭。这是我的切身感受哦，觉得硕士不读就好了。
+当然，如果mm你是真心想学习，想通过考研完全改变自己以后的命运，倒是可以试试。但是，一定要有心理准备，否则，等到你硕士毕业那天，心理落差会更大的。
+这种事，要自己想清楚。虽然你家人都支持你，但那更多是因为爱你，所以迁就你，可不代表他们说的就是正确的。
+: 心里乱乱的，很多问题需要我自己来想明白，需要我来面对，但是只有我自己知道我什么都没想好
+: 首先我不喜欢现在的工作，我觉得枯燥，所以我告诉妈妈，告诉男友，我要去上学，只为摆脱现在这样的环境
+: 然后所有人都同意我去上学，去读三年的书，专业学校我都没想好，我需要为男友考虑，也需要为我们的将来考虑，因为男友支持我上学
+: ...................
+

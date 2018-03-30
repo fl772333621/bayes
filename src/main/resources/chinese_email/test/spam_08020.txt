@@ -1,0 +1,48 @@
+Return-Path: <wang@cert.org.cn>
+Received: from mail.cert.org.cn ([202.108.183.6])
+	by home.ccert.edu.cn (MIMEDefang) with ESMTP id NOQUEUE
+	for <kong@ccert.edu.cn>; Thu, 09 Jun 2005 09:44:53 +0800 (CST)
+Received: from ibm ([202.108.183.166])
+	(authenticated)
+	by mail.cert.org.cn (8.11.6/8.11.6) with ESMTP id j591MrL07494;
+	Thu, 9 Jun 2005 09:22:58 +0800
+Message-Id: <200506090122.j591MrL07494@mail.cert.org.cn>
+From: "wang" <wang@cert.org.cn>
+To: kong@ccert.edu.cn
+Cc: "'Patrick'" <zeng@ccert.edu.cn>
+Subject: =?gb2312?B?udjT2kNOQ0VSVC9DQ8Tqu+HCvNPDwtvOxNTaobbQxc+isLLIq9PrzajQxQ==?=
+Date: Thu, 9 Jun 2005 09:56:32 +0800
+Organization: CNCERT/CC
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: base64
+X-Priority: 1 (Highest)
+X-MSMail-Priority: High
+X-Mailer: Microsoft Office Outlook, Build 11.0.5510
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+Importance: High
+Thread-Index: AcVrdcdH1DXX5RSfRgue3DdP8FTwpQBGr6OA
+
+ 
+各位CNCERT/CC年会论文作者，您好。
+
+为了感谢您向CNCERT/CC年会积极投稿，我们决定将被年会录用的15篇论文向《信息安
+全与通信保密》杂志（属于国内学术核心期刊）推荐发表。但是所发表的文章要收取
+500元/页的版面费。为了给向我们年会投稿者更多的利益，我们决定为每个被录用且愿
+意发表的作者提供300元/页的补助，即您只需要向杂志社交纳200元/页的版面费，其余
+版面费由我中心支付。
+
+如果您同意上述条件，愿意发表论文，请：
+
+1、对您的论文做进一步修改，字数应不多于5000字，论文格式应符合杂志的要求。具
+体要求请参见：http://www.cismag.com.cn/guide.asp
+2、于本月16日前答复是否愿意将论文在杂志上发表，如愿意则向我们提交符合杂志要
+求的文稿。
+
+Regards
+
+Patrick
+CNCERT/CC
+
+

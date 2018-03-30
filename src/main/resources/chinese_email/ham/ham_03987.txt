@@ -1,0 +1,51 @@
+Return-Path: <yu@tsinghua.edu.cn>
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with SMTP id iBN2EVlp017076
+	for <liu@ccert.edu.cn>; Thu, 23 Dec 2004 10:15:07 +0800
+Received: (eyou send program); Thu, 23 Dec 2004 10:13:03 +0800
+Message-ID: <303767983.14854@mail.tsinghua.edu.cn>
+Received: from unknown (HELO mail.tsinghua.edu.cn) (unknown@127.0.0.1)
+ by 127.0.0.1 with SMTP; Thu, 23 Dec 2004 10:13:03 +0800
+X-scanvirus: By Symantec Scan Engine
+X-scanresult: CLEAN
+Received: (eqmail ); 23 Dec 2004 02:13:00 -0000
+Received: from unknown (HELO sony) (duanhx@166.111.204.187)
+  by localhost with SMTP; 23 Dec 2004 02:13:00 -0000
+Message-ID: <011f01c4e897$12f61780$d53270ca@sony>
+From: "yu" <yu@tsinghua.edu.cn>
+To: liu@ccert.edu.cn
+Cc: =?gb2312?B?1qPPyM6w?= <li@ccert.edu.cn>, <luo@ccert.edu.cn>
+References: <303767006.10323@mail.tsinghua.edu.cn>
+Subject: =?gb2312?B?UmU6IM/bxL3O0s2s0aejrNXi0fm1xMDPxsXKx7K7yse++NbWwcujvw==?=
+Date: Thu, 23 Dec 2004 10:28:21 +0800
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2900.2180
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+Content-Transfer-Encoding: 8bit
+X-MIME-Autoconverted: from base64 to 8bit by home.ccert.edu.cn id iBN2EVlp017076
+X-UIDL: 7`0"!Oin!!9Lh"!Plc!!
+
+我的意思是做饭还没有食堂便宜
+去食堂吧总有那种一两块钱就行的菜
+自己做总不能不稍微吃得好一点吧
+而且看起来是没什么水果鱼虾可吃了，那个老公也挺惨的
+赫赫
+: 标  题: Re: 羡慕我同学，这样的老婆是不是绝种了？
+: 发信站: 水木社区 (Thu Jun 16 22:20:21 2005), 站内
+: 
+: 自己做饭呗
+: 
+: : 那也得你肯找一个中专的阿
+: : 每个月300，住学校吃食堂两个人也打不下来啊
+: 
+: 
+: --
+:                         又灌水？赶快回去学习去！
+: 
+: 
+: ※ 来源:·水木社区 newsmth.net·[FROM: 61.50.142.*]
+

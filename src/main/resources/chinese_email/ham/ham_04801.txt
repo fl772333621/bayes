@@ -1,0 +1,25 @@
+Return-Path: <hou@rbl.ccert.edu.cn>
+Received: from rbl.ccert.edu.cn (rbl.ccert.edu.cn [202.112.57.71])
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id i97Hunbd023636
+	for <luo@ccert.edu.cn>; Fri, 8 Oct 2004 01:56:50 +0800 (CST)
+Received: from rbl.ccert.edu.cn (localhost.localdomain [127.0.0.1])
+	by rbl.ccert.edu.cn (8.12.11/8.12.11) with ESMTP id i97I2iWP021767
+	for <luo@ccert.edu.cn>; Fri, 8 Oct 2004 02:02:44 +0800
+Received: (from qa@localhost)
+	by rbl.ccert.edu.cn (8.12.11/8.12.11/Submit) id i97I2iUp021766;
+	Fri, 8 Oct 2004 02:02:44 +0800
+Date: Fri, 8 Oct 2004 02:02:44 +0800
+Message-Id: <200410071802.i97I2iUp021766@rbl.ccert.edu.cn>
+Subject: =?gb2312?B?UmU6INX3uPZyb29vbWF0ZbrP16E=?=
+To: luo@ccert.edu.cn
+From: Tran Quang Anh <hou@cernet.edu.cn>
+Content-Type: multipart/mixed; boundary="----------=_1097172164-1044-50"
+MIME-Version: 1.0
+X-UIDL: 95~!!<Q>"!1<E"!]Z3"!
+
+        想便宜就别在清华附近找房子住.这边租房子便宜不了
+: 毕业在即，由于薪水少的可怜！故征人合住！
+: 我的个人情况：男，今年清华电子本科毕业，工作签了清华同方。性格随和，喜欢安静，木有gf，除了周末睡懒觉外无其他不良嗜好。
+: 希望你：年龄不限，性别也不限(……)。也是今年毕业工作的本科生最好，在校生或者在考研也不错。社会关系不要太复杂，不要经常带其他人回屋就可以了。最好能长期（1年内）稳定合住
+: ...................
+

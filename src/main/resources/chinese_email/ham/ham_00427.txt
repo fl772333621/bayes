@@ -1,0 +1,26 @@
+Return-Path: <qiu@rbl.ccert.edu.cn>
+Received: from rbl.ccert.edu.cn (rbl.ccert.edu.cn [202.112.57.71])
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id i9ELAWM1019017
+	for <yu@ccert.edu.cn>; Fri, 15 Oct 2004 05:10:32 +0800 (CST)
+Received: from rbl.ccert.edu.cn (localhost.localdomain [127.0.0.1])
+	by rbl.ccert.edu.cn (8.12.11/8.12.11) with ESMTP id i9ELG257009635
+	for <yu@ccert.edu.cn>; Fri, 15 Oct 2004 05:16:04 +0800
+Received: (from qa@localhost)
+	by rbl.ccert.edu.cn (8.12.11/8.12.11/Submit) id i9ELG2lH009634;
+	Fri, 15 Oct 2004 05:16:02 +0800
+Date: Fri, 15 Oct 2004 05:16:02 +0800
+Message-Id: <200410142116.i9ELG2lH009634@rbl.ccert.edu.cn>
+Subject: =?gb2312?B?UmU6INK2y+a358bwLNKyy+a358Lk?=
+To: yu@ccert.edu.cn
+From: Tran Quang Anh <qiu@cernet.edu.cn>
+Content-Type: multipart/mixed; boundary="----------=_1097788564-2811-56"
+MIME-Version: 1.0
+X-UIDL: >Fg"!,j3!!*O'#!doN!!
+
+余、伊和满篇的现代表述放在一起，很别扭
+会妨碍别人理解你的心境
+: 一切还没开始,一切却早已结束.
+: 以此来形容余的初恋,真是再合适不过.
+: 初次看见伊的时候,真是没有一丝印记,再普通不过的一个人,走在大街上,绝对不会回头看第二眼.后来机缘巧合,常在一起讨论问题,渐渐无话不谈,得以发现伊与众不同处.在那个一心只读圣贤书、两耳不闻窗外事的岁月,生活显得平淡无奇，波澜不惊.每天望着伊的背影偶尔发呆,倒也是
+: ...................
+

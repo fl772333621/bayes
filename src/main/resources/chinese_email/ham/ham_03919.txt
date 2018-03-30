@@ -1,0 +1,66 @@
+Return-Path: <li@nortel.com>
+Received: from tsinghua.org.cn ([210.77.143.232])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with SMTP id j4D2XoKW030946
+	for <pan@ccert.edu.cn>; Fri, 13 May 2005 10:34:15 +0800
+Received: (eyou send program); Fri, 13 May 2005 10:50:26 +0800
+Message-ID: <315952626.23366@tsinghua.org.cn>
+X-EYOU-AUTOFORWARD: tsinghua.org.cn
+Received: (eyou send program); Fri, 13 May 2005 10:50:26 +0800
+Message-ID: <315952626.09081@tsinghua.org.cn>
+Received: from unknown (HELO eyou.net) (210.77.143.235)
+ by 210.77.143.232 with SMTP; Fri, 13 May 2005 10:50:26 +0800
+X-EYOU-SPAMVALUE: 0
+Received: (eyou anti_spam gateway 3.0); Fri, 13 May 2005 10:39:40 +0800
+Message-ID: <315951980.05299@eyou.net>
+Received: from 202.112.49.111 by 210.77.143.235 with SMTP; Fri, 13 May 2005 10:39:39 +0800
+Received: from Garfield. (localhost [IPv6:::1])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with ESMTP id j4D2jMrh038968
+	for <pan@ccert.edu.cn>; Fri, 13 May 2005 10:45:39 +0800 (CST)
+	(envelope-from toefl-bounces@gradinfo.net.edu.cn)
+Received: from zrc2s0jx.nortelnetworks.com (zrc2s0jx.nortelnetworks.com
+	[47.103.122.112])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with ESMTP id j4D2jIjs038964
+	for <pan@ccert.edu.cn>; Fri, 13 May 2005 10:45:19 +0800 (CST)
+	(envelope-from fangkun@nortel.com)
+Received: from zsupc003.asiapac.nortel.com (zsupc003.asiapac.nortel.com
+	[47.153.140.7])
+	by zrc2s0jx.nortelnetworks.com (Switch-2.2.6/Switch-2.2.0) with ESMTP
+	id j4D2nHn21780
+	for <pan@ccert.edu.cn>; Thu, 12 May 2005 21:49:18 -0500 (CDT)
+Received: by zsupc003.asiapac.nortel.com with Internet Mail Service
+	(5.5.2653.19) id <J9X3GB9F>; Fri, 13 May 2005 10:49:02 +0800
+Message-ID: <6143E1195114F347A954A5D732C26EE10E3D2576@zsupc003.asiapac.nortel.com>
+From: "li" <li@nortel.com>
+To: pan@ccert.edu.cn
+Subject: =?gb2312?B?UmU6ILK71qq1wNXiyseyu8rHbG92ZbDmtcTE2sjd?=
+Date: Fri, 13 May 2005 10:49:02 +0800
+MIME-Version: 1.0
+X-Mailer: Internet Mail Service (5.5.2653.19)
+X-BeenThere: toefl@gradinfo.net.edu.cn
+X-Mailman-Version: 2.1.5
+Precedence: list
+List-Id: "&#26446; &#26143; &#21644; &#20182; &#30340; &#23398; &#29983;
+	&#20204; " <toefl.gradinfo.net.edu.cn>
+List-Unsubscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=unsubscribe>
+List-Archive: <http://gradinfo.net.edu.cn/mailman/private/toefl>
+List-Post: <mailto:toefl@gradinfo.net.edu.cn>
+List-Help: <mailto:toefl-request@gradinfo.net.edu.cn?subject=help>
+List-Subscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=subscribe>
+Content-Type: multipart/mixed; boundary="===============0580380912=="
+Sender: toefl-bounces@gradinfo.net.edu.cn
+Errors-To: toefl-bounces@gradinfo.net.edu.cn
+X-UIDL: pd0!!<JF!!7pI"![2'"!
+
+别总想着过去
+否则若干年后你又留恋现在的日子了
+我在今年三月之前，不定期得到水母来，用行话说，潜水很少，灌水更少，只是在这里看着，像小时候看着别的小朋友手里的好玩具，不要求妈妈去买，但也不肯把眼睛转向别的方向。
+好像是一种情结，清华情结，挥之不去。
+曾经有个好朋友是清华的，所以就经常的呆在这里，心里想，他一定时常来灌水和潜水的。就是这样，好像在电影中有一种镜头，一个人来到以前两个人常去的地方，静静的呆着
+由于众所周知的原因，只有的这一点小小的要求都难达到
+现在，我又能呆在这儿了
+ 
+却不能像以前一样
+怀念逝去的和永不回返的岁月
+

@@ -1,0 +1,36 @@
+Return-Path: <fu@rbl.ccert.edu.cn>
+Received: from rbl.ccert.edu.cn (rbl.ccert.edu.cn [202.112.57.71])
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id i96CFLl7004129
+	for <fu@ccert.edu.cn>; Wed, 6 Oct 2004 20:15:21 +0800 (CST)
+Received: from rbl.ccert.edu.cn (localhost.localdomain [127.0.0.1])
+	by rbl.ccert.edu.cn (8.12.11/8.12.11) with ESMTP id i96CLH5K011808
+	for <fu@ccert.edu.cn>; Wed, 6 Oct 2004 20:21:17 +0800
+Received: (from qa@localhost)
+	by rbl.ccert.edu.cn (8.12.11/8.12.11/Submit) id i96CLHFC011807;
+	Wed, 6 Oct 2004 20:21:17 +0800
+Date: Wed, 6 Oct 2004 20:21:17 +0800
+Message-Id: <200410061221.i96CLHFC011807@rbl.ccert.edu.cn>
+Subject: =?gb2312?B?UmU6ILGxvqmw0c7SvuTBy6Oswe3Su7j2wuS9xbXju7nL47/J0tSw0Q==?=
+To: fu@ccert.edu.cn
+From: Tran Quang Anh <fu@cernet.edu.cn>
+Content-Type: multipart/mixed; boundary="----------=_1097065277-996-640"
+MIME-Version: 1.0
+X-UIDL: Z6Z"!~&0!!%fM"!h1P!!
+
+: 标  题: 北京把我句了，另一个落脚点还算可以把
+: 发信站: 水木社区 (Mon Jun  6 20:32:00 2005), 站内
+: 
+: 元月份回北京找工作，虽然每个看我简历得人都说我简历不错（主要是发过得文章不少）
+: 但是给得条件只是和应届毕业生得一样，而且一副你爱来不来得样子。只好联系薄厚，现
+                       ~~~~~~~~ 你的意思是 ... ?
+: 在
+: 薄厚位置有了，两年，经济上比北京高校工作好很多。但是两年之后还得找工作。无所谓
+: 了，
+: 中国不要我回去，就在外面继续混把。好歹在外面温饱可以解决，孩子可以上得起学，我
+: 可以住的起房。
+: 哎。
+: 
+: --
+: 
+: ※ 来源:·水木社区 newsmth.net·[FROM: 155.69.110.*]
+

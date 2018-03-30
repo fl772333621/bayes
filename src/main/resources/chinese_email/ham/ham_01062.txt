@@ -1,0 +1,66 @@
+Return-Path: <tao@ccert.edu.cn>
+Received: from tsinghua.org.cn ([210.77.143.231])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id iBT9LrZ4024088
+	for <ling@ccert.edu.cn>; Wed, 29 Dec 2004 17:21:54 +0800
+Received: (eyou send program); Wed, 29 Dec 2004 17:15:31 +0800
+Received: (eyou send program); Wed, 29 Dec 2004 17:15:31 +0800
+X-EYOU-ORIGINAL-IP: 210.77.143.235
+X-EYOU-ENVELOPE-MAILFROM: zhenghui@ccert.edu.cn
+Received: from unknown (HELO eyou.net) (unknown@210.77.143.235)
+ by 210.77.143.231 with SMTP; Wed, 29 Dec 2004 17:15:31 +0800
+Received: (eyou send program); Wed, 29 Dec 2004 17:29:53 +0800
+Message-ID: <304312593.25397@eyou.net>
+Received: from 166.111.8.16 by 210.77.143.235 with SMTP; Wed, 29 Dec 2004 17:29:48 +0800
+Received: (eyou send program); Wed, 29 Dec 2004 17:30:35 +0800
+Message-ID: <304312635.14756@mails.tsinghua.edu.cn>
+Received: (eyou send program); Wed, 29 Dec 2004 17:30:34 +0800
+Message-ID: <304312634.94835@mails.tsinghua.edu.cn>
+Received: from unknown (HELO mails.tsinghua.edu.cn) (unknown@127.0.0.1)
+ by 127.0.0.1 with SMTP; Wed, 29 Dec 2004 17:30:34 +0800
+X-scanvirus: By Symantec Scan Engine
+X-scanresult: CLEAN
+X-Received: ccert.edu.cn,202.112.57.12,20041229173027
+Received: from ccert.edu.cn (HELO home.ccert.edu.cn) (202.112.57.12)
+  by localhost with SMTP; 29 Dec 2004 09:30:27 -0000
+Received: from home.ccert.edu.cn (localhost [127.0.0.1])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id iBT8ja0k023431;
+	Wed, 29 Dec 2004 16:45:36 +0800
+Received: (from majordomo@localhost)
+	by home.ccert.edu.cn (8.13.1/8.13.1/Submit) id iBT8jaKH023430;
+	Wed, 29 Dec 2004 16:45:36 +0800
+X-Authentication-Warning: home.ccert.edu.cn: majordomo set sender to owner-ccert_forum using -f
+Received: from ccertspark (tu203021.tsinghua.edu.cn [166.111.203.21])
+	(authenticated bits=0)
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id iBT8jZLV023426
+	for <ling@ccert.edu.cn>; Wed, 29 Dec 2004 16:45:35 +0800
+Reply-To: <tao@cernet.edu.cn>
+From: "tao" <tao@ccert.edu.cn>
+To: ling@ccert.edu.cn
+Subject: =?gb2312?B?UmU6ILCz1qq1wLXEw8C5+qOh?=
+Date: Wed, 29 Dec 2004 16:58:12 +0800
+Message-ID: <001d01c4ed84$86b26240$15cb6fa6@ccertspark>
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="----=_NextPart_000_001E_01C4EDC7.94D5A240"
+X-Priority: 3 (Normal)
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook, Build 10.0.6626
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.3790.181
+Importance: Normal
+Sender: owner-ccert_forum@home.ccert.edu.cn
+Precedence: bulk
+X-UIDL: nUE"!a\4!!Cn7"!C<1"!
+
+不是，美国的税率是累进制。
+$0 $7,300               10% of the amount over $0 
+$7,300 $29,700          $730 plus 15% of the amount over 7,300 
+$29,700 $71,950         $4,090.00 plus 25% of the amount over 29,700 
+$71,950 $150,150        $14,652.50 plus 28% of the amount over 71,950 
+$150,150 $326,450       $36,548.50 plus 33% of the amount over 150,150 
+$326,450 no limit       $94,727.50 plus 35% of the amount over 326,450
+From this table, you can see only those income above $326,450
+will be taxed at the maxium rate 35%. All other incomes are taxed
+well bellow 35%. 
+: 我一直认为H1要交36%的税的
+: 难道不是吗？
+

@@ -1,0 +1,29 @@
+Return-Path: <shi@rbl.ccert.edu.cn>
+Received: from rbl.ccert.edu.cn (rbl.ccert.edu.cn [202.112.57.71])
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id i962RAfW027461
+	for <kong@ccert.edu.cn>; Wed, 6 Oct 2004 10:27:10 +0800 (CST)
+Received: from rbl.ccert.edu.cn (localhost.localdomain [127.0.0.1])
+	by rbl.ccert.edu.cn (8.12.11/8.12.11) with ESMTP id i962X3oG010752
+	for <kong@ccert.edu.cn>; Wed, 6 Oct 2004 10:33:05 +0800
+Received: (from qa@localhost)
+	by rbl.ccert.edu.cn (8.12.11/8.12.11/Submit) id i962X3xa010751;
+	Wed, 6 Oct 2004 10:33:03 +0800
+Date: Wed, 6 Oct 2004 10:33:03 +0800
+Message-Id: <200410060233.i962X3xa010751@rbl.ccert.edu.cn>
+Subject: =?gb2312?B?ofEgvfHM7L+qsc/Stbvh?=
+To: kong@ccert.edu.cn
+From: Tran Quang Anh <shi@cernet.edu.cn>
+Content-Type: multipart/mixed; boundary="----------=_1097029985-996-466"
+MIME-Version: 1.0
+X-UIDL: 8!(#!Y~\!!oM6"!]&)!!
+
+也只是怀着一种非常平常和平静的心情去参加毕业会。
+开始时大家都还高高兴兴，
+几杯酒下肚，某几个同学就开始出现一种莫名的感伤，随之泪水就往下掉。
+我开始还嘻嘻哈哈的，到处敬同学的酒，
+后来喝得二麻二麻的，突然心里也涌动出一股感伤，泪水逐渐往下掉。
+再后来男男女女抱在一起痛苦，互相鼓励，互相安慰，把以前不敢说却又想所的话全抖了出来。
+第一次感到同学之间这样近，但此时已是离别时，我们再也不会像这样相聚在一起了。
+虽然我那时总是逃离，但我确实想再和同学们一起认认真真上一堂课。
+没有了，一切都没有了……
+

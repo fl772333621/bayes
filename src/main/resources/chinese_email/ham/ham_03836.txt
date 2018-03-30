@@ -1,0 +1,41 @@
+Return-Path: <lin@tsinghua.edu.cn>
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j2E7g6wn004184
+	for <fu@ccert.edu.cn>; Mon, 14 Mar 2005 15:42:06 +0800 (CST)
+Received: (eyou send program); Mon, 14 Mar 2005 15:25:23 +0800
+Message-ID: <310785123.26930@mail.tsinghua.edu.cn>
+Received: from unknown (HELO mail.tsinghua.edu.cn) (unknown@127.0.0.1)
+ by 127.0.0.1 with SMTP; Mon, 14 Mar 2005 15:25:23 +0800
+X-scanvirus: By Symantec Scan Engine
+X-scanresult: CLEAN
+Received: (eqmail ); 14 Mar 2005 07:25:19 -0000
+Received: from unknown (HELO sony) (duanhx@166.111.204.189)
+  by localhost with SMTP; 14 Mar 2005 07:25:19 -0000
+Message-ID: <006e01c52869$4ac02270$bdcc6fa6@sony>
+From: "lin" <lin@tsinghua.edu.cn>
+To: fu@ccert.edu.cn
+Cc: <yi@ccert.edu.cn>, =?gb2312?B?zuLWvr78?= <lai@ccert.edu.cn>,
+        <shi@ccert.edu.cn>,
+        "Liu wu \(Tsinghua CCERT\)" <tao@ccert.edu.cn>, <jian@ccert.edu.cn>
+Subject: =?gb2312?B?UmU6IL3xzOzU2kdGtcS3v7zkt6LP1sHLxLDJ+sTQyMu1xNHMzbeho6GjoaOho6GjoaM=?=
+Date: Mon, 14 Mar 2005 15:41:52 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_006B_01C528AC.57AD5370"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2900.2180
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+X-UIDL: fiO!!X;j"!!4d"!PNI"!
+
+兄弟
+我支持你
+好好问她
+问清楚了
+你错，任她处置，分手也行
+你对，立马甩了她
+: 不小心发现了烟灰缸里有个陌生的烟头，我问今天谁来过，GF死活不说有人来过，当场火
+: 了！指着烟头拷问2个小时地头不语。一气之下拽断了她的白金手链和项链冲进了马桶，然后给她两条路：要么把烟头吃掉，要么交代清楚问题。
+: 一肚子气，今天算是睡不着了，以后该怎么办是好阿！
+: ...................
+

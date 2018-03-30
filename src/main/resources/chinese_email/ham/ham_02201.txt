@@ -1,0 +1,48 @@
+Return-Path: <tu@rbl.ccert.edu.cn>
+Received: from rbl.ccert.edu.cn (rbl.ccert.edu.cn [202.112.57.71])
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id i97MsRgF026729
+	for <jian@ccert.edu.cn>; Fri, 8 Oct 2004 06:54:27 +0800 (CST)
+Received: from rbl.ccert.edu.cn (localhost.localdomain [127.0.0.1])
+	by rbl.ccert.edu.cn (8.12.11/8.12.11) with ESMTP id i97N0Oa7030707
+	for <jian@ccert.edu.cn>; Fri, 8 Oct 2004 07:00:25 +0800
+Received: (from qa@localhost)
+	by rbl.ccert.edu.cn (8.12.11/8.12.11/Submit) id i97N0Oe0030706;
+	Fri, 8 Oct 2004 07:00:24 +0800
+Date: Fri, 8 Oct 2004 07:00:24 +0800
+Message-Id: <200410072300.i97N0Oe0030706@rbl.ccert.edu.cn>
+Subject: =?gb2312?B?ofEg1dDGuKO6SmF2YcjtvP65pLPMyqahosPAuaTN+NKzyei8xsqm?=
+To: jian@ccert.edu.cn
+From: Tran Quang Anh <tu@cernet.edu.cn>
+Content-Type: multipart/mixed; boundary="----------=_1097190025-1044-132"
+MIME-Version: 1.0
+X-UIDL: P)]"!7bE"!KlU!!j?Y"!
+
+公司名称：联盈数码（北京分公司）
+公司主页： http://www.networkshanghai.com
+联系方式：请将简历发送 hr@networkshanghai.com
+职位：Java软件工程师
+人数：2～3人
+工作地点：北京
+招聘条件： 
+计算机相关专业，本科以上学历；
+两年以上开发经验，参与过大型应用开发项目；
+精通Java/J2EE编程，熟练掌握XML、struts、spring、hibernate等技术；
+熟悉Oracle等数据库开发；
+深入理解OO思想，熟悉UML语言，并熟练使用Rose/Together等工具；
+熟练运用多种软件设计模式；
+具备良好的英语读写能力；
+具备良好的软件工程意识，熟悉软件开发流程，软件配置管理等工具的使用；
+能独立完成各项交付的任务，有很强的责任心及团队合作精神，有良好的合作技巧和沟
+通能力。
+美工/网页软件界面设计师：
+人数：1人
+工作地点：北京
+有良好的美术基础，美术、设计专业优先考虑；
+精通Photoshop，Illustrator等常用图形图像处理软件；
+熟练掌握WEB层页面设计，熟悉HTML，熟悉JavaScipt；
+熟练掌握Dreamweaver等网页设计软件工具及Flash设计软件；
+有较好的协作开发能力和敬业精神；
+了解软件开发流程；
+具有1年以上开发经验。
+请在应聘简历中附上主要作品或网页链接。
+

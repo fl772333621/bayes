@@ -1,0 +1,31 @@
+Return-Path: <bai@smth.edu.cn>
+Received: from tsinghua.org.cn ([210.77.143.228])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id iANFcQ2u008011
+	for <cen@ccert.edu.cn>; Tue, 23 Nov 2004 23:38:27 +0800
+Received: (eyou send program); Tue, 23 Nov 2004 23:51:12 +0800
+Received: (eyou send program); Tue, 23 Nov 2004 23:51:11 +0800
+X-EYOU-ORIGINAL-IP: 210.77.143.235
+X-EYOU-ENVELOPE-MAILFROM: svm@smth.edu.cn
+Received: from unknown (HELO eyou.net) (unknown@210.77.143.235)
+ by 210.77.143.228 with SMTP; Tue, 23 Nov 2004 23:51:11 +0800
+Received: (eyou send program); Tue, 23 Nov 2004 23:46:42 +0800
+Message-ID: <301224802.15161@eyou.net>
+Received: from 211.68.16.32 by 210.77.143.235 with SMTP; Tue, 23 Nov 2004 23:46:40 +0800
+Received: from smth.edu.cn (bbs.tsinghua.edu.cn [166.111.8.238])
+	by alpha.linux.edu.cn (8.11.6/8.11.6) with ESMTP id iANGKT607872
+	for <cen@ccert.edu.cn>; Wed, 24 Nov 2004 00:20:30 +0800
+MIME-Version: 1.0
+Content-Type: text/plain; charset=gb2312
+Content-Transfer-Encoding: 8bit
+From: "bai" <bai@smth.edu.cn>
+To: cen@ccert.edu.cn
+Date: Tue, 23 Nov 2004 23:51:07 +0800
+Message-Id: <1101225067.0@smth.edu.cn>
+Subject: =?gb2312?B?UmU6IMj1yPW12M7Ko7rOqsqyw7TEx8O0tuDIy7a8z+u1sbmrzvHUsbChoaOho6Gj?=
+X-UIDL: \G7"!,Z)!!$&4"!&`Y"!
+
+当然，国家不搜刮民脂民膏怎么养他们呢？难道养你？国家就是统治的工具，为了统治你们不是公务员的就要花钱养能够保证它统治的公务员，而且估计你不是既得利益集团，如果你是的话，你肯定就说共党好啊，跟着共党走不吃亏啊，况且世界上有多少收入和付出平衡的？？名校的硕博就比一般高中本科毕业的混的好？岂不是更加不爽？都去造反去？/劝你提升自己好了，顾着自己赚钱就好，莫管他人，顾不过来，人家得来轻松，或者名不副实那是人家的本事，有本事你也啥事不干，一年到头能捞10万大家看看
+: 搜刮民脂民膏就来养这些寄生虫了
+: 当然，任何一个群体里都有精英，也有垃圾。。
+: 公务员里也有敬业工作的，但是他们的收入和付出肯定是不平衡的。得来得太轻松，或者名不副实
+

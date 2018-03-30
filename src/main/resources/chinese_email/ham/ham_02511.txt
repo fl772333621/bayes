@@ -1,0 +1,54 @@
+Return-Path: <lv@withub.org>
+Received: from autoforward.mail.sohu.com ([61.135.132.166])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id j0Q18j8e007818
+	for <zhao@ccert.edu.cn>; Wed, 26 Jan 2005 09:08:46 +0800
+Received: from mx23.mail.sohu.com (unknown [192.168.41.141])
+	by autoforward.mail.sohu.com (Postfix) with ESMTP id 594618ECF7
+	for <zhao@ccert.edu.cn>; Wed, 26 Jan 2005 09:20:36 +0800 (CST)
+Received: by mx23.mail.sohu.com (Postfix)
+	id 6014B14010; Wed, 26 Jan 2005 09:20:35 +0800 (CST)
+Delivered-To: chen741120@mx23.mail.sohu.com
+Received: from withub.org (unknown [218.80.208.20])
+	by sohumx97.sohu.com (Postfix) with SMTP id B39DE00C2528
+	for <zhao@ccert.edu.cn>; Wed, 26 Jan 2005 09:20:32 +0800 (CST)
+Received: (qmail 29774 invoked by uid 1009); 26 Jan 2005 01:19:25 -0000
+Message-ID: <20050126011925.29773.qmail@withub.org>
+To: zhao@ccert.edu.cn
+Subject: =?gb2312?B?UmU6IM7SttTMq7yrxuzGrtHvtcS/tLeo?=
+From: "lv" <lv@withub.org>
+Date: Wed, 26 Jan 2005 9:19:25 +0800
+X-Priority: 3
+X-Mailer: iGENUS webmail 3.0 beta powered by wuqiong@igenus.org
+X-Originating-IP: [192.168.1.254]
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----56356b57e8bd464c9788d8cf87e69acc"
+X-Sohu-Antivirus: 0
+X-UIDL: 6!E"!Ya2!!GV&"!XfH!!
+
+强烈re!!咒诋毁这部片子的人吃糖不甜，吃盐不咸吧。
+: 标  题: 我对太极旗飘扬的看法
+: 发信站: 水木社区 (Sun Jun 12 00:45:12 2005), 站内
+: 
+: 首先声明，本人看的电影极少，一学期也难得看两三部。所以记忆也非常深刻，不过也没法
+: 旁征博引。
+: 看太极旗飘扬完全是偶然，那两天我随口说了一句想看一看这一部片子，要同学帮忙down一个。(我看得少，所以对电影的ftp也不了解)那同学看了之后说还不错。然后我就看了。
+: 在两位男主角被“送”上火车的那一刻，眼泪就第一次要出来。到了最后一段我就一直在压抑泪水，如果不是同学在旁边，我可能早就不行了。
+: 中途去吃晚饭的时候，我就在不停的思考这些：我原来一直对美国打伊，打阿富汗持赞同态度，我认为美国是一个负责任讲道义的国家，但是太极旗飘扬让我觉得无论什么抽象的目的
+: 都不应该代替人类最基本的感情——亲情，有情，爱情。它让我想起了英国病人。那也是我
+: 非常喜欢的片子，是值得反复看的片子。有些片子好，但不值得看第二次，例如勇敢的心。
+: 
+: 我不明白为什么这部电影会和民族主义扯上关系，明明就是一个民族内部的分裂嘛。而且，
+: 虽然这部电影的具体情节使得它没法在中国上映，但是如果把它理解成什么意识形态的反共的片子，恐怕就太狭隘了。关键不在于政治取向，而在于战争对人性的极度摧残。
+: 
+: 我承认这部电影有赚人眼泪的倾向，可是这并不能说明它就是幼稚的。
+: --
+: 我一直润在虚假的赞美中
+: 其实太阳并不曾明亮过
+: 准备好了，去流浪
+: 那个世界再不属于我
+: 
+: 
+: ※ 修改:·nowheredense 于 Jun 12 00:46:44 修改本文·[FROM: 59.66.185.*]
+: ※ 来源:·水木社区 newsmth.net·[FROM: 59.66.185.*]
+

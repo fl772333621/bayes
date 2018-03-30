@@ -1,0 +1,28 @@
+Return-Path: <lei@rbl.ccert.edu.cn>
+Received: from rbl.ccert.edu.cn (rbl.ccert.edu.cn [202.112.57.71])
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id i986SqWL003962
+	for <yan@ccert.edu.cn>; Fri, 8 Oct 2004 14:28:53 +0800 (CST)
+Received: from rbl.ccert.edu.cn (localhost.localdomain [127.0.0.1])
+	by rbl.ccert.edu.cn (8.12.11/8.12.11) with ESMTP id i986YrNW026808
+	for <yan@ccert.edu.cn>; Fri, 8 Oct 2004 14:34:54 +0800
+Received: (from qa@localhost)
+	by rbl.ccert.edu.cn (8.12.11/8.12.11/Submit) id i986YrsF026807;
+	Fri, 8 Oct 2004 14:34:53 +0800
+Date: Fri, 8 Oct 2004 14:34:53 +0800
+Message-Id: <200410080634.i986YrsF026807@rbl.ccert.edu.cn>
+Subject: =?gb2312?B?ofEgsLPLtcu1YmVzc2xnvNLA77XE0rvQqbv5sb60q8u1sMk=?=
+To: yan@ccert.edu.cn
+From: Tran Quang Anh <lei@cernet.edu.cn>
+Content-Type: multipart/mixed; boundary="----------=_1097217294-1044-300"
+MIME-Version: 1.0
+X-UIDL: h(+"!"!="!oXX!!%>X!!
+
+1、金盆洗手的故事
+bess被她lg带回家的时候，他父母在全村老少面前举行金盆洗手仪式，说明全家
+以后将指望儿子媳妇养活，不再干活了。她必须养活她lg父母全家，包括她lg
+众多弟弟妹妹姐姐哥哥等数十人，以后可能上百人。
+2、50元一只鸡的故事
+在那个村举行了婚礼准备工作中，因为需要买各种菜，于是她lg哥哥按一只鸡50元
+的价钱卖给弟弟做菜。
+另外还有她lg父母要求她给见面礼金啥的故事，其他故事细节大家补充吧
+

@@ -1,0 +1,69 @@
+Return-Path: <cen@ccert.edu.cn>
+Received: from tsinghua.org.cn ([210.77.143.228])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id iAJ0CKlA018754
+	for <tan@ccert.edu.cn>; Fri, 19 Nov 2004 08:12:21 +0800
+Received: (eyou send program); Fri, 19 Nov 2004 08:24:54 +0800
+Received: (eyou send program); Fri, 19 Nov 2004 08:24:54 +0800
+X-EYOU-ORIGINAL-IP: 210.77.143.235
+X-EYOU-ENVELOPE-MAILFROM: yxl@ccert.edu.cn
+Received: from unknown (HELO eyou.net) (unknown@210.77.143.235)
+ by 210.77.143.228 with SMTP; Fri, 19 Nov 2004 08:24:54 +0800
+Received: (eyou send program); Fri, 19 Nov 2004 08:20:36 +0800
+Message-ID: <300823636.21908@eyou.net>
+Received: from 202.112.57.12 by 210.77.143.235 with SMTP; Fri, 19 Nov 2004 08:20:35 +0800
+Received: from RavProxy ([211.147.9.206])
+	(authenticated bits=0)
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id iAJ0C6Hm018750
+	for <tan@ccert.edu.cn>; Fri, 19 Nov 2004 08:12:13 +0800
+Message-Id: <200411190012.iAJ0C6Hm018750@home.ccert.edu.cn>
+From: "cen" <cen@ccert.edu.cn>
+To: tan@ccert.edu.cn
+Subject: =?gb2312?B?ofEgSW50ZWwgSW50ZXJuc2hpcCBPcHBvcnR1bml0eSAodmFsaWQgZm9yIDIgd2Vlayk=?=
+X-mailer: Foxmail 4.2 [cn]
+Mime-Version: 1.0
+Content-Type: text/plain;
+      charset="GB2312"
+Date: Fri, 19 Nov 2004 8:24:36 +0800
+Content-Transfer-Encoding: 8bit
+X-MIME-Autoconverted: from quoted-printable to 8bit by home.ccert.edu.cn id iAJ0CKlA018754
+X-UIDL: V/m"!B4^!!)9G!!4DH"!
+
+Intel Internship Opportunity (valid for 2 week)
+ 
+-Position Title: Hardware Design Intern
+-Department: Intel Communication Technology Lab Beijing
+-No. of Openings: 1
+-Location:  Beijing
+ 
+-Job Discription
+ be a member of an Intel Research team in Beijing and work on complex hardware design for digital signal processing
+ 
+-Skill &amp; Background
+ 1. 1+ year experience on complex FPGA design/simulation/validation
+ 2. Master VHDL/Verilog language and related EDA tools
+ 3. Basic knowledge on baseband signal processing in wireless communication
+ 
+-General requirements
+ 1.  MS or Ph.D candidate
+ 2.  Good techinical writing skills is a plus
+ 3.  Team work, self-motivated, and good communication skills
+ 4.  Working 4 days per week (normal working time) for 1/2 year
+ 
+If you are interested, please forward your resume to: clarkchen900@yahoo.com.cn
+- 职位：无线研究实习生
+- 部门：英特尔通信技术实验室
+- 数量：1
+- 地点：北京
+- 职位描述
+    作为北京研究团队的一员，参与复杂数字信号处理的硬件设计和实现工作。
+- 技能背景要求
+1 在FPGA设计，仿真，验证有一年以上经验
+2 熟练掌握VHDL或Verilog 语言以及相关EDA工具
+3 对于无线通信系统的基带信号处理有基础知识
+- 一般要求
+1 硕士或博士在读研究生
+4 良好的技术文档写作能力
+6 良好团队工作能力，工作主动，以及交流能力
+7 半年工作时间内，保证每周4 个以上正常工作日
+如有意申请，请发电子邮件到：clarkchen900@yahoo.com.cn
+

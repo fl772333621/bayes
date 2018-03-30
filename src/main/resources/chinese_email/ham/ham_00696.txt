@@ -1,0 +1,29 @@
+Return-Path: <qiu@cernet.edu.cn>
+Received: from user-7bkbiq72wz (tu203023.tsinghua.edu.cn [166.111.203.23])
+	(authenticated bits=0)
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id iAB2IVDK020380;
+	Thu, 11 Nov 2004 10:18:31 +0800 (CST)
+Message-Id: <200411110218.iAB2IVDK020380@sea.net.edu.cn>
+From: "qiu" <qiu@cernet.edu.cn>
+To: ou@ccert.edu.cn
+Subject: =?GB2312?Q?Re: Fw: =D3=EB=C6=F4=C3=F7=D0=C7=B3=BD=BD=BB=C1=F7?=
+X-mailer: Foxmail 4.2 [cn]
+Mime-Version: 1.0
+Content-Type: text/plain;
+      charset="GB2312"
+Date: Thu, 11 Nov 2004 10:14:59 +0800
+Content-Transfer-Encoding: 8bit
+X-MIME-Autoconverted: from quoted-printable to 8bit by sea.net.edu.cn id iAB2IVDK020380
+X-UIDL: DM+!!EY-"!AI7!!,EU"!
+
+5900左右吧，看公积金是否封顶，扣10％还是8％
+各公司不一样，有软件企业扣20％的。假如不封顶(好像很多外企都不封顶)
+公积金  640
+养老保险  567(7087*0.08)
+医疗保险  145(7087*0.02+3)
+失业保险  35(7087*0.005)
+福利总计是1387，应纳税额是6613－1200＝5413
+所得税应该是  5413×0.2-375=708
+所以实得应该是8000-1387-708=5905
+: 我能问问你月薪8000，扣完税和公积金后真正拿到手的大概多少前
+

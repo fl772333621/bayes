@@ -1,0 +1,31 @@
+Return-Path: <xia@moon.bjnet.edu.cn>
+Received: from moon.bjnet.edu.cn (moon.bjnet.edu.cn [202.112.4.65])
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id iB18DTmh009883
+	(version=TLSv1/SSLv3 cipher=EDH-RSA-DES-CBC3-SHA bits=168 verify=NO)
+	for <liu@ccert.edu.cn>; Wed, 1 Dec 2004 16:13:29 +0800 (CST)
+Received: from thh (tu201235.tsinghua.edu.cn [166.111.201.235])
+	(authenticated bits=0)
+	by moon.bjnet.edu.cn (8.12.9/8.12.9) with ESMTP id iB17DbYI022966
+	for <liu@ccert.edu.cn>; Wed, 1 Dec 2004 15:13:38 +0800 (CST)
+Message-Id: <200412010713.iB17DbYI022966@moon.bjnet.edu.cn>
+Date: Wed, 1 Dec 2004 16:15:55 +0800
+From: "xia" <xia@moon.bjnet.edu.cn>
+To: liu@ccert.edu.cn
+Subject: =?gb2312?B?UmU6IL3xze3H67K70qq90M7SwvbC9g==?=
+X-mailer: Foxmail 5.0 [cn]
+Mime-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: 8bit
+X-MIME-Autoconverted: from base64 to 8bit by sea.net.edu.cn id iB18DTmh009883
+X-UIDL: gJD"!)]o!!&O:"!i13!!
+
+你看下本版4232文吧
+  4231 m sally2000    Jun  3  ● [原创连载]我们的爱情真的完蛋了(29)             
+&gt; 4232 m arakak       Jun  3. ● 青瓷油灯之憾&lt;ZZ&gt;                               
+  4233 g guituaguitu  Jun  3  ● 如何才是长久？                                 
+: 其实我蛮不喜欢这样的态度。
+: 可能我的心态也有点问题。
+: 错过了，就算了，然后把眼睛盯住下一个，这种做法我真的不太能理解。
+: ...................
+

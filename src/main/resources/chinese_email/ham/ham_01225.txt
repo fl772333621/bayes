@@ -1,0 +1,37 @@
+Return-Path: <zhou@tsinghua.edu.cn>
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j08HSYF1009708
+	for <cao@ccert.edu.cn>; Sun, 9 Jan 2005 01:28:34 +0800 (CST)
+Received: (eyou send program); Sun, 09 Jan 2005 01:12:48 +0800
+Message-ID: <305204368.09058@mail.tsinghua.edu.cn>
+Received: from unknown (HELO mail.tsinghua.edu.cn) (unknown@127.0.0.1)
+ by 127.0.0.1 with SMTP; Sun, 09 Jan 2005 01:12:48 +0800
+X-scanvirus: By Symantec Scan Engine
+X-scanresult: CLEAN
+Received: (eqmail ); 8 Jan 2005 17:12:47 -0000
+Received: from unknown (HELO sony) (duanhx@166.111.232.108)
+  by localhost with SMTP; 8 Jan 2005 17:12:47 -0000
+Message-ID: <000b01c4f5a7$75eb1260$6ce86fa6@sony>
+From: "zhou" <zhou@tsinghua.edu.cn>
+To: cao@ccert.edu.cn
+References: <305201546.08799@mail.tsinghua.edu.cn>
+Subject: =?gb2312?B?UmU6IMTR0tS+8dTx?=
+Date: Sun, 9 Jan 2005 01:28:24 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0008_01C4F5EA.8350CEC0"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2800.1106
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1106
+X-UIDL: p+f!!CRB!!dKD!!pA=!!
+
+  好像你一直没有提他到底是想出去还是不想出去，
+  只能看出他决定出去，他父母的意见是出去，
+  不过我觉得有2个原则要遵守：1 两人不长期分开（例如整年）
+  2 要出去早出去，这种事情赶早不赶晚
+: 和bf在一起6年,现在都是24岁,虽然还没有结婚,但在双方父母早已当是确定了的
+: 其实,我们感情很好,如果可以,我们真的不想做下边的选择,
+: 如果不是他家让他出国,我们在国内可以过着很舒服也平庸的小资生活...
+: ...................
+

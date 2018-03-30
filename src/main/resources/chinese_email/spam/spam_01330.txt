@@ -1,0 +1,20 @@
+Return-Path: <lv@126.com>
+Received: from 126.com ([219.238.148.254])
+	by home.ccert.edu.cn (MIMEDefang) with ESMTP id NOQUEUE
+	for <su@ccert.edu.cn>; Wed, 22 Jun 2005 02:57:05 +0800 (CST)
+Message-ID: <200506220257.0.662244085076825@home.ccert.edu.cn>
+From: lv@126.com
+Subject: =?gb2312?B?z8Iu1NguytQu08Ojur34z/q05sbz0rW53MDtyO28/g==?=
+To: su@ccert.edu.cn
+Content-Type: text/html;
+	charset="gb2312"
+Content-Transfer-Encoding: 8bit
+Date: Mon, 5 Apr 2004 03:19:08 +0800
+X-Mailer: Foxmail 4.2 [cn]
+
+功能模块：采购、销售、库存、客户、供应商、简单生产、简单人力资源
+
+下载地址：http://anxun.v263.net
+
+电话：010-64280661；84291360
+

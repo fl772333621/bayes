@@ -1,0 +1,36 @@
+Return-Path: <gu@mails.tsinghua.edu.cn>
+Received: from mails.tsinghua.edu.cn (mails.tsinghua.edu.cn [166.111.8.16])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id iAF4uuok028912
+	for <chi@ccert.edu.cn>; Mon, 15 Nov 2004 12:56:56 +0800 (CST)
+Received: (eyou send program); Mon, 15 Nov 2004 12:51:39 +0800
+Message-ID: <300494299.15007@mails.tsinghua.edu.cn>
+Received: from 219.224.217.39 by mails.tsinghua.edu.cn with HTTP; Mon, 15 Nov 2004 12:51:39 +0800
+X-WebMAIL-MUA: [219.224.217.39]
+From: "gu" <gu@mails.tsinghua.edu.cn>
+To: chi@ccert.edu.cn
+Date: Mon, 15 Nov 2004 12:51:39 +0800
+Reply-To: "gu" <gu@mails.tsinghua.edu.cn>
+Subject: Re: 请问SVM能否用于流量异常检测？
+Content-Type: text/plain
+X-UIDL: ,Kd"!`?m"!]]n!!*XE!!
+
+那不会碰到屁股?
+: 标  题: Re: 太fz了你们
+: 发信站: 水木社区 (Fri Jun 17 22:37:05 2005), 站内
+: 
+: 熊没有尾巴?
+: 貌似是比较短,拉起来有难度吧
+: : 熊有尾巴吗?
+: 
+: 
+: --
+:        想获得女性的 垂青      ╄╄╃╅╆┾╄╈╉╇╊╈╉╈╉╃╇╇╃╇╇       
+:           有两种最有效的方式    ┖╀┾╅  @@    一╇╊╈╉╈╉╃╇╉╄╇╇     
+:                                   ╄╈╅╆╄╃╅╆┾┾ !!!hi,帅哥!!!╃╄╄     
+:            一是装酷               ┖┾╀╁ 来来,来  ╇╊╈╉╈╉╃╇╇╊╈     
+:            二是逗她笑            ╭ ╅╉╈╄╃╅╆┾╄╈ 给俺笑一个成不?╆     
+:                                  ╯   ╉╈╄╃╅╆┾╄╈╉╇╊╈╉╈╉╆╆     
+: 
+: 
+: ※ 来源:·水木社区 newsmth.net·[FROM: 211.151.90.*]
+

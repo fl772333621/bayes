@@ -1,0 +1,30 @@
+Return-Path: <wang@mails.tsinghua.edu.cn>
+Received: from mails.tsinghua.edu.cn (mails.tsinghua.edu.cn [166.111.8.16])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id iAN38nvL025613
+	for <zheng@ccert.edu.cn>; Tue, 23 Nov 2004 11:08:49 +0800 (CST)
+Received: (eyou send program); Tue, 23 Nov 2004 11:03:31 +0800
+Message-ID: <301179011.12246@mails.tsinghua.edu.cn>
+Received: from unknown (HELO mails.tsinghua.edu.cn) (unknown@127.0.0.1)
+ by 127.0.0.1 with SMTP; Tue, 23 Nov 2004 11:03:31 +0800
+X-scanvirus: By Symantec Scan Engine
+X-scanresult: CLEAN
+Received: (eqmail ); 23 Nov 2004 03:03:29 -0000
+Received: from tu203028.tsinghua.edu.cn (HELO ccert-dijg) (dijg01@166.111.203.28)
+  by mails.tsinghua.edu.cn with SMTP; 23 Nov 2004 03:03:29 -0000
+From: "wang" <wang@mails.tsinghua.edu.cn>
+To: zheng@ccert.edu.cn
+Subject: =?GB2312?Q?Re: =D4=AD=C0=B4=CA=C7=B6=CE=C0=CF=B4=F3=C6=F0=B5=C4?=
+X-mailer: Foxmail 4.2 [cn]
+Mime-Version: 1.0
+Content-Type: multipart/alternative;
+      boundary="=====002_Dragon727768845240_====="
+Date: Tue, 23 Nov 2004 11:11:47 +0800
+X-UIDL: VkB"!,nP"!_];!!&Uo"!
+
+这个情况毕竟还是特殊的，户口的问题不是很清楚。但是在北京的大多数还是有户口吧，不然将来高考还要去外地考，岂不是亏大了。
+如果在北京，是正常考上去的话，重点中学的钱不比普通中学多。我上高中转到一个西城区的重点高中，比我原来的那个重点中学的学费还低呢，一般家庭都承受的起。那些没考到分数要交赞助费的就另说了，不过我看到的交赞助费的学生大多数都是学习不好的。
+: 不过在北京这里，看我同事的闺女，
+: 考高中就是因为户口不是北京的，
+: 分数到了人大附了，
+: ...................
+

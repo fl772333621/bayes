@@ -1,0 +1,24 @@
+Return-Path: <cheng@rbl.ccert.edu.cn>
+Received: from rbl.ccert.edu.cn (rbl.ccert.edu.cn [202.112.57.71])
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id i9AArbgf017334
+	for <qian@ccert.edu.cn>; Sun, 10 Oct 2004 18:53:37 +0800 (CST)
+Received: from rbl.ccert.edu.cn (localhost.localdomain [127.0.0.1])
+	by rbl.ccert.edu.cn (8.12.11/8.12.11) with ESMTP id i9AAwv9Y025887
+	for <qian@ccert.edu.cn>; Sun, 10 Oct 2004 18:58:58 +0800
+Received: (from qa@localhost)
+	by rbl.ccert.edu.cn (8.12.11/8.12.11/Submit) id i9AAwv48025886;
+	Sun, 10 Oct 2004 18:58:57 +0800
+Date: Sun, 10 Oct 2004 18:58:57 +0800
+Message-Id: <200410101058.i9AAwv48025886@rbl.ccert.edu.cn>
+Subject: =?gb2312?B?ofEgufq8ytDN1sfE0rv6ubnV0Ma406KyxQ==?=
+To: qian@ccert.edu.cn
+From: Tran Quang Anh <cheng@cernet.edu.cn>
+Content-Type: multipart/mixed; boundary="----------=_1097405938-1014-52"
+MIME-Version: 1.0
+X-UIDL: ?%m!!FK<"!@iV!!>N3"!
+
+    在中国，博勤卓越(TrinityInnovation)是第一家以创新为核心向企业、政府机构和国际组织提供战略与管理咨询以及资本市场顾问服务的国际型智囊机构，卓越的创新研究团体和创新网络。博勤卓越定位于高端市场，专业原则是国际一流水准。
+    博勤卓越欢迎精英人才加盟，共同发展。现招聘管理咨询顾问、高级管理咨询顾问、项目经理及秘书。详见公司网站http://www.trinityinnovation.com/employment.htm
+    有意者请联系：innovation@trinityinnovation.com
+    代友发问，勿回本信箱。
+

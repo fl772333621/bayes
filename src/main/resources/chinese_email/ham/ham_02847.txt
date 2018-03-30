@@ -1,0 +1,60 @@
+Return-Path: <tan@ns.6test.edu.cn>
+Received: from tsinghua.org.cn ([210.77.143.231])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id iBU8OeMt021231
+	for <lv@ccert.edu.cn>; Thu, 30 Dec 2004 16:24:42 +0800
+Received: (eyou send program); Thu, 30 Dec 2004 16:18:19 +0800
+Received: (eyou send program); Thu, 30 Dec 2004 16:18:19 +0800
+X-EYOU-ORIGINAL-IP: 210.77.143.235
+X-EYOU-ENVELOPE-MAILFROM: wanglanjia@ns.6test.edu.cn
+Received: from unknown (HELO eyou.net) (unknown@210.77.143.235)
+ by 210.77.143.231 with SMTP; Thu, 30 Dec 2004 16:18:19 +0800
+Received: (eyou send program); Thu, 30 Dec 2004 16:32:39 +0800
+Message-ID: <304395559.04270@eyou.net>
+Received: from 166.111.8.16 by 210.77.143.235 with SMTP; Thu, 30 Dec 2004 16:32:37 +0800
+Received: (eyou send program); Thu, 30 Dec 2004 16:33:26 +0800
+Message-ID: <304395606.24283@mails.tsinghua.edu.cn>
+Received: (eyou send program); Thu, 30 Dec 2004 16:33:26 +0800
+Message-ID: <304395606.20912@mails.tsinghua.edu.cn>
+Received: from unknown (HELO mails.tsinghua.edu.cn) (unknown@127.0.0.1)
+ by 127.0.0.1 with SMTP; Thu, 30 Dec 2004 16:33:26 +0800
+X-scanvirus: By Symantec Scan Engine
+X-scanresult: NOREP
+X-Received: ccert.edu.cn,202.112.57.12,20041230163322
+Received: from ccert.edu.cn (HELO home.ccert.edu.cn) (202.112.57.12)
+  by localhost with SMTP; 30 Dec 2004 08:33:22 -0000
+Received: from home.ccert.edu.cn (localhost [127.0.0.1])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id iBU8O8n6021178;
+	Thu, 30 Dec 2004 16:24:08 +0800
+Received: (from majordomo@localhost)
+	by home.ccert.edu.cn (8.13.1/8.13.1/Submit) id iBU8O88v021177;
+	Thu, 30 Dec 2004 16:24:08 +0800
+X-Authentication-Warning: home.ccert.edu.cn: majordomo set sender to owner-ccertstaff using -f
+Received: from ns.6test.edu.cn (ns.6test.edu.cn [202.112.54.2])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id iBU8O8G9021173
+	for <lv@ccert.edu.cn>; Thu, 30 Dec 2004 16:24:08 +0800
+Received: from tu203047.tsinghua.edu.cn ([166.111.203.47] helo=wanglanjia)
+	by ns.6test.edu.cn with asmtp (Exim 4.12)
+	id 1CjwGz-000G12-00
+	for ccertstaff@ccert.edu.cn; Thu, 30 Dec 2004 17:07:09 +0800
+Message-ID: <005c01c4ee4a$eca9ad30$2fcb6fa6@wanglanjia>
+From: "tan" <tan@ns.6test.edu.cn>
+To: lv@ccert.edu.cn
+Subject: =?gb2312?B?UmU6IMn6yOe/18i4?=
+Date: Thu, 30 Dec 2004 16:38:23 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0059_01C4EE8D.FAC0DF40"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2800.1437
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1441
+Sender: owner-ccertstaff@home.ccert.edu.cn
+Precedence: bulk
+X-UIDL: WHj"!B4o!!D,M!!U$]"!
+
+而今的年代依然容不得一个自由的灵魂，也许80年代末之前的80年代尚有启蒙的激情与喜乐，然而如今却又在以更为隐蔽的方式可悲地回到从前
+:     生命是一幅忧伤的画卷。
+:     这两天心情有一点黯淡，晚上十一点多的时候，黑了灯，看《孔雀》。
+:     镜头用怀旧的姿态展开70年代城镇的街道，深长而且忧郁；接着在音乐里打出"孔雀"两个字。然后我们看到一家五口吃饭的镜头，还有姐姐拉着手风琴，不理会烧开的水。
+: ...................
+

@@ -1,0 +1,45 @@
+Return-Path: <gao@home.ccert.edu.cn>
+Received: from home.ccert.edu.cn (localhost [127.0.0.1])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id iB16UWbt019588;
+	Wed, 1 Dec 2004 14:30:32 +0800
+Received: (from majordomo@localhost)
+	by home.ccert.edu.cn (8.13.1/8.13.1/Submit) id iB16UW8I019587;
+	Wed, 1 Dec 2004 14:30:32 +0800
+X-Authentication-Warning: home.ccert.edu.cn: majordomo set sender to owner-ccertstaff using -f
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id iB16UVUd019583
+	for <gong@ccert.edu.cn>; Wed, 1 Dec 2004 14:30:31 +0800
+Received: from GirlOfGod (tu203027.tsinghua.edu.cn [166.111.203.27])
+	(authenticated bits=0)
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id iB16hauK007966
+	for <gong@ccert.edu.cn>; Wed, 1 Dec 2004 14:43:37 +0800 (CST)
+Message-Id: <200412010643.iB16hauK007966@sea.net.edu.cn>
+Date: Wed, 1 Dec 2004 14:47:57 +0800
+From: "gao" <gao@cernet.edu.cn>
+To: gong@ccert.edu.cn
+Subject: =?gb2312?B?ofEg1+69/LXEt7PQxMrCLLK71qq1wNT1w7Sw7Doo?=
+X-mailer: Foxmail 5.0 [cn]
+Mime-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: 8bit
+X-MIME-Autoconverted: from base64 to 8bit by home.ccert.edu.cn id iB16UVUd019585
+Sender: owner-ccertstaff@home.ccert.edu.cn
+Precedence: bulk
+X-UIDL: j(e"!CHV!!P"k!!NPf!!
+
+有一个熟人jj刚刚结婚,找了一个家境稍微宽裕一点的,男方给新婚的小两口买了一套房子.
+这大概是中国人比较传统的思维方式.
+似乎没有房子就不能结婚,因为没有生活的基础,而且往往主要是由男方出资.
+jj说要找家境不是太困难的,是因为不想让自己的父母操劳了一辈子还要为子女的下半辈子操心.尤其她工作在上海这样的地方,如果两个人都没有一点经济基础,
+要靠自己的工资整得一套房子住,估计还要打拼半辈子...
+就是这样,可能自己跟父母的生活都会比较拮据,
+生活可能会很辛苦.(也许也会很有打拼的乐趣...)
+也许自己以后也会碰到这样的问题.
+父母现在很开明,一般会任由子女怎么做.
+但是真是不想让父母不能清闲,还要操心.
+希望父母能快活一些,轻松一些.
+但是如果我会喜欢上一个家境不好但是很努力的人呢？
+他可能不能提供任何生活基础。
+btw:我反对傍大款，要自立。
+

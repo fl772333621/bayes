@@ -1,0 +1,78 @@
+Return-Path: <wen@ccert.edu.cn>
+Received: from tsinghua.org.cn ([210.77.143.228])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id i8L3wA4Y027251
+	for <liao@ccert.edu.cn>; Tue, 21 Sep 2004 11:58:14 +0800
+Received: (eyou send program); Tue, 21 Sep 2004 12:08:02 +0800
+Received: (eyou send program); Tue, 21 Sep 2004 12:08:01 +0800
+X-EYOU-ORIGINAL-IP: 166.111.8.16
+X-EYOU-ENVELOPE-MAILFROM: zhenghui@ccert.edu.cn
+Received: from unknown (HELO mails.tsinghua.edu.cn) (unknown@166.111.8.16)
+ by 210.77.143.228 with SMTP; Tue, 21 Sep 2004 12:08:01 +0800
+Received: (eyou send program); Tue, 21 Sep 2004 12:02:01 +0800
+Message-ID: <295739321.24748@mails.tsinghua.edu.cn>
+Received: (eyou send program); Tue, 21 Sep 2004 12:02:00 +0800
+Message-ID: <295739320.29785@mails.tsinghua.edu.cn>
+Received: from unknown (HELO mails.tsinghua.edu.cn) (unknown@127.0.0.1)
+ by 127.0.0.1 with SMTP; Tue, 21 Sep 2004 12:02:00 +0800
+X-scanvirus: By Symantec Scan Engine
+X-scanresult: CLEAN
+Received: (eqmail ); 21 Sep 2004 04:01:44 -0000
+Received: from ccert.edu.cn (HELO home.ccert.edu.cn) (202.112.57.12)
+  by mails.tsinghua.edu.cn with SMTP; 21 Sep 2004 04:01:44 -0000
+Received: from home.ccert.edu.cn (localhost [127.0.0.1])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id i8L3twZC027187;
+	Tue, 21 Sep 2004 11:55:58 +0800
+Received: (from majordomo@localhost)
+	by home.ccert.edu.cn (8.13.1/8.13.1/Submit) id i8L3tv5S027186;
+	Tue, 21 Sep 2004 11:55:57 +0800
+X-Authentication-Warning: home.ccert.edu.cn: majordomo set sender to owner-ccertstaff using -f
+Received: from ccertspark (puma.ccert.edu.cn [202.112.50.50])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id i8L3tmK7027169
+	for <liao@ccert.edu.cn>; Tue, 21 Sep 2004 11:55:55 +0800
+From: wen@ccert.edu.cn
+To: liao@ccert.edu.cn
+Subject: =?gb2312?B?UmU6ILbURXJpY3Nzb261xNK70Km40Mrc?=
+Date: Tue, 21 Sep 2004 12:09:18 +0800
+Message-ID: <001901c49f90$ca8ea6f0$323270ca@ccertspark>
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+X-Priority: 3 (Normal)
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook, Build 10.0.6626
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.3790.181
+Importance: Normal
+Content-Transfer-Encoding: 8bit
+X-MIME-Autoconverted: from quoted-printable to 8bit by home.ccert.edu.cn id i8L3tvK7027184
+Sender: owner-ccertstaff@home.ccert.edu.cn
+Precedence: bulk
+X-UIDL: k#7"!"XZ"!=@m"!Xal!!
+
+        其实我要说的是也许Eric R&amp;D也许不能代表Ericsson的全部
+        就象我在这里，也看到很多针对我们公司的言论。其实争来
+        争去的，意思不是很大，也许一个部门不是很爽，但是这个
+        公司在业界的影响力，企业文化，所能够提供给我们的机会，
+        也许都是值得我们很关注的很值得尝试的。如果因为一个部
+        门，或者一个人，而看贬了一个公司，就如同我因为一件事
+        情，就将你这个人看贬了一样，这是不全面的。
+        
+        如果大家觉得Eric R&amp;D很不厚道，并且了解里面的企业文化
+        不怎么样，可以通过各种渠道了解Eric R&amp;D和Eric China 
+        Invesigation的关系，企业文化是否相同，管理人员是否相
+        同，这都会对它产生很关键的影响，无论是从面试，还是到
+        日后在这个企业的工作。
+        去年打CN2，所了解的Ericsson的人还是很nice，虽然是对手，
+        但是感觉比Cisco的人有涵养的多的多，待人接物、举手投足
+        让人感觉就很舒服，而不是Cisco的那种嚣张和aggressive，
+        我相信这一定和公司平日里的企业文化、周围的人有很大的
+        关系。Ericsson的pay给的很高，里面机会也还是不错，并且
+        Eric的流动率很低，如果长期发展，我觉得Ericsson还是一个
+        不错的选择。相比而言，我觉得Nokia很中庸，在里面的确是
+        比较舒服，但是是不是有非常大的提高，总的来说我觉得不
+        好说，我认识一些从Nokia出来的人，包括我们公司的一些总监，
+        总体来说，比较温和，但是能力一般。这是我的感觉。
+: 这么说吧，个人感觉Ericsson很不厚道
+: MTNET的测试我参加了，后来又去了Eric的竞争对手那里
+: 至于Nokia,Lucent,Moto,Alcatel什么的也都有不少交道
+: ...................
+

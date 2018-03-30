@@ -1,0 +1,31 @@
+Return-Path: <kong@rbl.ccert.edu.cn>
+Received: from rbl.ccert.edu.cn (rbl.ccert.edu.cn [202.112.57.71])
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id i980v6NC028248
+	for <chen@ccert.edu.cn>; Fri, 8 Oct 2004 08:57:07 +0800 (CST)
+Received: from rbl.ccert.edu.cn (localhost.localdomain [127.0.0.1])
+	by rbl.ccert.edu.cn (8.12.11/8.12.11) with ESMTP id i98138ZO001130
+	for <chen@ccert.edu.cn>; Fri, 8 Oct 2004 09:03:08 +0800
+Received: (from qa@localhost)
+	by rbl.ccert.edu.cn (8.12.11/8.12.11/Submit) id i98138BN001129;
+	Fri, 8 Oct 2004 09:03:08 +0800
+Date: Fri, 8 Oct 2004 09:03:08 +0800
+Message-Id: <200410080103.i98138BN001129@rbl.ccert.edu.cn>
+Subject: =?gb2312?B?UmU6IMi6xbkh?=
+To: chen@ccert.edu.cn
+From: Tran Quang Anh <kong@cernet.edu.cn>
+Content-Type: multipart/mixed; boundary="----------=_1097197388-1044-180"
+MIME-Version: 1.0
+X-UIDL: gC@!!~dW!!((U!!=AV!!
+
+看裁判们的表现
+我只是深刻的领会到一点
+找工作只是互相对胃口而已。
+尤其是要对雇主的胃口就可以了。
+有时候他们评论人的标准也不是特别客观的
+看他们互相踩，我就觉得挺奇怪的
+要是换在中国群殴的话，会不会大家海互相给个面子，至少表面上有些团队精神
+: 但是你不得不佩服他们argue和debate的能力，
+: 把哈佛的那个辩论赛冠军弄得无话可说了，hiahia.
+: 找工作也是，也许你并不比别人强，但你说的你好像比别人强就很好。
+: ...................
+

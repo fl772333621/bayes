@@ -1,0 +1,45 @@
+Return-Path: <ye@ujn.edu.cn>
+Received: from email.ujn.edu.cn (email.ujn.edu.cn [202.194.68.13])
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id j4J42X7m003257
+	for <mei@ccert.edu.cn>; Thu, 19 May 2005 12:02:33 +0800 (CST)
+Received: from ujn.edu.cn (localhost [127.0.0.1])
+	by email.ujn.edu.cn (Postfix) with ESMTP id 421F1228088
+	for <mei@ccert.edu.cn>; Thu, 19 May 2005 12:01:07 +0800 (CST)
+From: "ye" <ye@ujn.edu.cn>
+To: mei@ccert.edu.cn
+Subject: =?gb2312?B?ofEgz+7Ev7eisPwsILzbuPG6w8u1?=
+Date: Thu, 19 May 2005 12:01:07 +0800
+Message-Id: <20050519035816.M47947@ujn.edu.cn>
+X-Mailer: Open WebMail 2.50 20050106
+X-OriginatingIP: 202.194.68.80 (nicop1@ujn.edu.cn)
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset=gb2312
+X-UIDL: HBF!!Rhl!!g;'"!!HN!!
+
+项目名称：
+   电视节目收视调查采样设备
+主要任务:
+   将用户收视情况反映到公网上的服务器.
+希望方式:
+   小组承包
+项目简单描述：
+   该设备支持8019以太网口和GPRS无线网口(选装)，能够通过这两个接口和服务器交换数据. 带有简单液晶显示屏, 
+可以显示服务器传来的天气预报,节目表等附加服务数据, 带有6个按钮,可以指定现在看电视的人员属性. 该设备从电
+视的视频输出端子得到视频信号，和服务器传下来的电视台图标匹配识别后,将电视台的信息发送到服务器.
+项目软硬件要求:
+   ARM7(44b0), uclinux. 
+项目接口:
+   服务器接口: tcp/ip, 按照已制定数据格式完成数据传输.
+   视频输入接口:标准
+项目时间:
+   合同签订后的两个月. 合同和某电视台签署, 保证不会有拖欠. 
+项目价格:
+    小组按照时间和自己的熟练程度自行报价, 我方评估. 双方协商后, 签署合同. 我方先行支付元器件和制作费用, 
+待项目完成大部分后, 支付50%开发费, 完成后付清.
+联系方式:
+    康先生: 010-68431362/64/67, 13901027896, email:alex@mx.cei.gov.cn
+    张先生: 13050000366
+    
+     
+

@@ -1,0 +1,36 @@
+Return-Path: <wu@rbl.ccert.edu.cn>
+Received: from rbl.ccert.edu.cn (rbl.ccert.edu.cn [202.112.57.71])
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id i97AwDZf018784
+	for <gan@ccert.edu.cn>; Thu, 7 Oct 2004 18:58:13 +0800 (CST)
+Received: from rbl.ccert.edu.cn (localhost.localdomain [127.0.0.1])
+	by rbl.ccert.edu.cn (8.12.11/8.12.11) with ESMTP id i97B4C5P032402
+	for <gan@ccert.edu.cn>; Thu, 7 Oct 2004 19:04:13 +0800
+Received: (from qa@localhost)
+	by rbl.ccert.edu.cn (8.12.11/8.12.11/Submit) id i97B4CW3032401;
+	Thu, 7 Oct 2004 19:04:12 +0800
+Date: Thu, 7 Oct 2004 19:04:12 +0800
+Message-Id: <200410071104.i97B4CW3032401@rbl.ccert.edu.cn>
+Subject: =?gb2312?B?UmU6INe8sbjNy9Gn?=
+To: gan@ccert.edu.cn
+From: Tran Quang Anh <wu@cernet.edu.cn>
+Content-Type: multipart/mixed; boundary="----------=_1097147053-996-872"
+MIME-Version: 1.0
+X-UIDL: -?("!ol$#!Xh-!!J^K"!
+
+其实读博的过程中最痛苦的不是科研有多难
+而就是这种心理煎熬
+所以博士出来后就没有那么浮躁,但是也少了很多锐气
+坦率地说这不是你老板的错,因为路怎么走始终是你自己决定的
+感觉你从一开始没有摆正项目和论文的关系
+简单地说项目是给老板做的,论文是自己的.做项目的同时也不能
+忘记自己的论文
+感觉你的状态和当年我的一个师弟很象.长期游离于课题之外,没
+有真正地进去.他后来退学了,现在在公司里面干的也很好.我不是
+鼓励你退学,其实往往成功来自于最后的再坚持.我建议你还是静下
+心来再尝试做下去.不要过于夸大客观困难.数据也不会象表面那样
+毫无规律的.仔细去分析,总会有收获的.祝你好运吧!
+: 想了足足一年了，终于开始有点决心的样子。
+: 其实我应该是属于教育制度失败的活例。
+:     硕士的时候，导师没怎么指导，但那时候年轻，有点冲劲，属于自导完成学业的那种，
+: ...................
+

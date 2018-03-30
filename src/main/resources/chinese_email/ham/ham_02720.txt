@@ -1,0 +1,39 @@
+Return-Path: <xie@public.hf.ah.cn>
+Received: from tsinghua.org.cn ([210.77.143.231])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id iBFIqDvq001461
+	for <bai@ccert.edu.cn>; Thu, 16 Dec 2004 02:52:13 +0800
+Received: (eyou send program); Thu, 16 Dec 2004 02:45:40 +0800
+Received: (eyou send program); Thu, 16 Dec 2004 02:45:39 +0800
+X-EYOU-ORIGINAL-IP: 210.77.143.235
+X-EYOU-ENVELOPE-MAILFROM: rmang528sonyc761@public.hf.ah.cn
+Received: from unknown (HELO eyou.net) (unknown@210.77.143.235)
+ by 210.77.143.231 with SMTP; Thu, 16 Dec 2004 02:45:39 +0800
+Received: (eyou send program); Thu, 16 Dec 2004 02:55:50 +0800
+Message-ID: <303136950.13883@eyou.net>
+Received: from 203.176.49.196 by 210.77.143.235 with SMTP; Thu, 16 Dec 2004 02:48:25 +0800
+Received: from career (customer-203-176-49-209.ph.inter.net [203.176.49.209] (may be forged))
+	by networx.networx-inc.com (8.11.0/8.11.0) with ESMTP id iBFJ2DZ26418
+	for <bai@ccert.edu.cn>; Thu, 16 Dec 2004 03:02:13 +0800
+Date: Thu, 16 Dec 2004 03:02:13 +0800
+Received: from public.hf.ah.cn - 61.230.28.135 by career  with Microsoft SMTPSVC(5.5.1774.114.11);
+	 Thu, 16 Dec 2004 03:02:01 +0800
+Received: from unknown (HELO lib651.org [159.210.233.65])
+          by public.hf.ah.cn with SMTP;
+          Wed, 15 Dec 2004 18:46:47 GMT
+Message-Id: <1103136446-@lib651.org>
+From: "xie" <xie@public.hf.ah.cn>
+To: bai@ccert.edu.cn
+Subject: =?gb2312?B?UmU6ILK7y6zByw==?=
+Sender: bao.jilin@networx.networx-inc.com
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	boundary="----=_NextPart_000_0009_01C4E0B2.948437B0";
+	type="multipart/alternative"
+X-UIDL: jK7"!X0`"!AVY"!HUK!!
+
+: 刚才去紫荆水果摊买西瓜。当时是10点左右，人不多，切成半个的西瓜放了一地。我挑了半个看起来比较好的，让卖水果的给我再切一刀。因为我和gg两个人吃不了半个。
+: 结果卖水果的说这半个太小了，不给切。
+: 我说这是我能挑的最大的了。
+: ...................
+不懂，卖西瓜的没有权利不卖给你西瓜么，好像他有权利不卖给你，因为西瓜毕竟是他的私有财产，如果你gg为这事吵架，好像丢的也是你们的脸，更何况你gg还是买到小一点的，如果和同一个人买，我估计那个人还是不会卖给你gg的
+

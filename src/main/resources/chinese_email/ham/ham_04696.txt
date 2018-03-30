@@ -1,0 +1,46 @@
+Return-Path: <ke@ns.6test.edu.cn>
+Received: from tsinghua.org.cn ([210.77.143.228])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id i9IEXRvX026825
+	for <hua@ccert.edu.cn>; Mon, 18 Oct 2004 22:33:29 +0800
+Received: (eyou send program); Mon, 18 Oct 2004 22:44:31 +0800
+Received: (eyou send program); Mon, 18 Oct 2004 22:44:26 +0800
+X-EYOU-ORIGINAL-IP: 202.38.99.65
+X-EYOU-ENVELOPE-MAILFROM: toefl-bounces@server.cool-meeting.com
+Received: from unknown (HELO server.cool-meeting.com) (unknown@202.38.99.65)
+ by 210.77.143.228 with SMTP; Mon, 18 Oct 2004 22:44:26 +0800
+Received: from server.cool-meeting.com (localhost.localdomain [127.0.0.1])
+	by server.cool-meeting.com (8.12.8/8.12.8) with ESMTP id i9IEdJlj025902
+	for <hua@ccert.edu.cn>; Mon, 18 Oct 2004 22:39:30 +0800
+Received: from ns.6test.edu.cn ([202.38.99.18])
+	by server.cool-meeting.com (8.12.8/8.12.8) with ESMTP id i9IEdGkr025898
+	for <hua@ccert.edu.cn>; Mon, 18 Oct 2004 22:39:16 +0800
+Received: from [61.48.105.0] (helo=[192.168.0.8])
+	by ns.6test.edu.cn with asmtp (Exim 4.12) id 1CJYo5-0001dZ-00
+	for toefl@server.cool-meeting.com; Mon, 18 Oct 2004 22:48:18 +0800
+Mime-Version: 1.0 (Apple Message framework v619)
+To: hua@ccert.edu.cn
+Message-Id: <37301EDC-2112-11D9-B5B9-000D93AF6D96@ns.6test.edu.cn>
+From: CHEN Maoke <ke@ns.6test.edu.cn>
+Subject: =?gb2312?B?ofEgtO25/cHLoaOho6Gj?=
+Date: Mon, 18 Oct 2004 22:30:10 +0800
+X-Mailer: Apple Mail (2.619)
+X-BeenThere: toefl@server.cool-meeting.com
+X-Mailman-Version: 2.1.2
+Precedence: list
+List-Id: &#26446;&#26143;&#21644;&#20182;&#30340;&#23398;&#29983;&#20204;
+	<toefl.server.cool-meeting.com>
+List-Unsubscribe: <http://server.cool-meeting.com/mailman/listinfo/toefl>,
+	<mailto:toefl-request@server.cool-meeting.com?subject=unsubscribe>
+List-Archive: <http://server.cool-meeting.com/mailman/private/toefl>
+List-Post: <mailto:toefl@server.cool-meeting.com>
+List-Help: <mailto:toefl-request@server.cool-meeting.com?subject=help>
+List-Subscribe: <http://server.cool-meeting.com/mailman/listinfo/toefl>,
+	<mailto:toefl-request@server.cool-meeting.com?subject=subscribe>
+Content-Type: multipart/mixed; boundary="===============28727708915062822=="
+Sender: toefl-bounces@server.cool-meeting.com
+Errors-To: toefl-bounces@server.cool-meeting.com
+X-UIDL: a*!#!gA-!!hQO!!IA;!!
+
+躺下又睡不着，起来又开了电脑，想着那么多的事，觉得很烦躁。
+记得曾经在佳缘上认识一个叫风的男孩，是一理工大学的，我至今都还常想起他，虽然我和他就那么匆匆的认识然后也是在无意中就那么消失了，感觉他很好很好，不怎的爱说话，我们刚认识的时候还聊的多，后来渐渐的就没有话说了，其实我还是比较不喜欢那种能说会道的人，可是有些事就是在无意中悄悄的逝去，每次我上线，我都等着他给我发信息，有好几天他看见我上没有给我发，那时候没有去想很多，以为他忙着，渐渐的就疏远了，也不知道为什么，我有点喜欢他那样的男孩，然后就有些后悔，我应该想起他那资料上写的爱情并不讲究什么排场，唯有的就是only you。当我想起至少该挽回的时候却发现迟了，在一次我又碰上他和他聊天是，他说他有事要干，也是很委婉的说，那天我想了很久，最终还是把他删了，是的，我是很舍不得，可是持续下去又有多大的意义呢，错过了的挽回来也没有多大的意义，今天我似乎有遇到了一回，我都不知道为什么就没有了，也许真的是我没有太在意，我真的很粗心，很粗心，错过了就不能回头，但是拥有的时候一定要好好的珍惜，可是真正能碰上那样好的人也许不多，缘分缘分，确老是让人伤感，心情很不好，写的也乱七八糟的，无奈。。。。
+

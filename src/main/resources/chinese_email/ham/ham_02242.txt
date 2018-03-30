@@ -1,0 +1,33 @@
+Return-Path: <chen@tsinghua.edu.cn>
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with SMTP id j0HA2Ha3005429
+	for <zheng@ccert.edu.cn>; Mon, 17 Jan 2005 18:02:17 +0800
+Received: (eyou send program); Mon, 17 Jan 2005 17:58:01 +0800
+Message-ID: <305955881.00076@mail.tsinghua.edu.cn>
+Received: from unknown (HELO mail.tsinghua.edu.cn) (unknown@127.0.0.1)
+ by 127.0.0.1 with SMTP; Mon, 17 Jan 2005 17:58:01 +0800
+X-scanvirus: By Symantec Scan Engine
+X-scanresult: CLEAN
+Received: (eqmail ); 17 Jan 2005 09:57:59 -0000
+Received: from unknown (HELO sony) (duanhx@202.112.35.253)
+  by localhost with SMTP; 17 Jan 2005 09:57:59 -0000
+Message-ID: <017b01c4fc7d$3d03b060$0301a8c0@sony>
+From: "chen" <chen@tsinghua.edu.cn>
+To: zheng@ccert.edu.cn
+Subject: =?gb2312?B?UmU6IMrHv6rKvLu5yse94cr4oas=?=
+Date: Mon, 17 Jan 2005 18:13:45 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0178_01C4FCC0.48BC0AE0"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2800.1106
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1106
+X-UIDL: 9S<!!J:]!!If=!!]M,!!
+
+都喜欢了那么久了,说吧.不说怎么知道就被拒绝?
+: 人的感觉真的好奇怪，做同学都好几年了，从没有过非分之想，（也许是那会儿知道他有女朋友）。之后，我知道他们分手了。再后来，真的是突然有一天，单身的我，觉得他其实是我期待已久的那种GG。但还没等我说服自己，他就远走他乡了，而且走之前，让我心痛的是，他亲口跟我说他又找到了新女朋友。我只有默默祝福他在异地一切顺利了。
+: 最近，他工作调动回了北京，但不幸，被小女朋友甩了。我见了他一面，有些颓废，但还好，只是比较不明白他到底那点做错了～
+: 而我也不明白，她到底那点吸引他了！
+: ...................
+

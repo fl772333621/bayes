@@ -1,0 +1,67 @@
+Return-Path: <hong@ccert.edu.cn>
+Received: from tsinghua.org.cn ([210.77.143.231])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id iB16c9N9019756
+	for <gu@ccert.edu.cn>; Wed, 1 Dec 2004 14:38:14 +0800
+Received: (eyou send program); Wed, 01 Dec 2004 14:31:11 +0800
+Received: (eyou send program); Wed, 01 Dec 2004 14:31:11 +0800
+X-EYOU-ORIGINAL-IP: 210.77.143.235
+X-EYOU-ENVELOPE-MAILFROM: sunbin@ccert.edu.cn
+Received: from unknown (HELO eyou.net) (unknown@210.77.143.235)
+ by 210.77.143.231 with SMTP; Wed, 01 Dec 2004 14:31:11 +0800
+Received: (eyou send program); Wed, 01 Dec 2004 14:46:19 +0800
+Message-ID: <301883579.11748@eyou.net>
+Received: from 166.111.8.16 by 210.77.143.235 with SMTP; Wed, 01 Dec 2004 14:45:52 +0800
+Received: (eyou send program); Wed, 01 Dec 2004 14:45:21 +0800
+Message-ID: <301883521.19030@mails.tsinghua.edu.cn>
+Received: (eyou send program); Wed, 01 Dec 2004 14:45:20 +0800
+Message-ID: <301883519.07916@mails.tsinghua.edu.cn>
+Received: from unknown (HELO mails.tsinghua.edu.cn) (unknown@127.0.0.1)
+ by 127.0.0.1 with SMTP; Wed, 01 Dec 2004 14:45:20 +0800
+X-scanvirus: By Symantec Scan Engine
+X-scanresult: NOREP
+Received: (eqmail ); 1 Dec 2004 06:45:15 -0000
+Received: from ccert.edu.cn (HELO home.ccert.edu.cn) (202.112.57.12)
+  by mails.tsinghua.edu.cn with SMTP; 1 Dec 2004 06:45:15 -0000
+Received: from home.ccert.edu.cn (localhost [127.0.0.1])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id iB16b6YJ019727;
+	Wed, 1 Dec 2004 14:37:06 +0800
+Received: (from majordomo@localhost)
+	by home.ccert.edu.cn (8.13.1/8.13.1/Submit) id iB16b6oc019726;
+	Wed, 1 Dec 2004 14:37:06 +0800
+X-Authentication-Warning: home.ccert.edu.cn: majordomo set sender to owner-ccertstaff using -f
+Received: from sunbin_S ([202.112.50.201])
+	(authenticated bits=0)
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id iB16b6RQ019722;
+	Wed, 1 Dec 2004 14:37:06 +0800
+Message-Id: <200412010637.iB16b6RQ019722@home.ccert.edu.cn>
+Date: Wed, 1 Dec 2004 14:55:04 +0800
+From: "hong" <hong@ccert.edu.cn>
+Reply-To: hong@ccert.edu.cn
+To: gu@ccert.edu.cn
+Subject: =?gb2312?B?UmU6IMjnufvAz7mrutzD5qOssru2rr7cvvjU9cO0sOyjvw==?=
+Organization: CCERT
+X-mailer: Foxmail 5.0 beta2 [cn]
+Mime-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: 8bit
+X-MIME-Autoconverted: from base64 to 8bit by home.ccert.edu.cn id iB16b6RQ019724
+Sender: owner-ccertstaff@home.ccert.edu.cn
+Precedence: bulk
+X-UIDL: Zo/"!Mg0!!e8*!!J=5"!
+
+所谓的有立场现实生活中还是不太多见吧
+以前俺觉得俺lg是“有立场”的，住在一起了才知道
+“有立场”是相对而言吧，还是为难的时候多
+比如说昨天我买了两永和的粽子，我lg事先是知道的，怕ggpp郁闷俺买外食
+回来就好话连篇
+这种事情一次两次还好，多了之后感觉就像是双面胶开头的那段
+亚平和他家里电话总是说2w多到位，帮了多大的忙，丽娟怎么想？
+lg太注意他父母的感受，总觉得俺也要和他一样，事事以他父母为先，认为做儿女的是应该的
+一次两次可以做到，时间长了，发现自己的想法已经被完全忽略了
+这个感受。。。。俺还是觉得俺小气，会郁闷。。。唉
+: 呵呵有立场的老公是要找的，不过呢，
+: 要想通过 儿子来镇住俺 ，呵呵，估计难啊。
+: 到时谁镇住谁还不能指望呢
+: ...................
+

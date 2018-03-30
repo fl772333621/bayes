@@ -1,0 +1,58 @@
+Return-Path: <pan@sina.com>
+Received: from sina.com (sina187-158.sina.com.cn [202.106.187.158] (may be forged))
+	by home.ccert.edu.cn (8.13.1/8.13.1) with SMTP id j2ECuWBC009473
+	for <xin@ccert.edu.cn>; Mon, 14 Mar 2005 20:56:47 +0800
+Message-Id: <200503141256.j2ECuWBC009473@home.ccert.edu.cn>
+Received: (qmail 53305 invoked from network); 14 Mar 2005 13:07:47 -0000
+Received: from unknown (HELO ibm-t23) (219.224.134.126)
+  by 202.106.187.158 with SMTP; 14 Mar 2005 13:07:47 -0000
+Received: from(cheriff@sina.com) to(qa@ccert.edu.cn)
+Date: Mon, 14 Mar 2005 20:50:02 +0800
+From: "pan" <pan@sina.com>
+To: xin@ccert.edu.cn
+Subject: =?gb2312?B?ofEgz9DXxc7eysKjusz50rvPwrG+v8aw4LXEvs3Stcfpv/YoWlop?=
+X-mailer: Foxmail 5.0 [cn]
+Mime-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: 8bit
+X-MIME-Autoconverted: from base64 to 8bit by home.ccert.edu.cn id j2ECuWBC009473
+X-UIDL: 3L(#!SC`!!9TH"!%d4!!
+
+发信人: whitetea (重拾目标), 信区: Career_Offer
+标  题: 闲着无事：贴一下本科班的就业情况
+发信站: BBS 水木清华站 (Sun Jun 12 13:03:25 2005), 站内
+北邮的，呵呵，同学们找的工作都还不错
+注：这是本科班的同学，其中有2/3读研。30人中，除一人继续在清华的学业，一人去香港读PHD，其他人均就业
+供大家参考，嘿嘿
+中国电信北京研究院 技术部
+珠海电信公司市场部
+京移通信设计院有限公司第四设计所
+华为北研所无线预研一部
+摩托罗拉（中国） GTSS部
+南昌联通移动部
+法国电信北京研发中心无线系统实验室
+香港城市大学电子工程系
+北京网通维护中心长途电信线路局
+青岛网通网管中心
+北京网通运营服务中心
+朗讯 SDHLR部
+朗讯科技移动通信研发中心CDMA BS组
+西门子中国研究院信息安全部
+中兴通讯杭州办事处-售后工程师
+大连网通设备维护中心
+西门子网络通信公司（SCNB）售前部
+北京恒通视讯科技发展有限公司
+安徽省邮电规划设计院无线所
+福建移动网络部
+清华大学电子工程系
+华为北研所无线标准专利部
+工商银行数据中心（北京）
+京移通信设计有限公司第三设计所
+安捷伦科技（上海）半导体测试学院
+威盛电子wireless部
+北京信威通信 系统技术部
+朗讯科技移动通信研发中心CDMA部
+瞬联 PCS部
+爱立信（中国）GSDC部
+

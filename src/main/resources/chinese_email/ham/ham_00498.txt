@@ -1,0 +1,29 @@
+Return-Path: <yi@cernet.edu.cn>
+Received: from ccertspark (tu203021.ip.tsinghua.edu.cn [166.111.203.21])
+	(authenticated bits=0)
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id j2H61dxk003252;
+	Thu, 17 Mar 2005 14:01:39 +0800 (CST)
+From: "yi" <yi@cernet.edu.cn>
+To: chen@ccert.edu.cn
+Subject: =?gb2312?B?UmU6IMfrzsrH5buqus3W0L/G1LrEx7j2usOjqL+8Q1OjqQ==?=
+Date: Thu, 17 Mar 2005 14:00:08 +0800
+Message-ID: <004501c52ab6$93204ff0$15cb6fa6@ccertspark>
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+X-Priority: 3 (Normal)
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook, Build 10.0.6626
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.3790.181
+In-Reply-To: <300049396.24600@mail.tsinghua.edu.cn>
+Importance: Normal
+Content-Transfer-Encoding: 8bit
+X-MIME-Autoconverted: from base64 to 8bit by sea.net.edu.cn id j2H61dxk003252
+X-UIDL: Z-_"!I6m!!MCS!!MBe!!
+
+不了解情况真的不要乱说吧．
+首先科学院是直属国务院的，和教育部是一个级别的．
+第二，科学院的软件所，计算所，自动化所，每一个所的中国科学院院士都比清华计算机系多很多倍，因为清华计算机系到现在才只有一个科学院院士，和科学院的几个所比其来还是差很多的．最小的软件所，一个小院里还有四个院士呢，其它导师也都很知名的．
+我不否认清华计算机系也很强，但真的谈不上什么＂当然＂，说这样的话，是因为不了解情况呀．
+: 有实力当然是清华哦
+

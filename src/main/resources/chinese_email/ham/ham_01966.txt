@@ -1,0 +1,25 @@
+Return-Path: <pan@cernet.edu.cn>
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id j071tm0M007458
+	for <ni@ccert.edu.cn>; Fri, 7 Jan 2005 09:56:07 +0800
+Received: from sony (tu204189.ip.tsinghua.edu.cn [166.111.204.189])
+	(authenticated bits=0)
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id j0727Ut0003396;
+	Fri, 7 Jan 2005 10:07:30 +0800 (CST)
+Message-ID: <029801c4f45d$a2c87ac0$8ae86fa6@sony>
+From: "pan" <pan@cernet.edu.cn>
+To: ni@ccert.edu.cn
+Subject: =?gb2312?B?UmU6IL3xzOzT0MjLuPjO0tK7uPbF89PRvenJ3LXEYmY=?=
+Date: Fri, 7 Jan 2005 10:07:22 +0800
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="----=_NextPart_000_028F_01C4F4A0.ADCAF2C0"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2800.1106
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1106
+X-UIDL: 9$:!!-1m!!p3B"!j6f!!
+
+就是不会打弯唄亏得人家还辛辛苦苦做了满座饭菜招待他...嗯..是我估计也心寒的说...对了哪天我也饱餐一顿啊..真想那个小mm家电脑多坏几次...呼啦..抹抹嘴...:p
+: 不过杀毒而已...至于三天弄不好嘛...起码那个孩子不够机灵弄不好就变通一下嘛..说"阿姨这个电脑好像问题挺多的不只是由杜阿好多东西需要调还要测试要不然我把住缉拿回去吧很多工具软件什么的都在家拿过来也弄得你们这里停乱的我今天晚上带走明天肯定能弄好给你们送回来�
+

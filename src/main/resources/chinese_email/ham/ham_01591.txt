@@ -1,0 +1,32 @@
+Return-Path: <wei@rbl.ccert.edu.cn>
+Received: from rbl.ccert.edu.cn (rbl.ccert.edu.cn [202.112.57.71])
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id i95NtTBY026017
+	for <xia@ccert.edu.cn>; Wed, 6 Oct 2004 07:55:30 +0800 (CST)
+Received: from rbl.ccert.edu.cn (localhost.localdomain [127.0.0.1])
+	by rbl.ccert.edu.cn (8.12.11/8.12.11) with ESMTP id i9601LOe024701
+	for <xia@ccert.edu.cn>; Wed, 6 Oct 2004 08:01:21 +0800
+Received: (from qa@localhost)
+	by rbl.ccert.edu.cn (8.12.11/8.12.11/Submit) id i9601LPg024700;
+	Wed, 6 Oct 2004 08:01:21 +0800
+Date: Wed, 6 Oct 2004 08:01:21 +0800
+Message-Id: <200410060001.i9601LPg024700@rbl.ccert.edu.cn>
+Subject: =?gb2312?B?UmU6ILuq083R9Lni1dDGuLzGy+O7+re9z/LTpr3sy7bKv9K7w/s=?=
+To: xia@ccert.edu.cn
+From: Tran Quang Anh <wei@cernet.edu.cn>
+Content-Type: multipart/mixed; boundary="----------=_1097020881-996-442"
+MIME-Version: 1.0
+X-UIDL: /eJ"!Ka^!!n^$#!R)&#!
+
+华油阳光预招聘计算机方向的应届硕士一名，进行三维地质建模软件
+开发，有意者请发送简历到hr@oildigital.com。如有疑问，可查看
+公司网站：www.oildigital.com。另外，可以电话咨询：62548309。
+要求：   
+1、重点学校计算机软件专业或相关专业应届硕士毕业生；  
+2、熟悉Visual  C++和.net，使用过Visual  C++开发过实际项目，熟悉OPENGL，具有良好的项目文档编写能力，有实际工作经验的人员优先；  
+3、了解最新的软件工程技术，面向对象的程序设计和开发过程，了解软件工程基本概念,包括数据库结构、网络服务、UML等；    
+4、学习能力强，有朝气，具有团队协作精神，能承受工作压力，能适应出差；  
+5、工作细致，具备与客户良好的沟通能力。  
+6、有过实际的开发经验优先。 
+待遇：面谈。
+btw：现剩余一个留京指标，可以解决户口，欢迎理工科应届硕士加盟。
+

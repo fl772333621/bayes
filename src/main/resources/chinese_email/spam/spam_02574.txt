@@ -1,0 +1,27 @@
+Return-Path: <guo@pku.edu.cn>
+Received: from sunrise.pku.edu.cn (sunrise.pku.edu.cn [162.105.129.11])
+	by home.ccert.edu.cn (MIMEDefang) with ESMTP id NOQUEUE
+	for <cen@ccert.edu.cn>; Fri, 24 Jun 2005 07:30:07 +0800 (CST)
+Received: from sunrise.pku.edu.cn (localhost [127.0.0.1])
+ by sunrise.pku.edu.cn (iPlanet Messaging Server 5.2 Patch 2 (built Jul 14
+ 2004)) with SMTP id <0IIK009OWA3K3I@sunrise.pku.edu.cn> for
+ report@ccert.edu.cn; Fri, 24 Jun 2005 07:47:44 +0800 (CST)
+Received: from unknown (HELO notebookwzw) (61252@162.105.130.35)
+ by localhost with SMTP; Thu, 23 Jun 2005 23:47:44 +0000
+X-Received: unknown,162.105.130.35,20050624074744
+Date: Fri, 24 Jun 2005 07:47:42 +0800
+From: =?gb2312?B?zfXW8c3+?= <guo@pku.edu.cn>
+Subject: =?gb2312?B?UmU6IENDRVJUIEluY2lkZW50IElEOjEwNzcwNyDE+rXESVCjujIyMg==?=
+To: cen@ccert.edu.cn
+Message-id: <002001c5784d$f3a9e5e0$238269a2@NoteBookWZW>
+MIME-version: 1.0
+X-MIMEOLE: Produced By Microsoft MimeOLE V6.00.2900.2527
+X-Mailer: Microsoft Outlook Express 6.00.2900.2527
+Content-type: text/plain; charset=gb2312
+Content-transfer-encoding: base64
+X-Priority: 3
+X-MSMail-priority: Normal
+X-scanvirus: By Symantec Scan Engine
+X-scanresult: CLEAN
+
+ From:  To:  ===8 Return-path:  Resent-Message-Id:  (Rockliffe SMTPRA 6.0.11) with ESMTP id  for  for  Message-Id:  From: Stephon  ===8

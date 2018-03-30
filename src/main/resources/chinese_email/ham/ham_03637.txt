@@ -1,0 +1,37 @@
+Return-Path: <chi@cernet.edu.cn>
+Received: from tsinghua.org.cn ([210.77.143.231])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id iB313NjO015510
+	for <gan@ccert.edu.cn>; Fri, 3 Dec 2004 09:03:25 +0800
+Received: (eyou send program); Fri, 03 Dec 2004 08:56:31 +0800
+Received: (eyou send program); Fri, 03 Dec 2004 08:56:31 +0800
+X-EYOU-ORIGINAL-IP: 210.77.143.235
+X-EYOU-ENVELOPE-MAILFROM: wlzxrs@cernet.edu.cn
+Received: from unknown (HELO eyou.net) (unknown@210.77.143.235)
+ by 210.77.143.231 with SMTP; Fri, 03 Dec 2004 08:56:31 +0800
+Received: (eyou send program); Fri, 03 Dec 2004 09:11:35 +0800
+Message-ID: <302036295.14436@eyou.net>
+Received: from 202.112.5.66 by 210.77.143.235 with SMTP; Fri, 03 Dec 2004 09:11:34 +0800
+Received: from 56ls81hgnjb0ggr ([202.112.4.6])
+	(authenticated bits=0)
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id iB31GOhv017543
+	for <gan@ccert.edu.cn>; Fri, 3 Dec 2004 09:16:27 +0800 (CST)
+Message-Id: <200412030116.iB31GOhv017543@sea.net.edu.cn>
+From: "chi" <chi@cernet.edu.cn>
+Reply-To: chi@cernet.edu.cn
+To: gan@ccert.edu.cn
+Subject: =?gb2312?B?UmU6IEdHwu3Jz9Kqs/a5+sHLo6zO0sPH06a4w8/W1Nq94bvpwvCjvw==?=
+X-mailer: Foxmail 4.2 [cn]
+Mime-Version: 1.0
+Content-Type: text/plain;
+      charset="GB2312"
+Date: Fri, 3 Dec 2004 9:15:31 +0800
+Content-Transfer-Encoding: 8bit
+X-MIME-Autoconverted: from quoted-printable to 8bit by home.ccert.edu.cn id iB313NjO015510
+X-UIDL: H,?"!J:~!!X%a!!";<!!
+
+不要结
+: 随着GG出国的日子越来越近，我们的心都在往下沉，感觉不知道接下来的两年怎么活下去。
+: GG是到美国读博，得四到五年，我本来今年也申请了的，但是管理类的硕士，最后虽然拿到美国几个顶尖大学的半奖，但一方面我们都是应届毕业，经济能力有限，另外一半的学费和生活费会让我们双方的家庭都很吃力；另一方面，因为是管理类的，所以学习过程中和毕业以后找工作
+: 现在他的签证都办好了，我在找到了和我现在的专业和以后要申请的方向比较接近的一个国际机构的研究性工作，已经上班两个月了，工作还比较顺利，预期两年后再去申请我今年已经拿到半奖的学校机会非常大，而且可能更容易拿到奖学金。这个国际机构和美国那几所牛校的相关专
+: ...................
+

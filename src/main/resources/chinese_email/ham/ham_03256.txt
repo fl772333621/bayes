@@ -1,0 +1,35 @@
+Return-Path: <pu@mails.tsinghua.edu.cn>
+Received: from mails.tsinghua.edu.cn (mails.tsinghua.edu.cn [166.111.8.16])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id i9I7T8mL029486
+	for <xu@ccert.edu.cn>; Mon, 18 Oct 2004 15:29:08 +0800 (CST)
+Received: (eyou send program); Mon, 18 Oct 2004 15:23:58 +0800
+Message-ID: <298084238.25515@mails.tsinghua.edu.cn>
+Received: from unknown (HELO mails.tsinghua.edu.cn) (unknown@127.0.0.1)
+ by 127.0.0.1 with SMTP; Mon, 18 Oct 2004 15:23:58 +0800
+X-scanvirus: By Symantec Scan Engine
+X-scanresult: CLEAN
+Received: (eqmail ); 18 Oct 2004 07:23:56 -0000
+Received: from tu172241.tsinghua.edu.cn (HELO yfzy) (yang.feng00@166.111.172.241)
+  by mails.tsinghua.edu.cn with SMTP; 18 Oct 2004 07:23:56 -0000
+Message-ID: <000c01c4b4e3$e7186cd0$f1ac6fa6@yfzy>
+From: "pu" <pu@mails.tsinghua.edu.cn>
+To: xu@ccert.edu.cn
+References: <298081525.18815@mails.tsinghua.edu.cn>
+Subject: =?gb2312?B?UmU6ILn6xNq1xFBIRMLbzsQ=?=
+Date: Mon, 18 Oct 2004 15:27:18 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0009_01C4B526.F481D2B0"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2600.0000
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2600.0000
+X-UIDL: f>2!!9hg!!680!!_pO!!
+
+呵呵看看他以前发的帖子就知道怎么回事了。这个人的帖子根本就没有re的必要。
+知道现在有个很e的网络红人叫“frjj”的么？这小子跟frjj有一拼：
+一个是狂赞自己，一个是狂扁别人。
+反正都是lj。
+你也不看看是什么学校的博士，有讨论价值吗？
+: 我看见一篇国内天津财经学院博士学位论文 .怎么国内的论文都是收集资料吗?我看见整篇论文都是收集资料.没有一点针对问题提出自己的解决方法呀.而且像一些研究方法也没有看见.  晕!!!   国内的PHD那么好混吗??
+

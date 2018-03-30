@@ -1,0 +1,57 @@
+Return-Path: <jian@ns.6test.edu.cn>
+Received: from tsinghua.org.cn ([210.77.143.228])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id iAO0lZLd013734
+	for <gu@ccert.edu.cn>; Wed, 24 Nov 2004 08:47:36 +0800
+Received: (eyou send program); Wed, 24 Nov 2004 09:00:20 +0800
+Received: (eyou send program); Wed, 24 Nov 2004 09:00:18 +0800
+X-EYOU-ORIGINAL-IP: 210.77.143.235
+X-EYOU-ENVELOPE-MAILFROM: toefl-bounces@server.cool-meeting.com
+Received: from unknown (HELO eyou.net) (unknown@210.77.143.235)
+ by 210.77.143.228 with SMTP; Wed, 24 Nov 2004 09:00:18 +0800
+Received: (eyou send program); Wed, 24 Nov 2004 08:55:46 +0800
+Message-ID: <301257746.25640@eyou.net>
+Received: from 202.38.99.65 by 210.77.143.235 with SMTP; Wed, 24 Nov 2004 08:55:45 +0800
+Received: from server.cool-meeting.com (localhost.localdomain [127.0.0.1])
+	by server.cool-meeting.com (8.12.8/8.12.8) with ESMTP id iAO1F6lh027130
+	for <gu@ccert.edu.cn>; Wed, 24 Nov 2004 09:15:11 +0800
+Received: from ns.6test.edu.cn ([202.38.99.18])
+	by server.cool-meeting.com (8.12.8/8.12.8) with ESMTP id iAO1Epkr027102
+	for <gu@ccert.edu.cn>; Wed, 24 Nov 2004 09:14:51 +0800
+Received: from [202.112.3.118] (helo=IBM-E4AA49AF703)
+	by ns.6test.edu.cn with asmtp (Exim 4.12) id 1CWlqU-000HuA-00
+	for Toefl@server.cool-meeting.com; Wed, 24 Nov 2004 09:21:22 +0800
+From: "jian" <jian@ns.6test.edu.cn>
+To: gu@ccert.edu.cn
+X-mailer: Foxmail 4.2 [cn]
+Mime-Version: 1.0
+Content-Type: text/plain;
+      charset="GB2312"
+Date: Wed, 24 Nov 2004 8:59:53 +0800
+Message-Id: <E1CWlqU-000HuA-00@ns.6test.edu.cn>
+Content-Transfer-Encoding: 8bit
+X-MIME-Autoconverted: from quoted-printable to 8bit by server.cool-meeting.com
+	id iAO1Epkr027102
+Cc: 
+Subject: =?gb2312?B?UmU6IMPUw6O12Mew0NDXxQ==?=
+X-BeenThere: toefl@server.cool-meeting.com
+X-Mailman-Version: 2.1.2
+Precedence: list
+List-Id: &#26446;&#26143;&#21644;&#20182;&#30340;&#23398;&#29983;&#20204;
+	<toefl.server.cool-meeting.com>
+List-Unsubscribe: <http://server.cool-meeting.com/mailman/listinfo/toefl>,
+	<mailto:toefl-request@server.cool-meeting.com?subject=unsubscribe>
+List-Archive: <http://server.cool-meeting.com/mailman/private/toefl>
+List-Post: <mailto:toefl@server.cool-meeting.com>
+List-Help: <mailto:toefl-request@server.cool-meeting.com?subject=help>
+List-Subscribe: <http://server.cool-meeting.com/mailman/listinfo/toefl>,
+	<mailto:toefl-request@server.cool-meeting.com?subject=subscribe>
+Sender: toefl-bounces@server.cool-meeting.com
+Errors-To: toefl-bounces@server.cool-meeting.com
+X-UIDL: 'kN!!V[X"!)8M"!*am"!
+
+深有同感！一切都觉得是在自欺欺人，不过为了父母为了生活还是要努力地自欺欺人啊
+: 不止是这段时间，不知道自己要做些什么，而是自从考上研究生以来，都不知要做些什么。人生若是没有了目标就像茫茫大海中没有方向的航船一样，不知驶向何方。
+: 整天瞎呆在实验室里面，整天跟大肠杆菌打着交道，整天没有准儿吃饭，整天不知道时间就这样不留情的消逝，整天就这样……就这样，又过了两个春夏秋冬，就这样又在自己身上划多了两圈年轮。却毫无所知这这两个春夏秋冬为何而过，这两圈年轮为何而划？而只能慢慢地等待着下一个春秋和下一圈年轮。好无奈，但这又有什么用，这一切都是自己的，只能自己忍气吞声着。
+: 研究生的生活并没有考研前我所想象的那么的快乐和愉悦，并不是因为自己不会寻找快乐，而是因为事实本来就是这样：活在这里太闷了，根本找不到自己前行的方向。根本就捕像在读研究生，而是像一个挂着牌子的小混混，而且也混不出什么名堂出来。看资料，听歌，上网，做实验，就这样一天一天的混着，直到毕业的那天。或许，我已经能够想象到毕业前的这些时间是怎样度过的：）
+: ...................
+

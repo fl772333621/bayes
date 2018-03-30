@@ -1,0 +1,43 @@
+Return-Path: <ding@mails.tsinghua.edu.cn>
+Received: from mails.tsinghua.edu.cn (mails.tsinghua.edu.cn [166.111.8.16])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id i9Q3irR7028829
+	for <weng@ccert.edu.cn>; Tue, 26 Oct 2004 11:44:53 +0800 (CST)
+Received: (eyou send program); Tue, 26 Oct 2004 11:39:40 +0800
+Message-ID: <298761980.15713@mails.tsinghua.edu.cn>
+Received: from unknown (HELO mails.tsinghua.edu.cn) (unknown@127.0.0.1)
+ by 127.0.0.1 with SMTP; Tue, 26 Oct 2004 11:39:40 +0800
+X-scanvirus: By Symantec Scan Engine
+X-scanresult: CLEAN
+Received: (eqmail ); 26 Oct 2004 03:39:38 -0000
+Received: from tu154210.tsinghua.edu.cn (HELO xiner) (xwang03@166.111.154.210)
+  by mails.tsinghua.edu.cn with SMTP; 26 Oct 2004 03:39:38 -0000
+Message-ID: <001f01c4bb0f$036c28a0$d29a6fa6@xiner>
+From: "ding" <ding@mails.tsinghua.edu.cn>
+To: weng@ccert.edu.cn
+References: <298758708.01058@mails.tsinghua.edu.cn>
+Subject: =?gb2312?B?ofEgwb3E0Q==?=
+Date: Tue, 26 Oct 2004 11:51:01 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_001C_01C4BB52.10B66DC0"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2800.1437
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1441
+X-UIDL: LCF"!k~:!!#D7"!K"*!!
+
+  前天因故跟猪头宝有点不愉快，我一个人生闷气~~
+  昨天一位70多岁的退休教授找我陪他去澳洲参加一个会议，时间订在7月中
+  可能因为自己心情不好，再加上我也有点想去，所以我就答应他。
+  昨晚跟猪头宝提及此事，我说我"可能"7月份会去澳洲
+  他说让我多待几天，并且祝我玩得愉快
+  后来我打电话给他，他要我不去澳洲
+  我说「你不是要我玩得愉快吗？」
+  他就说，我之前都答应他要去大陆陪他，怎么这会又答应人家要去澳洲？ 
+  他心里很不是滋味 (原来之前都是在讲反话啊 Orz)
+  那我现在该怎么办呢？我都答应人家了，他又要我回绝
+  这样很不好意思，况且我自己也想去
+  不过既然猪头宝不愿意我去，我也必须顾及他的感受
+  真是两难啊~~
+  我该怎么做比较好呢？
+

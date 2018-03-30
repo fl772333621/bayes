@@ -1,0 +1,41 @@
+Return-Path: <lv@rbl.ccert.edu.cn>
+Received: from rbl.ccert.edu.cn (rbl.ccert.edu.cn [202.112.57.71])
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id i9B4PfHT028804
+	for <xie@ccert.edu.cn>; Mon, 11 Oct 2004 12:25:42 +0800 (CST)
+Received: from rbl.ccert.edu.cn (localhost.localdomain [127.0.0.1])
+	by rbl.ccert.edu.cn (8.12.11/8.12.11) with ESMTP id i9B4V3uR011323
+	for <xie@ccert.edu.cn>; Mon, 11 Oct 2004 12:31:04 +0800
+Received: (from qa@localhost)
+	by rbl.ccert.edu.cn (8.12.11/8.12.11/Submit) id i9B4V3uU011322;
+	Mon, 11 Oct 2004 12:31:03 +0800
+Date: Mon, 11 Oct 2004 12:31:03 +0800
+Message-Id: <200410110431.i9B4V3uU011322@rbl.ccert.edu.cn>
+Subject: =?gb2312?B?ofEgwdTNt7T6yc+6o83ixvPV0Ma4KLjfvLYpyO28/rmks8zKpg==?=
+To: xie@ccert.edu.cn
+From: Tran Quang Anh <lv@cernet.edu.cn>
+Content-Type: multipart/mixed; boundary="----------=_1097469064-1014-92"
+MIME-Version: 1.0
+X-UIDL: 7A)"!eZ%#!#5h"!/*R"!
+
+著名台资IC厂商招聘下列职位，
+有意者请联系：brain@new-heaven.com
+Software Engineer (Device driver development):
+§    Responsibilities: 
+o    Microsoft Windows display driver development, including 2D/3D driver, DVD decoder driver, video playback and capture driver.
+o    New hardware bring-up and debugging.
+§    Requirements: 
+o    MS or equivalent.
+o    Hands on experience on Microsoft Windows device driver development.
+o    Solid C and Assembly programming skill.
+o    Working knowledge in Microsoft DDK/SDK, kernel debugging tools (Softice and Win debugger), and Windows device driver structure is required.
+o    Knowledge on 2D/3D graphics algorithm is a big plus.
+Senior Software Engineer（高级工程师）
+§    Responsibilities:
+o    Microsoft Windows display driver development, including 2D/3D driver, DVD decoder driver, video playback and capture driver.
+o    New hardware bring-up and debugging.
+§    Requirements: 
+o    MS or PhD with 3+ years working experience.
+o    Solid C and Assembly programming skill.
+o    Hands on experience in Microsoft DDK/SDK, kernel debugging tools (Softice and Win debugger), and Windows device driver structure is required.
+o    Knowledge in graphics algorithm and compiler theory is a big plus.
+

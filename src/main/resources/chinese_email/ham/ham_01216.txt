@@ -1,0 +1,33 @@
+Return-Path: <pan@rbl.ccert.edu.cn>
+Received: from rbl.ccert.edu.cn (rbl.ccert.edu.cn [202.112.57.71])
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id i96ARZjA002803
+	for <lin@ccert.edu.cn>; Wed, 6 Oct 2004 18:27:35 +0800 (CST)
+Received: from rbl.ccert.edu.cn (localhost.localdomain [127.0.0.1])
+	by rbl.ccert.edu.cn (8.12.11/8.12.11) with ESMTP id i96AXVe7025462
+	for <lin@ccert.edu.cn>; Wed, 6 Oct 2004 18:33:31 +0800
+Received: (from qa@localhost)
+	by rbl.ccert.edu.cn (8.12.11/8.12.11/Submit) id i96AXVuM025461;
+	Wed, 6 Oct 2004 18:33:31 +0800
+Date: Wed, 6 Oct 2004 18:33:31 +0800
+Message-Id: <200410061033.i96AXVuM025461@rbl.ccert.edu.cn>
+Subject: =?gb2312?B?ofEgzfzBy7LFv8nPpw==?=
+To: lin@ccert.edu.cn
+From: Tran Quang Anh <pan@cernet.edu.cn>
+Content-Type: multipart/mixed; boundary="----------=_1097058811-996-556"
+MIME-Version: 1.0
+X-UIDL: 7NH!!0dG!!*5p"!$X'!!
+
+    跟你在一起的男人，仍然忘不了旧情人，这未尝不是一件好事。
+    不必骂他：“你为什么还惦记着她？”
+    不要妒忌，苦涩地问他：“我是不是她的替身？”
+    也不要悲伤，不用问他：“你不觉得这样伤害了我吗？你始终还是爱着她。”
+    
+    爱和怀念是两回事。
+    男人忘不了旧情人，必然是他在曾经的岁月里，曾经伤害她，那一次的过失，他无法弥补。那时候，他太年轻，太不了解女人，他以为还有很多机会。
+    时光流逝，他身边换了很多女人，他也长大了，在世上吃了很多苦，这一刻，他才猛然醒觉他从前多么对不起那个女人。
+    他已经不可能回去找她，唯一补偿的方法就是怀念，同时也用对她的怀念来惩罚自己。
+    男人对旧情人内疚，才会更珍惜眼前人。
+    他会努力使身边的女人快乐，他知道他不应该再伤害一个爱他的女人，他明白爱情不可以再来一次。假使他辜负眼前人，他将要背负更多的罪疚。
+    他对旧情人的歉疚，统统补偿在眼前人身上。你现在才爱上他，不是比他的旧情人幸福吗？
+    有错才有爱，他没错，便不会爱你那样深。
+

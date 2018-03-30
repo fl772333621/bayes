@@ -1,0 +1,29 @@
+Return-Path: <qiu@cernet.edu.cn>
+Received: from 8jmd55gawpz3tjh ([202.112.50.7])
+	(authenticated bits=0)
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id i8M1s5MF001057
+	for <wua@ccert.edu.cn>; Wed, 22 Sep 2004 09:54:05 +0800 (CST)
+Message-ID: <000a01c4a047$0bf38f50$073270ca@8jmd55gawpz3tjh>
+From: "qiu" <qiu@cernet.edu.cn>
+To: wua@ccert.edu.cn
+Subject: =?gb2312?B?UmU6ILO5tde21Ljxwaa/1bX3yqfN+8HLfr3xzOzT1tbY0MLC8sHLyP3B4tbYuaQ=?=
+Date: Wed, 22 Sep 2004 09:54:07 +0800
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2800.1437
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1441
+Content-Transfer-Encoding: 8bit
+X-MIME-Autoconverted: from base64 to 8bit by sea.net.edu.cn id i8M1s5MF001057
+X-UIDL: c/C"!Rbd!![$l!!E<1"!
+
+而且说到日本的楼，在地震多发地区建楼当然要更坚固。
+有的时候从成本考虑，建筑质量也不是越高越好，毕竟质量越高，价格越贵。
+同样的道理，为啥那么多人买广本的车？飞渡亚阁啥的，要是开到120公里以上，基本就是在玩命。不过很多人买了就是做都市用车，也不上高速跑，或者顶多跑个北京到天津的距离。所以就不求那么高的质量了。价格和外观成了购买的决定性因素。
+: 这个不是科技的问题
+: 建筑行业不是高科技吧？
+: 中国的公寓质量怎么比国外的差那么多呢？
+: ...................
+

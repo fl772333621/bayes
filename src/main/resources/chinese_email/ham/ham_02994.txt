@@ -1,0 +1,77 @@
+Return-Path: <he@cugb.edu.cn>
+Received: from tsinghua.org.cn ([210.77.143.231])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id j056rfIb019368
+	for <ye@ccert.edu.cn>; Wed, 5 Jan 2005 14:53:44 +0800
+Received: (eyou send program); Wed, 05 Jan 2005 14:47:29 +0800
+Received: (eyou send program); Wed, 05 Jan 2005 14:47:29 +0800
+X-EYOU-ORIGINAL-IP: 210.77.143.235
+X-EYOU-ENVELOPE-MAILFROM: liuquan@cugb.edu.cn
+Received: from unknown (HELO eyou.net) (unknown@210.77.143.235)
+ by 210.77.143.231 with SMTP; Wed, 05 Jan 2005 14:47:29 +0800
+Received: (eyou send program); Wed, 05 Jan 2005 15:01:37 +0800
+Message-ID: <304908497.13373@eyou.net>
+Received: from 166.111.8.16 by 210.77.143.235 with SMTP; Wed, 05 Jan 2005 15:01:36 +0800
+Received: (eyou send program); Wed, 05 Jan 2005 15:02:40 +0800
+Message-ID: <304908560.20392@mails.tsinghua.edu.cn>
+Received: (eyou send program); Wed, 05 Jan 2005 15:02:40 +0800
+Message-ID: <304908559.08041@mails.tsinghua.edu.cn>
+Received: from unknown (HELO mails.tsinghua.edu.cn) (unknown@127.0.0.1)
+ by 127.0.0.1 with SMTP; Wed, 05 Jan 2005 15:02:40 +0800
+X-scanvirus: By Symantec Scan Engine
+X-scanresult: CLEAN
+X-Received: ccert.edu.cn,202.112.57.12,20050105150236
+Received: from ccert.edu.cn (HELO home.ccert.edu.cn) (202.112.57.12)
+  by localhost with SMTP; 5 Jan 2005 07:02:36 -0000
+Received: from home.ccert.edu.cn (localhost [127.0.0.1])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id j056IrT0018704;
+	Wed, 5 Jan 2005 14:18:53 +0800
+Received: (from majordomo@localhost)
+	by home.ccert.edu.cn (8.13.1/8.13.1/Submit) id j056IruZ018703;
+	Wed, 5 Jan 2005 14:18:53 +0800
+X-Authentication-Warning: home.ccert.edu.cn: majordomo set sender to owner-ccert_forum using -f
+Received: from sky.cugb.edu.cn (cugb.edu.cn [202.204.105.2] (may be forged))
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id j056IqvB018698
+	for <ye@ccert.edu.cn>; Wed, 5 Jan 2005 14:18:53 +0800
+Received: from cugb.edu.cn ([127.0.0.1]) by sky.cugb.edu.cn
+          (Netscape Messaging Server 4.15) with ESMTP id I9TZOS00.00G for
+          <ccert_forum@ccert.edu.cn>; Wed, 5 Jan 2005 14:36:28 +0800 
+From: "he" <he@cugb.edu.cn>
+To: ye@ccert.edu.cn
+Message-ID: <162e4905.4905162e@cugb.edu.cn>
+Date: Wed, 05 Jan 2005 14:36:28 +0800
+X-Mailer: Netscape Webmail
+MIME-Version: 1.0
+Content-Language: zh-CN
+Subject: =?gb2312?B?ofEgVGhlIFRocmVlIEJ1cmlhbHMgb2YgTWVscXVpYWRlcyBFc3RyYWRh?=
+X-Accept-Language: zh-CN
+Content-Type: text/plain; charset=gb2312
+Content-Disposition: inline
+Content-Transfer-Encoding: 8bit
+X-MIME-Autoconverted: from quoted-printable to 8bit by home.ccert.edu.cn id j056IrvB018701
+Sender: owner-ccert_forum@home.ccert.edu.cn
+Precedence: bulk
+X-UIDL: GIX"!>I^!!U/<!!l3T!!
+
+我觉得《艾斯卡达的三次葬礼》这个名字翻译的不好，Burial 的意思是“埋葬的
+行为或过程”，如果做“葬礼”讲，应该用 funeral 这个词。整部电影里根本没
+有葬礼，尤其第一次，连实际的埋葬这个动作都没有，只是一个年轻生命的葬送。
+如果译作三次葬礼，不能表达电影里三次“burial” 的不同象征含义，而这才是
+这部电影的精华所在。
+The first burial：埋葬了年轻的无辜生命：
+一个在得克萨斯州一家牧场工作的名叫Melquiades Estrada 的墨西哥牛仔被边境
+巡警误杀，抛尸荒野，尸体多天后被人偶然发现。
+The second burial: 埋葬了真相与正义：
+警方查到杀人嫌疑犯是边境巡警，但是不愿意为了一个身份不明的墨西哥人得罪“
+自己人”，于是将尸体草草掩埋，想“大事化小，小事化了”。
+The third burial：埋葬了人性的冷酷，新生了谅解和希望
+Pete Perkins （ Tommy Lee Johns ），牧场的领班，是无辜被杀的墨西哥人生前
+一见如故的好友。他曾经发誓万一有不幸，会将Melquiades 的尸体送回他墨西哥
+的家乡埋葬。他从情人口中得知真相，愤慨警方的不义，于是愤然绑架了杀人的巡
+警，命他掘出尸体，然后他带着巡警和尸体骑马踏上前往墨西哥的旅程……
+不过The third burial 关于Melquiades的家乡和家人那一段的象征意义，我觉得
+我没有完全理解。欢迎大家看完电影给我指点迷津，呵呵。
+这是我非常喜欢的一步电影，Tommy Lee Johns 凭借此片获得戛纳金棕榈最佳男主
+角。他的表演含蓄深沉，有血有肉。影片故事紧凑，也不乏一些幽默的细节，从第
+一次埋葬到第三次埋葬，人物心理随着情节发展而变化，脉络清晰，加上风光独特
+，实在是值得欣赏的佳作。
+

@@ -1,0 +1,25 @@
+Return-Path: <rao@rbl.ccert.edu.cn>
+Received: from rbl.ccert.edu.cn (rbl.ccert.edu.cn [202.112.57.71])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id i9L2jhm0009424
+	for <qian@ccert.edu.cn>; Thu, 21 Oct 2004 10:45:43 +0800
+Received: from rbl.ccert.edu.cn (localhost.localdomain [127.0.0.1])
+	by rbl.ccert.edu.cn (8.12.11/8.12.11) with ESMTP id i9L32KUD008175
+	for <qian@ccert.edu.cn>; Thu, 21 Oct 2004 11:02:36 +0800
+Received: (from qa@localhost)
+	by rbl.ccert.edu.cn (8.12.11/8.12.11/Submit) id i9L32Fxs008174;
+	Thu, 21 Oct 2004 11:02:15 +0800
+Date: Thu, 21 Oct 2004 11:02:15 +0800
+Message-Id: <200410210302.i9L32Fxs008174@rbl.ccert.edu.cn>
+Subject: =?gb2312?B?UmU6IMTjv7S5/by4sr8=?=
+To: qian@ccert.edu.cn
+From: Tran Quang Anh <rao@cernet.edu.cn>
+Content-Type: multipart/mixed; boundary="----------=_1098327766-12939-170"
+MIME-Version: 1.0
+X-UIDL: UNk!!foX!!BE:!!>`h"!
+
+  绝大部分是垃圾
+: &lt;&lt;爱有明天&gt;&gt;、2 &lt;&lt;爱欲狂潮&gt;&gt;、3&lt;&lt;爱之火&gt;&gt;、3&lt;&lt;爱的精灵&gt;&gt;（李丽珍）、 4&lt;&lt;爱的狂
+: 放&gt;&gt;、5&lt;&lt;按摩女郎之彩虹某处&gt;&gt;、6&lt;&lt;哎呀，女朋友&gt;&gt; (陈颖芝)、7&lt;&lt;爱情治疗室&gt;&gt;、
+: 8&lt;&lt;凹凸男女&gt;&gt;、9&lt;&lt;爱在娱乐圈的日子&gt; &gt;、10&lt;&lt;暗恋&gt;&gt;(徐曼华)、11&lt;&lt;爱杀&gt;&gt;(陈颖芝&amp;
+: ...................
+

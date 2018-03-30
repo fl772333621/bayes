@@ -1,0 +1,33 @@
+Return-Path: <yuan@mails.tsinghua.edu.cn>
+Received: from mails.tsinghua.edu.cn (mails.tsinghua.edu.cn [166.111.8.16])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with SMTP id iB17sH0A021021
+	for <tu@ccert.edu.cn>; Wed, 1 Dec 2004 15:54:17 +0800
+Received: (eyou send program); Wed, 01 Dec 2004 16:02:03 +0800
+Message-ID: <301888123.04059@mails.tsinghua.edu.cn>
+Received: from unknown (HELO mails.tsinghua.edu.cn) (unknown@127.0.0.1)
+ by 127.0.0.1 with SMTP; Wed, 01 Dec 2004 16:02:03 +0800
+X-scanvirus: By Symantec Scan Engine
+X-scanresult: NOREP
+Received: (eqmail ); 1 Dec 2004 08:02:00 -0000
+Received: from tu154210.tsinghua.edu.cn (HELO xiner) (xwang03@166.111.154.210)
+  by mails.tsinghua.edu.cn with SMTP; 1 Dec 2004 08:02:00 -0000
+Message-ID: <017001c4d77d$100e1a20$d29a6fa6@xiner>
+From: "yuan" <yuan@mails.tsinghua.edu.cn>
+To: tu@ccert.edu.cn
+Subject: =?gb2312?B?UmU6INP0w8ahq6Groas=?=
+Date: Wed, 1 Dec 2004 16:09:13 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_016D_01C4D7C0.1AE8E5E0"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2800.1437
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1441
+X-UIDL: Bj=!!Fnf!!C81"!-jT!!
+
+: 为两件没洗的衣服值得生气吗？
+: 呵呵，偶还是比较勤快的．洗了又没什么．而且或许ＧＧ觉得在他宿舍．ＭＭ不给洗．
+                                                         ～～～现在想或许是这样子，当时也没想到这一点，就觉得挺莫名其妙的
+自己觉得没面子．而且男生一般比较心理挺强的．假如他最近几天刚好看到哥们宿舍的ＭＭ帮哥们洗了一堆衣服．．．那楼主就比较惨了．．．
+: 而且北方的男生大部分在细节上不是特别疼ＭＭ．
+

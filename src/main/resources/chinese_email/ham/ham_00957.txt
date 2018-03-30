@@ -1,0 +1,55 @@
+Return-Path: <ding@compass.net.edu.cn>
+Received: from tsinghua.org.cn ([210.77.143.228])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id i9B7jo8u014722
+	for <he@ccert.edu.cn>; Mon, 11 Oct 2004 15:45:52 +0800
+Received: (eyou send program); Mon, 11 Oct 2004 09:59:43 +0800
+Received: (eyou send program); Mon, 11 Oct 2004 09:38:42 +0800
+X-EYOU-ORIGINAL-IP: 202.38.99.65
+X-EYOU-ENVELOPE-MAILFROM: toefl-bounces@server.cool-meeting.com
+Received: from unknown (HELO server.cool-meeting.com) (unknown@202.38.99.65)
+ by 210.77.143.228 with SMTP; Mon, 11 Oct 2004 09:38:42 +0800
+Received: from server.cool-meeting.com (localhost.localdomain [127.0.0.1])
+	by server.cool-meeting.com (8.12.8/8.12.8) with ESMTP id i9B1VWlX012718
+	for <he@ccert.edu.cn>; Mon, 11 Oct 2004 09:31:39 +0800
+Received: from compass.net.edu.cn ([202.112.0.90])
+	by server.cool-meeting.com (8.12.8/8.12.8) with ESMTP id i9B1VTkr012714
+	for <he@ccert.edu.cn>; Mon, 11 Oct 2004 09:31:29 +0800
+Received: from thtfcomputer (compass12.compass.edu.cn [202.112.55.99])
+	by compass.net.edu.cn (8.9.2/8.9.2) with ESMTP id JAA19219
+	for <he@ccert.edu.cn>;
+	Mon, 11 Oct 2004 09:27:02 +0800 (CST)
+From: "ding" <ding@compass.net.edu.cn>
+To: he@ccert.edu.cn
+Date: Mon, 11 Oct 2004 09:24:28 +0800
+Message-ID: <000a01c4af31$0d4e4c70$0100a8c0@thtfcomputer>
+MIME-Version: 1.0
+X-Priority: 3 (Normal)
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook, Build 10.0.2627
+Importance: Normal
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1409
+Subject: =?gb2312?B?ofEgZ2e4uMS4t7S21KOsx+u087zSsO/O0rfWzvajoc7S1ea1xLK71qq4w9T1w7Sw7MHLoa2hrQ==?=
+X-BeenThere: toefl@server.cool-meeting.com
+X-Mailman-Version: 2.1.2
+Precedence: list
+List-Id: &#26446;&#26143;&#21644;&#20182;&#30340;&#23398;&#29983;&#20204;
+	<toefl.server.cool-meeting.com>
+List-Unsubscribe: <http://server.cool-meeting.com/mailman/listinfo/toefl>,
+	<mailto:toefl-request@server.cool-meeting.com?subject=unsubscribe>
+List-Archive: <http://server.cool-meeting.com/mailman/private/toefl>
+List-Post: <mailto:toefl@server.cool-meeting.com>
+List-Help: <mailto:toefl-request@server.cool-meeting.com?subject=help>
+List-Subscribe: <http://server.cool-meeting.com/mailman/listinfo/toefl>,
+	<mailto:toefl-request@server.cool-meeting.com?subject=subscribe>
+Content-Type: multipart/mixed; boundary="===============93276077780747801=="
+Sender: toefl-bounces@server.cool-meeting.com
+Errors-To: toefl-bounces@server.cool-meeting.com
+X-UIDL: 9,!"!_ma!!6n)"!B'f"!
+
+和他认识很久了，大学开始在一起，快三年了。
+在一起不久他告诉我他要出国，我是学文的，很为难，但一时也没怎么决定。
+到大一寒假他一直没和家里说我们的事，说要等到大二才行，他父母不想让他这么早找女朋友。（我开始不久就告诉家里了，因为和父母都是朋友般的），后来寒假我们一起回家，因为我们是一个地方的，结果他父亲看到了。结果寒假我就逼他回去说——现在想来这个事情是我太急了——结果他第二天来我家说要分手，问我可不可以表面分手，继续和他一起，等大二了再说。我很委屈，但是被他软化就同意了。
+此后一直到暑假，我们都是“暗地里”的。暑假我给他的短信被他妈妈看到了，很生气，打电话到我家来，我也很不满，就在电话上说同意和他分手。后来他回校（他是清华的），打电话想和我和好，其实我们感情真的很好，我不忍心，就又和好了。
+到这时理由已经不是什么大一大二了，理由很多，他每次说的都不太相同，总结来就是我不够优秀（在他家里看来，文科又能算优秀就只能是北大的了，而我自认学校已经算不错了），出国不太可能，两个人不能在一起。而他说服我的理由是我要有证明自己优秀的资本，然后等他家里承认我优秀。而且他父母不想他碰到第一个女生就开始恋爱都没比较一下，且现在太早，将来什么样都说不准。所以我的等待变成了无限期，其实就是要等到谈婚论嫁时，他才能为我表明态度——天知道那时他态度会是什么？？
+为了将来，也为了“证明自己的优秀”，我开始和他一起准备出国——当然成绩是比较失败的。然后大二到现在，我们都感情很好的在一起，除了我偶尔想起来再不满，然后吵几天架
+

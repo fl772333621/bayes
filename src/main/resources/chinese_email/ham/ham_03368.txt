@@ -1,0 +1,26 @@
+Return-Path: <tan@rbl.ccert.edu.cn>
+Received: from rbl.ccert.edu.cn (rbl.ccert.edu.cn [202.112.57.71])
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id i9B5gnRk029718
+	for <yang@ccert.edu.cn>; Mon, 11 Oct 2004 13:42:50 +0800 (CST)
+Received: from rbl.ccert.edu.cn (localhost.localdomain [127.0.0.1])
+	by rbl.ccert.edu.cn (8.12.11/8.12.11) with ESMTP id i9B5mBd5019863
+	for <yang@ccert.edu.cn>; Mon, 11 Oct 2004 13:48:12 +0800
+Received: (from qa@localhost)
+	by rbl.ccert.edu.cn (8.12.11/8.12.11/Submit) id i9B5mBOL019862;
+	Mon, 11 Oct 2004 13:48:11 +0800
+Date: Mon, 11 Oct 2004 13:48:11 +0800
+Message-Id: <200410110548.i9B5mBOL019862@rbl.ccert.edu.cn>
+Subject: =?gb2312?B?UmU6INXiysfE0MjLtcTV/bOjtcTKwtK10MTDtA==?=
+To: yang@ccert.edu.cn
+From: Tran Quang Anh <tan@cernet.edu.cn>
+Content-Type: multipart/mixed; boundary="----------=_1097473692-1014-98"
+MIME-Version: 1.0
+X-UIDL: :,W!!ZnQ!!aIA!!^Cg!!
+
+一般男人工作了都不会喜欢这样的女子的
+即使在这样的女子年轻的时候喜欢，老了也不会喜欢的
+: 刚才一个要好的小姐妹打电话给我说了老半天。
+: 她和她男友的故事我们是早就听说过很多的，大多都是她男友在大学期间如何对她无微不至，每天一起去打饭，吃完饭后都是男友帮她洗饭盒的，期末的那些被子床单都是男友帮她洗，每个星期还帮她熬汤。这样二十四孝的男友真是没的说了。
+: 毕业后mm没怎么去找工作，大部分时间都在家呆着。很轻闲。但是她gg去了东莞一个工业镇当警察，据说很忙很忙，最近一个月mm都没怎么接到他的电话或者短信，而mm主动找他的时候他却老是显得很忙，而且态度很冷淡。还有，mm说发现他有什么不开心的事都不像以前那样告诉她，
+: ...................
+

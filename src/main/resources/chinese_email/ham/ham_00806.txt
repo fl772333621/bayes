@@ -1,0 +1,55 @@
+Return-Path: <su@compass.net.edu.cn>
+Received: from tsinghua.org.cn ([210.77.143.228])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id i9B7jo8u014722
+	for <xiao@ccert.edu.cn>; Mon, 11 Oct 2004 15:45:52 +0800
+Received: (eyou send program); Mon, 11 Oct 2004 09:59:43 +0800
+Received: (eyou send program); Mon, 11 Oct 2004 09:38:42 +0800
+X-EYOU-ORIGINAL-IP: 202.38.99.65
+X-EYOU-ENVELOPE-MAILFROM: toefl-bounces@server.cool-meeting.com
+Received: from unknown (HELO server.cool-meeting.com) (unknown@202.38.99.65)
+ by 210.77.143.228 with SMTP; Mon, 11 Oct 2004 09:38:42 +0800
+Received: from server.cool-meeting.com (localhost.localdomain [127.0.0.1])
+	by server.cool-meeting.com (8.12.8/8.12.8) with ESMTP id i9B1VWlX012718
+	for <xiao@ccert.edu.cn>; Mon, 11 Oct 2004 09:31:39 +0800
+Received: from compass.net.edu.cn ([202.112.0.90])
+	by server.cool-meeting.com (8.12.8/8.12.8) with ESMTP id i9B1VTkr012714
+	for <xiao@ccert.edu.cn>; Mon, 11 Oct 2004 09:31:29 +0800
+Received: from thtfcomputer (compass12.compass.edu.cn [202.112.55.99])
+	by compass.net.edu.cn (8.9.2/8.9.2) with ESMTP id JAA19219
+	for <xiao@ccert.edu.cn>;
+	Mon, 11 Oct 2004 09:27:02 +0800 (CST)
+From: "su" <su@compass.net.edu.cn>
+To: xiao@ccert.edu.cn
+Date: Mon, 11 Oct 2004 09:24:28 +0800
+Message-ID: <000a01c4af31$0d4e4c70$0100a8c0@thtfcomputer>
+MIME-Version: 1.0
+X-Priority: 3 (Normal)
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook, Build 10.0.2627
+Importance: Normal
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1409
+Subject: =?gb2312?B?UmU6IM7Sz+vC8ry4v+nT8aOsx+vOytT1w7S8+LHw?=
+X-BeenThere: toefl@server.cool-meeting.com
+X-Mailman-Version: 2.1.2
+Precedence: list
+List-Id: &#26446;&#26143;&#21644;&#20182;&#30340;&#23398;&#29983;&#20204;
+	<toefl.server.cool-meeting.com>
+List-Unsubscribe: <http://server.cool-meeting.com/mailman/listinfo/toefl>,
+	<mailto:toefl-request@server.cool-meeting.com?subject=unsubscribe>
+List-Archive: <http://server.cool-meeting.com/mailman/private/toefl>
+List-Post: <mailto:toefl@server.cool-meeting.com>
+List-Help: <mailto:toefl-request@server.cool-meeting.com?subject=help>
+List-Subscribe: <http://server.cool-meeting.com/mailman/listinfo/toefl>,
+	<mailto:toefl-request@server.cool-meeting.com?subject=subscribe>
+Content-Type: multipart/mixed; boundary="===============93276077780747801=="
+Sender: toefl-bounces@server.cool-meeting.com
+Errors-To: toefl-bounces@server.cool-meeting.com
+X-UIDL: 9,!"!_ma!!6n)"!B'f"!
+
+这个问题很难回答。
+首先，看你准备花多少钱买玉，普通的玉（例如品质一般的翡翠）在行内价格还是比较透明
+的。如果真是“好玉”，价格就不好讲了。
+第二，在大商场里柜台上的玉一般都把价格标到实价的5倍以上，以翡翠来说，水头稍好的、稍微有点翠的，都标价几万。所以不要在商场里买玉。
+第三，如果是想随便买个几千块的玩玩，可以找个比较懂行带着，去名声好一点的玉器店。如果是想买“好玉”，就直接去北京玉器厂，找行家，边学边买。
+: 什么是玻璃什么是玉，或者好玉要怎样来识别
+

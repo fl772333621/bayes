@@ -1,0 +1,39 @@
+Return-Path: <xie@telus.net>
+Received: from tsinghua.org.cn ([210.77.143.228])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id i8LGmg5k010068
+	for <xiao@ccert.edu.cn>; Wed, 22 Sep 2004 00:48:48 +0800
+Received: (eyou send program); Wed, 22 Sep 2004 00:58:41 +0800
+Received: (eyou send program); Wed, 22 Sep 2004 00:58:40 +0800
+X-EYOU-ORIGINAL-IP: 199.185.220.220
+X-EYOU-ENVELOPE-MAILFROM: adamwang@telus.net
+Received: from unknown (HELO priv-edtnes57.telusplanet.net) (unknown@199.185.220.220)
+ by 210.77.143.228 with SMTP; Wed, 22 Sep 2004 00:58:40 +0800
+Received: from cindy ([142.59.15.189]) by priv-edtnes57.telusplanet.net
+          (InterMail vM.6.01.03.02 201-2131-111-104-20040324) with SMTP
+          id <20040921165447.SPRH2397.priv-edtnes57.telusplanet.net@cindy>
+          for <xiao@ccert.edu.cn>;
+          Tue, 21 Sep 2004 10:54:47 -0600
+Message-ID: <000901c4a181$372548e0$6501a8c0@cindy>
+From: "xie" <xie@telus.net>
+To: xiao@ccert.edu.cn
+Subject: =?gb2312?B?UmU6IKG+0bDIy8b0yr6hv9GwMjAwM8TqTUJBIFAysODRp8n6o7rF4bn6w/E=?=
+Date: Thu, 23 Sep 2004 09:23:01 -0600
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 5.50.4942.400
+X-MimeOLE: Produced By Microsoft MimeOLE V5.50.4942.400
+Content-Transfer-Encoding: 8bit
+X-MIME-Autoconverted: from base64 to 8bit by home.ccert.edu.cn id i8LGmg5k010068
+X-UIDL: *N3"!Nk,#!]WV!!GLl!!
+
+如果是真的，这个家伙要BS
+明天到经管院找找去，找到了给他说：老裴，你娘子找你要孩子的生活费，咔咔~~~~~~~~~~
+忘了，我现在在深研院回去不，回去再找
+: 裴国民，男，1970.3.13日出生，身份证号：410923197003131711，河南人，讲普通话，身高1.78m，体形稍胖。
+: 现就读于清华大学经管学院2003入学的MBA P2班，攻读工商管理硕士。
+: 现你在天津的妻子一直联系不上你，打你电话不接，给你发短信你不回，你从2001起有三年多没给过儿子的生活费。
+: ...................
+

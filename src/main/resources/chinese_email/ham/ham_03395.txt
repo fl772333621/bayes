@@ -1,0 +1,65 @@
+Return-Path: <yi@ns.6test.edu.cn>
+Received: from tsinghua.org.cn ([210.77.143.228])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id i9DNiNhX031975
+	for <lian@ccert.edu.cn>; Thu, 14 Oct 2004 07:44:24 +0800
+Received: (eyou send program); Thu, 14 Oct 2004 07:55:17 +0800
+Received: (eyou send program); Tue, 12 Oct 2004 08:10:39 +0800
+X-EYOU-ORIGINAL-IP: 202.38.99.65
+X-EYOU-ENVELOPE-MAILFROM: toefl-bounces@server.cool-meeting.com
+Received: from unknown (HELO server.cool-meeting.com) (unknown@202.38.99.65)
+ by 210.77.143.228 with SMTP; Tue, 12 Oct 2004 08:10:39 +0800
+Received: from server.cool-meeting.com (localhost.localdomain [127.0.0.1])
+	by server.cool-meeting.com (8.12.8/8.12.8) with ESMTP id i9C04Nlg014114
+	for <lian@ccert.edu.cn>; Tue, 12 Oct 2004 08:04:30 +0800
+Received: from ns.6test.edu.cn ([202.38.99.18])
+	by server.cool-meeting.com (8.12.8/8.12.8) with ESMTP id i9C04Lkr014110
+	for <lian@ccert.edu.cn>; Tue, 12 Oct 2004 08:04:21 +0800
+Received: from [202.112.3.118] (helo=IBM-E4AA49AF703)
+	by ns.6test.edu.cn with asmtp (Exim 4.12) id 1CHAOT-0000WJ-00
+	for Toefl@server.cool-meeting.com; Tue, 12 Oct 2004 08:19:57 +0800
+From: "yi" <yi@ns.6test.edu.cn>
+To: lian@ccert.edu.cn
+X-mailer: Foxmail 4.2 [cn]
+Mime-Version: 1.0
+Content-Type: text/plain;
+      charset="GB2312"
+Content-Transfer-Encoding: 7bit
+Date: Tue, 12 Oct 2004 7:57:16 +0800
+Message-Id: <E1CHAOT-0000WJ-00@ns.6test.edu.cn>
+Cc: 
+Subject: =?gb2312?B?ofEg1dDGuGRlbHBoabPM0PLUsaOovLGjqQ==?=
+X-BeenThere: toefl@server.cool-meeting.com
+X-Mailman-Version: 2.1.2
+Precedence: list
+List-Id: &#26446;&#26143;&#21644;&#20182;&#30340;&#23398;&#29983;&#20204;
+	<toefl.server.cool-meeting.com>
+List-Unsubscribe: <http://server.cool-meeting.com/mailman/listinfo/toefl>,
+	<mailto:toefl-request@server.cool-meeting.com?subject=unsubscribe>
+List-Archive: <http://server.cool-meeting.com/mailman/private/toefl>
+List-Post: <mailto:toefl@server.cool-meeting.com>
+List-Help: <mailto:toefl-request@server.cool-meeting.com?subject=help>
+List-Subscribe: <http://server.cool-meeting.com/mailman/listinfo/toefl>,
+	<mailto:toefl-request@server.cool-meeting.com?subject=subscribe>
+Sender: toefl-bounces@server.cool-meeting.com
+Errors-To: toefl-bounces@server.cool-meeting.com
+X-UIDL: \~\"!9Mc"!8_<"!k/e"!
+
+希望版主保留几天，谢谢！
+要求
+性别：男
+年龄：30岁以下
+学历：大本以上
+职位要求：2年以上软件开发经验，精通delphi开发（必须）；
+全职；
+熟悉其它开发语言，如Ｃ++/C#,java；
+        　熟悉COM/COM+,WebService；
+      熟悉Xml，有两种大型数据库使用经验, 精通MSSQL、Oracle等数据的管理；
+精通T-SQL（必须）和ＰＬ-SQL( Function、 Procedure、Trigger) ；
+能熟练使用PowerDesigner或ER-Win等工具进行数据库设计；
+        　熟悉UML建模工具Rational Rose；
+有良好的团队合作精神、积极主动的工作态度、良好的语言文字表达能力和学习能力；  
+有教育行业软件开发经验，熟悉可共享内容对象模型（SCORMTM）、celts标准者优先；
+        　有CRM,CMS开发经验者优先；
+联系方式：wuger@sohu.com
+公司是一家合资公司主做小学的网络游戏。办公地点在苏州街。月薪3000－5000。
+

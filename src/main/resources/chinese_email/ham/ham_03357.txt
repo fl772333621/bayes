@@ -1,0 +1,33 @@
+Return-Path: <yan@tsinghua.edu.cn>
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with SMTP id j0A5bDsR021597
+	for <che@ccert.edu.cn>; Mon, 10 Jan 2005 13:37:29 +0800
+Received: (eyou send program); Mon, 10 Jan 2005 13:33:19 +0800
+Message-ID: <305335199.27553@mail.tsinghua.edu.cn>
+Received: from unknown (HELO mail.tsinghua.edu.cn) (unknown@127.0.0.1)
+ by 127.0.0.1 with SMTP; Mon, 10 Jan 2005 13:33:19 +0800
+X-scanvirus: By Symantec Scan Engine
+X-scanresult: CLEAN
+Received: (eqmail ); 10 Jan 2005 05:33:17 -0000
+Received: from unknown (HELO sony) (duanhx@166.111.204.107)
+  by localhost with SMTP; 10 Jan 2005 05:33:17 -0000
+Message-ID: <01b601c4f6d8$13929980$6ce86fa6@sony>
+From: "yan" <yan@tsinghua.edu.cn>
+To: che@ccert.edu.cn
+Subject: =?gb2312?B?UmU6IFt6dF2xsb6pwOu76cLKtO81MC45MCUgzqrIq7n61+6439LRs6zI1bqr?=
+Date: Mon, 10 Jan 2005 13:48:56 +0800
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="----=_NextPart_000_01B2_01C4F71B.20EA9A40"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2800.1106
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1106
+X-UIDL: :Hh"!fjW!!1bQ"!F!m!!
+
+真是zt文章, 有这么算离婚率的?
+: 近日，在中国社会科学院人口学专家唐灿发布的调研报告中指出，据2003年北京市统计年鉴公布的数据，2002年北京市的离婚总数为38756对，当年户籍人口为1136.3万，粗离婚率达到6.82‰；当年的结婚对数为76136对，由此计算离结率高达50.90%。 
+: 也就是说，这一年平均每天不到两对夫妻结婚就有一对夫妻离婚，北京市的离婚率已经成为全国最高。不仅如此，调查还表明，北京市的结婚率在持续下降，婚龄在推迟，丁克家族和不婚者的数量在不断攀升。唐灿还告诉记者——相对于选择性不婚者，国内相当一部分人属于被动不婚
+: 据竞报报道，唐灿的这份报告还指出，自20世纪70年代末以来，中国的离婚率持续上升。离婚水平已超过邻国日本和韩国，与新加坡同属亚洲离婚率较高的国家。
+: ...................
+

@@ -1,0 +1,36 @@
+Return-Path: <tu@tsinghua.edu.cn>
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id iBMAI150002895
+	for <xue@ccert.edu.cn>; Wed, 22 Dec 2004 18:18:01 +0800 (CST)
+Received: (eyou send program); Wed, 22 Dec 2004 18:02:35 +0800
+Message-ID: <303709754.11986@mail.tsinghua.edu.cn>
+Received: from unknown (HELO mail.tsinghua.edu.cn) (unknown@127.0.0.1)
+ by 127.0.0.1 with SMTP; Wed, 22 Dec 2004 18:02:35 +0800
+X-scanvirus: By Symantec Scan Engine
+X-scanresult: CLEAN
+Received: (eqmail ); 22 Dec 2004 10:02:33 -0000
+Received: from unknown (HELO sony) (duanhx@202.112.50.213)
+  by localhost with SMTP; 22 Dec 2004 10:02:33 -0000
+Message-ID: <006201c4e80f$8037cab0$d53270ca@sony>
+From: "tu" <tu@tsinghua.edu.cn>
+To: xue@ccert.edu.cn
+Cc: <cai@ccert.edu.cn>
+References: <303684949.22757@mail.tsinghua.edu.cn>
+Subject: =?gb2312?B?ofEgudjT2sXJx7LWpKOsx+u087zSsO/O0rLOv7zSu8/C?=
+Date: Wed, 22 Dec 2004 18:17:52 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_005F_01C4E852.8D851D10"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2900.2180
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+X-UIDL: @9&"!;oo!!02;"!fE#"!
+
+我以前已经签了一个北京的公司了。但是由于后来面了一个自己很喜欢去的公司，所以就和北京现在这个公司违约了。
+后来面的公司在上海，上个月20号左右就告诉我已经通过面试了。他们要办一些手续（好像是要通过总部的同意），大概4周左右给offer。所以，现在我还没有拿到正式的offer。但经理保证了说肯定有offer。
+6月8号是最后的截至日期。如果还没有offer的话，就要回原籍（派遣证只能给原籍的单位）。刚才给公司打了电话，经理说offer就在这两天发出，而且告诉我没有派遣证对我没有什么影响。他们还会按照应届生的待遇对待我。
+可是我看了一下精华区。发现派遣证好像还是很重要的，而且就业中心的老师也劝我要派遣证。说派遣证和n险一金有关系。
+我想问一下：如果不是去的国企的话，派遣证还重要么（和n险一金啊什么的有关么）？如果8号前没有拿到offer的话，我是不是只能先回原籍，然后再想办法去上海？
+谢谢各位大虾了！
+

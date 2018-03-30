@@ -1,0 +1,40 @@
+Return-Path: <gao@ebay.com.cn>
+Received: from autoforward.mail.sohu.com ([61.135.132.166])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id j05FETPO015857
+	for <tu@ccert.edu.cn>; Wed, 5 Jan 2005 23:14:30 +0800
+Received: from mx23.mail.sohu.com (unknown [192.168.41.141])
+	by autoforward.mail.sohu.com (Postfix) with ESMTP id 5AB488E40E
+	for <tu@ccert.edu.cn>; Wed,  5 Jan 2005 23:28:59 +0800 (CST)
+Received: by mx23.mail.sohu.com (Postfix)
+	id 6DB1C14011; Wed,  5 Jan 2005 23:28:58 +0800 (CST)
+Delivered-To: chen741120@mx23.mail.sohu.com
+Received: from mx47.sjc.ebay.com (unknown [66.135.197.29])
+	by admx.sohu.com (Postfix) with ESMTP id 07C7F122B92
+	for <tu@ccert.edu.cn>; Wed,  5 Jan 2005 23:28:57 +0800 (CST)
+Received: from sj-v3bota03 (sj-v3bota03.sjc.ebay.com [10.6.173.212])
+	by mx47.sjc.ebay.com (8.12.3/8.12.3) with ESMTP id j05FNpAv003411
+	for <tu@ccert.edu.cn>; Wed, 5 Jan 2005 07:28:54 -0800
+Date: Wed, 5 Jan 2005 07:28:54 -0800
+Message-ID: <1261870874.1104938934657.JavaMail.ebayapp@sj-v3bota03>
+From: eBay <gao@ebay.com.cn>
+To: tu@ccert.edu.cn
+Subject: =?gb2312?B?UmU6ILzM0PjOyrunv9rOyszi?=
+Mime-Version: 1.0
+Content-Type: multipart/mixed; boundary="----------=_1104938071-13540-3"
+X-eBay-MailTracker: 10096.377.223.0
+X-UIDL: P,Z"!>,\"!j=X!!Qab!!
+
+现在什么规章制度、政策法规，不过是摆设，真正解决问题的是关系！
+我曾经试过，给人往他父母家转户口，这直系亲属关系多硬？我以为到了就能顺利办理成功，
+不想然，手续及其烦杂，跑派出所、劳动局、学校、等等……
+按固定，我还得不远万里跑到大西北、东北（半个中国）找各个小小的大队、小队、中队的什么这个委那个委的盖各种章，写各种证明……
+……※（￥％×
+最终还是没办成！竟然连骨肉亲缘都不能相聚！faint to hell!
+而其实，只要非正规手续地搞定一个片警，或者一个主任什么的能管事的，搞好个人关系，就万事大吉高枕无忧了，
+即使是非直系亲属，哪怕是三表婶七唐姨父也能转呢！即使用什么下三流的手法抓住哪个片警的小辫子说不定也能办事呢
+所以我建议，大家还是不要太过分沉迷于研究各种政策法规规章制度，而要仔细研究人事！毕竟“事在人为”啊！
+: 找你亲戚的街道主任
+: 叫她搞定片警，
+: 我以前这个干过
+: ...................
+

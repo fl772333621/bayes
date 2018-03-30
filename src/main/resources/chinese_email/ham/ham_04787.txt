@@ -1,0 +1,22 @@
+Return-Path: <luo@rbl.ccert.edu.cn>
+Received: from rbl.ccert.edu.cn (rbl.ccert.edu.cn [202.112.57.71])
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id i9J9Tnaf026599
+	for <gao@ccert.edu.cn>; Tue, 19 Oct 2004 17:29:53 +0800 (CST)
+Received: from rbl.ccert.edu.cn (localhost.localdomain [127.0.0.1])
+	by rbl.ccert.edu.cn (8.12.11/8.12.11) with ESMTP id i9J9BPIC022325
+	for <gao@ccert.edu.cn>; Tue, 19 Oct 2004 17:11:25 +0800
+Received: (from qa@localhost)
+	by rbl.ccert.edu.cn (8.12.11/8.12.11/Submit) id i9J9BP3n022324;
+	Tue, 19 Oct 2004 17:11:25 +0800
+Date: Tue, 19 Oct 2004 17:11:25 +0800
+Message-Id: <200410190911.i9J9BP3n022324@rbl.ccert.edu.cn>
+Subject: =?gb2312?B?UmU6ILrDzt7BxM/rsNFtcDO/zLPJY2S48cq9?=
+To: gao@ccert.edu.cn
+From: Tran Quang Anh <luo@cernet.edu.cn>
+Content-Type: multipart/mixed; boundary="----------=_1098177085-22096-6"
+MIME-Version: 1.0
+X-UIDL: *+E"!Oep"!llN!!h^`!!
+
+: 不是呀，我在教5楼。
+我知道，大多数的刻录软件都可以。在开始的时候选择Audio CD，然后直接把音频文件加进去就行了。我以前经常刻，因为那个时侯偶比较喜欢听CD，只有CD Player，NO Mp3 Player，能买碟当然买碟了，比MP3效果好上不少，呵呵呵，能听得出来的，不过碟毕竟没有Mp3丰富，有的时候遇到比较好的Mp3，码率比较高，就刻成CD，反正碟片便宜啊，一块出头，网上还有一些不压缩的Audio下载，那就更好了
+

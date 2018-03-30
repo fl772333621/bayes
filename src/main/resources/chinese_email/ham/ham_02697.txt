@@ -1,0 +1,54 @@
+Return-Path: <ding@compass.net.edu.cn>
+Received: from tsinghua.org.cn ([210.77.143.228])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id i8K51SR7003824
+	for <lai@ccert.edu.cn>; Mon, 20 Sep 2004 13:01:34 +0800
+Received: (eyou send program); Mon, 20 Sep 2004 13:11:21 +0800
+Received: (eyou send program); Mon, 20 Sep 2004 13:11:20 +0800
+X-EYOU-ORIGINAL-IP: 202.38.99.65
+X-EYOU-ENVELOPE-MAILFROM: toefl-bounces@server.cool-meeting.com
+Received: from unknown (HELO server.cool-meeting.com) (unknown@202.38.99.65)
+ by 210.77.143.228 with SMTP; Mon, 20 Sep 2004 13:11:20 +0800
+Received: from server.cool-meeting.com (localhost.localdomain [127.0.0.1])
+	by server.cool-meeting.com (8.12.8/8.12.8) with ESMTP id i8K517lV008937
+	for <lai@ccert.edu.cn>; Mon, 20 Sep 2004 13:01:13 +0800
+Received: from compass.net.edu.cn ([202.112.0.90])
+	by server.cool-meeting.com (8.12.8/8.12.8) with ESMTP id i8K516kr008933
+	for <lai@ccert.edu.cn>; Mon, 20 Sep 2004 13:01:06 +0800
+Received: from [210.25.128.113] ([210.25.128.113])
+	by compass.net.edu.cn (8.9.2/8.9.2) with ESMTP id NAA18106
+	for <lai@ccert.edu.cn>;
+	Mon, 20 Sep 2004 13:00:11 +0800 (CST)
+Message-ID: <414E62F2.7020108@compass.net.edu.cn>
+Date: Mon, 20 Sep 2004 12:56:18 +0800
+From: Shaozhi Ye <ding@compass.net.edu.cn>
+User-Agent: Mozilla Thunderbird 0.8 (Windows/20040913)
+X-Accept-Language: en-us, en
+MIME-Version: 1.0
+To: lai@ccert.edu.cn
+Content-Type: text/plain; charset=gb2312
+Content-Transfer-Encoding: 8bit
+Cc: 
+Subject: =?gb2312?B?ofEgxfPT0aGj?=
+X-BeenThere: toefl@server.cool-meeting.com
+X-Mailman-Version: 2.1.2
+Precedence: list
+List-Id: &#26446;&#26143;&#21644;&#20182;&#30340;&#23398;&#29983;&#20204;
+	<toefl.server.cool-meeting.com>
+List-Unsubscribe: <http://server.cool-meeting.com/mailman/listinfo/toefl>,
+	<mailto:toefl-request@server.cool-meeting.com?subject=unsubscribe>
+List-Archive: <http://server.cool-meeting.com/mailman/private/toefl>
+List-Post: <mailto:toefl@server.cool-meeting.com>
+List-Help: <mailto:toefl-request@server.cool-meeting.com?subject=help>
+List-Subscribe: <http://server.cool-meeting.com/mailman/listinfo/toefl>,
+	<mailto:toefl-request@server.cool-meeting.com?subject=subscribe>
+Sender: toefl-bounces@server.cool-meeting.com
+Errors-To: toefl-bounces@server.cool-meeting.com
+X-UIDL: YU0"!TK["!hMj"!``Z"!
+
+    非常喜欢臧天朔的《朋友》，听着悠扬的钢琴声，品味着铿锵顿挫的旋律，心里总会产生莫明的共鸣。作为北京摇滚界的元老之一，在我听过的为数不多的他的作品中，尽管风格不同，旋律不一，但从他沙哑的嗓音中，总能感受到一种深沉的沧桑和对生活的浓浓感悟，这也是我喜欢他多过喜欢崔健的原因之一，因为我讨厌矫情。而我经常拿出来听的，还是这首朋友。
+    也许，当真正开始懂事时，就已经学会了伤感，想想自己走过的路，似乎很顺，又很不顺，但每一步无论是好是坏，是进是退，是喜是怒，是乐是悲，在每一个坎节上，都会幸运的得到朋友们的真诚帮助，或许这种帮助对于解决问题是微不足道的，却会使你无论在任何时候都能够保持真正的自我，更有勇气去勇敢面对，更好的坚持自己，因为，你不是孤单的。
+    忘了谁说过，人应该常存感恩之心，在我经历过的岁月中，两个我最感谢的人，一个因为地域的关系很难再见面了，但他在我最失落的时候向我伸出了宽大的手掌，当我觉得每天都是黑夜时，他告诉我，今天的太阳很好，现在他在一个大山里面，一个多月才能回家看看他的不满两岁的小孩；而另一个，教会了我什么叫爱，什么叫幸福，但我还是残忍的打碎了这一切，虽然周围所有的人都告诉我，你是对的，可当深夜一个人小屋独处时，却始终无法面对自己的扪心自问。爱过才知情重，醉过方知酒浓，也许正是有了残缺，才使生活更有魅力。
+    今年对我是关键的一年，一个更好的机会等着我，而在这之前我会有很长的一段时间来梳理自己的心情，调整自己的心态，之后微笑而平静的看着前方。
+    现在音箱里传出的是吕方的《朋友别哭》，听歌确实是一个很好的途径，各种的心情都可以得到宣泄，也许这个帖子应该发到这里，今天你快乐吗？我很快乐。
+    
+

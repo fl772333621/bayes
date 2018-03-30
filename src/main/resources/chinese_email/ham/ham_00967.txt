@@ -1,0 +1,26 @@
+Return-Path: <wei@rbl.ccert.edu.cn>
+Received: from rbl.ccert.edu.cn (rbl.ccert.edu.cn [202.112.57.71])
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id i97BSFCa019209
+	for <xia@ccert.edu.cn>; Thu, 7 Oct 2004 19:28:15 +0800 (CST)
+Received: from rbl.ccert.edu.cn (localhost.localdomain [127.0.0.1])
+	by rbl.ccert.edu.cn (8.12.11/8.12.11) with ESMTP id i97BYFGf023118
+	for <xia@ccert.edu.cn>; Thu, 7 Oct 2004 19:34:15 +0800
+Received: (from qa@localhost)
+	by rbl.ccert.edu.cn (8.12.11/8.12.11/Submit) id i97BYFVQ023117;
+	Thu, 7 Oct 2004 19:34:15 +0800
+Date: Thu, 7 Oct 2004 19:34:15 +0800
+Message-Id: <200410071134.i97BYFVQ023117@rbl.ccert.edu.cn>
+Subject: =?gb2312?B?UmU6IM7SusPP8dfcysfK9NPaxMfW1sjd0texu8jL0sXN/LXEyMsuLi4=?=
+To: xia@ccert.edu.cn
+From: Tran Quang Anh <wei@cernet.edu.cn>
+Content-Type: multipart/mixed; boundary="----------=_1097148855-996-896"
+MIME-Version: 1.0
+X-UIDL: `'$"!cg/"!h8K!!SG0!!
+
+  如果不是这个机会我是永远不会看到这个报告的，里面写的参加的人有某某、某某...
+  其中的几个还是那些新接触的没有进入项目就跟着结题的，而我已经参加这个一年半了，
+  项目的第一个大部分的软件集成是我做的，第二部分是我负责了一个很重要的模块
+  
+: 跟你们负责人说说阿，我怎么不在名单里呢？
+: 不要害羞，这是正当的要求阿，如果他坚持你的名字不应该在其中，至少也会给你个解释
+

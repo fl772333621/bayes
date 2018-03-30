@@ -1,0 +1,40 @@
+Return-Path: <su@alibaba.com>
+Received: from 61.187.214.52 ([218.79.244.109])
+	by home.ccert.edu.cn (MIMEDefang) with ESMTP id NOQUEUE
+	for <yi@ccert.edu.cn>; Thu, 02 Jun 2005 22:17:34 +0800 (CST)
+Message-ID: <200506022217.0.510035006947035@home.ccert.edu.cn>
+Received: from unknown (HELO vlm2030.net) (192.144.125.9)
+	by 61.187.214.52 with SMTP; 2 Jun 2005 14:34:17 -0000
+X-Originating-IP: [192.144.125.9]
+Date: Thu, 2 Jun 2005 22:34:16 +0800
+From: "su" <su@alibaba.com>
+To: yi@ccert.edu.cn
+Reply-To: <su@steelmy.com>
+Subject: =?gb2312?B?u7bTrcT6vNPI67jWzPrDs9LXzfijoQ==?=
+X-Mailer: Foxmail 5.0 [cn]
+Mime-Version: 1.0
+Content-Type: text/plain;
+	charset="GB2312"
+Content-Transfer-Encoding: base64
+
+您好：
+    如果您是钢材生产、销售或者贸易商，请加入"钢铁贸易网"，您可以:
+ 1、及时获得各种钢材不同地区的行情价格、分析预测、行情走势、行业信息等，每周发布数千条钢材相关信息，使您更加准确地调整企业营销策略，降低经营风险，提高业务成功率！
+ 2、同时"钢材贸易网"免费对外开放注册会员申请二级域名以及会员自助建站功能,提供二十多套精美企业网站模板,让您更简单方便地免费建设自己的企业网站；
+ 3、"钢材贸易网"现已拥有30000多家企业会员，配合"钢铁贸易网"的企业资源管理器，使你能够更方便地在网上查找、发布、更新您的每一条资源信息。
+这一切都是免费的，网站所有功能免费对外开放，在目前众多钢铁信息网站里是绝无仅有的，赶紧抓住时机马上免费注册吧！
+
+    您只要在地址栏里输入"钢铁贸易网"便可直接进入！
+
+    中国最大最权威的钢材门户网站"钢铁贸易网"欢迎您！ 
+
+      网址：http://www.steelmy.com
+
+    钢铁贸易网企业资源管理器下载地址：
+
+      http://www.steelmy.com/soft.asp
+
+                    钢铁贸易网
+                    http://www.steelmy.com
+                    2005-06-02
+ 

@@ -1,0 +1,25 @@
+Return-Path: <yuan@rbl.ccert.edu.cn>
+Received: from rbl.ccert.edu.cn (rbl.ccert.edu.cn [202.112.57.71])
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id i9K76lsZ016692
+	for <jian@ccert.edu.cn>; Wed, 20 Oct 2004 15:06:48 +0800 (CST)
+Received: from rbl.ccert.edu.cn (localhost.localdomain [127.0.0.1])
+	by rbl.ccert.edu.cn (8.12.11/8.12.11) with ESMTP id i9K7Cd7v023864
+	for <jian@ccert.edu.cn>; Wed, 20 Oct 2004 15:12:40 +0800
+Received: (from qa@localhost)
+	by rbl.ccert.edu.cn (8.12.11/8.12.11/Submit) id i9K7Cdee023863;
+	Wed, 20 Oct 2004 15:12:39 +0800
+Date: Wed, 20 Oct 2004 15:12:39 +0800
+Message-Id: <200410200712.i9K7Cdee023863@rbl.ccert.edu.cn>
+Subject: =?gb2312?B?UmU6IM7StcSzx8rQ?=
+To: jian@ccert.edu.cn
+From: Tran Quang Anh <yuan@cernet.edu.cn>
+Content-Type: multipart/mixed; boundary="----------=_1098256360-20725-4"
+MIME-Version: 1.0
+X-UIDL: RUA!!eae"!%Mi!!H^E!!
+
+re
+:     6月11号，天气晴朗。这是我在北京的第二个夏天。
+:     总是很喜欢夏天的，特别是北京的夏天。阳光直接而灿烂，空气干燥而爽朗。想想真是奇怪，两年前的我是那么的讨厌北京，心不甘情不愿的坐上了前往这座城市的火车，一路上都对我今后四年的大学生活报着忐忑不安的心情。可是，现在却完全适应了在一座陌生城市的生活，甚
+:     其实有的时候，对一座城市的心情和城市本身毫无关系，只是因为这个城市里的一些人，一些事。我的家乡，重庆，那里有我的童年和少年；而这里，北京，有我的现在，我成长轨迹的一部分。我在这里经历着我的爱情，我的蜕变，我的孤独的生活。这些故事将成为我生命里无法
+: ...................
+

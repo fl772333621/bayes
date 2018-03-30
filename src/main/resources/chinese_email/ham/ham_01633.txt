@@ -1,0 +1,67 @@
+Return-Path: <yuan@mails.tsinghua.edu.cn>
+Received: from tsinghua.org.cn ([210.77.143.232])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with SMTP id j2A39TEN029246
+	for <ou@ccert.edu.cn>; Thu, 10 Mar 2005 11:09:31 +0800
+Received: (eyou send program); Thu, 10 Mar 2005 11:21:44 +0800
+Message-ID: <310424904.32731@tsinghua.org.cn>
+X-EYOU-AUTOFORWARD: tsinghua.org.cn
+Received: (eyou send program); Thu, 10 Mar 2005 11:21:43 +0800
+Message-ID: <310424903.21877@tsinghua.org.cn>
+Received: from unknown (HELO gradinfo.net.edu.cn) (202.112.49.111)
+ by 210.77.143.232 with SMTP; Thu, 10 Mar 2005 11:21:43 +0800
+Received: from [202.112.49.111] (localhost [IPv6:::1])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with ESMTP id j2A3MisH054547
+	for <ou@ccert.edu.cn>; Thu, 10 Mar 2005 11:22:59 +0800 (CST)
+	(envelope-from toefl-bounces@gradinfo.net.edu.cn)
+Received: from mails.tsinghua.edu.cn (mails.tsinghua.edu.cn [166.111.8.16])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with SMTP id j2A3Mg7p054543
+	for <ou@ccert.edu.cn>; Thu, 10 Mar 2005 11:22:42 +0800 (CST)
+	(envelope-from sxx03@mails.tsinghua.edu.cn)
+Received: (eyou send program); Thu, 10 Mar 2005 11:14:23 +0800
+Message-ID: <310424463.30810@mails.tsinghua.edu.cn>
+Received: from 202.112.50.72 by mails.tsinghua.edu.cn with HTTP;
+	Thu, 10 Mar 2005 11:14:23 +0800
+X-WebMAIL-MUA: [202.112.50.72]
+From: "yuan" <yuan@mails.tsinghua.edu.cn>
+To: ou@ccert.edu.cn
+Date: Thu, 10 Mar 2005 11:14:23 +0800
+X-Priority: 3
+Content-Type: text/plain
+Subject: =?gb2312?B?UmU6IL+quPa4vcr0sObD5rDJICjXqtTYKQ==?=
+X-BeenThere: toefl@gradinfo.net.edu.cn
+X-Mailman-Version: 2.1.5
+Precedence: list
+Reply-To: shaoxiaoxin <yuan@mails.tsinghua.edu.cn>
+List-Id: "&#26446; &#26143; &#21644; &#20182; &#30340; &#23398; &#29983;
+	&#20204; " <toefl.gradinfo.net.edu.cn>
+List-Unsubscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=unsubscribe>
+List-Archive: <http://gradinfo.net.edu.cn/mailman/private/toefl>
+List-Post: <mailto:toefl@gradinfo.net.edu.cn>
+List-Help: <mailto:toefl-request@gradinfo.net.edu.cn?subject=help>
+List-Subscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=subscribe>
+Sender: toefl-bounces@gradinfo.net.edu.cn
+Errors-To: toefl-bounces@gradinfo.net.edu.cn
+X-UIDL: b+`!!=c?"!D:T"!"O(!!
+
+4字班怎么还叫freshman呀
+: 标  题: Re: 开个附属版面吧 (转载)
+: 发信站: 水木社区 (Thu Jun  9 20:56:38 2005), 站内
+: 
+: 4字班freshman，5字班freshman还有1字班graduate freshman
+: : cong
+: : 机会大大
+: 
+: 
+: --
+: Cerberus  Lv 23  HP 1490
+: 天堂的大门打开了，Cerberus狂奔而出，在距离敌人0.1cm处戛然而止，仰天长啸。从三个
+: 头的口中射出无比绚烂夺目的光芒。光芒附体，魔力倍增，赋予味方全体"Double"(双次) 
+: + "Triple"(连击)状态。
+: 由于施加的全体效果，所以作用非常大。特别是需要大量使用魔法的战斗，召唤Cerberus
+: 是十分必要的。它的自动加速(Auto-Haste)和警戒(Alert)能力对于速攻会有很大作用。
+: 
+: 
+: ※ 来源:·水木社区 newsmth.net·[FROM: 211.151.90.*]
+

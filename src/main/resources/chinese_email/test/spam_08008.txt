@@ -1,0 +1,36 @@
+Return-Path: <ou@abc.net>
+Received: from junyan-291d513f ([219.134.89.87])
+	by home.ccert.edu.cn (MIMEDefang) with ESMTP id NOQUEUE
+	for <cao@ccert.edu.cn>; Thu, 09 Jun 2005 09:25:54 +0800 (CST)
+Message-ID: <200506090925.0.939628676827741@home.ccert.edu.cn>
+Received: from 61.187.214.52 ([127.0.0.1])
+	by junyan-291d513f (Kerio MailServer 6.0.10);
+	Tue, 7 Jun 2005 17:46:42 +0800
+Received: from unknown (HELO vlm9405.net) (144.116.214.16)
+	by 61.187.214.52 with SMTP; 7 Jun 2005 09:46:44 -0000
+X-Originating-IP: [144.116.214.16]
+Date: Tue, 7 Jun 2005 17:46:43 +0800
+From: "ou" <ou@abc.net>
+To: cao@ccert.edu.cn
+Reply-To: <ou@sohu.com>
+Subject: =?gb2312?B?uaTJzL7WzajWqg==?=
+X-Mailer: VolleyMail.net 5.7[cn]
+Mime-Version: 1.0
+X-Priority: 3
+X-MSMail-Priority: Normal
+Content-Type: text/plain;
+	charset="GB2312"
+Content-Transfer-Encoding: base64
+
+请点击这里：http://www.139.com?cid=3
+
+
+
+　　　　　　　　致
+礼！
+
+
+                    木棉
+                    abc@abc.net
+                    2005-06-07
+ 

@@ -1,0 +1,98 @@
+Return-Path: <peng@ns.6test.edu.cn>
+Received: from tsinghua.org.cn ([210.77.143.228])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id i8K4700h002964
+	for <xie@ccert.edu.cn>; Mon, 20 Sep 2004 12:07:02 +0800
+Received: (eyou send program); Mon, 20 Sep 2004 12:16:54 +0800
+Received: (eyou send program); Mon, 20 Sep 2004 12:16:49 +0800
+X-EYOU-ORIGINAL-IP: 202.38.99.65
+X-EYOU-ENVELOPE-MAILFROM: toefl-bounces@server.cool-meeting.com
+Received: from unknown (HELO server.cool-meeting.com) (unknown@202.38.99.65)
+ by 210.77.143.228 with SMTP; Mon, 20 Sep 2004 12:16:49 +0800
+Received: from server.cool-meeting.com (localhost.localdomain [127.0.0.1])
+	by server.cool-meeting.com (8.12.8/8.12.8) with ESMTP id i8K46Rlf008761
+	for <xie@ccert.edu.cn>; Mon, 20 Sep 2004 12:06:34 +0800
+Received: from ns.6test.edu.cn ([202.38.99.18])
+	by server.cool-meeting.com (8.12.8/8.12.8) with ESMTP id i8K46Qkr008757
+	for <xie@ccert.edu.cn>; Mon, 20 Sep 2004 12:06:26 +0800
+Received: from [202.112.3.177] (helo=[202.112.3.177])
+	by ns.6test.edu.cn with asmtp (Exim 4.12)
+	id 1C9FgI-000IHI-00; Mon, 20 Sep 2004 12:21:39 +0800
+In-Reply-To: <295652467.19870@mails.tsinghua.edu.cn>
+References: <295652467.19870@mails.tsinghua.edu.cn>
+Mime-Version: 1.0 (Apple Message framework v619)
+Content-Type: text/plain; charset=EUC-CN; format=flowed
+Message-Id: <EC79AD4C-0AB9-11D9-AFFB-000D93AF6D96@ns.6test.edu.cn>
+From: CHEN Maoke <peng@ns.6test.edu.cn>
+Subject: =?gb2312?B?ofEgob7V0Ma4ob+439DCxrjH68jtvP6/qreiyMvUsbrNvLzK9dfcvOA=?=
+Date: Mon, 20 Sep 2004 12:02:43 +0800
+To: xie@ccert.edu.cn
+X-Mailer: Apple Mail (2.619)
+Content-Transfer-Encoding: 8bit
+X-MIME-Autoconverted: from quoted-printable to 8bit by server.cool-meeting.com
+	id i8K46Qkr008757
+Cc: toefl <cen@ccert.edu.cn>
+X-BeenThere: toefl@server.cool-meeting.com
+X-Mailman-Version: 2.1.2
+Precedence: list
+List-Id: &#26446;&#26143;&#21644;&#20182;&#30340;&#23398;&#29983;&#20204;
+	<toefl.server.cool-meeting.com>
+List-Unsubscribe: <http://server.cool-meeting.com/mailman/listinfo/toefl>,
+	<mailto:toefl-request@server.cool-meeting.com?subject=unsubscribe>
+List-Archive: <http://server.cool-meeting.com/mailman/private/toefl>
+List-Post: <mailto:toefl@server.cool-meeting.com>
+List-Help: <mailto:toefl-request@server.cool-meeting.com?subject=help>
+List-Subscribe: <http://server.cool-meeting.com/mailman/listinfo/toefl>,
+	<mailto:toefl-request@server.cool-meeting.com?subject=subscribe>
+Sender: toefl-bounces@server.cool-meeting.com
+Errors-To: toefl-bounces@server.cool-meeting.com
+X-UIDL: 6*d!!"6n"!<&e!!chl"!
+
+网站技术总监 1人
+工作性质：全职
+招聘人数：1人 月薪范围：8000~10000
+工作经验：5年 学历：本科以上
+工作地点：北京
+职位描述及要求
+工作职责：
+大型商业网站的总体技术架构设计，技术难点公关开发，对网站WEB开发部门的技术管理
+要求：
+1.计算机或相关专业，本科以上学历者工作经验不少于5年，硕士以上学历者工作经验不少
+于3年。
+2.四年以上网站后台编程经验，两年以上大型ICP网站整体设计、规划和制作以及管理经验
+3.精通html/jsp/vbscript/CSS/ASP/.net/JSP/java/J2EE/php/CGI等技术。
+4.精通IIS，apache等常用WEB服务器的配置
+5.熟悉http,https,ftp,telnet 协议
+3.熟悉各种网络安全漏洞以及攻击，熟悉网络病毒特征
+4.熟悉网络后台数据库安全优先考虑
+5.熟悉网络安全产品（防火墙，防病毒软件）的配置和优化
+6.精通IIS，apache等常用WEB服务器的配置
+7.自学能力强，能够跟进WEB开发新技术的发展
+8.根据个人的能力进行待遇判定分级，一经录用，待遇从优
+网站制作程序员 4人
+工作性质：全职
+招聘人数：4人 月薪范围：4000~6000
+工作经验：3年 学历：本科以上
+工作地点：北京
+职位描述及要求
+1.大学本科以上学历，计算机软件或者相关专业
+2.精通html/javascript/vbscript/CSS/ASP/.net/JSP/java/J2EE/php/CGI等技术；
+3.熟悉 http,https,ftp,telnet 等网络协议
+4.熟练掌握 C,C++,C#语言,熟悉ORACLE 数据库编程
+5.有大型ICP网站开发与维护经验，本科生工作经验至少3年，硕士生至少2年；
+6.精通网站开发中常见的安全漏洞及避免方法优先考虑
+7.根据个人的能力进行待遇判定分级，一经录用，待遇从优
+数据库程序员 4人
+工作性质：全职
+招聘人数：4人 月薪范围：6000~8000
+工作经验：3年 学历：本科以上
+工作地点：北京
+职位描述及要求
+1.重点大学本科以上学历，计算机软件或者相关专业
+2.有用oracle数据库进行软件项目开发2年以上工作经验；
+3.精通oracle数据库配置，优化，维护
+4.熟悉大型数据库的设计，熟悉如何提高WEB程序的运行效率
+5.精通SQL语句，存储过程、触发器等的编写
+6.根据个人的能力进行待遇判定分级，一经录用，待遇从优
+公司网址：  http://www.hxinfo.com.cn/
+投递简历请投到：  hr@hxinfo.com.cn
+

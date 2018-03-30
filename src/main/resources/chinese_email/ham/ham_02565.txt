@@ -1,0 +1,43 @@
+Return-Path: <gan@home.ccert.edu.cn>
+Received: from home.ccert.edu.cn (localhost [127.0.0.1])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id iB21UJ9E000519;
+	Thu, 2 Dec 2004 09:30:19 +0800
+Received: (from majordomo@localhost)
+	by home.ccert.edu.cn (8.13.1/8.13.1/Submit) id iB21UJUH000518;
+	Thu, 2 Dec 2004 09:30:19 +0800
+X-Authentication-Warning: home.ccert.edu.cn: majordomo set sender to owner-ccertstaff using -f
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id iB21TDTX000490;
+	Thu, 2 Dec 2004 09:29:13 +0800
+Received: from WHITESNOW ([220.207.85.19])
+	(authenticated bits=0)
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id iB21gDjs025535;
+	Thu, 2 Dec 2004 09:42:17 +0800 (CST)
+Message-ID: <004601c4d810$2a46dce0$1355cfdc@WHITESNOW>
+From: "gan" <gan@cernet.edu.cn>
+To: zhan@ccert.edu.cn
+Cc: <yang@ccert.edu.cn>
+References: <001801c4d808$d33af190$15cb6fa6@ccertspark>
+Subject: =?gb2312?B?UmU6INKqyKViZrzSwcujrNKq16LS4sqyw7Sjvw==?=
+Date: Thu, 2 Dec 2004 09:42:12 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0043_01C4D853.32E944D0"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2900.2180
+X-Mimeole: Produced By Microsoft MimeOLE V6.00.2900.2180
+Sender: owner-ccertstaff@home.ccert.edu.cn
+Precedence: bulk
+X-UIDL: EGG!!/&?!!M\h"!!9""!
+
+我们全家也用一根毛巾。菜板也有一个。
+但如果我家来一个外人，我家有人跟我妈提示一下(说人家大城市的，毛巾不混用的等），我妈妈就会拿出一根新的毛巾给人家用的。^_^别的什么东西也会给人家新的用。
+我们那个地方，虽然县城像农村，但人朴实。
+还有我告诉你一个事，我当年在农村呆的时候，看田地里黄瓜、西红柿什么的摘了就吃，
+不洗的（上面似乎还有点土），那水果的味道，我来北京再来没有享受到。^_^
+: 可能会有点跑题，今天想在这里整理下思路
+: 先介绍下具体情况，我是独生女，父母都是老师，中小城市，经济状况还不错，而且我爸爸人特别好，家务几乎全包；bf家是北方小县城的（比较穷的地方），有两个姐姐都结婚了，他是最小的儿子。单比较我父母家和他家，很多生活习惯等等差得很多。
+: 说实话，同bf恋爱以来，我有意无意特别会注意到网上有关婚姻啊，婆媳关系啊，等等的文章，总是看到一些比较恐怖的文章。我一边跟自己说网上的东西当然是夸张的负面的比较多，一边又被吓得不得了但是又忍不住看到家庭问题的帖子就总会打开看。我现在可能很有点杞人忧天，
+: ...................
+

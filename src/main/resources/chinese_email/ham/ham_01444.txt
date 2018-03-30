@@ -1,0 +1,39 @@
+Return-Path: <kong@rbl.ccert.edu.cn>
+Received: from rbl.ccert.edu.cn (rbl.ccert.edu.cn [202.112.57.71])
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id i91BhqHQ004919
+	for <tian@ccert.edu.cn>; Fri, 1 Oct 2004 19:43:53 +0800 (CST)
+Received: from rbl.ccert.edu.cn (localhost.localdomain [127.0.0.1])
+	by rbl.ccert.edu.cn (8.12.11/8.12.11) with ESMTP id i91BnRFl026666
+	for <tian@ccert.edu.cn>; Fri, 1 Oct 2004 19:49:27 +0800
+Received: (from qa@localhost)
+	by rbl.ccert.edu.cn (8.12.11/8.12.11/Submit) id i91BnRAn026665;
+	Fri, 1 Oct 2004 19:49:27 +0800
+Date: Fri, 1 Oct 2004 19:49:27 +0800
+Message-Id: <200410011149.i91BnRAn026665@rbl.ccert.edu.cn>
+Subject: =?gb2312?B?UmU6IKG2v9fIuKG3wO/X7rrz0ru80sjLyKW2r87v1LC/tL/XyLi6zbb+vePSu8bwsafXxbqi19O1
+xMo=?=
+To: tian@ccert.edu.cn
+From: Tran Quang Anh <kong@cernet.edu.cn>
+Content-Type: multipart/mixed; boundary="----------=_1096631367-996-272"
+MIME-Version: 1.0
+X-UIDL: %%U!!X;@"!a-%#!Hc;!!
+
+云南人在河南待久了，估计也就会说河南话了。
+: 标  题: Re: 《孔雀》里最后一家人去动物园看孔雀和二姐一起抱着孩子的�
+: 发信站: 水木社区 (Wed Jun  8 21:28:37 2005), 站内
+: 
+: 为什么头上缠满纱布？很怪。是从云南过来的少数民族？那里满山遍野倒是都是孔雀，不过这人一口河南话，会说河南话的云南少数民族？
+: : 好象不是果子，是二姐新找的
+: 
+: 
+: --
+: 
+: 
+: 
+: 
+: 
+: 黑暗中，我几次伸出手去，却什么也碰不到，那抹小小的光线在我指尖就要碰到的地方。
+: 
+: 
+: ※ 来源:·水木社区 newsmth.net·[FROM: 159.226.40.*]
+

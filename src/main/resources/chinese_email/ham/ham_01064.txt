@@ -1,0 +1,57 @@
+Return-Path: <ma@mails.tsinghua.edu.cn>
+Received: from tsinghua.org.cn ([210.77.143.228])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id iA98QQtr010529
+	for <yun@ccert.edu.cn>; Tue, 9 Nov 2004 16:26:31 +0800
+Received: (eyou send program); Tue, 09 Nov 2004 16:38:15 +0800
+Received: (eyou send program); Tue, 09 Nov 2004 16:38:14 +0800
+X-EYOU-ORIGINAL-IP: 210.77.143.235
+X-EYOU-ENVELOPE-MAILFROM: malb03@mails.tsinghua.edu.cn
+Received: from unknown (HELO eyou.net) (unknown@210.77.143.235)
+ by 210.77.143.228 with SMTP; Tue, 09 Nov 2004 16:38:14 +0800
+Received: (eyou send program); Tue, 09 Nov 2004 16:33:53 +0800
+Message-ID: <299989233.12767@eyou.net>
+Received: from 166.111.8.16 by 210.77.143.235 with SMTP; Tue, 09 Nov 2004 16:33:52 +0800
+Received: (eyou send program); Tue, 09 Nov 2004 16:32:20 +0800
+Message-ID: <299989140.03289@mails.tsinghua.edu.cn>
+Received: (eyou send program); Tue, 09 Nov 2004 16:32:20 +0800
+Message-ID: <299989140.14678@mails.tsinghua.edu.cn>
+Received: from unknown (HELO mails.tsinghua.edu.cn) (unknown@127.0.0.1)
+ by 127.0.0.1 with SMTP; Tue, 09 Nov 2004 16:32:20 +0800
+X-scanvirus: By Symantec Scan Engine
+X-scanresult: NOREP
+Received: (eqmail ); 9 Nov 2004 08:32:17 -0000
+Received: from ccert.edu.cn (HELO home.ccert.edu.cn) (202.112.57.12)
+  by mails.tsinghua.edu.cn with SMTP; 9 Nov 2004 08:32:17 -0000
+Received: from home.ccert.edu.cn (localhost [127.0.0.1])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id iA98O9ZE010453;
+	Tue, 9 Nov 2004 16:24:09 +0800
+Received: (from majordomo@localhost)
+	by home.ccert.edu.cn (8.13.1/8.13.1/Submit) id iA98O90O010452;
+	Tue, 9 Nov 2004 16:24:09 +0800
+X-Authentication-Warning: home.ccert.edu.cn: majordomo set sender to owner-ccertstaff using -f
+Received: from mails.tsinghua.edu.cn (mails.tsinghua.edu.cn [166.111.8.16])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with SMTP id iA98O7qx010448
+	for <yun@ccert.edu.cn>; Tue, 9 Nov 2004 16:24:08 +0800
+Received: (eyou send program); Tue, 09 Nov 2004 16:31:01 +0800
+Message-ID: <299989061.01855@mails.tsinghua.edu.cn>
+Received: from 202.112.50.13 by mails.tsinghua.edu.cn with HTTP; Tue, 09 Nov 2004 16:31:01 +0800
+X-WebMAIL-MUA: [202.112.50.13]
+From: "ma" <ma@mails.tsinghua.edu.cn>
+To: yun@ccert.edu.cn
+Date: Tue, 09 Nov 2004 16:31:01 +0800
+Reply-To: "ma" <ma@mails.tsinghua.edu.cn>
+Subject: =?gb2312?B?UmU6ILHIvc/T9MPG?=
+Content-Type: text/plain
+Sender: owner-ccertstaff@home.ccert.edu.cn
+Precedence: bulk
+X-UIDL: 22;"!/6H!!/^b!!Dp^"!
+
+  实际上,自己当时得表现,也是我感觉郁闷的地方.我没有应付那样局面的经验.
+我想就我将来的工作而言,至少比他们的好不少,(暂时待遇吧)反而是那个时候我
+一句话都没法说,以沉默表示抗议,感觉自己不太会应付.
+  我自己都不满意这样的表现,这也是自己郁闷的原因之一.都这么大年纪了,还吃
+这亏...
+  说到工作好不好,各人有个人的看法,这也是各人不能相互理解的地方.至少别人
+看待做技术的,或者说是看我做技术,就能摆明了埋汰.我愤怒.
+: 文科除了当官一般升迁都比理科生慢.几年后往往是理生后来居上
+

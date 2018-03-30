@@ -1,0 +1,49 @@
+Return-Path: <xia@mails.tsinghua.edu.cn>
+Received: from tsinghua.org.cn ([210.77.143.228])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id i9M2OBh1026692
+	for <shi@ccert.edu.cn>; Fri, 22 Oct 2004 10:24:12 +0800
+Received: (eyou send program); Fri, 22 Oct 2004 10:35:15 +0800
+Received: (eyou send program); Fri, 22 Oct 2004 10:35:12 +0800
+X-EYOU-ORIGINAL-IP: 202.38.99.65
+X-EYOU-ENVELOPE-MAILFROM: toefl-bounces@server.cool-meeting.com
+Received: from unknown (HELO server.cool-meeting.com) (unknown@202.38.99.65)
+ by 210.77.143.228 with SMTP; Fri, 22 Oct 2004 10:35:12 +0800
+Received: from server.cool-meeting.com (localhost.localdomain [127.0.0.1])
+	by server.cool-meeting.com (8.12.8/8.12.8) with ESMTP id i9M2UnlY031563
+	for <shi@ccert.edu.cn>; Fri, 22 Oct 2004 10:30:56 +0800
+Received: from mails.tsinghua.edu.cn (mails.tsinghua.edu.cn [166.111.8.16])
+	by server.cool-meeting.com (8.12.8/8.12.8) with SMTP id i9M2Ulkr031559
+	for <shi@ccert.edu.cn>; Fri, 22 Oct 2004 10:30:47 +0800
+Received: (eyou send program); Fri, 22 Oct 2004 10:16:40 +0800
+Message-ID: <298411400.03709@mails.tsinghua.edu.cn>
+Received: from 202.112.0.90 by mails.tsinghua.edu.cn with HTTP;
+	Fri, 22 Oct 2004 10:16:40 +0800
+X-WebMAIL-MUA: [202.112.0.90]
+From: "xia" <xia@mails.tsinghua.edu.cn>
+To: shi@ccert.edu.cn
+Date: Fri, 22 Oct 2004 10:16:40 +0800
+Content-Type: text/plain
+Subject: =?gb2312?B?UmU6INTCueLPwrXEtbo=?=
+X-BeenThere: toefl@server.cool-meeting.com
+X-Mailman-Version: 2.1.2
+Precedence: list
+Reply-To: 邵筱昕 <xia@mails.tsinghua.edu.cn>
+List-Id: &#26446;&#26143;&#21644;&#20182;&#30340;&#23398;&#29983;&#20204;
+	<toefl.server.cool-meeting.com>
+List-Unsubscribe: <http://server.cool-meeting.com/mailman/listinfo/toefl>,
+	<mailto:toefl-request@server.cool-meeting.com?subject=unsubscribe>
+List-Archive: <http://server.cool-meeting.com/mailman/private/toefl>
+List-Post: <mailto:toefl@server.cool-meeting.com>
+List-Help: <mailto:toefl-request@server.cool-meeting.com?subject=help>
+List-Subscribe: <http://server.cool-meeting.com/mailman/listinfo/toefl>,
+	<mailto:toefl-request@server.cool-meeting.com?subject=subscribe>
+Sender: toefl-bounces@server.cool-meeting.com
+Errors-To: toefl-bounces@server.cool-meeting.com
+X-UIDL: ~Hc!!9H*"!@4<!!JOD"!
+
+介个东东还有人在顶……
+: 　 原来我也可以拥有自己的小岛，一点新奇，一点苦涩．"剩余岛"不知道是不是唯一剩下的东西．当地球上所有的东西都消失，最后会不会有一个＂剩余岛＂？就像玛雅的消失，最后还是留下了他的建筑．我的消失会留下什么？ 
+: 　　留下一份心情，留下一个小岛． 
+: 　　月光照在岛上，岛上的我让月光尽情的在我身上身边嬉戏、玩耍，海风迎面吹来，一点点凉意伴着苦涩，同时吹得岛上的树木沙沙作响。一切却似乎与自己无关，呆呆的坐在高高的礁石上望向远方，望着远处的海．黑夜的海是可怕的、凶猛的，没有同情心的．．．．．．他猛烈的
+: ...................
+

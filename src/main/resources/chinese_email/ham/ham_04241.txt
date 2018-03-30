@@ -1,0 +1,39 @@
+Return-Path: <jian@home.ccert.edu.cn>
+Received: from home.ccert.edu.cn (localhost [127.0.0.1])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id j0M4Vecr025846;
+	Sat, 22 Jan 2005 12:31:40 +0800
+Received: (from majordomo@localhost)
+	by home.ccert.edu.cn (8.13.1/8.13.1/Submit) id j0M4Veqt025845;
+	Sat, 22 Jan 2005 12:31:40 +0800
+X-Authentication-Warning: home.ccert.edu.cn: majordomo set sender to owner-ccertstaff using -f
+Received: from ccertspark (tu203021.ip.tsinghua.edu.cn [166.111.203.21])
+	(authenticated bits=0)
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id j0M4Vd7H025840
+	for <bi@ccert.edu.cn>; Sat, 22 Jan 2005 12:31:40 +0800
+Reply-To: <jian@cernet.edu.cn>
+From: "jian" <jian@ccert.edu.cn>
+To: bi@ccert.edu.cn
+Subject: =?gb2312?B?UmU6IM7SxNy5u9f2tb21xLy4tePAttHVtcTSqsfzo6Gjobm7bW21xNKqx/PC8KO/o6E=?=
+Date: Sat, 22 Jan 2005 12:41:39 +0800
+Message-ID: <001801c5003c$aa7d3fe0$15cb6fa6@ccertspark>
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+X-Priority: 3 (Normal)
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook, Build 10.0.6626
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.3790.181
+Importance: Normal
+Content-Transfer-Encoding: 8bit
+X-MIME-Autoconverted: from base64 to 8bit by home.ccert.edu.cn id j0M4Ve7H025843
+Sender: owner-ccertstaff@home.ccert.edu.cn
+Precedence: bulk
+X-UIDL: cK'"!3,$"!!3Z!!"J^!!
+
+只有最聪明的女人才知道，体凉和了解，永远比最动人的容貌还能令男人动心。
+好像在天涯某文章里见过
+: 　　2、健康快乐的男性：快乐的人是谁都不讨厌的，特别是俗务缠身，还能保持一颗健康快乐心的男人，他的人生必定是积极的，会带给你快乐，帮你释放压力。
+: 　　3、志趣相投的男人：拥有共同的语言，无疑是最容易引为知己的条件。
+: 5、愿意倾听的圈外人：处于不同的社交圈，自然会以旁观者的身份看问题，而不带有个人色彩，而且很多时候，你需要的也只是一个好的听众。
+: ...................
+

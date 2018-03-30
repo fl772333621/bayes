@@ -1,0 +1,31 @@
+Return-Path: <tian@smth.edu.cn>
+Received: from tsinghua.org.cn ([210.77.143.228])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id iANFcQ2u008011
+	for <sun@ccert.edu.cn>; Tue, 23 Nov 2004 23:38:27 +0800
+Received: (eyou send program); Tue, 23 Nov 2004 23:51:12 +0800
+Received: (eyou send program); Tue, 23 Nov 2004 23:51:11 +0800
+X-EYOU-ORIGINAL-IP: 210.77.143.235
+X-EYOU-ENVELOPE-MAILFROM: svm@smth.edu.cn
+Received: from unknown (HELO eyou.net) (unknown@210.77.143.235)
+ by 210.77.143.228 with SMTP; Tue, 23 Nov 2004 23:51:11 +0800
+Received: (eyou send program); Tue, 23 Nov 2004 23:46:42 +0800
+Message-ID: <301224802.15161@eyou.net>
+Received: from 211.68.16.32 by 210.77.143.235 with SMTP; Tue, 23 Nov 2004 23:46:40 +0800
+Received: from smth.edu.cn (bbs.tsinghua.edu.cn [166.111.8.238])
+	by alpha.linux.edu.cn (8.11.6/8.11.6) with ESMTP id iANGKT607872
+	for <sun@ccert.edu.cn>; Wed, 24 Nov 2004 00:20:30 +0800
+MIME-Version: 1.0
+Content-Type: text/plain; charset=gb2312
+Content-Transfer-Encoding: 8bit
+From: "tian" <tian@smth.edu.cn>
+To: sun@ccert.edu.cn
+Date: Tue, 23 Nov 2004 23:51:07 +0800
+Message-Id: <1101225067.0@smth.edu.cn>
+Subject: =?gb2312?B?UmU6ILK7tq6woaO6IMWuuqLX08rHsrvKx7a8sci9z8O709CwssiruNCjrNKq1dLIy9LAv7+jvw==?=
+X-UIDL: \G7"!,Z)!!$&4"!&`Y"!
+
+我没安全感，是以为不敢找人依靠。。。
+:   一直没有意识到 女孩子会有这样的问题，昨天看了个 董洁的访谈（我十分喜欢她在 天上的恋人  里的感觉，呵呵）。她说，她也是个没有安全感的人。
+:      
+:     我狂抓啊，什么叫做没有安全感啊，没有找到BF时候不都是十几二十年都这么过的嘛？那到底是个什么样的感觉啊，sigh，真的beyond my imagination 啊，估计这就是偶二十好几了还光光的原因啊，唉。
+

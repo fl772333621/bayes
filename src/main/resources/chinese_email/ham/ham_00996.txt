@@ -1,0 +1,25 @@
+Return-Path: <jiang@rbl.ccert.edu.cn>
+Received: from rbl.ccert.edu.cn (rbl.ccert.edu.cn [202.112.57.71])
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id i97D0Sef020184
+	for <wei@ccert.edu.cn>; Thu, 7 Oct 2004 21:00:28 +0800 (CST)
+Received: from rbl.ccert.edu.cn (localhost.localdomain [127.0.0.1])
+	by rbl.ccert.edu.cn (8.12.11/8.12.11) with ESMTP id i97D6RYt028457
+	for <wei@ccert.edu.cn>; Thu, 7 Oct 2004 21:06:28 +0800
+Received: (from qa@localhost)
+	by rbl.ccert.edu.cn (8.12.11/8.12.11/Submit) id i97D6RhQ028456;
+	Thu, 7 Oct 2004 21:06:27 +0800
+Date: Thu, 7 Oct 2004 21:06:27 +0800
+Message-Id: <200410071306.i97D6RhQ028456@rbl.ccert.edu.cn>
+Subject: =?gb2312?B?UmU6ILvY0uQ=?=
+To: wei@ccert.edu.cn
+From: Tran Quang Anh <jiang@cernet.edu.cn>
+Content-Type: multipart/mixed; boundary="----------=_1097154388-996-944"
+MIME-Version: 1.0
+X-UIDL: Yc)"!+[I"!EQg!!@D~"!
+
+这个版应该不会有人会投笔从戎
+: 记得很多年前那次高考，成绩出来后，我放弃了某重点高校的多媒体专业，带着一丝迷茫与憧憬，忐忑与紧张，离开了北京，来到了位于南方某大城市的一所军事院校，从此，我穿着军装，挂着红牌，叠着豆腐块，行进在队列中，一天天的重复直线加方块的生活。很长一段时间，我分
+: 逐渐的我适应了自己的军人身分，适应了那里的环境，虽然有很多限制，很不自由，但慢慢的也不觉得什么了，同时，或许单调的生活反而更让我学会了如何控制情绪，如何承受压力。那四年是我最难忘的，不仅因为自己的人生发生了重大转变，更因为自己经历了很多的事情，真正开
+: 毕业后，我分回了北京，到单位报到后不久，我被派去带新兵，也算是补上当兵的这段经历吧。象我们这样直接考到军校的学生兵，因为没有当兵的经历，总让人觉得缺点什么。那段带兵的经历也很有意思，至少从新兵身上我看到自己四年前的影子。带兵回来后我被留在机关，成了一
+: ...................
+

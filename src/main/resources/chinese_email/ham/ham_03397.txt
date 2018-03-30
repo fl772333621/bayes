@@ -1,0 +1,35 @@
+Return-Path: <zhao@withub.org>
+Received: from autoforward.mail.sohu.com ([61.135.132.166])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id j0Q6qFJx016352
+	for <yun@ccert.edu.cn>; Wed, 26 Jan 2005 14:52:24 +0800
+Received: from mx23.mail.sohu.com (unknown [192.168.41.141])
+	by autoforward.mail.sohu.com (Postfix) with ESMTP id 6F8AD8E55F
+	for <yun@ccert.edu.cn>; Wed, 26 Jan 2005 15:04:07 +0800 (CST)
+Received: by mx23.mail.sohu.com (Postfix)
+	id C2D9C14017; Wed, 26 Jan 2005 15:04:06 +0800 (CST)
+Delivered-To: chen741120@mx23.mail.sohu.com
+Received: from withub.org (unknown [218.80.208.20])
+	by sohumx13.sohu.com (Postfix) with SMTP id 17AB70542252
+	for <yun@ccert.edu.cn>; Wed, 26 Jan 2005 15:03:53 +0800 (CST)
+Received: (qmail 35400 invoked by uid 1009); 26 Jan 2005 06:56:50 -0000
+Message-ID: <20050126065650.35399.qmail@withub.org>
+To: yun@ccert.edu.cn
+Subject: =?gb2312?B?UmU6ILO5tde21Ljxwaa/1bX3yqfN+8HLfr3xzOzT1tbY0MLC8sHLyP3B4tbYuaQ=?=
+From: "zhao" <zhao@withub.org>
+Date: Wed, 26 Jan 2005 14:56:50 +0800
+X-Priority: 3
+X-Mailer: iGENUS webmail 3.0 beta powered by wuqiong@igenus.org
+X-Originating-IP: [192.168.1.254]
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----b6b9a703c7d1c69e19ed47bfd2cb6783"
+X-Sohu-Antivirus: 0
+X-UIDL: ,LP!!1!n"!'V/!!km'!!
+
+买日货也不要买三菱重工阿……
+这算是最恶心的日系厂商了...
+:      原来一直想选择格力,就是因为它是国货里面性价比还不错的.一开始还在occupier版组织过一次团购,后来发现格力的销售几乎没有给什么优惠,就取消了团购,打算自己买得了.
+:     前天在家乐福买了三台格力,两个菱格风的1p和1.5p,还有柜机风秀.将近8k,正好是我的预算.还挺满意的,结果今天早上兴冲冲的等着装空调,早上8点半,准时到了,还挺开心的.老公眼尖,发现两台挂机不是我们要的菱格风而是肯凉风.然后给厂家打电话,厂家说没货,还说销售跟我们�
+:     中午去大中买了三菱重工的两个挂机一个柜机,还参加了刮奖,老爸手气不错,刮出一个一百大洋的返现,我跟老妈各刮出两个50,(别说什么抵制日货,俺就是一家庭主妇,再说我原来也还想支持国货来着).多花了3k+,明天上门安装,也不知道怎么样呢.
+: ...................
+

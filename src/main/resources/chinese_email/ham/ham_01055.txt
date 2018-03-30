@@ -1,0 +1,35 @@
+Return-Path: <cao@rbl.ccert.edu.cn>
+Received: from rbl.ccert.edu.cn (rbl.ccert.edu.cn [202.112.57.71])
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id i985eCdf003292
+	for <gao@ccert.edu.cn>; Fri, 8 Oct 2004 13:40:12 +0800 (CST)
+Received: from rbl.ccert.edu.cn (localhost.localdomain [127.0.0.1])
+	by rbl.ccert.edu.cn (8.12.11/8.12.11) with ESMTP id i985kDjk020529
+	for <gao@ccert.edu.cn>; Fri, 8 Oct 2004 13:46:14 +0800
+Received: (from qa@localhost)
+	by rbl.ccert.edu.cn (8.12.11/8.12.11/Submit) id i985kDNN020528;
+	Fri, 8 Oct 2004 13:46:13 +0800
+Date: Fri, 8 Oct 2004 13:46:13 +0800
+Message-Id: <200410080546.i985kDNN020528@rbl.ccert.edu.cn>
+Subject: =?gb2312?B?ofEgsci9z9P0w8Y=?=
+To: gao@ccert.edu.cn
+From: Tran Quang Anh <cao@cernet.edu.cn>
+Content-Type: multipart/mixed; boundary="----------=_1097214374-1044-294"
+MIME-Version: 1.0
+X-UIDL: 1"^"!/3'"!D7C!!-6U!!
+
+  
+   一个同学要去美国陪老婆读博士,顺便来北京打成绩单,将来也有机会申请F1,
+还有一个同学是去当某出版社领导的秘书,吃饭的时候说起来,可以说是互相吹捧.
+我在边上很不是滋味,看来到私营企业做技术,可能真算没地位,他们一说到我就是,
+将来要去外企,还得要继续努力等等.作为工科学生,不知选择企业作技术的道路,
+没多少出息呢,还是其他不作技术的人不理解这些选择.
+  我想想自己的待遇,将来公司的重用都可以说不差,没想到在那个氛围下,令我
+很郁闷.我也没觉得当场有必要自吹什么,我想至少我选择的,很大程度上把握在
+自己手上.没想到当时两人互相吹捧,一个是将来做官如何如何,一个是将来回国如何
+如何,独独是说,"你还要努力".我倒是在反省,自己是不是在交朋友上失败了.
+  另外,像出版社单位是怎么招人的,或者领导有方,一个硕士毕业转正后不到2k/m,
+还要自己找房子,还能让对方心甘情愿.我不清楚文科学生是怎么一个发展道路,大概
+是不能跟工科学生互相理解吧,我也不大理解放弃自己工作去当陪读的道路.刚好我们
+三个人三条道路,我想我是跟清华大多数学生选择相近,没想到在别人眼里是这样的地位.
+很郁闷,因此上来说说,也算是从另外一个角度看待自己.
+

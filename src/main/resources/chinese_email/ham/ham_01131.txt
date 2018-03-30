@@ -1,0 +1,36 @@
+Return-Path: <jin@rbl.ccert.edu.cn>
+Received: from rbl.ccert.edu.cn (rbl.ccert.edu.cn [202.112.57.71])
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id i97KuTBu025578
+	for <pan@ccert.edu.cn>; Fri, 8 Oct 2004 04:56:29 +0800 (CST)
+Received: from rbl.ccert.edu.cn (localhost.localdomain [127.0.0.1])
+	by rbl.ccert.edu.cn (8.12.11/8.12.11) with ESMTP id i97L2UfY020948
+	for <pan@ccert.edu.cn>; Fri, 8 Oct 2004 05:02:30 +0800
+Received: (from qa@localhost)
+	by rbl.ccert.edu.cn (8.12.11/8.12.11/Submit) id i97L2UE3020947;
+	Fri, 8 Oct 2004 05:02:30 +0800
+Date: Fri, 8 Oct 2004 05:02:30 +0800
+Message-Id: <200410072102.i97L2UE3020947@rbl.ccert.edu.cn>
+Subject: =?gb2312?B?UmU6ILvwufg=?=
+To: pan@ccert.edu.cn
+From: Tran Quang Anh <jin@cernet.edu.cn>
+Content-Type: multipart/mixed; boundary="----------=_1097182950-1044-108"
+MIME-Version: 1.0
+X-UIDL: "0G!!mS!#!`Wo!!TPh!!
+
+我也很想念家乡的饭菜
+不过是和你相反
+我想念的是粤菜
+我觉得你是不是太抗拒了
+试着让自己去喜欢食物吧
+你会有更多的乐趣
+我虽然从小吃的粤菜
+最习惯的也是粤菜
+至今觉得最美味的还是粤菜
+但是，口味很重的北方菜
+麻辣的川菜、咸辣的湘菜
+我照样吃得津津有味
+: 夜里突然想起北方的火锅，很想很想再品尝一次，感受一番。
+: 有时候很奇怪食物竟会这样左右我的心情，在香港病重的日子里，虽然bf的妈妈精心调配各
+: 种营养丰富的饭菜给我，然而我却一天比一天难以下咽，那种特有的海鲜味还有说不清的怪
+: ...................
+

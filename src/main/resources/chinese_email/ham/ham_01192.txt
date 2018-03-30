@@ -1,0 +1,24 @@
+Return-Path: <chen@rbl.ccert.edu.cn>
+Received: from rbl.ccert.edu.cn (rbl.ccert.edu.cn [202.112.57.71])
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id i94CRrpe005691
+	for <qing@ccert.edu.cn>; Mon, 4 Oct 2004 20:27:53 +0800 (CST)
+Received: from rbl.ccert.edu.cn (localhost.localdomain [127.0.0.1])
+	by rbl.ccert.edu.cn (8.12.11/8.12.11) with ESMTP id i94CXdNF017297
+	for <qing@ccert.edu.cn>; Mon, 4 Oct 2004 20:33:40 +0800
+Received: (from qa@localhost)
+	by rbl.ccert.edu.cn (8.12.11/8.12.11/Submit) id i94CXdLr017296;
+	Mon, 4 Oct 2004 20:33:39 +0800
+Date: Mon, 4 Oct 2004 20:33:39 +0800
+Message-Id: <200410041233.i94CXdLr017296@rbl.ccert.edu.cn>
+Subject: =?gb2312?B?UmU6ILCz1qq1wLXEw8C5+qOh?=
+To: qing@ccert.edu.cn
+From: Tran Quang Anh <chen@cernet.edu.cn>
+Content-Type: multipart/mixed; boundary="----------=_1096893220-996-410"
+MIME-Version: 1.0
+X-UIDL: pMK!![ch!!%NB!!k6'"!
+
+档次高一点的吃饭的地方，其实国内也够贵的了，呵呵
+除了中餐，别的玩意基本绝对价格都比外头贵，不管是东南亚还是日本还是西餐还是甜品还是咖啡，自己做饭的话，国内蔬菜便宜一些，肉也差距不大
+外头就是人工贵
+: 你应该没来过美国吧，我现在加州硅谷，美国消费很高的地方了，有品牌的衣服，鞋子统统比国内便宜，除了人工贵，吃饭比国内贵一点点（吃泰国菜，日本菜都比国内便宜，其他没试过）。就是换成人民币,其他什么都和国内差不多。
+

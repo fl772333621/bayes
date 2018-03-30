@@ -1,0 +1,36 @@
+Return-Path: <ning@moon.bjnet.edu.cn>
+Received: from moon.bjnet.edu.cn (moon.bjnet.edu.cn [202.112.4.65])
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id iBH8xmJR016640
+	(version=TLSv1/SSLv3 cipher=EDH-RSA-DES-CBC3-SHA bits=168 verify=NO)
+	for <xiao@ccert.edu.cn>; Fri, 17 Dec 2004 16:59:49 +0800 (CST)
+Received: from thh (tu203105.tsinghua.edu.cn [166.111.203.105])
+	(authenticated bits=0)
+	by moon.bjnet.edu.cn (8.12.9/8.12.9) with ESMTP id iBH7xkYI008814
+	for <xiao@ccert.edu.cn>; Fri, 17 Dec 2004 15:59:50 +0800 (CST)
+Message-Id: <200412170759.iBH7xkYI008814@moon.bjnet.edu.cn>
+Date: Fri, 17 Dec 2004 17:03:03 +0800
+From: "ning" <ning@moon.bjnet.edu.cn>
+To: xiao@ccert.edu.cn
+Subject: =?gb2312?B?ofEgv7zR0MWuyfrH87rP1+IgKNeq1Ngp?=
+X-mailer: Foxmail 5.0 [cn]
+Mime-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: 8bit
+X-MIME-Autoconverted: from base64 to 8bit by sea.net.edu.cn id iBH8xmJR016640
+X-UIDL: ,%i!!pEN"!j2n!!V?g"!
+
+【 以下文字转载自 HouseSeek 讨论区 】
+发信人: AfterTY08 (AfterTY08), 信区: HouseSeek
+标  题: 考研女生求合租
+发信站: 水木社区 (Sun Jun 12 10:09:35 2005), 站内
+发信人: AfterTY08 (AfterTY08), 信区: HouseRent
+标  题: 考研女生求合租
+发信站: 水木社区 (Sun Jun 12 10:06:32 2005), 站内
+去年毕业，明年考清华。以学习为目标
+现在清华校内新林院觅得十平米平房一间，两个单人床，每人月租350，包括水电费和冬天的暖气费。
+希望你性格比较随和，社会关系简单，同为考研
+    13811934709
+   代友发文，勿回站内   
+  
+

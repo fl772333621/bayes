@@ -1,0 +1,25 @@
+Return-Path: <cai@rbl.ccert.edu.cn>
+Received: from rbl.ccert.edu.cn (rbl.ccert.edu.cn [202.112.57.71])
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id i8U81rD0023382
+	for <zhao@ccert.edu.cn>; Thu, 30 Sep 2004 16:01:53 +0800 (CST)
+Received: from rbl.ccert.edu.cn (localhost.localdomain [127.0.0.1])
+	by rbl.ccert.edu.cn (8.12.11/8.12.11) with ESMTP id i8U87TeW027012
+	for <zhao@ccert.edu.cn>; Thu, 30 Sep 2004 16:07:29 +0800
+Received: (from qa@localhost)
+	by rbl.ccert.edu.cn (8.12.11/8.12.11/Submit) id i8U87TqF027011;
+	Thu, 30 Sep 2004 16:07:29 +0800
+Date: Thu, 30 Sep 2004 16:07:29 +0800
+Message-Id: <200409300807.i8U87TqF027011@rbl.ccert.edu.cn>
+Subject: =?gb2312?B?UmU6INT1w7TBy73iwM/GxbXExNrQxKOseGRqbcPHsO+w787S?=
+To: zhao@ccert.edu.cn
+From: Tran Quang Anh <cai@cernet.edu.cn>
+Content-Type: multipart/mixed; boundary="----------=_1096531649-996-248"
+MIME-Version: 1.0
+X-UIDL: g2(!!g8!"!^63!!eC8"!
+
+再忙也要发个短信打个电话呀，越是你忙的时候，这些细微的关心越会感动她的。哪怕一大早出门前给她留个条子，叮嘱一下早餐什么的。
+:   今天无意中看到书柜上lp写的一些随笔。都是好伤感，好颓废的一些诗词。
+: 看起来都是她自己写的。说自己一无所获，说自己没有了爱情，发一些诸如婚姻埋葬了爱情的感慨。回想起昨天吃饭的时候，她突然还冒出一句“你对我没有爱情，你对我都没有激情过，你认识我的时候，激情都被消磨光了。”这样的话，让我半天摸不着头脑。
+:    我和老婆是去年认识的，认识不久就确定了男女朋友关系——我之前谈过两次恋爱，一次四年一次不到半年。认识我老婆的时候，的确是没有初恋那样的冲动与激情了。老婆人很好，性格很温柔，很善解人意，很多地方都很令我满意和心动——谈了两次恋爱，也终于知道了什么样�
+: ...................
+

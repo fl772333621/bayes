@@ -1,0 +1,26 @@
+Return-Path: <ma@rbl.ccert.edu.cn>
+Received: from rbl.ccert.edu.cn (rbl.ccert.edu.cn [202.112.57.71])
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id i9J1PE96016851
+	for <tang@ccert.edu.cn>; Tue, 19 Oct 2004 09:25:15 +0800 (CST)
+Received: from rbl.ccert.edu.cn (localhost.localdomain [127.0.0.1])
+	by rbl.ccert.edu.cn (8.12.11/8.12.11) with ESMTP id i9J1UxWk008157
+	for <tang@ccert.edu.cn>; Tue, 19 Oct 2004 09:31:03 +0800
+Received: (from qa@localhost)
+	by rbl.ccert.edu.cn (8.12.11/8.12.11/Submit) id i9J1Uxew008156;
+	Tue, 19 Oct 2004 09:30:59 +0800
+Date: Tue, 19 Oct 2004 09:30:59 +0800
+Message-Id: <200410190130.i9J1Uxew008156@rbl.ccert.edu.cn>
+Subject: =?gb2312?B?UmU6ILTzvNLGwMbAoba/18i4obewyQ==?=
+To: tang@ccert.edu.cn
+From: Tran Quang Anh <ma@cernet.edu.cn>
+Content-Type: multipart/mixed; boundary="----------=_1098149463-25795-268"
+MIME-Version: 1.0
+X-UIDL: V$="!IFR!!`kT!!MnJ!!
+
+说它喜也好，说它悲也好
+反正它是我自《阳灿》以来在电影院中看到的最好的国产片。
+: 看了两遍了，觉得就像是家里土酿的老窖，入口只觉得呛，再品就越来越有味道。
+: 个人最受感动的镜头是姐姐在邂逅暗恋情人后，挑西红柿的时候无声痛哭的那一幕。曾经的梦想与现世的无奈交织在一起，令姐姐再也无法强装坚强，无声地恸哭，令人动容.
+: 另外觉得孔雀的那段小提琴的电影配乐实在很棒，悠扬，平静，却透着淡淡的悲凉。
+: ...................
+

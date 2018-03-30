@@ -1,0 +1,40 @@
+Return-Path: <jin@ccert.edu.cn>
+Received: from tsinghua.org.cn ([210.77.143.231])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id j073JI3Z019370
+	for <lian@ccert.edu.cn>; Fri, 7 Jan 2005 11:19:19 +0800
+Received: (eyou send program); Fri, 07 Jan 2005 11:10:33 +0800
+Received: (eyou send program); Fri, 07 Jan 2005 11:10:32 +0800
+X-EYOU-ORIGINAL-IP: 210.77.143.235
+X-EYOU-ENVELOPE-MAILFROM: starry@ccert.edu.cn
+Received: from unknown (HELO eyou.net) (unknown@210.77.143.235)
+ by 210.77.143.231 with SMTP; Fri, 07 Jan 2005 11:10:32 +0800
+Received: (eyou send program); Fri, 07 Jan 2005 11:24:37 +0800
+Message-ID: <305068277.02653@eyou.net>
+Received: from 202.112.57.12 by 210.77.143.235 with SMTP; Fri, 07 Jan 2005 11:24:36 +0800
+Received: from starry ([202.112.50.9])
+	(authenticated bits=0)
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id j073J5HO019328;
+	Fri, 7 Jan 2005 11:19:05 +0800
+Message-Id: <200501070319.j073J5HO019328@home.ccert.edu.cn>
+Date: Fri, 7 Jan 2005 11:30:53 +0800
+From: "jin" <jin@ccert.edu.cn>
+To: lian@ccert.edu.cn
+Cc: "zhenghui" <xing@ccert.edu.cn>,
+        "chenguangying" <che@ccert.edu.cn>,
+        "zjwu" <yu@ccert.edu.cn>
+Subject: =?gb2312?B?UmU6ILCz1qq1wLXEw8C5+qOh?=
+X-mailer: Foxmail 5.0 [cn]
+Mime-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: 8bit
+X-MIME-Autoconverted: from base64 to 8bit by home.ccert.edu.cn id j073JI3Z019370
+X-UIDL: ZT""!eW?!!#6K!!KB_!!
+
+米国便宜的汽油、电、水等等无不是建立在掠夺他国资源的基础之上，如果全世界都像他们这样消耗，地球早就完蛋了。这个国家最可耻的是，作为世界上最大的能源消费国，却拒不签署《京都议定书》，完全不是一个有责任国家的表现。
+再看看一些欧洲国家，前年夏季遭受罕见酷热天气之时，很多居民为了不浪费能源，宁肯受热也不开空调，米国人应该感到羞愧。
+:    
+:     有家人在波士顿定居。
+:     汽车：比国内便宜很多
+: ...................
+

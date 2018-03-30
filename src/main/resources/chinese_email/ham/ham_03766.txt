@@ -1,0 +1,45 @@
+Return-Path: <che@mails.tsinghua.edu.cn>
+Received: from mails.tsinghua.edu.cn (mails.tsinghua.edu.cn [166.111.8.16])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id iAM8iBJO009002
+	for <huang@ccert.edu.cn>; Mon, 22 Nov 2004 16:44:11 +0800 (CST)
+Received: (eyou send program); Mon, 22 Nov 2004 16:38:52 +0800
+Message-ID: <301112732.28167@mails.tsinghua.edu.cn>
+Received: from unknown (HELO mails.tsinghua.edu.cn) (unknown@127.0.0.1)
+ by 127.0.0.1 with SMTP; Mon, 22 Nov 2004 16:38:52 +0800
+X-scanvirus: By Symantec Scan Engine
+X-scanresult: CLEAN
+Received: (eqmail ); 22 Nov 2004 08:38:48 -0000
+Received: from tu203210.tsinghua.edu.cn (HELO xiner) (xwang03@166.111.203.210)
+  by mails.tsinghua.edu.cn with SMTP; 22 Nov 2004 08:38:48 -0000
+Message-ID: <002301c4d06f$66a122c0$d2cb6fa6@xiner>
+From: "che" <che@mails.tsinghua.edu.cn>
+To: huang@ccert.edu.cn
+Subject: =?gb2312?B?UmU6IMDPsOXS0b6tsbszzrvH5buqtcRtYXN0ZXK3xbn9uOvX08HL?=
+Date: Mon, 22 Nov 2004 16:43:40 +0800
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="----=_NextPart_000_001F_01C4D0B2.6C70BBA0"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2900.2180
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+X-UIDL: k"N!!&*F"!XM=!!bPN!!
+Status: RO
+
+如果是发了offer不去,那是很正常
+但是如果是答应了又不来,那就不是很厚道了
+: 标  题: 老板已经被3位清华的master放过鸽子了
+: 发信站: 水木社区 (Thu Jun 16 09:27:30 2005), 站内
+: 
+: 以前两位，最近一位。。拿到offer后不来了
+: 
+: 感叹，清华的master怎么这样子。。以后不敢要了。。
+: 
+: BTW： 俺是GE的。
+: 
+: 
+: 
+: --
+: 
+: ※ 来源:·水木社区 http://newsmth.net·[FROM: 210.146.45.*]
+

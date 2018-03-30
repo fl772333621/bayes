@@ -1,0 +1,26 @@
+Return-Path: <shi@mails.tsinghua.edu.cn>
+Received: from mails.tsinghua.edu.cn (mails.tsinghua.edu.cn [166.111.8.16])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j177J1qU005079
+	for <yu@ccert.edu.cn>; Mon, 7 Feb 2005 15:19:01 +0800 (CST)
+Received: (eyou send program); Mon, 07 Feb 2005 15:15:12 +0800
+Message-ID: <307760512.03424@mails.tsinghua.edu.cn>
+Received: from 207.46.89.16 by mails.tsinghua.edu.cn with HTTP; Mon, 07 Feb 2005 15:15:12 +0800
+X-WebMAIL-MUA: [207.46.89.16]
+From: "shi" <shi@mails.tsinghua.edu.cn>
+To: yu@ccert.edu.cn
+Date: Mon, 07 Feb 2005 15:15:12 +0800
+Reply-To: "shi" <shi@mails.tsinghua.edu.cn>
+X-Priority: 3
+Subject: =?gb2312?B?ofEg1dDGuEphdmG437y2uaSzzMqmo6ixsb6po6k=?=
+Content-Type: text/plain
+X-UIDL: LN5!!($2"!O$3"!GN<"!
+
+1， 精通JAVA语言、J2EE。知名院校计算机专业，有大中型软件工程开发经验。
+2，对面向对象的程序设计、XML、数据库设计以及软件工程比较熟悉 
+3，掌握常用的开发工具（如JBuilder，Eclipse等） 
+4，熟练使用常用的数据库，如Oracle、DB2等，熟练使用SQL语句    
+5，有Servlet，EJB，JDBC开发经验，掌握Struts框架。了解 spring,mvc,hibernate等技术，并有开发经验。 
+6，了解一种或多种应用服务器如：Tomcat、Weblogic、JBoss等。 
+7，长期招聘。 
+请符合条件者将您的简要经历发至:   yfriend189@hotmail.com，合则约见。谢谢 
+

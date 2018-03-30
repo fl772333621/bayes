@@ -1,0 +1,52 @@
+Return-Path: <weng@21cn.com>
+Received: from 127.0.0.1 ([61.144.144.165])
+	by home.ccert.edu.cn (MIMEDefang) with ESMTP id NOQUEUE
+	for <jian@ccert.edu.cn>; Sat, 04 Jun 2005 00:35:08 +0800 (CST)
+Message-ID: <200506040035.0.0863286749183096@home.ccert.edu.cn>
+Received: from unknown (HELO vlm26034.net) (96.94.17.8)
+	by 127.0.0.1 with SMTP; 3 Jun 2005 16:52:21 -0000
+X-Originating-IP: [96.94.17.8]
+Date: Sat, 4 Jun 2005 00:52:20 +0800
+From: "weng" <weng@21cn.com>
+To: jian@ccert.edu.cn
+Subject: =?gb2312?B?tK6/2rf+zvHG9w==?=
+X-Mailer: Microsoft Outlook Express 6.00.2800.1158
+Mime-Version: 1.0
+X-Priority: 1
+Content-Type: text/plain;
+	charset="GB2312"
+Content-Transfer-Encoding: base64
+
+report，您好：
+
+广州市超然计算机有限公司--http://www.crmcunet.com
+  EL-100P固件（firmware）和配置程序（configer）虚拟串口软件均有升级版本。
+新版本固件程序支持虚拟串口（virtual com）、 保活探测(keepalive)、心跳（heartbeat）、即时连接(connect immediately)等
+
+                         超然串口以太网协议转换器的五大优
+
+
+☆优势一：超强数据可靠性及长期工作稳定性。测试举例：TCP服务器模式115200 BuadRate，100MByte以上数据文件上传下载不丢失一个bit
+
+☆优势二：MAC搜索配置、全透明数据传输技术，加上我们精心制作的配置测试工具软件，具有极高的可操作性
+
+☆优势三：心跳（HeartBeat）、对端崩溃检测、即时连结，保持链路的随时通畅
+
+☆优势四：高效易操作的虚拟串口工具，原有串口设备上的现有软件或通信模块皆无需修改就可以直接使用
+
+☆优势五：无可比拟的性能价格比，您只需花费很少的附加费用即完成产品的全面升级
+
+最新推出灯光网络DMX512到以太网协议转换器
+
+最新推出EL-200W双串口以太网协议转换器
+
+
+    如果这封信给您带来干扰，请原谅并删除！谢谢！ 
+　　　　　　　　致
+礼！
+
+
+                    
+                    fqocwiafdj@21cn.com
+                    2005年05月20日
+

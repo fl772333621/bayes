@@ -1,0 +1,53 @@
+Return-Path: <yuan@chinatextile.net>
+Received: from tsinghua.org.cn ([210.77.143.231])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id j043Om7e024636
+	for <gan@ccert.edu.cn>; Tue, 4 Jan 2005 11:25:07 +0800
+Received: (eyou send program); Tue, 04 Jan 2005 11:17:24 +0800
+Received: (eyou send program); Tue, 04 Jan 2005 11:17:24 +0800
+X-EYOU-ORIGINAL-IP: 210.77.143.235
+X-EYOU-ENVELOPE-MAILFROM: beijing@chinatextile.net
+Received: from unknown (HELO eyou.net) (unknown@210.77.143.235)
+ by 210.77.143.231 with SMTP; Tue, 04 Jan 2005 11:17:24 +0800
+Received: (eyou send program); Tue, 04 Jan 2005 11:31:35 +0800
+Message-ID: <304809495.21290@eyou.net>
+Received: from 211.150.100.27 by 210.77.143.235 with SMTP; Tue, 04 Jan 2005 11:31:35 +0800
+Received: from wvooqwr5n4mdti (e-smtp2 [127.0.0.1])
+	by smtp.263xmail.com (Postfix) with ESMTP id EF28E22184
+	for <gan@ccert.edu.cn>; Tue,  4 Jan 2005 11:37:59 +0800 (CST)
+	(envelope-from beijing@chinatextile.net)
+Received: from wvooqwr5n4mdti (unknown [221.218.90.204])
+	by antispam-2 (Coremail:263(040326)) with SMTP id RUAEAJcP2kEyDlrM.1
+	for <gan@ccert.edu.cn>; Tue, 04 Jan 2005 11:38:00 +0800 (CST)
+X-TEBIE-Originating-IP: [221.218.90.204]
+Message-ID: <005001c4f20e$791093d0$4f00a8c0@wvooqwr5n4mdti>
+From: "yuan" <yuan@chinatextile.net>
+To: gan@ccert.edu.cn
+Subject: =?gb2312?B?UmU6INC0uPjSqszuuN+/vNa+1Li1xMjLw8ejrLzmzLi149DQ0rW/tLeooaM=?=
+Date: Tue, 4 Jan 2005 11:35:43 +0800
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----------=_1104809115-21636-164"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2800.1106
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1106
+X-UIDL: ?/,!!lZK"!HQX!!F*"#!
+
+海龟回成都找个7k+_的还是没有问题的，如果学的和EECS粘边的话
+再加上好歹有些个绿纸积蓄，还是可以的
+: 标  题: Re: 写给要填高考志愿的人们，兼谈点行业看法。
+: 发信站: 水木社区 (Sat Jun 11 12:27:15 2005), 站内
+: 
+: 
+: 错了不是.
+: 
+: 海龟,没美国身份,没好工作,没钱的,谁要你泡啊
+: 
+: 你多久没回西财了?
+: 
+: : 有啥的，公务员显然不如海龟好泡西财的ppmm啊
+: 
+: 
+: --
+: 
+: ※ 来源:·水木社区 newsmth.net·[FROM: 155.69.169.*]
+

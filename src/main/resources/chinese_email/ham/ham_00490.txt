@@ -1,0 +1,47 @@
+Return-Path: <hong@mails.tsinghua.edu.cn>
+Received: from tsinghua.org.cn ([210.77.143.228])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id i8M3LZ74019098
+	for <tan@ccert.edu.cn>; Wed, 22 Sep 2004 11:21:38 +0800
+Received: (eyou send program); Wed, 22 Sep 2004 11:31:18 +0800
+Received: (eyou send program); Wed, 22 Sep 2004 11:31:17 +0800
+X-EYOU-ORIGINAL-IP: 202.38.99.65
+X-EYOU-ENVELOPE-MAILFROM: toefl-bounces@server.cool-meeting.com
+Received: from unknown (HELO server.cool-meeting.com) (unknown@202.38.99.65)
+ by 210.77.143.228 with SMTP; Wed, 22 Sep 2004 11:31:17 +0800
+Received: from server.cool-meeting.com (localhost.localdomain [127.0.0.1])
+	by server.cool-meeting.com (8.12.8/8.12.8) with ESMTP id i8M3LPlf012238
+	for <tan@ccert.edu.cn>; Wed, 22 Sep 2004 11:21:32 +0800
+Received: from mails.tsinghua.edu.cn (mails.tsinghua.edu.cn [166.111.8.16])
+	by server.cool-meeting.com (8.12.8/8.12.8) with SMTP id i8M3LNkr012234
+	for <tan@ccert.edu.cn>; Wed, 22 Sep 2004 11:21:23 +0800
+Received: (eyou send program); Wed, 22 Sep 2004 11:12:28 +0800
+Message-ID: <295822748.01842@mails.tsinghua.edu.cn>
+Received: from 202.112.55.97 by mails.tsinghua.edu.cn with HTTP;
+	Wed, 22 Sep 2004 11:12:28 +0800
+X-WebMAIL-MUA: [202.112.55.97]
+From: "hong" <hong@mails.tsinghua.edu.cn>
+To: tan@ccert.edu.cn
+Date: Wed, 22 Sep 2004 11:12:28 +0800
+Content-Type: text/plain
+Subject: =?gb2312?B?UmU6IMLpt7O087zSv7TSu8/Co6y9qNLp0rvPwg==?=
+X-BeenThere: toefl@server.cool-meeting.com
+X-Mailman-Version: 2.1.2
+Precedence: list
+Reply-To: hong@mails.tsinghua.edu.cn
+List-Id: &#26446;&#26143;&#21644;&#20182;&#30340;&#23398;&#29983;&#20204;
+	<toefl.server.cool-meeting.com>
+List-Unsubscribe: <http://server.cool-meeting.com/mailman/listinfo/toefl>,
+	<mailto:toefl-request@server.cool-meeting.com?subject=unsubscribe>
+List-Archive: <http://server.cool-meeting.com/mailman/private/toefl>
+List-Post: <mailto:toefl@server.cool-meeting.com>
+List-Help: <mailto:toefl-request@server.cool-meeting.com?subject=help>
+List-Subscribe: <http://server.cool-meeting.com/mailman/listinfo/toefl>,
+	<mailto:toefl-request@server.cool-meeting.com?subject=subscribe>
+Sender: toefl-bounces@server.cool-meeting.com
+Errors-To: toefl-bounces@server.cool-meeting.com
+X-UIDL: '("#!G2X!!f/2!!XY;"!
+
+如果预期不是很高的话，这样的工作还是很好找的，只不过可能待遇不会太好
+: 小弟现在在科学院读研究生，硕博连读5年目前是研二。女朋友是我大学同学，有5年感情了，感情一直很好。女朋友在大四考研没有考上，回家工作了。我们这两年一直是两地。因为分居两地，很不方便，女朋友想来北京工作。因此想借版上的人气给小弟建议一下。
+: 女朋友和我大学是在西安的一个一般本科院校上的。她大学的专业是电子信息科学。这两年在供电公司工作，也就是以前的电业局。主要做数据库维护工作。女朋友的英语不错，国家英语六级。编程之类的工作不在行。不考虑北京户口。大家给建议一下，看做哪方面的工作合适？小弟
+

@@ -1,0 +1,27 @@
+Return-Path: <xu@rbl.ccert.edu.cn>
+Received: from rbl.ccert.edu.cn (rbl.ccert.edu.cn [202.112.57.71])
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id i91CitXN005157
+	for <kong@ccert.edu.cn>; Fri, 1 Oct 2004 20:44:55 +0800 (CST)
+Received: from rbl.ccert.edu.cn (localhost.localdomain [127.0.0.1])
+	by rbl.ccert.edu.cn (8.12.11/8.12.11) with ESMTP id i91CoZ6w010097
+	for <kong@ccert.edu.cn>; Fri, 1 Oct 2004 20:50:35 +0800
+Received: (from qa@localhost)
+	by rbl.ccert.edu.cn (8.12.11/8.12.11/Submit) id i91CoZRt010096;
+	Fri, 1 Oct 2004 20:50:35 +0800
+Date: Fri, 1 Oct 2004 20:50:35 +0800
+Message-Id: <200410011250.i91CoZRt010096@rbl.ccert.edu.cn>
+Subject: =?gb2312?B?UmU6IMfrzsrH5buqus3W0L/G1LrEx7j2usOjqL+8Q1OjqQ==?=
+To: kong@ccert.edu.cn
+From: Tran Quang Anh <xu@cernet.edu.cn>
+Content-Type: multipart/mixed; boundary="----------=_1096635035-996-296"
+MIME-Version: 1.0
+X-UIDL: P(%"!3'E!!~P@!!g*&!!
+
+这个～～不能说清华比中科院差吧？
+计算所也只有两个院士吧？
+只能说伯仲之间：P
+: 不了解情况真的不要乱说吧．
+: 首先科学院是直属国务院的，和教育部是一个级别的．
+: 第二，科学院的软件所，计算所，自动化所，每一个所的中国科学院院士都比清华计算机系多很多倍，因为清华计算机系到现在才只有一个科学院院士，科学院的几个所比其来还是差很多的．最小的软件所，一个小院里还有四个院士呢，其它导师也都很知名的．
+: ...................
+

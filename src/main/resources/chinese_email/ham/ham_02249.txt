@@ -1,0 +1,36 @@
+Return-Path: <yi@home.ccert.edu.cn>
+Received: from home.ccert.edu.cn (localhost [127.0.0.1])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id j3D5nO1M008630;
+	Wed, 13 Apr 2005 13:49:29 +0800
+Received: (from majordomo@localhost)
+	by home.ccert.edu.cn (8.13.1/8.13.1/Submit) id j3D5nOIA008629;
+	Wed, 13 Apr 2005 13:49:24 +0800
+X-Authentication-Warning: home.ccert.edu.cn: majordomo set sender to owner-ccertstaff using -f
+Received: from ccertspark (tu203021.ip.tsinghua.edu.cn [166.111.203.21])
+	(authenticated bits=0)
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id j3D5n9x9008616
+	for <gu@ccert.edu.cn>; Wed, 13 Apr 2005 13:49:14 +0800
+Reply-To: <yi@cernet.edu.cn>
+From: "yi" <yi@ccert.edu.cn>
+To: gu@ccert.edu.cn
+Subject: =?gb2312?B?UmU6INXiwO/M1sLb09C49s7zx/g=?=
+Date: Wed, 13 Apr 2005 14:02:26 +0800
+Message-ID: <001701c53fee$6770a8d0$15cb6fa6@ccertspark>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----------=_1113371385-32201-689"
+X-Priority: 3 (Normal)
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook, Build 10.0.6626
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.3790.181
+Importance: Normal
+X-MIME-Autoconverted: from base64 to 8bit by home.ccert.edu.cn id j3D5nEx9008625
+Sender: owner-ccertstaff@home.ccert.edu.cn
+Precedence: bulk
+X-UIDL: T*g"!np3"!UlY"!5aV!!
+
+so，第一份工作比较重要
+: 就是自己努力自己素质高了就能战胜一切，我个人认为这个还是很不够客观的。
+: 当然你可能进了一个前途远大的公司，有一个赏识自己能力的上司，你会很快得到你想要的
+: 可是如果你一开始就没有机会去一个好公司，没有机会展现自己的能力，你指望着几年后会有好公司主动来找你么？你还是要重新找工作，凭你的工作经验无非也就是在某某公司做了几年，人为什么要你而不要一个在更好的公司里做了几年的同志呢？在好公司能得到更多的锻炼机会和
+: ...................
+

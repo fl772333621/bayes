@@ -1,0 +1,55 @@
+Return-Path: <han@ccert.edu.cn>
+Received: from tsinghua.org.cn ([210.77.143.231])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id iBF2XPIw017076
+	for <hua@ccert.edu.cn>; Wed, 15 Dec 2004 10:33:26 +0800
+Received: (eyou send program); Wed, 15 Dec 2004 10:26:47 +0800
+Received: (eyou send program); Wed, 15 Dec 2004 10:26:47 +0800
+X-EYOU-ORIGINAL-IP: 210.77.143.235
+X-EYOU-ENVELOPE-MAILFROM: starry@ccert.edu.cn
+Received: from unknown (HELO eyou.net) (unknown@210.77.143.235)
+ by 210.77.143.231 with SMTP; Wed, 15 Dec 2004 10:26:47 +0800
+Received: (eyou send program); Wed, 15 Dec 2004 10:41:26 +0800
+Message-ID: <303078486.18907@eyou.net>
+Received: from 166.111.8.16 by 210.77.143.235 with SMTP; Wed, 15 Dec 2004 10:41:15 +0800
+Received: (eyou send program); Wed, 15 Dec 2004 10:41:19 +0800
+Message-ID: <303078479.26059@mails.tsinghua.edu.cn>
+Received: (eyou send program); Wed, 15 Dec 2004 10:41:18 +0800
+Message-ID: <303078478.05837@mails.tsinghua.edu.cn>
+Received: from unknown (HELO mails.tsinghua.edu.cn) (unknown@127.0.0.1)
+ by 127.0.0.1 with SMTP; Wed, 15 Dec 2004 10:41:18 +0800
+X-scanvirus: By Symantec Scan Engine
+X-scanresult: CLEAN
+X-Received: ccert.edu.cn,202.112.57.12,20041215104106
+Received: from ccert.edu.cn (HELO home.ccert.edu.cn) (202.112.57.12)
+  by localhost with SMTP; 15 Dec 2004 02:41:06 -0000
+Received: from home.ccert.edu.cn (localhost [127.0.0.1])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id iBF2WHkL017047;
+	Wed, 15 Dec 2004 10:32:17 +0800
+Received: (from majordomo@localhost)
+	by home.ccert.edu.cn (8.13.1/8.13.1/Submit) id iBF2WH0w017046;
+	Wed, 15 Dec 2004 10:32:17 +0800
+X-Authentication-Warning: home.ccert.edu.cn: majordomo set sender to owner-ccertstaff using -f
+Received: from starry ([202.112.50.191])
+	(authenticated bits=0)
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id iBF2WGIG017040
+	for <hua@ccert.edu.cn>; Wed, 15 Dec 2004 10:32:16 +0800
+Message-Id: <200412150232.iBF2WGIG017040@home.ccert.edu.cn>
+Date: Wed, 15 Dec 2004 10:45:40 +0800
+From: "han" <han@ccert.edu.cn>
+To: hua@ccert.edu.cn
+Subject: =?gb2312?B?UmU6IMuvsrvXxaOs09bFwMbwwLTBy6O6o6g=?=
+X-mailer: Foxmail 5.0 [cn]
+Mime-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="=====003_Dragon234248736003_====="
+Sender: owner-ccertstaff@home.ccert.edu.cn
+Precedence: bulk
+X-UIDL: U0\"!2UN!!~F7!!dQ]!!
+
+这个还不是根本问题。即使我哄好了他，不到一天，还是会吵架，然后进入下一轮循环，唉。然后他就等着我去找他。
+这个是两个人都有问题，我都没有信心去解决了。如果真的没有感觉，分了也就分了，也不拖累谁。但是真的彼此都有爱，很深的那种。所以现在好难受
+: 趁你还有一些耐心，好好跟他谈谈吧
+: 既然不是原则性的分歧，互相让让步也就好了
+: 一般来说男生还是应该成熟些，大度些
+: ...................
+

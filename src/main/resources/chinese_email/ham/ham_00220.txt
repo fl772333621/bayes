@@ -1,0 +1,63 @@
+Return-Path: <xin@compass.net.edu.cn>
+Received: from tsinghua.org.cn ([210.77.143.228])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id iBL7Xtku015461
+	for <qing@ccert.edu.cn>; Tue, 21 Dec 2004 15:33:57 +0800
+Received: (eyou send program); Tue, 21 Dec 2004 15:47:36 +0800
+Received: (eyou send program); Tue, 21 Dec 2004 15:47:36 +0800
+X-EYOU-ORIGINAL-IP: 210.77.143.235
+X-EYOU-ENVELOPE-MAILFROM: toefl-bounces@server.cool-meeting.com
+Received: from unknown (HELO eyou.net) (unknown@210.77.143.235)
+ by 210.77.143.228 with SMTP; Tue, 21 Dec 2004 15:47:36 +0800
+Received: (eyou send program); Tue, 21 Dec 2004 15:41:49 +0800
+Message-ID: <303614909.28979@eyou.net>
+Received: from 202.38.99.65 by 210.77.143.235 with SMTP; Tue, 21 Dec 2004 15:41:46 +0800
+Received: from server.cool-meeting.com (localhost.localdomain [127.0.0.1])
+	by server.cool-meeting.com (8.12.8/8.12.8) with ESMTP id iBL86ilZ008512
+	for <qing@ccert.edu.cn>; Tue, 21 Dec 2004 16:07:25 +0800
+Received: from sun.com ([202.38.188.130])
+	by server.cool-meeting.com (8.12.8/8.12.8) with ESMTP id iBL86Ykr008508
+	for <qing@ccert.edu.cn>; Tue, 21 Dec 2004 16:06:35 +0800
+Received: from [210.25.128.113] ([210.25.128.113])
+	by sun.com (8.9.2/8.9.2) with ESMTP id PAA23167
+	for <qing@ccert.edu.cn>;
+	Tue, 21 Dec 2004 15:49:56 +0800 (CST)
+Message-ID: <41C7D3FC.3030102@compass.net.edu.cn>
+Date: Tue, 21 Dec 2004 15:42:52 +0800
+From: Shaozhi Ye <xin@compass.net.edu.cn>
+User-Agent: Mozilla Thunderbird 1.0 (Windows/20041206)
+X-Accept-Language: en-us, en
+MIME-Version: 1.0
+To: qing@ccert.edu.cn
+Content-Type: text/plain; charset=GB2312
+Content-Transfer-Encoding: 8bit
+Cc: 
+Subject: =?gb2312?B?ofEgs8/EvLy8yvW5x7jJtLTStaOszca9+Mq10rW66s28?=
+X-BeenThere: toefl@server.cool-meeting.com
+X-Mailman-Version: 2.1.2
+Precedence: list
+List-Id: &#26446;&#26143;&#21644;&#20182;&#30340;&#23398;&#29983;&#20204;
+	<toefl.server.cool-meeting.com>
+List-Unsubscribe: <http://server.cool-meeting.com/mailman/listinfo/toefl>,
+	<mailto:toefl-request@server.cool-meeting.com?subject=unsubscribe>
+List-Archive: <http://server.cool-meeting.com/mailman/private/toefl>
+List-Post: <mailto:toefl@server.cool-meeting.com>
+List-Help: <mailto:toefl-request@server.cool-meeting.com?subject=help>
+List-Subscribe: <http://server.cool-meeting.com/mailman/listinfo/toefl>,
+	<mailto:toefl-request@server.cool-meeting.com?subject=subscribe>
+Sender: toefl-bounces@server.cool-meeting.com
+Errors-To: toefl-bounces@server.cool-meeting.com
+X-UIDL: +Jb"!3e:!!`-;!!&!d!!
+
+诚募技术骨干创业，推进实业宏图
+公司是位于北京中关村地区为发展迅猛的终端移动通讯设备（如手机）产业提供嵌入式软件的创业型高科技公司，初期切入的核心技术和产品，在大陆地区具有极为广阔的应用市场，并且具有拓展海外市场的巨大前景。
+一是与手机输入法相关的智能信息软件平台，目前该产品的规划和技术资源，已经有比较好的储备，开发应该不难。 
+二是，针对手机厂商和渠道开发一款智能演示设备（软件是核心，硬件外包），开发难度可以逐渐加大。目前该产品处于市场空白，有数十万家终端目标用户点。
+我们希望凝聚志同道合的分别专长于技术、市场、运作的同仁，组成具有强有力的战斗力团队，开创出具备可持续技术才创新和增长潜力的受世界尊敬的跨国实业公司。
+目前公司主要由有PHILIPS、HP工作和合作经验的极富创业激情的人，负责市场开拓；你可以有机会带领技术团队负责软件开发组织和核心模块的开发。我们有信心将既定事业踏实推进。
+具体要求：
+1、    有需求分析、程序设计、编程、测试、移植的经验；
+2、    对嵌入式软件的移植和手机的软硬件诸如接口比较了解；
+3、    在技术开发和创新方面充满特别激情，并特别渴望和志同道合的其他专长的人形成团队开创一番伟业，能踏实钻研，不惧怕创业过程的困难和挑战。
+4、    最近一个月之内可全职参与开发，有相应经验已经工作过，如果是今年毕业的，不想单纯找一份工作，而想做技术骨干加入创业的，能保证最近开始基本全职投入的也可联系沟通。
+请将你的简历和联系信息发送到：partner@iukey.com。
+

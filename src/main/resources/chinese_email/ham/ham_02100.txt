@@ -1,0 +1,27 @@
+Return-Path: <bi@rbl.ccert.edu.cn>
+Received: from rbl.ccert.edu.cn (rbl.ccert.edu.cn [202.112.57.71])
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id i9G6QBWO020566
+	for <pan@ccert.edu.cn>; Sat, 16 Oct 2004 14:26:12 +0800 (CST)
+Received: from rbl.ccert.edu.cn (localhost.localdomain [127.0.0.1])
+	by rbl.ccert.edu.cn (8.12.11/8.12.11) with ESMTP id i9G6VnKh030793
+	for <pan@ccert.edu.cn>; Sat, 16 Oct 2004 14:31:50 +0800
+Received: (from qa@localhost)
+	by rbl.ccert.edu.cn (8.12.11/8.12.11/Submit) id i9G6VnKW030792;
+	Sat, 16 Oct 2004 14:31:49 +0800
+Date: Sat, 16 Oct 2004 14:31:49 +0800
+Message-Id: <200410160631.i9G6VnKW030792@rbl.ccert.edu.cn>
+Subject: =?gb2312?B?UmU6IMu1y7XVybfysNHQvcuutry9u7j4xt7X08qxtcTQxMDvsMk=?=
+To: pan@ccert.edu.cn
+From: Tran Quang Anh <bi@cernet.edu.cn>
+Content-Type: multipart/mixed; boundary="----------=_1097908310-2811-102"
+MIME-Version: 1.0
+X-UIDL: \j$"!g~F!!D~?"!eGU"!
+
+他说如果我同意呢,我们就马上结婚,然后我拿钱买房
+我说,我都没要求结婚一定要有房有车,结婚后咱们在以前奋斗买房
+他不乐意,他说他爸妈给我们出钱买车,还要买房,你们家也得出,
+可我家刚好也要买房啊,我哪里有钱出啊,ft现在即使有钱了,照他这么要的,我也不出了
+我发愁嫁人是怎么样啊?还有这样赔钱嫁闺女的不成?
+我都没和他要过彩礼,他倒挺不见外的,呵呵
+: 怎么不说自己没本事，然后好好努力工作呢
+

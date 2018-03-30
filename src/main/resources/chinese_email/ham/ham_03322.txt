@@ -1,0 +1,32 @@
+Return-Path: <yang@telus.net>
+Received: from priv-edtnes40.telusplanet.net (outbound05.telus.net [199.185.220.224])
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id i9IHJ5m1008626
+	for <cen@ccert.edu.cn>; Tue, 19 Oct 2004 01:19:07 +0800 (CST)
+Received: from cindy ([142.59.15.189]) by priv-edtnes40.telusplanet.net
+          (InterMail vM.6.01.03.02 201-2131-111-104-20040324) with SMTP
+          id <20041018171853.LRDS18440.priv-edtnes40.telusplanet.net@cindy>
+          for <cen@ccert.edu.cn>; Mon, 18 Oct 2004 11:18:53 -0600
+Message-ID: <000d01c4b63d$90151ea0$6501a8c0@cindy>
+From: "yang" <yang@telus.net>
+To: cen@ccert.edu.cn
+References: <002101c4b2ee$ae25f420$6501a8c0@cindy> <000701c4b4c8$d7df21c0$0e3270ca@CCERTDAWEI>
+Subject: Re: SA规则集
+Date: Tue, 19 Oct 2004 18:41:39 -0600
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 5.50.4942.400
+X-MimeOLE: Produced By Microsoft MimeOLE V5.50.4942.400
+X-UIDL: LiK"!;m(!!/\5"!MUh!!
+
+通信方向：
+（1）《信号与系统》笔记（不是讲义课件）（共7册，纸版）＋信号期中、期末考题（共9套，纸版）
+（2）李冬梅《模拟电路》课件（含课堂笔记和老师补充内容，纸版） 
+（3）王德生《数字电路》课件（含课堂笔记和老师补充内容，纸版） 
+（4）罗蝾、王德生的《数字电路》课件、高文涣、李冬梅《模拟电路》课件、（全部电子版）高文涣全程课堂录音   
+（5）数电、模电期中、期末考题（共12套，纸版）  
+（6）数电平时作业及解答（纸版）＋模电平时作业及解答（纸版，主要是高文涣《电子线路基础》的部分习题）  
+（7）电子系历年考研试题（信号、电子线路）
+物理电子学方向：
+（1）《电动力学》笔记（共9册，纸版）＋电动力学期中、期末考题（共6套，纸版）
+站内信联系！！
+

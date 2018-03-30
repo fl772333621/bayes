@@ -1,0 +1,32 @@
+Return-Path: <wen@mails.tsinghua.edu.cn>
+Received: from tsinghua.org.cn ([210.77.143.231])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id iB44IHOJ014943
+	for <wen@ccert.edu.cn>; Sat, 4 Dec 2004 12:18:19 +0800
+Received: (eyou send program); Sat, 04 Dec 2004 12:11:28 +0800
+Received: (eyou send program); Sat, 04 Dec 2004 12:11:27 +0800
+X-EYOU-ORIGINAL-IP: 210.77.143.235
+X-EYOU-ENVELOPE-MAILFROM: webmaster@mails.tsinghua.edu.cn
+Received: from unknown (HELO eyou.net) (unknown@210.77.143.235)
+ by 210.77.143.231 with SMTP; Sat, 04 Dec 2004 12:11:27 +0800
+Received: (eyou send program); Sat, 04 Dec 2004 12:26:29 +0800
+Message-ID: <302134389.08368@eyou.net>
+Received: from 166.111.8.16 by 210.77.143.235 with SMTP; Sat, 04 Dec 2004 12:26:28 +0800
+Received: (eyou send program); Sat, 04 Dec 2004 12:26:09 +0800
+Message-ID: <302134368.27586@mails.tsinghua.edu.cn>
+Received: (eyou send program); Sat, 04 Dec 2004 12:26:02 +0800
+Message-ID: <302134362.27439@mails.tsinghua.edu.cn>
+Date: Sat, 04 Dec 2004 12:08:31 +0800
+From: wen@mails.tsinghua.edu.cn
+Reply-To: wen@mails.tsinghua.edu.cn
+Subject: =?gb2312?B?UmU6INT1w7S2wcrpo6y2wcqyw7TK6brN16zHrrv5sb7Jz8O7udjPtQ==?=
+CC: 
+Content-Type: multipart/mixed; boundary="----------=_1102133900-10199-652"
+MIME-Version: 1.0
+X-UIDL: $%a!!f_<!!PdM"!ok6!!
+
+如果你是普通人就不要看这些例子，没用
+: 什么叫有钱？靠读书，靠学校，靠专业基本上不会成为有钱人。
+: 楼主认为应该去北邮读通信，那不用举盖茨的例子，就举国内通信行业的例子。华为老板重庆某二流大学，没毕业证。现在掌管年销售400多亿的公司。而北邮通信的学生去深圳也只是打工仔，在深圳可以供供楼，好点的养养车。其收入不见得比深圳本地农民多。
+: 赚钱是必须的，读书也是必须的。怎么读书，读什么书和赚钱基本上没关系。
+: ...................
+

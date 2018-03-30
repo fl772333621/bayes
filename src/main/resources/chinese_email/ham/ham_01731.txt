@@ -1,0 +1,32 @@
+Return-Path: <han@rbl.ccert.edu.cn>
+Received: from rbl.ccert.edu.cn (rbl.ccert.edu.cn [202.112.57.71])
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id i9E8CSJh005785
+	for <yun@ccert.edu.cn>; Thu, 14 Oct 2004 16:12:28 +0800 (CST)
+Received: from rbl.ccert.edu.cn (localhost.localdomain [127.0.0.1])
+	by rbl.ccert.edu.cn (8.12.11/8.12.11) with ESMTP id i9E8Huvo029108
+	for <yun@ccert.edu.cn>; Thu, 14 Oct 2004 16:17:57 +0800
+Received: (from qa@localhost)
+	by rbl.ccert.edu.cn (8.12.11/8.12.11/Submit) id i9E8HuZ6029107;
+	Thu, 14 Oct 2004 16:17:56 +0800
+Date: Thu, 14 Oct 2004 16:17:56 +0800
+Message-Id: <200410140817.i9E8HuZ6029107@rbl.ccert.edu.cn>
+Subject: =?gb2312?B?UmU6INPQz9+/7bT4us1BRFNMxMS49r/so78=?=
+To: yun@ccert.edu.cn
+From: Tran Quang Anh <han@cernet.edu.cn>
+Content-Type: multipart/mixed; boundary="----------=_1097741877-2811-40"
+MIME-Version: 1.0
+X-UIDL: 9B3"!-C'"!9h/"!$I,#!
+
+网通ADSL相对比较稳定
+我用的512K，按理论应该只能到512/8 = 64KBytes，可实际上数据传输最高能够到8x Kbytes, 基本上能够稳定在7x Kbytes。
+: 标  题: 有线宽带和ADSL哪个快？
+: 发信站: 水木社区 (Fri Jun 10 09:06:49 2005), 站内
+: 
+: 有线宽带1000￥/年，折合83元/月
+: ADSL，512K的120￥/月,1M的150/月,还要另加电话的座机费，我们有小灵通，所以多一部电话并没有多大意义，这样看的话貌似有线宽带划算，但不知道网速如何，用过的XDJM能不能给介绍一下?多谢!
+: 
+: --
+: 
+※ 修改:·ssh2 于 Jun 10 09:14:23 修改本文·[FROM: 211.151.90.*]
+: ※ 来源:·水木社区 newsmth.net·[FROM: 211.71.51.*]
+

@@ -1,0 +1,65 @@
+Return-Path: <lu@ccert.edu.cn>
+Received: from tsinghua.org.cn ([210.77.143.228])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id i8M3MMJJ019119
+	for <zhuang@ccert.edu.cn>; Wed, 22 Sep 2004 11:22:23 +0800
+Received: (eyou send program); Wed, 22 Sep 2004 11:32:15 +0800
+Received: (eyou send program); Wed, 22 Sep 2004 11:27:33 +0800
+X-EYOU-ORIGINAL-IP: 166.111.8.16
+X-EYOU-ENVELOPE-MAILFROM: zhenghui@ccert.edu.cn
+Received: from unknown (HELO mails.tsinghua.edu.cn) (unknown@166.111.8.16)
+ by 210.77.143.228 with SMTP; Wed, 22 Sep 2004 11:27:33 +0800
+Received: (eyou send program); Wed, 22 Sep 2004 11:21:32 +0800
+Message-ID: <295823292.09935@mails.tsinghua.edu.cn>
+Received: (eyou send program); Wed, 22 Sep 2004 11:21:23 +0800
+Message-ID: <295823283.06147@mails.tsinghua.edu.cn>
+Received: from unknown (HELO mails.tsinghua.edu.cn) (unknown@127.0.0.1)
+ by 127.0.0.1 with SMTP; Wed, 22 Sep 2004 11:21:23 +0800
+X-scanvirus: By Symantec Scan Engine
+X-scanresult: CLEAN
+Received: (eqmail ); 22 Sep 2004 03:21:05 -0000
+Received: from ccert.edu.cn (HELO home.ccert.edu.cn) (202.112.57.12)
+  by mails.tsinghua.edu.cn with SMTP; 22 Sep 2004 03:21:05 -0000
+Received: from home.ccert.edu.cn (localhost [127.0.0.1])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id i8M3CwYL018917;
+	Wed, 22 Sep 2004 11:12:58 +0800
+Received: (from majordomo@localhost)
+	by home.ccert.edu.cn (8.13.1/8.13.1/Submit) id i8M3CwNu018916;
+	Wed, 22 Sep 2004 11:12:58 +0800
+X-Authentication-Warning: home.ccert.edu.cn: majordomo set sender to owner-ccertstaff using -f
+Received: from ccertspark (puma.ccert.edu.cn [202.112.50.50])
+	(authenticated bits=0)
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id i8M3AW5w018861;
+	Wed, 22 Sep 2004 11:10:32 +0800
+From: "lu" <lu@ccert.edu.cn>
+To: zhuang@ccert.edu.cn
+Cc: <su@ccert.edu.cn>
+Subject: =?gb2312?B?ofEgyq7E6g==?=
+Date: Wed, 22 Sep 2004 11:23:56 +0800
+Message-ID: <000a01c4a053$988c2e70$323270ca@ccertspark>
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="----=_NextPart_000_000B_01C4A096.A6AF6E70"
+X-Priority: 3 (Normal)
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook, Build 10.0.6626
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.3790.181
+Importance: Normal
+Sender: owner-ccertstaff@home.ccert.edu.cn
+Precedence: bulk
+X-UIDL: %\O!!9SP!!/gV!!bZO!!
+
+某一天的凌晨，忽然感觉到一阵心痛，于是从睡梦中醒来。我静坐在床上，想着这多年的酸楚，不禁潸然泪下，我一直想融入她的生活，十年来一直在收集她的照片，直接或间接地打听她的消息，但是却越走越远，终于离去;我双手掩面，想要止住留下来的泪水，大张着嘴抽搐着；...;我忍不住开始小声地哭泣起来，让泪水流下，放开心底的感情让它流淌；...；我终于放声地大哭起来，任凭泪流满面...
+    ...
+    我在清华待了快整七年没有回去过，我从别人那里骗来她的照片，我自己从她那里要来照片，我从别人那里知道她有了男朋友，我从别人那里知道她要结婚，我从新年的短信里知道她已经结婚，今天，在我答辩完了之后的凌晨三点半，我看到美丽的新娘和她的另一半在一起的照片...
+    今年是个无春之年，我可怜的青春，从没有开始，便已经结束。
+    也许，今生我会是一个浪子，只有四处漂泊才能弥补心中的痛苦；也许，我会像阿甘那样，漫无目的地奔跑流浪多年之后，有一天突然觉得很累，终于安定下来；也许，在拿到第一个月的工资之后，我就以结婚为目标的，去寻找一个合适的女人。我不知道自己将来会是什么样。
+    我是以少数民族预科的方式进入清华的，在清华大学开始的两年，我过得很窘迫，曾经两次身上剩下不到一块钱；身体状况也不好，总是生病，每年至少有两三个月在感冒，甚至因此连家教都不敢去找；每年快放假的时候，大家都在忙着准备考试，我得想着从系里要一个勤工助学的名额，过年生病的时候也要做，开学后想着什么时候能拿到钱。当然，造成今天这样结局的，也不全是因为这些，也还有其它的一些事，如我经常逃课；几年没有回去之后，后来虽然我不再很缺钱，但心境已变，再也找不到回去的路，也不想再去找。
+    让我觉得最悲哀的，莫过于被这些种种的事情缠住，忘了其它的东西；有一天突然发觉，很多最可宝贵的东西，已经失去，无可挽回。
+    如果上天可以给人生一次重来的机会，我不想重来；我再无法接受这样的结果，哪怕想一想都怕。
+    
+    ...
+    思维很乱，文笔不好，又写得慢，天快亮了，不想再写了。至于所写的东西，大家爱怎么说就怎么说吧
+    这些年困难的时候承蒙身边同学的关照，在此谢过！
+    
+    我认识她不止十年，以十年为题只是想取个整数。
+

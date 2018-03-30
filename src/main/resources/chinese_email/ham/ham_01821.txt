@@ -1,0 +1,38 @@
+Return-Path: <he@home.ccert.edu.cn>
+Received: from home.ccert.edu.cn (localhost [127.0.0.1])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id j0O3tiHl014739;
+	Mon, 24 Jan 2005 11:55:44 +0800
+Received: (from majordomo@localhost)
+	by home.ccert.edu.cn (8.13.1/8.13.1/Submit) id j0O3tibO014738;
+	Mon, 24 Jan 2005 11:55:44 +0800
+X-Authentication-Warning: home.ccert.edu.cn: majordomo set sender to owner-ccertstaff using -f
+Received: from ccertspark (tu203021.ip.tsinghua.edu.cn [166.111.203.21])
+	(authenticated bits=0)
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id j0O3thP4014734
+	for <qiu@ccert.edu.cn>; Mon, 24 Jan 2005 11:55:44 +0800
+Reply-To: <he@cernet.edu.cn>
+From: "he" <he@ccert.edu.cn>
+To: qiu@ccert.edu.cn
+Subject: =?gb2312?B?UmU6INbQufrX3MvjysfFo8HL0ruw0Q==?=
+Date: Mon, 24 Jan 2005 12:05:48 +0800
+Message-ID: <001e01c501c9$fca4cc00$15cb6fa6@ccertspark>
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+X-Priority: 3 (Normal)
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook, Build 10.0.6626
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.3790.181
+Importance: Normal
+Content-Transfer-Encoding: 8bit
+X-MIME-Autoconverted: from base64 to 8bit by home.ccert.edu.cn id j0O3tiP4014736
+Sender: owner-ccertstaff@home.ccert.edu.cn
+Precedence: bulk
+X-UIDL: @-_"!,[H"!a8Q"!5ci!!
+
+热！
+: 我国坚决反对少数国家推行不成熟联合国改革方案
+: 新华网北京６月９日电（徐松  任珂）外交部发言人刘建超９日在记者会上表示，中国坚决反对少数国家推行不成熟联合国改革方案的做法，并对此表示担忧。 
+:     刘建超说，目前各国对联合国安理会改革的方案和思路分歧依然很大，在这样情况下，会员国应该通过民主协商，找到兼顾各方利益、能形成广泛共识的解决办法，维护会员国的团结和联合国的长远利益，而不是在一个有分歧的方案上修修补补。 
+: ...................
+

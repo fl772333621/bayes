@@ -1,0 +1,44 @@
+Return-Path: <gong@tsinghua.edu.cn>
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id iB14Biwe004952
+	for <huang@ccert.edu.cn>; Wed, 1 Dec 2004 12:11:44 +0800 (CST)
+Received: (eyou send program); Wed, 01 Dec 2004 11:56:35 +0800
+Message-ID: <301873395.03553@mail.tsinghua.edu.cn>
+Received: from unknown (HELO mail.tsinghua.edu.cn) (unknown@127.0.0.1)
+ by 127.0.0.1 with SMTP; Wed, 01 Dec 2004 11:56:35 +0800
+X-scanvirus: By Symantec Scan Engine
+X-scanresult: NOREP
+Received: (eqmail ); 1 Dec 2004 03:56:34 -0000
+Received: from unknown (HELO sony) (duanhx@166.111.204.117)
+  by localhost with SMTP; 1 Dec 2004 03:56:33 -0000
+Message-ID: <009201c4d75b$d8ad7a60$75cc6fa6@sony>
+From: "gong" <gong@tsinghua.edu.cn>
+To: huang@ccert.edu.cn
+Subject: =?gb2312?B?ofEg1tC/xtS6vMbL48v5zfjC58rS1dDGuL/N1/nR0L6/yfogKNeq1Ngp?=
+Date: Wed, 1 Dec 2004 12:11:33 +0800
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2900.2180
+Disposition-Notification-To: "Haixin Duan" <duanhx@tsinghua.edu.cn>
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+Content-Transfer-Encoding: 8bit
+X-MIME-Autoconverted: from base64 to 8bit by sea.net.edu.cn id iB14Biwe004952
+X-UIDL: pU6!!V&k!!A58!!9p2"!
+
+【 以下文字转载自 ParttimeJob 讨论区 】
+发信人: proxu (笑笑), 信区: ParttimeJob
+标  题: 中科院计算所网络室招聘客座研究生
+发信站: 水木社区 (Thu Jun  2 11:37:47 2005), 站内
+中科院计算所网络室招聘客座研究生
+招聘对象：在校研究生，计算机或者相关专业，熟悉Linux或者Windows下编程
+工作性质：全职，至少半年
+工作地点：中科院计算所（北京 中关村）
+工作待遇：与计算所研究生待遇相同（研究生津贴、午餐补助等）
+研究领域：移动切换、IPv6多播技术、QoS技术
+同时也欢迎没有确定毕业方向或者没有开题的研究生来实习或做毕业设计
+拟招聘1～2人
+有意者请将简历发给 xugang@ict.ac.cn
+

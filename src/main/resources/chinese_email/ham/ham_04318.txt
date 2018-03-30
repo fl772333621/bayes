@@ -1,0 +1,53 @@
+Return-Path: <gao@iscas.ac.cn>
+Received: from tsinghua.org.cn ([210.77.143.231])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id iBTBFk3r029221
+	for <hu@ccert.edu.cn>; Wed, 29 Dec 2004 19:15:50 +0800
+Received: (eyou send program); Wed, 29 Dec 2004 19:09:22 +0800
+Received: (eyou send program); Wed, 29 Dec 2004 19:09:21 +0800
+X-EYOU-ORIGINAL-IP: 210.77.143.235
+X-EYOU-ENVELOPE-MAILFROM: jos@iscas.ac.cn
+Received: from unknown (HELO eyou.net) (unknown@210.77.143.235)
+ by 210.77.143.231 with SMTP; Wed, 29 Dec 2004 19:09:21 +0800
+Received: (eyou send program); Wed, 29 Dec 2004 19:23:43 +0800
+Message-ID: <304319423.28971@eyou.net>
+Received: from 166.111.8.16 by 210.77.143.235 with SMTP; Wed, 29 Dec 2004 19:23:43 +0800
+Received: (eyou send program); Wed, 29 Dec 2004 19:24:30 +0800
+Message-ID: <304319470.09882@mails.tsinghua.edu.cn>
+Received: (eyou send program); Wed, 29 Dec 2004 19:24:30 +0800
+Message-ID: <304319470.26807@mails.tsinghua.edu.cn>
+Received: from unknown (HELO mails.tsinghua.edu.cn) (unknown@127.0.0.1)
+ by 127.0.0.1 with SMTP; Wed, 29 Dec 2004 19:24:30 +0800
+X-scanvirus: By Symantec Scan Engine
+X-scanresult: CLEAN
+X-Received: mail.iscas.ac.cn,159.226.5.56,20041229192428
+Received: from mail.iscas.ac.cn (159.226.5.56)
+  by localhost with SMTP; 29 Dec 2004 11:24:28 -0000
+Received: (qmail 8301 invoked by uid 503); 29 Dec 2004 11:21:42 -0000
+Received: from jos@iscas.ac.cn by mail.iscas.ac.cn by uid 0 with qmail-scanner-1.22 %=%=%=%=%(hbedv: 6.24.0.5/6.24.0.29. spamassassin: 2.60-cvs.  Clear:RC:0(159.226.4.93):SA:0(-98.9/9.0):. 
+ Processed in 1.128624 secs); 29 Dec 2004 11:21:42 -0000
+Received: from unknown (HELO fm) (jos@159.226.4.93)
+  by mail.iscas.ac.cn with SMTP; 29 Dec 2004 11:21:41 -0000
+Date: Wed, 29 Dec 2004 19:19:35 +0800
+From: "gao" <gao@iscas.ac.cn>
+Reply-To: gao@iscas.ac.cn
+To: hu@ccert.edu.cn
+Subject: =?gb2312?B?ofEgzsrSu7j2tPO80ra8u+HT9rW9tcTQoc7KzOI=?=
+Organization: Journal of Software
+X-mailer: Foxmail 5.0 [cn]
+Mime-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+X-Qmail-Scanner-Message-ID: <11043193026728288@mail.iscas.ac.cn>
+Content-Transfer-Encoding: 8bit
+X-MIME-Autoconverted: from base64 to 8bit by home.ccert.edu.cn id iBTBFk3r029221
+X-UIDL: \<U!!E0k!!S)+!!'=;!!
+
+终于领证了。于是就加入家庭版了，^_^
+这几天，LP要我改口叫他父母为爸妈，呵呵
+按理来说，这也无可厚非。但是对于我来说，总是觉得难以开口。
+我和LP恋爱多年，她父母和我也非常有感情。但是，以前一直都叫叔叔、阿姨，
+现在改口，一直觉得特别的困难。心里尝试了几次，但就是叫不出来。
+另外一个原因就是我总觉得我爸和我妈是无人能替代的，而且一些特殊的经历和原因也更加增强了我父母在我心中的地位。于是我心里也更加难以接受称呼另外的人爸妈，虽然这现在也是我的义务。
+P.S. 我和她父母关系很好，但是我就是克服不了这个障碍。LP为此也有些生气。
+麻烦大家谈谈你们是怎样完成这个转变的，谢谢
+

@@ -1,0 +1,31 @@
+Return-Path: <yun@rbl.ccert.edu.cn>
+Received: from rbl.ccert.edu.cn (rbl.ccert.edu.cn [202.112.57.71])
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id i972HeKX013544
+	for <cheng@ccert.edu.cn>; Thu, 7 Oct 2004 10:17:40 +0800 (CST)
+Received: from rbl.ccert.edu.cn (localhost.localdomain [127.0.0.1])
+	by rbl.ccert.edu.cn (8.12.11/8.12.11) with ESMTP id i972NbPO010943
+	for <cheng@ccert.edu.cn>; Thu, 7 Oct 2004 10:23:38 +0800
+Received: (from qa@localhost)
+	by rbl.ccert.edu.cn (8.12.11/8.12.11/Submit) id i972NbmT010942;
+	Thu, 7 Oct 2004 10:23:37 +0800
+Date: Thu, 7 Oct 2004 10:23:37 +0800
+Message-Id: <200410070223.i972NbmT010942@rbl.ccert.edu.cn>
+Subject: =?gb2312?B?UmU6IMfrzsqjrMjLtPO1xL3wyNrXqNK11PXDtNH5o78=?=
+To: cheng@ccert.edu.cn
+From: Tran Quang Anh <yun@cernet.edu.cn>
+Content-Type: multipart/mixed; boundary="----------=_1097115818-996-800"
+MIME-Version: 1.0
+X-UIDL: dN$!!-XR"!HJR"!-J*"!
+
+我不太清楚这里的“应用经济学”指什么
+但是既然和“理论经济学”相对
+应该包括管理学的所有学科
+金融学我不了解，不说了。
+会计学方面，人大在前三之外，尽管历史悠久，
+但是各个方面都已经全面被厦门、上财和清华赶超了。
+MIS则跟清华根本不在一个水平上。
+我认为人大胜在管理学的其它小分支上，比如人力资源、行政管理什么的...
+: 真不知道你为什么会笑死，你自己看吧http://edu.people.com.cn/GB/8216/31559/31599/3204451.html
+: 记得是点击“应用经济学”！
+: 唉。。。。。
+

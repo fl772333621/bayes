@@ -1,0 +1,96 @@
+Return-Path: <yuan@mails.tsinghua.edu.cn>
+Received: from tsinghua.org.cn ([210.77.143.228])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id i8S4m1qq029124
+	for <tian@ccert.edu.cn>; Tue, 28 Sep 2004 12:48:03 +0800
+Received: (eyou send program); Tue, 28 Sep 2004 12:58:14 +0800
+Received: (eyou send program); Tue, 28 Sep 2004 12:58:13 +0800
+X-EYOU-ORIGINAL-IP: 202.38.99.65
+X-EYOU-ENVELOPE-MAILFROM: toefl-bounces@server.cool-meeting.com
+Received: from unknown (HELO server.cool-meeting.com) (unknown@202.38.99.65)
+ by 210.77.143.228 with SMTP; Tue, 28 Sep 2004 12:58:13 +0800
+Received: from server.cool-meeting.com (localhost.localdomain [127.0.0.1])
+	by server.cool-meeting.com (8.12.8/8.12.8) with ESMTP id i8S4nQlf022410
+	for <tian@ccert.edu.cn>; Tue, 28 Sep 2004 12:49:34 +0800
+Received: from mails.tsinghua.edu.cn (mails.tsinghua.edu.cn [166.111.8.16])
+	by server.cool-meeting.com (8.12.8/8.12.8) with SMTP id i8S4nOkr022406
+	for <tian@ccert.edu.cn>; Tue, 28 Sep 2004 12:49:24 +0800
+Received: (eyou send program); Tue, 28 Sep 2004 12:39:48 +0800
+Message-ID: <296346388.28750@mails.tsinghua.edu.cn>
+Received: from unknown (HELO mails.tsinghua.edu.cn) (unknown@127.0.0.1)
+	by 127.0.0.1 with SMTP; Tue, 28 Sep 2004 12:39:48 +0800
+X-scanvirus: By Symantec Scan Engine
+X-scanresult: NOREP
+Received: (eqmail ); 28 Sep 2004 04:39:46 -0000
+Received: from tu172175.tsinghua.edu.cn (HELO hoho)
+	(zhuyangbo99@166.111.172.175)
+	by mails.tsinghua.edu.cn with SMTP; 28 Sep 2004 04:39:46 -0000
+Date: Tue, 28 Sep 2004 12:51:17 +0800
+From: "yuan" <yuan@mails.tsinghua.edu.cn>
+To: tian@ccert.edu.cn
+Subject: =?gb2312?B?ofEgW9XQxrhdz8i35sjtvP6xsb6p0dC+v9S6s8/GuEphdmGx4LPMyMvUsQ==?=
+X-mailer: Foxmail 5.0 [cn]
+Mime-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: 8bit
+X-MIME-Autoconverted: from base64 to 8bit by server.cool-meeting.com id
+	i8S4nOkr022406
+Cc: =?gb2312?B?zfjC59bQ0MRUb2VmbMzWwtvX6Q==?= <hou@ccert.edu.cn>
+X-BeenThere: toefl@server.cool-meeting.com
+X-Mailman-Version: 2.1.2
+Precedence: list
+List-Id: &#26446;&#26143;&#21644;&#20182;&#30340;&#23398;&#29983;&#20204;
+	<toefl.server.cool-meeting.com>
+List-Unsubscribe: <http://server.cool-meeting.com/mailman/listinfo/toefl>,
+	<mailto:toefl-request@server.cool-meeting.com?subject=unsubscribe>
+List-Archive: <http://server.cool-meeting.com/mailman/private/toefl>
+List-Post: <mailto:toefl@server.cool-meeting.com>
+List-Help: <mailto:toefl-request@server.cool-meeting.com?subject=help>
+List-Subscribe: <http://server.cool-meeting.com/mailman/listinfo/toefl>,
+	<mailto:toefl-request@server.cool-meeting.com?subject=subscribe>
+Sender: toefl-bounces@server.cool-meeting.com
+Errors-To: toefl-bounces@server.cool-meeting.com
+X-UIDL: ,O*!!Qh%!!jUj"!=!8!!
+
+[公司简介]　
+    先锋软件股份有限公司是国家规划布局内重点软件企业，国家重点高新技术企业。
+公司创立于1994年，一直从事应用软件的研发与推广，所从事的软件领域主要分布于
+电子政务、电子商务、企业信息化、军事软件等领域，是国际知名的知识管理（KM）
+软件供应商，也是全方位支持以LINUX开源软件为代表的国产软件体系的国内著名软
+件企业。在2005年全国软件100强评选中，先锋软件名列第81位。 
+    先锋软件北京研究院成立于2003年8月，是先锋集团公司战略发展的重要组成部分。
+研究院主要从事软件项目的研发和推广，着眼于开发高品质的、具有国际竞争力的知
+识资源管理（KRM）系列软件。在技术体系架构方面确立了以Linux和中间件技术为重
+点的研发方向，在业务上主要面向党政机关、企事业单位提供KRM知识资源管理系列软
+件的系统解决方案和管理咨询、工程实施、技术培训等服务。
+ 
+先锋软件：      http://www.aheadsoft.com.cn/
+                http://www.aheadsoft.com.cn/aheadgroup/index.jsp
+[招聘要求]
+1. 高级JAVA工程师（1名）
+职位描述：负责产品的技术研发和管理
+职位要求：
+（1）计算机或相关专业大学本科以上学历，两年以上Java Web项目开发经验；有过大
+型软件项目的管理、开发经历为佳；
+（2）精通J2EE技术，熟悉Structs的MVC设计构架和基于J2EE的多层架构体系，熟悉
+Hibernate等O/R映射技术；
+（3）精通中间件和数据库技术，如Tomcat，MySQL，Oracle；
+（4）精通网页技术，如Html，JavaScript，XML，XSL，TagLib；
+（5）具有团队合作精神，具有优秀的协调、沟通和组织能力； 
+（6）具有良好的英文阅读能力
+ 
+2. JAVA研发工程师（2名） 
+职位描述：负责产品的技术研发 
+职位要求：
+（1）计算机或相关专业大学本科以上学历，有一年以上Java编程经验；
+（2）精通Java语言编程，熟悉J2EE技术；
+（3）熟悉Struts技术或Hibernate技术
+（4）自学能力强，能独立解决实际问题；
+（5）具有团队合作精神，沟通较好； 
+（6）具有良好的英文阅读能力。
+（7）若研发经验丰富，有充裕的业余时间，欢迎在校学生兼职
+ 
+[其他]
+     以上拟招聘人员：工作地点为北京或南昌，待遇面议。
+     有意者请投简历到kzb@tsinghua.edu.cn 或 RedTank@126.com
+

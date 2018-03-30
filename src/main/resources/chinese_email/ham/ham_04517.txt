@@ -1,0 +1,29 @@
+Return-Path: <lin@rbl.ccert.edu.cn>
+Received: from rbl.ccert.edu.cn (rbl.ccert.edu.cn [202.112.57.71])
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id i97Nd97L027177
+	for <shen@ccert.edu.cn>; Fri, 8 Oct 2004 07:39:09 +0800 (CST)
+Received: from rbl.ccert.edu.cn (localhost.localdomain [127.0.0.1])
+	by rbl.ccert.edu.cn (8.12.11/8.12.11) with ESMTP id i97NjAr5029974
+	for <shen@ccert.edu.cn>; Fri, 8 Oct 2004 07:45:10 +0800
+Received: (from qa@localhost)
+	by rbl.ccert.edu.cn (8.12.11/8.12.11/Submit) id i97NjApF029973;
+	Fri, 8 Oct 2004 07:45:10 +0800
+Date: Fri, 8 Oct 2004 07:45:10 +0800
+Message-Id: <200410072345.i97NjApF029973@rbl.ccert.edu.cn>
+Subject: =?gb2312?B?UmU6INe8sbjNy9Gn?=
+To: shen@ccert.edu.cn
+From: Tran Quang Anh <lin@cernet.edu.cn>
+Content-Type: multipart/mixed; boundary="----------=_1097192710-1044-150"
+MIME-Version: 1.0
+X-UIDL: !n""!Y9W!!5/&#!%7e"!
+
+这些人真牛，这么会写文章，我都看了几百篇了，还是搞不出什么名堂
+: 标  题: Re: 准备退学
+: 发信站: 水木社区 (Sat Jun 18 12:02:06 2005), 站内
+: 
+: 
+: 你不应该退, 我觉得你是不知道怎么写文章罢了,可以告诉你很多人看了最多10篇文章就可以写出一篇EI检索的文章.你专门看上一段时间的文章,肯定能发够,老板那里你有了硬性指标后,自然会让你毕业
+: --
+: 
+: ※ 来源:·水木社区 http://newsmth.net·[FROM: 218.24.4.*]
+

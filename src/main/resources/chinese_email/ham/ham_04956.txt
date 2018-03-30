@@ -1,0 +1,70 @@
+Return-Path: <wen@mails.tsinghua.edu.cn>
+Received: from tsinghua.org.cn ([210.77.143.228])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id i8M3LZ74019098
+	for <yun@ccert.edu.cn>; Wed, 22 Sep 2004 11:21:38 +0800
+Received: (eyou send program); Wed, 22 Sep 2004 11:31:18 +0800
+Received: (eyou send program); Wed, 22 Sep 2004 11:31:17 +0800
+X-EYOU-ORIGINAL-IP: 202.38.99.65
+X-EYOU-ENVELOPE-MAILFROM: toefl-bounces@server.cool-meeting.com
+Received: from unknown (HELO server.cool-meeting.com) (unknown@202.38.99.65)
+ by 210.77.143.228 with SMTP; Wed, 22 Sep 2004 11:31:17 +0800
+Received: from server.cool-meeting.com (localhost.localdomain [127.0.0.1])
+	by server.cool-meeting.com (8.12.8/8.12.8) with ESMTP id i8M3LPlf012238
+	for <yun@ccert.edu.cn>; Wed, 22 Sep 2004 11:21:32 +0800
+Received: from mails.tsinghua.edu.cn (mails.tsinghua.edu.cn [166.111.8.16])
+	by server.cool-meeting.com (8.12.8/8.12.8) with SMTP id i8M3LNkr012234
+	for <yun@ccert.edu.cn>; Wed, 22 Sep 2004 11:21:23 +0800
+Received: (eyou send program); Wed, 22 Sep 2004 11:12:28 +0800
+Message-ID: <295822748.01842@mails.tsinghua.edu.cn>
+Received: from 202.112.55.97 by mails.tsinghua.edu.cn with HTTP;
+	Wed, 22 Sep 2004 11:12:28 +0800
+X-WebMAIL-MUA: [202.112.55.97]
+From: "wen" <wen@mails.tsinghua.edu.cn>
+To: yun@ccert.edu.cn
+Date: Wed, 22 Sep 2004 11:12:28 +0800
+Content-Type: text/plain
+Subject: =?gb2312?B?UmU6IMfrzspHUEG24MnZy+O436O/?=
+X-BeenThere: toefl@server.cool-meeting.com
+X-Mailman-Version: 2.1.2
+Precedence: list
+Reply-To: wen@mails.tsinghua.edu.cn
+List-Id: &#26446;&#26143;&#21644;&#20182;&#30340;&#23398;&#29983;&#20204;
+	<toefl.server.cool-meeting.com>
+List-Unsubscribe: <http://server.cool-meeting.com/mailman/listinfo/toefl>,
+	<mailto:toefl-request@server.cool-meeting.com?subject=unsubscribe>
+List-Archive: <http://server.cool-meeting.com/mailman/private/toefl>
+List-Post: <mailto:toefl@server.cool-meeting.com>
+List-Help: <mailto:toefl-request@server.cool-meeting.com?subject=help>
+List-Subscribe: <http://server.cool-meeting.com/mailman/listinfo/toefl>,
+	<mailto:toefl-request@server.cool-meeting.com?subject=subscribe>
+Sender: toefl-bounces@server.cool-meeting.com
+Errors-To: toefl-bounces@server.cool-meeting.com
+X-UIDL: '("#!G2X!!f/2!!XY;"!
+
+: 简历里面一般写GPA吗？
+: 我的只有3.12，不知道这个是怎么算的，是不是每个学校都一样？
+: 一般多少算高呢？
+: ...................
+GPA英语全称是grade point average，意思是平均成绩点数。美国多数大学对申请人GPA都有最低规定，不够最低要求的不予考虑。
+ 
+　　GPA一般用4分制计算，换算方法参见下表：
+　　百分制分数 等级 成绩点数
+　　90~100 A 4
+　　80~89 B 3
+　　70~79 C 2
+　　60~69 D 1
+　　60以下 F 0
+　　GPA的标准计算方法是将大学成绩的加权平均数乘以4，再除以100。比较常见的方法还有把各科成绩按等级乘以学求和再以总学分除之。
+　　例如某学生的五门课程的学分和成绩为：
+　　A课程四个学分，成绩92(A)；
+　　B课程三个学分，成绩80(B)；
+　　C课程两个学分，成绩98(A)；
+　　D课程六个学分，成绩70(C)；
+　　E课程三个学分，成绩89(B)。
+　　以上五项成绩GPA为：
+　　标准算法GPA＝［(92*4＋80*3＋98*2＋70*6＋89*3)*4］／［(4＋3＋2＋6＋3)*100］＝3.31
+　　常见算法GPA＝(4*4＋3*3＋2*4＋6*2＋3*3)／(4＋3＋2＋6＋3)＝3.00
+　　在具体运用中，美国大学经常采用总平均绩点与最后两年平均绩点。总平均绩点(Overall GPA)是将全部所修学科按上述方法计算出来的点数，最后两年平均绩点(GPA for the last two years)即将最后两年所修各科按上述方法计算出来的点数。
+　　在美国，90％的学校GPA计算方法是采取4分制(4.00 scale)的，仅有1％的学校会采取5分制，即A等成绩为5，B等为4，C等为3，D等为2，F等为1，这些学校的最低入学标准也就相应的提高了。中国学生在申请时，应按照自己原先学校采用的GPA制提供成绩，同时注明采用了哪一种的GPA制。
+　　对我国学生很不利的是中国大部分学校的评分都相当严，很多实际成绩很优秀的学生把分数换算成GPA后却还不够3.0，在有些大学里班上前5名学生的总平均成绩都可能会在82分以下，这样在申请美国大学时，GPA都要变成3.O或更低，只能进一些三四流的学校。为了消除这种不利，可以采用两种方法：一是在成绩单或是推荐信以及读书计划中说明这种GPA实际上是由于评分标准十分严格而导致的；二是在提供成绩单的时候，列明这样的成绩在全班，或是全系所排的名次以及百分比。
+

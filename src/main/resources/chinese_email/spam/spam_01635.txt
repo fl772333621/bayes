@@ -1,0 +1,32 @@
+Return-Path: <guo@tom.com>
+Received: from tom.com ([218.17.172.204])
+	by home.ccert.edu.cn (MIMEDefang) with ESMTP id NOQUEUE
+	for <guan@ccert.edu.cn>; Wed, 22 Jun 2005 17:41:20 +0800 (CST)
+Message-ID: <200506221741.0.501162227619034@home.ccert.edu.cn>
+Received: from WATER-51552F30F[192.168.1.100] by 163.com
+  with SMTP id 2164ECD8; Wed, 22 Jun 2005 17:58:30 +0900
+From: guo@tom.com
+Subject: =?gb2312?B?1sKyxs7x?=
+To: guan@ccert.edu.cn
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: 8bit
+Date: Wed, 22 Jun 2005 17:59:17 +0800
+X-Priority: 2
+X-Mailer: Foxmail 5.0 beta2
+
+尊敬的客户：
+　　我司是深圳工商局合法注册的综合性企业单位，并在广州，东莞和其他城市设有分公司。
+
+主要经营电脑电子配件，五金家电机械，化工机电产品，建筑安装，广告运输，房产租赁，
+
+修理修配，酒店服务，咨询服务等业务。
+
+　　现因我司业项多，消项少，有多余的发票可以代理开。（可在互联网和相关部门查询）。
+
+　　贵单位如有需要请致电联系。
+
+　　明辉实业（深圳）有限公司。　
+　　　
+　　联系人电话：深圳,13510640895 林先生,东莞 13763255352 谢先生　
+

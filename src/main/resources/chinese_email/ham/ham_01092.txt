@@ -1,0 +1,56 @@
+Return-Path: <cao@compass.net.edu.cn>
+Received: from tsinghua.org.cn ([210.77.143.228])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id i9A23wlv022038
+	for <jin@ccert.edu.cn>; Sun, 10 Oct 2004 10:04:01 +0800
+Received: (eyou send program); Sun, 10 Oct 2004 10:14:39 +0800
+Received: (eyou send program); Sun, 10 Oct 2004 10:14:37 +0800
+X-EYOU-ORIGINAL-IP: 202.38.99.65
+X-EYOU-ENVELOPE-MAILFROM: toefl-bounces@server.cool-meeting.com
+Received: from unknown (HELO server.cool-meeting.com) (unknown@202.38.99.65)
+ by 210.77.143.228 with SMTP; Sun, 10 Oct 2004 10:14:37 +0800
+Received: from server.cool-meeting.com (localhost.localdomain [127.0.0.1])
+	by server.cool-meeting.com (8.12.8/8.12.8) with ESMTP id i9A283lX011067
+	for <jin@ccert.edu.cn>; Sun, 10 Oct 2004 10:08:09 +0800
+Received: from compass.net.edu.cn ([202.112.0.90])
+	by server.cool-meeting.com (8.12.8/8.12.8) with ESMTP id i9A280kr011063
+	for <jin@ccert.edu.cn>; Sun, 10 Oct 2004 10:08:00 +0800
+Received: from [210.25.128.113] ([210.25.128.113])
+	by compass.net.edu.cn (8.9.2/8.9.2) with ESMTP id KAA11895
+	for <jin@ccert.edu.cn>;
+	Sun, 10 Oct 2004 10:03:42 +0800 (CST)
+Message-ID: <41689771.2060501@compass.net.edu.cn>
+Date: Sun, 10 Oct 2004 09:59:13 +0800
+From: Shaozhi Ye <cao@compass.net.edu.cn>
+User-Agent: Mozilla Thunderbird 0.8 (Windows/20040913)
+X-Accept-Language: en-us, en
+MIME-Version: 1.0
+To: jin@ccert.edu.cn
+Content-Type: text/plain; charset=GB2312
+Content-Transfer-Encoding: 8bit
+Cc: 
+Subject: =?gb2312?B?UmU6IMrcsrvBy8HLo6y9stK7z8LJvbartcS+xs+vt+fL1w==?=
+X-BeenThere: toefl@server.cool-meeting.com
+X-Mailman-Version: 2.1.2
+Precedence: list
+List-Id: &#26446;&#26143;&#21644;&#20182;&#30340;&#23398;&#29983;&#20204;
+	<toefl.server.cool-meeting.com>
+List-Unsubscribe: <http://server.cool-meeting.com/mailman/listinfo/toefl>,
+	<mailto:toefl-request@server.cool-meeting.com?subject=unsubscribe>
+List-Archive: <http://server.cool-meeting.com/mailman/private/toefl>
+List-Post: <mailto:toefl@server.cool-meeting.com>
+List-Help: <mailto:toefl-request@server.cool-meeting.com?subject=help>
+List-Subscribe: <http://server.cool-meeting.com/mailman/listinfo/toefl>,
+	<mailto:toefl-request@server.cool-meeting.com?subject=subscribe>
+Sender: toefl-bounces@server.cool-meeting.com
+Errors-To: toefl-bounces@server.cool-meeting.com
+X-UIDL: c26!!LN[!!LmY"!,+6!!
+
+分桌是分桌，不上桌是不上桌，你先弄清楚再发话
+很多地方的不上桌，就是女人们在厨房端个碗，站着，东东西西随便夹点儿什么吃。
+这个和另在一桌吃饭有本质区别，基本就是厨娘的待遇。
+如果你敢说这个也是平等，回头你回了家，试试张罗十几口人的饭菜，等别人吃的时候你端菜倒酒，自己站厨房啃馒头吃拨拉出来的一点儿菜星  :)
+: 我家是河南的，我们那里也是。不过女的除了娘家外不串亲戚，所谓不让女的上桌，
+: 应该指的是男亲戚来家串亲戚，而不让自家的女人上桌，不过想一下也能理解，总不能
+: 来的是男亲戚，让老婆孩子都做到席上吧？农村男的串亲戚，主要是喝酒，娶了河南
+: ...................
+

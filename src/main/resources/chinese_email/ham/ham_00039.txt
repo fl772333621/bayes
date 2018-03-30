@@ -1,0 +1,28 @@
+Return-Path: <pu@rbl.ccert.edu.cn>
+Received: from rbl.ccert.edu.cn (rbl.ccert.edu.cn [202.112.57.71])
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id i95FfWws020852
+	for <ning@ccert.edu.cn>; Tue, 5 Oct 2004 23:41:32 +0800 (CST)
+Received: from rbl.ccert.edu.cn (localhost.localdomain [127.0.0.1])
+	by rbl.ccert.edu.cn (8.12.11/8.12.11) with ESMTP id i95FlOEk028044
+	for <ning@ccert.edu.cn>; Tue, 5 Oct 2004 23:47:26 +0800
+Received: (from qa@localhost)
+	by rbl.ccert.edu.cn (8.12.11/8.12.11/Submit) id i95FlOwQ028043;
+	Tue, 5 Oct 2004 23:47:24 +0800
+Date: Tue, 5 Oct 2004 23:47:24 +0800
+Message-Id: <200410051547.i95FlOwQ028043@rbl.ccert.edu.cn>
+Subject: =?gb2312?B?ofEgKioqKsO7veK+9rGxvqm7p7/atcSxz9K1yfq/tLn9wLSjpKOko6SjpKOkKNeqKQ==?=
+To: ning@ccert.edu.cn
+From: Tran Quang Anh <pu@cernet.edu.cn>
+Content-Type: multipart/mixed; boundary="----------=_1096991246-996-432"
+MIME-Version: 1.0
+X-UIDL: UI_"!,aY!!_<Z"!6S)"!
+
+标题: ****没解决北京户口的毕业生看过来￥￥￥￥￥5 
+时间: 2005年 6月 4日 22:04:48 星期六 
+代公司发文 
+海淀高科技公司，现剩余2个应届本科毕业生指标，要求：统招统分，外语过四级。 
+专业为计算机、通信工程、网络安全、会计、市场营销、人力资源管理等13类紧俏 
+专业。有诚意者请速联系：86999635或hukou168@163.com 
+-- 
+※ Origin: 【北邮真情流露】    ◆ From: 221.218.17.* 
+

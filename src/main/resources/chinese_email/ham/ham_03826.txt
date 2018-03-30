@@ -1,0 +1,53 @@
+Return-Path: <lu@ns.6test.edu.cn>
+Received: from tsinghua.org.cn ([210.77.143.228])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id i9J1owG1003193
+	for <zhong@ccert.edu.cn>; Tue, 19 Oct 2004 09:50:59 +0800
+Received: (eyou send program); Tue, 19 Oct 2004 10:02:04 +0800
+Received: (eyou send program); Tue, 19 Oct 2004 10:02:02 +0800
+X-EYOU-ORIGINAL-IP: 202.38.99.65
+X-EYOU-ENVELOPE-MAILFROM: toefl-bounces@server.cool-meeting.com
+Received: from unknown (HELO server.cool-meeting.com) (unknown@202.38.99.65)
+ by 210.77.143.228 with SMTP; Tue, 19 Oct 2004 10:02:02 +0800
+Received: from server.cool-meeting.com (localhost.localdomain [127.0.0.1])
+	by server.cool-meeting.com (8.12.8/8.12.8) with ESMTP id i9J1v6lZ027013
+	for <zhong@ccert.edu.cn>; Tue, 19 Oct 2004 09:57:13 +0800
+Received: from ns.6test.edu.cn ([202.38.99.18])
+	by server.cool-meeting.com (8.12.8/8.12.8) with ESMTP id i9J1v4kr027009
+	for <zhong@ccert.edu.cn>; Tue, 19 Oct 2004 09:57:04 +0800
+Received: from [210.25.128.109] (helo=tsinghua89o1rm)
+	by ns.6test.edu.cn with asmtp (Exim 4.12) id 1CJjO2-0004rn-00
+	for Toefl@server.cool-meeting.com; Tue, 19 Oct 2004 10:06:06 +0800
+Message-ID: <004901c4b57d$d2bae660$6d8019d2@tsinghua89o1rm>
+From: "lu" <lu@ns.6test.edu.cn>
+To: zhong@ccert.edu.cn
+Date: Tue, 19 Oct 2004 09:48:38 +0800
+MIME-Version: 1.0
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2600.0000
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2600.0000
+Cc: 
+Subject: =?gb2312?B?UmU6IL+0v7Sjus7StcTE0NPRo6y9u7Tzsb6/xsn6yLTWu9PQ0rvHp7bgv+kgeno=?=
+X-BeenThere: toefl@server.cool-meeting.com
+X-Mailman-Version: 2.1.2
+Precedence: list
+List-Id: &#26446;&#26143;&#21644;&#20182;&#30340;&#23398;&#29983;&#20204;
+	<toefl.server.cool-meeting.com>
+List-Unsubscribe: <http://server.cool-meeting.com/mailman/listinfo/toefl>,
+	<mailto:toefl-request@server.cool-meeting.com?subject=unsubscribe>
+List-Archive: <http://server.cool-meeting.com/mailman/private/toefl>
+List-Post: <mailto:toefl@server.cool-meeting.com>
+List-Help: <mailto:toefl-request@server.cool-meeting.com?subject=help>
+List-Subscribe: <http://server.cool-meeting.com/mailman/listinfo/toefl>,
+	<mailto:toefl-request@server.cool-meeting.com?subject=subscribe>
+Content-Type: multipart/mixed; boundary="===============050978969085838099=="
+Sender: toefl-bounces@server.cool-meeting.com
+Errors-To: toefl-bounces@server.cool-meeting.com
+X-UIDL: T;:!!%l+#!PRG"!Z',!!
+
+交大本科1000多也没啥，呵呵，清华本科还有800的呢
+: http://www.fzone.cn/hompy/mini/knowledge/read.asp?h_id=7026&amp;BoardID=53481&amp;ThreadID=45888&amp;u_id=7186
+: 我的男朋友，是山东人但是交大本科生，我们是在网上认识的，在一起半年多了，周围人都说我检到宝乐，所谓的潜力股，可是到现在他毕业快一年了，还只拿一千多块，在上海她要租房子，开销比我打，还要还助学贷款，欠了一屁股债，我又不敢和父母说，好郁闷阿，我该怎么办，
+: 男主角的答复：我就是我女朋友（楼主）帖子里的“他”，她看了大家的回帖哭了，于是我就知道了有这个帖子的存在和我的这篇回复。认真地看了每个人的回复，我还是决定接着我女朋友的帖子来回复，人的遭遇不同对这件事的看法就不同，所以我选择只答复我女朋友的疑问。顺便
+: ...................
+

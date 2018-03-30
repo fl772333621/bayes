@@ -1,0 +1,32 @@
+Return-Path: <lin@rbl.ccert.edu.cn>
+Received: from rbl.ccert.edu.cn (rbl.ccert.edu.cn [202.112.57.71])
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id i96ARmj1002811
+	for <xia@ccert.edu.cn>; Wed, 6 Oct 2004 18:27:48 +0800 (CST)
+Received: from rbl.ccert.edu.cn (localhost.localdomain [127.0.0.1])
+	by rbl.ccert.edu.cn (8.12.11/8.12.11) with ESMTP id i96AXgjU026396
+	for <xia@ccert.edu.cn>; Wed, 6 Oct 2004 18:33:44 +0800
+Received: (from qa@localhost)
+	by rbl.ccert.edu.cn (8.12.11/8.12.11/Submit) id i96AXgWF026395;
+	Wed, 6 Oct 2004 18:33:42 +0800
+Date: Wed, 6 Oct 2004 18:33:42 +0800
+Message-Id: <200410061033.i96AXgWF026395@rbl.ccert.edu.cn>
+Subject: =?gb2312?B?ofEgzsrSu7j2QURTTCBtb2Rlbdf2wrfTybXEzsrM4g==?=
+To: xia@ccert.edu.cn
+From: Tran Quang Anh <lin@cernet.edu.cn>
+Content-Type: multipart/mixed; boundary="----------=_1097058824-996-562"
+MIME-Version: 1.0
+X-UIDL: $+V"!!p5"!c9\!!\FM"!
+
+家里有三台本本和一个台式机，不想用台式机作服务器，于是
+设置adsl做路由功能。
+现在情况是这样：
+如果一台机器和adsl直连，打开adsl路由功能，这台机器设置路由器为网关上网没问题，
+也可以ping通和用IE对adsl设置。
+但是如果要把adsl与三台机器设置成为局域网，问题就来了：几台机器之间互通没问题，
+可ADSL无论是用正线还是双机互联线，无论是连接在uplink口还是普通口，机器就是无法与
+adsl连接：ping不通，IE登不上adsl管理界面，更无法上网了。
+线我肯定没问题，大家知道这是怎么回事吗？Hub是10M的，网卡和网线是10/100M的，
+和这个有关系吗？
+看网上说有的电信单位把这种adsl路由方式在电信那端禁用了，请问北京是这样吗？
+谢谢大家！
+

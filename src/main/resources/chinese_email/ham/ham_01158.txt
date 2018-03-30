@@ -1,0 +1,48 @@
+Return-Path: <ding@mails.tsinghua.edu.cn>
+Received: from mails.tsinghua.edu.cn (mails.tsinghua.edu.cn [166.111.8.16])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id i8HCnKfm021816
+	for <kang@ccert.edu.cn>; Fri, 17 Sep 2004 20:49:20 +0800 (CST)
+Received: (eyou send program); Fri, 17 Sep 2004 20:44:18 +0800
+Message-ID: <295425058.08406@mails.tsinghua.edu.cn>
+Received: from unknown (HELO mails.tsinghua.edu.cn) (unknown@127.0.0.1)
+ by 127.0.0.1 with SMTP; Fri, 17 Sep 2004 20:44:18 +0800
+X-scanvirus: By Symantec Scan Engine
+X-scanresult: CLEAN
+Received: (eqmail ); 17 Sep 2004 12:44:17 -0000
+Received: from tu154210.tsinghua.edu.cn (HELO xiner) (xwang03@166.111.154.210)
+  by mails.tsinghua.edu.cn with SMTP; 17 Sep 2004 12:44:17 -0000
+Message-ID: <001c01c49cb5$43e63330$d29a6fa6@xiner>
+From: "ding" <ding@mails.tsinghua.edu.cn>
+To: kang@ccert.edu.cn
+Subject: =?gb2312?B?ofEgtbHO0sDPwcsoenosvt640LavKQ==?=
+Date: Fri, 17 Sep 2004 20:53:00 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0019_01C49CF8.514D7630"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2800.1437
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1441
+X-UIDL: PoX"!M1A!!#?J"!P2)"!
+
+当我把菜汤洒到自己的衣服上时，当我忘记怎样系鞋带时，请想一想当初我是如何手
+把手地教你。
+    
+当我一遍又一遍地重复你早已听腻的话语时，请耐心地听我说，不要打断我。你小的
+时候，我不得不重复那个讲过千百遍的故事，直到你进入梦乡。
+    
+当我需要你帮我洗澡时，请不要责备我，还记得小时候我千方百计哄你洗澡的情景吗？
+    
+当我对新科技和新技术不知所措时，请不要嘲笑我。想一想当初我怎样回答你的每一
+个“为什么”。
+    
+当我由于双腿疲劳而无法行走时，请伸出你年轻有力的手搀扶我，就像你小时候学习
+走路时，我扶你那样。
+    
+当我忽然忘记我们谈话的主题，请给我时间让我回想。其实对我来说，谈论什么并不
+重要，只要你能在一旁听我说，我就很满足。
+    
+当你看到老去的我，请不要悲伤。理解我，支持我，就像你刚开始学习如何生活时我
+对你那样。当初我引导你走上人生路，如今请伴我走完最后的路。给我你的爱和耐心，
+我会报以感激的微笑，这微笑中凝结着我对你无限的爱。
+

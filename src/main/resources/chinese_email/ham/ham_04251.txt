@@ -1,0 +1,54 @@
+Return-Path: <zhang@compass.net.edu.cn>
+Received: from tsinghua.org.cn ([210.77.143.231])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id j0KFwen4020537
+	for <guan@ccert.edu.cn>; Thu, 20 Jan 2005 23:58:40 +0800
+Received: (eyou send program); Thu, 20 Jan 2005 23:49:16 +0800
+Received: (eyou send program); Thu, 20 Jan 2005 23:49:15 +0800
+X-EYOU-ORIGINAL-IP: 210.77.143.235
+X-EYOU-ENVELOPE-MAILFROM: toefl-bounces@server.cool-meeting.com
+Received: from unknown (HELO eyou.net) (unknown@210.77.143.235)
+ by 210.77.143.231 with SMTP; Thu, 20 Jan 2005 23:49:15 +0800
+Received: (eyou send program); Fri, 21 Jan 2005 00:03:06 +0800
+Message-ID: <306236986.06650@eyou.net>
+Received: from 202.38.99.65 by 210.77.143.235 with SMTP; Fri, 21 Jan 2005 00:03:06 +0800
+Received: from server.cool-meeting.com (localhost.localdomain [127.0.0.1])
+	by server.cool-meeting.com (8.12.8/8.12.8) with ESMTP id j0KEJiv9013798
+	for <guan@ccert.edu.cn>; Thu, 20 Jan 2005 22:19:54 +0800
+Received: from sun.com ([202.38.188.130])
+	by server.cool-meeting.com (8.12.8/8.12.8) with ESMTP id j0KEJguL013794
+	for <guan@ccert.edu.cn>; Thu, 20 Jan 2005 22:19:42 +0800
+Received: (from ys@localhost) by sun.com (8.9.2/8.9.2) id AAA01120
+	for toefl@server.cool-meeting.com; Fri, 21 Jan 2005 00:13:47 +0800 (CST)
+Date: Fri, 21 Jan 2005 00:13:47 +0800
+From: Shaozhi Ye <zhang@compass.net.edu.cn>
+To: guan@ccert.edu.cn
+Message-ID: <20050120161347.GA1108@compass.net.edu.cn>
+Mime-Version: 1.0
+Content-Type: text/plain; charset=gb2312
+Content-Disposition: inline
+Content-Transfer-Encoding: 8bit
+User-Agent: Mutt/1.4.2.1i
+Subject: =?gb2312?B?UmU6IElUyO28/rmks8zKpsfz1rC8x6Ooz8KjqQ==?=
+X-BeenThere: toefl@server.cool-meeting.com
+X-Mailman-Version: 2.1.2
+Precedence: list
+List-Id: &#26446;&#26143;&#21644;&#20182;&#30340;&#23398;&#29983;&#20204;
+	<toefl.server.cool-meeting.com>
+List-Unsubscribe: <http://server.cool-meeting.com/mailman/listinfo/toefl>,
+	<mailto:toefl-request@server.cool-meeting.com?subject=unsubscribe>
+List-Archive: <http://server.cool-meeting.com/mailman/private/toefl>
+List-Post: <mailto:toefl@server.cool-meeting.com>
+List-Help: <mailto:toefl-request@server.cool-meeting.com?subject=help>
+List-Subscribe: <http://server.cool-meeting.com/mailman/listinfo/toefl>,
+	<mailto:toefl-request@server.cool-meeting.com?subject=subscribe>
+Sender: toefl-bounces@server.cool-meeting.com
+Errors-To: toefl-bounces@server.cool-meeting.com
+X-UIDL: XFa!!nU;"!9A_"!l/\!!
+
+不错！
+mark 先
+:     话说到了五一节找工作方面依旧没有实质进展。看来今年的劳动节注定不是给我这种无业游民准备的。平生头一次感到五一长假七天原来是如此的漫长。好不容易熬过了七天，本以为应该会有一些起色。没想到节后第一周竟然没有一家跟我联系。呜呼！快郁闷疯了。罢了罢了，俺
+:     周二回京以后正逢北京下了一场绵绵的细雨。雨水洗去了尘埃，清新了城市，叫俺有一种青岛三日北京三秋的感觉，再次回到北京，仿佛恍如隔世。看来俺这种咸鱼翻身的日子快来了！果然当天下午还在睡梦之中，我的手机响了。。。
+: 6、第六家是一家电子消费品方面的公司，在多媒体方面属于老牌很有实力的那种。同样是第一轮技术面试（包括笔试）。笔试包括测IQ的和C语言的。智商测试中的问题都是比较老套的题目。比如N个球用天平测几次可以把坏球挑出来，4个人速度不同要过桥求最短时间等等。看来经常
+: ...................
+

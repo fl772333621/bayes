@@ -1,0 +1,54 @@
+Return-Path: <zhao@compass.net.edu.cn>
+Received: from tsinghua.org.cn ([210.77.143.228])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id i8K51SR7003824
+	for <peng@ccert.edu.cn>; Mon, 20 Sep 2004 13:01:34 +0800
+Received: (eyou send program); Mon, 20 Sep 2004 13:11:21 +0800
+Received: (eyou send program); Mon, 20 Sep 2004 13:11:20 +0800
+X-EYOU-ORIGINAL-IP: 202.38.99.65
+X-EYOU-ENVELOPE-MAILFROM: toefl-bounces@server.cool-meeting.com
+Received: from unknown (HELO server.cool-meeting.com) (unknown@202.38.99.65)
+ by 210.77.143.228 with SMTP; Mon, 20 Sep 2004 13:11:20 +0800
+Received: from server.cool-meeting.com (localhost.localdomain [127.0.0.1])
+	by server.cool-meeting.com (8.12.8/8.12.8) with ESMTP id i8K517lV008937
+	for <peng@ccert.edu.cn>; Mon, 20 Sep 2004 13:01:13 +0800
+Received: from compass.net.edu.cn ([202.112.0.90])
+	by server.cool-meeting.com (8.12.8/8.12.8) with ESMTP id i8K516kr008933
+	for <peng@ccert.edu.cn>; Mon, 20 Sep 2004 13:01:06 +0800
+Received: from [210.25.128.113] ([210.25.128.113])
+	by compass.net.edu.cn (8.9.2/8.9.2) with ESMTP id NAA18106
+	for <peng@ccert.edu.cn>;
+	Mon, 20 Sep 2004 13:00:11 +0800 (CST)
+Message-ID: <414E62F2.7020108@compass.net.edu.cn>
+Date: Mon, 20 Sep 2004 12:56:18 +0800
+From: Shaozhi Ye <zhao@compass.net.edu.cn>
+User-Agent: Mozilla Thunderbird 0.8 (Windows/20040913)
+X-Accept-Language: en-us, en
+MIME-Version: 1.0
+To: peng@ccert.edu.cn
+Content-Type: text/plain; charset=gb2312
+Content-Transfer-Encoding: 8bit
+Cc: 
+Subject: =?gb2312?B?UmU6IM6qyrLDtG1tyfrG+KO/ztLV4tH51/a21MLvo78=?=
+X-BeenThere: toefl@server.cool-meeting.com
+X-Mailman-Version: 2.1.2
+Precedence: list
+List-Id: &#26446;&#26143;&#21644;&#20182;&#30340;&#23398;&#29983;&#20204;
+	<toefl.server.cool-meeting.com>
+List-Unsubscribe: <http://server.cool-meeting.com/mailman/listinfo/toefl>,
+	<mailto:toefl-request@server.cool-meeting.com?subject=unsubscribe>
+List-Archive: <http://server.cool-meeting.com/mailman/private/toefl>
+List-Post: <mailto:toefl@server.cool-meeting.com>
+List-Help: <mailto:toefl-request@server.cool-meeting.com?subject=help>
+List-Subscribe: <http://server.cool-meeting.com/mailman/listinfo/toefl>,
+	<mailto:toefl-request@server.cool-meeting.com?subject=subscribe>
+Sender: toefl-bounces@server.cool-meeting.com
+Errors-To: toefl-bounces@server.cool-meeting.com
+X-UIDL: YU0"!TK["!hMj"!``Z"!
+
+闹着玩的也生气,真没意思
+没幽默感.我要是她.我就还会把你的脸蛋揪住.
+:       今天本来聊天聊的好好的，突然mm掐了我大腿一下，挺痛的，而且出奇不易，我当时吓了一跳，然后就回掐了她一下，也用了点力，当时我可能有点激动，不知道为什么，但是掐过以后我连忙说，不痛吧，可能声音大了点对她说，你掐我干什么？然后嘴上愤愤的说，你掐我一下，我也报复一下........说这个的时候我其实觉得开玩笑似的，但是她就不给我说话了，陈着脸......
+:       然后我解释说自己也不是故意想掐她，只是当时实在吓了一跳，带点本能的反应......她依然，我当时觉得没什么，可能就这一下，一会儿就好了，我也不会劝人，就默坐着。
+:       一会儿她居然站起来走了，我当然紧跟上，走了一会儿，问她去哪，一副不爱搭理人的样子，看着我像陌生人，我说，至于嘛？一件小事至于这样嘛？开始我还陪着笑脸，觉得没什么事情，后来发现她确实生气啦，我更不爽了，本来就是闹着完的........
+: ...................
+

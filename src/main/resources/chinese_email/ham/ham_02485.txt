@@ -1,0 +1,26 @@
+Return-Path: <kang@rbl.ccert.edu.cn>
+Received: from rbl.ccert.edu.cn (rbl.ccert.edu.cn [202.112.57.71])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id i9T3SU1N026449
+	for <yi@ccert.edu.cn>; Fri, 29 Oct 2004 11:28:30 +0800
+Received: from rbl.ccert.edu.cn (localhost.localdomain [127.0.0.1])
+	by rbl.ccert.edu.cn (8.12.11/8.12.11) with ESMTP id i9T3jaNx016322
+	for <yi@ccert.edu.cn>; Fri, 29 Oct 2004 11:45:54 +0800
+Received: (from qa@localhost)
+	by rbl.ccert.edu.cn (8.12.11/8.12.11/Submit) id i9T3jVdS016317;
+	Fri, 29 Oct 2004 11:45:31 +0800
+Date: Fri, 29 Oct 2004 11:45:31 +0800
+Message-Id: <200410290345.i9T3jVdS016317@rbl.ccert.edu.cn>
+Subject: Re: 明天北京的同学想聚一聚 (转载)
+To: yi@ccert.edu.cn
+From: kang@rbl.ccert.edu.cn
+Content-Type: multipart/mixed; boundary="----------=_1099021559-20866-134"
+MIME-Version: 1.0
+X-UIDL: -MJ"!KZ%!!h*X"!~ef"!
+
+有多少是为了搞科研的？我觉得我不是，我就是有点聪明，会考试学不好突击了总能考好
+的那种。高中同学说我100%适合文科，我理科好上了理科。大学没努力学，考研也不知道
+怎么考得那么好，本来是个别人说的适合去工作当女强人的那种，因为喜欢了一个要读博
+士的男生，觉得4年就换一个博士也不错，主要是爱情发昏，就跑去申请和他同一个导师，结果不知道是不是名额有限，反正我被批准了人家被挤掉了。ft to death,看了那么久的
+论文，发现自己贪玩本来就不是搞科研的料。却又不甘心中途转硕。硬着头皮往下读吧，
+bless all 郁闷的兄弟姐妹，有句话说得好，只有博士能理解博士！
+

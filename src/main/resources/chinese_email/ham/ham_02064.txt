@@ -1,0 +1,34 @@
+Return-Path: <mo@home.ccert.edu.cn>
+Received: from home.ccert.edu.cn (localhost [127.0.0.1])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id j2H1Jstl016811;
+	Thu, 17 Mar 2005 09:19:54 +0800
+Received: (from majordomo@localhost)
+	by home.ccert.edu.cn (8.13.1/8.13.1/Submit) id j2H1JsV9016810;
+	Thu, 17 Mar 2005 09:19:54 +0800
+X-Authentication-Warning: home.ccert.edu.cn: majordomo set sender to owner-ccertstaff using -f
+Received: from kill ([202.112.50.201])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with SMTP id j2H1JoV9016805
+	for <qiu@ccert.edu.cn>; Thu, 17 Mar 2005 09:19:51 +0800
+Message-Id: <200503170119.j2H1JoV9016805@home.ccert.edu.cn>
+Date: Thu, 17 Mar 2005 09:30:09 +0800
+From: "mo" <mo@ccert.edu.cn>
+Reply-To: mo@ccert.edu.cn
+To: qiu@ccert.edu.cn
+Subject: =?gb2312?B?UmU6INK71rHS1M6qztLDx8rH1+7H18PctcQg1NrSu8bwvsXE6iC7ucrH0qq31g==?=
+Organization: CCERT
+X-mailer: Foxmail 5.0 beta2 [cn]
+Mime-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: 8bit
+X-MIME-Autoconverted: from base64 to 8bit by home.ccert.edu.cn id j2H1JsV9016808
+Sender: owner-ccertstaff@home.ccert.edu.cn
+Precedence: bulk
+X-UIDL: TW7!!1W;!!K#;"!#P#!!
+
+中国式离婚
+: 潜水很久了,觉得虽然是很多人在心烦时写些家庭琐事,写的人貌似心乱，而文不乱；评的人中肯而有逻辑,觉得很有水平的是。我一直不敢贸然灌水，今天确实很需要倾诉，不想说给亲人，怕他们担心，不想说给熟人，怕他们正忙，如果你今天正好有空，看到了，就随意写几句话，多�
+: 我和他在一起亲密无间整整九年了，结婚也4年了吧，其中还有一年人在两地，每晚他睡前都必须给我打一两个小时的长途电话，最长的一次分离也只有一个多月我们没有到对方的地方去探望。那时候我们钱不多，几千块钱月入基本上就在电话费和车票里了。后来我们终于在一起了，�
+: 我们是那么了解对方，经过一夜的坦诚交谈、抱头痛哭，我们就要分手了，就在这样的清晨，朦胧睡去，他还习惯性的要抓住我的胳膊，把脚压在我身上，仿佛怕我乘他睡着跑了。今天我就去找房子，打算尽快搬出去，尽早结束彷徨中的痛苦，好重新开始。
+: ...................
+

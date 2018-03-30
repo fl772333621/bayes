@@ -1,0 +1,57 @@
+Return-Path: <lv@compass.net.edu.cn>
+Received: from tsinghua.org.cn ([210.77.143.228])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id i8K52sfc003857
+	for <lai@ccert.edu.cn>; Mon, 20 Sep 2004 13:02:55 +0800
+Received: (eyou send program); Mon, 20 Sep 2004 13:12:47 +0800
+Received: (eyou send program); Mon, 20 Sep 2004 13:12:41 +0800
+X-EYOU-ORIGINAL-IP: 202.38.99.65
+X-EYOU-ENVELOPE-MAILFROM: toefl-bounces@server.cool-meeting.com
+Received: from unknown (HELO server.cool-meeting.com) (unknown@202.38.99.65)
+ by 210.77.143.228 with SMTP; Mon, 20 Sep 2004 13:12:41 +0800
+Received: from server.cool-meeting.com (localhost.localdomain [127.0.0.1])
+	by server.cool-meeting.com (8.12.8/8.12.8) with ESMTP id i8K52Rlf009066
+	for <lai@ccert.edu.cn>; Mon, 20 Sep 2004 13:02:33 +0800
+Received: from compass.net.edu.cn ([202.112.0.90])
+	by server.cool-meeting.com (8.12.8/8.12.8) with ESMTP id i8K52Pkr009062
+	for <lai@ccert.edu.cn>; Mon, 20 Sep 2004 13:02:25 +0800
+Received: from [210.25.128.113] ([210.25.128.113])
+	by compass.net.edu.cn (8.9.2/8.9.2) with ESMTP id NAA18129
+	for <lai@ccert.edu.cn>;
+	Mon, 20 Sep 2004 13:01:30 +0800 (CST)
+Message-ID: <414E6342.4000009@compass.net.edu.cn>
+Date: Mon, 20 Sep 2004 12:57:38 +0800
+From: Shaozhi Ye <lv@compass.net.edu.cn>
+User-Agent: Mozilla Thunderbird 0.8 (Windows/20040913)
+X-Accept-Language: en-us, en
+MIME-Version: 1.0
+To: lai@ccert.edu.cn
+Content-Type: text/plain; charset=gb2312
+Content-Transfer-Encoding: 8bit
+X-MIME-Autoconverted: from quoted-printable to 8bit by server.cool-meeting.com
+	id i8K52Pkr009062
+Cc: 
+Subject: [TOEFL] [Fwd: Biometric =?gb2312?b?U2VjdXJpdHm/zrPMyrG85Lj8uMRd?=
+X-BeenThere: toefl@server.cool-meeting.com
+X-Mailman-Version: 2.1.2
+Precedence: list
+List-Id: &#26446;&#26143;&#21644;&#20182;&#30340;&#23398;&#29983;&#20204;
+	<toefl.server.cool-meeting.com>
+List-Unsubscribe: <http://server.cool-meeting.com/mailman/listinfo/toefl>,
+	<mailto:toefl-request@server.cool-meeting.com?subject=unsubscribe>
+List-Archive: <http://server.cool-meeting.com/mailman/private/toefl>
+List-Post: <mailto:toefl@server.cool-meeting.com>
+List-Help: <mailto:toefl-request@server.cool-meeting.com?subject=help>
+List-Subscribe: <http://server.cool-meeting.com/mailman/listinfo/toefl>,
+	<mailto:toefl-request@server.cool-meeting.com?subject=subscribe>
+Sender: toefl-bounces@server.cool-meeting.com
+Errors-To: toefl-bounces@server.cool-meeting.com
+X-UIDL: D%%!!Ng&!!%S8!!&Y/"!
+
+我看到一哥们的辞职信里这么说：
+“这两年，由于工作性质和作息时间，我的身体受到了极大的伤害，现在的体检报告简直和大学毕业进入D公司时的体检报告判若两人:
+脂肪肝，甘油三脂高，胆固醇高，血糖高，转氨酶高，视力从当时的1.5下降到现在的0.6，体重由130斤变成了现在的170斤。
+我还清楚的记得当时大夫说: 少吃，尤其是晚餐，8点以后不要进食；多运动；尽量减少眼睛对这电脑的时间。当时我听了一乐，对他说:我每天要工作到深夜甚至凌晨，8点以后不进食是不可能的，很长时间就只睡5~6个小时，每天抽出1个小时运动也是不可能的;我每天要面对电脑16个小时，否则我就要失业。大夫听了，无语。 ”
+真有这么恐怖么？
+四大看起来也不是太赚啊，6k左右,要在长安街一线租房，刨去吃的穿的和打车费，还能剩多少?资本家真是可恶啊？剩余价值剥夺的忒狠了吧？
+前几天看到一哥们说市场化媒体的记者也很累，难道学文科出身的就天生苦禄命?
+

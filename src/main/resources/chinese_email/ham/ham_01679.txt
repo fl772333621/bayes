@@ -1,0 +1,32 @@
+Return-Path: <cen@hit.edu.cn>
+Received: from hit.edu.cn (mx.hit.edu.cn [202.118.224.153])
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id i9R66921024067
+	for <shen@ccert.edu.cn>; Wed, 27 Oct 2004 14:06:10 +0800 (CST)
+Received: from 218.9.122.203 (HELO IBM16C26729934) (envelope-from xinwang@hit.edu.cn)
+	by mx.hit.edu.cn (quarkmail-1.2.1) with ESMTP id S508483AbUJ0GWQ
+	for qa@cernet.edu.cn; Wed, 27 Oct 2004 14:22:16 +0800
+Message-ID: <000901c4bbeb$40474de0$d9ec76ca@IBM16C26729934>
+From: "cen" <cen@hit.edu.cn>
+To: shen@ccert.edu.cn
+References: <002a01c485cc$aac97ad0$dc3270ca@CCERTDAWEI> <000c01c4873a$73a9fe70$0200a8c0@IBM16C26729934> <000b01c48785$cf7ea480$3601510a@CCERTDAWEI> <298757713.04612@eyou.net> <007e01c4bbcf$057dc750$083270ca@CCERTDAWEI>
+Subject: =?gb2312?B?UmU6IMv9vs3V4tH5yfrG+MHL?=
+Date: Wed, 27 Oct 2004 14:07:30 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0006_01C4BC2E.4C2BE880"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2800.1106
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1106
+X-UIDL: ]YP!!ImL"!3l##!-,:"!
+
+: 下午聊天，我说我眼睛疼，回去洗澡然后上网找她。结果我忘记了，去看书了。她晚上给我打电话，我给她解释，她不听，就生气了。很大。我该怎么办啊。我也是为了学习啊
+  我可以负责任地告诉你，你女友很生气，后果很严重...
+  我前天晚上就是因为类似的事情跟我家猪头宝大吵一架
+  吵到差点分手
+  (所以才有他要我承诺永远不离开他的事，这是前因，哈哈)
+  而且，他不过是回信息回得晚一点，就被我骂到狗血淋头
+  如果他像你一样，"忘记"回信息的话
+  那他就准备等著领我的"好人卡"吧，哈哈
+  所以劝你，赶紧道歉先吧~~~
+

@@ -1,0 +1,61 @@
+Return-Path: <liu@mails.tsinghua.edu.cn>
+Received: from tsinghua.org.cn ([210.77.143.232])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with SMTP id j3P361SF017241
+	for <rao@ccert.edu.cn>; Mon, 25 Apr 2005 11:06:12 +0800
+Received: (eyou send program); Mon, 25 Apr 2005 11:22:24 +0800
+Message-ID: <314399344.22259@tsinghua.org.cn>
+X-EYOU-AUTOFORWARD: tsinghua.org.cn
+Received: (eyou send program); Mon, 25 Apr 2005 11:22:24 +0800
+Message-ID: <314399344.20090@tsinghua.org.cn>
+Received: from unknown (HELO eyou.net) (210.77.143.235)
+ by 210.77.143.232 with SMTP; Mon, 25 Apr 2005 11:22:24 +0800
+X-EYOU-SPAMVALUE: 0
+Received: (eyou anti_spam gateway 3.0); Mon, 25 Apr 2005 11:11:57 +0800
+Message-ID: <314398717.03087@eyou.net>
+Received: from 202.112.49.111 by 210.77.143.235 with SMTP; Mon, 25 Apr 2005 11:11:56 +0800
+Received: from Garfield. (localhost [IPv6:::1])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with ESMTP id j3P3IWbF089855
+	for <rao@ccert.edu.cn>; Mon, 25 Apr 2005 11:18:41 +0800 (CST)
+	(envelope-from toefl-bounces@gradinfo.net.edu.cn)
+Received: from [202.112.49.111] (Garfield [202.112.49.111])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with ESMTP id j3P3ITj5089851
+	for <rao@ccert.edu.cn>; Mon, 25 Apr 2005 11:18:30 +0800 (CST)
+	(envelope-from lguohan00@mails.tsinghua.edu.cn)
+Message-ID: <426C634D.5060106@mails.tsinghua.edu.cn>
+Date: Mon, 25 Apr 2005 11:26:05 +0800
+From: Guohan Lu <liu@mails.tsinghua.edu.cn>
+Organization: Tsinghua University
+User-Agent: Mozilla Thunderbird 1.0 (Windows/20041206)
+X-Accept-Language: en-us, en
+MIME-Version: 1.0
+To: rao@ccert.edu.cn
+Content-Type: multipart/mixed; boundary="----------=_1114398373-9980-318"
+Subject: =?gb2312?B?UmU6ILzFxK/I59Gp?=
+X-BeenThere: toefl@gradinfo.net.edu.cn
+X-Mailman-Version: 2.1.5
+Precedence: list
+Reply-To: liu@mails.tsinghua.edu.cn
+List-Id: "&#26446; &#26143; &#21644; &#20182; &#30340; &#23398; &#29983;
+	&#20204; " <toefl.gradinfo.net.edu.cn>
+List-Unsubscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=unsubscribe>
+List-Archive: <http://gradinfo.net.edu.cn/mailman/private/toefl>
+List-Post: <mailto:toefl@gradinfo.net.edu.cn>
+List-Help: <mailto:toefl-request@gradinfo.net.edu.cn?subject=help>
+List-Subscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=subscribe>
+Sender: toefl-bounces@gradinfo.net.edu.cn
+Errors-To: toefl-bounces@gradinfo.net.edu.cn
+X-UIDL: IGd"!kY#"!ME!#!Gbn"!
+
+不敢苟同拉
+我觉得独自一人蛮好
+虽然也会偶尔略感孤独
+但大多是也觉得悠然自得
+快乐要自己给自己
+寂寞也是自己告诉自己的
+: 寂寞如雪。
+: 《Friends》里有一个片断，Chadeler为了讨好Monica的父亲，赶紧迎上去拿大衣，不小心说了一句：原来外面下雪了啊。结果惹得他的未来老岳父怒目而视，以为他拿自己的头皮屑取乐。其实寂寞也如头皮屑一般。人人都害怕寂寞，很多时候大家都以为自己处理得很好， oh，我的生活一点也不寂寞!但也许是不小心，也许是现实生活压力太大，不经意间你就会发现，寂寞其实一直陪着你，不过有的时候藏得比较好而已。
+: 心情苦闷。一个人在园子里走来走去，踩在木板桥上给人一种很踏实的感觉。草地朦朦胧胧，隐隐有柳条在夜风中晃动，远处遥遥传来汽车的马达声。抬头想看看今晚的月色，发现其实是阴天，虽然刚下过雨，但仍然没有月亮，连星星也不见。尽管园子里那么多矮矮的灯光，给人一种月色朦胧的效果。有一栋楼的顶层没有挂窗帘，胖大的吸顶灯肆无忌惮地发射着光芒，看它就不像是月夜了。
+: ...................
+

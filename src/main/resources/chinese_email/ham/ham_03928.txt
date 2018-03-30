@@ -1,0 +1,33 @@
+Return-Path: <qiu@rbl.ccert.edu.cn>
+Received: from rbl.ccert.edu.cn (rbl.ccert.edu.cn [202.112.57.71])
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id i96B9pZf003468
+	for <jian@ccert.edu.cn>; Wed, 6 Oct 2004 19:09:51 +0800 (CST)
+Received: from rbl.ccert.edu.cn (localhost.localdomain [127.0.0.1])
+	by rbl.ccert.edu.cn (8.12.11/8.12.11) with ESMTP id i96BFlDp024185
+	for <jian@ccert.edu.cn>; Wed, 6 Oct 2004 19:15:48 +0800
+Received: (from qa@localhost)
+	by rbl.ccert.edu.cn (8.12.11/8.12.11/Submit) id i96BFlwD024184;
+	Wed, 6 Oct 2004 19:15:47 +0800
+Date: Wed, 6 Oct 2004 19:15:47 +0800
+Message-Id: <200410061115.i96BFlwD024184@rbl.ccert.edu.cn>
+Subject: =?gb2312?B?ofEgudjT2iBDYW1lcmEtUmVhZHkgY29weQ==?=
+To: jian@ccert.edu.cn
+From: Tran Quang Anh <qiu@cernet.edu.cn>
+Content-Type: multipart/mixed; boundary="----------=_1097061348-996-610"
+MIME-Version: 1.0
+X-UIDL: 0e%#!FS`"!Q<$#!Y!\!!
+
+  就是会议要你提交camera-ready 文档(PDF格式)
+  以便能够达到清晰的印刷效果.
+  
+   国外印刷厂把拼版称为照相制版,即Camera-Ready
+   恭喜你要出会议论文了!  什么国际牛会议啊???
+ps:
+     论文的一级标题最好用加粗的12号Times-New-Roman字体，
+       并在题目的上下各留半个空行。
+     二级标题也用加粗的12号Times-New-Roman字体，但仅在其前面留有半个空行哦
+  
+: 收到会议录用通知上写着
+: submit the final Camera-Ready copy 
+: 什么意思啊？
+

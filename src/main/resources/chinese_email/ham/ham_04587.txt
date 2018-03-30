@@ -1,0 +1,25 @@
+Return-Path: <gan@rbl.ccert.edu.cn>
+Received: from rbl.ccert.edu.cn (rbl.ccert.edu.cn [202.112.57.71])
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id i96BCvST003505
+	for <xue@ccert.edu.cn>; Wed, 6 Oct 2004 19:12:57 +0800 (CST)
+Received: from rbl.ccert.edu.cn (localhost.localdomain [127.0.0.1])
+	by rbl.ccert.edu.cn (8.12.11/8.12.11) with ESMTP id i96BIpat028073
+	for <xue@ccert.edu.cn>; Wed, 6 Oct 2004 19:18:53 +0800
+Received: (from qa@localhost)
+	by rbl.ccert.edu.cn (8.12.11/8.12.11/Submit) id i96BIpdY028072;
+	Wed, 6 Oct 2004 19:18:51 +0800
+Date: Wed, 6 Oct 2004 19:18:51 +0800
+Message-Id: <200410061118.i96BIpdY028072@rbl.ccert.edu.cn>
+Subject: =?gb2312?B?UmU6ILjmy9/O0rjD1PXDtLDso7+31srWysfX7rrDtcTRodTxwvCjvw==?=
+To: xue@ccert.edu.cn
+From: Tran Quang Anh <gan@cernet.edu.cn>
+Content-Type: multipart/mixed; boundary="----------=_1097061533-996-616"
+MIME-Version: 1.0
+X-UIDL: `A+"!b%*!!3J""!T/9!!
+
+鸟大了，什么林子都有！
+什么世道！
+:        认识他是在网上，两年前（03年），我刚参加完高考，当时只是随便聊聊。后来我进了大学，学校在大连。随着时间的推移，我们的关系也开始有些变化。我刚刚上大一没多久，他向我表白，我虽然对他印象不错，但是还是拒绝了他，因为我觉得他是清华的，而我只是一个普通的大学。但是隔了一段时间我觉得我还是放部下他。最后我们开始恋爱了。
+:        每次聊天我都是视频，而他都是在宿舍上，他宿舍没有设想头。所以我从来都没见过他，他倒是见过我很多次了。直到第一学期结束，寒假时，我回山东，他让我从北京过（其实从大连到山东有直达的车），为了见他，我去了。见他第一面很失望很失望。但是因为在网上谈了很长时间，觉得他人还可以，不愿就这么结束。于是恋爱继续了下去。
+:       在后来的大连与北京的半年奔波中，我发现我真的爱上他了。后来在04年的五一长假中，他来大连，我们发生了关系。他信誓旦旦的告诉我，他会爱我一辈子会好好的照顾我一辈子，一定会娶我。我相信了，而且从那次后我越来越无法控制自己的思念，于是在去年暑假我毅然面对所有人的反对（他除外）退了学，我当时读的专业是我们学校最好的，而且是我比较喜欢的。但是为了和他再一起，我不顾家长老师亲戚朋友的所有反对，退了学准备回家乡重新复习一年。去年暑假我从大连路过到了北京，他鼓励我，让我留在他身边自学，然后明年参加高考。我? ...................
+

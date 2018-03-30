@@ -1,0 +1,31 @@
+Return-Path: <guan@rbl.ccert.edu.cn>
+Received: from rbl.ccert.edu.cn (rbl.ccert.edu.cn [202.112.57.71])
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id i982EHMi029762
+	for <cai@ccert.edu.cn>; Fri, 8 Oct 2004 10:14:17 +0800 (CST)
+Received: from rbl.ccert.edu.cn (localhost.localdomain [127.0.0.1])
+	by rbl.ccert.edu.cn (8.12.11/8.12.11) with ESMTP id i982KIA6028157
+	for <cai@ccert.edu.cn>; Fri, 8 Oct 2004 10:20:18 +0800
+Received: (from qa@localhost)
+	by rbl.ccert.edu.cn (8.12.11/8.12.11/Submit) id i982KIUZ028156;
+	Fri, 8 Oct 2004 10:20:18 +0800
+Date: Fri, 8 Oct 2004 10:20:18 +0800
+Message-Id: <200410080220.i982KIUZ028156@rbl.ccert.edu.cn>
+Subject: =?gb2312?B?UmU6ILHIvc/T9MPG?=
+To: cai@ccert.edu.cn
+From: Tran Quang Anh <guan@cernet.edu.cn>
+Content-Type: multipart/mixed; boundary="----------=_1097202018-1044-198"
+MIME-Version: 1.0
+X-UIDL: K1l"!EOJ"!Zc>"!%RO!!
+
+  大概是各人价值观不一样吧,一个是称,你当领导秘书,也能算得上是年薪20万吧.
+一个是称,我认识有人回国,夫妇在上海都是20多万年薪,你将来回国也差不多.就这样
+情况下,你让我怎么说? ---(我薪水也就是中等偏上,也没觉得能镇他们).
+  不作技术的人没法理解工科学生的道路,就跟我不理解文科学生的道路一样,我倒是
+还能尊重对方的选择,没想到别人不尊重我的选择,这我比较郁闷.
+  至于前途,钱途,这是要靠过几年的事实说话,郁闷在于,一开始就被对方不尊重.
+  
+: 你工资高不？高的话，甩出话去，镇他们一把。
+: 现在就是money talk.
+: 他们小看你，肯定是看你是搞技术的，没啥大钱途。
+: ...................
+

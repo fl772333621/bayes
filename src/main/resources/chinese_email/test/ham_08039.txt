@@ -1,0 +1,33 @@
+Return-Path: <wen@rbl.ccert.edu.cn>
+Received: from rbl.ccert.edu.cn (rbl.ccert.edu.cn [202.112.57.71])
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id i97L9RMp025706
+	for <li@ccert.edu.cn>; Fri, 8 Oct 2004 05:09:27 +0800 (CST)
+Received: from rbl.ccert.edu.cn (localhost.localdomain [127.0.0.1])
+	by rbl.ccert.edu.cn (8.12.11/8.12.11) with ESMTP id i97LFS9N025749
+	for <li@ccert.edu.cn>; Fri, 8 Oct 2004 05:15:28 +0800
+Received: (from qa@localhost)
+	by rbl.ccert.edu.cn (8.12.11/8.12.11/Submit) id i97LFS7x025748;
+	Fri, 8 Oct 2004 05:15:28 +0800
+Date: Fri, 8 Oct 2004 05:15:28 +0800
+Message-Id: <200410072115.i97LFS7x025748@rbl.ccert.edu.cn>
+Subject: =?gb2312?B?UmU6IMfrzsrSu8/CzPTVvbGtu/HIq7n6vbG/ybK7v8nS1LGjx+W7qrXE0dCjvw==?=
+To: li@ccert.edu.cn
+From: Tran Quang Anh <wen@cernet.edu.cn>
+Content-Type: multipart/mixed; boundary="----------=_1097183728-1044-120"
+MIME-Version: 1.0
+X-UIDL: h?O"!T?^!!_f/!!0I)"!
+
+排名？
+: 标  题: 请问一下挑战杯获全国奖可不可以保清华的研？
+: 发信站: 水木社区 (Mon Jun 27 19:05:14 2005), 站内
+: 
+: 偶大三，西安交大热能动力专业；
+: 给宝钢一个实验室做了一套数据处理的软件，陕西省是特等奖，现在报到全国，不出差错的话，因该可以拿个一等奖的。
+: 三篇论文，一篇已经收录（交大学报），另两篇正在评审，有申请著作权。
+: 想到清华热能工程系学点跟燃气轮机相关的东西。
+: 各位看看，又没有保的可能啊？
+: （全国的决赛是10月份在复旦举行）
+: --
+: 
+: ※ 来源:·水木社区 http://newsmth.net·[FROM: 202.200.234.*]
+

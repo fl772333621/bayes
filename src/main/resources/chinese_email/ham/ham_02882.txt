@@ -1,0 +1,33 @@
+Return-Path: <luo@rbl.ccert.edu.cn>
+Received: from rbl.ccert.edu.cn (rbl.ccert.edu.cn [202.112.57.71])
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id i97I9PoK023762
+	for <huang@ccert.edu.cn>; Fri, 8 Oct 2004 02:09:25 +0800 (CST)
+Received: from rbl.ccert.edu.cn (localhost.localdomain [127.0.0.1])
+	by rbl.ccert.edu.cn (8.12.11/8.12.11) with ESMTP id i97IFPEM028693
+	for <huang@ccert.edu.cn>; Fri, 8 Oct 2004 02:15:26 +0800
+Received: (from qa@localhost)
+	by rbl.ccert.edu.cn (8.12.11/8.12.11/Submit) id i97IFPtK028692;
+	Fri, 8 Oct 2004 02:15:25 +0800
+Date: Fri, 8 Oct 2004 02:15:25 +0800
+Message-Id: <200410071815.i97IFPtK028692@rbl.ccert.edu.cn>
+Subject: =?gb2312?B?ofEgob6zz8a4ob/XqLzm1rDOxLC4yMvUsbj3wb3D+w==?=
+To: huang@ccert.edu.cn
+From: Tran Quang Anh <luo@cernet.edu.cn>
+Content-Type: multipart/mixed; boundary="----------=_1097172926-1044-62"
+MIME-Version: 1.0
+X-UIDL: 6RU"!o"'!!"mC"!n!,"!
+
+本公司为国际消费品品牌在中国大陆地区的代理机构，因业务发展需要，现诚聘专兼职文案人员各两名。
+主要工作：
+广告文案的撰写；
+软性宣传文章的撰写；
+公关专题活动的策划；
+总结报告。
+要求：
+本科或以上学历（在读但有一定空闲时间亦可）；
+良好的文字能力；
+较为敏锐的市场触觉；
+人品好，身体健康，相貌端庄，工作勤奋，具团队合作精神；
+有过广告设计经验者优先考虑。
+以上职位具备良好的发展前景，性别不限，待遇面议，全职工作地点为西四环五颗松地铁站附近，兼职面议。有意者请将简历邮件至lqjwxd@163.com
+

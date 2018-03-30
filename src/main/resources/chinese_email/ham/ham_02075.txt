@@ -1,0 +1,70 @@
+Return-Path: <li@mails.tsinghua.edu.cn>
+Received: from tsinghua.org.cn ([210.77.143.232])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with SMTP id j3P361SF017241
+	for <ren@ccert.edu.cn>; Mon, 25 Apr 2005 11:06:12 +0800
+Received: (eyou send program); Mon, 25 Apr 2005 11:22:24 +0800
+Message-ID: <314399344.22259@tsinghua.org.cn>
+X-EYOU-AUTOFORWARD: tsinghua.org.cn
+Received: (eyou send program); Mon, 25 Apr 2005 11:22:24 +0800
+Message-ID: <314399344.20090@tsinghua.org.cn>
+Received: from unknown (HELO eyou.net) (210.77.143.235)
+ by 210.77.143.232 with SMTP; Mon, 25 Apr 2005 11:22:24 +0800
+X-EYOU-SPAMVALUE: 0
+Received: (eyou anti_spam gateway 3.0); Mon, 25 Apr 2005 11:11:57 +0800
+Message-ID: <314398717.03087@eyou.net>
+Received: from 202.112.49.111 by 210.77.143.235 with SMTP; Mon, 25 Apr 2005 11:11:56 +0800
+Received: from Garfield. (localhost [IPv6:::1])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with ESMTP id j3P3IWbF089855
+	for <ren@ccert.edu.cn>; Mon, 25 Apr 2005 11:18:41 +0800 (CST)
+	(envelope-from toefl-bounces@gradinfo.net.edu.cn)
+Received: from [202.112.49.111] (Garfield [202.112.49.111])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with ESMTP id j3P3ITj5089851
+	for <ren@ccert.edu.cn>; Mon, 25 Apr 2005 11:18:30 +0800 (CST)
+	(envelope-from lguohan00@mails.tsinghua.edu.cn)
+Message-ID: <426C634D.5060106@mails.tsinghua.edu.cn>
+Date: Mon, 25 Apr 2005 11:26:05 +0800
+From: Guohan Lu <li@mails.tsinghua.edu.cn>
+Organization: Tsinghua University
+User-Agent: Mozilla Thunderbird 1.0 (Windows/20041206)
+X-Accept-Language: en-us, en
+MIME-Version: 1.0
+To: ren@ccert.edu.cn
+Content-Type: multipart/mixed; boundary="----------=_1114398373-9980-318"
+Subject: =?gb2312?B?UmU6IM7S06a4w8iltbHD2Mrpu7nKx7Wxs8zQ8tSx?=
+X-BeenThere: toefl@gradinfo.net.edu.cn
+X-Mailman-Version: 2.1.5
+Precedence: list
+Reply-To: li@mails.tsinghua.edu.cn
+List-Id: "&#26446; &#26143; &#21644; &#20182; &#30340; &#23398; &#29983;
+	&#20204; " <toefl.gradinfo.net.edu.cn>
+List-Unsubscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=unsubscribe>
+List-Archive: <http://gradinfo.net.edu.cn/mailman/private/toefl>
+List-Post: <mailto:toefl@gradinfo.net.edu.cn>
+List-Help: <mailto:toefl-request@gradinfo.net.edu.cn?subject=help>
+List-Subscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=subscribe>
+Sender: toefl-bounces@gradinfo.net.edu.cn
+Errors-To: toefl-bounces@gradinfo.net.edu.cn
+X-UIDL: IGd"!kY#"!ME!#!Gbn"!
+
+跟着这些贪官，待遇差不到哪儿去
+: 标  题: Re: 我应该去当秘书还是当程序员
+: 发信站: 水木社区 (Sat Jun 11 01:54:51 2005), 站内
+: 
+: 说的是秘书，不是官，哪里的一把手都不会穷
+: : 错了吧
+: : 安徽阜阳、那么穷的地方，贪官查出来的钱一点不亚于大地方的
+: 
+: 
+: --
+: 最近看过的电影
+: Stage Beauty             舞台美人    7.5/10
+: Head-On                  勇往直前    7.5/10
+: Les Choristes          放牛班的春天   8+/10
+: The Phantom of the Opera 歌剧魅影    8.5/10
+: A Letter From An Unknown Woman 一个陌生女人的来信 7.5/10
+: 
+: 
+: ※ 来源:·水木社区 newsmth.net·[FROM: 202.205.10.*]
+

@@ -1,0 +1,57 @@
+Return-Path: <xia@cernet.edu.cn>
+Received: from tsinghua.org.cn ([210.77.143.228])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id i9I3ODWU017206
+	for <ren@ccert.edu.cn>; Mon, 18 Oct 2004 11:24:15 +0800
+Received: (eyou send program); Mon, 18 Oct 2004 11:35:16 +0800
+Received: (eyou send program); Mon, 18 Oct 2004 11:34:23 +0800
+X-EYOU-ORIGINAL-IP: 202.112.5.66
+X-EYOU-ENVELOPE-MAILFROM: sundh@cernet.edu.cn
+Received: from unknown (HELO sea.net.edu.cn) (unknown@202.112.5.66)
+ by 210.77.143.228 with SMTP; Mon, 18 Oct 2004 11:34:23 +0800
+Received: from 8jmd55gawpz3tjh ([202.112.50.7])
+	(authenticated bits=0)
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id i9I3QnJx025282;
+	Mon, 18 Oct 2004 11:26:50 +0800 (CST)
+Message-ID: <005601c4b4c2$5abe90f0$073270ca@8jmd55gawpz3tjh>
+From: "xia" <xia@cernet.edu.cn>
+To: ren@ccert.edu.cn
+Subject: =?gb2312?B?ofEg1dDGuElUue2yxQ==?=
+Date: Mon, 18 Oct 2004 11:27:10 +0800
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="----=_NextPart_000_0054_01C4B505.682A67D0"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2800.1437
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1441
+X-UIDL: 9~V"!W]Q!![/&!!+Rk"!
+
+[待遇,职位]
+  月薪 4000元 - 12000元 (能力增长则薪水提高)
+[雇用形式]
+  全职(兼职亦可)
+[必须具有的能力,经验]
+  - C/C++, Ruby, Perl, java 等的程序开发经验
+  - Linux/UNIX 等 POSIX 体系 OS 的使用经验
+  - 一定程度的网络知识
+  - 除了自己负责的项目之外，还要有提出新看法，新意见的能力
+  - 用英语交流的能力
+[希望具有的能力，经验]
+  - 数据挖掘, P2P，社会网络分析,网络游戏,搜索引擎等领域的研发经验
+  - 用日语交流的能力
+  - mysql, PostgreSQL 等的RDBMS的使用经验
+[工作时间]
+  Flex time工作制
+  核心工作时间:13:00-18:00
+  每天工作8小时
+  
+[联络方法]
+  请将包含以下内容的电子邮件发送至 recruit-cn@ce-lab.net 。
+  1. 包括以下内容的求职信(英文或日文)
+   a. 您的职位意向
+   b. 您为什么选择在CE工作?
+   c. ‘按照自己的兴趣\'做的程序或系统的简单的说明(简单说明即可)
+  2. 简历两份(一份英文或日文,一份中文)
+[公司主页]
+   http://cn.ce-lab.net/zh-cn/
+

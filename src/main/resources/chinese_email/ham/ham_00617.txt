@@ -1,0 +1,72 @@
+Return-Path: <qian@mails.tsinghua.edu.cn>
+Received: from tsinghua.org.cn ([210.77.143.231])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id j0GFkVUp015394
+	for <cheng@ccert.edu.cn>; Sun, 16 Jan 2005 23:46:31 +0800
+Received: (eyou send program); Sun, 16 Jan 2005 23:37:04 +0800
+Received: (eyou send program); Sun, 16 Jan 2005 23:37:04 +0800
+X-EYOU-ORIGINAL-IP: 210.77.143.235
+X-EYOU-ENVELOPE-MAILFROM: toefl-bounces@server.cool-meeting.com
+Received: from unknown (HELO eyou.net) (unknown@210.77.143.235)
+ by 210.77.143.231 with SMTP; Sun, 16 Jan 2005 23:37:04 +0800
+Received: (eyou send program); Sun, 16 Jan 2005 23:51:03 +0800
+Message-ID: <305890663.13798@eyou.net>
+Received: from 202.38.99.65 by 210.77.143.235 with SMTP; Sun, 16 Jan 2005 23:51:02 +0800
+Received: from server.cool-meeting.com (localhost.localdomain [127.0.0.1])
+	by server.cool-meeting.com (8.12.8/8.12.8) with ESMTP id j0GE6nv9008002
+	for <cheng@ccert.edu.cn>; Sun, 16 Jan 2005 22:06:56 +0800
+Received: from mails.tsinghua.edu.cn (mails.tsinghua.edu.cn [166.111.8.16])
+	by server.cool-meeting.com (8.12.8/8.12.8) with SMTP id j0GE6guL007998
+	for <cheng@ccert.edu.cn>; Sun, 16 Jan 2005 22:06:42 +0800
+Message-Id: <200501161406.j0GE6guL007998@server.cool-meeting.com>
+X-scanvirus: By SOPHOS Scan Engine
+X-scanresult: CLEAN
+X-Received: unknown,61.49.117.60,20050116235609
+Received: from unknown (HELO ft250) (dais00@61.49.117.60)
+	by localhost with SMTP; 16 Jan 2005 15:56:09 -0000
+From: "qian" <qian@mails.tsinghua.edu.cn>
+To: cheng@ccert.edu.cn
+Subject: RE: [TOEFL] skype
+Date: Sun, 16 Jan 2005 23:57:54 +0800
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+X-Mailer: Microsoft Office Outlook, Build 11.0.5510
+Thread-Index: AcTPfgwoH4h5ozwIREmjihAykx4DqAsZbnRg
+In-Reply-To: <301009375.27868@mails.tsinghua.edu.cn>
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2527
+Content-Transfer-Encoding: 8bit
+X-MIME-Autoconverted: from base64 to 8bit by server.cool-meeting.com id
+	j0GE6guL007998
+Cc: "'toefl'" <yang@ccert.edu.cn>
+X-BeenThere: toefl@server.cool-meeting.com
+X-Mailman-Version: 2.1.2
+Precedence: list
+List-Id: &#26446;&#26143;&#21644;&#20182;&#30340;&#23398;&#29983;&#20204;
+	<toefl.server.cool-meeting.com>
+List-Unsubscribe: <http://server.cool-meeting.com/mailman/listinfo/toefl>,
+	<mailto:toefl-request@server.cool-meeting.com?subject=unsubscribe>
+List-Archive: <http://server.cool-meeting.com/mailman/private/toefl>
+List-Post: <mailto:toefl@server.cool-meeting.com>
+List-Help: <mailto:toefl-request@server.cool-meeting.com?subject=help>
+List-Subscribe: <http://server.cool-meeting.com/mailman/listinfo/toefl>,
+	<mailto:toefl-request@server.cool-meeting.com?subject=subscribe>
+Sender: toefl-bounces@server.cool-meeting.com
+Errors-To: toefl-bounces@server.cool-meeting.com
+X-UIDL: F$V!!Gf#"!g(M"!$(7!!
+
+【 以下文字转载自 Love 讨论区 】
+发信人: kangmm (小黛), 信区: Love
+标  题: 穿越南北的恋情－－我和bf的故事 10
+发信站: 水木社区 (Sun Jun  5 00:45:56 2005), 站内
+10。
+        此后的日子，我的很多昔日朋友纷纷涌来看我，听说我们班的英子生了个大胖小子，听说霖和昔日同桌敏走在一起，而曾经的欢喜冤家强和娜已经整天形影不离，珍和她订婚的bf分开了，见天萎靡不振，我想着自己失败的感情，也只有苦涩地笑。
+        麒天天给我短信，我有时回复，有时不理,等到第二天再回。他告诉我，他给我发一条短信1.5元，估计我回复也至少1元，这样子花钱我觉得有点不甘心。
+        那时麒在我的生活中算什么呢？说实在话我并没有喜欢他，无论是否有联系，我心中充斥的只有那个男生的身影，还有对他的深深牵挂。但是我感激麒，感激他对我的在乎和关心。在这样冰天雪地的日子，我的艰难我的欢乐我的苦恼，只会牵动遥远的他。
+        我知道他那边没有雪，我特意借了相机，拍下家乡重重叠叠的山，山上斑斑驳驳未融的雪，我站在山脚下，小小的身子，穿着肥大的外套，在偌大的冰雪世界里我是那样的微不足道。我也曾在结了厚厚冰层的河上滑冰，一不小心摔个四脚朝天，邻家小妹妹一直跟着我，小手紧紧拉着我的衣服，唯恐我受伤。我在厚厚的冰咕噜上坐下来，伸展四肢让mm拍照，那时好像整个世界都属于我。
+        
+        初中时的同学、高中时的陌生人、本科时的好友军也会常来看我，他现在已经长得高高帅帅，在部队摸滚爬打多年，他已经练就了与人交往的本领。他很会说话，会逗人开心，他整天骑着摩托车四处遛，还要带我去我的铁姐们莲的家，爸爸妈妈担心我会冻坏，坚决不支持。我那时心里有种放纵的绝望，就想到处乱跑。跑出去的时候我是不太会搭理麒的短信。
+: 9。
+:         我到了火车站时是凌晨6点，这天天气又变了，外面鹅毛大雪又一次从天而降，雪花飞进我的衣领，刺骨的痛，我的双腿和双脚已经麻木了。灰黑色的天空，外面来来往往陌生的人，我们还要乘公交车到汽车站，然后坐长途汽车近十个小时翻山越岭地回家。
+:         我给麒发了一条短信，说我们这边下大雪了，还没有车。那个时候我害怕，也想得到安慰，我不知道为什么给他发。事实上他当时正在睡觉，直到上午看到我的短信，赶紧发信问我怎么办，给我出主意。其时我已经坐在出租车上，同学的爸爸叫了来接我们。
+: ...................
+

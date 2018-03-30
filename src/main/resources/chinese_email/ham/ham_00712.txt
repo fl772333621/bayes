@@ -1,0 +1,52 @@
+Return-Path: <fan@ns.6test.edu.cn>
+Received: from tsinghua.org.cn ([210.77.143.231])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id iBS64LQG008843
+	for <cai@ccert.edu.cn>; Tue, 28 Dec 2004 14:04:23 +0800
+Received: (eyou send program); Tue, 28 Dec 2004 13:57:53 +0800
+Received: (eyou send program); Tue, 28 Dec 2004 13:57:53 +0800
+X-EYOU-ORIGINAL-IP: 210.77.143.235
+X-EYOU-ENVELOPE-MAILFROM: toefl-bounces@server.cool-meeting.com
+Received: from unknown (HELO eyou.net) (unknown@210.77.143.235)
+ by 210.77.143.231 with SMTP; Tue, 28 Dec 2004 13:57:53 +0800
+Received: (eyou send program); Tue, 28 Dec 2004 14:12:17 +0800
+Message-ID: <304214337.06272@eyou.net>
+Received: from 202.38.99.65 by 210.77.143.235 with SMTP; Tue, 28 Dec 2004 14:12:11 +0800
+Received: from server.cool-meeting.com (localhost.localdomain [127.0.0.1])
+	by server.cool-meeting.com (8.12.8/8.12.8) with ESMTP id iBS6d8lh019851
+	for <cai@ccert.edu.cn>; Tue, 28 Dec 2004 14:39:27 +0800
+Received: from ns.6test.edu.cn ([202.38.99.18])
+	by server.cool-meeting.com (8.12.8/8.12.8) with ESMTP id iBS6d0kr019847
+	for <cai@ccert.edu.cn>; Tue, 28 Dec 2004 14:39:01 +0800
+Received: from tu203047.tsinghua.edu.cn ([166.111.203.47] helo=wanglanjia)
+	by ns.6test.edu.cn with asmtp (Exim 4.12) id 1CjB7I-0003X0-00
+	for Toefl@server.cool-meeting.com; Tue, 28 Dec 2004 14:46:01 +0800
+Message-ID: <004901c4eca4$eff99740$2fcb6fa6@wanglanjia>
+From: "fan" <fan@ns.6test.edu.cn>
+To: cai@ccert.edu.cn
+Date: Tue, 28 Dec 2004 14:17:39 +0800
+MIME-Version: 1.0
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2800.1437
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1441
+Cc: 
+Subject: =?gb2312?B?ofEg1eLSu7TO1ea1xLfFytbC8KO/?=
+X-BeenThere: toefl@server.cool-meeting.com
+X-Mailman-Version: 2.1.2
+Precedence: list
+List-Id: &#26446;&#26143;&#21644;&#20182;&#30340;&#23398;&#29983;&#20204;
+	<toefl.server.cool-meeting.com>
+List-Unsubscribe: <http://server.cool-meeting.com/mailman/listinfo/toefl>,
+	<mailto:toefl-request@server.cool-meeting.com?subject=unsubscribe>
+List-Archive: <http://server.cool-meeting.com/mailman/private/toefl>
+List-Post: <mailto:toefl@server.cool-meeting.com>
+List-Help: <mailto:toefl-request@server.cool-meeting.com?subject=help>
+List-Subscribe: <http://server.cool-meeting.com/mailman/listinfo/toefl>,
+	<mailto:toefl-request@server.cool-meeting.com?subject=subscribe>
+Content-Type: multipart/mixed; boundary="===============081904855603219695=="
+Sender: toefl-bounces@server.cool-meeting.com
+Errors-To: toefl-bounces@server.cool-meeting.com
+X-UIDL: 'Tf"!f,<!!+*2!!Gg@!!
+
+和他是高中同学，从93年就相识了，01年开始相恋，不过一直分隔两地，现在我在广州读书，而他今年就要毕业了。四年的异地恋情，让我们有很多的争吵，期间也曾几次说到分手每次都是他提出，可每次都被我挽回，我实在是舍不得，这么多年的感情啊，哪能说断就断？我一直在等着他来广州工作，我以为只要在一起，我们就一定不会有问题了，因为我知道我很爱他，我想他应该也是爱着我的。虽然这半年来关系一直不好，若有若无的，可是大家都知道我还是一直在等着他的，就在一个多月前，他告诉我说如果他顺利毕业的话，很快就会结婚了，是个吉林MM。。。。。。真的是天打雷劈似的，愤怒，自尊，让我选择了沉默。这一个多月，他有时特给我短信，有时也给我电话，可我从来都没接过，我不知道该怎么面对他，我想也许他只是想气气我吧，结果，几天前他给我E-mail，仔细形容了那个女孩，还说可能9月就结婚，虽然他爱的是我。我真的不敢相信，一个真正爱我的人，会和另一个女人结婚吗？这一次我真的要放手吗？
+

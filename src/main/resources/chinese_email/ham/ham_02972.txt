@@ -1,0 +1,26 @@
+Return-Path: <pu@rbl.ccert.edu.cn>
+Received: from rbl.ccert.edu.cn (rbl.ccert.edu.cn [202.112.57.71])
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id i97AnGsh018648
+	for <hou@ccert.edu.cn>; Thu, 7 Oct 2004 18:49:17 +0800 (CST)
+Received: from rbl.ccert.edu.cn (localhost.localdomain [127.0.0.1])
+	by rbl.ccert.edu.cn (8.12.11/8.12.11) with ESMTP id i97AtFjH022060
+	for <hou@ccert.edu.cn>; Thu, 7 Oct 2004 18:55:16 +0800
+Received: (from qa@localhost)
+	by rbl.ccert.edu.cn (8.12.11/8.12.11/Submit) id i97AtFeb022059;
+	Thu, 7 Oct 2004 18:55:15 +0800
+Date: Thu, 7 Oct 2004 18:55:15 +0800
+Message-Id: <200410071055.i97AtFeb022059@rbl.ccert.edu.cn>
+Subject: =?gb2312?B?UmU6ILn6xNq1xFBIRMLbzsQ=?=
+To: hou@ccert.edu.cn
+From: Tran Quang Anh <pu@cernet.edu.cn>
+Content-Type: multipart/mixed; boundary="----------=_1097146516-996-860"
+MIME-Version: 1.0
+X-UIDL: kp9!!"h+#!H~l"!e>9!!
+
+Someone told me that when you were reviewing a paper,
+you should give constructive suggestions, not destructive criticism.
+If you simply say ``trash, rabbish\'\', none, neither you nor we,
+will benefit from that.
+: 其实国内就是喜欢听好话。这样的大学什么时候才有进步呢？也许有些人还在陶醉于4大发明呢。。。。。悲哀
+: 其实管中窥豹，可见一般。国内的PHD的标准就是这样呀。。。。。我也看见北大的一个PHD ACCOUNTING的论文。也是一样的结构。晕！难道国内没有BUSINESS RESEARCH MATHODS吗？没有SPSS吗？如果只是收集资料的话。这样也算论文呀。还不如我MBA的一个ASSIGNMENT呢...
+

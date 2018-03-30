@@ -1,0 +1,31 @@
+Return-Path: <ma@rbl.ccert.edu.cn>
+Received: from rbl.ccert.edu.cn (rbl.ccert.edu.cn [202.112.57.71])
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id i97L9QXL025703
+	for <he@ccert.edu.cn>; Fri, 8 Oct 2004 05:09:26 +0800 (CST)
+Received: from rbl.ccert.edu.cn (localhost.localdomain [127.0.0.1])
+	by rbl.ccert.edu.cn (8.12.11/8.12.11) with ESMTP id i97LFR81025727
+	for <he@ccert.edu.cn>; Fri, 8 Oct 2004 05:15:27 +0800
+Received: (from qa@localhost)
+	by rbl.ccert.edu.cn (8.12.11/8.12.11/Submit) id i97LFRFM025726;
+	Fri, 8 Oct 2004 05:15:27 +0800
+Date: Fri, 8 Oct 2004 05:15:27 +0800
+Message-Id: <200410072115.i97LFRFM025726@rbl.ccert.edu.cn>
+Subject: =?gb2312?B?ofEg09DP69f3zqq8vMr1uce4ybzTw8u0tNK1tcTC8KO/?=
+To: he@ccert.edu.cn
+From: Tran Quang Anh <ma@cernet.edu.cn>
+Content-Type: multipart/mixed; boundary="----------=_1097183727-1044-114"
+MIME-Version: 1.0
+X-UIDL: #-#"!bQ/!!c29"!Y`K!!
+
+公司是位于北京中关村地区为发展迅猛的终端移动通讯设备（如手机）产业提供嵌入式软件的创业型高科技公司，初期切入的核心技术和产品，在大陆地区具有极为广阔的应用市场，并且具有拓展海外市场的巨大前景。
+创业初期正酝酿开发的产品有：
+一是现有目标市场已成规模，我方客户关系已经很有基础的，与手机输入法相关的智能信息平台软件产品，该软件属于一款小型的手机嵌入式软件，目前该产品的规划和技术资源，已经有比较好的储备，继续开发应该比较好着手。 
+二是属于完全新兴市场，潜在规模巨大，依靠我方很有基础的客户关系和可资借鉴的丰富相关市场运作经验，预期能较快推广普及的一款智能演示器，该产品可以迅速夯实创业初期规模扩张要求相适应的资金、品牌、技术、市场客户关系网络。
+我们希望凝聚志同道合的分别专长于技术、市场、运作的同仁，组成具有强有力的战斗力团队，开创出具备可持续技术才创新和增长潜力的受世界尊敬的跨国实业公司。
+目前公司主要由有PHILIPS、HP工作和合作经验的极富创业激情的人，负责市场开拓；你可以有机会带领技术团队负责软件开发组织和核心模块的开发。我们有信心将既定事业踏实推进。
+具体要求：
+1、    有需求分析、程序设计、编程、测试、移植的经验；
+2、    对嵌入式软件的移植和手机的软硬件诸如接口比较了解；
+3、    在技术开发和创新方面充满特别激情，并特别渴望和志同道合的其他专长的人形成团队开创一番伟业，能踏实钻研，不惧怕创业过程的困难和挑战。
+具体加盟方式面谈，请将你的简历和联系信息发送到：partner@iukey.com。
+

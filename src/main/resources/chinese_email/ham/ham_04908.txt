@@ -1,0 +1,39 @@
+Return-Path: <hou@cernet.edu.cn>
+Received: from ccertspark (tu203021.tsinghua.edu.cn [166.111.203.21])
+	(authenticated bits=0)
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id iBH4gLaP012018;
+	Fri, 17 Dec 2004 12:42:21 +0800 (CST)
+From: "hou" <hou@cernet.edu.cn>
+To: gong@ccert.edu.cn
+Subject: =?gb2312?B?ofEgyNXBoijW0Ln6KdPQz965q8u+0dC3otbQ0MTV0Ma4yu682cq1z7DJ+igxw/sp?=
+Date: Fri, 17 Dec 2004 12:40:50 +0800
+Message-ID: <000001c4e3f2$95c62c80$15cb6fa6@ccertspark>
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+X-Priority: 3 (Normal)
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook, Build 10.0.6626
+Importance: Normal
+In-Reply-To: <300049396.24600@mail.tsinghua.edu.cn>
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.3790.181
+Content-Transfer-Encoding: 8bit
+X-MIME-Autoconverted: from quoted-printable to 8bit by sea.net.edu.cn id iBH4gLaP012018
+X-UIDL: V>Q!!0Y7"!39P!!]WM!!
+
+日立（中国）有限公司研发中心 招聘暑假实习生(1名) (北京市)  
+工作内容：
+从事Linux下的应用程序开发工作
+职位要求： 
+1. 熟悉Linux操作系统; 
+2. 精通C语言，以及相应的开发与调试工具，尤其在Linux平台下的使用;
+3. 熟悉Linux的内核配置，编译，驱动程序的工作原理;
+4. 熟悉Linux下的软件安装，配置，和常用服务器的配置;
+5. 很强的独立工作能力，能很快读通他人开发的源代码并在此基础上做出改进; 
+6. 必须有严谨的工作态度，良好的编程及文档书写习惯; 
+7. 必须有团队合作精神;
+8. 最好是硕士或者博士生。 
+注：条件不合格者，请勿发送简历！
+公司地点：北京市朝阳区东三环北路5号 发展大厦1701 房间
+有意者请将简历发送至 Email: ysshi@hitachi.cn
+

@@ -1,0 +1,31 @@
+Return-Path: <qing@rbl.ccert.edu.cn>
+Received: from rbl.ccert.edu.cn (rbl.ccert.edu.cn [202.112.57.71])
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id i9ANsTIQ024916
+	for <mei@ccert.edu.cn>; Mon, 11 Oct 2004 07:54:29 +0800 (CST)
+Received: from rbl.ccert.edu.cn (localhost.localdomain [127.0.0.1])
+	by rbl.ccert.edu.cn (8.12.11/8.12.11) with ESMTP id i9ANxkFv010155
+	for <mei@ccert.edu.cn>; Mon, 11 Oct 2004 07:59:48 +0800
+Received: (from qa@localhost)
+	by rbl.ccert.edu.cn (8.12.11/8.12.11/Submit) id i9ANxkK4010154;
+	Mon, 11 Oct 2004 07:59:46 +0800
+Date: Mon, 11 Oct 2004 07:59:46 +0800
+Message-Id: <200410102359.i9ANxkK4010154@rbl.ccert.edu.cn>
+Subject: =?gb2312?B?UmU6INXiwO/T0MO709C/vLn9zdC4o7XExfPT0aOsxNyyu8TcuObL387S0qrC8sTHvLixvsrpoaM=?=
+To: mei@ccert.edu.cn
+From: Tran Quang Anh <qing@cernet.edu.cn>
+Content-Type: multipart/mixed; boundary="----------=_1097452788-1014-62"
+MIME-Version: 1.0
+X-UIDL: bp_"!T<W!!"~;"!_Jc!!
+
+我怎么没发现02年的东西？
+ 1  [文件] 托福需要哪些资料？                     liweizju        2003.04.15
+ 2  [文件] 新东方那套全真题没有什么参考价值       tubamqx         2003.11.10
+ 3  [目录] 网友整理资料                          (BM: enigmacx)   2005.01.03
+ 4  [目录] 语法                                  (BM: liweizju)   2003.07.27
+ 5  [目录] 听力                                  (BM: liweizju)   2005.01.16
+ 6  [目录] 作文                                  (BM: liweizju)   2003.01.30
+ 7  [目录] 词汇                                  (BM: liweizju)   2005.01.03
+ 8  [目录] 最新真题及网友提供的答案              (BM: tubamqx)    2005.01.16
+                                                                            
+: 都是02年的老东西
+

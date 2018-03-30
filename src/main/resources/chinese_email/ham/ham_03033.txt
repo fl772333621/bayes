@@ -1,0 +1,29 @@
+Return-Path: <xue@rbl.ccert.edu.cn>
+Received: from rbl.ccert.edu.cn (rbl.ccert.edu.cn [202.112.57.71])
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id i8T6rbdo006440
+	for <tang@ccert.edu.cn>; Wed, 29 Sep 2004 14:53:38 +0800 (CST)
+Received: from rbl.ccert.edu.cn (localhost.localdomain [127.0.0.1])
+	by rbl.ccert.edu.cn (8.12.11/8.12.11) with ESMTP id i8T60laA005107
+	for <tang@ccert.edu.cn>; Wed, 29 Sep 2004 14:00:48 +0800
+Received: (from qa@localhost)
+	by rbl.ccert.edu.cn (8.12.11/8.12.11/Submit) id i8T60lKs005106;
+	Wed, 29 Sep 2004 14:00:47 +0800
+Date: Wed, 29 Sep 2004 14:00:47 +0800
+Message-Id: <200409290600.i8T60lKs005106@rbl.ccert.edu.cn>
+Subject: =?gb2312?B?UmU6ILbURXJpY3Nzb261xNK70Km40Mrc?=
+To: tang@ccert.edu.cn
+From: Tran Quang Anh <xue@cernet.edu.cn>
+Content-Type: multipart/mixed; boundary="----------=_1096437648-996-142"
+MIME-Version: 1.0
+X-UIDL: EV^!!U!`"!#K""!eAB"!
+
+        几乎所有的公司都是这样做的。
+        例如Cisco，当年不就是因为很多人无论转成Employee而跳槽的。
+        IBM你也可以去问问。
+        大的外企的head count管的很严，正式工的数目是按照今年能够
+        完成的销售额和所预计的quota、Budget等综合决定的分。分为
+        正式、非正式只是一种管理手段而已，我反倒是觉得，在大外企，
+        应该学的就是资本主义的这种管理手段，日后创业，肯定会遇到
+        一样多的问题。
+可是这种管理方法是很不公平的，在一个公司里一起工作，等级划分这么严格，待遇不一样，为什么要人家付出相同的贡献和劳动？在这种心情下工作，造成很不稳定，流动性很强的工作员工。也造成为不平等发展因素。因为这种合同非正式员工会造到意外的排挤。
+

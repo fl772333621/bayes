@@ -1,0 +1,33 @@
+Return-Path: <xue@ccert.edu.cn>
+Received: from home.ccert.edu.cn (ccert.edu.cn [202.112.57.12])
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id j3P2Umsk020226
+	for <ma@ccert.edu.cn>; Mon, 25 Apr 2005 10:30:54 +0800 (CST)
+Received: from kill ([202.112.50.201])
+	(authenticated bits=0)
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id j3P2Ebgh016443
+	for <ma@ccert.edu.cn>; Mon, 25 Apr 2005 10:14:57 +0800
+Message-Id: <200504250214.j3P2Ebgh016443@home.ccert.edu.cn>
+Date: Mon, 25 Apr 2005 10:26:18 +0800
+From: "xue" <xue@ccert.edu.cn>
+Reply-To: xue@ccert.edu.cn
+To: ma@ccert.edu.cn
+Subject: =?gb2312?B?UmU6IMWuyMu1xNaws6HJ+tHEvr++ubbgs6Q=?=
+Organization: CCERT
+X-mailer: Foxmail 5.0 beta2 [cn]
+Mime-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: 8bit
+X-MIME-Autoconverted: from base64 to 8bit by sea.net.edu.cn id j3P2Umsk020226
+X-UIDL: d-["!/('#!ec_"!^<f!!
+
+hehei,要是我有黄金1w,我就不需要一技了
+这些银子找一个私幕就能帮我打理了. 多财善贾,长袖善舞啊
+你做技术才会面临年级大了做什么的困惑.不是所有的人都能按照那些说得好听的技
+术路线做上去的.大部份人还是只是一个基石.老了以后,你发现你除了计算机什么都
+没有,而计算机这东西还在每天更新.你永远赶不上
+: 黄金万两 不如 一技傍身。
+: 医生教师都可以做到老，失业了还可以自己开业。
+: 我想不出来如果我年级大些后可以做什么，　管理，教师，自己开夫妻店？:)
+: ...................
+

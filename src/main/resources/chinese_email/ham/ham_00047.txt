@@ -1,0 +1,30 @@
+Return-Path: <jin@rbl.ccert.edu.cn>
+Received: from rbl.ccert.edu.cn (rbl.ccert.edu.cn [202.112.57.71])
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id i97Hunbd023636
+	for <han@ccert.edu.cn>; Fri, 8 Oct 2004 01:56:50 +0800 (CST)
+Received: from rbl.ccert.edu.cn (localhost.localdomain [127.0.0.1])
+	by rbl.ccert.edu.cn (8.12.11/8.12.11) with ESMTP id i97I2iWP021767
+	for <han@ccert.edu.cn>; Fri, 8 Oct 2004 02:02:44 +0800
+Received: (from qa@localhost)
+	by rbl.ccert.edu.cn (8.12.11/8.12.11/Submit) id i97I2iUp021766;
+	Fri, 8 Oct 2004 02:02:44 +0800
+Date: Fri, 8 Oct 2004 02:02:44 +0800
+Message-Id: <200410071802.i97I2iUp021766@rbl.ccert.edu.cn>
+Subject: =?gb2312?B?UmU6IHNpZ2ijrMq10enK0sDvw+a/qr/VtffBy6GjoaOhow==?=
+To: han@ccert.edu.cn
+From: Tran Quang Anh <jin@cernet.edu.cn>
+Content-Type: multipart/mixed; boundary="----------=_1097172164-1044-50"
+MIME-Version: 1.0
+X-UIDL: 95~!!<Q>"!1<E"!]Z3"!
+
+千万不能让感冒继续下去了，
+马上多喝热水吧~
+感冒不能吃药，如果严重了会很难受的
+回头穿上T恤长裤吧，不要穿裙子
+实验室里备件外套，他们空调开得太大你就把外套穿上~
+自己保护自己啊~
+:  不知道，我本来就是不怕热但是非常怕冷的。。。
+:  怀孕之后感觉比原来觉得怕冷了。。。，现在每天我都觉得温度挺合适的，除了在外面晒都不觉得热。。。
+:  今天还有点感冒了。。。
+: ...................
+

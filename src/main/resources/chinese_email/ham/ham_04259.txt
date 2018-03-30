@@ -1,0 +1,48 @@
+Return-Path: <wu@tsinghua.edu.cn>
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j2T19VXL021748
+	for <bi@ccert.edu.cn>; Tue, 29 Mar 2005 09:09:31 +0800 (CST)
+Received: (eyou send program); Tue, 29 Mar 2005 08:51:59 +0800
+Message-ID: <312057518.17386@mail.tsinghua.edu.cn>
+Received: from unknown (HELO mail.tsinghua.edu.cn) (unknown@127.0.0.1)
+ by 127.0.0.1 with SMTP; Tue, 29 Mar 2005 08:51:59 +0800
+X-scanvirus: By Symantec Scan Engine
+X-scanresult: CLEAN
+Received: (eqmail ); 29 Mar 2005 00:51:56 -0000
+Received: from unknown (HELO sony) (duanhx@202.112.35.253)
+  by localhost with SMTP; 29 Mar 2005 00:51:56 -0000
+Message-ID: <002301c533fb$dca00690$1401a8c0@sony>
+From: "wu" <wu@tsinghua.edu.cn>
+To: bi@ccert.edu.cn
+Cc: <qing@ccert.edu.cn>, =?gb2312?B?zuLWvr78?= <luo@ccert.edu.cn>,
+        <ma@ccert.edu.cn>,
+        "Liu wu \(Tsinghua CCERT\)" <bi@ccert.edu.cn>, <feng@ccert.edu.cn>
+Subject: =?gb2312?B?UmU6INXi0fm1xMTQyMvT0MLwo78=?=
+Date: Tue, 29 Mar 2005 09:08:44 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0020_01C5343E.E9036E20"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2900.2180
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+X-UIDL: C$M!!?co!!G[I!!GYm!!
+
+自我评价下，^_^
+知道我怕黑别丢下我一个人凌晨一点的时候在马路上溜达。
+    这个没问题，一般10点左右如果还不见mm回去，就会疯狂去寻找。^_^
+每天看着我没心没肺笑得时候知道我依然脆弱
+    这个也知道，可是会说出来，可是mm就不承认自己脆弱。
+在我哭的时候能给一个不怕蹭满我鼻涕和眼泪的肩膀
+    这个我觉得一般人都能做到，我也行的吧
+适时的在我哭到头痛欲裂浑身痉挛之前制止我的哭泣
+    这个最在行了，^_^。
+在我无助的时候告诉我：别怕天塌下来我给你顶着。
+    这个我会加一句，我顶累的时候帮我擦擦汗喂口水什么的，，
+知道我的善良，但是别利用的我的善良
+    呵呵，我不被别人利用就好了，^_^
+一个星期抽出一整天陪我让我高兴容忍我的孩子气我的偶尔的任性
+    最喜欢看mm穿上我买的pp，开心的样子了。
+我身上有刺除了自己无心刺痛其他任何人
+     ^_^，，，看来我还行，，，
+

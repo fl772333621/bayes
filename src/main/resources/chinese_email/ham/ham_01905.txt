@@ -1,0 +1,30 @@
+Return-Path: <lian@hotmail.com>
+Received: from mailer95.hi5.com (mailer95.hi5.com [204.11.105.95])
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id j6D9q1Bx010543
+	for <kang@ccert.edu.cn>; Wed, 13 Jul 2005 17:52:02 +0800 (CST)
+Received: from nelson (10.100.10.66) by mailer95.hi5.com id hqji44076ug5; Wed, 13 Jul 2005 02:51:45 -0700 (envelope-from <nvthu@hotmail.com>)
+Message-ID: <7718326.1121248305953.JavaMail.root@nelson>
+From: Nguyen Vietthu <lian@hotmail.com>
+To: kang@ccert.edu.cn
+Subject: =?gb2312?B?ofEguN/QvbPPxrhMSU5VWLmks8zKpg==?=
+Mime-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_16099_14223210.1121248305951"
+Date: Wed, 13 Jul 2005 02:51:45 -0700
+X-UIDL: KFk"!;pY"!;Bo"!2^5"!
+
+因业务扩展，清华科技园某高科技公司诚聘：
+LINUX系统工程师  2人  
+工作性质：全职 截止日期：2005-7-2 
+招聘人数：2人     月薪范围：面议 
+工作经验： 学历：本科以上 
+工作地点：北京清华科技园    
+ 
+职位描述及要求
+LINUX系统工程师：
+精通GNU C/C++；
+精通Linux环境和Windows环境下的Socket编程，多线程编程；
+熟悉MySQL数据库、SQL语言(多层次软件开发体系)；
+有大型系统开发经验者优先考虑。
+简历、联系方式请发站内信箱或者发邮件（请勿粘贴附件）: gaoran99@126.com. 高先生
+

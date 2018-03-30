@@ -1,0 +1,52 @@
+Return-Path: <zeng@sina.com>
+Received: from tsinghua.org.cn ([210.77.143.231])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id j0QGPx5D011379
+	for <zhao@ccert.edu.cn>; Thu, 27 Jan 2005 00:25:59 +0800
+Received: (eyou send program); Thu, 27 Jan 2005 00:16:45 +0800
+Received: (eyou send program); Thu, 27 Jan 2005 00:16:45 +0800
+X-EYOU-ORIGINAL-IP: 210.77.143.235
+X-EYOU-ENVELOPE-MAILFROM: cheriff@sina.com
+Received: from unknown (HELO eyou.net) (unknown@210.77.143.235)
+ by 210.77.143.231 with SMTP; Thu, 27 Jan 2005 00:16:45 +0800
+Received: (eyou send program); Thu, 27 Jan 2005 00:30:23 +0800
+Message-ID: <306757023.14758@eyou.net>
+Received: from 202.106.187.156 by 210.77.143.235 with SMTP; Thu, 27 Jan 2005 00:30:23 +0800
+Received: (qmail 20038 invoked from network); 26 Jan 2005 16:37:48 -0000
+Received: from unknown (HELO ?219.224.134.126?) (219.224.134.126)
+  by 202.106.187.156 with SMTP; 26 Jan 2005 16:37:48 -0000
+Received: from(cheriff@sina.com) to(chenguangying@tsinghua.org.cn)
+Subject: =?gb2312?B?UmU6ILH5sfm1xMnjz/G8vMr11ea6w35+fn4=?=
+From: chenff <zeng@sina.com>
+To: zhao@ccert.edu.cn
+In-Reply-To: <002a01c50287$3d98c5f0$5902510a@CCERTDAWEI>
+References: <002a01c50287$3d98c5f0$5902510a@CCERTDAWEI>
+Content-Type: text/plain; charset=GB18030
+Organization: 
+Message-Id: <1106757046.4413.30.camel@localhost.localdomain>
+Mime-Version: 1.0
+X-Mailer: Ximian Evolution 1.2.2 (1.2.2-4) 
+Date: 27 Jan 2005 00:30:47 +0800
+Content-Transfer-Encoding: 8bit
+X-UIDL: ?kD"!$nY!!0m~"!QN*"!
+
+他俩是聊天室里面的
+跟咱们混的不是一块地儿
+: 标  题: Re: 冰冰的摄像技术真好~~~~
+: 发信站: 水木社区 (Sun Jun 19 20:39:24 2005), 站内
+: 
+: 够久得了，奇怪我怎么不记得见过你，呵呵
+: 按道理你们认识5年多了，我们也应该见过面啊，难道是谁的马甲？
+: : 快5年了吧，俺也旺季了
+: 
+: 
+: --
+:               冰  西  是  壹  壹  壹  仗  多  蓦  几  几  几
+:               雪  子  非  腔  身  缕  剑  少  然  重  棵  层  
+:               少  湖  难  爱  恨  清  挟  恩  回  暮  松  远  
+:               女  畔  解          风  酒  怨  首          峦
+:               入  初  虚          一  江  醉  万          几
+:               凡  见  如          丝  湖  梦  事          声尘  晴  影          魂  行  中  空          钟 
+: 
+: 
+: ※ 来源:·水木社区 newsmth.net·[FROM: 219.237.101.*]
+

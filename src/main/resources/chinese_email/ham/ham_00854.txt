@@ -1,0 +1,29 @@
+Return-Path: <yu@cernet.edu.cn>
+Received: from bbb-threeb (tu203030.tsinghua.edu.cn [166.111.203.30])
+	(authenticated bits=0)
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id iBV3p7lk029914;
+	Fri, 31 Dec 2004 11:51:08 +0800 (CST)
+Message-Id: <200412310351.iBV3p7lk029914@sea.net.edu.cn>
+Date: Fri, 31 Dec 2004 11:51:34 +0800
+From: "yu" <yu@cernet.edu.cn>
+To: hu@ccert.edu.cn
+Subject: =?gb2312?B?UmU6IM3ixvO+zdK7tqi6w8Lw?=
+Organization: Tsinghua University
+X-mailer: Foxmail 5.0 [cn]
+Mime-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: 8bit
+X-MIME-Autoconverted: from base64 to 8bit by sea.net.edu.cn id iBV3p7lk029914
+X-UIDL: K`m!!Bg`!!@3?"!c>!#!
+
+  我倒觉得，做技术不是全部，既然打算是在公司混，那么1，要么有机会接触
+相对有水准的技术。2，要么尽早向技术管理，或者销售转行。
+  我现在感觉不是太乐观，签了一家私营企业做技术，如果技术上有机会就再
+花3－5年时间发展，如果没有，就提前向技术管理上转，将来争取能做到项目，
+人事一起抓，然后就算成型了。
+: 在外企好像接触的技术面就窄了
+: 不如国内的企业接触的东西多
+: 外企虽然钱多 但是好像与职业发展不一致 怎么办
+: ...................
+

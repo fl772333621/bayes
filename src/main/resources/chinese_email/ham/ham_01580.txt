@@ -1,0 +1,59 @@
+Return-Path: <xue@ccert.edu.cn>
+Received: from tsinghua.org.cn ([210.77.143.231])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id j0595FLI002362
+	for <shen@ccert.edu.cn>; Wed, 5 Jan 2005 17:05:16 +0800
+Received: (eyou send program); Wed, 05 Jan 2005 16:59:00 +0800
+Received: (eyou send program); Wed, 05 Jan 2005 16:59:00 +0800
+X-EYOU-ORIGINAL-IP: 210.77.143.235
+X-EYOU-ENVELOPE-MAILFROM: starry@ccert.edu.cn
+Received: from unknown (HELO eyou.net) (unknown@210.77.143.235)
+ by 210.77.143.231 with SMTP; Wed, 05 Jan 2005 16:59:00 +0800
+Received: (eyou send program); Wed, 05 Jan 2005 17:13:08 +0800
+Message-ID: <304916388.18502@eyou.net>
+Received: from 166.111.8.16 by 210.77.143.235 with SMTP; Wed, 05 Jan 2005 17:13:03 +0800
+Received: (eyou send program); Wed, 05 Jan 2005 17:14:08 +0800
+Message-ID: <304916448.00576@mails.tsinghua.edu.cn>
+Received: (eyou send program); Wed, 05 Jan 2005 17:14:07 +0800
+Message-ID: <304916447.04343@mails.tsinghua.edu.cn>
+Received: from unknown (HELO mails.tsinghua.edu.cn) (unknown@127.0.0.1)
+ by 127.0.0.1 with SMTP; Wed, 05 Jan 2005 17:14:07 +0800
+X-scanvirus: By Symantec Scan Engine
+X-scanresult: CLEAN
+X-Received: ccert.edu.cn,202.112.57.12,20050105171406
+Received: from ccert.edu.cn (HELO home.ccert.edu.cn) (202.112.57.12)
+  by localhost with SMTP; 5 Jan 2005 09:14:06 -0000
+Received: from home.ccert.edu.cn (localhost [127.0.0.1])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id j058UllJ031039;
+	Wed, 5 Jan 2005 16:30:47 +0800
+Received: (from majordomo@localhost)
+	by home.ccert.edu.cn (8.13.1/8.13.1/Submit) id j058UlOE031038;
+	Wed, 5 Jan 2005 16:30:47 +0800
+X-Authentication-Warning: home.ccert.edu.cn: majordomo set sender to owner-ccert_forum using -f
+Received: from starry ([202.112.50.10])
+	(authenticated bits=0)
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id j058UVSk031016;
+	Wed, 5 Jan 2005 16:30:35 +0800
+Message-Id: <200501050830.j058UVSk031016@home.ccert.edu.cn>
+Date: Wed, 5 Jan 2005 16:44:54 +0800
+From: "xue" <xue@ccert.edu.cn>
+To: shen@ccert.edu.cn
+Cc: "ccert_forum" <cai@ccert.edu.cn>
+Subject: =?gb2312?B?UmU6ILzH0ruyv7P2yau1xLXn07Chts7Uu6Ky2MH6obd6eg==?=
+X-mailer: Foxmail 5.0 [cn]
+Mime-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: 8bit
+X-MIME-Autoconverted: from base64 to 8bit by home.ccert.edu.cn id j058UaSk031027
+Sender: owner-ccert_forum@home.ccert.edu.cn
+Precedence: bulk
+X-UIDL: 8)m"!kHH!!-L_!!7XM!!
+
+界个人在胡言乱语
+八爷的武指他都看着不爽，只能怪他没福气
+荒江女侠一直到王度庐的武侠小说本来就是神怪并起腾云驾雾的。卧虎藏龙的动作设计就好象最新的蜀山传里的设计一样，看过小说的人能感觉更贴近描写，当然了，没看过的也可以看出好看来
+: 日期：2005-01-30] 来源：  作者：胡淑芬 [字体：大 中 小]  
+: 　　最近，总有一些人四处批评《卧虎藏龙》这部影片，把该片批得体无完肤，说它这也
+: 不好那也不好。在这些批评的文章中，说什么的都有，什么飞得太假啦，什么主演太糟糕
+: ...................
+

@@ -1,0 +1,60 @@
+Return-Path: <ni@cernet.edu.cn>
+Received: from tsinghua.org.cn ([210.77.143.231])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id iB18MW3h021491
+	for <ding@ccert.edu.cn>; Wed, 1 Dec 2004 16:22:33 +0800
+Received: (eyou send program); Wed, 01 Dec 2004 16:15:36 +0800
+Received: (eyou send program); Wed, 01 Dec 2004 16:15:36 +0800
+X-EYOU-ORIGINAL-IP: 210.77.143.235
+X-EYOU-ENVELOPE-MAILFROM: qchen@cernet.edu.cn
+Received: from unknown (HELO eyou.net) (unknown@210.77.143.235)
+ by 210.77.143.231 with SMTP; Wed, 01 Dec 2004 16:15:36 +0800
+Received: (eyou send program); Wed, 01 Dec 2004 16:30:44 +0800
+Message-ID: <301889844.15610@eyou.net>
+Received: from 166.111.8.16 by 210.77.143.235 with SMTP; Wed, 01 Dec 2004 16:30:39 +0800
+Received: (eyou send program); Wed, 01 Dec 2004 16:30:12 +0800
+Message-ID: <301889812.05831@mails.tsinghua.edu.cn>
+Received: (eyou send program); Wed, 01 Dec 2004 16:30:11 +0800
+Message-ID: <301889811.04070@mails.tsinghua.edu.cn>
+Received: from unknown (HELO mails.tsinghua.edu.cn) (unknown@127.0.0.1)
+ by 127.0.0.1 with SMTP; Wed, 01 Dec 2004 16:30:11 +0800
+X-scanvirus: By Symantec Scan Engine
+X-scanresult: NOREP
+Received: (eqmail ); 1 Dec 2004 08:30:05 -0000
+Received: from ccert.edu.cn (HELO home.ccert.edu.cn) (202.112.57.12)
+  by mails.tsinghua.edu.cn with SMTP; 1 Dec 2004 08:30:05 -0000
+Received: from home.ccert.edu.cn (localhost [127.0.0.1])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id iB18LhcD021454;
+	Wed, 1 Dec 2004 16:21:43 +0800
+Received: (from majordomo@localhost)
+	by home.ccert.edu.cn (8.13.1/8.13.1/Submit) id iB18LhEX021453;
+	Wed, 1 Dec 2004 16:21:43 +0800
+X-Authentication-Warning: home.ccert.edu.cn: majordomo set sender to owner-ccertstaff using -f
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id iB18Lg54021449
+	for <ding@ccert.edu.cn>; Wed, 1 Dec 2004 16:21:42 +0800
+Received: from GirlOfGod (tu203027.tsinghua.edu.cn [166.111.203.27])
+	(authenticated bits=0)
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id iB18YgmO010222
+	for <ding@ccert.edu.cn>; Wed, 1 Dec 2004 16:34:48 +0800 (CST)
+Message-Id: <200412010834.iB18YgmO010222@sea.net.edu.cn>
+Date: Wed, 1 Dec 2004 16:39:03 +0800
+From: "ni" <ni@cernet.edu.cn>
+To: ding@ccert.edu.cn
+Subject: =?gb2312?B?ofEgvfHM7MrHztK94bvpMtbcxOq8zcTu?=
+X-mailer: Foxmail 5.0 [cn]
+Mime-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: 8bit
+X-MIME-Autoconverted: from base64 to 8bit by home.ccert.edu.cn id iB18Lh54021451
+Sender: owner-ccertstaff@home.ccert.edu.cn
+Precedence: bulk
+X-UIDL: S4!#!oo##!9U;"!Xk%!!
+
+其实纪念日这个东西，只是一个数字，看经历的两个人如何去看待罢了。细细想过我和我老公走过的日子，不是因为纪念日突然有感而发，而是从心底某种对生活的感动产生的情愫
+我和老公是4年前在一起谈恋爱的。那时的我，一如所有刚谈恋爱的小姑娘，会提出各种各样近乎不近人情的要求。老公是个典型的清华比较木讷的男生，老实的几乎可以用木头来形容。初恋的小姑娘总是希望自己的另一半懂得浪漫，于是我总是数落老公，可是我却没用自己的眼光去发现老公为了我默默地去改变自己内向的性格。人要改变自己的性格是多么不容易的事情啊。
+看到别人的gg呼朋唤友的，我的gg只会在一旁静静的看着，我不免有点委屈，总是数落他，当然我不至于当着别人的面说他，可每次数落他都不太顾及到他的自尊，那时的我，总觉得自己是对的，却怎么都没想到，男人是有自尊的，他们有自己的办事方式，是不能强迫他们的。那时候只知道学硬件好找工作，就逼着gg学，也没想过他到底喜不喜欢，逼着他找人学，他稍微说说不好找到人，我就抱怨他交际能力太低。我不知道他那时候为什么可以忍受那样的我
+本来gg可以早点毕业的，可是我不愿意啊，gg毕业了，怎么陪我啊，我于是整天捣鼓着不想让他早毕业，嘴上说得很好听，什么你做什么决定我都支持拉，其实那时的我虚伪得要死，谁都看得出来，其实我心里想啥。结果gg从了我，和我一起毕业。
+毕业的时候，申请学校，我不想让gg做原先的专业，因为他的本专业太伤身体，就不让他申请本专业，我居然幼稚的不知道跨专业申请是多么困难的事情，gg没办法，又从了我，于是直接的结果，就是申请失败，那时的gg，受到很大的打击，也让我头一次意识到我过于的自信是否让gg很辛苦。
+gg其实很多时候都有自己的想法，可是每次只要和我的相反，我就闹着要分手，也许gg太珍惜我了，每次都从着我，到了最后，什么都没有了，只剩下一个我。终于在他毕业找工作的时候，我不再闹了，其实是因为我不懂，没法闹了，想着只要他在我身边就好了。
+

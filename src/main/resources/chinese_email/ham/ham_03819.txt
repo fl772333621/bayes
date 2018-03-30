@@ -1,0 +1,57 @@
+Return-Path: <yang@stu.ee.tsinghua.edu.cn>
+Received: from tsinghua.org.cn ([210.77.143.232])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with SMTP id j3P2M9gV016596
+	for <guo@ccert.edu.cn>; Mon, 25 Apr 2005 10:22:20 +0800
+Received: (eyou send program); Mon, 25 Apr 2005 10:38:36 +0800
+Message-ID: <314396716.18350@tsinghua.org.cn>
+X-EYOU-AUTOFORWARD: tsinghua.org.cn
+Received: (eyou send program); Mon, 25 Apr 2005 10:38:36 +0800
+Message-ID: <314396716.12007@tsinghua.org.cn>
+Received: from unknown (HELO eyou.net) (210.77.143.235)
+ by 210.77.143.232 with SMTP; Mon, 25 Apr 2005 10:38:36 +0800
+X-EYOU-SPAMVALUE: 0
+Received: (eyou anti_spam gateway 3.0); Mon, 25 Apr 2005 10:28:09 +0800
+Message-ID: <314396089.02072@eyou.net>
+Received: from 202.112.49.111 by 210.77.143.235 with SMTP; Mon, 25 Apr 2005 10:28:08 +0800
+Received: from Garfield. (localhost [IPv6:::1])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with ESMTP id j3P2Y5nE089391
+	for <guo@ccert.edu.cn>; Mon, 25 Apr 2005 10:34:52 +0800 (CST)
+	(envelope-from toefl-bounces@gradinfo.net.edu.cn)
+Received: from stu.ee.tsinghua.edu.cn (stu.ee.tsinghua.edu.cn [166.111.64.4])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with SMTP id j3P2Y1hp089387
+	for <guo@ccert.edu.cn>; Mon, 25 Apr 2005 10:34:03 +0800 (CST)
+	(envelope-from xujf93@stu.ee.tsinghua.edu.cn)
+Received: (qmail 15468 invoked by uid 512); 25 Apr 2005 02:36:28 -0000
+Message-ID: <20050425023628.15467.qmail@stu.ee.tsinghua.edu.cn>
+From: yang@stu.ee.tsinghua.edu.cn
+To: guo@ccert.edu.cn
+Date: Mon, 25 Apr 2005 10:36:28 +0800
+Mime-Version: 1.0
+Content-Type: multipart/mixed; boundary="----------=_1114395742-9980-240"
+Cc: 
+Subject: =?gb2312?B?ofEgv7S/tKO6ztK1xMTQ09GjrL27tPOxvr/GyfrItNa709DSu8entuC/6SB6eg==?=
+X-BeenThere: toefl@gradinfo.net.edu.cn
+X-Mailman-Version: 2.1.5
+Precedence: list
+List-Id: "&#26446; &#26143; &#21644; &#20182; &#30340; &#23398; &#29983;
+	&#20204; " <toefl.gradinfo.net.edu.cn>
+List-Unsubscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=unsubscribe>
+List-Archive: <http://gradinfo.net.edu.cn/mailman/private/toefl>
+List-Post: <mailto:toefl@gradinfo.net.edu.cn>
+List-Help: <mailto:toefl-request@gradinfo.net.edu.cn?subject=help>
+List-Subscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=subscribe>
+Sender: toefl-bounces@gradinfo.net.edu.cn
+Errors-To: toefl-bounces@gradinfo.net.edu.cn
+X-UIDL: P:h!!I@h"!$8m!!fZS"!
+
+http://www.fzone.cn/hompy/mini/knowledge/read.asp?h_id=7026&amp;BoardID=53481&amp;ThreadID=45888&amp;u_id=7186
+我的男朋友，是山东人但是交大本科生，我们是在网上认识的，在一起半年多了，周围人都说我检到宝乐，所谓的潜力股，可是到现在他毕业快一年了，还只拿一千多块，在上海她要租房子，开销比我打，还要还助学贷款，欠了一屁股债，我又不敢和父母说，好郁闷阿，我该怎么办，是该继续陪他走下去还是离开他，其实我不想离开她，可是在这样下去他的潜力什么时候才能发挥出来啊。 
+男主角的答复：我就是我女朋友（楼主）帖子里的“他”，她看了大家的回帖哭了，于是我就知道了有这个帖子的存在和我的这篇回复。认真地看了每个人的回复，我还是决定接着我女朋友的帖子来回复，人的遭遇不同对这件事的看法就不同，所以我选择只答复我女朋友的疑问。顺便强烈鄙视部分“好事者”们的无聊帖。 
+我是个乐观的人，这点经济上的小困难我觉得完全能解决，至少自我感觉如此。可是我更是个非常现实的人，深知自己的处境。生活在城市里，特别是上海，压力的确很大，sometimes不得不说“钱”真tmd是个好东西。即便如此，房租也好，助学贷款也好，我都是按时、一分不少的还掉。只是朋友比较多，……所以“无息贷款”就多了点。我了解自己的女朋友，她脾气急，只是着急我过头了。我想，我要做的就是安慰她，然后发奋工作。我深爱我的女朋友，知道她也深爱着我。我会给她选择机会的，就像我从没隐瞒过我来自农村，我有贷款，我工资不高。 
+有人觉得现在的女生太过现实了，我想精神跟物质的天枰总会有所倾斜吧，就像世界上不会有绝对的和平，虽然我个人倾向于纯洁的爱情，但还是得说她们没错。 
+走自己的路吧………
+ 
+ 
+

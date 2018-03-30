@@ -1,0 +1,48 @@
+Return-Path: <yi@withub.org>
+Received: from autoforward.mail.sohu.com ([61.135.132.166])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id j0Q18j8e007818
+	for <liu@ccert.edu.cn>; Wed, 26 Jan 2005 09:08:46 +0800
+Received: from mx23.mail.sohu.com (unknown [192.168.41.141])
+	by autoforward.mail.sohu.com (Postfix) with ESMTP id 594618ECF7
+	for <liu@ccert.edu.cn>; Wed, 26 Jan 2005 09:20:36 +0800 (CST)
+Received: by mx23.mail.sohu.com (Postfix)
+	id 6014B14010; Wed, 26 Jan 2005 09:20:35 +0800 (CST)
+Delivered-To: chen741120@mx23.mail.sohu.com
+Received: from withub.org (unknown [218.80.208.20])
+	by sohumx97.sohu.com (Postfix) with SMTP id B39DE00C2528
+	for <liu@ccert.edu.cn>; Wed, 26 Jan 2005 09:20:32 +0800 (CST)
+Received: (qmail 29774 invoked by uid 1009); 26 Jan 2005 01:19:25 -0000
+Message-ID: <20050126011925.29773.qmail@withub.org>
+To: liu@ccert.edu.cn
+Subject: =?gb2312?B?UmU6INK71rHS1M6qztLDx8rH1+7H18PctcQg1NrSu8bwvsXE6iC7ucrH0qq31g==?=
+From: "yi" <yi@withub.org>
+Date: Wed, 26 Jan 2005 9:19:25 +0800
+X-Priority: 3
+X-Mailer: iGENUS webmail 3.0 beta powered by wuqiong@igenus.org
+X-Originating-IP: [192.168.1.254]
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----56356b57e8bd464c9788d8cf87e69acc"
+X-Sohu-Antivirus: 0
+X-UIDL: 6!E"!Ya2!!GV&"!XfH!!
+
+而且明星们想出名基本上是靠卖
+: 标  题: Re: 一直以为我们是最亲密的 在一起九年 还是要分
+: 发信站: 水木社区 (Fri Jun 10 13:06:25 2005), 站内
+: 
+: 他们诱惑太多了。。。。
+: : 你看那些明星中间，事业起步初期离婚，事业有成以后二婚的例子还真不少啊。
+: 
+: 
+: 
+: --
+: 雾起时 我就在你的怀里
+: 这林间 充满了湿润的芳香
+: 充满了 那不断要重现的少年时光
+: 雾散后 却已是一生
+: 山空湖静 只剩下那 
+: 在千人万人中 也绝不会错认的背影
+: 
+: 
+: ※ 来源:·水木社区 http://newsmth.net·[FROM: 61.172.200.*]
+

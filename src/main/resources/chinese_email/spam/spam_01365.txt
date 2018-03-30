@@ -1,0 +1,16 @@
+Return-Path: <zhong@yahoo.com>
+Received: from 81.10.38.183 (host-81.10.38.183.tedata.net [81.10.38.183])
+	by home.ccert.edu.cn (MIMEDefang) with ESMTP id NOQUEUE
+	for <fu@ccert.edu.cn>; Wed, 22 Jun 2005 04:48:04 +0800 (CST)
+Message-ID: <200506220448.0.941915173126578@home.ccert.edu.cn>
+From: "zhong" <zhong@yahoo.com>
+To: fu@ccert.edu.cn
+Subject: RE: 韧秧漤 硪嫣 益淌� 嵊阪享 戕侨� 冕� 享淝�
+Sender: "滠苠苘�" <noha_nona_222@yahoo.com>
+Mime-Version: 1.0
+Content-Type: text/plain; charset="ISO-8859-1"
+Content-Transfer-Encoding: 8bit
+Date: Wed, 22 Jun 2005 00:05:45 +0300
+
+ I attempted to add the filter to the  insert this into       el.setAttribute("filter", "url(#myfilter)")
+

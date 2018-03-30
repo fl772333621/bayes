@@ -1,0 +1,24 @@
+Return-Path: <ke@rbl.ccert.edu.cn>
+Received: from rbl.ccert.edu.cn (rbl.ccert.edu.cn [202.112.57.71])
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id i96ARZjA002803
+	for <peng@ccert.edu.cn>; Wed, 6 Oct 2004 18:27:35 +0800 (CST)
+Received: from rbl.ccert.edu.cn (localhost.localdomain [127.0.0.1])
+	by rbl.ccert.edu.cn (8.12.11/8.12.11) with ESMTP id i96AXVe7025462
+	for <peng@ccert.edu.cn>; Wed, 6 Oct 2004 18:33:31 +0800
+Received: (from qa@localhost)
+	by rbl.ccert.edu.cn (8.12.11/8.12.11/Submit) id i96AXVuM025461;
+	Wed, 6 Oct 2004 18:33:31 +0800
+Date: Wed, 6 Oct 2004 18:33:31 +0800
+Message-Id: <200410061033.i96AXVuM025461@rbl.ccert.edu.cn>
+Subject: =?gb2312?B?UmU6INPWw861vc7SsK61xMWuyMuho6GjoaOho6GjoaOho6Gj?=
+To: peng@ccert.edu.cn
+From: Tran Quang Anh <ke@cernet.edu.cn>
+Content-Type: multipart/mixed; boundary="----------=_1097058811-996-556"
+MIME-Version: 1.0
+X-UIDL: 7NH!!0dG!!*5p"!$X'!!
+
+我们其实都是一个人来一个人走……
+:     到现在为止，真心的爱过两个女孩儿，一个是s，交往了4年，拥有很多美好回忆，但是世界在变，最后我们分手了。另一个是h，我们相遇的太晚，遇见时她已经有了男友，虽然我们彼此留恋但我还是选择了退出，各自返回自己的轨道。经常在梦中遇见这两个女人。前天晚上梦到h，紧紧抱着她，醒来后发现窗外的冷风把我吹醒了。昨晚梦到了s，我们相拥、亲吻，在我说过：“宝贝，我想你”后，又醒了！
+:     每每醒来后都是很怅然，如果一直没有醒该有多好。。。。。。。。
+:     既然醒了，还是得笑着面对生活，只不过，是一个人走。。。。。。。
+

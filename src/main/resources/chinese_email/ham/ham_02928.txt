@@ -1,0 +1,43 @@
+Return-Path: <liao@rbl.ccert.edu.cn>
+Received: from rbl.ccert.edu.cn (rbl.ccert.edu.cn [202.112.57.71])
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id i96BCvST003505
+	for <you@ccert.edu.cn>; Wed, 6 Oct 2004 19:12:57 +0800 (CST)
+Received: from rbl.ccert.edu.cn (localhost.localdomain [127.0.0.1])
+	by rbl.ccert.edu.cn (8.12.11/8.12.11) with ESMTP id i96BIpat028073
+	for <you@ccert.edu.cn>; Wed, 6 Oct 2004 19:18:53 +0800
+Received: (from qa@localhost)
+	by rbl.ccert.edu.cn (8.12.11/8.12.11/Submit) id i96BIpdY028072;
+	Wed, 6 Oct 2004 19:18:51 +0800
+Date: Wed, 6 Oct 2004 19:18:51 +0800
+Message-Id: <200410061118.i96BIpdY028072@rbl.ccert.edu.cn>
+Subject: =?gb2312?B?UmU6IMfz1vqjus7StcS1tbC408PM2L/svMTU9cO0u7nDu8rVtb2hog==?=
+To: you@ccert.edu.cn
+From: Tran Quang Anh <liao@cernet.edu.cn>
+Content-Type: multipart/mixed; boundary="----------=_1097061533-996-616"
+MIME-Version: 1.0
+X-UIDL: `A+"!b%*!!3J""!T/9!!
+
+2005-06-08  00:48  银川  处理中心接收  计划于2005-06-08 04:00,发往北京  
+2005-06-08  01:17  银川  处理中心发出  计划于2005-06-08 04:00,发往北京  
+2005-06-08  01:21  银川  计划发运  航空  
+2005-06-08  11:00   上地  妥投  签收人:传达室章  
+到这里就是说明你的已经到北京了,
+签收人:传达室章 ,就是说你的信件已经到了学校的信件收发室,这里就应该邮寄的终点了.
+寄到后并不是显示 清华大学  妥投
+,而只是显示: 签收人:传达室章
+但这最后一个......
+2005-06-08  13:00  北京  处理中心接收  来自银川  
+我靠!是不是你地址写得有问题,把特快又给你退回去了呀!!!!
+你打11185询问一下吧
+我的你看看作为参考:
+2005-05-31  14:51  *  收寄    
+2005-05-31  17:57  大连  处理中心接收  来自11660001  
+2005-05-31  18:38  大连  处理中心发出  计划于2005-05-31 23:59 *,发往北京  
+2005-05-31  21:19  大连  计划发运  北京航2  
+2005-06-01  19:23  北京  处理中心接收  来自大连  
+2005-06-02  11:00   上地  妥投  签收人:传达室章  
+: 2005-06-08  13:00   北京  处理中心接收  来自银川  
+: 细节：
+: 2005-06-08  00:48  银川  处理中心接收  计划于2005-06-08 04:00,发往北京  
+: ...................
+

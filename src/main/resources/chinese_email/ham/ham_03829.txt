@@ -1,0 +1,34 @@
+Return-Path: <cen@cernet.edu.cn>
+Received: from tsinghua.org.cn ([210.77.143.228])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id i9I3ODWU017206
+	for <wen@ccert.edu.cn>; Mon, 18 Oct 2004 11:24:15 +0800
+Received: (eyou send program); Mon, 18 Oct 2004 11:35:16 +0800
+Received: (eyou send program); Mon, 18 Oct 2004 11:34:23 +0800
+X-EYOU-ORIGINAL-IP: 202.112.5.66
+X-EYOU-ENVELOPE-MAILFROM: sundh@cernet.edu.cn
+Received: from unknown (HELO sea.net.edu.cn) (unknown@202.112.5.66)
+ by 210.77.143.228 with SMTP; Mon, 18 Oct 2004 11:34:23 +0800
+Received: from 8jmd55gawpz3tjh ([202.112.50.7])
+	(authenticated bits=0)
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id i9I3QnJx025282;
+	Mon, 18 Oct 2004 11:26:50 +0800 (CST)
+Message-ID: <005601c4b4c2$5abe90f0$073270ca@8jmd55gawpz3tjh>
+From: "cen" <cen@cernet.edu.cn>
+To: wen@ccert.edu.cn
+Subject: =?gb2312?B?UmU6IMTQ09G6zcXz09HT0MHLudjPtaOsztK7udKqy/vC8KO/ob7XqtfUeWlyZ6G/?=
+Date: Mon, 18 Oct 2004 11:27:10 +0800
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="----=_NextPart_000_0054_01C4B505.682A67D0"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2800.1437
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1441
+X-UIDL: 9~V"!W]Q!![/&!!+Rk"!
+
+我也同意原谅他，虽然我是个女生，我想虽然感情在这件事上会有裂痕，但是有很多东西不可能是太完美的，blessing~~
+: 我觉得还是原谅他吧。
+: 我这么说，并不仅仅因为我是一个男人站在男人的立场说事。
+: 我觉得，你们真的很不容易，更重要的是，有良好的情感基础。从字里行间看出，他很爱你，这点你就相信男人的直觉和判断好了；同时，你其实还是很爱他的。尽管个人认为，一个人难免犯错，这种错误却难以原谅，但我依然相信，经过这件事情，你们会有更美好的未来。
+: ...................
+

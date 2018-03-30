@@ -1,0 +1,32 @@
+Return-Path: <ni@ccert.edu.cn>
+Received: from home.ccert.edu.cn (ccert.edu.cn [202.112.57.12])
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id iBG73vB5021189;
+	Thu, 16 Dec 2004 15:03:57 +0800 (CST)
+Received: from sunbin_S ([202.112.50.201])
+	(authenticated bits=0)
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id iBG6oD4K011984;
+	Thu, 16 Dec 2004 14:50:13 +0800
+Message-Id: <200412160650.iBG6oD4K011984@home.ccert.edu.cn>
+Date: Thu, 16 Dec 2004 15:09:24 +0800
+From: "ni" <ni@ccert.edu.cn>
+Reply-To: ni@ccert.edu.cn
+To: shi@ccert.edu.cn
+Cc: "duanhx" <cheng@ccert.edu.cn>, "starry" <zhuang@ccert.edu.cn>,
+        "zhenghui" <cheng@ccert.edu.cn>, "starry" <ding@ccert.edu.cn>,
+        "zhijun_wu" <shen@ccert.edu.cn>, "qa" <liu@ccert.edu.cn>,
+        "qchen" <guan@ccert.edu.cn>
+Subject: =?gb2312?B?UmU6ILn6xNq1xFBIRMLbzsQ=?=
+Organization: CCERT
+X-mailer: Foxmail 5.0 beta2 [cn]
+Mime-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: 8bit
+X-MIME-Autoconverted: from base64 to 8bit by sea.net.edu.cn id iBG73vB5021189
+X-UIDL: f(6"!Qm^"![GX"!Jjm"!
+
+兄弟，不要再让人笑话了......海龟的牌子现在已经有点烂了，不要让他再烂了
+论文在网上摆着，国内外做得怎么样大家心里都有杆秤，如果你非要那mit和海淀走读大学来比，我们也没办法...
+: 呵呵.没有必要回那你回什么?我觉得我说得没有错呀.你什么专业的?看来你的论文也是简单的资料堆积呀.这也叫论文........大家应该思考一下什么是论文???
+: 还有各位老兄希望你(特别是会计金融的)PHD说说你们PHD第一年学什么课程.这里居然说国内的PHD没有作业.晕!!!国内的PHD真的不用上课没有作业吗?奇怪的培养方式:)
+

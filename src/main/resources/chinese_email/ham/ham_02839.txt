@@ -1,0 +1,39 @@
+Return-Path: <gong@tsinghua.edu.cn>
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with SMTP id iBN2EVlp017076
+	for <kang@ccert.edu.cn>; Thu, 23 Dec 2004 10:15:07 +0800
+Received: (eyou send program); Thu, 23 Dec 2004 10:13:03 +0800
+Message-ID: <303767983.14854@mail.tsinghua.edu.cn>
+Received: from unknown (HELO mail.tsinghua.edu.cn) (unknown@127.0.0.1)
+ by 127.0.0.1 with SMTP; Thu, 23 Dec 2004 10:13:03 +0800
+X-scanvirus: By Symantec Scan Engine
+X-scanresult: CLEAN
+Received: (eqmail ); 23 Dec 2004 02:13:00 -0000
+Received: from unknown (HELO sony) (duanhx@166.111.204.187)
+  by localhost with SMTP; 23 Dec 2004 02:13:00 -0000
+Message-ID: <011f01c4e897$12f61780$d53270ca@sony>
+From: "gong" <gong@tsinghua.edu.cn>
+To: kang@ccert.edu.cn
+Cc: =?gb2312?B?1qPPyM6w?= <yan@ccert.edu.cn>, <yun@ccert.edu.cn>
+References: <303767006.10323@mail.tsinghua.edu.cn>
+Subject: =?gb2312?B?UmU6IMqyw7S55rjxtcTTpNO+yeixuLHIvc+6w8TYo78=?=
+Date: Thu, 23 Dec 2004 10:28:21 +0800
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2900.2180
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+Content-Transfer-Encoding: 8bit
+X-MIME-Autoconverted: from base64 to 8bit by home.ccert.edu.cn id iBN2EVlp017076
+X-UIDL: 7`0"!Oin!!9Lh"!Plc!!
+
+昨天给大米洗澡，可好玩啦。他刚开始的时候特害怕，外公托着他，他两只手
+使劲四处划拉，最后拽到外婆的手死死不放。没半分钟，感觉到很舒服，就丢
+开外婆，悠哉游哉地在澡盆里舒展开来。到翻身洗后背的时候，又害怕，又四
+处划拉一遍。洗完的时候，很饿，一边穿衣服一边嘴巴到处找吃的，等穿好竟
+然舒服得睡着了。没睡几分钟，又饿得大哭，吃饱了就睡得很好了。外婆啧啧
+惊叹，说十来天的小人就能把害怕和舒服的神态与动作表演得十分好。
+: 我儿子还不懂得喜欢喝不喜欢呢估计:D，不过既然这样就买一个吧
+

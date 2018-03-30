@@ -1,0 +1,26 @@
+Return-Path: <luo@rbl.ccert.edu.cn>
+Received: from rbl.ccert.edu.cn (rbl.ccert.edu.cn [202.112.57.71])
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id i96GOQ2M006601
+	for <jin@ccert.edu.cn>; Thu, 7 Oct 2004 00:24:26 +0800 (CST)
+Received: from rbl.ccert.edu.cn (localhost.localdomain [127.0.0.1])
+	by rbl.ccert.edu.cn (8.12.11/8.12.11) with ESMTP id i96GUMng030769
+	for <jin@ccert.edu.cn>; Thu, 7 Oct 2004 00:30:23 +0800
+Received: (from qa@localhost)
+	by rbl.ccert.edu.cn (8.12.11/8.12.11/Submit) id i96GUMS1030768;
+	Thu, 7 Oct 2004 00:30:22 +0800
+Date: Thu, 7 Oct 2004 00:30:22 +0800
+Message-Id: <200410061630.i96GUMS1030768@rbl.ccert.edu.cn>
+Subject: =?gb2312?B?UmU6IM3yt9a99Lyxo6HV97j216HH5buqMTa6xcKltcRHR7Dvw6bRvaOho6GjoQ==?=
+To: jin@ccert.edu.cn
+From: Tran Quang Anh <luo@cernet.edu.cn>
+Content-Type: multipart/mixed; boundary="----------=_1097080223-996-694"
+MIME-Version: 1.0
+X-UIDL: BJn!!T1J!!$eJ!!!#<!!
+
+什么配置的电脑啊?
+要是装XP就不用驱动了呀
+:  6月12日，我在清华16号楼107宿舍买了李蓬（他说已经研3，汽车专业）的电脑，因为我对电脑不是特懂，忘了要声卡和显卡驱动盘。回来后我对电脑里面的东西进行了整理删除，想重装系统，才知道没有驱动盘，我在网上问他要盘，他说驱动程序在E盘里，可是我不知道不小心把驱动程序给删除了，他说那不是他的责任了，可是我却只能再麻烦他给我那两个驱动程序，而我只知道他的住址和QQ，他又一直不回复我，所以我心里万分的急
+:    我想再去清华找上门的，可是我觉得那样似乎又不是太好。所以想征个好心人帮我去问问吗？实际上是说服他给我下载匹配的声卡和显卡驱动程序！
+:    一个急切期待帮助的林大MM！
+: ...................
+

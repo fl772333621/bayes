@@ -1,0 +1,23 @@
+Return-Path: <pan@sina.com>
+Received: from sina.com (sina187-156.sina.com.cn [202.106.187.156] (may be forged))
+	by home.ccert.edu.cn (8.13.1/8.13.1) with SMTP id j2EEFqUl010262
+	for <mei@ccert.edu.cn>; Mon, 14 Mar 2005 22:16:03 +0800
+Message-Id: <200503141416.j2EEFqUl010262@home.ccert.edu.cn>
+Received: (qmail 635 invoked from network); 14 Mar 2005 14:29:21 -0000
+Received: from unknown (HELO ibm-t23) (219.224.134.126)
+  by 202.106.187.156 with SMTP; 14 Mar 2005 14:29:21 -0000
+Received: from(cheriff@sina.com) to(qa@ccert.edu.cn)
+Date: Mon, 14 Mar 2005 22:09:41 +0800
+From: "pan" <pan@sina.com>
+To: mei@ccert.edu.cn
+Subject: =?gb2312?B?UmU6IGdn19zKx8u1y/vX1Ly6w7vT0L6t0ek=?=
+X-mailer: Foxmail 5.0 [cn]
+Mime-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="=====001_Dragon041854254233_====="
+X-UIDL: 'C@"!>jB!!*N0!!fD]!!
+
+有这样的人
+: 和gg谈恋爱总是觉得gg不够主动，不是很投入，gg说他没有经验，很多事情想做但是不知道怎么做。gg常常说我爱你，可是我确实感觉不到，当我把自己的想法告诉他的时候，他总是说，我没有经验。
+: 我总觉得gg特别理智和冷静，他说他就是这样的人。可是我总觉得他没有遇到让他不理智的人吧。到底有没有这么理智的男孩（男人）呢？不过我的朋友都说我多愁善感，可能是我太浪漫了，所以对gg的要求也比较高吧。
+

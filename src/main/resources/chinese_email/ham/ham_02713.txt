@@ -1,0 +1,52 @@
+Return-Path: <tian@home.ccert.edu.cn>
+Received: from home.ccert.edu.cn (localhost [127.0.0.1])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id iAP2R4MR031454;
+	Thu, 25 Nov 2004 10:27:04 +0800
+Received: (from majordomo@localhost)
+	by home.ccert.edu.cn (8.13.1/8.13.1/Submit) id iAP2R4E0031453;
+	Thu, 25 Nov 2004 10:27:04 +0800
+X-Authentication-Warning: home.ccert.edu.cn: majordomo set sender to owner-ccertstaff using -f
+Received: from ccertspark (tu203021.tsinghua.edu.cn [166.111.203.21])
+	(authenticated bits=0)
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id iAP2R2MN031449
+	for <lai@ccert.edu.cn>; Thu, 25 Nov 2004 10:27:03 +0800
+From: "tian" <tian@ccert.edu.cn>
+To: lai@ccert.edu.cn
+Subject: =?gb2312?B?UmU6INX3yMu45svfsLPM/bTwsee6zTQwv+nHrtKqxMS49qO/?=
+Date: Thu, 25 Nov 2004 10:38:45 +0800
+Message-ID: <002d01c4d297$e3147580$15cb6fa6@ccertspark>
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+X-Priority: 3 (Normal)
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook, Build 10.0.6626
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.3790.181
+Importance: Normal
+In-reply-to: <002601c4d294$f3b53b70$15cb6fa6@ccertspark>
+Content-Transfer-Encoding: 8bit
+X-MIME-Autoconverted: from quoted-printable to 8bit by home.ccert.edu.cn id iAP2R4MN031451
+Sender: owner-ccertstaff@home.ccert.edu.cn
+Precedence: bulk
+X-UIDL: VpF!!)*<!!QO\!!)>`!!
+
+凡事都有两面性
+你的一二三可以作为不选择第二个的理由
+同时，是否选择第一个？相比之下第一个
+第一，不能带来收入
+第二，即将获取的“智慧”可以吸收的几率是完全未知，几率小的可能性较大，因为是听答辩而非听学术报告。至于是不是可以价值40元rmb就更未知了。
+第三，答辩是一次性的，也就是说这次只要不去，以后它都不会困扰你了；而了解学校概貌是随时的，这次不去，以后还要去，也就说这个选项还会继续困扰，比听答辩的一次性烦人多了。
+还是寝室里睡觉吧
+ 这是个博弈问题.
+ 找出优势策略
+ 毫不犹豫去选择,想些那个有用,那个最需要.
+ 设身处地我会选第一个,
+ 第一,不用花钱,没有多少经济成本.
+ 第二,听答辩等于在吸收别人智慧,而且与你所学有关.
+ 第三,答辩不具有可补性,至于学校概貌通过校史之类大体可以弥补.
+  
+: 答辩内容是一个感兴趣的话题，与所学有关
+: 40块钱的同时可以了解一下学校的概貌，时间较长
+: which？which？
+: ...................
+

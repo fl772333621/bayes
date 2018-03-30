@@ -1,0 +1,25 @@
+Return-Path: <jin@rbl.ccert.edu.cn>
+Received: from rbl.ccert.edu.cn (rbl.ccert.edu.cn [202.112.57.71])
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id i9GGUXjq027103
+	for <su@ccert.edu.cn>; Sun, 17 Oct 2004 00:30:33 +0800 (CST)
+Received: from rbl.ccert.edu.cn (localhost.localdomain [127.0.0.1])
+	by rbl.ccert.edu.cn (8.12.11/8.12.11) with ESMTP id i9GGa96R008064
+	for <su@ccert.edu.cn>; Sun, 17 Oct 2004 00:36:09 +0800
+Received: (from qa@localhost)
+	by rbl.ccert.edu.cn (8.12.11/8.12.11/Submit) id i9GGa8Oo008063;
+	Sun, 17 Oct 2004 00:36:08 +0800
+Date: Sun, 17 Oct 2004 00:36:08 +0800
+Message-Id: <200410161636.i9GGa8Oo008063@rbl.ccert.edu.cn>
+Subject: =?gb2312?B?ofEgxP7UuNCm18W/3iyyu9S4v97Xxcu1uvO72g==?=
+To: su@ccert.edu.cn
+From: Tran Quang Anh <jin@cernet.edu.cn>
+Content-Type: multipart/mixed; boundary="----------=_1097944569-2811-126"
+MIME-Version: 1.0
+X-UIDL: +>["!^\;"!l/["!Vo-!!
+
+如果我是鱼,你是水,那该多好,因为水永远知道鱼的想法,可惜我不是鱼,你也不会是水,所以你永远都不知道我的爱,也许我根本就不在你心里...
+我在我们认识的第78天离开了北京,离开了有你的地方.其实我不想走,很想留下,你却不曾挽留过.
+在认识你的78天里我很快乐,虽然我知道我们不能在一起,但我一直努力改变自己去迎合你,可惜我还是走不到你生命里..我怕我以后会后悔,所以我在有限的时间里去争取过.不是我给不了你.而是你一直都不想要..
+也许我们的心从来就不曾近过，一直都存在着距离，你无法明白我的心情，因为你还不曾像我如此的爱你！你就像流星一样划过我的天际，那种瞬间的美丽消逝的那样的快，这是否预示着我们的情缘，也如夜空里的流星，将逐渐消失在漫漫的岁月长河里？
+我一直都带着你爱的微笑......有些人没什么好,但就是谁都无法取代的了.无论你喜欢谁，请留下给我的位置，空出几寸为我坚持。
+

@@ -1,0 +1,27 @@
+Return-Path: <hu@rbl.ccert.edu.cn>
+Received: from rbl.ccert.edu.cn (rbl.ccert.edu.cn [202.112.57.71])
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id i980v6NC028248
+	for <xue@ccert.edu.cn>; Fri, 8 Oct 2004 08:57:07 +0800 (CST)
+Received: from rbl.ccert.edu.cn (localhost.localdomain [127.0.0.1])
+	by rbl.ccert.edu.cn (8.12.11/8.12.11) with ESMTP id i98138ZO001130
+	for <xue@ccert.edu.cn>; Fri, 8 Oct 2004 09:03:08 +0800
+Received: (from qa@localhost)
+	by rbl.ccert.edu.cn (8.12.11/8.12.11/Submit) id i98138BN001129;
+	Fri, 8 Oct 2004 09:03:08 +0800
+Date: Fri, 8 Oct 2004 09:03:08 +0800
+Message-Id: <200410080103.i98138BN001129@rbl.ccert.edu.cn>
+Subject: =?gb2312?B?UmU6ILXNxOq8ts/ryrXPsLXEzazRp8frvfjAtA==?=
+To: xue@ccert.edu.cn
+From: Tran Quang Anh <hu@cernet.edu.cn>
+Content-Type: multipart/mixed; boundary="----------=_1097197388-1044-180"
+MIME-Version: 1.0
+X-UIDL: gC@!!~dW!!((U!!=AV!!
+
+首先，我认为大学生实习基本学不到太多东西，我接待过实习的清华学生，基本是为了帮学生完成任务。
+再有，学生也的确帮不上什么忙，两周的时间，我还没教会你，你就要走了，所以，充其量是做些琐碎的工作。
+至于网通亦庄办公区，早上7：30左右在清华南门有班车，晚上6：40回南门，挺方便的。
+我觉得如果谁学校要求暑期实践什么的，到时可以考虑，毕竟能了解一下运营商的一些工作，呵呵。
+: 别用这种言辞来唬人。
+: 想学东西，也不能这样吧，
+: 来回路费都不够。还在路上耽误4、5个小时。
+

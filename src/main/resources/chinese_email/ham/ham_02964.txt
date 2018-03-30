@@ -1,0 +1,33 @@
+Return-Path: <fan@cacs.gov.cn>
+Received: from tsinghua.org.cn ([210.77.143.228])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id i95GbvVg029851
+	for <qian@ccert.edu.cn>; Wed, 6 Oct 2004 00:38:03 +0800
+Date: Wed, 6 Oct 2004 00:37:57 +0800
+Received: (eyou send program); Wed, 06 Oct 2004 00:48:31 +0800
+Received: (eyou send program); Wed, 06 Oct 2004 00:47:30 +0800
+X-EYOU-ORIGINAL-IP: 200.47.79.38
+X-EYOU-ENVELOPE-MAILFROM: zheng954cuib@cacs.gov.cn
+Received: from unknown (HELO tzo-ppal.empresas-yv.com) (unknown@200.47.79.38)
+ by 210.77.143.228 with SMTP; Wed, 06 Oct 2004 00:47:30 +0800
+Received: from cacs.gov.cn ([218.165.110.20]) by tzo-ppal.empresas-yv.com  with Microsoft SMTPSVC(5.5.1877.197.19);
+	 Tue, 5 Oct 2004 02:52:07 -0400
+Received: from unknown (HELO science.net [210.196.74.21])
+          by cacs.gov.cn with SMTP;
+          Tue, 05 Oct 2004 06:39:01 GMT
+Message-Id: <1096958415-@science.net>
+From: "fan" <fan@cacs.gov.cn>
+To: qian@ccert.edu.cn
+Subject: =?gb2312?B?UmU6ILWxuqbFwsqnyKXSu7j2yMu1xMqxuvKhraGt?=
+Sender: zheng.lib
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="----=_NextPart_000_000B_01C4AA53.91190500"
+X-UIDL: +h7"!bAC"!d&G!!g]#"!
+
+当和一个人在一起时有这么多痛苦时
+还有在一起的不要吗？
+:     《星战》里面把恐惧算成了Dark Side的一方面，当你害怕失去一个东西或者失去一个人的时候，你会失去自我，被一些东西甚至是邪恶所控制，难以自拔，我自己似乎也有这样的感觉，尝着痛苦，但是却没有办法走出。   
+:     跟她在一起，很多时候你难以感觉出来她对你的在意、肯定和欣赏，包括她的眼神，她的看法，她的行为。总感觉相爱应该是一个相互的过程，你对她的在意，为了她改变，为了她付出，她也应该对你在意，有些时候只是等待她的一个肯定，哪怕是眼神，似乎都那么困难。
+:     我无法忍受她有些时候活在自己的世界里的感觉，没有交流，没有默契，感觉你热诚的目光频频投向她的时候，她却一脸茫然，她似乎根本没有体会到你付出的艰辛和痛苦，感觉她把一切都当作理所当然，我是男人就这样的命运。有些时候心里有很多的痛楚，却很难启齿，鼓起勇气的时候，却又引起大家的冲突和冷战，奢望她的理解，却很少得到。
+: ...................
+

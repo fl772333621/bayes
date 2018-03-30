@@ -1,0 +1,54 @@
+Return-Path: <wu@mails.tsinghua.edu.cn>
+Received: from tsinghua.org.cn ([210.77.143.228])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id iA98QQtr010529
+	for <pu@ccert.edu.cn>; Tue, 9 Nov 2004 16:26:31 +0800
+Received: (eyou send program); Tue, 09 Nov 2004 16:38:15 +0800
+Received: (eyou send program); Tue, 09 Nov 2004 16:38:14 +0800
+X-EYOU-ORIGINAL-IP: 210.77.143.235
+X-EYOU-ENVELOPE-MAILFROM: malb03@mails.tsinghua.edu.cn
+Received: from unknown (HELO eyou.net) (unknown@210.77.143.235)
+ by 210.77.143.228 with SMTP; Tue, 09 Nov 2004 16:38:14 +0800
+Received: (eyou send program); Tue, 09 Nov 2004 16:33:53 +0800
+Message-ID: <299989233.12767@eyou.net>
+Received: from 166.111.8.16 by 210.77.143.235 with SMTP; Tue, 09 Nov 2004 16:33:52 +0800
+Received: (eyou send program); Tue, 09 Nov 2004 16:32:20 +0800
+Message-ID: <299989140.03289@mails.tsinghua.edu.cn>
+Received: (eyou send program); Tue, 09 Nov 2004 16:32:20 +0800
+Message-ID: <299989140.14678@mails.tsinghua.edu.cn>
+Received: from unknown (HELO mails.tsinghua.edu.cn) (unknown@127.0.0.1)
+ by 127.0.0.1 with SMTP; Tue, 09 Nov 2004 16:32:20 +0800
+X-scanvirus: By Symantec Scan Engine
+X-scanresult: NOREP
+Received: (eqmail ); 9 Nov 2004 08:32:17 -0000
+Received: from ccert.edu.cn (HELO home.ccert.edu.cn) (202.112.57.12)
+  by mails.tsinghua.edu.cn with SMTP; 9 Nov 2004 08:32:17 -0000
+Received: from home.ccert.edu.cn (localhost [127.0.0.1])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id iA98O9ZE010453;
+	Tue, 9 Nov 2004 16:24:09 +0800
+Received: (from majordomo@localhost)
+	by home.ccert.edu.cn (8.13.1/8.13.1/Submit) id iA98O90O010452;
+	Tue, 9 Nov 2004 16:24:09 +0800
+X-Authentication-Warning: home.ccert.edu.cn: majordomo set sender to owner-ccertstaff using -f
+Received: from mails.tsinghua.edu.cn (mails.tsinghua.edu.cn [166.111.8.16])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with SMTP id iA98O7qx010448
+	for <pu@ccert.edu.cn>; Tue, 9 Nov 2004 16:24:08 +0800
+Received: (eyou send program); Tue, 09 Nov 2004 16:31:01 +0800
+Message-ID: <299989061.01855@mails.tsinghua.edu.cn>
+Received: from 202.112.50.13 by mails.tsinghua.edu.cn with HTTP; Tue, 09 Nov 2004 16:31:01 +0800
+X-WebMAIL-MUA: [202.112.50.13]
+From: "wu" <wu@mails.tsinghua.edu.cn>
+To: pu@ccert.edu.cn
+Date: Tue, 09 Nov 2004 16:31:01 +0800
+Reply-To: "wu" <wu@mails.tsinghua.edu.cn>
+Subject: =?gb2312?B?UmU6ILK71qrOqsqyw7TX3MrHz+vG8Mv7?=
+Content-Type: text/plain
+Sender: owner-ccertstaff@home.ccert.edu.cn
+Precedence: bulk
+X-UIDL: 22;"!/6H!!/^b!!Dp^"!
+
+呵呵，不知道什么叫背叛，当有些事情要发生的时候，我们只是觉得自己很无力罢了。
+: 嗨，换了新水木，用http登录，发文还是不习惯。
+: 不知为什么，不论忙闲，总是会想起他，总想找个人好好的哭一场。
+: 想把他忘记，却在每一天的呼吸，行走，吃饭时总会不经意的想起他，想起以前的种种温柔和伤痛，想起我为他流的泪水，想起他和他的新女朋友。想起他对我的背叛，想起我当初拥有他时的无力与疲惫。想起我每天不得不面对他的伤痛，想起所有心中的伤......
+: ...................
+

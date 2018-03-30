@@ -1,0 +1,48 @@
+Return-Path: <yan@home.ccert.edu.cn>
+Received: from home.ccert.edu.cn (localhost [127.0.0.1])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id j0M4Vecr025846;
+	Sat, 22 Jan 2005 12:31:40 +0800
+Received: (from majordomo@localhost)
+	by home.ccert.edu.cn (8.13.1/8.13.1/Submit) id j0M4Veqt025845;
+	Sat, 22 Jan 2005 12:31:40 +0800
+X-Authentication-Warning: home.ccert.edu.cn: majordomo set sender to owner-ccertstaff using -f
+Received: from ccertspark (tu203021.ip.tsinghua.edu.cn [166.111.203.21])
+	(authenticated bits=0)
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id j0M4Vd7H025840
+	for <zhou@ccert.edu.cn>; Sat, 22 Jan 2005 12:31:40 +0800
+Reply-To: <yan@cernet.edu.cn>
+From: "yan" <yan@ccert.edu.cn>
+To: zhou@ccert.edu.cn
+Subject: =?gb2312?B?ofEgw+bK1Lmry77Az9fco6zEw7jf0L2jrNa70Og1t9bW0yAo16rU2Ck=?=
+Date: Sat, 22 Jan 2005 12:41:39 +0800
+Message-ID: <001801c5003c$aa7d3fe0$15cb6fa6@ccertspark>
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+X-Priority: 3 (Normal)
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook, Build 10.0.6626
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.3790.181
+Importance: Normal
+Content-Transfer-Encoding: 8bit
+X-MIME-Autoconverted: from base64 to 8bit by home.ccert.edu.cn id j0M4Ve7H025843
+Sender: owner-ccertstaff@home.ccert.edu.cn
+Precedence: bulk
+X-UIDL: cK'"!3,$"!!3Z!!"J^!!
+
+【 以下文字转载自 Sales 讨论区 】
+发信人: albb (无知), 信区: Sales
+标  题: 面试公司老总，拿高薪，只需5分钟
+发信站: 水木社区 (Sat Jun 18 17:44:19 2005), 站内
+为什么刚毕业的学生，大多数只能拿到5000元以下的Offer，原因是没有掌握销售自己的技巧。面试中最关键一步，就是跟公司老大谈待遇。该怎么谈呢？
+《高层销售，5分钟足矣》 
+高层销售——只需要5分钟！只能用5分钟！
+高层只有5分钟 
+高层日理万机，即使有缘和你相约，也只有5分钟有效销售时间…… 
+孙：要和高层见面，最该注意的一点是什么？ 
+吴：高层是要日理万机的，即使答应和我们见面，时间也一定不长。而我们又经常发现，
+和高层谈话的时候，高层总是被电话打断，使得有限的时间变得更短。或者由于太多的电
+话和事情，他没有办法集中精力，于是他做决定必须在很快的时间内完成，这称为有效时
+间。 
+完整内容，详见sales版《高层销售，5分钟足矣》
+

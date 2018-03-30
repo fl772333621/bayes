@@ -1,0 +1,37 @@
+Return-Path: <rao@tsinghua.edu.cn>
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j1L6qeP6023994
+	for <tang@ccert.edu.cn>; Mon, 21 Feb 2005 14:52:40 +0800 (CST)
+Received: (eyou send program); Mon, 21 Feb 2005 14:36:13 +0800
+Message-ID: <308967773.09074@mail.tsinghua.edu.cn>
+Received: from unknown (HELO mail.tsinghua.edu.cn) (unknown@127.0.0.1)
+ by 127.0.0.1 with SMTP; Mon, 21 Feb 2005 14:36:13 +0800
+X-scanvirus: By Symantec Scan Engine
+X-scanresult: CLEAN
+Received: (eqmail ); 21 Feb 2005 06:36:08 -0000
+Received: from unknown (HELO sony) (duanhx@202.112.35.253)
+  by localhost with SMTP; 21 Feb 2005 06:36:08 -0000
+Message-ID: <003f01c517e1$e96d9300$0201a8c0@sony>
+From: "rao" <rao@tsinghua.edu.cn>
+To: tang@ccert.edu.cn
+Cc: <tu@ccert.edu.cn>
+References: <308965458.10097@mail.tsinghua.edu.cn>
+Subject: =?gb2312?B?UmU6IL3xzOzT0LXjyfpnZ7XExvg=?=
+Date: Mon, 21 Feb 2005 14:52:28 +0800
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2900.2180
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+Content-Transfer-Encoding: 8bit
+X-MIME-Autoconverted: from base64 to 8bit by sea.net.edu.cn id j1L6qeP6023994
+X-UIDL: ZOU"!0h#"!-`!"!PGg"!
+
+你可以发短信给他嘛。
+: 唉，要是自己家就好了，就是因为在他们实验室而且人都坐的很近，所以我怕说这些被他们实验室的人听到不好，为了女朋友就调实验室的空调。
+: 这人有的时候真是一点都不关心我，我平时冲他抱怨我们实验室的空调冷，已经好几天了，不知道他是不是没往心里去。昨天晚上那么冷！根本就不用开什么空调！结果我出来以后跟他说把我冻坏了，他还作惊讶状说25度还冷啊！要知道我们的座离空调挺近的，直接出来的风可不是25
+: 而且昨天约我去他们实验室之前他还带了件衣服送我穿，说是开空调的时候穿，结果走的时候这zt特意的把衣服放下，说是就放你们实验室吧，我就以为他们实验室肯定晚上不会开空调了（因为要开都是他开的），才没有拿衣服就去的。
+: ...................
+

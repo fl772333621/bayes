@@ -1,0 +1,59 @@
+Return-Path: <luo@ns.6test.edu.cn>
+Received: from tsinghua.org.cn ([210.77.143.228])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id iAO0v2EG013950
+	for <zeng@ccert.edu.cn>; Wed, 24 Nov 2004 08:57:03 +0800
+Received: (eyou send program); Wed, 24 Nov 2004 09:09:47 +0800
+Received: (eyou send program); Wed, 24 Nov 2004 09:09:47 +0800
+X-EYOU-ORIGINAL-IP: 210.77.143.235
+X-EYOU-ENVELOPE-MAILFROM: toefl-bounces@server.cool-meeting.com
+Received: from unknown (HELO eyou.net) (unknown@210.77.143.235)
+ by 210.77.143.228 with SMTP; Wed, 24 Nov 2004 09:09:47 +0800
+Received: (eyou send program); Wed, 24 Nov 2004 09:04:49 +0800
+Message-ID: <301258289.25638@eyou.net>
+Received: from 202.38.99.65 by 210.77.143.235 with SMTP; Wed, 24 Nov 2004 09:04:48 +0800
+Received: from server.cool-meeting.com (localhost.localdomain [127.0.0.1])
+	by server.cool-meeting.com (8.12.8/8.12.8) with ESMTP id iAO1O8li027269
+	for <zeng@ccert.edu.cn>; Wed, 24 Nov 2004 09:24:14 +0800
+Received: from ns.6test.edu.cn ([202.38.99.18])
+	by server.cool-meeting.com (8.12.8/8.12.8) with ESMTP id iAO1O2kr027265
+	for <zeng@ccert.edu.cn>; Wed, 24 Nov 2004 09:24:02 +0800
+Received: from [202.112.3.118] (helo=IBM-E4AA49AF703)
+	by ns.6test.edu.cn with asmtp (Exim 4.12) id 1CWlzN-000HxZ-00
+	for Toefl@server.cool-meeting.com; Wed, 24 Nov 2004 09:30:33 +0800
+From: "luo" <luo@ns.6test.edu.cn>
+To: zeng@ccert.edu.cn
+X-mailer: Foxmail 4.2 [cn]
+Mime-Version: 1.0
+Content-Type: text/plain;
+      charset="GB2312"
+Date: Wed, 24 Nov 2004 9:9:4 +0800
+Message-Id: <E1CWlzN-000HxZ-00@ns.6test.edu.cn>
+Content-Transfer-Encoding: 8bit
+X-MIME-Autoconverted: from quoted-printable to 8bit by server.cool-meeting.com
+	id iAO1O2kr027265
+Cc: 
+Subject: =?gb2312?B?UmU6IMHLveK7p7/a1f6y37XEx+u9+MC01ri149K7z8I=?=
+X-BeenThere: toefl@server.cool-meeting.com
+X-Mailman-Version: 2.1.2
+Precedence: list
+List-Id: &#26446;&#26143;&#21644;&#20182;&#30340;&#23398;&#29983;&#20204;
+	<toefl.server.cool-meeting.com>
+List-Unsubscribe: <http://server.cool-meeting.com/mailman/listinfo/toefl>,
+	<mailto:toefl-request@server.cool-meeting.com?subject=unsubscribe>
+List-Archive: <http://server.cool-meeting.com/mailman/private/toefl>
+List-Post: <mailto:toefl@server.cool-meeting.com>
+List-Help: <mailto:toefl-request@server.cool-meeting.com?subject=help>
+List-Subscribe: <http://server.cool-meeting.com/mailman/listinfo/toefl>,
+	<mailto:toefl-request@server.cool-meeting.com?subject=subscribe>
+Sender: toefl-bounces@server.cool-meeting.com
+Errors-To: toefl-bounces@server.cool-meeting.com
+X-UIDL: O`E!!ck;!!`[W!!R\G!!
+
+    看样子老兄你是人事部的接收涵了。我也和你同样的问题。    
+这个问题我咨询过北京人事局，他们在审核材料的时候只管培养方式为定向和委培的，非定向和自筹经费都是一样对待。人事部我也咨询过两个部门，他们说不清楚。
+    人事部接受涵上统分这个词早过时了，现在研究生培养类别是分为非定向、自费、定向合委培。把统分这个词弄上来，还真不好把握。后来咨询过学校的毕业办，他们说没有问题，而且以后碰到这种情况可以选择统分项。
+    就是说，选择统分还是自费无关紧要，只要不是其他两项，因为非定向和自费在就业政策上是一致的，重要的是你要拿好指标、报道证、毕业证和学位证去单位报道。单位我也问过，他们说还真是很少遇到选择自费的情况。问过几个以前的同学，也研究生毕业，他们都是自费的，但在接受涵上都选统分，哈哈。相信他们在档案当中肯定是自筹经费，成不了非定向(公费)的。
+    我问单位是否有必要更改一下，他们说改不改无所谓了，想要改的话不要弄脏不要弄破。
+    我也咨询这里户口代理之一，说没问题。
+: 签了一个单位，拿到了单位的人事接收函，最后回执上培养类型我填的是自费（我是研究生），选项共有统分，委培，定向和自费，我上研究生确实交了钱的，但是在分配上也是享受统分政策，请问这对办户口有影响吗？我现在回执还没交给单位，能在上面进行修改吗？谢谢指点
+

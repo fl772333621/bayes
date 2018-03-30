@@ -1,0 +1,69 @@
+Return-Path: <jiang@ns.6test.edu.cn>
+Received: from tsinghua.org.cn ([210.77.143.228])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id iA23PVEC009328
+	for <gao@ccert.edu.cn>; Tue, 2 Nov 2004 11:25:43 +0800
+Received: (eyou send program); Tue, 02 Nov 2004 11:36:53 +0800
+Received: (eyou send program); Tue, 02 Nov 2004 11:36:53 +0800
+X-EYOU-ORIGINAL-IP: 210.77.143.235
+X-EYOU-ENVELOPE-MAILFROM: toefl-bounces@server.cool-meeting.com
+Received: from unknown (HELO eyou.net) (unknown@210.77.143.235)
+ by 210.77.143.228 with SMTP; Tue, 02 Nov 2004 11:36:53 +0800
+Received: (eyou send program); Tue, 02 Nov 2004 11:33:23 +0800
+Message-ID: <299366403.21887@eyou.net>
+Received: from 202.38.99.65 by 210.77.143.235 with SMTP; Tue, 02 Nov 2004 11:33:19 +0800
+Received: from server.cool-meeting.com (localhost.localdomain [127.0.0.1])
+	by server.cool-meeting.com (8.12.8/8.12.8) with ESMTP id iA23lYli017908
+	for <gao@ccert.edu.cn>; Tue, 2 Nov 2004 11:47:43 +0800
+Received: from ns.6test.edu.cn ([202.38.99.18])
+	by server.cool-meeting.com (8.12.8/8.12.8) with ESMTP id iA23lRkr017904
+	for <gao@ccert.edu.cn>; Tue, 2 Nov 2004 11:47:27 +0800
+Received: from [210.25.128.109] (helo=tsinghua89o1rm)
+	by ns.6test.edu.cn with asmtp (Exim 4.12) id 1COpmj-000Hqn-00
+	for Toefl@server.cool-meeting.com; Tue, 02 Nov 2004 11:56:41 +0800
+Message-ID: <00b901c4c08d$3da56df0$6d8019d2@tsinghua89o1rm>
+From: "jiang" <jiang@ns.6test.edu.cn>
+To: gao@ccert.edu.cn
+Date: Tue, 2 Nov 2004 11:36:42 +0800
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2600.0000
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2600.0000
+Content-Transfer-Encoding: 8bit
+X-MIME-Autoconverted: from base64 to 8bit by server.cool-meeting.com id
+	iA23lRkr017904
+Cc: 
+Subject: =?gb2312?B?ofEgveK+9tXiuPbOyszitcSw7Leo1NrT2sjr0afPyLK7t9bXqNK1?=
+X-BeenThere: toefl@server.cool-meeting.com
+X-Mailman-Version: 2.1.2
+Precedence: list
+List-Id: &#26446;&#26143;&#21644;&#20182;&#30340;&#23398;&#29983;&#20204;
+	<toefl.server.cool-meeting.com>
+List-Unsubscribe: <http://server.cool-meeting.com/mailman/listinfo/toefl>,
+	<mailto:toefl-request@server.cool-meeting.com?subject=unsubscribe>
+List-Archive: <http://server.cool-meeting.com/mailman/private/toefl>
+List-Post: <mailto:toefl@server.cool-meeting.com>
+List-Help: <mailto:toefl-request@server.cool-meeting.com?subject=help>
+List-Subscribe: <http://server.cool-meeting.com/mailman/listinfo/toefl>,
+	<mailto:toefl-request@server.cool-meeting.com?subject=subscribe>
+Sender: toefl-bounces@server.cool-meeting.com
+Errors-To: toefl-bounces@server.cool-meeting.com
+X-UIDL: XBJ"!V@@!!,cK"!pR5"!
+Status: RO
+
+现在复旦正在试点这一做法。
+可以入学先不分专业，学生只分文理两大领域，
+逐步推动本科大一、大二教育，侧重于基础性课程，在大二下到大三开始分专业，
+这时的分专业也应当是建立在以学院为平台的教育基础之上的。
+学生在高三毕业时确实很难做出正确的选择，但是在这个时候，学生
+应当已经具备了对各个学科的基本认识，确定了人生的发展方向，
+是做学术还是工作等等。
+这样做可能对于相当多的理工科专业而言学生本科接受的专业教育水平会下降，
+但是确实可以促进人才更有选择性的流动，让合适的人去做合适的事。
+: 这个抱歉，昨天和几个老朋友聊天，替他们郁闷，当年那么高的分数，考的学校也好，虽不
+: 是数一数二的学校，却也能输无数六，但却专业都不是很好，现在落的……心里很不爽。
+: 所以多说了几个p，还请大家见谅！
+: ...................
+

@@ -1,0 +1,45 @@
+Return-Path: <jin@home.ccert.edu.cn>
+Received: from home.ccert.edu.cn (localhost [127.0.0.1])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id iBU0LO4j017218;
+	Thu, 30 Dec 2004 08:21:24 +0800
+Received: (from majordomo@localhost)
+	by home.ccert.edu.cn (8.13.1/8.13.1/Submit) id iBU0LOdX017217;
+	Thu, 30 Dec 2004 08:21:24 +0800
+X-Authentication-Warning: home.ccert.edu.cn: majordomo set sender to owner-ccertstaff using -f
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with SMTP id iBU0LLUb017185
+	for <lian@ccert.edu.cn>; Thu, 30 Dec 2004 08:21:21 +0800
+Received: (eyou send program); Thu, 30 Dec 2004 08:20:03 +0800
+Message-ID: <304366003.23882@mail.tsinghua.edu.cn>
+Received: from unknown (HELO mail.tsinghua.edu.cn) (unknown@127.0.0.1)
+ by 127.0.0.1 with SMTP; Thu, 30 Dec 2004 08:20:03 +0800
+X-scanvirus: By Symantec Scan Engine
+X-scanresult: NOREP
+Received: (eqmail ); 30 Dec 2004 00:20:00 -0000
+Received: from unknown (HELO sony) (duanhx@166.111.232.127)
+  by localhost with SMTP; 30 Dec 2004 00:20:00 -0000
+Message-ID: <045c01c4ee07$755cbc10$bbcc6fa6@sony>
+From: "jin" <jin@tsinghua.edu.cn>
+To: lian@ccert.edu.cn
+Cc: <cao@ccert.edu.cn>, <ling@ccert.edu.cn>,
+        =?gb2312?B?zuLWvr78?= <pan@ccert.edu.cn>, <liu@ccert.edu.cn>
+Subject: =?gb2312?B?ofEguNC+9dPQteOyu7bU?=
+Date: Thu, 30 Dec 2004 08:35:20 +0800
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2800.1106
+Disposition-Notification-To: "Duan Haixin" <duanhx@tsinghua.edu.cn>
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1106
+Content-Transfer-Encoding: 8bit
+X-MIME-Autoconverted: from base64 to 8bit by home.ccert.edu.cn id iBU0LMUb017212
+Sender: owner-ccertstaff@home.ccert.edu.cn
+Precedence: bulk
+X-UIDL: LXl"!h5[!!4Bn!!)O\"!
+
+请大家帮忙分析一下，谢了~
+gg这个月4号晚上11点多发信给我说他下周要去hk/tw行程，和平常一样说说他的工作事情。但是今天他发mail说他现在山西老家处她妈妈4日病倒了他当天就赶回去老家送去医院，我一看就觉得和他4号晚说的话截然不同阿，虽然可能他不小心打错了日期或许回老家是5号，但他的信都是显眼的繁体中文字（以前用的是简体），给我的印象就是他不是在国内发信给我的。。。
+我不愿往坏里想，但是没心情回信。
+

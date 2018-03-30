@@ -1,0 +1,59 @@
+Return-Path: <wu@163.com>
+Received: from tsinghua.org.cn ([210.77.143.232])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with SMTP id j4D1Y8A1030135
+	for <yuan@ccert.edu.cn>; Fri, 13 May 2005 09:34:18 +0800
+Received: (eyou send program); Fri, 13 May 2005 09:50:49 +0800
+Message-ID: <315949049.03610@tsinghua.org.cn>
+X-EYOU-AUTOFORWARD: tsinghua.org.cn
+Received: (eyou send program); Fri, 13 May 2005 09:50:49 +0800
+Message-ID: <315949049.30931@tsinghua.org.cn>
+Received: from unknown (HELO eyou.net) (210.77.143.235)
+ by 210.77.143.232 with SMTP; Fri, 13 May 2005 09:50:49 +0800
+X-EYOU-SPAMVALUE: 0
+Received: (eyou anti_spam gateway 3.0); Fri, 13 May 2005 09:40:03 +0800
+Message-ID: <315948403.28148@eyou.net>
+Received: from 202.112.49.111 by 210.77.143.235 with SMTP; Fri, 13 May 2005 09:40:03 +0800
+Received: from Garfield. (localhost [IPv6:::1])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with ESMTP id j4D1jrKS038375
+	for <yuan@ccert.edu.cn>; Fri, 13 May 2005 09:46:03 +0800 (CST)
+	(envelope-from toefl-bounces@gradinfo.net.edu.cn)
+Received: from 163.com (bj44-205.i.netease.com [202.108.44.205] (may be
+	forged))
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with SMTP id j4D1jnx2038371
+	for <yuan@ccert.edu.cn>; Fri, 13 May 2005 09:45:50 +0800 (CST)
+	(envelope-from bluestar1102@163.com)
+Message-Id: <200505130145.j4D1jnx2038371@gradinfo.net.edu.cn>
+Received: from liuhui (unknown [59.66.123.91])
+	by smtp2 (Coremail) with SMTP id KUAWCLcHhEJs9fQF.1
+	for <yuan@ccert.edu.cn>; Fri, 13 May 2005 09:49:44 +0800 (CST)
+X-Originating-IP: [59.66.123.91]
+Date: Fri, 13 May 2005 09:49:19 +0800
+From: "wu" <wu@163.com>
+To: yuan@ccert.edu.cn
+Subject: =?gb2312?B?ofEgzfK31r30vLGjodX3uPbXocflu6oxNrrFwqW1xEdHsO/DptG9o6GjoaOh?=
+X-mailer: Foxmail 5.0 [cn]
+Mime-Version: 1.0
+Content-Type: multipart/mixed; boundary="----------=_1115948066-22747-478"
+X-MIME-Autoconverted: from base64 to 8bit by gradinfo.net.edu.cn id
+	j4D1jnx2038371
+X-BeenThere: toefl@gradinfo.net.edu.cn
+X-Mailman-Version: 2.1.5
+Precedence: list
+List-Id: "&#26446; &#26143; &#21644; &#20182; &#30340; &#23398; &#29983;
+	&#20204; " <toefl.gradinfo.net.edu.cn>
+List-Unsubscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=unsubscribe>
+List-Archive: <http://gradinfo.net.edu.cn/mailman/private/toefl>
+List-Post: <mailto:toefl@gradinfo.net.edu.cn>
+List-Help: <mailto:toefl-request@gradinfo.net.edu.cn?subject=help>
+List-Subscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=subscribe>
+Sender: toefl-bounces@gradinfo.net.edu.cn
+Errors-To: toefl-bounces@gradinfo.net.edu.cn
+X-UIDL: <W7!!=LC!!Vo)#!W:p"!
+
+ 6月12日，我在清华16号楼107宿舍买了李蓬（他说已经研3，汽车专业）的电脑，因为我对电脑不是特懂，忘了要声卡和显卡驱动盘。回来后我对电脑里面的东西进行了整理删除，想重装系统，才知道没有驱动盘，我在网上问他要盘，他说驱动程序在E盘里，可是我不知道不小心把驱动程序给删除了，他说那不是他的责任了，可是我却只能再麻烦他给我那两个驱动程序，而我只知道他的住址和QQ，他又一直不回复我，所以我心里万分的急
+   我想再去清华找上门的，可是我觉得那样似乎又不是太好。所以想征个好心人帮我去问问吗？实际上是说服他给我下载匹配的声卡和显卡驱动程序！
+   一个急切期待帮助的林大MM！
+ 
+

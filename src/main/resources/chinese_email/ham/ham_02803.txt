@@ -1,0 +1,25 @@
+Return-Path: <yana@rbl.ccert.edu.cn>
+Received: from rbl.ccert.edu.cn (rbl.ccert.edu.cn [202.112.57.71])
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id i986XOMc004024
+	for <pan@ccert.edu.cn>; Fri, 8 Oct 2004 14:33:25 +0800 (CST)
+Received: from rbl.ccert.edu.cn (localhost.localdomain [127.0.0.1])
+	by rbl.ccert.edu.cn (8.12.11/8.12.11) with ESMTP id i986dQ9w001380
+	for <pan@ccert.edu.cn>; Fri, 8 Oct 2004 14:39:26 +0800
+Received: (from qa@localhost)
+	by rbl.ccert.edu.cn (8.12.11/8.12.11/Submit) id i986dQtI001379;
+	Fri, 8 Oct 2004 14:39:26 +0800
+Date: Fri, 8 Oct 2004 14:39:26 +0800
+Message-Id: <200410080639.i986dQtI001379@rbl.ccert.edu.cn>
+Subject: =?gb2312?B?UmU6ILnY09rI/be90K3S6brNxcnHsrXEzsrM4g==?=
+To: pan@ccert.edu.cn
+From: Tran Quang Anh <yana@cernet.edu.cn>
+Content-Type: multipart/mixed; boundary="----------=_1097217566-1044-306"
+MIME-Version: 1.0
+X-UIDL: =^/!!:~!"!Y$$"!E_I"!
+
+对！
+:      三月份就面了一家公司,双方都比较满意,当时公司就想要我,但没有北京户口,且要求立即入职培训,由于我要完成毕设,没有时间参加培训,公司就说到6月份再说,可能有下轮培训,但不能保证要我,所以没有签协议.
+:     五月公司有和我联系,说安排6月10日入职,但一直没有和我签三方协议,学校老师也催问我怎么还没签,说是要派遣了,我就去催了一下公司,公司hrmm回话说,我们随时都可以签啊,但我们不给解决户口,签了也白签..
+:    求问:不给解决户口,三方协议就没有意义了吗?
+: ...................
+

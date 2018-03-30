@@ -1,0 +1,35 @@
+Return-Path: <yi@rbl.ccert.edu.cn>
+Received: from rbl.ccert.edu.cn (rbl.ccert.edu.cn [202.112.57.71])
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id i9D32B6P001565
+	for <xin@ccert.edu.cn>; Wed, 13 Oct 2004 11:02:12 +0800 (CST)
+Received: from rbl.ccert.edu.cn (localhost.localdomain [127.0.0.1])
+	by rbl.ccert.edu.cn (8.12.11/8.12.11) with ESMTP id i9D37dor011661
+	for <xin@ccert.edu.cn>; Wed, 13 Oct 2004 11:07:40 +0800
+Received: (from qa@localhost)
+	by rbl.ccert.edu.cn (8.12.11/8.12.11/Submit) id i9D37drU011660;
+	Wed, 13 Oct 2004 11:07:39 +0800
+Date: Wed, 13 Oct 2004 11:07:39 +0800
+Message-Id: <200410130307.i9D37drU011660@rbl.ccert.edu.cn>
+Subject: =?gb2312?B?ofEgw+bK1Lmry77Az9fco6zEw7jf0L2jrNa70Og1t9bW0yAo16rU2Ck=?=
+To: xin@ccert.edu.cn
+From: Tran Quang Anh <yi@cernet.edu.cn>
+Content-Type: multipart/mixed; boundary="----------=_1097636860-20086-6"
+MIME-Version: 1.0
+X-UIDL: QGl"!H0N"!dT,#!4]O!!
+
+【 以下文字转载自 Sales 讨论区 】
+发信人: albb (无知), 信区: Sales
+标  题: 面试公司老总，拿高薪，只需5分钟
+发信站: 水木社区 (Sat Jun 18 17:44:19 2005), 站内
+为什么刚毕业的学生，大多数只能拿到5000元以下的Offer，原因是没有掌握销售自己的技巧。面试中最关键一步，就是跟公司老大谈待遇。该怎么谈呢？
+《高层销售，5分钟足矣》 
+高层销售——只需要5分钟！只能用5分钟！
+高层只有5分钟 
+高层日理万机，即使有缘和你相约，也只有5分钟有效销售时间…… 
+孙：要和高层见面，最该注意的一点是什么？ 
+吴：高层是要日理万机的，即使答应和我们见面，时间也一定不长。而我们又经常发现，
+和高层谈话的时候，高层总是被电话打断，使得有限的时间变得更短。或者由于太多的电
+话和事情，他没有办法集中精力，于是他做决定必须在很快的时间内完成，这称为有效时
+间。 
+完整内容，详见sales版《高层销售，5分钟足矣》
+

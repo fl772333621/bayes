@@ -1,0 +1,35 @@
+Return-Path: <lu@tsinghua.edu.cn>
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with SMTP id iBN2EVlp017076
+	for <mei@ccert.edu.cn>; Thu, 23 Dec 2004 10:15:07 +0800
+Received: (eyou send program); Thu, 23 Dec 2004 10:13:03 +0800
+Message-ID: <303767983.14854@mail.tsinghua.edu.cn>
+Received: from unknown (HELO mail.tsinghua.edu.cn) (unknown@127.0.0.1)
+ by 127.0.0.1 with SMTP; Thu, 23 Dec 2004 10:13:03 +0800
+X-scanvirus: By Symantec Scan Engine
+X-scanresult: CLEAN
+Received: (eqmail ); 23 Dec 2004 02:13:00 -0000
+Received: from unknown (HELO sony) (duanhx@166.111.204.187)
+  by localhost with SMTP; 23 Dec 2004 02:13:00 -0000
+Message-ID: <011f01c4e897$12f61780$d53270ca@sony>
+From: "lu" <lu@tsinghua.edu.cn>
+To: mei@ccert.edu.cn
+Cc: =?gb2312?B?1qPPyM6w?= <chen@ccert.edu.cn>, <hou@ccert.edu.cn>
+References: <303767006.10323@mail.tsinghua.edu.cn>
+Subject: =?gb2312?B?UmU6IMDPuavT67XN0fy/4w==?=
+Date: Thu, 23 Dec 2004 10:28:21 +0800
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2900.2180
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+Content-Transfer-Encoding: 8bit
+X-MIME-Autoconverted: from base64 to 8bit by home.ccert.edu.cn id iBN2EVlp017076
+X-UIDL: 7`0"!Oin!!9Lh"!Plc!!
+
+有fr的风格
+: 结婚三周年的时候，我俩去东方广场，趁机败了ONLY的一款PP的低腰裤，试穿的时候，LG被我的细腰和笔直的双腿迷住了，一个劲儿点头说好看，于是美美地穿上，LG付帐回家了。结果LG越想越不对劲儿，这以后我要是穿着上班，他多亏呀，于是心中略有郁闷。
+: 今早，我弯腰穿袜子，LG惊呼，“哎呀，我的春光呀，你要保护好，以后所有需要弯腰的差事，都要找你同事代劳。”我觉得很好笑，班上的时候，我可是很注意的。不过我作对地冲着他依旧弯腰，LG看着我，痛心疾首地摇摇头，开门下楼上班去了，好个不踏实呀。想想实在有趣。
+

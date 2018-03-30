@@ -1,0 +1,43 @@
+Return-Path: <zhong@mails.tsinghua.edu.cn>
+Received: from mails.tsinghua.edu.cn (mails.tsinghua.edu.cn [166.111.8.16])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id i9D3JIDW001878
+	for <xiao@ccert.edu.cn>; Wed, 13 Oct 2004 11:19:18 +0800 (CST)
+Received: (eyou send program); Wed, 13 Oct 2004 11:14:08 +0800
+Message-ID: <297637248.71768@mails.tsinghua.edu.cn>
+Received: from unknown (HELO mails.tsinghua.edu.cn) (unknown@127.0.0.1)
+ by 127.0.0.1 with SMTP; Wed, 13 Oct 2004 11:14:08 +0800
+X-scanvirus: By Symantec Scan Engine
+X-scanresult: CLEAN
+Received: (eqmail ); 13 Oct 2004 03:13:58 -0000
+Received: from unknown (HELO lulh) (xwang03@202.112.50.170)
+  by mails.tsinghua.edu.cn with SMTP; 13 Oct 2004 03:13:58 -0000
+Message-ID: <007301c4b0d4$1a9479f0$aa3270ca@lulh>
+From: "zhong" <zhong@mails.tsinghua.edu.cn>
+To: xiao@ccert.edu.cn
+Subject: =?gb2312?B?UmU6ILunv9rOyszi0rvOyqOh?=
+Date: Wed, 13 Oct 2004 11:24:03 +0800
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="----=_NextPart_000_006F_01C4B117.24FFBB00"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2800.1437
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1441
+X-UIDL: /j/"!nOT"!<4V!!G%="!
+
+: 标  题: Re: 户口问题一问！
+: 发信站: 水木社区 (Wed Jun  1 15:53:00 2005), 站内
+: 
+: 工作居住证具有户口差不多的效力
+: 不过，预料应该不是很好拿
+: 你可以试试
+: 或者，如果你老婆有北京户口，那就一切OK，都无所谓了
+xianzai 现在孩子是不是可以随父亲户口了？
+: : 工作居住证拿来干什么呢？
+: : 对以后户口的搬迁有什么帮助吗？
+: 
+: 
+: --
+: 
+: ※ 来源:·水木社区 newsmth.net·[FROM: 162.105.247.*]
+

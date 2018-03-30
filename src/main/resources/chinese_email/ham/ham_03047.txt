@@ -1,0 +1,35 @@
+Return-Path: <xu@rbl.ccert.edu.cn>
+Received: from rbl.ccert.edu.cn (rbl.ccert.edu.cn [202.112.57.71])
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id i96F10Sk005821
+	for <gu@ccert.edu.cn>; Wed, 6 Oct 2004 23:01:00 +0800 (CST)
+Received: from rbl.ccert.edu.cn (localhost.localdomain [127.0.0.1])
+	by rbl.ccert.edu.cn (8.12.11/8.12.11) with ESMTP id i96F6tw7006071
+	for <gu@ccert.edu.cn>; Wed, 6 Oct 2004 23:06:56 +0800
+Received: (from qa@localhost)
+	by rbl.ccert.edu.cn (8.12.11/8.12.11/Submit) id i96F6tgw006070;
+	Wed, 6 Oct 2004 23:06:55 +0800
+Date: Wed, 6 Oct 2004 23:06:55 +0800
+Message-Id: <200410061506.i96F6tgw006070@rbl.ccert.edu.cn>
+Subject: =?gb2312?B?ofEgvd22pc6itefX09XQxrjG9MrCICjXqtTYKQ==?=
+To: gu@ccert.edu.cn
+From: Tran Quang Anh <xu@cernet.edu.cn>
+Content-Type: multipart/mixed; boundary="----------=_1097075216-996-688"
+MIME-Version: 1.0
+X-UIDL: 6XF"!F(,!!5QF"!L_(#!
+
+【 以下文字转载自 Signal 讨论区 】
+发信人: totowo (托托巫), 信区: Signal
+标  题: 捷顶微电子招聘启事
+发信站: 水木社区 (Tue Jun 14 10:16:29 2005), 站内
+发信人: totowo (托托巫), 信区: CommunTech
+标  题: 捷顶微电子招聘启事
+发信站: 水木社区 (Tue Jun 14 10:14:50 2005), 站内
+捷顶微电子公司正在进行Bluetooth，SCDMA, WLAN 的 SoC 芯片开发和研究，欲寻找数名 Algorithm/ASIC/Protocol 设计工程师。主要要求包括：
+- 通讯,微电子或信号处理及相关专业方面的本科或研究生；
+- 用matlab, C or C++ 进行系统仿真的经验；
+- 有FPGA or ASIC设计的相关工作经历；
+- 本科生必须有三年, 研究生二年实际工作经验;
+- 从事过无线通讯系统protocol 设计,分析和实现的相关经验
+- 具有良好的人际关系，乐于接受工作挑战.
+ 
+

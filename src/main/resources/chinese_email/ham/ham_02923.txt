@@ -1,0 +1,35 @@
+Return-Path: <han@cernet.edu.cn>
+Received: from ccertspark (tu203021.tsinghua.edu.cn [166.111.203.21])
+	(authenticated bits=0)
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id iBH4gLaP012018;
+	Fri, 17 Dec 2004 12:42:21 +0800 (CST)
+From: "han" <han@cernet.edu.cn>
+To: tu@ccert.edu.cn
+Subject: =?gb2312?B?UmU6IMfz1vqjus7StcS1tbC408PM2L/svMTU9cO0u7nDu8rVtb2hog==?=
+Date: Fri, 17 Dec 2004 12:40:50 +0800
+Message-ID: <000001c4e3f2$95c62c80$15cb6fa6@ccertspark>
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+X-Priority: 3 (Normal)
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook, Build 10.0.6626
+Importance: Normal
+In-Reply-To: <300049396.24600@mail.tsinghua.edu.cn>
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.3790.181
+Content-Transfer-Encoding: 8bit
+X-MIME-Autoconverted: from quoted-printable to 8bit by sea.net.edu.cn id iBH4gLaP012018
+X-UIDL: V>Q!!0Y7"!39P!!]WM!!
+
+2005-06-08  13:00   北京  处理中心接收  来自银川  
+细节：
+2005-06-08  00:48  银川  处理中心接收  计划于2005-06-08 04:00,发往北京  
+2005-06-08  01:17  银川  处理中心发出  计划于2005-06-08 04:00,发往北京  
+2005-06-08  01:21  银川  计划发运  航空  
+2005-06-08  11:00   上地  妥投  签收人:传达室章  
+2005-06-08  13:00  北京  处理中心接收  来自银川  
+我钢查的，那位知道这是怎么回事，寄到后是不是显示 清华大学  妥投
+:      我当时按调档函的要求寄给研究生办公室，用的特快专递。7号寄的，邮局查的8号到了北京，到了收发室（没说那的收发室）。今天打电话到系里说是没见我的档案，我去邮局查还是到了收发室（没说那的收发室）。
+:      那位和我一样也是特快的，你们怎么弄得。特快专递寄的时候，收件人和单位怎么写的。是不是特快专递要有人去取才行，不会直接送到。
+:      帮帮忙亚，我都急死了
+

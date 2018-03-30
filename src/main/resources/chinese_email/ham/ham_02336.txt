@@ -1,0 +1,23 @@
+Return-Path: <weng@rbl.ccert.edu.cn>
+Received: from rbl.ccert.edu.cn (rbl.ccert.edu.cn [202.112.57.71])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id i9T3Tn5e026490
+	for <cen@ccert.edu.cn>; Fri, 29 Oct 2004 11:29:49 +0800
+Received: from rbl.ccert.edu.cn (localhost.localdomain [127.0.0.1])
+	by rbl.ccert.edu.cn (8.12.11/8.12.11) with ESMTP id i9T3kuLK016379
+	for <cen@ccert.edu.cn>; Fri, 29 Oct 2004 11:47:13 +0800
+Received: (from qa@localhost)
+	by rbl.ccert.edu.cn (8.12.11/8.12.11/Submit) id i9T3kpco016375;
+	Fri, 29 Oct 2004 11:46:51 +0800
+Date: Fri, 29 Oct 2004 11:46:51 +0800
+Message-Id: <200410290346.i9T3kpco016375@rbl.ccert.edu.cn>
+Subject: =?gb2312?B?UmU6INP0w8ahq6Groas=?=
+To: cen@ccert.edu.cn
+From: weng@rbl.ccert.edu.cn
+Content-Type: multipart/mixed; boundary="----------=_1099021638-20866-154"
+MIME-Version: 1.0
+X-UIDL: _PV"!e7Q!!8+/!!bZ="!
+
+wa！～～～你是怎么训练出来的阿～求教求教～～～～
+:  看样子我是太幸福了，衣服都是gg给我洗，虽然是用洗衣机，但也是他放进去、他凉他叠，内衣他用手洗，给我刷球鞋，每天问我想吃什么、给我做第二天在公司里吃的午饭。下班晚了，绝对到我下车的站台接我。有时明明是自己耍小脾气，他也主动认错，当然我也会适可而止。可能真像你说的，可能你把他给惯怀了，男生不能对他太好，心里有他就行，外在的表现蜻蜓点水就可以了，过头了他可就当成理所当然了。不要太难过了，过去就过去了
+: 且: 大家都很累，我一点也不比他轻松啊，凭什么我就得屁颠屁颠的非给他洗衣服啊，不就是两件衣服吗，自己10分钟就洗完了，至于介意生气吗？当时觉得很莫名其妙，也生气了，大概吵了几句，后来我去买水，回来之后，假装不肯走，希望他来哄哄我，但是他没有，还很不耐烦的问“你走不走”，我一气，又往回走，又跑到商店去了，这时候，我听见他在我后面说“有病啊，我后天还要考试呢”，我当时觉得很难受，真的不想回去了，觉得gg挺自私的。而且他在大庭广众之下那么说我，我觉得他很不给我面子，也完全不顾及我的感受。
+

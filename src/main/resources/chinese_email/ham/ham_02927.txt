@@ -1,0 +1,32 @@
+Return-Path: <cheng@rbl.ccert.edu.cn>
+Received: from rbl.ccert.edu.cn (rbl.ccert.edu.cn [202.112.57.71])
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id i97Nd97L027177
+	for <shen@ccert.edu.cn>; Fri, 8 Oct 2004 07:39:09 +0800 (CST)
+Received: from rbl.ccert.edu.cn (localhost.localdomain [127.0.0.1])
+	by rbl.ccert.edu.cn (8.12.11/8.12.11) with ESMTP id i97NjAr5029974
+	for <shen@ccert.edu.cn>; Fri, 8 Oct 2004 07:45:10 +0800
+Received: (from qa@localhost)
+	by rbl.ccert.edu.cn (8.12.11/8.12.11/Submit) id i97NjApF029973;
+	Fri, 8 Oct 2004 07:45:10 +0800
+Date: Fri, 8 Oct 2004 07:45:10 +0800
+Message-Id: <200410072345.i97NjApF029973@rbl.ccert.edu.cn>
+Subject: =?gb2312?B?UmU6IElsb3ZleW91?=
+To: shen@ccert.edu.cn
+From: Tran Quang Anh <cheng@cernet.edu.cn>
+Content-Type: multipart/mixed; boundary="----------=_1097192710-1044-150"
+MIME-Version: 1.0
+X-UIDL: !n""!Y9W!!5/&#!%7e"!
+
+汗。。。
+    1   Arechen      Jun 10  ● I love you
+&gt;    2   Arechen      Jun 10  ● 请爱我
+     3   Arechen      Jun 10  ● sorry
+     4   Arechen      Jun 12  Re: 宝宝贝贝进行时——今天
+     5   Arechen      Jun 12  ● Iloveyou
+     6   Arechen      Jun 12  ● 我爱你
+     7   Arechen      Jun 12  Re: 把自己喜欢的女孩子介绍给了朋友！！
+     8   Arechen      Jun 12  Re: 我喜欢的mm父母对她现在的bf不满意,我机会?
+     9   Arechen      Jun 12  ● sorry
+: 。。。
+: 因为昨天他发了一篇名为sorry的文章，内容是i love you...
+

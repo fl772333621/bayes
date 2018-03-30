@@ -1,0 +1,36 @@
+Return-Path: <guan@rbl.ccert.edu.cn>
+Received: from rbl.ccert.edu.cn (rbl.ccert.edu.cn [202.112.57.71])
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id i97Nd97L027177
+	for <hua@ccert.edu.cn>; Fri, 8 Oct 2004 07:39:09 +0800 (CST)
+Received: from rbl.ccert.edu.cn (localhost.localdomain [127.0.0.1])
+	by rbl.ccert.edu.cn (8.12.11/8.12.11) with ESMTP id i97NjAr5029974
+	for <hua@ccert.edu.cn>; Fri, 8 Oct 2004 07:45:10 +0800
+Received: (from qa@localhost)
+	by rbl.ccert.edu.cn (8.12.11/8.12.11/Submit) id i97NjApF029973;
+	Fri, 8 Oct 2004 07:45:10 +0800
+Date: Fri, 8 Oct 2004 07:45:10 +0800
+Message-Id: <200410072345.i97NjApF029973@rbl.ccert.edu.cn>
+Subject: =?gb2312?B?ofEgW9XQxrhdoaqhqrv60LXJ6LzGyqa8sLncwO3Iy9Sx?=
+To: hua@ccert.edu.cn
+From: Tran Quang Anh <guan@cernet.edu.cn>
+Content-Type: multipart/mixed; boundary="----------=_1097192710-1044-150"
+MIME-Version: 1.0
+X-UIDL: !n""!Y9W!!5/&#!%7e"!
+
+北京巨匠科技有限公司近期上马一批大型风力发电项目，拟招聘相关
+技术人员和管理人员若干。具体情况如下：
+1）机械设计师（20名左右）
+要求：本科及以上学历，有CAD设计经验
+待遇：年薪 4万 ~ 12万
+注：暂不解决北京户口
+2）新技术实施项目经理（10名左右）
+要求：本科及以上学历，有思想、有管理见解
+待遇：年薪 6万 ~ 20万
+注：暂不解决北京户口
+3）高级管理人员、国际商务主管（5名左右）
+要求：学识渊博、经验丰富、具有开拓精神和必要智慧
+待遇：年薪 20万 ~ 50 万
+注：暂不解决北京户口
+有意者请发简历至：jujiang100@tom.com，并致电64994058（联系人：梁文秀）
+注：代友发文，请勿回本站信箱
+

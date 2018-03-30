@@ -1,0 +1,65 @@
+Return-Path: <xin@smth.edu.cn>
+Received: from tsinghua.org.cn ([210.77.143.228])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id iANFcQ2u008011
+	for <guan@ccert.edu.cn>; Tue, 23 Nov 2004 23:38:27 +0800
+Received: (eyou send program); Tue, 23 Nov 2004 23:51:12 +0800
+Received: (eyou send program); Tue, 23 Nov 2004 23:51:11 +0800
+X-EYOU-ORIGINAL-IP: 210.77.143.235
+X-EYOU-ENVELOPE-MAILFROM: svm@smth.edu.cn
+Received: from unknown (HELO eyou.net) (unknown@210.77.143.235)
+ by 210.77.143.228 with SMTP; Tue, 23 Nov 2004 23:51:11 +0800
+Received: (eyou send program); Tue, 23 Nov 2004 23:46:42 +0800
+Message-ID: <301224802.15161@eyou.net>
+Received: from 211.68.16.32 by 210.77.143.235 with SMTP; Tue, 23 Nov 2004 23:46:40 +0800
+Received: from smth.edu.cn (bbs.tsinghua.edu.cn [166.111.8.238])
+	by alpha.linux.edu.cn (8.11.6/8.11.6) with ESMTP id iANGKT607872
+	for <guan@ccert.edu.cn>; Wed, 24 Nov 2004 00:20:30 +0800
+MIME-Version: 1.0
+Content-Type: text/plain; charset=gb2312
+Content-Transfer-Encoding: 8bit
+From: "xin" <xin@smth.edu.cn>
+To: guan@ccert.edu.cn
+Date: Tue, 23 Nov 2004 23:51:07 +0800
+Message-Id: <1101225067.0@smth.edu.cn>
+Subject: =?gb2312?B?ofEgobLV0Ma4obPP+srbvq3A7SC8sCDP+srbtPqx7Q==?=
+X-UIDL: \G7"!,Z)!!$&4"!&`Y"!
+
+职位：销售经理
+    工作所在地：北京 
+    招聘人数： 1
+ 
+    工作职责：
+    1、 了解公司产品在的经济特点、工业重点、企业分布和CAD/CAM/CAE应用状况； 
+    2、 通过各种方式进行新客户的开发； 
+    3、 深刻理解客户需求和公司产品、服务的特点，签订符合双方利益的商业合同； 
+    4、 维护客户的良好关系，开发新的客户需求。 
+    应聘要求： 
+    1、 理工科专业，本科或以上学历，硕士优先；
+    2、 年龄大于30周岁；
+    3、 5年以上工作经验，3年以上CAD/CAE行业销售经验；
+    4、 了解CAD/CAE/CAM/EDA/PDM/PLM/ERP市场； 
+    5、 国防军工等行业优先； 
+    6、 较强的沟通、协调和人际交往能力、演讲能力； 
+    7、 良好的英语阅读能力(CET4)，熟练使用办公软件； 
+    8、 能够适应长期出差工作。 
+职位：销售代表
+    工作所在地：北京 
+    招聘人数： 1
+ 
+    工作职责：
+    1、 了解公司产品在的经济特点、工业重点、企业分布和CAD/CAM/CAE应用状况； 
+    2、 通过各种方式进行新客户的开发； 
+    3、 深刻理解客户需求和公司产品、服务的特点，签订符合双方利益的商业合同； 
+    4、 维护客户的良好关系，开发新的客户需求。 
+    应聘要求： 
+    1、 应届硕士，理工科专业；
+    2、 航空航天、国防军工院校毕业生优先； 
+    3、 熟悉CAD/CAE技术； 
+    4、 了解CAD/CAE/CAM/EDA/PDM/PLM/ERP市场优先；
+    5、 较强的沟通、协调和人际交往能力、演讲能力； 
+    6、 良好的英语阅读能力(CET6)，熟练使用办公软件； 
+    7、 能够适应长期出差工作。 
+以上薪酬待遇： 
+按照市场情况和本人的条件面议决定，包括基本薪金，法定福利待遇和公司特定的福利，销售佣金和部分公司的股权。有意应聘者请将个人简历 E-mail 至本公司 hr@sightna.com   tzhang@sightna.com
+公司信息请访问网站  www.sightna.com
+

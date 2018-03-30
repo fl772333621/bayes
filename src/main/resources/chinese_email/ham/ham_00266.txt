@@ -1,0 +1,43 @@
+Return-Path: <peng@home.ccert.edu.cn>
+Received: from home.ccert.edu.cn (localhost [127.0.0.1])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id j17AovEn018112;
+	Mon, 7 Feb 2005 18:50:57 +0800
+Received: (from majordomo@localhost)
+	by home.ccert.edu.cn (8.13.1/8.13.1/Submit) id j17AovpD018111;
+	Mon, 7 Feb 2005 18:50:57 +0800
+X-Authentication-Warning: home.ccert.edu.cn: majordomo set sender to owner-ccert_forum using -f
+Received: from sunbin ([61.162.253.29])
+	(authenticated bits=0)
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id j17Aon0I018107;
+	Mon, 7 Feb 2005 18:50:52 +0800
+Message-Id: <200502071050.j17Aon0I018107@home.ccert.edu.cn>
+Date: Mon, 7 Feb 2005 18:58:50 +0800
+From: "peng" <peng@ccert.edu.cn>
+Reply-To: peng@ccert.edu.cn
+To: xiao@ccert.edu.cn
+Subject: =?gb2312?B?UmU6IMfrsO/O0rnAucC82w==?=
+Organization: CCERT
+X-mailer: Foxmail 5.0 beta2 [cn]
+Mime-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: 8bit
+X-MIME-Autoconverted: from base64 to 8bit by home.ccert.edu.cn id j17Aos0I018109
+Sender: owner-ccert_forum@home.ccert.edu.cn
+Precedence: bulk
+X-UIDL: -[K"!(a%!!D%A"!m?8!!
+
+nod.
+: 标  题: Re: 请帮我估估价
+: 发信站: 水木社区 (Sun Jun  5 18:20:00 2005), 站内
+: 
+: 三年经验也得看作了什么，做了三年技术支持的话，有什么用？如果做了三年研发，做的很好的话，说不定都不读研了吧？
+: 总之，要么凭着名校进外企，那也得稍有能力的。进中小企业，就的靠技术能力，没有，就要做好a/2的准备了。C，D等选项根本就不是一个做技术的工科硕士该有的想法。有这个本事拿这个钱的应届硕士，都早开公司去了，根本就不会想着去给别人打工。
+: :  人家不是还有3年经验的吗
+: 
+: 
+: 
+: --
+: 
+: ※ 来源:·水木社区 http://newsmth.net·[FROM: 61.237.235.*]
+

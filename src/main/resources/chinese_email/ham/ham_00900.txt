@@ -1,0 +1,29 @@
+Return-Path: <lai@rbl.ccert.edu.cn>
+Received: from rbl.ccert.edu.cn (rbl.ccert.edu.cn [202.112.57.71])
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id i94HCIXZ007933
+	for <jian@ccert.edu.cn>; Tue, 5 Oct 2004 01:12:18 +0800 (CST)
+Received: from rbl.ccert.edu.cn (localhost.localdomain [127.0.0.1])
+	by rbl.ccert.edu.cn (8.12.11/8.12.11) with ESMTP id i94HI2VG032228
+	for <jian@ccert.edu.cn>; Tue, 5 Oct 2004 01:18:02 +0800
+Received: (from qa@localhost)
+	by rbl.ccert.edu.cn (8.12.11/8.12.11/Submit) id i94HI2Zk032227;
+	Tue, 5 Oct 2004 01:18:02 +0800
+Date: Tue, 5 Oct 2004 01:18:02 +0800
+Message-Id: <200410041718.i94HI2Zk032227@rbl.ccert.edu.cn>
+Subject: =?gb2312?B?UmU6IHJ1bzIwMDW9473jx+PH6bfuz9ejrLnY09rJz9bc1ffIy8mxyMuzqrjotcS747Go?=
+To: jian@ccert.edu.cn
+From: Tran Quang Anh <lai@cernet.edu.cn>
+Content-Type: multipart/mixed; boundary="----------=_1096910282-996-416"
+MIME-Version: 1.0
+X-UIDL: 8?p"!\C1!!"%G!!6Z/"!
+
+听得我心潮澎湃，强烈要求加入该组织
+投身到波澜壮阔的杀人事业中去
+生命不息，杀人不止
+我们是杀手，我们是杀手
+啦啦啦
+: 同志们，朋友们：
+:     大家下午好！今天很高兴大家能欢聚一堂，听俺做这个征友汇报。上周日下午，俺在这里发贴子征集了一批孩子去同一首歌杀人唱歌，今天就给大家做个汇报。总的来说，这次聚会是个成功的聚会，团结的聚会，先进的聚会。在此，俺代表组织中央，代表全体组织人员，向大家发
+:     我们八个革命同志，本着男女搭配干活不累的原则，精简了活动队伍，调整了男女配比，四男四女的性别比例是俺们活动成功的前提条件。在此后很长一段时间内，我们将坚持这个原则，一百天不变。
+: ...................
+

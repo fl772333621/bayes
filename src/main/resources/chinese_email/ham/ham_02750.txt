@@ -1,0 +1,35 @@
+Return-Path: <kong@rbl.ccert.edu.cn>
+Received: from rbl.ccert.edu.cn (rbl.ccert.edu.cn [202.112.57.71])
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id i97Nd97L027177
+	for <kang@ccert.edu.cn>; Fri, 8 Oct 2004 07:39:09 +0800 (CST)
+Received: from rbl.ccert.edu.cn (localhost.localdomain [127.0.0.1])
+	by rbl.ccert.edu.cn (8.12.11/8.12.11) with ESMTP id i97NjAr5029974
+	for <kang@ccert.edu.cn>; Fri, 8 Oct 2004 07:45:10 +0800
+Received: (from qa@localhost)
+	by rbl.ccert.edu.cn (8.12.11/8.12.11/Submit) id i97NjApF029973;
+	Fri, 8 Oct 2004 07:45:10 +0800
+Date: Fri, 8 Oct 2004 07:45:10 +0800
+Message-Id: <200410072345.i97NjApF029973@rbl.ccert.edu.cn>
+Subject: =?gb2312?B?UmU6IM7K0ru49rnY09rI/c/V0ru98LXEzsrM4rCh?=
+To: kang@ccert.edu.cn
+From: Tran Quang Anh <kong@cernet.edu.cn>
+Content-Type: multipart/mixed; boundary="----------=_1097192710-1044-150"
+MIME-Version: 1.0
+X-UIDL: !n""!Y9W!!5/&#!%7e"!
+
+给你一个政策性通知，你研究一下吧：
+北京市住房资金管理中心
+关于人事档案存放在职介中心或街道办事处的住房公积金交存人的住房公积金转移问题的通知
+（99）京房资中心分字第052号 
+--------------------------------------------------------------------------------
+ 
+北京市住房资金管理中心各分中心、市中心各直属归集部门：
+　　 为规范住房资金归集管理，北京市住房资金管理中心与北京市劳动局职业介绍中心协商，决定设立北京市职介中心住房公积金专户，现就有关问题通知如下：
+　　1、凡人事档案存放在北京市职业介绍中心（含各区县、各系统职业介绍中心及街道办事处，下同）、及没有汇交单位的住房公积金交存人的住房公积金管理事宜，均委托市劳动局下属北京团兴劳动与社会保险服务有限公司办理。
+　　2、凡职工调出原单位、人事档案存放在职业介绍中心、尚无调入单位或调入单位尚未建立住房公积金且不符合（99）京房资中心分字第017号文件规定办理支取条件的，原职工住房公积金一律不得办理支取，只能办理转移手续。办理转移手续时，转出单位为原单位，转入单位为北京团兴劳动与社会保险服务有限公司，转单位编号0522，转入分中心为市中心归集部。
+　　特此通知。
+　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　北京市住房资金管理中心
+　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　1999年4月20日
+ 
+: 我现在辞职去异地工作，那我在原工作地市所缴纳的保险和住房公积金怎么办？最主要的就是住房公积金了，可以单位开证明取出来还是可以转过异地？谢谢
+

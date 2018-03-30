@@ -1,0 +1,39 @@
+Return-Path: <liu@tsinghua.edu.cn>
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id iA17nAwS009607
+	for <lu@ccert.edu.cn>; Mon, 1 Nov 2004 15:49:10 +0800 (CST)
+Received: (eyou send program); Mon, 01 Nov 2004 15:34:29 +0800
+Message-ID: <299294469.11357@mail.tsinghua.edu.cn>
+Received: from unknown (HELO mail.tsinghua.edu.cn) (unknown@127.0.0.1)
+ by 127.0.0.1 with SMTP; Mon, 01 Nov 2004 15:34:29 +0800
+X-scanvirus: By Symantec Scan Engine
+X-scanresult: CLEAN
+Received: (eqmail ); 1 Nov 2004 07:34:27 -0000
+Received: from unknown (HELO sony) (duanhx@202.112.50.214)
+  by localhost with SMTP; 1 Nov 2004 07:34:27 -0000
+Message-ID: <009a01c4bfe7$40a6cb80$d63270ca@sony>
+From: "liu" <liu@tsinghua.edu.cn>
+To: lu@ccert.edu.cn
+Subject: =?gb2312?B?ofEgTUJBIMrH0dC+v8n6w7Q/IMrc0dC+v8n6udzA7cz1wP21xNS8yvjDtD8=?=
+Date: Mon, 1 Nov 2004 15:49:00 +0800
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2900.2180
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+Content-Transfer-Encoding: 8bit
+X-MIME-Autoconverted: from base64 to 8bit by sea.net.edu.cn id iA17nAwS009607
+X-UIDL: WH*"!\h6!!=Wl!!klT"!
+
+                 清华大学学生违纪处分条例管理细则
+         (经2000-2001学年度第1次学生工作指导委员会会议修订)
+......
+第七条   道德败坏,生活作风越轨者,视情节轻重分别处理如下:
+1.有流氓滋扰行为者,视情节给予警告以上处分;
+2.传看,传阅,复制,传播,出租,制作淫秽书画,淫秽录像或其他淫秽物品者,给予严重警告以上处分;
+3.非法同居或发生不正当性行为者,给予记过或留校查看处分.
+违反前款规定,情节恶劣,道德败坏或造成严重后果者,给予勒令退学或开除学籍处分.
+.....
+

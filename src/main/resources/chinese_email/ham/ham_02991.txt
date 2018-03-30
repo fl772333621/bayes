@@ -1,0 +1,49 @@
+Return-Path: <tao@yahoo.com>
+Received: from tsinghua.org.cn ([210.77.143.228])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id i9G2oG5b006104
+	for <cao@ccert.edu.cn>; Sat, 16 Oct 2004 10:50:18 +0800
+Received: (eyou send program); Sat, 16 Oct 2004 11:01:09 +0800
+Received: (eyou send program); Sat, 16 Oct 2004 11:01:08 +0800
+X-EYOU-ORIGINAL-IP: 66.94.237.43
+X-EYOU-ENVELOPE-MAILFROM: sentto-1550022-2382-1097895592-chenguangying=tsinghua.org.cn@returns.groups.yahoo.com
+Received: from unknown (HELO n9a.bulk.scd.yahoo.com) (unknown@66.94.237.43)
+ by 210.77.143.228 with SMTP; Sat, 16 Oct 2004 11:01:08 +0800
+Received: from [66.218.69.5] by n9.bulk.scd.yahoo.com with NNFMP; 16 Oct 2004 02:59:52 -0000
+Received: from [66.218.66.157] by mailer5.bulk.scd.yahoo.com with NNFMP; 16 Oct 2004 02:59:52 -0000
+X-Yahoo-Newman-Property: groups-email
+X-Sender: vinhbd@yahoo.com
+X-Apparently-To: e3d@yahoogroups.com
+Received: (qmail 14442 invoked from network); 16 Oct 2004 02:59:51 -0000
+Received: from unknown (66.218.66.216)
+  by m17.grp.scd.yahoo.com with QMQP; 16 Oct 2004 02:59:51 -0000
+Received: from unknown (HELO smtp102.mail.sc5.yahoo.com) (216.136.174.140)
+  by mta1.grp.scd.yahoo.com with SMTP; 16 Oct 2004 02:59:50 -0000
+Received: from unknown (HELO bachvinh) (vinhbd@203.210.138.126 with login)
+  by smtp102.mail.sc5.yahoo.com with SMTP; 16 Oct 2004 02:59:48 -0000
+Message-ID: <005901c4b38f$34a46220$7e8ad2cb@bachvinh>
+To: cao@ccert.edu.cn
+References: <000001c4a11d$542a5340$d800000a@abc.microsoft>
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 5.00.2615.200
+X-MimeOLE: Produced By Microsoft MimeOLE V5.00.2615.200
+X-eGroups-Remote-IP: 216.136.174.140
+From: "tao" <tao@yahoo.com>
+MIME-Version: 1.0
+Mailing-List: list e3d@yahoogroups.com; contact e3d-owner@yahoogroups.com
+Delivered-To: mailing list e3d@yahoogroups.com
+Precedence: bulk
+List-Unsubscribe: <mailto:e3d-unsubscribe@yahoogroups.com>
+Date: Sat, 16 Oct 2004 21:32:35 +0700
+Subject: [SPAM-TEST] Re: [e3d] Moi xem anh cuoi
+Reply-To: tao@yahoogroups.com
+Content-Type: multipart/alternative;
+ boundary="----=_NextPart_000_002B_01C4B3C7.A6FA45A0"
+X-UIDL: 7H~"!Khp!!D?+"!8CT"!
+
+好文啊，呵呵
+:                     一个女生对男生追求自己喜欢的女生的建议！
+:         我是女生，看到有的男生想追自己喜欢的女孩子又不敢追，还想人家倒追她，我很反感. 
+: 　　    从一个女生的角度，我比较了解女孩子的心理。女孩子大多不会主动出击，去追求自己喜欢的男孩，除了确实太喜欢了或者是那种比较有个性的勇敢的女孩子。所以，如果你很喜欢一个女孩子，并且认为她对你也有点意思，那就主动点，别跟她搞拉锯战，自己难受，说不定你喜欢的人也痛苦。 
+: ...................
+

@@ -1,0 +1,36 @@
+Return-Path: <he@rbl.ccert.edu.cn>
+Received: from rbl.ccert.edu.cn (rbl.ccert.edu.cn [202.112.57.71])
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id i96AhEuw003068
+	for <su@ccert.edu.cn>; Wed, 6 Oct 2004 18:43:14 +0800 (CST)
+Received: from rbl.ccert.edu.cn (localhost.localdomain [127.0.0.1])
+	by rbl.ccert.edu.cn (8.12.11/8.12.11) with ESMTP id i96An8wd006871
+	for <su@ccert.edu.cn>; Wed, 6 Oct 2004 18:49:10 +0800
+Received: (from qa@localhost)
+	by rbl.ccert.edu.cn (8.12.11/8.12.11/Submit) id i96An8ir006870;
+	Wed, 6 Oct 2004 18:49:08 +0800
+Date: Wed, 6 Oct 2004 18:49:08 +0800
+Message-Id: <200410061049.i96An8ir006870@rbl.ccert.edu.cn>
+Subject: =?gb2312?B?ofEgUGVyaGFwcyBJIG5lZWQgeW91?=
+To: su@ccert.edu.cn
+From: Tran Quang Anh <he@cernet.edu.cn>
+Content-Type: multipart/mixed; boundary="----------=_1097059750-996-586"
+MIME-Version: 1.0
+X-UIDL: KJj"!9[,#!Spf"!1&F"!
+
+    If one day you feel like crying...
+　　Call me.
+　　I don’t promise that I will make you laugh,
+　　But I can cry with you.
+　　If one day you want to run away — 
+　　Don’t be afraid to call me.
+　  I don’t promise to ask you to stop...
+　  But I can run with you.
+　　If one day you don’t want to listen to anyone...
+　　Call me.
+　　I promise to be there for you,
+　 And I promise to be very quiet.
+　　But if one day you call...
+　　And there is no answer...
+　　Come fast to see me,
+ 　Perhaps I need you. 
+

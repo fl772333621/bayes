@@ -1,0 +1,22 @@
+Return-Path: <chi@mails.tsinghua.edu.cn>
+Received: from mails.tsinghua.edu.cn (mails.tsinghua.edu.cn [166.111.8.16])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id iAF4uuok028912
+	for <qiu@ccert.edu.cn>; Mon, 15 Nov 2004 12:56:56 +0800 (CST)
+Received: (eyou send program); Mon, 15 Nov 2004 12:51:39 +0800
+Message-ID: <300494299.15007@mails.tsinghua.edu.cn>
+Received: from 219.224.217.39 by mails.tsinghua.edu.cn with HTTP; Mon, 15 Nov 2004 12:51:39 +0800
+X-WebMAIL-MUA: [219.224.217.39]
+From: "chi" <chi@mails.tsinghua.edu.cn>
+To: qiu@ccert.edu.cn
+Date: Mon, 15 Nov 2004 12:51:39 +0800
+Reply-To: "chi" <chi@mails.tsinghua.edu.cn>
+Subject: Re: 请问SVM能否用于流量异常检测？
+Content-Type: text/plain
+X-UIDL: ,Kd"!`?m"!]]n!!*XE!!
+
+忍了吧。。。无奈的事多着呢
+: 我家一楼，二楼是我们学校纪委书记，我家装防盗窗的时候他老婆吵吵嚷嚷说我们装了之后，小偷可以顺着我们家防盗窗爬上他家偷东西，不让我们状。
+: 现在半夜了，他们居然带了一伙人，装了一个很大的卫星电视接收器在窗子外面，顶着我家窗沿，还伸出去很多。
+: 我就没见过有这么大的卫星接收器的，就像一大口锅狠狠的把我家窗子上遮住了，真相打电话报告公安局啊，ft
+: ...................
+

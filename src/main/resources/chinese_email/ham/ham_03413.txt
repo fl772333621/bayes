@@ -1,0 +1,53 @@
+Return-Path: <jin@rbl.ccert.edu.cn>
+Received: from rbl.ccert.edu.cn (rbl.ccert.edu.cn [202.112.57.71])
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id i980v6NC028248
+	for <yana@ccert.edu.cn>; Fri, 8 Oct 2004 08:57:07 +0800 (CST)
+Received: from rbl.ccert.edu.cn (localhost.localdomain [127.0.0.1])
+	by rbl.ccert.edu.cn (8.12.11/8.12.11) with ESMTP id i98138ZO001130
+	for <yana@ccert.edu.cn>; Fri, 8 Oct 2004 09:03:08 +0800
+Received: (from qa@localhost)
+	by rbl.ccert.edu.cn (8.12.11/8.12.11/Submit) id i98138BN001129;
+	Fri, 8 Oct 2004 09:03:08 +0800
+Date: Fri, 8 Oct 2004 09:03:08 +0800
+Message-Id: <200410080103.i98138BN001129@rbl.ccert.edu.cn>
+Subject: =?gb2312?B?UmU6ILTzvNLLtcu1xMTOu9Hd1LHU2klNRELW0LXEtefTsNfutuC5/mhhaGFoYWFo?=
+To: yana@ccert.edu.cn
+From: Tran Quang Anh <jin@cernet.edu.cn>
+Content-Type: multipart/mixed; boundary="----------=_1097197388-1044-180"
+MIME-Version: 1.0
+X-UIDL: gC@!!~dW!!((U!!=AV!!
+
+Rank Name Titles 
+1.  Mel Blanc  941 
+2.  Edmund Cobb  570 
+3.  Lee Phelps (I)  562 
+4.  Tom London  561 
+5.  Bud Osborne  555 
+6.  Adoor Bhasi  549 
+7.  Prem Nazir  507 
+8.  Frank Ellis (I)  461 
+9.  Irving Bacon  459 
+10.  Jack Mower  459 
+11.  Stanley Blystone  458 
+12.  Emmett Vogan  457 
+13.  Oliver Hardy  455 
+14.  Lee Moran (I)  455 
+15.  Frank Welker  445 
+16.  Jack Richardson (I)  441 
+17.  Wade Boteler  431 
+18.  Frank O\'Connor (I)  426 
+19.  Victor Potel  418 
+20.  Francis Ford  416 
+21.  Stuart Holmes  416 
+22.  Sung-il Shin  416 
+Of course, these stats only focus on American and European movies. There\'s a 
+great, big world of filmmaking out there, and India\'s Bollywood film industry is
+ the most productive on the planet. India made a record of 948 movies in just 
+one year, 1990, and Indian actors regularly make more movies than Hollywood 
+actors. 
+If you\'re looking for the actor who had the most leading roles in films, 
+Guinness World Records lists John Wayne as tops. The Duke was the leading man in
+ 142 movies. 
+: 嘿嘿嘿
+: 无论是不是主角都行
+

@@ -1,0 +1,27 @@
+Return-Path: <xiao@rbl.ccert.edu.cn>
+Received: from rbl.ccert.edu.cn (rbl.ccert.edu.cn [202.112.57.71])
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id i973tV33014865
+	for <che@ccert.edu.cn>; Thu, 7 Oct 2004 11:55:31 +0800 (CST)
+Received: from rbl.ccert.edu.cn (localhost.localdomain [127.0.0.1])
+	by rbl.ccert.edu.cn (8.12.11/8.12.11) with ESMTP id i9741UFf021524
+	for <che@ccert.edu.cn>; Thu, 7 Oct 2004 12:01:30 +0800
+Received: (from qa@localhost)
+	by rbl.ccert.edu.cn (8.12.11/8.12.11/Submit) id i9741Umn021523;
+	Thu, 7 Oct 2004 12:01:30 +0800
+Date: Thu, 7 Oct 2004 12:01:30 +0800
+Message-Id: <200410070401.i9741Umn021523@rbl.ccert.edu.cn>
+Subject: =?gb2312?B?UmU6IMDPuauyu8TcuuWws7+q0MSjrCC+zbfFxvrByw==?=
+To: che@ccert.edu.cn
+From: Tran Quang Anh <xiao@cernet.edu.cn>
+Content-Type: multipart/mixed; boundary="----------=_1097121690-996-812"
+MIME-Version: 1.0
+X-UIDL: R^_"!b=#"!'/I!!)_@!!
+
+  想安慰lp结果徒劳武功，最后不得不说放弃的话，我觉得你也应该照顾一下你lg的失落和失败感吧？
+  生活其实很多无奈，不能强求任性的。呵呵
+  
+: 黑夜里， 偶的惆怅就来了， 学生物的，工作不好找，出国读书， 还要5年，和家人孩
+: 子分开实在痛苦，于是痛不欲生，哭泣， 没法入睡，。。。。
+: 老公安慰说都会好的，。。。偶说这辈子偶都不会开心了， 没有如意的工作，迷失了方
+: ...................
+

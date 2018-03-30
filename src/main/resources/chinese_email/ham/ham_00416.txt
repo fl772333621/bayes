@@ -1,0 +1,59 @@
+Return-Path: <zhang@ns.6test.edu.cn>
+Received: from tsinghua.org.cn ([210.77.143.228])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id i8K4700h002964
+	for <shen@ccert.edu.cn>; Mon, 20 Sep 2004 12:07:02 +0800
+Received: (eyou send program); Mon, 20 Sep 2004 12:16:54 +0800
+Received: (eyou send program); Mon, 20 Sep 2004 12:16:49 +0800
+X-EYOU-ORIGINAL-IP: 202.38.99.65
+X-EYOU-ENVELOPE-MAILFROM: toefl-bounces@server.cool-meeting.com
+Received: from unknown (HELO server.cool-meeting.com) (unknown@202.38.99.65)
+ by 210.77.143.228 with SMTP; Mon, 20 Sep 2004 12:16:49 +0800
+Received: from server.cool-meeting.com (localhost.localdomain [127.0.0.1])
+	by server.cool-meeting.com (8.12.8/8.12.8) with ESMTP id i8K46Rlf008761
+	for <shen@ccert.edu.cn>; Mon, 20 Sep 2004 12:06:34 +0800
+Received: from ns.6test.edu.cn ([202.38.99.18])
+	by server.cool-meeting.com (8.12.8/8.12.8) with ESMTP id i8K46Qkr008757
+	for <shen@ccert.edu.cn>; Mon, 20 Sep 2004 12:06:26 +0800
+Received: from [202.112.3.177] (helo=[202.112.3.177])
+	by ns.6test.edu.cn with asmtp (Exim 4.12)
+	id 1C9FgI-000IHI-00; Mon, 20 Sep 2004 12:21:39 +0800
+In-Reply-To: <295652467.19870@mails.tsinghua.edu.cn>
+References: <295652467.19870@mails.tsinghua.edu.cn>
+Mime-Version: 1.0 (Apple Message framework v619)
+Content-Type: text/plain; charset=EUC-CN; format=flowed
+Message-Id: <EC79AD4C-0AB9-11D9-AFFB-000D93AF6D96@ns.6test.edu.cn>
+From: CHEN Maoke <zhang@ns.6test.edu.cn>
+Subject: =?gb2312?B?UmU6IMj1yPW12M7Ko7rOqsqyw7TEx8O0tuDIy7a8z+u1sbmrzvHUsbChoaOho6Gj?=
+Date: Mon, 20 Sep 2004 12:02:43 +0800
+To: shen@ccert.edu.cn
+X-Mailer: Apple Mail (2.619)
+Content-Transfer-Encoding: 8bit
+X-MIME-Autoconverted: from quoted-printable to 8bit by server.cool-meeting.com
+	id i8K46Qkr008757
+Cc: toefl <xue@ccert.edu.cn>
+X-BeenThere: toefl@server.cool-meeting.com
+X-Mailman-Version: 2.1.2
+Precedence: list
+List-Id: &#26446;&#26143;&#21644;&#20182;&#30340;&#23398;&#29983;&#20204;
+	<toefl.server.cool-meeting.com>
+List-Unsubscribe: <http://server.cool-meeting.com/mailman/listinfo/toefl>,
+	<mailto:toefl-request@server.cool-meeting.com?subject=unsubscribe>
+List-Archive: <http://server.cool-meeting.com/mailman/private/toefl>
+List-Post: <mailto:toefl@server.cool-meeting.com>
+List-Help: <mailto:toefl-request@server.cool-meeting.com?subject=help>
+List-Subscribe: <http://server.cool-meeting.com/mailman/listinfo/toefl>,
+	<mailto:toefl-request@server.cool-meeting.com?subject=subscribe>
+Sender: toefl-bounces@server.cool-meeting.com
+Errors-To: toefl-bounces@server.cool-meeting.com
+X-UIDL: 6*d!!"6n"!<&e!!chl"!
+
+这话就不对了，牛人多了去了
+就像俺师妹，学习烂的一塌糊涂，本以为她毕业了找工作碰一头钉子会现实一些呢
+没想到人家家里出了几十万出国留学去了，估计回国后家里又会给首期把房子搞定
+随便找个机关赛着有事干就行,人家又不靠工资
+hehe,人跟人是不一样的
+: 华夏衣冠是啥？网站？还是商场？
+: 顺便问一句，您每月的服装、化妆、购物、交友费用，兼职的工资够用吗？
+: 如果虚拟的再加上一笔“买房”的支出，不知道您家里得补贴您多少啊？
+: ...................
+

@@ -1,0 +1,25 @@
+Return-Path: <han@rbl.ccert.edu.cn>
+Received: from rbl.ccert.edu.cn (rbl.ccert.edu.cn [202.112.57.71])
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id i9A7Xc7s012982
+	for <hua@ccert.edu.cn>; Sun, 10 Oct 2004 15:33:38 +0800 (CST)
+Received: from rbl.ccert.edu.cn (localhost.localdomain [127.0.0.1])
+	by rbl.ccert.edu.cn (8.12.11/8.12.11) with ESMTP id i9A7csiI007854
+	for <hua@ccert.edu.cn>; Sun, 10 Oct 2004 15:38:58 +0800
+Received: (from qa@localhost)
+	by rbl.ccert.edu.cn (8.12.11/8.12.11/Submit) id i9A7cshv007853;
+	Sun, 10 Oct 2004 15:38:54 +0800
+Date: Sun, 10 Oct 2004 15:38:54 +0800
+Message-Id: <200410100738.i9A7cshv007853@rbl.ccert.edu.cn>
+Subject: =?gb2312?B?UmU6INXi0rvE6rXEx/PWsMDhyrejrM+jzfu21GRkbW3T0Mv5vei8+A==?=
+To: hua@ccert.edu.cn
+From: Tran Quang Anh <han@cernet.edu.cn>
+Content-Type: multipart/mixed; boundary="----------=_1097393938-1014-22"
+MIME-Version: 1.0
+X-UIDL: 1GQ"!k"*!!P(i!!Gh4!!
+
+很多时候觉得和mm的经历很类似，经历了然后知道不能够犹豫不应该妥协，过自己的生活，希望我们都能够坚强地走下去，坚定自己的脚步，不动摇。过去的就随风去吧，以后生活会更好的，有这样的经历，虽然会比原来更艰辛，但是从中长大了很多，然后知道什么叫独立，什么叫走自己的路让别人说去吧
+: 这一年的工作历程真的很辛苦，我在这一年成熟了那么多，自己都没有想到。虽然现在的心态还算不错，但这是几经波折才得来的，其中的滋味有时连自己都体会不清楚。
+: 我不知道现在是麻木期，还是自己想的很开了，抑或是因为有了其他的精神寄托所以精神转移，也不知道当一段时间之后遇到同班同学后会是什么样的心理，不想去想，因为这不过是庸人自扰罢了。
+: 曾以为怎么这一阵子总是走霉运，但慢慢想过来其实满是自己的错，怨不得别人。也许一直走的太顺了，该是老天给我点警告的时候了，也许是他要安排我去做另外的一些事情。
+: ...................
+

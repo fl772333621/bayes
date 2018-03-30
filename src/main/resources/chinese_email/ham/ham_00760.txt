@@ -1,0 +1,31 @@
+Return-Path: <yuan@rbl.ccert.edu.cn>
+Received: from rbl.ccert.edu.cn (rbl.ccert.edu.cn [202.112.57.71])
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id i9INuBHa015069
+	for <peng@ccert.edu.cn>; Tue, 19 Oct 2004 07:56:11 +0800 (CST)
+Received: from rbl.ccert.edu.cn (localhost.localdomain [127.0.0.1])
+	by rbl.ccert.edu.cn (8.12.11/8.12.11) with ESMTP id i9J01xRR006764
+	for <peng@ccert.edu.cn>; Tue, 19 Oct 2004 08:02:00 +0800
+Received: (from qa@localhost)
+	by rbl.ccert.edu.cn (8.12.11/8.12.11/Submit) id i9J01xaw006763;
+	Tue, 19 Oct 2004 08:01:59 +0800
+Date: Tue, 19 Oct 2004 08:01:59 +0800
+Message-Id: <200410190001.i9J01xaw006763@rbl.ccert.edu.cn>
+Subject: =?gb2312?B?UmU6ILj4bW3Lzbuoo6yxu7HJytPByw==?=
+To: peng@ccert.edu.cn
+From: Tran Quang Anh <yuan@cernet.edu.cn>
+Content-Type: multipart/mixed; boundary="----------=_1098144120-25795-262"
+MIME-Version: 1.0
+X-UIDL: l\Q"!f$A"!0fg"!)To"!
+
+你的mm是非常看重周围人眼光的人
+一般没有什么主见，遇到阻力就会妥协屈服
+性格颇像旧社会里的传统女性，属于被压迫
+受环境改造的，而不是主动改造环境的
+我是这么觉着的，就是韦小宝众多老婆里双儿那一型的
+不过我也喜欢那一型的，特别温柔体贴忠诚，羞答答的
+很有传统韵味
+: 呜呜，mm说：“我最讨厌花了”
+: 我们一起吃完饭后，我要送mm到宿舍楼下，mm说：“别拿着花丢人现眼了”
+: 呜呜，mm不喜欢花，我该怎么办啊
+: ...................
+

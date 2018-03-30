@@ -1,0 +1,48 @@
+Return-Path: <liu@cernet.edu.cn>
+Received: from tsinghua.org.cn ([210.77.143.231])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id j02AQMXl014903
+	for <feng@ccert.edu.cn>; Sun, 2 Jan 2005 18:26:23 +0800
+Received: (eyou send program); Sun, 02 Jan 2005 18:20:07 +0800
+Received: (eyou send program); Sun, 02 Jan 2005 18:20:07 +0800
+X-EYOU-ORIGINAL-IP: 210.77.143.235
+X-EYOU-ENVELOPE-MAILFROM: wjl@cernet.edu.cn
+Received: from unknown (HELO eyou.net) (unknown@210.77.143.235)
+ by 210.77.143.231 with SMTP; Sun, 02 Jan 2005 18:20:07 +0800
+Received: (eyou send program); Sun, 02 Jan 2005 18:34:21 +0800
+Message-ID: <304662061.32082@eyou.net>
+Received: from 166.111.8.16 by 210.77.143.235 with SMTP; Sun, 02 Jan 2005 18:34:20 +0800
+Received: (eyou send program); Sun, 02 Jan 2005 18:35:18 +0800
+Message-ID: <304662118.25501@mails.tsinghua.edu.cn>
+Received: (eyou send program); Sun, 02 Jan 2005 18:35:17 +0800
+Message-ID: <304662117.07190@mails.tsinghua.edu.cn>
+Received: from unknown (HELO mails.tsinghua.edu.cn) (unknown@127.0.0.1)
+ by 127.0.0.1 with SMTP; Sun, 02 Jan 2005 18:35:17 +0800
+X-scanvirus: By Symantec Scan Engine
+X-scanresult: NOREP
+X-Received: unknown,202.112.5.66,20050102183515
+Received: from unknown (HELO sea.net.edu.cn) (202.112.5.66)
+  by localhost with SMTP; 2 Jan 2005 10:35:15 -0000
+Received: from IBM-672FDFBE725 ([202.112.3.248])
+	(authenticated bits=0)
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id j02AeXF3009237;
+	Sun, 2 Jan 2005 18:40:34 +0800 (CST)
+Message-Id: <200501021040.j02AeXF3009237@sea.net.edu.cn>
+From: "liu" <liu@cernet.edu.cn>
+To: feng@ccert.edu.cn
+CC: "weng@ccert.edu.cn" <ke@ccert.edu.cn>
+Subject: =?gb2312?B?UmU6ILnY09qwrsGi0MXR0Lei1tDQxKOsztKyu7XDsrvLtcG9vuQ=?=
+X-mailer: Foxmail 4.2 [cn]
+Mime-Version: 1.0
+Content-Type: text/plain;
+      charset="GB2312"
+Date: Sun, 2 Jan 2005 18:40:32 +0800
+Content-Transfer-Encoding: 8bit
+X-MIME-Autoconverted: from quoted-printable to 8bit by home.ccert.edu.cn id j02AQMXl014903
+X-UIDL: R]C!!mZ+#!*e?"!Ajd"!
+
+善意的说说对楼主的看法，不代表就认为爱立信的人做得对，你说呢？世界上永远有你看不惯的人和事，难道天天和他们怄气？你只要自己能每天都做得更好，就够了，对不对？
+你的昵称不错，楼主以为如何？
+:   摆脱你把搂住的贴子先看清楚了再说。人家楼主可不是没带简历哦，是替我在打抱不平。没带简历是有原因的，但也用不着更审犯人似的吧。
+:   第二点我是想提醒一下你，基本的尊重和给笑脸就是两码事，我看你还是有点不懂。
+:   第三点，就面试的过程来看，我确实感觉到爱立信没有给人基本的尊重，你看到那个面试官一直嚼着口香糖和你说话的？
+

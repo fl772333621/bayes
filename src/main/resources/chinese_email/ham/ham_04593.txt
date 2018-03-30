@@ -1,0 +1,58 @@
+Return-Path: <liao@ns.6test.edu.cn>
+Received: from tsinghua.org.cn ([210.77.143.228])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id iAO0lAeN013714
+	for <liao@ccert.edu.cn>; Wed, 24 Nov 2004 08:47:12 +0800
+Received: (eyou send program); Wed, 24 Nov 2004 08:59:50 +0800
+Received: (eyou send program); Wed, 24 Nov 2004 08:59:45 +0800
+X-EYOU-ORIGINAL-IP: 210.77.143.235
+X-EYOU-ENVELOPE-MAILFROM: toefl-bounces@server.cool-meeting.com
+Received: from unknown (HELO eyou.net) (unknown@210.77.143.235)
+ by 210.77.143.228 with SMTP; Wed, 24 Nov 2004 08:59:45 +0800
+Received: (eyou send program); Wed, 24 Nov 2004 08:55:14 +0800
+Message-ID: <301257714.24749@eyou.net>
+Received: from 202.38.99.65 by 210.77.143.235 with SMTP; Wed, 24 Nov 2004 08:55:12 +0800
+Received: from server.cool-meeting.com (localhost.localdomain [127.0.0.1])
+	by server.cool-meeting.com (8.12.8/8.12.8) with ESMTP id iAO1EKlZ026985
+	for <liao@ccert.edu.cn>; Wed, 24 Nov 2004 09:14:38 +0800
+Received: from ns.6test.edu.cn ([202.38.99.18])
+	by server.cool-meeting.com (8.12.8/8.12.8) with ESMTP id iAO1EEkr026981
+	for <liao@ccert.edu.cn>; Wed, 24 Nov 2004 09:14:14 +0800
+Received: from [202.112.3.118] (helo=IBM-E4AA49AF703)
+	by ns.6test.edu.cn with asmtp (Exim 4.12) id 1CWlps-000Hu0-00
+	for Toefl@server.cool-meeting.com; Wed, 24 Nov 2004 09:20:44 +0800
+From: "liao" <liao@ns.6test.edu.cn>
+To: liao@ccert.edu.cn
+X-mailer: Foxmail 4.2 [cn]
+Mime-Version: 1.0
+Content-Type: multipart/mixed; boundary="=====000_Dragon314187767103_====="
+Date: Wed, 24 Nov 2004 8:59:15 +0800
+Message-Id: <E1CWlps-000Hu0-00@ns.6test.edu.cn>
+Cc: 
+Subject: =?gb2312?B?UmU6ILjmy9/O0rjD1PXDtLDso7+31srWysfX7rrDtcTRodTxwvCjvw==?=
+X-BeenThere: toefl@server.cool-meeting.com
+X-Mailman-Version: 2.1.2
+Precedence: list
+List-Id: &#26446;&#26143;&#21644;&#20182;&#30340;&#23398;&#29983;&#20204;
+	<toefl.server.cool-meeting.com>
+List-Unsubscribe: <http://server.cool-meeting.com/mailman/listinfo/toefl>,
+	<mailto:toefl-request@server.cool-meeting.com?subject=unsubscribe>
+List-Archive: <http://server.cool-meeting.com/mailman/private/toefl>
+List-Post: <mailto:toefl@server.cool-meeting.com>
+List-Help: <mailto:toefl-request@server.cool-meeting.com?subject=help>
+List-Subscribe: <http://server.cool-meeting.com/mailman/listinfo/toefl>,
+	<mailto:toefl-request@server.cool-meeting.com?subject=subscribe>
+Sender: toefl-bounces@server.cool-meeting.com
+Errors-To: toefl-bounces@server.cool-meeting.com
+X-UIDL: he&"!?n+#!`YD"!Tlc"!
+
+MM，好同情好同情，HUG一个先
+表难过了
+事已至此，不必难过了
+看一下初中课本，朱自清，背影先
+清华光棍多的是，不怕找不到GG哦，谁让清华男女比例失调呢
+从全国形势来看，MM在未来的100年内会依然强手，谁让咋国家男女比例失调捏
+你说那个男人就算了吧，从你文章里看，觉得没虾米你可留恋的，发生了关系也不代表什么，别为这个耽误了你终身幸福
+:        认识他是在网上，两年前（03年），我刚参加完高考，当时只是随便聊聊。后来我进了大学，学校在大连。随着时间的推移，我们的关系也开始有些变化。我刚刚上大一没多久，他向我表白，我虽然对他印象不错，但是还是拒绝了他，因为我觉得他是清华的，而我只是一个普通的大学。但是隔了一段时间我觉得我还是放部下他。最后我们开始恋爱了。
+:        每次聊天我都是视频，而他都是在宿舍上，他宿舍没有设想头。所以我从来都没见过他，他倒是见过我很多次了。直到第一学期结束，寒假时，我回山东，他让我从北京过（其实从大连到山东有直达的车），为了见他，我去了。见他第一面很失望很失望。但是因为在网上谈了很长时间，觉得他人还可以，不愿就这么结束。于是恋爱继续了下去。
+:       在后来的大连与北京的半年奔波中，我发现我真的爱上他了。后来在04年的五一长假中，他来大连，我们发生了关系。他信誓旦旦的告诉我，他会爱我一辈子会好好的照顾我一辈子，一定会娶我。我相信了，而且从那次后我越来越无法控制自己的思念，于是在去年暑假我毅然面对所有人的反对（他除外）退了学，我当时读的专业是我们学校最好的，而且是我比较喜欢的。但是为了和他再一起，我不顾家长老师亲戚朋友的所有反对，退了学准备回家乡重新复习一年。去年暑假我从大连路过到了北京，他鼓励我，让我留在他身边自学，然后明年参加高考。我? ...................
+

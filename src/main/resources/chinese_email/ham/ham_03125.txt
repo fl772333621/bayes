@@ -1,0 +1,71 @@
+Return-Path: <gong@ns.6test.edu.cn>
+Received: from tsinghua.org.cn ([210.77.143.228])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id i8L8M6Zk001820
+	for <xue@ccert.edu.cn>; Tue, 21 Sep 2004 16:22:08 +0800
+Received: (eyou send program); Tue, 21 Sep 2004 16:32:00 +0800
+Received: (eyou send program); Tue, 21 Sep 2004 16:31:57 +0800
+X-EYOU-ORIGINAL-IP: 202.38.99.65
+X-EYOU-ENVELOPE-MAILFROM: toefl-bounces@server.cool-meeting.com
+Received: from unknown (HELO server.cool-meeting.com) (unknown@202.38.99.65)
+ by 210.77.143.228 with SMTP; Tue, 21 Sep 2004 16:31:57 +0800
+Received: from server.cool-meeting.com (localhost.localdomain [127.0.0.1])
+	by server.cool-meeting.com (8.12.8/8.12.8) with ESMTP id i8L8Lulf011017
+	for <xue@ccert.edu.cn>; Tue, 21 Sep 2004 16:22:03 +0800
+Received: from ns.6test.edu.cn ([202.38.99.18])
+	by server.cool-meeting.com (8.12.8/8.12.8) with ESMTP id i8L8Ltkr011013
+	for <xue@ccert.edu.cn>; Tue, 21 Sep 2004 16:21:55 +0800
+Received: from [210.25.128.109] (helo=tsinghua89o1rm)
+	by ns.6test.edu.cn with asmtp (Exim 4.12) id 1C9g97-000PXM-00
+	for Toefl@server.cool-meeting.com; Tue, 21 Sep 2004 16:37:09 +0800
+Message-ID: <00ac01c49fb3$986bcae0$6d8019d2@tsinghua89o1rm>
+From: "gong" <gong@ns.6test.edu.cn>
+To: xue@ccert.edu.cn
+Date: Tue, 21 Sep 2004 16:18:07 +0800
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2600.0000
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2600.0000
+Content-Transfer-Encoding: 8bit
+X-MIME-Autoconverted: from base64 to 8bit by server.cool-meeting.com id
+	i8L8Ltkr011013
+Cc: 
+Subject: =?gb2312?B?ofEguPjE4yzO0rXEw8PDwzE0?=
+X-BeenThere: toefl@server.cool-meeting.com
+X-Mailman-Version: 2.1.2
+Precedence: list
+List-Id: &#26446;&#26143;&#21644;&#20182;&#30340;&#23398;&#29983;&#20204;
+	<toefl.server.cool-meeting.com>
+List-Unsubscribe: <http://server.cool-meeting.com/mailman/listinfo/toefl>,
+	<mailto:toefl-request@server.cool-meeting.com?subject=unsubscribe>
+List-Archive: <http://server.cool-meeting.com/mailman/private/toefl>
+List-Post: <mailto:toefl@server.cool-meeting.com>
+List-Help: <mailto:toefl-request@server.cool-meeting.com?subject=help>
+List-Subscribe: <http://server.cool-meeting.com/mailman/listinfo/toefl>,
+	<mailto:toefl-request@server.cool-meeting.com?subject=subscribe>
+Sender: toefl-bounces@server.cool-meeting.com
+Errors-To: toefl-bounces@server.cool-meeting.com
+X-UIDL: 34C"!Wm#"!$S"!!%W'#!
+
+日子在无知中滑过
+我们真的认为你忘记了一切
+可以重新开始
+你的漂亮让你有很多追求者
+但是却没有让你满意的
+你随着老姐搬到了别墅
+那里上班更远了,要2个多小时在路上
+某天,老姐跟我说你后半夜1点才回家
+我不仅又警觉起来
+老姐说你跟她说是同学
+老姐又劝我,她和那个人已经快半年没联系了,手机/QQ都删了,不会是那个人的
+我但愿是这样的
+老姐要回老家办事,别墅里只有孩子和老人及保姆
+我很不放心,却不能搬去住
+尤其这个周末,一天在医院预定的检查,一天去考试
+我也不能去老姐那里照看一下
+你却经常和那个所谓的同学总是出去玩到很晚才回来
+我只好劝你这个星期先不要外出,下个星期我过去了再约会
+你答应的好好
+

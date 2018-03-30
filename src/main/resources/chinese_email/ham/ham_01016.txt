@@ -1,0 +1,71 @@
+Return-Path: <zhu@cernet.edu.cn>
+Received: from tsinghua.org.cn ([210.77.143.231])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id iB16VEAS019611
+	for <weng@ccert.edu.cn>; Wed, 1 Dec 2004 14:31:16 +0800
+Received: (eyou send program); Wed, 01 Dec 2004 14:24:16 +0800
+Received: (eyou send program); Wed, 01 Dec 2004 14:24:16 +0800
+X-EYOU-ORIGINAL-IP: 210.77.143.235
+X-EYOU-ENVELOPE-MAILFROM: qchen@cernet.edu.cn
+Received: from unknown (HELO eyou.net) (unknown@210.77.143.235)
+ by 210.77.143.231 with SMTP; Wed, 01 Dec 2004 14:24:16 +0800
+Received: (eyou send program); Wed, 01 Dec 2004 14:39:24 +0800
+Message-ID: <301883164.11748@eyou.net>
+Received: from 166.111.8.16 by 210.77.143.235 with SMTP; Wed, 01 Dec 2004 14:39:19 +0800
+Received: (eyou send program); Wed, 01 Dec 2004 14:38:52 +0800
+Message-ID: <301883132.12748@mails.tsinghua.edu.cn>
+Received: (eyou send program); Wed, 01 Dec 2004 14:38:52 +0800
+Message-ID: <301883132.00336@mails.tsinghua.edu.cn>
+Received: from unknown (HELO mails.tsinghua.edu.cn) (unknown@127.0.0.1)
+ by 127.0.0.1 with SMTP; Wed, 01 Dec 2004 14:38:52 +0800
+X-scanvirus: By Symantec Scan Engine
+X-scanresult: NOREP
+Received: (eqmail ); 1 Dec 2004 06:38:49 -0000
+Received: from ccert.edu.cn (HELO home.ccert.edu.cn) (202.112.57.12)
+  by mails.tsinghua.edu.cn with SMTP; 1 Dec 2004 06:38:49 -0000
+Received: from home.ccert.edu.cn (localhost [127.0.0.1])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id iB16UWbt019588;
+	Wed, 1 Dec 2004 14:30:32 +0800
+Received: (from majordomo@localhost)
+	by home.ccert.edu.cn (8.13.1/8.13.1/Submit) id iB16UW8I019587;
+	Wed, 1 Dec 2004 14:30:32 +0800
+X-Authentication-Warning: home.ccert.edu.cn: majordomo set sender to owner-ccertstaff using -f
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id iB16UVUd019583
+	for <weng@ccert.edu.cn>; Wed, 1 Dec 2004 14:30:31 +0800
+Received: from GirlOfGod (tu203027.tsinghua.edu.cn [166.111.203.27])
+	(authenticated bits=0)
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id iB16hauK007966
+	for <weng@ccert.edu.cn>; Wed, 1 Dec 2004 14:43:37 +0800 (CST)
+Message-Id: <200412010643.iB16hauK007966@sea.net.edu.cn>
+Date: Wed, 1 Dec 2004 14:47:57 +0800
+From: "zhu" <zhu@cernet.edu.cn>
+To: weng@ccert.edu.cn
+Subject: =?gb2312?B?UmU6INe3bW3U9cO01eLDtMO709CwssiruNCwog==?=
+X-mailer: Foxmail 5.0 [cn]
+Mime-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: 8bit
+X-MIME-Autoconverted: from base64 to 8bit by home.ccert.edu.cn id iB16UVUd019585
+Sender: owner-ccertstaff@home.ccert.edu.cn
+Precedence: bulk
+X-UIDL: EAm"!CZb!!3k]"!c@k"!
+
+当然不是：）多沟通哦
+: 标  题: 追mm怎么这么没有安全感阿
+: 发信站: 水木社区 (Tue Jun  7 16:00:39 2005), 站内
+: 
+: 见不到她心里就很难受，什么都干不进去
+: 但是每次约她都得搜肠刮肚的找个好借口，生怕被她拒绝
+: 每次给她发短信都得字斟句酌
+: 我现在真的感觉好累
+: 其实我已经拉过mm的手了，mm并没有拒绝，当时她好像挺害羞的，但并没有拒绝我
+: 但是按现在的这种状态，我实在感觉太累了
+: mm从来不主动跟我联系的，到底是她在考察我还是说她对我根本就没有兴趣只是我自作多情？
+: 唉，太累了。心理上的累真是可怕
+: --
+: 老婆，快出来看上帝
+: 
+: 
+: ※ 来源:·水木社区 newsmth.net·[FROM: 211.151.90.*]
+

@@ -1,0 +1,26 @@
+Return-Path: <mo@bbs.zixia.net>
+Received: from zixia.net ([202.205.10.10])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id iBUK0hOX021629
+	for <chen@ccert.edu.cn>; Fri, 31 Dec 2004 04:00:44 +0800 (CST)
+Received: (qmail 1820 invoked from network); 30 Dec 2004 06:22:28 -0000
+AKA-wSpam: 0
+Received: from unknown (HELO bbs.zixia.net) (127.0.0.1)
+  by zixia.net with SMTP; 30 Dec 2004 06:22:28 -0000
+MIME-Version: 1.0
+Content-Type: text/plain; charset=gb2312
+Content-Transfer-Encoding: 8bit
+From: "mo" <mo@bbs.zixia.net>
+To: chen@ccert.edu.cn
+Date: Thu, 30 Dec 2004 06:22:28 +0000
+Message-Id: <1104387748.0@bbs.zixia.net>
+Subject: =?gb2312?B?UmU6IMrWzbfWu9PQ0ru49m9mZmVyo7rSu9ChuavLvtfcvq3A7db6wO2jrL/JvvW1w9fUvLq4ybK7
+wcs=?=
+X-UIDL: PL;"!]el"!iB-!!bF^!!
+
+: 小公司还是蛮锻炼人的，
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+这种想法最容易出现在刚刚毕业的人当中。第一份工作很重要，要慎重。
+: 如果暂时找不到工作，可以试试。
+: 这个小公司刚成立不久，希望能够找到一个很懂法律的人来担任这个职位，我觉得自己还没有任何法律工作经验，觉得无法胜任，要锻炼几年才可以做这样的工作，但又只有这一个offer,真是非常犹豫去还是不去。
+: ...................
+

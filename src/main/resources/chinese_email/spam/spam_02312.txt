@@ -1,0 +1,34 @@
+Return-Path: <hu@china.com>
+Received: from 127.0.0.1 ([61.49.230.92])
+	by home.ccert.edu.cn (MIMEDefang) with ESMTP id NOQUEUE
+	for <hu@ccert.edu.cn>; Thu, 23 Jun 2005 18:32:50 +0800 (CST)
+Message-ID: <200506231832.0.539749058310267@home.ccert.edu.cn>
+Received: from unknown (HELO vlm19512.net) (192.6.94.18)
+	by 127.0.0.1 with SMTP; 23 Jun 2005 10:51:15 -0000
+X-Originating-IP: [192.6.94.18]
+Date: Thu, 23 Jun 2005 18:51:14 +0800
+From: "hu" <hu@china.com>
+To: hu@ccert.edu.cn
+Subject: =?gb2312?B?x+u498bz0rXBory0tce8x7vyusu21DExNA==?=
+X-Mailer: VolleyMail.net 5.5[cn]
+Mime-Version: 1.0
+X-Priority: 1
+Content-Type: text/plain;
+	charset="GB2312"
+Content-Transfer-Encoding: base64
+
+
+各企事业单位负责人同志：
+
+为加速我国信息化建设步伐、节约沟通成本，商务部中国国际电子商务中心（www.ec.com.cn）与网库黄页（www.99114.com）联合全国各地114查号台于2005年6月至9月30开始进行全国第一次网上114号码信息刊登和核实工作。本次活动由商务部总投资5000万元，刊登企业一律免费。（刊登和核实请立即进入www.99114.com）。
+作为国内最完整的，使用频率最高的网络114查号平台，网库黄页（www.99114.com）已经在全国600个城市开通了地方114网（如：北京114为www.bj114.com.cn;重庆114为www.cq114.com.cn），并预计在2006年5月10号前建设3000个行业114网。网库黄页的目标是成为中国最大、最真实的网上114信息库。
+
+为了保障资源质量，达到优质信息标准，特要求：
+1 、企业必须上传真实信息，否则一旦查实后，将在两年内不予上传。
+2、所有的上传电话信息要保障是有效电话信息，网库黄页将和各地114查号台资源共享，网库黄页将逐个核对。
+3、需要网库黄页更多增值服务的，可拨打01055010114,  01064411476也可拨打8008108114 或发email至99114@9914.com，或登陆网站www.99114.com
+4、所有信息将在商务部电子商务中心（www.ec.com.cn）同步发布。 
+5、所有信息将可通过发送短信到99114平台查询。
+
+                                                             中国114网络信息中心
+

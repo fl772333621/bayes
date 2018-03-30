@@ -1,0 +1,49 @@
+Return-Path: <zhou@cacs.gov.cn>
+Received: from tsinghua.org.cn ([210.77.143.228])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id i95GbvVg029851
+	for <cao@ccert.edu.cn>; Wed, 6 Oct 2004 00:38:03 +0800
+Date: Wed, 6 Oct 2004 00:37:57 +0800
+Received: (eyou send program); Wed, 06 Oct 2004 00:48:31 +0800
+Received: (eyou send program); Wed, 06 Oct 2004 00:47:30 +0800
+X-EYOU-ORIGINAL-IP: 200.47.79.38
+X-EYOU-ENVELOPE-MAILFROM: zheng954cuib@cacs.gov.cn
+Received: from unknown (HELO tzo-ppal.empresas-yv.com) (unknown@200.47.79.38)
+ by 210.77.143.228 with SMTP; Wed, 06 Oct 2004 00:47:30 +0800
+Received: from cacs.gov.cn ([218.165.110.20]) by tzo-ppal.empresas-yv.com  with Microsoft SMTPSVC(5.5.1877.197.19);
+	 Tue, 5 Oct 2004 02:52:07 -0400
+Received: from unknown (HELO science.net [210.196.74.21])
+          by cacs.gov.cn with SMTP;
+          Tue, 05 Oct 2004 06:39:01 GMT
+Message-Id: <1096958415-@science.net>
+From: "zhou" <zhou@cacs.gov.cn>
+To: cao@ccert.edu.cn
+Subject: =?gb2312?B?ofEgob68sdXQob9TdW4gTWljcm9zeXN0ZW1zIFJlY3J1aXRtZW50?=
+Sender: zheng.lib
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="----=_NextPart_000_000B_01C4AA53.91190500"
+X-UIDL: +h7"!bAC"!d&G!!g]#"!
+
+QA Position Recruitment (Sun Microsystems Inc.)
+This is a full time employee position. (not for under-graduated)
+Pls send English Resume(Don\'t use Attachment) to: resume-usg-reqa@sun.com
+Job Discription
+=================================
+- Execution and validation of test cases for Sun Desktop products.
+- Implement, test, and maintain test suites &amp; tools for Desktop products
+- Responsible for porting work of test suites
+- Define quality criteria and generate test plans
+- Software defect identification and reporting. Provide bug statistical
+  reporting.
+Requirement:
+==================================
+- Demonstrated experience designing, implementing and automating test suites
+- Execution of software tests in a GUI environment
+- Validation of software builds against performance and functionality 
+  criteria
+- Familiar with Linux/Unix/Solaris Operating System
+- 3+ years experience on C/shell/perl/java programming
+- Good communication, and teamwork skills.
+- Fluency in English, particularly verbally
+- BS in Computer Science, MS preferred.
+

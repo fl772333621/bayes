@@ -1,0 +1,38 @@
+Return-Path: <zhao@compass.net.edu.cn>
+Received: from tsinghua.org.cn ([210.77.143.228])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id iAOE3t4q023979
+	for <qing@ccert.edu.cn>; Wed, 24 Nov 2004 22:03:56 +0800
+Received: (eyou send program); Wed, 24 Nov 2004 22:16:43 +0800
+Received: (eyou send program); Wed, 24 Nov 2004 22:16:42 +0800
+X-EYOU-ORIGINAL-IP: 210.77.143.235
+X-EYOU-ENVELOPE-MAILFROM: ys@compass.net.edu.cn
+Received: from unknown (HELO eyou.net) (unknown@210.77.143.235)
+ by 210.77.143.228 with SMTP; Wed, 24 Nov 2004 22:16:42 +0800
+Received: (eyou send program); Wed, 24 Nov 2004 22:12:10 +0800
+Message-ID: <301305530.17404@eyou.net>
+Received: from 202.38.188.130 by 210.77.143.235 with SMTP; Wed, 24 Nov 2004 22:12:08 +0800
+Received: from [210.25.128.113] ([210.25.128.113])
+	by compass.net.edu.cn (8.9.2/8.9.2) with ESMTP id WAA11870
+	for <qing@ccert.edu.cn>; Wed, 24 Nov 2004 22:19:37 +0800 (CST)
+Message-ID: <41A4971B.6040807@compass.net.edu.cn>
+Date: Wed, 24 Nov 2004 22:13:47 +0800
+From: Shaozhi Ye <zhao@compass.net.edu.cn>
+User-Agent: Mozilla Thunderbird 0.9 (Windows/20041103)
+X-Accept-Language: en-us, en
+MIME-Version: 1.0
+To: qing@ccert.edu.cn
+Subject: Re: =?GB2312?B?zsrSu8/Cu/rG9w==?=
+References: <301289476.11048@eyou.net> <004d01c4d22d$63a36370$7203510a@CCERTDAWEI> <301304963.17405@eyou.net> <008101c4d22f$f24b1800$7203510a@CCERTDAWEI>
+In-Reply-To: <008101c4d22f$f24b1800$7203510a@CCERTDAWEI>
+Content-Type: text/plain; charset=GB2312
+Content-Transfer-Encoding: 8bit
+X-UIDL: ia8!!n"X"!@_J"!7=="!
+
+ 我和我老婆结婚前一周只见两次...
+ 总呆在一起时间多了，的确有点。..
+ 不是有首歌叫 半糖主义吗
+: 昨晚他说不希望我粘着他，太依赖他。他是THU的，我在隔壁。他说一周见三四次比较好，还说天天见的话就会审美疲劳的
+: 他还说他不希望别人管他，约束他，他说他喜欢自由，还说他比较大男子主义
+: 他要忙着赶毕业论文，昨晚送我到我们学校的东门时，我就说我自己回去好了，本来心情也不好，他本来说是要送我到我们南门，我宿舍离东门很远，离南门很近，但没有继续坚持。我走进东门，在黑暗里回转身，没有看到他的身影，泪就下来了。觉得伤心，也因为跟他有一些不太容
+: ...................
+

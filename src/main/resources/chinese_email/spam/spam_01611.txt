@@ -1,0 +1,65 @@
+Return-Path: <cao@yahoo.com.cn>
+Received: from yahoo.com.cn ([60.176.128.49])
+	by home.ccert.edu.cn (MIMEDefang) with ESMTP id NOQUEUE
+	for <hua@ccert.edu.cn>; Wed, 22 Jun 2005 16:55:23 +0800 (CST)
+Message-ID: <200506221655.0.656131434286788@home.ccert.edu.cn>
+From: =?GB2312?B?1q69rc34wuc=?= <cao@yahoo.com.cn>
+Subject: =?gb2312?B?0/LD+7/VvOTTxbvd?=
+To: hua@ccert.edu.cn
+Content-Type: text/html;charset="GB2312"
+Reply-To: cao@yahoo.com.cn
+Date: Wed, 22 Jun 2005 17:11:26 +0800
+X-Priority: 2
+X-Mailer: Microsoft Outlook Express 6.00.2600.0000
+
+国际顶级域名1个+标准100MB-ASP虚拟主机1套+100MB-10用户企业邮局1套，总共只需168元。
+详情请访问： 之江网络  www.zjasp.com   QQ：1460028
+
+虚拟主机介绍：
+
+支持HTML/ASP的100MB高速网站运行空间
+
+主机配置：双路至强2.4GCPU/1GREG-ECC-DDR/36GSCSIHDD/100MNICIntelIAServer
+操作系统：W2K-AdvancedServer with IIS5.0
+网络带宽：上海电信大楼根节点2.5G光纤直连ChinaNet骨干网
+网络环境：国家A级数据中心标准，上海顶级电信机房环境
+网络安全：电信级硬件防火墙
+
+主页空间：100M
+FTP账号： 1个
+域名服务：免费赠送3级域名一个
+捆绑邮局：免费赠送10用户[容量100MB]企业邮局一套
+
+自助管理：支持B/S形式自助管理——网站运行状态/FTP密码/域名绑定/默认首页
+程序支持：HTM/HTML/asp/asp.net
+脚本支持：VBS/JS
+组件支持：文件读写FSO支持，邮件发送cdonts、Jmail支持
+数据库：  直接支持Access数据库；SQLSERVER支持[需另收费]
+数据备份：每周本地，第三方服务器双重备份
+技术支持：E-Mail技术支持/电话技术支持/OICQ在线支持
+
+企业邮局介绍：
+
+信箱容量：  100MB
+最大附件：  10MB
+邮箱数量：  10个
+邮箱格式：  yourname@youdomain.com
+
+自由划分邮箱容量
+支持网络硬盘功能
+支持标准SMTP功能
+支持标准POP3功能
+支持邮箱转发功能
+支持设置签名功能
+支持自动回复功能
+支持拒收邮件功能
+支持批量删除功能
+支持WEB收发邮件功能
+支持多功能地址本功能
+支持在线修改密码功能
+支持授权认证发送功能
+配置防火墙防病毒功能 
+
+国际顶级域名1个+标准100MB-ASP虚拟主机1套+100MB-10用户企业邮局1套，总共只需168元。
+详情请访问： 之江网络  www.zjasp.com   QQ：1460028
+

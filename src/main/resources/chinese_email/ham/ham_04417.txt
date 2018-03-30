@@ -1,0 +1,56 @@
+Return-Path: <ni@mails.tsinghua.edu.cn>
+Received: from tsinghua.org.cn ([210.77.143.228])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id iA51amji027476
+	for <lin@ccert.edu.cn>; Fri, 5 Nov 2004 09:36:54 +0800
+Received: (eyou send program); Fri, 05 Nov 2004 09:48:33 +0800
+Received: (eyou send program); Fri, 05 Nov 2004 09:48:33 +0800
+X-EYOU-ORIGINAL-IP: 210.77.143.235
+X-EYOU-ENVELOPE-MAILFROM: malb03@mails.tsinghua.edu.cn
+Received: from unknown (HELO eyou.net) (unknown@210.77.143.235)
+ by 210.77.143.228 with SMTP; Fri, 05 Nov 2004 09:48:33 +0800
+Received: (eyou send program); Fri, 05 Nov 2004 09:44:54 +0800
+Message-ID: <299619094.08728@eyou.net>
+Received: from 166.111.8.16 by 210.77.143.235 with SMTP; Fri, 05 Nov 2004 09:44:49 +0800
+Received: (eyou send program); Fri, 05 Nov 2004 09:43:17 +0800
+Message-ID: <299618996.29410@mails.tsinghua.edu.cn>
+Received: (eyou send program); Fri, 05 Nov 2004 09:43:16 +0800
+Message-ID: <299618996.09367@mails.tsinghua.edu.cn>
+Received: from unknown (HELO mails.tsinghua.edu.cn) (unknown@127.0.0.1)
+ by 127.0.0.1 with SMTP; Fri, 05 Nov 2004 09:43:16 +0800
+X-scanvirus: By Symantec Scan Engine
+X-scanresult: CLEAN
+Received: (eqmail ); 5 Nov 2004 01:43:15 -0000
+Received: from ccert.edu.cn (HELO home.ccert.edu.cn) (202.112.57.12)
+  by mails.tsinghua.edu.cn with SMTP; 5 Nov 2004 01:43:14 -0000
+Received: from home.ccert.edu.cn (localhost [127.0.0.1])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id iA51ZrJr027427;
+	Fri, 5 Nov 2004 09:35:53 +0800
+Received: (from majordomo@localhost)
+	by home.ccert.edu.cn (8.13.1/8.13.1/Submit) id iA51ZrlA027426;
+	Fri, 5 Nov 2004 09:35:53 +0800
+X-Authentication-Warning: home.ccert.edu.cn: majordomo set sender to owner-ccertstaff using -f
+Received: from mails.tsinghua.edu.cn (mails.tsinghua.edu.cn [166.111.8.16])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with SMTP id iA51ZqgC027418
+	for <lin@ccert.edu.cn>; Fri, 5 Nov 2004 09:35:53 +0800
+Received: (eyou send program); Fri, 05 Nov 2004 09:42:37 +0800
+Message-ID: <299618957.28785@mails.tsinghua.edu.cn>
+Received: from 202.112.50.13 by mails.tsinghua.edu.cn with HTTP; Fri, 05 Nov 2004 09:42:37 +0800
+X-WebMAIL-MUA: [202.112.50.13]
+From: "ni" <ni@mails.tsinghua.edu.cn>
+To: lin@ccert.edu.cn
+Date: Fri, 05 Nov 2004 09:42:37 +0800
+Reply-To: "ni" <ni@mails.tsinghua.edu.cn>
+Subject: =?gb2312?B?UmU6IL3xzOzKx87SveG76TLW3MTqvM3E7sjVKDIp?=
+Content-Type: text/plain
+Sender: owner-ccertstaff@home.ccert.edu.cn
+Precedence: bulk
+X-UIDL: BE)!!l#J!!_NR"!_YQ"!
+
+现在明白了就好
+不要老和男人闹，他会累的，然后就想逃
+身边有典型的例子
+珍惜吧
+: gg终于找到北京的一份工作，我们俩都毕业了，我们决定重新申请一次，那时候我觉得自己像共产党的革命战士一样，大义凛然的说：“我先不找工作，我一个人申请两个人的吧”其实话说出来容易，做出来很难，没有工作的那种空虚，取代学生时代的忙忙碌碌，让我几乎有点神经质，每天gg下班，我都要和他闹，反正反反复复的都是说自己的贡献有多大，最牛的一次gg晚上要去刷牙，我把他的杯摔了，然后开始数落说都是我自己做的申请材料，为什么他什么都不管？现在想想自己那时候简直是一个泼妇一样，后来我自己工作了，才知道工作了是多辛苦，每天? 掳嗔嗽趺纯赡茉僮霰鸬氖虑椤g也不反驳我，从此以后每天晚上他强打精神和我一起做申请材料。至今我想起那个杯都觉得很心酸，哎，原谅幼稚的我把。
+: 再后来，我们两各自拿到offer,我身边有一帮的朋友，过的如鱼得水，可就是没想过gg其实一个人过得很艰难，后来，我有了一个机会到gg身边，可是我却不愿意，我舍不得我的朋友，于是和gg闹啊，闹啊，数落他的不是，说他很多令我不满的地方，在msn的摄像头里，我看到gg哭了，哭得很伤心，说：“你难道还没看出我在很努力的改变吗？”我突然发现这个男孩为了我其实够委屈自己了，那天，gg特别坚决地说，他同意和我离婚了，我有如五雷轰顶，我从来就没有想过，有一天我的gg真地会选择离开我，于是我求gg，终于到了gg身边。
+: ...................
+

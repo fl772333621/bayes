@@ -1,0 +1,29 @@
+Return-Path: <lv@tsinghua.edu.cn>
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id i8M25rUV017133;
+	Wed, 22 Sep 2004 10:05:53 +0800
+Received: from huhoo ([202.112.50.11])
+	(authenticated bits=0)
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id i8M2Fte4001457;
+	Wed, 22 Sep 2004 10:15:55 +0800 (CST)
+From: "lv" <lv@tsinghua.edu.cn>
+To: ding@ccert.edu.cn
+Subject: =?gb2312?B?UmU6IMTQyfqjrMDtv8ajrLGov7zExLj216jStbrDo78=?=
+Date: Wed, 22 Sep 2004 10:13:20 +0800
+Message-ID: <023b01c4a049$be33a950$033270ca@huhoo>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_023C_01C4A08C.CC56E950"
+X-Priority: 3 (Normal)
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook, Build 10.0.2627
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1441
+Importance: Normal
+X-UIDL: '3["!A+;!!L;X"!CkL"!
+
+理科的话,如果有自信成为大牛那就来吧,数学何物理随便.不染很痛苦的,
+: sorry啊 ，在公司只能上web，其他方式我也不太会使^_^。
+: 我弟弟，今年高考，数学还行，并且从小有兴趣，高二时全国奥数二等奖且排名靠前，所以数学、物理相对化学、生物要好些，语文、英语则是典型的理科男生，我估计上大学后他不能一次过6极，呵呵。
+: 所以，他应该以数学、物理类较侧重的专业为报考目标吧，但我读的是文科，不是很了解，请大家不吝赐教了。
+: ...................
+

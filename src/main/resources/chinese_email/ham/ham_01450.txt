@@ -1,0 +1,42 @@
+Return-Path: <pu@home.ccert.edu.cn>
+Received: from home.ccert.edu.cn (localhost [127.0.0.1])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id i8R9614b011667;
+	Mon, 27 Sep 2004 17:06:01 +0800
+Received: (from majordomo@localhost)
+	by home.ccert.edu.cn (8.13.1/8.13.1/Submit) id i8R9611a011666;
+	Mon, 27 Sep 2004 17:06:01 +0800
+X-Authentication-Warning: home.ccert.edu.cn: majordomo set sender to owner-ccertstaff using -f
+Received: from ccertspark ([202.112.50.4])
+	(authenticated bits=0)
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id i8R95bQp011657
+	for <hou@ccert.edu.cn>; Mon, 27 Sep 2004 17:05:38 +0800
+From: "pu" <pu@ccert.edu.cn>
+To: hou@ccert.edu.cn
+Subject: =?gb2312?B?UmU6IM3GvPa159OwLS0tLS0tLS267MmrvcfC5ChyZWQgY29ybmVyKQ==?=
+Date: Mon, 27 Sep 2004 17:19:13 +0800
+Message-ID: <002e01c4a473$0f592030$043270ca@ccertspark>
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	boundary="----=_NextPart_000_002F_01C4A4B6.1D7C6030"
+X-Priority: 3 (Normal)
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook, Build 10.0.6626
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.3790.181
+Importance: Normal
+Sender: owner-ccertstaff@home.ccert.edu.cn
+Precedence: bulk
+X-UIDL: YPe!!Pp*#!:Nd!!31R"!
+
+这片子是美国角度来看中国，某些地方让人觉得好笑。
+: 标  题: Re: 推荐电影--------红色角落(red corner)
+: 发信站: 水木社区 (Thu Jun  9 07:59:34 2005), 站内
+: 
+: 这片反华？我觉得对我国司法制度的溢美简直让中国人不敢相信
+: 说红色角度反华就跟说将军是辱华游戏一样搞笑
+: : 超级反华片，不过里面以有孟广美大姐的Full Frontal，真是出乎意料而且印象深刻。
+: 
+: 
+: --
+: 
+: ※ 来源:·水木社区 newsmth.net·[FROM: 202.108.232.*]
+

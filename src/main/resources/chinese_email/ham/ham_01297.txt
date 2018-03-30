@@ -1,0 +1,27 @@
+Return-Path: <cen@rbl.ccert.edu.cn>
+Received: from rbl.ccert.edu.cn (rbl.ccert.edu.cn [202.112.57.71])
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id i91BvTlp004976
+	for <xiao@ccert.edu.cn>; Fri, 1 Oct 2004 19:57:29 +0800 (CST)
+Received: from rbl.ccert.edu.cn (localhost.localdomain [127.0.0.1])
+	by rbl.ccert.edu.cn (8.12.11/8.12.11) with ESMTP id i91C394l003781
+	for <xiao@ccert.edu.cn>; Fri, 1 Oct 2004 20:03:09 +0800
+Received: (from qa@localhost)
+	by rbl.ccert.edu.cn (8.12.11/8.12.11/Submit) id i91C39gE003780;
+	Fri, 1 Oct 2004 20:03:09 +0800
+Date: Fri, 1 Oct 2004 20:03:09 +0800
+Message-Id: <200410011203.i91C39gE003780@rbl.ccert.edu.cn>
+Subject: =?gb2312?B?UmU6ILK7y6yho9PWtcPX9re5yKXByw==?=
+To: xiao@ccert.edu.cn
+From: Tran Quang Anh <cen@cernet.edu.cn>
+Content-Type: multipart/mixed; boundary="----------=_1096632190-996-284"
+MIME-Version: 1.0
+X-UIDL: Q;Q"!:*W!!F59"!Q6-!!
+
+: 在国外精神空虚，一个人过日子攒不下钱来，有车没房四处流浪，不缺一夜情就缺责任心
+: 结婚了收心，人生变得有计划了，生活变得有条理了，工作态度变端正了，人也不懒了
+: 烟不抽了，晚上和朋友不一起出去鬼混了，有空没空琢磨院子里是不是要割草了
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+原来在资本主义国家腐败啊。。。你们家院子忒大吧。。割草得费多长时间啊:p
+ps:我就是觉得某人懒。。。工作没动力。。。
+: ...................
+

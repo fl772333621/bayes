@@ -1,0 +1,65 @@
+Return-Path: <tan@ns.6test.edu.cn>
+Received: from tsinghua.org.cn ([210.77.143.231])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id iBEDLcRo007786
+	for <yu@ccert.edu.cn>; Tue, 14 Dec 2004 21:21:39 +0800
+Received: (eyou send program); Tue, 14 Dec 2004 21:15:02 +0800
+Received: (eyou send program); Tue, 14 Dec 2004 21:15:02 +0800
+X-EYOU-ORIGINAL-IP: 210.77.143.235
+X-EYOU-ENVELOPE-MAILFROM: toefl-bounces@server.cool-meeting.com
+Received: from unknown (HELO eyou.net) (unknown@210.77.143.235)
+ by 210.77.143.231 with SMTP; Tue, 14 Dec 2004 21:15:02 +0800
+Received: (eyou send program); Tue, 14 Dec 2004 21:29:43 +0800
+Message-ID: <303030983.31806@eyou.net>
+Received: from 202.38.99.65 by 210.77.143.235 with SMTP; Tue, 14 Dec 2004 21:29:37 +0800
+Received: from server.cool-meeting.com (localhost.localdomain [127.0.0.1])
+	by server.cool-meeting.com (8.12.8/8.12.8) with ESMTP id iBEDqVlY030270
+	for <yu@ccert.edu.cn>; Tue, 14 Dec 2004 21:53:45 +0800
+Received: from bighead.6test.edu.cn (postfix@[202.38.99.4])
+	by server.cool-meeting.com (8.12.8/8.12.8) with ESMTP id iBEDqOkr030266
+	for <yu@ccert.edu.cn>; Tue, 14 Dec 2004 21:52:24 +0800
+Received: by bighead.6test.edu.cn (Postfix, from userid 1000)
+	id 6E5B734E6; Tue, 14 Dec 2004 21:34:21 +0800 (CST)
+Date: Tue, 14 Dec 2004 21:34:21 +0800
+From: LIU Xin <tan@ns.6test.edu.cn>
+To: yu@ccert.edu.cn
+Subject: Re: [TOEFL] =?gb2312?B?sb7W3MzWwtu74Q==?=
+Message-ID: <20041214133421.GB5121@bighead.6test.edu.cn>
+References: <006801c4e1de$d234ee10$2fcb6fa6@wanglanjia>
+Mime-Version: 1.0
+Content-Type: text/plain; charset=gb2312
+Content-Disposition: inline
+Content-Transfer-Encoding: 8bit
+In-Reply-To: <006801c4e1de$d234ee10$2fcb6fa6@wanglanjia>
+User-Agent: Mutt/1.4.1i
+Cc: 
+X-BeenThere: toefl@server.cool-meeting.com
+X-Mailman-Version: 2.1.2
+Precedence: list
+List-Id: &#26446;&#26143;&#21644;&#20182;&#30340;&#23398;&#29983;&#20204;
+	<toefl.server.cool-meeting.com>
+List-Unsubscribe: <http://server.cool-meeting.com/mailman/listinfo/toefl>,
+	<mailto:toefl-request@server.cool-meeting.com?subject=unsubscribe>
+List-Archive: <http://server.cool-meeting.com/mailman/private/toefl>
+List-Post: <mailto:toefl@server.cool-meeting.com>
+List-Help: <mailto:toefl-request@server.cool-meeting.com?subject=help>
+List-Subscribe: <http://server.cool-meeting.com/mailman/listinfo/toefl>,
+	<mailto:toefl-request@server.cool-meeting.com?subject=subscribe>
+Sender: toefl-bounces@server.cool-meeting.com
+Errors-To: toefl-bounces@server.cool-meeting.com
+X-UIDL: S8a"!0Z0!!OMe!!Q\6"!
+
+北京创想通科技有限公司是由成立于2005年3月, 主要从事日本的金融、铁道、福祉、物流等行业的系统开发和服务业务，与日本第一电信PoweredCom、Infodeliver公司等大企业有着直接的长期合作关系。我们坚持”信用第一,以人为本”,全力打造优秀的软件技术企业,为员工开拓广阔的发展空间。公司位于清华大学东门创业园，周围环境安静，交通方便。
+　　公司业务以日本软件受托开发为主。拥有一支掌握国际标准软件开发规范、高素质、团结协作的优秀开发队伍。开发业务包括基于新一代智能卡的数据安全系统、移动通信数据安全系统、基于JAVA的电子政府信息化系统、电子电路设计自动化（EDA）等多项业务。
+　　作为从事日本委托软件设计和开发的专业软件公司，公司吸收了客户大量规范化软件开发的经验，在软件开发过程中坚持提倡过程管理、质量为先。以良好的软件质量赢得了客户的好评。
+联系方式：
+E-mail：hr@aispace.cn
+网址：http://www.aispace.cn 
+ 
+Java软件工程师(开发组长) 2人 （编号：1） 
+招聘人数：2人 月薪范围：面议 
+工作经验：1年 学历：本科以上 
+工作地点：北京    
+职位描述及要求
+参与项目分析，独立完成设计，熟练使用项目主要技术，能划分工作任务给其他程序员，能统筹开发组各组员的源代码，能跟踪任务的完成情况，提交给质检部门进行检测。
+掌握技能：Java、.net 
+

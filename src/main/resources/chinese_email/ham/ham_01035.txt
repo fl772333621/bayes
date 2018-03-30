@@ -1,0 +1,50 @@
+Return-Path: <ning@cernet.edu.cn>
+Received: from tsinghua.org.cn ([210.77.143.228])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id i9I3ODWU017206
+	for <yuan@ccert.edu.cn>; Mon, 18 Oct 2004 11:24:15 +0800
+Received: (eyou send program); Mon, 18 Oct 2004 11:35:16 +0800
+Received: (eyou send program); Mon, 18 Oct 2004 11:34:23 +0800
+X-EYOU-ORIGINAL-IP: 202.112.5.66
+X-EYOU-ENVELOPE-MAILFROM: sundh@cernet.edu.cn
+Received: from unknown (HELO sea.net.edu.cn) (unknown@202.112.5.66)
+ by 210.77.143.228 with SMTP; Mon, 18 Oct 2004 11:34:23 +0800
+Received: from 8jmd55gawpz3tjh ([202.112.50.7])
+	(authenticated bits=0)
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id i9I3QnJx025282;
+	Mon, 18 Oct 2004 11:26:50 +0800 (CST)
+Message-ID: <005601c4b4c2$5abe90f0$073270ca@8jmd55gawpz3tjh>
+From: "ning" <ning@cernet.edu.cn>
+To: yuan@ccert.edu.cn
+Subject: =?gb2312?B?UmU6INX309FeX17LrtbQx8UuwrfQ0LO1LsDPtubK1tDE09DK/S6julA=?=
+Date: Mon, 18 Oct 2004 11:27:10 +0800
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="----=_NextPart_000_0054_01C4B505.682A67D0"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2800.1437
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1441
+X-UIDL: 9~V"!W]Q!![/&!!+Rk"!
+
+我知道答案了
+答案就是：
+SMTHER，嗯
+: 标  题: Re: 征友^_^水中桥.路行车.老舵手心有数.：P
+: 发信站: 水木社区 (Wed Jun  1 22:47:53 2005), 站内
+: 
+: 又来了！
+: : 征能猜出上述谜语的gg为友，本人ppmm^_^，喜欢聪明的gg
+: : 下面这条谜语和题目中的谜语的谜底一样
+: : 鸟鸣压树梢.脆耳声声高.南辕北辙路.宝塔镇河妖
+: : ...................
+: 
+: --
+: 如果吃苦能够让我成熟，
+: 我对我的未来更有把握；
+: 如果长夜漫漫会有尽头，
+: 我在黎明牵你的手。
+: 陪你点亮人间的灯火，看春夏秋冬。
+: 
+: 
+: ※ 来源:·水木社区 newsmth.net·[FROM: 159.226.113.*]
+

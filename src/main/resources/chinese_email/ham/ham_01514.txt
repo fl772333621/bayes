@@ -1,0 +1,56 @@
+Return-Path: <zhou@ns.6test.edu.cn>
+Received: from tsinghua.org.cn ([210.77.143.228])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id iAO0v2EG013950
+	for <peng@ccert.edu.cn>; Wed, 24 Nov 2004 08:57:03 +0800
+Received: (eyou send program); Wed, 24 Nov 2004 09:09:47 +0800
+Received: (eyou send program); Wed, 24 Nov 2004 09:09:47 +0800
+X-EYOU-ORIGINAL-IP: 210.77.143.235
+X-EYOU-ENVELOPE-MAILFROM: toefl-bounces@server.cool-meeting.com
+Received: from unknown (HELO eyou.net) (unknown@210.77.143.235)
+ by 210.77.143.228 with SMTP; Wed, 24 Nov 2004 09:09:47 +0800
+Received: (eyou send program); Wed, 24 Nov 2004 09:04:49 +0800
+Message-ID: <301258289.25638@eyou.net>
+Received: from 202.38.99.65 by 210.77.143.235 with SMTP; Wed, 24 Nov 2004 09:04:48 +0800
+Received: from server.cool-meeting.com (localhost.localdomain [127.0.0.1])
+	by server.cool-meeting.com (8.12.8/8.12.8) with ESMTP id iAO1O8li027269
+	for <peng@ccert.edu.cn>; Wed, 24 Nov 2004 09:24:14 +0800
+Received: from ns.6test.edu.cn ([202.38.99.18])
+	by server.cool-meeting.com (8.12.8/8.12.8) with ESMTP id iAO1O2kr027265
+	for <peng@ccert.edu.cn>; Wed, 24 Nov 2004 09:24:02 +0800
+Received: from [202.112.3.118] (helo=IBM-E4AA49AF703)
+	by ns.6test.edu.cn with asmtp (Exim 4.12) id 1CWlzN-000HxZ-00
+	for Toefl@server.cool-meeting.com; Wed, 24 Nov 2004 09:30:33 +0800
+From: "zhou" <zhou@ns.6test.edu.cn>
+To: peng@ccert.edu.cn
+X-mailer: Foxmail 4.2 [cn]
+Mime-Version: 1.0
+Content-Type: text/plain;
+      charset="GB2312"
+Date: Wed, 24 Nov 2004 9:9:4 +0800
+Message-Id: <E1CWlzN-000HxZ-00@ns.6test.edu.cn>
+Content-Transfer-Encoding: 8bit
+X-MIME-Autoconverted: from quoted-printable to 8bit by server.cool-meeting.com
+	id iAO1O2kr027265
+Cc: 
+Subject: =?gb2312?B?UmU6IKH+of7A4aOsy63E3LDv1vrO0qO/of6h/g==?=
+X-BeenThere: toefl@server.cool-meeting.com
+X-Mailman-Version: 2.1.2
+Precedence: list
+List-Id: &#26446;&#26143;&#21644;&#20182;&#30340;&#23398;&#29983;&#20204;
+	<toefl.server.cool-meeting.com>
+List-Unsubscribe: <http://server.cool-meeting.com/mailman/listinfo/toefl>,
+	<mailto:toefl-request@server.cool-meeting.com?subject=unsubscribe>
+List-Archive: <http://server.cool-meeting.com/mailman/private/toefl>
+List-Post: <mailto:toefl@server.cool-meeting.com>
+List-Help: <mailto:toefl-request@server.cool-meeting.com?subject=help>
+List-Subscribe: <http://server.cool-meeting.com/mailman/listinfo/toefl>,
+	<mailto:toefl-request@server.cool-meeting.com?subject=subscribe>
+Sender: toefl-bounces@server.cool-meeting.com
+Errors-To: toefl-bounces@server.cool-meeting.com
+X-UIDL: O`E!!ck;!!`[W!!R\G!!
+
+什么东西！清华大学居然培养这样的人渣！！！！！
+: 我不知该如何陈述发生的这一切，如果不是被逼无奈，我今天也不会到这里来叙述这些令人不快的种种。
+: 我和裴国民于1997年11月在天津市河东区登记结婚，之前我们是大学同学，他比我大四岁高我两届，我们有一个5岁的儿子叫容容。裴国民现就读于清华大学经管学院2003年MBA P2班，攻读工商管理硕士。这些年我用每月1千多元的工资收入供他在北京考研上学，家里花光了所有的积蓄，我一个人在天津带着孩子。
+: 今年情人节的第二天，如果不是孩子告诉我前一天爸爸开着车去接阿姨，爸爸还和阿姨睡在一张床上，也许到现在我还不知道他在外面买了车！养了女人！原来妻子真的永远是最后一个知道丈夫外遇的人！甚至连孩子他都一点不避讳！之前我给自己编织的什么他是事业心重顾不上家，什么他为了孩子也不会和女人乱来的种种理由都破灭了。吃再多的苦我不怕，我可以忍受长期两地分居一人照顾孩子照顾家，我可以为他花光积蓄让他辞职读MBA，但我不能容忍欺骗。我想不到我的付出换来的竟是这样的结果，我想不到身在清华受着高等教育的他竟然越学越坏了良心: ...................
+

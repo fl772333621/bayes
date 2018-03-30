@@ -1,0 +1,36 @@
+Return-Path: <kong@compass.net.edu.cn>
+Received: from tsinghua.org.cn ([210.77.143.228])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id iAODsSDO023821
+	for <tao@ccert.edu.cn>; Wed, 24 Nov 2004 21:54:30 +0800
+Received: (eyou send program); Wed, 24 Nov 2004 22:07:16 +0800
+Received: (eyou send program); Wed, 24 Nov 2004 22:07:16 +0800
+X-EYOU-ORIGINAL-IP: 210.77.143.235
+X-EYOU-ENVELOPE-MAILFROM: ys@compass.net.edu.cn
+Received: from unknown (HELO eyou.net) (unknown@210.77.143.235)
+ by 210.77.143.228 with SMTP; Wed, 24 Nov 2004 22:07:16 +0800
+Received: (eyou send program); Wed, 24 Nov 2004 22:02:43 +0800
+Message-ID: <301304963.17405@eyou.net>
+Received: from 202.38.188.130 by 210.77.143.235 with SMTP; Wed, 24 Nov 2004 22:02:42 +0800
+Received: from [210.25.128.113] ([210.25.128.113])
+	by compass.net.edu.cn (8.9.2/8.9.2) with ESMTP id WAA11775
+	for <tao@ccert.edu.cn>; Wed, 24 Nov 2004 22:10:10 +0800 (CST)
+Message-ID: <41A494E4.2000502@compass.net.edu.cn>
+Date: Wed, 24 Nov 2004 22:04:20 +0800
+From: Shaozhi Ye <kong@compass.net.edu.cn>
+User-Agent: Mozilla Thunderbird 0.9 (Windows/20041103)
+X-Accept-Language: en-us, en
+MIME-Version: 1.0
+To: tao@ccert.edu.cn
+Subject: Re: =?GB2312?B?zsrSu8/Cu/rG9w==?=
+References: <301289476.11048@eyou.net> <004d01c4d22d$63a36370$7203510a@CCERTDAWEI>
+In-Reply-To: <004d01c4d22d$63a36370$7203510a@CCERTDAWEI>
+Content-Type: text/plain; charset=GB2312
+Content-Transfer-Encoding: 8bit
+X-UIDL: /XF"!UJ8"!eO+!!X:A!!
+
+要我还不开心死了
+:     我们都是学生，所谓的强，在他眼里就是学习好，社会工作能力强，不幸的是，我们一个大班，我成绩好而他成绩差，不是他不努力，大家都一起天天上自习，他学的还不刻苦那简直不知道什么叫刻苦了。研一时他调不出程序来，当时是在我们实验室（他那时还没分机器），冲我
+:    他总是想找到一些方面要比我强，比如社会工作；研究生以后我虽挂着一个头衔，其实只想做学术，不想管政务；他乐此不疲于各种班级事务，他们班也被热心的他整治得红红火火，申请到不少活动经费，同学们也对他印象很好，于是他总是在我面前沾沾自喜：“我在班里威信很�
+:    他虽然对我很好，我觉得他也是很专一的人，但他老觉得不如我，就总是莫名其妙地对我很凶，我家庭很富裕，又是独生子女，可是我周围的同学从来都没看出我怎么富裕怎么尊贵，我从本科起就靠家教和打零工、奖学金，不再管父母要钱了；我和宿舍其他姐妹一样省吃俭用，从�
+: ...................
+

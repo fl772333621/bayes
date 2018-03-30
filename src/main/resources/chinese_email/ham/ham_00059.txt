@@ -1,0 +1,27 @@
+Return-Path: <ma@cernet.edu.cn>
+Received: from sony (tu204121.tsinghua.edu.cn [166.111.204.121])
+	(authenticated bits=0)
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id iB17lIHs009427;
+	Wed, 1 Dec 2004 15:47:18 +0800 (CST)
+Message-ID: <00f501c4d779$f9b8d0b0$75cc6fa6@sony>
+From: "ma" <ma@cernet.edu.cn>
+To: lv@ccert.edu.cn
+Cc: <ye@ccert.edu.cn>, "Li Chongrong" <wua@ccert.edu.cn>
+References: <200411301345.iAUDjMYI007520@moon.bjnet.edu.cn>
+Subject: =?gb2312?B?UmU6ILret9/FraOs1PXDtLDso78=?=
+Date: Wed, 1 Dec 2004 15:47:09 +0800
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="----=_NextPart_000_00F3_01C4D7BD.049215D0"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2900.2180
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+X-UIDL: RK6"!o58!!l)0!!idV!!
+
+有点像我家，我家楼上是个市长，也是干这破事的
+: 我家一楼，二楼是我们学校纪委书记，我家装防盗窗的时候他老婆吵吵嚷嚷说我们装了之后，小偷可以顺着我们家防盗窗爬上他家偷东西，不让我们状。
+: 现在半夜了，他们居然带了一伙人，装了一个很大的卫星电视接收器在窗子外面，顶着我家窗沿，还伸出去很多。
+: 我就没见过有这么大的卫星接收器的，就像一大口锅狠狠的把我家窗子上遮住了，真相打电话报告公安局啊，ft
+: ...................
+

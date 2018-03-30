@@ -1,0 +1,26 @@
+Return-Path: <zeng@rbl.ccert.edu.cn>
+Received: from rbl.ccert.edu.cn (rbl.ccert.edu.cn [202.112.57.71])
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id i8T6rbdu006440
+	for <peng@ccert.edu.cn>; Wed, 29 Sep 2004 14:53:39 +0800 (CST)
+Received: from rbl.ccert.edu.cn (localhost.localdomain [127.0.0.1])
+	by rbl.ccert.edu.cn (8.12.11/8.12.11) with ESMTP id i8T50HjF021129
+	for <peng@ccert.edu.cn>; Wed, 29 Sep 2004 13:00:18 +0800
+Received: (from qa@localhost)
+	by rbl.ccert.edu.cn (8.12.11/8.12.11/Submit) id i8T50HER021128;
+	Wed, 29 Sep 2004 13:00:17 +0800
+Date: Wed, 29 Sep 2004 13:00:17 +0800
+Message-Id: <200409290500.i8T50HER021128@rbl.ccert.edu.cn>
+Subject: =?gb2312?B?UmU6INbYzsLJr87Mx+nKtw==?=
+To: peng@ccert.edu.cn
+From: Tran Quang Anh <zeng@cernet.edu.cn>
+Content-Type: multipart/mixed; boundary="----------=_1096434018-996-124"
+MIME-Version: 1.0
+X-UIDL: *K##!U=5!!%n2"!kKc!!
+
+Gwyneth演得还是不错的吧
+男装女装演得都很好
+: 这片子刚出来的时候我还是看过的。可是那时候英文恨滥，只能看着垃圾字幕结果还是屁也不懂。这次可是仔细看着英文字幕一遍下来，至少明白了里面哪些地方好笑。呵呵。不可否认，这部电影的剧本蕴含了深厚的文化背景（或者刻意歪曲了），这是值得赞赏的地方，不过对于文学
+: 还有一点感触，Gwyneth Paltrow靠本片活得了奥斯卡最佳女主角，但是我却感觉她演的恨恨一般。另外那个活蹦乱跳的Shakespe也不咋地。倒是那些光彩照人的配角们Geoffrey Rush，Colin Firth， Tom Wilkinson给我留下了很深刻的印象，很多有趣的对白也是从他们嘴里出来的。�
+: 所以，除了男女主角，这部电影的确充满了智慧。
+: ...................
+

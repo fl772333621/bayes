@@ -1,0 +1,35 @@
+Return-Path: <tan@withub.org>
+Received: from autoforward.mail.sohu.com ([61.135.132.166])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id j0O7uYLN006232
+	for <cao@ccert.edu.cn>; Mon, 24 Jan 2005 15:56:35 +0800
+Received: from mx23.mail.sohu.com (unknown [192.168.41.141])
+	by autoforward.mail.sohu.com (Postfix) with ESMTP id B22858E51A
+	for <cao@ccert.edu.cn>; Mon, 24 Jan 2005 16:08:20 +0800 (CST)
+Received: by mx23.mail.sohu.com (Postfix)
+	id 9FEBF14017; Mon, 24 Jan 2005 16:08:15 +0800 (CST)
+Delivered-To: chen741120@mx23.mail.sohu.com
+Received: from withub.org (unknown [218.80.208.20])
+	by sohumx08.sohu.com (Postfix) with SMTP id C3D4D27854A1
+	for <cao@ccert.edu.cn>; Mon, 24 Jan 2005 15:33:40 +0800 (CST)
+Received: (qmail 1265 invoked by uid 1009); 24 Jan 2005 07:26:40 -0000
+Message-ID: <20050124072640.1264.qmail@withub.org>
+To: cao@ccert.edu.cn
+Subject: =?gb2312?B?UmU6IM6qbW3X9rXE1+6689K7vP7KwqOhx+u087zSsO+w78Omo6E=?=
+From: "tan" <tan@withub.org>
+Date: Mon, 24 Jan 2005 15:26:40 +0800
+X-Priority: 3
+X-Mailer: iGENUS webmail 3.0 beta powered by wuqiong@igenus.org
+X-Originating-IP: [192.168.1.254]
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----228501cf8601be41fc4e06fed02c733d"
+X-Sohu-Antivirus: 0
+X-UIDL: ;_N"!NR?!!FpO!!gda!!
+
+明显是你追她，她追他。
+既然你这么爱她，而且又没有什么无聊的情节，那么你不妨给她一个承诺，说无论发生什么你都会收容她，你是她永远的港湾。这是你能送给她的最好礼物！呵呵。
+: 此刻内心阵阵剧痛，因为就在刚才，和mm正式分手了！请各位仔细看完，因为大家的建议能
+: 够让我能给我心爱的mm做最后一件事情！
+: 从去年年底一块征玩友认识的mm，mm是北大大四的学生，很优秀很漂亮的一个mm！爱好广泛
+: ...................
+

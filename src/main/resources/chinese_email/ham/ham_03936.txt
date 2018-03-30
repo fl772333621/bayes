@@ -1,0 +1,61 @@
+Return-Path: <pan@ccert.edu.cn>
+Received: from tsinghua.org.cn ([210.77.143.228])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id i8L3vMBx027231
+	for <qing@ccert.edu.cn>; Tue, 21 Sep 2004 11:57:24 +0800
+Received: (eyou send program); Tue, 21 Sep 2004 12:07:18 +0800
+Received: (eyou send program); Tue, 21 Sep 2004 12:06:52 +0800
+X-EYOU-ORIGINAL-IP: 166.111.8.16
+X-EYOU-ENVELOPE-MAILFROM: zhenghui@ccert.edu.cn
+Received: from unknown (HELO mails.tsinghua.edu.cn) (unknown@166.111.8.16)
+ by 210.77.143.228 with SMTP; Tue, 21 Sep 2004 12:06:52 +0800
+Received: (eyou send program); Tue, 21 Sep 2004 12:00:52 +0800
+Message-ID: <295739252.23590@mails.tsinghua.edu.cn>
+Received: (eyou send program); Tue, 21 Sep 2004 12:00:51 +0800
+Message-ID: <295739251.01366@mails.tsinghua.edu.cn>
+Received: from unknown (HELO mails.tsinghua.edu.cn) (unknown@127.0.0.1)
+ by 127.0.0.1 with SMTP; Tue, 21 Sep 2004 12:00:51 +0800
+X-scanvirus: By Symantec Scan Engine
+X-scanresult: CLEAN
+Received: (eqmail ); 21 Sep 2004 04:00:39 -0000
+Received: from ccert.edu.cn (HELO home.ccert.edu.cn) (202.112.57.12)
+  by mails.tsinghua.edu.cn with SMTP; 21 Sep 2004 04:00:39 -0000
+Received: from home.ccert.edu.cn (localhost [127.0.0.1])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id i8L3sOO4027132;
+	Tue, 21 Sep 2004 11:54:24 +0800
+Received: (from majordomo@localhost)
+	by home.ccert.edu.cn (8.13.1/8.13.1/Submit) id i8L3sOmv027131;
+	Tue, 21 Sep 2004 11:54:24 +0800
+X-Authentication-Warning: home.ccert.edu.cn: majordomo set sender to owner-ccertstaff using -f
+Received: from ccertspark (puma.ccert.edu.cn [202.112.50.50])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id i8L3sKJr027125
+	for <qing@ccert.edu.cn>; Tue, 21 Sep 2004 11:54:21 +0800
+From: "pan" <pan@ccert.edu.cn>
+To: qing@ccert.edu.cn
+Subject: =?gb2312?B?UmU6INPQyMu/tLn9s8LLvMu8tcShtsj90Kaht8Lwo78=?=
+Date: Tue, 21 Sep 2004 12:07:50 +0800
+Message-ID: <001801c49f90$9314afd0$323270ca@ccertspark>
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+X-Priority: 3 (Normal)
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook, Build 10.0.6626
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.3790.181
+Importance: Normal
+Content-Transfer-Encoding: 8bit
+X-MIME-Autoconverted: from base64 to 8bit by home.ccert.edu.cn id i8L3sOJr027128
+Sender: owner-ccertstaff@home.ccert.edu.cn
+Precedence: bulk
+X-UIDL: CA\"!abj"!&Ka"!"bF!!
+
+不是黄梅调，是苏杭一带的小调
+前后总共应该在二十种左右，每个小调的题目都打出字幕来，有些像曲牌的意思
+天涯歌女和四季歌、紫竹调的旋律都出现了，不过都是另外填词上去的。
+ 
+石榴姐伤心欲绝准备跳河那段比较搞笑，题目居然叫做“烟花女子诉阴状调”，
+我们当时就笑翻了
+: 我外公特别爱看，为了这个，专门把那个时候已经属于很先进的刚买来一个礼拜的黑白电
+: 视机给换成彩色的了，着实引领了潮流呢。
+: 大概前年，我看到有vcd买，给他老人家买了一张把他高兴坏了，我也跟着看，应该是黄
+: ...................
+

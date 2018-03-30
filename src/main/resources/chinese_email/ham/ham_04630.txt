@@ -1,0 +1,40 @@
+Return-Path: <yana@ccert.edu.cn>
+Received: from home.ccert.edu.cn (ccert.edu.cn [202.112.57.12])
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id iBH6ft4O013975;
+	Fri, 17 Dec 2004 14:41:55 +0800 (CST)
+Received: from sunbin_S ([202.112.50.201])
+	(authenticated bits=0)
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id iBH6S9UJ008775;
+	Fri, 17 Dec 2004 14:28:09 +0800
+Message-Id: <200412170628.iBH6S9UJ008775@home.ccert.edu.cn>
+Date: Fri, 17 Dec 2004 14:47:42 +0800
+From: "yana" <yana@ccert.edu.cn>
+Reply-To: yana@ccert.edu.cn
+To: ke@ccert.edu.cn
+Subject: =?gb2312?B?UmU6ILCzyse088j9tcTQobG+o6zH673Mo6G7ttOtvajS6Q==?=
+Organization: CCERT
+X-mailer: Foxmail 5.0 beta2 [cn]
+Mime-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: 8bit
+X-MIME-Autoconverted: from base64 to 8bit by sea.net.edu.cn id iBH6ft4O013975
+X-UIDL: h;#"!3<K"!C1)"!Y2j!!
+
+中国空间技术研究院(航天五院)目前是航天系统综合状况最好的院
+我参加过他们的招聘会
+力学专业到航天系统工作是不错的选择
+考中国空间技术研究院有几个好处：
+  首先他们不收学费，而且每月还有大概800的补助
+  第二你读研毕业后很容易就留到那里
+  第三如果留到那里，由于读研期间你的导师是行政和技术的领导
+      因此对发展比较有利
+  缺点就是研究院的硕士社会认可度个人感觉不如名牌大学的好，但也不是绝对的
+  如果你不想到中国空间技术研究院工作，在那里读研肯定有些局限
+  还要看你的实力，能否考上
+个人意见，仅供参考
+: 俺是北京名牌工科非热门的gg，今年大三
+: 面临考研，在水木潜水这么久，学得了不少
+: 不过还有些问题想请教大家
+: ...................
+

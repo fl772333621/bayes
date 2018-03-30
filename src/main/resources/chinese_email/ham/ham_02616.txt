@@ -1,0 +1,55 @@
+Return-Path: <ma@ns.6test.edu.cn>
+Received: from tsinghua.org.cn ([210.77.143.231])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id iB1FF1XW026310
+	for <feng@ccert.edu.cn>; Wed, 1 Dec 2004 23:15:02 +0800
+Received: (eyou send program); Wed, 01 Dec 2004 23:08:08 +0800
+Received: (eyou send program); Wed, 01 Dec 2004 23:08:07 +0800
+X-EYOU-ORIGINAL-IP: 210.77.143.235
+X-EYOU-ENVELOPE-MAILFROM: toefl-bounces@server.cool-meeting.com
+Received: from unknown (HELO eyou.net) (unknown@210.77.143.235)
+ by 210.77.143.231 with SMTP; Wed, 01 Dec 2004 23:08:07 +0800
+Received: (eyou send program); Wed, 01 Dec 2004 23:23:15 +0800
+Message-ID: <301914595.28267@eyou.net>
+Received: from 202.38.99.65 by 210.77.143.235 with SMTP; Wed, 01 Dec 2004 23:23:13 +0800
+Received: from server.cool-meeting.com (localhost.localdomain [127.0.0.1])
+	by server.cool-meeting.com (8.12.8/8.12.8) with ESMTP id iB1Fi3lZ007332
+	for <feng@ccert.edu.cn>; Wed, 1 Dec 2004 23:44:24 +0800
+Received: from ns.6test.edu.cn ([202.38.99.18])
+	by server.cool-meeting.com (8.12.8/8.12.8) with ESMTP id iB1Fhvkr007328
+	for <feng@ccert.edu.cn>; Wed, 1 Dec 2004 23:43:57 +0800
+Received: from [210.25.128.109] (helo=wlj)
+	by ns.6test.edu.cn with asmtp (Exim 4.12) id 1CZWkW-000HAq-00
+	for Toefl@server.cool-meeting.com; Wed, 01 Dec 2004 23:50:36 +0800
+Message-ID: <01e901c4d7ba$46827460$6f416fa6@wlj>
+From: "ma" <ma@ns.6test.edu.cn>
+To: feng@ccert.edu.cn
+Date: Wed, 1 Dec 2004 23:25:57 +0800
+MIME-Version: 1.0
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2800.1437
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1441
+Cc: 
+Subject: =?gb2312?B?UmU6ILbBx+W7qrK7xNy4xLHkw/zUyw==?=
+X-BeenThere: toefl@server.cool-meeting.com
+X-Mailman-Version: 2.1.2
+Precedence: list
+List-Id: &#26446;&#26143;&#21644;&#20182;&#30340;&#23398;&#29983;&#20204;
+	<toefl.server.cool-meeting.com>
+List-Unsubscribe: <http://server.cool-meeting.com/mailman/listinfo/toefl>,
+	<mailto:toefl-request@server.cool-meeting.com?subject=unsubscribe>
+List-Archive: <http://server.cool-meeting.com/mailman/private/toefl>
+List-Post: <mailto:toefl@server.cool-meeting.com>
+List-Help: <mailto:toefl-request@server.cool-meeting.com?subject=help>
+List-Subscribe: <http://server.cool-meeting.com/mailman/listinfo/toefl>,
+	<mailto:toefl-request@server.cool-meeting.com?subject=subscribe>
+Content-Type: multipart/mixed; boundary="===============094321040159053182=="
+Sender: toefl-bounces@server.cool-meeting.com
+Errors-To: toefl-bounces@server.cool-meeting.com
+X-UIDL: Nn;!!lQW"!O=9!!Slb"!
+
+学校的牌子就是敲门砖，拿着一块好砖确实容易敲开一扇大宅门，不过即使进得去门，以后的日子也要靠自己啊。我觉得一个好学校的牌子也就足够支撑你两年，我毕业四年了，前几天想去找找工作赚点钱花，面试的时候根本就没有问我是哪里毕业的，只关心我做过什么我会做什么，而我自己也早就没有以前对自己学校的牌子的自豪感（尽管我始终非常喜欢自己的本科学校）我觉得改变命运的不是学校，而是你自己的努力，实在没有必要把考清华提到那么高的地位，考上了抓紧时间利用机会，失利了赶快寻找别的出路，人生很漫长，我们现在这个年纪就讨论什么命运的问题好像有点消极。
+不过，一个好学校是一个好环境，学习生活都会很有意义，所以清华是值得大家去拼搏的，但是要是把它看成改变命运的上帝之手就有点不太客观了，抓紧时间奋斗现在可能会更有用些吧
+: 难道不读清华命运就改变了?
+: 读清华又和命运扯上关系了...在我自己看来就算是一个小小追求.我觉得人生意义就是追求卓越并矛盾地知足常乐.清华就是学生时代最卓越的了,所以我要考
+

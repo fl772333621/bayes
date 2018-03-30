@@ -1,0 +1,36 @@
+Return-Path: <zhuang@tsinghua.edu.cn>
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with SMTP id j0E69F0Y019065
+	for <cheng@ccert.edu.cn>; Fri, 14 Jan 2005 14:09:30 +0800
+Received: (eyou send program); Fri, 14 Jan 2005 14:03:35 +0800
+Message-ID: <305682615.27091@mail.tsinghua.edu.cn>
+Received: from unknown (HELO mail.tsinghua.edu.cn) (unknown@127.0.0.1)
+ by 127.0.0.1 with SMTP; Fri, 14 Jan 2005 14:03:35 +0800
+X-scanvirus: By Symantec Scan Engine
+X-scanresult: CLEAN
+Received: (eqmail ); 14 Jan 2005 06:03:31 -0000
+Received: from unknown (HELO sony) (duanhx@202.112.35.253)
+  by localhost with SMTP; 14 Jan 2005 06:03:31 -0000
+Message-ID: <008601c4fa00$f9af0f40$1401a8c0@sony>
+From: "zhuang" <zhuang@tsinghua.edu.cn>
+To: cheng@ccert.edu.cn
+Subject: =?gb2312?B?UmU6IMqyw7TKx6Gw1rLO78nxvq3OycLSobGwoaO/?=
+Date: Fri, 14 Jan 2005 14:19:15 +0800
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="----=_NextPart_000_0084_01C4FA44.06D7C2A0"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2800.1106
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1106
+X-UIDL: 8/F"!'hV"!J4&"!RT3!!
+
+    他今年三十一,十几岁的时候就出现这种情况了.后来去医院看了才知道是这个病.
+和他相处这几年,觉得他对人很诚实的,真诚待人.没有"心太重"这种说法吧.压力刚刚
+我说了,只是一般人的那种压力吧,他工作强度有时会大一点,睡眠他也知道应该早睡,
+但因为是网虫,晚上十二点多一点才睡.
+: 呵呵,讲个简单点的理论,头痛是一种症状,但是可以分成很多种,比如发热可以引起,肿瘤占位可以引起,神经损伤也可以引起,然后经过N多检查手段都无法确诊的间断发作的无固定规律且通常可以耐受的就统称为--偏头痛.
+: 整体来说和这个植物神经紊乱一个意思,基本的发病机制目前还没有弄清楚,附个其他的,可以做参考地说.恩.
+: 周围神经病变发生机理：1．代谢异常：(1)山梨醇——肌醇代谢异常。(2)脂质代谢障碍。2．血管障碍学说： 其与血糖控制水平相关，提示血糖控制不良是糖尿病神经病变发生的病理基础。3．蛋白质糖基化。4．免疫因素：此理论未得到充分证实。5．维生素缺乏学说：有文献表明Vi
+: ...................
+

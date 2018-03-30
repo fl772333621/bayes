@@ -1,0 +1,22 @@
+Return-Path: <wang@rbl.ccert.edu.cn>
+Received: from rbl.ccert.edu.cn (rbl.ccert.edu.cn [202.112.57.71])
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id i97KOB6N025243
+	for <che@ccert.edu.cn>; Fri, 8 Oct 2004 04:24:11 +0800 (CST)
+Received: from rbl.ccert.edu.cn (localhost.localdomain [127.0.0.1])
+	by rbl.ccert.edu.cn (8.12.11/8.12.11) with ESMTP id i97KUBc8022011
+	for <che@ccert.edu.cn>; Fri, 8 Oct 2004 04:30:12 +0800
+Received: (from qa@localhost)
+	by rbl.ccert.edu.cn (8.12.11/8.12.11/Submit) id i97KUBUT022010;
+	Fri, 8 Oct 2004 04:30:11 +0800
+Date: Fri, 8 Oct 2004 04:30:11 +0800
+Message-Id: <200410072030.i97KUBUT022010@rbl.ccert.edu.cn>
+Subject: =?gb2312?B?UmU6IM/W1NrV5rXEsrvWqrXAuMPU9cO0sOzByw==?=
+To: che@ccert.edu.cn
+From: Tran Quang Anh <wang@cernet.edu.cn>
+Content-Type: multipart/mixed; boundary="----------=_1097181012-1044-84"
+MIME-Version: 1.0
+X-UIDL: e:b!!J0W"!J<h!!*<g!!
+
+三年，书读下来有什么用啊
+: 我一般本科毕业,于03,04,05年参加了研究生入学考试,报考的清华大学建设管理系项目管理专业,第一年没怎么复习考的不是很理想,接着没有找工作义无反顾的再一次报考,这次还没达线考试成绩不上不下,我下定了决心再考一年,于是又辛辛苦苦的准备重头再来,折腾了大半年后还是没考取,心想找工作吧,但是本科又很烂,找了几个工作都不太理想,简历中工作经验也没多少,没什么单位要,现在就是呆着,做什么的都没心情,也不想上班,也不想重考,哎愁啊,怎么办啊~~~有没有人跟我一样的情况.你们又是怎么处理的呢?真是没办法了.
+

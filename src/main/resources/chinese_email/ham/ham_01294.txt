@@ -1,0 +1,44 @@
+Return-Path: <gao@home.ccert.edu.cn>
+Received: from home.ccert.edu.cn (localhost [127.0.0.1])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id j0J8Fihx015969;
+	Wed, 19 Jan 2005 16:15:44 +0800
+Received: (from majordomo@localhost)
+	by home.ccert.edu.cn (8.13.1/8.13.1/Submit) id j0J8Fi2s015968;
+	Wed, 19 Jan 2005 16:15:44 +0800
+X-Authentication-Warning: home.ccert.edu.cn: majordomo set sender to owner-ccertstaff using -f
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with SMTP id j0J8FhFt015951
+	for <cheng@ccert.edu.cn>; Wed, 19 Jan 2005 16:15:44 +0800
+Received: (eyou send program); Wed, 19 Jan 2005 16:11:25 +0800
+Message-ID: <306122285.08096@mail.tsinghua.edu.cn>
+Received: from unknown (HELO mail.tsinghua.edu.cn) (unknown@127.0.0.1)
+ by 127.0.0.1 with SMTP; Wed, 19 Jan 2005 16:11:25 +0800
+X-scanvirus: By Symantec Scan Engine
+X-scanresult: CLEAN
+Received: (eqmail ); 19 Jan 2005 08:11:23 -0000
+Received: from unknown (HELO sony) (duanhx@202.112.35.253)
+  by localhost with SMTP; 19 Jan 2005 08:11:23 -0000
+Message-ID: <026601c4fe00$adcbb480$0301a8c0@sony>
+From: "gao" <gao@tsinghua.edu.cn>
+To: cheng@ccert.edu.cn
+Subject: =?gb2312?B?UmU6IMjnufvE0MXz09HSu9DE0qqxyMTjx78=?=
+Date: Wed, 19 Jan 2005 16:27:12 +0800
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="----=_NextPart_000_0262_01C4FE43.BB178040"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2800.1106
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1106
+Sender: owner-ccertstaff@home.ccert.edu.cn
+Precedence: bulk
+X-UIDL: :Z>"!f:j!!@T;!!d6S"!
+
+ft
+天下之大
+无奇不有
+:     我们都是学生，所谓的强，在他眼里就是学习好，社会工作能力强，不幸的是，我们一个大班，我成绩好而他成绩差，不是他不努力，大家都一起天天上自习，他学的还不刻苦那简直不知道什么叫刻苦了。研一时他调不出程序来，当时是在我们实验室（他那时还没分机器），冲我
+:    他总是想找到一些方面要比我强，比如社会工作；研究生以后我虽挂着一个头衔，其实只想做学术，不想管政务；他乐此不疲于各种班级事务，他们班也被热心的他整治得红红火火，申请到不少活动经费，同学们也对他印象很好，于是他总是在我面前沾沾自喜：“我在班里威信很�
+:    他虽然对我很好，我觉得他也是很专一的人，但他老觉得不如我，就总是莫名其妙地对我很凶，我家庭很富裕，又是独生子女，可是我周围的同学从来都没看出我怎么富裕怎么尊贵，我从本科起就靠家教和打零工、奖学金，不再管父母要钱了；我和宿舍其他姐妹一样省吃俭用，从�
+: ...................
+

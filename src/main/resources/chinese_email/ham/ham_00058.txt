@@ -1,0 +1,26 @@
+Return-Path: <ke@rbl.ccert.edu.cn>
+Received: from rbl.ccert.edu.cn (rbl.ccert.edu.cn [202.112.57.71])
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id i9G5PHA4019757
+	for <han@ccert.edu.cn>; Sat, 16 Oct 2004 13:25:17 +0800 (CST)
+Received: from rbl.ccert.edu.cn (localhost.localdomain [127.0.0.1])
+	by rbl.ccert.edu.cn (8.12.11/8.12.11) with ESMTP id i9G5Utbb002805
+	for <han@ccert.edu.cn>; Sat, 16 Oct 2004 13:30:55 +0800
+Received: (from qa@localhost)
+	by rbl.ccert.edu.cn (8.12.11/8.12.11/Submit) id i9G5Us9B002804;
+	Sat, 16 Oct 2004 13:30:54 +0800
+Date: Sat, 16 Oct 2004 13:30:54 +0800
+Message-Id: <200410160530.i9G5Us9B002804@rbl.ccert.edu.cn>
+Subject: =?gb2312?B?UmU6IHNpZ2ijrMq10enK0sDvw+a/qr/VtffBy6GjoaOhow==?=
+To: han@ccert.edu.cn
+From: Tran Quang Anh <ke@cernet.edu.cn>
+Content-Type: multipart/mixed; boundary="----------=_1097904655-2811-90"
+MIME-Version: 1.0
+X-UIDL: +\/!!m0G!!$hH!!Wc<!!
+
+我们实验室有个胖师兄，坐在空调底下，温度都要调到21度，太变态了
+我只好专门放两件大外套在实验室，一件披身上，一件盖着腿
+:  我没有觉得热，一个方面可能是本来就不热，另一个方面可能是因为怀孕之后变得
+: 畏寒，所以一点也不觉得热。。。
+:  但是实验室开了空调，那些男生都要开到20度甚至以下。。。，觉得不舒服。。。，这个房间这么多男生，只有我一个女生。。。
+: ...................
+

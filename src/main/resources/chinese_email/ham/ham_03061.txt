@@ -1,0 +1,66 @@
+Return-Path: <tan@ns.6test.edu.cn>
+Received: from tsinghua.org.cn ([210.77.143.228])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id i9R6Okg4025261
+	for <lai@ccert.edu.cn>; Wed, 27 Oct 2004 14:24:48 +0800
+Received: (eyou send program); Wed, 27 Oct 2004 14:36:09 +0800
+Received: (eyou send program); Wed, 27 Oct 2004 14:36:09 +0800
+X-EYOU-ORIGINAL-IP: 210.77.143.235
+X-EYOU-ENVELOPE-MAILFROM: wanglanjia@ns.6test.edu.cn
+Received: from unknown (HELO eyou.net) (unknown@210.77.143.235)
+ by 210.77.143.228 with SMTP; Wed, 27 Oct 2004 14:36:09 +0800
+Received: (eyou send program); Wed, 27 Oct 2004 14:32:54 +0800
+Message-ID: <298858774.08406@eyou.net>
+Received: from 166.111.8.16 by 210.77.143.235 with SMTP; Wed, 27 Oct 2004 14:32:49 +0800
+Received: (eyou send program); Wed, 27 Oct 2004 14:30:52 +0800
+Message-ID: <298858652.07151@mails.tsinghua.edu.cn>
+Received: (eyou send program); Wed, 27 Oct 2004 14:30:51 +0800
+Message-ID: <298858650.22634@mails.tsinghua.edu.cn>
+Received: from unknown (HELO mails.tsinghua.edu.cn) (unknown@127.0.0.1)
+ by 127.0.0.1 with SMTP; Wed, 27 Oct 2004 14:30:51 +0800
+X-scanvirus: By Symantec Scan Engine
+X-scanresult: CLEAN
+Received: (eqmail ); 27 Oct 2004 06:30:38 -0000
+Received: from ccert.edu.cn (HELO home.ccert.edu.cn) (202.112.57.12)
+  by mails.tsinghua.edu.cn with SMTP; 27 Oct 2004 06:30:38 -0000
+Received: from home.ccert.edu.cn (localhost [127.0.0.1])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id i9R6HJAj025156;
+	Wed, 27 Oct 2004 14:17:19 +0800
+Received: (from majordomo@localhost)
+	by home.ccert.edu.cn (8.13.1/8.13.1/Submit) id i9R6HJYv025155;
+	Wed, 27 Oct 2004 14:17:19 +0800
+X-Authentication-Warning: home.ccert.edu.cn: majordomo set sender to owner-ccertstaff using -f
+Received: from ns.6test.edu.cn (ns.6test.edu.cn [202.112.54.2])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id i9R6HDq1025149
+	for <lai@ccert.edu.cn>; Wed, 27 Oct 2004 14:17:14 +0800
+Received: from [210.25.128.109] (helo=tsinghua89o1rm)
+	by ns.6test.edu.cn with asmtp (Exim 4.12)
+	id 1CMhaw-00054K-00
+	for ccertstaff@ccert.edu.cn; Wed, 27 Oct 2004 14:47:42 +0800
+Message-ID: <001401c4bbee$2f26d0a0$6d8019d2@tsinghua89o1rm>
+From: "tan" <tan@ns.6test.edu.cn>
+To: lai@ccert.edu.cn
+Subject: =?gb2312?B?ofEgx+u9zNTawbWwrtbQtcRYREpNLLrN19S8urXExfPT0beiyfrV+bOzyrEsyseyu8rHxNDT0bvh
+s/bK1rQ=?=
+Date: Wed, 27 Oct 2004 14:28:02 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0011_01C4BC31.2A9FC670"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2600.0000
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2600.0000
+Sender: owner-ccertstaff@home.ccert.edu.cn
+Precedence: bulk
+X-UIDL: +Jl"!lV'"!6"""!A^"#!
+
+  和男友相处了快三年了,一开始我们很相爱,后来因为种种生活中的锁碎事情而开始争吵,一开始我也开口骂他,后来慢慢的他骂我时,我不说话,以为不说话,他自己慢慢的也会消气,可是不是,,我越不说话,他越骂的厉害,很难听骂的,慢慢的开始动手打人,因为我很爱他,有时候吵完,打完,把事情说开也就过去了,,因为这么长时间了,彼皮的感情还是很深的,他也做过解释,说有时候自己控制不了自己会动手...
+   其实在我心里,并不是他打我,我会生气,而是他骂我的话会更令我生气,很难听骂的,(我开不了口,骂我下贱,骂我家里人,等等,),
+ 
+   是不是大家处朋友也经常会这样骂人?或者男友很生气时会出手打你?
+昨天因为一点小事,他生气了,我去哄他,他反回来就说让我滚,滚的远点,在我没有注意时给了我一耳光,,,,以前我都是以泪水来化解,,,可是这次我没有流一滴泪,他打完后说,如果我和他再相处的话,,他还会再打我的,说完自己拿着钥匙摔门走了
+   
+  我并没有哭,我对他还是有感情的,因为有时候争吵时会这样,如果和合了,他对我还是挺好的.对我家人也不错.
+   我不知道怎么办了,但给了自己一个标准吧,这是他最后一次打我,这一次打断了所有我对他的感情........
+  我不知道自己怎么办,,离开北京,,还是去找他,很生气,想随便打个对我好的男孩嫁了算啦...
+  
+

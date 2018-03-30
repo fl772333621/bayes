@@ -1,0 +1,60 @@
+Return-Path: <shen@cernet.edu.cn>
+Received: from tsinghua.org.cn ([210.77.143.231])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id iB16VEAS019611
+	for <jin@ccert.edu.cn>; Wed, 1 Dec 2004 14:31:16 +0800
+Received: (eyou send program); Wed, 01 Dec 2004 14:24:16 +0800
+Received: (eyou send program); Wed, 01 Dec 2004 14:24:16 +0800
+X-EYOU-ORIGINAL-IP: 210.77.143.235
+X-EYOU-ENVELOPE-MAILFROM: qchen@cernet.edu.cn
+Received: from unknown (HELO eyou.net) (unknown@210.77.143.235)
+ by 210.77.143.231 with SMTP; Wed, 01 Dec 2004 14:24:16 +0800
+Received: (eyou send program); Wed, 01 Dec 2004 14:39:24 +0800
+Message-ID: <301883164.11748@eyou.net>
+Received: from 166.111.8.16 by 210.77.143.235 with SMTP; Wed, 01 Dec 2004 14:39:19 +0800
+Received: (eyou send program); Wed, 01 Dec 2004 14:38:52 +0800
+Message-ID: <301883132.12748@mails.tsinghua.edu.cn>
+Received: (eyou send program); Wed, 01 Dec 2004 14:38:52 +0800
+Message-ID: <301883132.00336@mails.tsinghua.edu.cn>
+Received: from unknown (HELO mails.tsinghua.edu.cn) (unknown@127.0.0.1)
+ by 127.0.0.1 with SMTP; Wed, 01 Dec 2004 14:38:52 +0800
+X-scanvirus: By Symantec Scan Engine
+X-scanresult: NOREP
+Received: (eqmail ); 1 Dec 2004 06:38:49 -0000
+Received: from ccert.edu.cn (HELO home.ccert.edu.cn) (202.112.57.12)
+  by mails.tsinghua.edu.cn with SMTP; 1 Dec 2004 06:38:49 -0000
+Received: from home.ccert.edu.cn (localhost [127.0.0.1])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id iB16UWbt019588;
+	Wed, 1 Dec 2004 14:30:32 +0800
+Received: (from majordomo@localhost)
+	by home.ccert.edu.cn (8.13.1/8.13.1/Submit) id iB16UW8I019587;
+	Wed, 1 Dec 2004 14:30:32 +0800
+X-Authentication-Warning: home.ccert.edu.cn: majordomo set sender to owner-ccertstaff using -f
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id iB16UVUd019583
+	for <jin@ccert.edu.cn>; Wed, 1 Dec 2004 14:30:31 +0800
+Received: from GirlOfGod (tu203027.tsinghua.edu.cn [166.111.203.27])
+	(authenticated bits=0)
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id iB16hauK007966
+	for <jin@ccert.edu.cn>; Wed, 1 Dec 2004 14:43:37 +0800 (CST)
+Message-Id: <200412010643.iB16hauK007966@sea.net.edu.cn>
+Date: Wed, 1 Dec 2004 14:47:57 +0800
+From: "shen" <shen@cernet.edu.cn>
+To: jin@ccert.edu.cn
+Subject: =?gb2312?B?UmU6ILnY09qwrsGi0MXR0Lei1tDQxKOsztKyu7XDsrvLtcG9vuQ=?=
+X-mailer: Foxmail 5.0 [cn]
+Mime-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: 8bit
+X-MIME-Autoconverted: from base64 to 8bit by home.ccert.edu.cn id iB16UVUd019585
+Sender: owner-ccertstaff@home.ccert.edu.cn
+Precedence: bulk
+X-UIDL: EAm"!CZb!!3k]"!c@k"!
+
+   呵呵，看来每个人的感受不一样呀，我面试时碰到的人都十分客气谦逊，
+特别是面试我的老外，让我觉得很happy。
+   
+:   估计这位台兄说的就是我了。
+:   就当天的感受来讲，第一点，打电话叫我过去面试的时候，语气很生硬，让人受不了，而且也没有说要带简历，当时也是正好朝阳那边办完事赶过去没有带简历，我是没有估计到会是群欧，大公司我基本上也都面过，每次过去都是单独面，而且对方肯定都已经准备好了你的简历，我是第一次见爱立信这样质问人为何不带简历，态度极其不友好；第二点，整个爱立信的前台小姐的态度令人很难受，如搂住所说；第三点，通知人6点过去面试，而且强调不能迟到，很生硬地语气强调，结果去了并非6点准时开始，可能托了一刻钟；第四点，当时在介绍公司的那个员? ぃ匀说奶仁翟诹钊四咽埽桓焙躰b的样子，嘴里面一直就在嚼着口香糖，这样给人的感觉就是特别不礼貌，还有就是让每个同学上去自我介绍时候，面试官翘着腿在那儿，感觉审犯人一样。
+: ...................
+

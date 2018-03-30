@@ -1,0 +1,22 @@
+Return-Path: <huang@cuit.edu.cn>
+Received: from cuit.edu.cn ([210.41.224.45])
+	by home.ccert.edu.cn (MIMEDefang) with ESMTP id NOQUEUE
+	for <cai@ccert.edu.cn>; Fri, 24 Jun 2005 11:38:38 +0800 (CST)
+Received: (eyou send program); Fri, 24 Jun 2005 11:56:40 +0800
+Message-ID: <319585400.18889@cuit.edu.cn>
+Received: from 210.41.235.41 by mail.cuit.edu.cn with HTTP; Fri, 24 Jun 2005 11:56:40 +0800
+X-WebMAIL-MUA: [210.41.235.41]
+From: "huang" <huang@cuit.edu.cn>
+To: cai@ccert.edu.cn
+Date: Fri, 24 Jun 2005 11:56:40 +0800
+Return-Path: "=?gb2312?B?1cXOsMD7?=" <huang@cuit.edu.cn>
+Reply-To: "huang" <huang@cuit.edu.cn>
+X-Priority: 3
+Subject: =?gb2312?B?UmU6Q0NFUlQgSW5jaWRlbnQgSUQ6MTA3Njg5IMT6tcRJUKO6MjEwLjQxLjIzOS4yNTAg1Nq3osvN
+tPPBv8Csu/jTyrz+o6zH67zssumhow==?=
+Content-Type: text/plain
+
+ Return-Path:  	for   with ESMTP id   with ESMTP id  From: "Deadliest K. Silliest"  To: Dgordon  Message-id: 
+
+
+

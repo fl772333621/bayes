@@ -1,0 +1,35 @@
+Return-Path: <yun@mails.tsinghua.edu.cn>
+Received: from mails.tsinghua.edu.cn (mails.tsinghua.edu.cn [166.111.8.16])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j27GG7Q4011768
+	for <xu@ccert.edu.cn>; Tue, 8 Mar 2005 00:16:07 +0800 (CST)
+X-scanvirus: By SOPHOS Scan Engine
+X-scanresult: CLEAN
+X-Received: unknown,166.111.154.210,20050308000929
+Received: from unknown (HELO xiner) (xwang03@166.111.154.210)
+  by localhost with SMTP; 7 Mar 2005 16:09:29 -0000
+Message-ID: <001101c52330$f3121ca0$d29a6fa6@xiner>
+From: "yun" <yun@mails.tsinghua.edu.cn>
+To: xu@ccert.edu.cn
+References: <309919310.26424@mails.tsinghua.edu.cn> <001c01c52092$40cbf6b0$d8cb6fa6@xiner> <309951706.04191@mails.tsinghua.edu.cn> <001501c52124$aaa6e210$d29a6fa6@xiner> <310027632.23739@mails.tsinghua.edu.cn> <001901c522e0$c86a3730$d8cb6fa6@xiner> <310177387.16489@mails.tsinghua.edu.cn> <002201c522e6$925e4040$d8cb6fa6@xiner> <310180062.17711@mails.tsinghua.edu.cn> <003901c522f7$ffe10290$d8cb6fa6@xiner> <310210669.14224@mails.tsinghua.edu.cn>
+Subject: =?gb2312?B?ofEgzsrSu8/CLMilwcvN4sbz0dC3orv6ubm68yzS1LrzuMnKssO0usM/ICjXqtTYKQ==?=
+Date: Tue, 8 Mar 2005 00:15:57 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_000E_01C52374.00658980"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2800.1409
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1409
+X-UIDL: NhO!!UKR"!g(G"!Bc7!!
+
+【 以下文字转载自 WorkLife 讨论区 】
+发信人: BankerSjtu (小王子), 信区: WorkLife
+标  题: 问一下,去了外企研发机构后,以后干什么好?
+发信站: 水木社区 (Mon Jun 13 11:36:16 2005), 站内
+如果一毕业就去了知名外企研发机构做工程师,
+干了2,3年后,干什么比较好?
+外企在中国的研发机构很多做的技术都不怎么样.
+有什么比较好的出路吗?
+另外学历只有本科.
+想问下过来人,给点意见吧
+

@@ -1,0 +1,54 @@
+Return-Path: <jin@tpts1.seed.net.tw>
+Received: from xianggui9 ([61.144.174.248])
+	by home.ccert.edu.cn (MIMEDefang) with ESMTP id NOQUEUE
+	for <xia@ccert.edu.cn>; Thu, 02 Jun 2005 21:24:24 +0800 (CST)
+Received: from giga
+	by ksts.seed.net.tw with SMTP id iVBsVWBdPaTHc62;
+	Thu, 02 Jun 2005 21:40:45 +0800
+Message-ID: <DFVH9fv@ksts.seed.net.tw>
+From: jin@kimo.com
+To: xia@ccert.edu.cn
+Subject: =?gb2312?B?wabM7Nfu0MK/qreiu/nT2rulwarN+LXEV2VivfjP+rTmveK+9re9sLg=?=
+X-Mailer: NcA9DGWrpBOM5TgMpLBzSCN03EcbF
+Content-Type: text/plain;
+Content-Transfer-Encoding: Quoted-Printable
+X-Priority: 3
+X-MSMail-Priority: Normal
+
+基于互联网的Web进销存解决方案,促销期间,仅售1000元!
+
+力天Web进销存,基于互联网的Web进销存解决方案 
+
+详细资料,请访问力天软件: http://litiansoft.oicp.net/jxc.htm
+
+测试地址: http://litiansoft.oicp.net/jxc/
+
+力天进销存是一套完全基于Internet（互联网）的综合应用解决方案。
+真正的B/S模式，只需一个浏览器，企业领导、业务人员、操作人员
+可以在不同时间、地点，并且可动态、及时反映企业业务的方方面面
+，同时百多类报表供企业领导管理决策，真正做到了在家，飞机，火
+车等实时办公、处处办公、休闲办公、无纸办公的全新理念。
+
+    力天进销存采用模块化设计，包括基础管理、进货管理、销售管理、
+仓库管理、加工管理、预算管理、数据分析、系统管理等多个子系统，
+通过这些系统，构成了企业整个供应链的管理。
+
+    通过力天进销存管理系统，随时可以了解企业的物品、资金、预算、
+零售店等实时情况。强大的基础模块，进一步扩大力天进销存功能，
+如企业管理、供应商管理、客户管理、职员管理等辅助管理模块。通
+过她，可以有机的调动企业每个人的主观能动性与潜能，以及对市场
+动态变化的响应速度。  
+系统特点:
+
+一、完全WEB化，不限站点，也可单机使用，完全的B/S模式解决方案。 
+二、客户端使用IE浏览器，无需安装和维护。 
+三、人性化设计，功能强大，操作简便快捷。 
+四、完善的安全机制和权限，确保数据安全(三层数据结构及SSL数据加密技术)。 
+五、高效数据压缩处理，实时动态远程管理。 
+六、大型数据库支持SQL Server2000。 七、强大的再扩充性，更加实惠。 
+八、强大的用户自定义模块，更简便了操作。 
+九、多行业应用，不再受限制。
+十、使用极其简单,无须培训。
+
+
+

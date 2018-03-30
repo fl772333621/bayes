@@ -1,0 +1,69 @@
+Return-Path: <xia@home.ccert.edu.cn>
+Received: from home.ccert.edu.cn (localhost [127.0.0.1])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id iBU0LO4j017218;
+	Thu, 30 Dec 2004 08:21:24 +0800
+Received: (from majordomo@localhost)
+	by home.ccert.edu.cn (8.13.1/8.13.1/Submit) id iBU0LOdX017217;
+	Thu, 30 Dec 2004 08:21:24 +0800
+X-Authentication-Warning: home.ccert.edu.cn: majordomo set sender to owner-ccertstaff using -f
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with SMTP id iBU0LLUb017185
+	for <yu@ccert.edu.cn>; Thu, 30 Dec 2004 08:21:21 +0800
+Received: (eyou send program); Thu, 30 Dec 2004 08:20:03 +0800
+Message-ID: <304366003.23882@mail.tsinghua.edu.cn>
+Received: from unknown (HELO mail.tsinghua.edu.cn) (unknown@127.0.0.1)
+ by 127.0.0.1 with SMTP; Thu, 30 Dec 2004 08:20:03 +0800
+X-scanvirus: By Symantec Scan Engine
+X-scanresult: NOREP
+Received: (eqmail ); 30 Dec 2004 00:20:00 -0000
+Received: from unknown (HELO sony) (duanhx@166.111.232.127)
+  by localhost with SMTP; 30 Dec 2004 00:20:00 -0000
+Message-ID: <045c01c4ee07$755cbc10$bbcc6fa6@sony>
+From: "xia" <xia@tsinghua.edu.cn>
+To: yu@ccert.edu.cn
+Cc: <ma@ccert.edu.cn>, <ning@ccert.edu.cn>,
+        =?gb2312?B?zuLWvr78?= <liao@ccert.edu.cn>, <ou@ccert.edu.cn>
+Subject: =?gb2312?B?UmU6ILCz1qq1wLXEw8C5+qOh?=
+Date: Thu, 30 Dec 2004 08:35:20 +0800
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2800.1106
+Disposition-Notification-To: "Duan Haixin" <duanhx@tsinghua.edu.cn>
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1106
+Content-Transfer-Encoding: 8bit
+X-MIME-Autoconverted: from base64 to 8bit by home.ccert.edu.cn id iBU0LMUb017212
+Sender: owner-ccertstaff@home.ccert.edu.cn
+Precedence: bulk
+X-UIDL: LXl"!h5[!!4Bn!!)O\"!
+
+ 的确 第一代人挺苦的 我认识的一个华人在米国的教授
+ 应该也是在美国属于华人这个圈子里top的了
+ 但是很难融入美国社会，业余只能在自己家里种地 
+ 如果他要是不出国，在国内，圆滑一点肯定现在更爽 呵呵。
+ princes有个说得还不错，在国内拿不到20w rmb到了美国也拿不到10w$
+: 标  题: Re: 俺知道的美国！
+: 发信站: 水木社区 (Wed Jun  8 13:07:01 2005), 站内
+: 
+: 你太幼稚了。那种文化上的差异，思维方式的不同，你不呆个15年是解决不了的。即便你能跟鬼子用他们的方式开玩笑，英文讲得除了带中国人的口音跟local没什么区别，你永远在美国那边是孩子，中国这边是父母的矛盾中，很多人好多年不能回家一次。当然，假如你能只顾自己享乐，置父母于不顾的另外。至于奋斗机会。。。不好说，有人确实在那边发大财，有人一样在社会底层挣扎。
+: 
+: :    
+: :     有家人在波士顿定居。
+: :     汽车：比国内便宜很多
+: : ...................
+: 
+: 
+: 
+: --
+: ---
+: 哎，说你呢！
+: 盯着人家姑娘看好意思吗？
+: 不就是脸上长了几个痘痘吗？
+: 真没见过世面！
+: 
+: 
+※ 修改:·wattch 于 Jun  8 20:53:22 修改本文·[FROM: 210.77.27.*]
+: ※ 来源:·水木社区 http://newsmth.net·[FROM: 59.80.244.*]
+

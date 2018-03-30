@@ -1,0 +1,27 @@
+Return-Path: <guan@rbl.ccert.edu.cn>
+Received: from rbl.ccert.edu.cn (rbl.ccert.edu.cn [202.112.57.71])
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id i980fNgf027984
+	for <tian@ccert.edu.cn>; Fri, 8 Oct 2004 08:41:23 +0800 (CST)
+Received: from rbl.ccert.edu.cn (localhost.localdomain [127.0.0.1])
+	by rbl.ccert.edu.cn (8.12.11/8.12.11) with ESMTP id i980lOkL021365
+	for <tian@ccert.edu.cn>; Fri, 8 Oct 2004 08:47:25 +0800
+Received: (from qa@localhost)
+	by rbl.ccert.edu.cn (8.12.11/8.12.11/Submit) id i980lOGk021364;
+	Fri, 8 Oct 2004 08:47:24 +0800
+Date: Fri, 8 Oct 2004 08:47:24 +0800
+Message-Id: <200410080047.i980lOGk021364@rbl.ccert.edu.cn>
+Subject: =?gb2312?B?UmU6IM7S0qqyu9KqyKXJz9Gn?=
+To: tian@ccert.edu.cn
+From: Tran Quang Anh <guan@cernet.edu.cn>
+Content-Type: multipart/mixed; boundary="----------=_1097196445-1044-174"
+MIME-Version: 1.0
+X-UIDL: mF7!!~R%"!j[4!!1eT"!
+
+ 首先：上学的几年的确收入少，可是这并不自己的趋势啊，何况对于一个家庭的贡献
+精神上的和物质上的是同样重要的，不能只是用收入来衡量的
+ 然后，说到上学，周围人的想法不能代表你的想法，他们支持你是你的福气。如果要去读硕士，不知道你现在是已经知道考试结果考上了考虑这个问题呢还是正在准备考。如果考上了经历了考研的辛苦你可能不会这么犹豫了，如果没有考那么现在不是上不上的问题，而是考不考的问题
+: 心里乱乱的，很多问题需要我自己来想明白，需要我来面对，但是只有我自己知道我什么都没想好
+: 首先我不喜欢现在的工作，我觉得枯燥，所以我告诉妈妈，告诉男友，我要去上学，只为摆脱现在这样的环境
+: 然后所有人都同意我去上学，去读三年的书，专业学校我都没想好，我需要为男友考虑，也需要为我们的将来考虑，因为男友支持我上学
+: ...................
+

@@ -1,0 +1,66 @@
+Return-Path: <qiu@rbl.ccert.edu.cn>
+Received: from rbl.ccert.edu.cn (rbl.ccert.edu.cn [202.112.57.71])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id i9T3W2fF026582
+	for <you@ccert.edu.cn>; Fri, 29 Oct 2004 11:32:02 +0800
+Received: from rbl.ccert.edu.cn (localhost.localdomain [127.0.0.1])
+	by rbl.ccert.edu.cn (8.12.11/8.12.11) with ESMTP id i9T3nA5d016707
+	for <you@ccert.edu.cn>; Fri, 29 Oct 2004 11:49:26 +0800
+Received: (from qa@localhost)
+	by rbl.ccert.edu.cn (8.12.11/8.12.11/Submit) id i9T3n5rw016706;
+	Fri, 29 Oct 2004 11:49:05 +0800
+Date: Fri, 29 Oct 2004 11:49:05 +0800
+Message-Id: <200410290349.i9T3n5rw016706@rbl.ccert.edu.cn>
+Subject: =?gb2312?B?ofEg1tC5+rTz0afJ+r7N0rW8+8+wzfjK7sbayrXPsLjazrvNxrz2?=
+To: you@ccert.edu.cn
+From: qiu@rbl.ccert.edu.cn
+Content-Type: multipart/mixed; boundary="----------=_1099021771-20866-184"
+MIME-Version: 1.0
+X-UIDL: *lc!!9`&"!&ke!!l3X!!
+
+中国大学生就业见习网暑期实习岗位推荐
+欢迎登陆www.54club.com查询更多实习岗位
+只接受在线申请
+1.思科系统（中国）网络技术有限公司
+人力资源部实习生
+测试工程师开发工程师
+ Requirements:
+a. Good communication in both Eng and Mandarin
+b. Good at planning and execution
+c. Dedicated and commited for at least 3 months
+d. preferably interested in HR and has a HR career asparation
+e. Min 3-4 working days a week
+f. available immediately
+工作所在地： 北京市/上海
+职位类型： 实习
+招聘人数： 1
+外语要求： 英语
+薪水范围： 面议
+2．芯发威达电子（上海）有限公司
+产品行销专员
+制造处工程师后备人员
+品牌事业部外销产品专员
+等
+工作所在地： 上海市
+职位类型： 实习
+3．上海西门子开关有限公司
+NXAIR部门助理 NXAIR Assistant
+人力资源部助理 HR Assistant
+4．浙江颐高数码科技集团有限公司
+广告客户代表
+工作所在地： 浙江杭州
+职位类型： 实习
+招聘人数： 3
+5．成都开飞高能化学工业有限公司
+国际商务师
+、化学工程、湿法冶金、材料工程等专业，能从事新产品技术开发。
+2、化工类专业，英语六级以上，口语精通，热心国际化工贸易职业。
+研发工程师
+1、    化学工程、湿法冶金、材料工程等专业，能从事新产品技术开发。
+2、化工类专业，英语六级以上，口语精通，热心国际化工贸易职业。
+2、    化机工程师
+ 1、化学工程、湿法冶金、材料工程等专业，能从事新产品技术开发。
+2、化工类专业，英语六级以上，口语精通，热心国际化工贸易职业。
+6．上海携航公共关系顾问有限公司
+公共活动执行
+策划/方案
+

@@ -1,0 +1,56 @@
+Return-Path: <zhao@ns.6test.edu.cn>
+Received: from tsinghua.org.cn ([210.77.143.228])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id i9S3wKoQ009530
+	for <tu@ccert.edu.cn>; Thu, 28 Oct 2004 11:58:21 +0800
+Received: (eyou send program); Thu, 28 Oct 2004 12:09:48 +0800
+Received: (eyou send program); Thu, 28 Oct 2004 12:09:48 +0800
+X-EYOU-ORIGINAL-IP: 210.77.143.235
+X-EYOU-ENVELOPE-MAILFROM: toefl-bounces@server.cool-meeting.com
+Received: from unknown (HELO eyou.net) (unknown@210.77.143.235)
+ by 210.77.143.228 with SMTP; Thu, 28 Oct 2004 12:09:48 +0800
+Received: (eyou send program); Thu, 28 Oct 2004 12:06:31 +0800
+Message-ID: <298936391.32630@eyou.net>
+Received: from 202.38.99.65 by 210.77.143.235 with SMTP; Thu, 28 Oct 2004 12:06:28 +0800
+Received: from server.cool-meeting.com (localhost.localdomain [127.0.0.1])
+	by server.cool-meeting.com (8.12.8/8.12.8) with ESMTP id i9S4JSlj008327
+	for <tu@ccert.edu.cn>; Thu, 28 Oct 2004 12:19:43 +0800
+Received: from ns.6test.edu.cn ([202.38.99.18])
+	by server.cool-meeting.com (8.12.8/8.12.8) with ESMTP id i9S4JKkr008323
+	for <tu@ccert.edu.cn>; Thu, 28 Oct 2004 12:19:20 +0800
+Received: from [210.25.128.109] (helo=tsinghua89o1rm)
+	by ns.6test.edu.cn with asmtp (Exim 4.12) id 1CN1tm-000BBN-00
+	for Toefl@server.cool-meeting.com; Thu, 28 Oct 2004 12:28:30 +0800
+Message-ID: <004e01c4bca3$e59784a0$6d8019d2@tsinghua89o1rm>
+From: "zhao" <zhao@ns.6test.edu.cn>
+To: tu@ccert.edu.cn
+Subject: =?gb2312?B?UmU6IMLttO+808u5vNPKtdTasrvU9cO00fk=?=
+Date: Thu, 28 Oct 2004 12:08:48 +0800
+MIME-Version: 1.0
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2600.0000
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2600.0000
+Cc: 
+X-BeenThere: toefl@server.cool-meeting.com
+X-Mailman-Version: 2.1.2
+Precedence: list
+List-Id: &#26446;&#26143;&#21644;&#20182;&#30340;&#23398;&#29983;&#20204;
+	<toefl.server.cool-meeting.com>
+List-Unsubscribe: <http://server.cool-meeting.com/mailman/listinfo/toefl>,
+	<mailto:toefl-request@server.cool-meeting.com?subject=unsubscribe>
+List-Archive: <http://server.cool-meeting.com/mailman/private/toefl>
+List-Post: <mailto:toefl@server.cool-meeting.com>
+List-Help: <mailto:toefl-request@server.cool-meeting.com?subject=help>
+List-Subscribe: <http://server.cool-meeting.com/mailman/listinfo/toefl>,
+	<mailto:toefl-request@server.cool-meeting.com?subject=subscribe>
+Content-Type: multipart/mixed; boundary="===============22441405685805615=="
+Sender: toefl-bounces@server.cool-meeting.com
+Errors-To: toefl-bounces@server.cool-meeting.com
+X-UIDL: ]Qo"!TdW!!1c*!!eF2"!
+
+看过天线宝宝没有？很多小孩儿都说很好看
+: 这和年纪大不大有什么关系呢？
+: 难道以这是给小孩看的电影为借口就能为电影拍的烂开脱吗？很多电影都是动画片，都是给小孩看的，那么sherk,狮子王、海底总动员、超人特工队总该是给小孩拍的吧，难道这些电影的情节也像“马”一样让人向前快进拖着看都觉得乏味，只剩下一群造型在那里蹦蹦跳跳耍宝吗？说
+: 给小朋友看并不是借口，小朋友也懂得什么好，什么不好。随便找个看过这些动画片的小朋友问问他“马”好看还是“超”好看，你看看他会怎么回答，用膝盖想都想的出来。
+: ...................
+

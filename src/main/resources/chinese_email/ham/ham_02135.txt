@@ -1,0 +1,26 @@
+Return-Path: <cao@cernet.edu.cn>
+Received: from WHITESNOW ([220.207.80.209])
+	(authenticated bits=0)
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id iBK84Ul5013395
+	for <ma@ccert.edu.cn>; Mon, 20 Dec 2004 16:04:33 +0800 (CST)
+Message-ID: <001401c4e66a$8e087fa0$d150cfdc@WHITESNOW>
+From: "cao" <cao@cernet.edu.cn>
+To: ma@ccert.edu.cn
+References: <000501c4e65f$9e978bf0$18cb6fa6@CCERTDAWEI>
+Subject: Re: Chinese_rules.cf FAQ
+Date: Mon, 20 Dec 2004 16:04:32 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0011_01C4E6AD.97B1D040"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2900.2180
+X-MIMEOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+X-UIDL: 2J>"!8aT!!Hd2!!>=!#!
+
+我第一份寄来的时候里面有一张政审表格，还有一张纸，上面是说明，说应届交政审，非应届寄档案，还有地址什么的，这张纸就是调档函，开头写着贵校某某学院或者系的某某被录取什么的，要求调档。后来收到的那份我自己没看到，是学院老师说的，说里面只有政审表，我打电话清华老师说可能寄重了，我就没有拿过来看
+: 调档函和政审表？！
+: 政审表是那张空表格
+: 调档函指的是哪个？
+: ...................
+

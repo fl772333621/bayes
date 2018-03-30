@@ -1,0 +1,37 @@
+Return-Path: <xin@home.ccert.edu.cn>
+Received: from home.ccert.edu.cn (localhost [127.0.0.1])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id j3D5nO1M008630;
+	Wed, 13 Apr 2005 13:49:29 +0800
+Received: (from majordomo@localhost)
+	by home.ccert.edu.cn (8.13.1/8.13.1/Submit) id j3D5nOIA008629;
+	Wed, 13 Apr 2005 13:49:24 +0800
+X-Authentication-Warning: home.ccert.edu.cn: majordomo set sender to owner-ccertstaff using -f
+Received: from ccertspark (tu203021.ip.tsinghua.edu.cn [166.111.203.21])
+	(authenticated bits=0)
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id j3D5n9x9008616
+	for <liao@ccert.edu.cn>; Wed, 13 Apr 2005 13:49:14 +0800
+Reply-To: <xin@cernet.edu.cn>
+From: "xin" <xin@ccert.edu.cn>
+To: liao@ccert.edu.cn
+Subject: =?gb2312?B?UmU6ILzH0ruyv7P2yau1xLXn07Chts7Uu6Ky2MH6obd6eg==?=
+Date: Wed, 13 Apr 2005 14:02:26 +0800
+Message-ID: <001701c53fee$6770a8d0$15cb6fa6@ccertspark>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----------=_1113371385-32201-689"
+X-Priority: 3 (Normal)
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook, Build 10.0.6626
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.3790.181
+Importance: Normal
+X-MIME-Autoconverted: from base64 to 8bit by home.ccert.edu.cn id j3D5nEx9008625
+Sender: owner-ccertstaff@home.ccert.edu.cn
+Precedence: bulk
+X-UIDL: T*g"!np3"!UlY"!5aV!!
+
+好吧……拍砖心切，没把话说明白
+从……到……确实不太准确，俺就是想表明对于大众来说，王度庐所在的时代武侠作品给人的印象确实是神乎其神，后来金庸他们的虽然也神，较前辈的胡诌还是要逊一筹。
+不该把王度庐当成时代的特征……因为他确乎是个异类哈，写得老老实实的。
+俺认为八爷他们是实在觉得王度庐的书里“侠”确乎有，然而“武”太过不引人入胜，浪费了王大侠的悲情演绎，这样一做既配合意境，又不致让片子难看，让“武”的浪漫不逊于原著里“侠“的悲情，是为“贴近”
+惭愧惭愧
+: 打听打听王度庐的小说里，哪个家伙腾云驾雾了，又有哪个神怪出场了
+

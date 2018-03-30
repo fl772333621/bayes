@@ -1,0 +1,56 @@
+Return-Path: <hua@mails.tsinghua.edu.cn>
+Received: from tsinghua.org.cn ([210.77.143.232])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with SMTP id j3S7B3pj005729
+	for <yu@ccert.edu.cn>; Thu, 28 Apr 2005 15:11:15 +0800
+Received: (eyou send program); Thu, 28 Apr 2005 15:27:31 +0800
+Message-ID: <314673251.02087@tsinghua.org.cn>
+X-EYOU-AUTOFORWARD: tsinghua.org.cn
+Received: (eyou send program); Thu, 28 Apr 2005 15:27:31 +0800
+Message-ID: <314673251.29494@tsinghua.org.cn>
+Received: from unknown (HELO eyou.net) (210.77.143.235)
+ by 210.77.143.232 with SMTP; Thu, 28 Apr 2005 15:27:31 +0800
+X-EYOU-SPAMVALUE: 0
+Received: (eyou anti_spam gateway 3.0); Thu, 28 Apr 2005 15:17:00 +0800
+Message-ID: <314672620.09576@eyou.net>
+Received: from 202.112.49.111 by 210.77.143.235 with SMTP; Thu, 28 Apr 2005 15:17:00 +0800
+Received: from Garfield. (localhost [IPv6:::1])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with ESMTP id j3S7N0cN016023
+	for <yu@ccert.edu.cn>; Thu, 28 Apr 2005 15:23:37 +0800 (CST)
+	(envelope-from toefl-bounces@gradinfo.net.edu.cn)
+Received: from [202.112.49.111] (Garfield [202.112.49.111])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with ESMTP id j3S7Micx016017
+	for <yu@ccert.edu.cn>; Thu, 28 Apr 2005 15:22:57 +0800 (CST)
+	(envelope-from lguohan00@mails.tsinghua.edu.cn)
+Message-ID: <42709120.3060504@mails.tsinghua.edu.cn>
+Date: Thu, 28 Apr 2005 15:30:40 +0800
+From: Guohan Lu <hua@mails.tsinghua.edu.cn>
+Organization: Tsinghua University
+User-Agent: Mozilla Thunderbird 1.0 (Windows/20041206)
+X-Accept-Language: en-us, en
+MIME-Version: 1.0
+To: yu@ccert.edu.cn
+Content-Type: multipart/mixed; boundary="----------=_1114672277-31250-305"
+Subject: =?gb2312?B?UmU6INK71rHS1M6qztLDx8rH1+7H18PctcQg1NrSu8bwvsXE6iC7ucrH0qq31g==?=
+X-BeenThere: toefl@gradinfo.net.edu.cn
+X-Mailman-Version: 2.1.5
+Precedence: list
+Reply-To: hua@mails.tsinghua.edu.cn
+List-Id: "&#26446; &#26143; &#21644; &#20182; &#30340; &#23398; &#29983;
+	&#20204; " <toefl.gradinfo.net.edu.cn>
+List-Unsubscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=unsubscribe>
+List-Archive: <http://gradinfo.net.edu.cn/mailman/private/toefl>
+List-Post: <mailto:toefl@gradinfo.net.edu.cn>
+List-Help: <mailto:toefl-request@gradinfo.net.edu.cn?subject=help>
+List-Subscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=subscribe>
+Sender: toefl-bounces@gradinfo.net.edu.cn
+Errors-To: toefl-bounces@gradinfo.net.edu.cn
+X-UIDL: n+Y"!]HR"!nWM"!'*\!!
+
+心酸!
+: 潜水很久了,觉得虽然是很多人在心烦时写些家庭琐事,写的人貌似心乱，而文不乱；评的人中肯而有逻辑,觉得很有水平的是。我一直不敢贸然灌水，今天确实很需要倾诉，不想说给亲人，怕他们担心，不想说给熟人，怕他们正忙，如果你今天正好有空，看到了，就随意写几句话，多谢。不好意思了。
+: 我和他在一起亲密无间整整九年了，结婚也4年了吧，其中还有一年人在两地，每晚他睡前都必须给我打一两个小时的长途电话，最长的一次分离也只有一个多月我们没有到对方的地方去探望。那时候我们钱不多，几千块钱月入基本上就在电话费和车票里了。后来我们终于在一起了，在清华西门附近租了一套房子一住就是几年，猫猫都养大了。幸福甜蜜，熟识的朋友都觉得我们是难得要好的一对，家里人也都认为我们可能是下一代中最稳定的了，好放心。
+: 我们是那么了解对方，经过一夜的坦诚交谈、抱头痛哭，我们就要分手了，就在这样的清晨，朦胧睡去，他还习惯性的要抓住我的胳膊，把脚压在我身上，仿佛怕我乘他睡着跑了。今天我就去找房子，打算尽快搬出去，尽早结束彷徨中的痛苦，好重新开始。
+: ...................
+

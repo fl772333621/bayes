@@ -1,0 +1,37 @@
+Return-Path: <liao@cernet.edu.cn>
+Received: from tsinghua.org.cn ([210.77.143.228])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id i9I3ODWU017206
+	for <ye@ccert.edu.cn>; Mon, 18 Oct 2004 11:24:15 +0800
+Received: (eyou send program); Mon, 18 Oct 2004 11:35:16 +0800
+Received: (eyou send program); Mon, 18 Oct 2004 11:34:23 +0800
+X-EYOU-ORIGINAL-IP: 202.112.5.66
+X-EYOU-ENVELOPE-MAILFROM: sundh@cernet.edu.cn
+Received: from unknown (HELO sea.net.edu.cn) (unknown@202.112.5.66)
+ by 210.77.143.228 with SMTP; Mon, 18 Oct 2004 11:34:23 +0800
+Received: from 8jmd55gawpz3tjh ([202.112.50.7])
+	(authenticated bits=0)
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id i9I3QnJx025282;
+	Mon, 18 Oct 2004 11:26:50 +0800 (CST)
+Message-ID: <005601c4b4c2$5abe90f0$073270ca@8jmd55gawpz3tjh>
+From: "liao" <liao@cernet.edu.cn>
+To: ye@ccert.edu.cn
+Subject: =?gb2312?B?UmU6IMbFxsXJ+sb4wcujrLTzvNLLtcu1ztK4w9T1w7Sw7KO/?=
+Date: Mon, 18 Oct 2004 11:27:10 +0800
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="----=_NextPart_000_0054_01C4B505.682A67D0"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2800.1437
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1441
+X-UIDL: 9~V"!W]Q!![/&!!+Rk"!
+
+我也希望每个人都好，观点不同，求同存异吧
+确实有很多事情我们驾驭不了，但也确实有很多事情是在自己的掌握中
+某些人因为自己的某个决策的失误走向人生的毁灭，你说他可怜吗？就算是可怜又能怎样？
+btw扯远了，晚安吧
+: 哦 那就是观点不同而已 你的目标显然和我的目标不一样 
+: 我希望每个人都好  
+: 这个所谓的可恨之处 其实最主要的来源于这个社会 不是个人可以驾驭得了的  
+: ...................
+

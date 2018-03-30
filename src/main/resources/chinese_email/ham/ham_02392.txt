@@ -1,0 +1,73 @@
+Return-Path: <pu@ccert.edu.cn>
+Received: from tsinghua.org.cn ([210.77.143.231])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id iBF2XPIw017076
+	for <guan@ccert.edu.cn>; Wed, 15 Dec 2004 10:33:26 +0800
+Received: (eyou send program); Wed, 15 Dec 2004 10:26:47 +0800
+Received: (eyou send program); Wed, 15 Dec 2004 10:26:47 +0800
+X-EYOU-ORIGINAL-IP: 210.77.143.235
+X-EYOU-ENVELOPE-MAILFROM: starry@ccert.edu.cn
+Received: from unknown (HELO eyou.net) (unknown@210.77.143.235)
+ by 210.77.143.231 with SMTP; Wed, 15 Dec 2004 10:26:47 +0800
+Received: (eyou send program); Wed, 15 Dec 2004 10:41:26 +0800
+Message-ID: <303078486.18907@eyou.net>
+Received: from 166.111.8.16 by 210.77.143.235 with SMTP; Wed, 15 Dec 2004 10:41:15 +0800
+Received: (eyou send program); Wed, 15 Dec 2004 10:41:19 +0800
+Message-ID: <303078479.26059@mails.tsinghua.edu.cn>
+Received: (eyou send program); Wed, 15 Dec 2004 10:41:18 +0800
+Message-ID: <303078478.05837@mails.tsinghua.edu.cn>
+Received: from unknown (HELO mails.tsinghua.edu.cn) (unknown@127.0.0.1)
+ by 127.0.0.1 with SMTP; Wed, 15 Dec 2004 10:41:18 +0800
+X-scanvirus: By Symantec Scan Engine
+X-scanresult: CLEAN
+X-Received: ccert.edu.cn,202.112.57.12,20041215104106
+Received: from ccert.edu.cn (HELO home.ccert.edu.cn) (202.112.57.12)
+  by localhost with SMTP; 15 Dec 2004 02:41:06 -0000
+Received: from home.ccert.edu.cn (localhost [127.0.0.1])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id iBF2WHkL017047;
+	Wed, 15 Dec 2004 10:32:17 +0800
+Received: (from majordomo@localhost)
+	by home.ccert.edu.cn (8.13.1/8.13.1/Submit) id iBF2WH0w017046;
+	Wed, 15 Dec 2004 10:32:17 +0800
+X-Authentication-Warning: home.ccert.edu.cn: majordomo set sender to owner-ccertstaff using -f
+Received: from starry ([202.112.50.191])
+	(authenticated bits=0)
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id iBF2WGIG017040
+	for <guan@ccert.edu.cn>; Wed, 15 Dec 2004 10:32:16 +0800
+Message-Id: <200412150232.iBF2WGIG017040@home.ccert.edu.cn>
+Date: Wed, 15 Dec 2004 10:45:40 +0800
+From: "pu" <pu@ccert.edu.cn>
+To: guan@ccert.edu.cn
+Subject: =?gb2312?B?UmU6INPQyMu/tKGwsfnRqdPCyr+hscHLw7Sjv9Wm0fmwoT8=?=
+X-mailer: Foxmail 5.0 [cn]
+Mime-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="=====003_Dragon234248736003_====="
+Sender: owner-ccertstaff@home.ccert.edu.cn
+Precedence: bulk
+X-UIDL: U0\"!2UN!!~F7!!dQ]!!
+
+: 标  题: Re: 有人看“冰雪勇士”了么？咋样啊?
+: 发信站: 水木社区 (Sun Jun 12 00:24:10 2005), 站内
+: 
+: 就是圣战士吧。
+: 剧情上有特色的地方不多，但看完了不会后悔。因为有几个片断还是很感人的。
+结论可以这么说
+可惜前半段太拖沓了
+: 总之还是表现战争对人性的摧残。
+: 
+: 俺最欣赏的镜头是最后那个牧师中弹以后单手举枪射击的场景。
+: 
+: : rt
+: 
+: 
+: --
+: 
+: 
+: 
+: 
+:     凡可恨之人，必有可怜之处。
+: 
+: 
+: ※ 修改:·forgauss 于 Jun 12 00:24:59 修改本文·[FROM: 221.219.57.*]
+: ※ 来源:·水木社区 newsmth.net·[FROM: 221.219.57.*]
+

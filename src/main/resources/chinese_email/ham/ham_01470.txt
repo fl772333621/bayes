@@ -1,0 +1,38 @@
+Return-Path: <zhong@home.ccert.edu.cn>
+Received: from home.ccert.edu.cn (localhost [127.0.0.1])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id j0L6PtD6021886;
+	Fri, 21 Jan 2005 14:25:55 +0800
+Received: (from majordomo@localhost)
+	by home.ccert.edu.cn (8.13.1/8.13.1/Submit) id j0L6PtNi021885;
+	Fri, 21 Jan 2005 14:25:55 +0800
+X-Authentication-Warning: home.ccert.edu.cn: majordomo set sender to owner-ccertstaff using -f
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id j0L6PtZ9021880
+	for <li@ccert.edu.cn>; Fri, 21 Jan 2005 14:25:55 +0800
+Received: from WHITESNOW (magnate.ccert.edu.cn [202.112.50.8])
+	(authenticated bits=0)
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id j0L6bcIt019918
+	for <li@ccert.edu.cn>; Fri, 21 Jan 2005 14:37:39 +0800 (CST)
+Message-ID: <00a301c4ff83$c1eefc40$c50370ca@WHITESNOW>
+From: "zhong" <zhong@cernet.edu.cn>
+To: li@ccert.edu.cn
+Subject: =?gb2312?B?UmU6IKH+of7A4aOsy63E3LDv1vrO0qO/of6h/g==?=
+Date: Fri, 21 Jan 2005 14:37:57 +0800
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="multipart/alternative";
+	boundary="----=_NextPart_000_009F_01C4FFC6.CCE84C80"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2900.2180
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+Sender: owner-ccertstaff@home.ccert.edu.cn
+Precedence: bulk
+X-UIDL: U+J!!$`A"!+F2!!,e?!!
+
+好象是02年春节期间，我留在学校做巡逻，12点的时候，到化工系（14#？）楼一个宿舍，只有一个兄弟，还有一个mm，我板着脸问：为什么在男生楼留宿？它俩赶紧说马上就会回去。后来还有几个宿舍有类似情况，我直接说到：男生楼不许留宿！哈哈，出去后，一起巡逻的兄弟大笑我太酷了。
+: 关于给予XXX留校察看处分的决定
+: — 经2004～2005学年度第12次校务会议讨论通过 —
+: XXX，男，汉族，20岁，共青团员，物理系基科22班学生，学号XXXXXXXXXX。
+: ...................
+

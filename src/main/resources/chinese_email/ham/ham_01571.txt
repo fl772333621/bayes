@@ -1,0 +1,36 @@
+Return-Path: <wang@tsinghua.org.cn>
+Received: from tsinghua.org.cn ([210.77.143.228])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id i8NFJF27026595
+	for <liao@ccert.edu.cn>; Thu, 23 Sep 2004 23:19:16 +0800
+Received: (eyou send program); Thu, 23 Sep 2004 23:29:17 +0800
+X-EYOU-ORIGINAL-IP: 218.107.132.130
+X-EYOU-ENVELOPE-MAILFROM: chenguangying@tsinghua.org.cn
+Received: from unknown (HELO ccertdawei) (unknown@218.107.132.130)
+ by 210.77.143.228 with SMTP; Thu, 23 Sep 2004 23:29:17 +0800
+Message-ID: <00e201c4a182$14cebcd0$7e03510a@CCERTDAWEI>
+From: "wang" <wang@tsinghua.org.cn>
+To: liao@ccert.edu.cn
+Cc: "sundh" <pan@ccert.edu.cn>, "sundh" <hou@ccert.edu.cn>,
+        <pu@ccert.edu.cn>
+Subject: =?gb2312?B?ofEgzcvRpw==?=
+Date: Thu, 23 Sep 2004 23:29:13 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_00DF_01C4A1C5.22BB0E50"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2800.1437
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1441
+X-UIDL: +Z_"!-J/"!`]*"!=0$"!
+
+我是直博，一年已经过去了，我却越来越不想继续下去。
+想退学，也把想法和家人说了，结果家人强烈反对，倒是我gf挺支持。
+读书只是一个选择，走那条路都不存在好坏之说，蝴蝶效应永远只能在银幕中。
+读了十多年书，对读书厌倦的不行，对科研也没有兴趣。
+人是逐利的，博士出来黯淡的前景以及现在博士的数量都让我对四年之后的我没有信心，
+在科研的这条路上我并没有任何优势，而我却要在北京或者上海找到立足之地。
+直博的时候签了个协议，如果中途退出需交纳4万的培养费，这个很是打击了我退学的勇气，我可没这么多钱。我也不太了解如果退学会面临怎样地经济处罚。可我并不想继续再去浪费4年，我觉得这四年很重要。
+有自己的想法，希望能去实现，不管成功还是失败。遗憾的是一年前我没有任何想法，随大流地读研。退学地念头越来越重，是我决定的时候了。
+想问下大家，根据我这样的情况，如果退学会要交多少钱呢？4万＋研一一年所有的补助？
+谢谢
+

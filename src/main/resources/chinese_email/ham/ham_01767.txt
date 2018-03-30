@@ -1,0 +1,38 @@
+Return-Path: <zhan@rbl.ccert.edu.cn>
+Received: from rbl.ccert.edu.cn (rbl.ccert.edu.cn [202.112.57.71])
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id i9D4Pq5D003189
+	for <liao@ccert.edu.cn>; Wed, 13 Oct 2004 12:25:56 +0800 (CST)
+Received: from rbl.ccert.edu.cn (localhost.localdomain [127.0.0.1])
+	by rbl.ccert.edu.cn (8.12.11/8.12.11) with ESMTP id i9D4VLR4017474
+	for <liao@ccert.edu.cn>; Wed, 13 Oct 2004 12:31:21 +0800
+Received: (from qa@localhost)
+	by rbl.ccert.edu.cn (8.12.11/8.12.11/Submit) id i9D4VLjR017473;
+	Wed, 13 Oct 2004 12:31:21 +0800
+Date: Wed, 13 Oct 2004 12:31:21 +0800
+Message-Id: <200410130431.i9D4VLjR017473@rbl.ccert.edu.cn>
+Subject: =?gb2312?B?ofEgx+W7qrTz0afP7sS/udzA7dHQvr/UutXQxrjN+NW+s8zQ8rmks8zKpg==?=
+To: liao@ccert.edu.cn
+From: Tran Quang Anh <zhan@cernet.edu.cn>
+Content-Type: multipart/mixed; boundary="----------=_1097641881-20086-12"
+MIME-Version: 1.0
+X-UIDL: iGF!!fFc!!?Nd!!"<9!!
+
+职位名称 
+ 
+职位名称： 网站程序工程师（2名） 
+职位描述： 1.网站技术策划、程序开发；
+2.数据库设计、开发；
+3.网站功能设计、程序升级；
+4.网站程序安全测试、系统安全维护。 
+职位要求： 1.本科以上学历（综合能力突出，可考虑大专），党员优先；
+2.有3年以上大型商业网站程序开发工作经验、精通网站开发工具、数据库工具；
+3.工作认真细心，责任心强，勤奋敬业，吃苦耐劳；
+4.标准普通话，形象端正，谈吐大方；
+5.有教育培训领域网站程序开发工作经验优先，要求提供作品；
+6.精通网络安全技术、和网络设备维护优先。
+ 
+工作地点： 清华总部 
+ 
+申请职位，请发Email至：hr@pm.tsinghua.edu.cn，谢绝来信、来电、来访！
+以上职位均不限户口及专业，但要求慎重选择，诚实应聘。  
+

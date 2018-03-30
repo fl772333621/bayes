@@ -1,0 +1,27 @@
+Return-Path: <zeng@mails.tsinghua.edu.cn>
+Received: from mails.tsinghua.edu.cn (mails.tsinghua.edu.cn [166.111.8.16])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id iAN38nvL025613
+	for <zhuang@ccert.edu.cn>; Tue, 23 Nov 2004 11:08:49 +0800 (CST)
+Received: (eyou send program); Tue, 23 Nov 2004 11:03:31 +0800
+Message-ID: <301179011.12246@mails.tsinghua.edu.cn>
+Received: from unknown (HELO mails.tsinghua.edu.cn) (unknown@127.0.0.1)
+ by 127.0.0.1 with SMTP; Tue, 23 Nov 2004 11:03:31 +0800
+X-scanvirus: By Symantec Scan Engine
+X-scanresult: CLEAN
+Received: (eqmail ); 23 Nov 2004 03:03:29 -0000
+Received: from tu203028.tsinghua.edu.cn (HELO ccert-dijg) (dijg01@166.111.203.28)
+  by mails.tsinghua.edu.cn with SMTP; 23 Nov 2004 03:03:29 -0000
+From: "zeng" <zeng@mails.tsinghua.edu.cn>
+To: zhuang@ccert.edu.cn
+Subject: =?GB2312?Q?Re: =D4=AD=C0=B4=CA=C7=B6=CE=C0=CF=B4=F3=C6=F0=B5=C4?=
+X-mailer: Foxmail 4.2 [cn]
+Mime-Version: 1.0
+Content-Type: multipart/alternative;
+      boundary="=====002_Dragon727768845240_====="
+Date: Tue, 23 Nov 2004 11:11:47 +0800
+X-UIDL: VkB"!,nP"!_];!!&Uo"!
+
+: 我本来就反对现在的上学安排，觉得小学最多5年，中学4年足以，想象我们初三高三的两年干吗了，全3用来复习考试，本科三年也足够。倒是进入硕士博士阶段应该时间长点，因为这是进入真正的专业知识以及技能培养或者学术训练的时期
+呵呵，这么算下来叫一个15岁的孩子上大学？那时的心智成熟吗，能抵得住诱惑，禁得住挫折吗？
+拜托不要用老是理想主义，小学初中高中的意义就在于让你在一个合适的年龄走上社会，这样才能走得长远，走得顺畅，你以为国家让你上这么长时间是为了赚你的钱吗，错了，是为了你好，如果让你那么早就走向社会，那是国家不负责的表现。个人意见，欢迎大家指正
+

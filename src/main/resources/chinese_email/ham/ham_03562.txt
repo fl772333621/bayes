@@ -1,0 +1,48 @@
+Return-Path: <zhong@tsinghua.edu.cn>
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id iAS45ERj023765
+	for <cen@ccert.edu.cn>; Sun, 28 Nov 2004 12:05:14 +0800 (CST)
+Received: (eyou send program); Sun, 28 Nov 2004 11:50:01 +0800
+Message-ID: <301613801.15054@mail.tsinghua.edu.cn>
+Received: from unknown (HELO mail.tsinghua.edu.cn) (unknown@127.0.0.1)
+ by 127.0.0.1 with SMTP; Sun, 28 Nov 2004 11:50:01 +0800
+X-scanvirus: By Symantec Scan Engine
+X-scanresult: CLEAN
+Received: (eqmail ); 28 Nov 2004 03:49:54 -0000
+Received: from unknown (HELO sony) (duanhx@166.111.204.105)
+  by localhost with SMTP; 28 Nov 2004 03:49:54 -0000
+Message-ID: <007701c4d4ff$698e02c0$69cc6fa6@sony>
+From: "zhong" <zhong@tsinghua.edu.cn>
+To: cen@ccert.edu.cn
+Subject: Fw: weblog
+Date: Sun, 28 Nov 2004 12:04:50 +0800
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="----=_NextPart_000_0075_01C4D542.76798610"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2900.2180
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+X-UIDL: PSH"!(Yo"!NB8"!%Y>"!
+
+o..不是嫁出去了么
+: 标  题: Re: 饿死也不做代理...
+: 发信站: 水木社区 (Wed Jun 15 18:26:54 2005), 站内
+: 
+: enna
+: 多好的一小孩
+: enna
+: : cc?
+: 
+: 
+: --
+: ╭           ____      ╭ ╰┘            ╰╮ 江苏，风物清嘉，人杰地灵       ╮
+: └╯呷呷   ╱    ╲    └╯  南京咸水鸭     (                               ╰┘
+:           │☉︵☉│                      ╭ )╮ 更多美食美景，                 
+:       _   ( ╰─╯ )            南京板鸭  └╯╰╮                              
+:      ( ﹋﹀╰──╯﹀﹋ )                        \\ ╮尽在5区--&gt;江海天地·江苏   
+:       \\_)____________(_/ 娃娃    酱鸭  桂花鸭    ╰┘          Jiangsu@newsmth  
+: 
+: 
+: ※ 来源:·水木社区 newsmth.net·[FROM: 61.135.159.*]
+

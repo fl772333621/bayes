@@ -1,0 +1,35 @@
+Return-Path: <qiu@rbl.ccert.edu.cn>
+Received: from rbl.ccert.edu.cn (rbl.ccert.edu.cn [202.112.57.71])
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id i97BsD79019532
+	for <ni@ccert.edu.cn>; Thu, 7 Oct 2004 19:54:13 +0800 (CST)
+Received: from rbl.ccert.edu.cn (localhost.localdomain [127.0.0.1])
+	by rbl.ccert.edu.cn (8.12.11/8.12.11) with ESMTP id i97C0Cel006337
+	for <ni@ccert.edu.cn>; Thu, 7 Oct 2004 20:00:13 +0800
+Received: (from qa@localhost)
+	by rbl.ccert.edu.cn (8.12.11/8.12.11/Submit) id i97C0Cr9006336;
+	Thu, 7 Oct 2004 20:00:12 +0800
+Date: Thu, 7 Oct 2004 20:00:12 +0800
+Message-Id: <200410071200.i97C0Cr9006336@rbl.ccert.edu.cn>
+Subject: =?gb2312?B?ofEgs8/GuFdpbmRvd3PGvcyoz8LI7bz+0dC3ormks8zKpg==?=
+To: ni@ccert.edu.cn
+From: Tran Quang Anh <qiu@cernet.edu.cn>
+Content-Type: multipart/mixed; boundary="----------=_1097150413-996-920"
+MIME-Version: 1.0
+X-UIDL: >EX!!><~"!Ul<"!,,+!!
+
+Windows平台下软件研发工程师（1人）
+公司名称：北京精华九州科技开发有限公司
+地    址：北京市
+联系方式：jinghua_hr@yahoo.com.cn
+工作职责：
+负责完成项目中部分软件的研发以及调试工作
+任职要求：
+2年以上软件开发经验 
+具备分析和设计能力 
+一年以上应用VC＋＋6.0经验 
+掌握常用的设计工具 
+熟悉多媒体开发者优先 
+工作认真，责任心强，踏实肯干。 
+良好的沟通能力和协作精神，良好的团队协调能力 
+良好的英文读写和交流能力
+

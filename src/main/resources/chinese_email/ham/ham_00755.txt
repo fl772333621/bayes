@@ -1,0 +1,51 @@
+Return-Path: <jiang@cernet.edu.cn>
+Received: from tsinghua.org.cn ([210.77.143.228])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id i9Q8CObY008427
+	for <bai@ccert.edu.cn>; Tue, 26 Oct 2004 16:12:25 +0800
+Received: (eyou send program); Tue, 26 Oct 2004 16:23:47 +0800
+Received: (eyou send program); Tue, 26 Oct 2004 16:23:47 +0800
+X-EYOU-ORIGINAL-IP: 210.77.143.235
+X-EYOU-ENVELOPE-MAILFROM: sundh@cernet.edu.cn
+Received: from unknown (HELO eyou.net) (unknown@210.77.143.235)
+ by 210.77.143.228 with SMTP; Tue, 26 Oct 2004 16:23:47 +0800
+Received: (eyou send program); Tue, 26 Oct 2004 16:20:35 +0800
+Message-ID: <298778835.11967@eyou.net>
+Received: from 202.112.5.66 by 210.77.143.235 with SMTP; Tue, 26 Oct 2004 16:20:24 +0800
+Received: from 8jmd55gawpz3tjh ([202.112.50.7])
+	(authenticated bits=0)
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id i9Q8NVCN003539;
+	Tue, 26 Oct 2004 16:23:31 +0800 (CST)
+Message-ID: <001e01c4bb35$1482be30$073270ca@8jmd55gawpz3tjh>
+From: "jiang" <jiang@cernet.edu.cn>
+To: bai@ccert.edu.cn
+Subject: =?gb2312?B?UmU6ILTzvNLKx9Ta1PXR+bXE17TMrM/Cvva2qL3hu+m1xKO/?=
+Date: Tue, 26 Oct 2004 16:23:32 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_001B_01C4BB78.2285CC00"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2800.1437
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1441
+X-UIDL: U[8!!V#K!!TWF"!'/T!!
+
+ 我和lg在学校恋了两年
+ 然后我来北京继续上学
+ 他去杭州工作
+ 两人分开了3年
+ 他说单位买经济适用房
+ 一定要结婚的才有排队的资格
+ 想想杭州天价的房子
+ 我也没有怎么考虑就同意结婚了
+ 现在结婚也有一年半多
+ 感觉也不错
+ 已经是那种平平淡淡 波澜不惊的感情了
+ 
+ 不过没有玫瑰 没有婚戒 没有结婚照
+ lg说等我毕业以后补齐
+ ^_^
+: 家版的姐妹们，大家说说自己是怎么决定婚姻大事的吧！当时怎么想的，就答应嫁人了呢？
+: 偶跟gg好了2年了，当初很自然地开始了恋爱，是初恋，这两年里也没有什么考验波折，连吵架都没有过。大约是太容易，现在反而觉得不确定，甚至怀疑爱情，没有暗恋、没有追求、没有磨合，怎样才能证明自己的感情呢？校园恋情就要结束了，马上开始工作，需要认真考虑结婚的�
+: 轻点拍吧。
+: ...................
+

@@ -1,0 +1,52 @@
+Return-Path: <ning@home.ccert.edu.cn>
+Received: from home.ccert.edu.cn (localhost [127.0.0.1])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id iB17t3EI021043;
+	Wed, 1 Dec 2004 15:55:03 +0800
+Received: (from majordomo@localhost)
+	by home.ccert.edu.cn (8.13.1/8.13.1/Submit) id iB17t35o021042;
+	Wed, 1 Dec 2004 15:55:03 +0800
+X-Authentication-Warning: home.ccert.edu.cn: majordomo set sender to owner-ccertstaff using -f
+Received: from ccertspark (tu203021.tsinghua.edu.cn [166.111.203.21])
+	(authenticated bits=0)
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id iB17rqKa021013;
+	Wed, 1 Dec 2004 15:53:52 +0800
+From: "ning" <ning@ccert.edu.cn>
+To: qing@ccert.edu.cn
+Cc: <xing@ccert.edu.cn>
+Subject: =?gb2312?B?ofEgsKK/qLmry77V0Ma4TGludXjR0LeiuaSzzMqm?=
+Date: Wed, 1 Dec 2004 16:05:48 +0800
+Message-ID: <002101c4d77c$91024c60$15cb6fa6@ccertspark>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0022_01C4D7BF.9F258C60"
+X-Priority: 3 (Normal)
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook, Build 10.0.6626
+X-MIMEOLE: Produced By Microsoft MimeOLE V6.00.3790.181
+In-Reply-To: <002301c4d779$cc07e2a0$df54cfdc@WHITESNOW>
+Importance: Normal
+Sender: owner-ccertstaff@home.ccert.edu.cn
+Precedence: bulk
+X-UIDL: ncQ!!W1!"!2\b!!f[N"!
+
+    阿卡信息技术(北京)有限公司，是一家互联网技术开发与服务的高科技公司。
+公司成立于 2001 年 6 月。公司网站可参阅 http://www.aka.cn/
+现招聘专职 GNU/Linux 网络工程师若干名。具体条件如下：
+* 职位要求
+  o 喜爱并熟悉 GNU/Linux 的开发和应用
+  o 熟悉标准 SQL 语言，能够熟练做数据库开发
+  o 熟悉 C/C++ 语言，熟悉 UNIX/Linux 环境下的编程，有较丰富的实际编码经验
+  o 熟悉TCP/IP，能够解决基本的网络问题
+  o 优先考虑具有大量GNU/Linux网络服务应用经验的人才
+* 工作内容
+  o 产品技术支持
+  o 基于Linux系统的网络应用研发
+* 福利待遇
+  o 可以解决应届毕业生北京户口
+* 工作地点：北京-上地-回龙观
+* 专职薪金水平：RMB3000-5000（能力突出者面议）
+* 学历要求：不限
+* 联系方法：
+        请将您的详细个人简历、独立完成作品说名、联系方式发至 hr@aka.cn 信箱，
+        标题注明[newsmth Linux]，经审查符合条件者，将另行通知考核办法。
+

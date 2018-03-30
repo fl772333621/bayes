@@ -1,0 +1,78 @@
+Return-Path: <xue@mails.tsinghua.edu.cn>
+Received: from tsinghua.org.cn ([210.77.143.228])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id i9M2OBh1026692
+	for <yu@ccert.edu.cn>; Fri, 22 Oct 2004 10:24:12 +0800
+Received: (eyou send program); Fri, 22 Oct 2004 10:35:15 +0800
+Received: (eyou send program); Fri, 22 Oct 2004 10:35:12 +0800
+X-EYOU-ORIGINAL-IP: 202.38.99.65
+X-EYOU-ENVELOPE-MAILFROM: toefl-bounces@server.cool-meeting.com
+Received: from unknown (HELO server.cool-meeting.com) (unknown@202.38.99.65)
+ by 210.77.143.228 with SMTP; Fri, 22 Oct 2004 10:35:12 +0800
+Received: from server.cool-meeting.com (localhost.localdomain [127.0.0.1])
+	by server.cool-meeting.com (8.12.8/8.12.8) with ESMTP id i9M2UnlY031563
+	for <yu@ccert.edu.cn>; Fri, 22 Oct 2004 10:30:56 +0800
+Received: from mails.tsinghua.edu.cn (mails.tsinghua.edu.cn [166.111.8.16])
+	by server.cool-meeting.com (8.12.8/8.12.8) with SMTP id i9M2Ulkr031559
+	for <yu@ccert.edu.cn>; Fri, 22 Oct 2004 10:30:47 +0800
+Received: (eyou send program); Fri, 22 Oct 2004 10:16:40 +0800
+Message-ID: <298411400.03709@mails.tsinghua.edu.cn>
+Received: from 202.112.0.90 by mails.tsinghua.edu.cn with HTTP;
+	Fri, 22 Oct 2004 10:16:40 +0800
+X-WebMAIL-MUA: [202.112.0.90]
+From: "xue" <xue@mails.tsinghua.edu.cn>
+To: yu@ccert.edu.cn
+Date: Fri, 22 Oct 2004 10:16:40 +0800
+Content-Type: text/plain
+Subject: =?gb2312?B?ofEgs8/GuNOissU=?=
+X-BeenThere: toefl@server.cool-meeting.com
+X-Mailman-Version: 2.1.2
+Precedence: list
+Reply-To: 邵筱昕 <xue@mails.tsinghua.edu.cn>
+List-Id: &#26446;&#26143;&#21644;&#20182;&#30340;&#23398;&#29983;&#20204;
+	<toefl.server.cool-meeting.com>
+List-Unsubscribe: <http://server.cool-meeting.com/mailman/listinfo/toefl>,
+	<mailto:toefl-request@server.cool-meeting.com?subject=unsubscribe>
+List-Archive: <http://server.cool-meeting.com/mailman/private/toefl>
+List-Post: <mailto:toefl@server.cool-meeting.com>
+List-Help: <mailto:toefl-request@server.cool-meeting.com?subject=help>
+List-Subscribe: <http://server.cool-meeting.com/mailman/listinfo/toefl>,
+	<mailto:toefl-request@server.cool-meeting.com?subject=subscribe>
+Sender: toefl-bounces@server.cool-meeting.com
+Errors-To: toefl-bounces@server.cool-meeting.com
+X-UIDL: ~Hc!!9H*"!@4<!!JOD"!
+
+本公司是一家的教育培训公司，现诚聘以下人员：
+一、市场推广经理 一名
+要求:
+1.有相关语言培训市场推广经验（有教育、培训行业或客户服务经验优先）
+2.良好的英语听说读写能力
+3.熟练操作计算机及各种办公应用软
+4.有良好组织协调、管理能力
+5.能够独立组织制定和执行营销架构、市场规划、市场/销售策略及进行产品拓展等工作
+6.具有很强的市场研究，市场推广以及市场活动策划能力，有大型市场活动推广成功经验
+二、培训主管
+要求
+1.英语或管理相关专业本科以上学历
+2.五年以上英语教学或培训管理经验，
+3.熟悉招聘、培训、档案管理、绩效管理等工作流程
+4.有较强的组织、计划、协调能力，具有团队合作精神
+5.具备良好的中英文表达和写作能力
+6.有开发和管理外籍教师资源的渠道与经验
+三、市场推广人员
+要求：
+1.大学专科以上学历，
+2.具备良好的语言组织和沟通技巧，
+3.具有较强的市场开拓能力，
+4.富有团队合作精神，责任心强；
+5.有教育市场工作经验者优先。
+四、电话营销员
+要求：
+1.高中或中专以上学历 
+2.具备一年以上电话销售工作经验，IT领域直销工作经验者优先； 
+3.对销售工作有高度的热情，工作积极主动；有效合理安排时间； 
+4.有良好的电话沟通技巧和组织协调能力；
+5.能够在压力下工作，适应快速发展的企业要求； 
+6.普通话标准流利, 有良好的表达技巧。
+工资待遇：底薪+提成
+以上职位待遇优厚，有意者请将个人简历（注明应聘职位）发至postmaster@bjfss.com,来信必复。
+

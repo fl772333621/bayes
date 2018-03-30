@@ -1,0 +1,42 @@
+Return-Path: <yu@cernet.edu.cn>
+Received: from tsinghua.org.cn ([210.77.143.228])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id i9Q8CObY008427
+	for <chi@ccert.edu.cn>; Tue, 26 Oct 2004 16:12:25 +0800
+Received: (eyou send program); Tue, 26 Oct 2004 16:23:47 +0800
+Received: (eyou send program); Tue, 26 Oct 2004 16:23:47 +0800
+X-EYOU-ORIGINAL-IP: 210.77.143.235
+X-EYOU-ENVELOPE-MAILFROM: sundh@cernet.edu.cn
+Received: from unknown (HELO eyou.net) (unknown@210.77.143.235)
+ by 210.77.143.228 with SMTP; Tue, 26 Oct 2004 16:23:47 +0800
+Received: (eyou send program); Tue, 26 Oct 2004 16:20:35 +0800
+Message-ID: <298778835.11967@eyou.net>
+Received: from 202.112.5.66 by 210.77.143.235 with SMTP; Tue, 26 Oct 2004 16:20:24 +0800
+Received: from 8jmd55gawpz3tjh ([202.112.50.7])
+	(authenticated bits=0)
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id i9Q8NVCN003539;
+	Tue, 26 Oct 2004 16:23:31 +0800 (CST)
+Message-ID: <001e01c4bb35$1482be30$073270ca@8jmd55gawpz3tjh>
+From: "yu" <yu@cernet.edu.cn>
+To: chi@ccert.edu.cn
+Subject: =?gb2312?B?UmU6IMfrzsrK0LOhyMvUsbrNz/rK28jL1LG1xMf4sfDKx8qyw7Sjvw==?=
+Date: Tue, 26 Oct 2004 16:23:32 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_001B_01C4BB78.2285CC00"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2800.1437
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1441
+X-UIDL: U[8!!V#K!!TWF"!'/T!!
+
+目标一样，帮助公司出货，还要树立品牌形象
+但工作完全不同，通俗点讲市场是花钱的，用最少的钱达到最好的宣传目的，
+让最多的人知道你并树立起良好的形象
+销售是回钱的，但是售前和售后也是为了一个更好的品牌形象
+市场对专业性要求强一些，更多是营销方面，性格化弱一些
+销售一个是性格，另一个是对产品的专业知识至少有一个认识
+: 在能力、性格上的要求都不同吧，具体是什么呢?
+: 他们各自的工作状态是什么样的呢？
+: 有没有亲身体验过的来指点一下呢，一直我都没分清楚。
+: ...................
+

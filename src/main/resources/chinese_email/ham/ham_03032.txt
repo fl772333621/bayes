@@ -1,0 +1,25 @@
+Return-Path: <yana@rbl.ccert.edu.cn>
+Received: from rbl.ccert.edu.cn (rbl.ccert.edu.cn [202.112.57.71])
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id i96EiYcH005645
+	for <cai@ccert.edu.cn>; Wed, 6 Oct 2004 22:44:34 +0800 (CST)
+Received: from rbl.ccert.edu.cn (localhost.localdomain [127.0.0.1])
+	by rbl.ccert.edu.cn (8.12.11/8.12.11) with ESMTP id i96EoVSj028141
+	for <cai@ccert.edu.cn>; Wed, 6 Oct 2004 22:50:31 +0800
+Received: (from qa@localhost)
+	by rbl.ccert.edu.cn (8.12.11/8.12.11/Submit) id i96EoVPV028140;
+	Wed, 6 Oct 2004 22:50:31 +0800
+Date: Wed, 6 Oct 2004 22:50:31 +0800
+Message-Id: <200410061450.i96EoVPV028140@rbl.ccert.edu.cn>
+Subject: =?gb2312?B?UmU6ILnY09qwrsGi0MXR0Lei1tDQxKOsztKyu7XDsrvLtcG9vuQ=?=
+To: cai@ccert.edu.cn
+From: Tran Quang Anh <yana@cernet.edu.cn>
+Content-Type: multipart/mixed; boundary="----------=_1097074231-996-682"
+MIME-Version: 1.0
+X-UIDL: Q#n!!d7:!!(Kp!!G[-"!
+
+他们把你当应届群殴了
+:   估计这位台兄说的就是我了。
+:   就当天的感受来讲，第一点，打电话叫我过去面试的时候，语气很生硬，让人受不了，而且也没有说要带简历，当时也是正好朝阳那边办完事赶过去没有带简历，我是没有估计到会是群欧，大公司我基本上也都面过，每次过去都是单独面，而且对方肯定都已经准备好了你的简历，我
+:    综合上面情况，以至于使我立即就决定把它给据了，不过我当时就找了个接口说不喜欢跟中国人说英语。面试家伙的英语蹩脚，还一定要求英语来说，感觉憋闷。对于我自己来讲，目的其实也就是过去增长一下经验。去之前已经有去处了，而且还据了比爱立信要nb多的公司。
+: ...................
+

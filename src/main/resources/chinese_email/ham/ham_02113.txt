@@ -1,0 +1,75 @@
+Return-Path: <rao@mails.tsinghua.edu.cn>
+Received: from tsinghua.org.cn ([210.77.143.228])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id iAS8BXDc002650
+	for <su@ccert.edu.cn>; Sun, 28 Nov 2004 16:11:35 +0800
+Received: (eyou send program); Sun, 28 Nov 2004 14:48:34 +0800
+Received: (eyou send program); Sun, 28 Nov 2004 14:48:34 +0800
+X-EYOU-ORIGINAL-IP: 210.77.143.235
+X-EYOU-ENVELOPE-MAILFROM: toefl-bounces@server.cool-meeting.com
+Received: from unknown (HELO eyou.net) (unknown@210.77.143.235)
+ by 210.77.143.228 with SMTP; Sun, 28 Nov 2004 14:48:34 +0800
+Received: (eyou send program); Sun, 28 Nov 2004 14:43:51 +0800
+Message-ID: <301624231.21480@eyou.net>
+Received: from 202.38.99.65 by 210.77.143.235 with SMTP; Sun, 28 Nov 2004 14:43:39 +0800
+Received: from server.cool-meeting.com (localhost.localdomain [127.0.0.1])
+	by server.cool-meeting.com (8.12.8/8.12.8) with ESMTP id iAS73slY001818
+	for <su@ccert.edu.cn>; Sun, 28 Nov 2004 15:04:01 +0800
+Received: from mails.tsinghua.edu.cn (mails.tsinghua.edu.cn [166.111.8.16])
+	by server.cool-meeting.com (8.12.8/8.12.8) with SMTP id iAS73lkr001814
+	for <su@ccert.edu.cn>; Sun, 28 Nov 2004 15:03:47 +0800
+Received: (eyou send program); Sun, 28 Nov 2004 14:42:43 +0800
+Message-ID: <301624163.17095@mails.tsinghua.edu.cn>
+Received: from 219.224.139.41 by mails.tsinghua.edu.cn with HTTP;
+	Sun, 28 Nov 2004 14:42:43 +0800
+X-WebMAIL-MUA: [219.224.139.41]
+From: "rao" <rao@mails.tsinghua.edu.cn>
+To: su@ccert.edu.cn
+Date: Sun, 28 Nov 2004 14:42:43 +0800
+Content-Type: text/plain
+Cc: 
+Subject: =?gb2312?B?ofEgW9SttLTBrNTYXc7Sw8e1xLCux+nV5rXEzeq1sMHLKDIxKQ==?=
+X-BeenThere: toefl@server.cool-meeting.com
+X-Mailman-Version: 2.1.2
+Precedence: list
+Reply-To: rao@mails.tsinghua.edu.cn
+List-Id: &#26446;&#26143;&#21644;&#20182;&#30340;&#23398;&#29983;&#20204;
+	<toefl.server.cool-meeting.com>
+List-Unsubscribe: <http://server.cool-meeting.com/mailman/listinfo/toefl>,
+	<mailto:toefl-request@server.cool-meeting.com?subject=unsubscribe>
+List-Archive: <http://server.cool-meeting.com/mailman/private/toefl>
+List-Post: <mailto:toefl@server.cool-meeting.com>
+List-Help: <mailto:toefl-request@server.cool-meeting.com?subject=help>
+List-Subscribe: <http://server.cool-meeting.com/mailman/listinfo/toefl>,
+	<mailto:toefl-request@server.cool-meeting.com?subject=subscribe>
+Sender: toefl-bounces@server.cool-meeting.com
+Errors-To: toefl-bounces@server.cool-meeting.com
+X-UIDL: K]W"!l*>"!p25!!d~~!!
+
+    21  日子开始变的如此滑稽
+    无奈之余，我想到了给远在千里之外的 cabbage 打电话.
+    cabbage 在电话里听我讲完原委后，气愤的就是一通责骂，她为娟和静惋
+惜，惋惜她们遇到了我，遇到了我这样视感情为儿戏的痞子，流氓。电话里，
+我静静地沉默着，我不想再给自己找什么卫冕堂皇的理由，为此争辩，解释，
+那不是现在该做的。电话的最后，我诚恳的说，大姐，你就别说这些了，我知
+道我错了，我该骂，但我现在只想知道怎么办，只要答案，你能告诉我么，真
+的，这次我是真的需要你的主意，需要你给我点帮助。沉默，可怕的沉默，
+cabbage 在电话那头叹气许久后，只说了一句话，早点结束吧，选谁都不重要
+了，我无言以对..
+    挂掉电话，呆呆的望着马路对面闪闪的路灯，我笑了，无奈的苦笑。终于，
+正是当初的不经意，终于把自己引向了如今万劫不复的境地。繁华都市的霓虹
+灯下，有一个背影如此苍凉..
+    于是，我的生活变的如此滑稽.
+    每个星期，我都会大致平均的分配自己的时间给娟和静。周一三五会去娟
+的学校看她，陪她训练，吃饭，去逛街买买想要的CD等，周二四六则陪静在自
+习室里度过，她爱学习，所以看书的时候总是多一点。周日就随机了，谁的情
+况更需要些就陪谁吧。娟的性格开朗，好动爱玩，对时尚前卫的东东比较感兴
+趣，所以我经常陪娟去商场购物，闲逛的比较多，相反，静好静，不爱动，只
+要有个地方一起说说话就满足了，所以周日的时间若是和她在一起，绝大多数
+都用在了她学校的自习室里，学的多，玩的少，说来跟静的性格有关，她从来
+就不是很喜欢玩。其实，学习也好，逛街也好，对我来说都不重要，只要能陪
+在她们身边，做什么都无所谓了，咳..
+    从孩提时到现在，电视剧里的三角恋情，不知道看了多少，尤其是那些负
+心男人被众人唾骂的情景，我一直记在心里，怎么也想不到会有一天由我自己
+来扮演如此不光彩的角色.
+    我在焦急地等待，等待心里的天平快点倾斜，等待抉择的时刻快点到来.
+

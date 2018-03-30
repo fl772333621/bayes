@@ -1,0 +1,25 @@
+Return-Path: <wang@rbl.ccert.edu.cn>
+Received: from rbl.ccert.edu.cn (rbl.ccert.edu.cn [202.112.57.71])
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id i962R7lW027457
+	for <qian@ccert.edu.cn>; Wed, 6 Oct 2004 10:27:07 +0800 (CST)
+Received: from rbl.ccert.edu.cn (localhost.localdomain [127.0.0.1])
+	by rbl.ccert.edu.cn (8.12.11/8.12.11) with ESMTP id i962X21m010679
+	for <qian@ccert.edu.cn>; Wed, 6 Oct 2004 10:33:02 +0800
+Received: (from qa@localhost)
+	by rbl.ccert.edu.cn (8.12.11/8.12.11/Submit) id i962X2ji010678;
+	Wed, 6 Oct 2004 10:33:02 +0800
+Date: Wed, 6 Oct 2004 10:33:02 +0800
+Message-Id: <200410060233.i962X2ji010678@rbl.ccert.edu.cn>
+Subject: =?gb2312?B?UmU6IM7SuMPU9cO01/ajvw==?=
+To: qian@ccert.edu.cn
+From: Tran Quang Anh <wang@cernet.edu.cn>
+Content-Type: multipart/mixed; boundary="----------=_1097029982-996-460"
+MIME-Version: 1.0
+X-UIDL: ZJC!!F@]!!BC%!!)bW!!
+
+因为异地，你始终对她了解不可能很透彻
+:      这是第一次fall in love，却弄成这样...
+:      首先声明是异地，所以各位不要对这一点再议论了。我和她是高中同学，一直是挺好的朋友，后来大三她去了法国作交换学生，上个月刚回来，期间一直保持着联系。去年搞定推研后，我开始认真考虑我们之间的可能性，因为以前问道她有没有男朋友时她都说没有。过完年来了�
+:      可是直到刚才，我才从一个高中同学那里知道她在出国以前都有男朋友了，只是我不知道而已，当时感觉浑身都有点麻木。她为什么距我时不告诉我？后来那个同学又说她和男朋友现在快分手了，因为男方要去南方工作，不在西安陪她（她读硕）。
+: ...................
+

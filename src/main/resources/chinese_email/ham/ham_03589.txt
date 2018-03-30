@@ -1,0 +1,47 @@
+Return-Path: <wen@tsinghua.edu.cn>
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with SMTP id j0J8FhLU015952
+	for <qiu@ccert.edu.cn>; Wed, 19 Jan 2005 16:15:44 +0800
+Received: (eyou send program); Wed, 19 Jan 2005 16:11:25 +0800
+Message-ID: <306122285.03068@mail.tsinghua.edu.cn>
+Received: from unknown (HELO mail.tsinghua.edu.cn) (unknown@127.0.0.1)
+ by 127.0.0.1 with SMTP; Wed, 19 Jan 2005 16:11:25 +0800
+X-scanvirus: By Symantec Scan Engine
+X-scanresult: CLEAN
+Received: (eqmail ); 19 Jan 2005 08:11:23 -0000
+Received: from unknown (HELO sony) (duanhx@202.112.35.253)
+  by localhost with SMTP; 19 Jan 2005 08:11:23 -0000
+Message-ID: <026601c4fe00$adcbb480$0301a8c0@sony>
+From: "wen" <wen@tsinghua.edu.cn>
+To: qiu@ccert.edu.cn
+Subject: =?gb2312?B?ofEg1dDGuLPM0PLUsQ==?=
+Date: Wed, 19 Jan 2005 16:27:12 +0800
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="----=_NextPart_000_0262_01C4FE43.BB178040"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2800.1106
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1106
+X-UIDL: 1Nj"!P)%!!/fi!!#^:"!
+
+兼全职都可.
+公司情况如下:
+北京泽世源科技有限公司，民营。
+高新技术企业证正在办理之中。
+公司业务基本上属于健康行业。
+主要是开发糖尿病门诊管理系统。
+涉及医学、营养、运动学科。
+这个系统主要是数据库应用系统。
+目前是单机版，已经进入市场销售阶段。
+现在要开发网络版，需要招一个人。
+基本要求：
+1、具有良好的职业道德；
+2、精通网络编程，对delphi较熟；
+3、至少近两个月要有足够的时间用于工作（新版必须在此期间完成）。
+4、最好是男性。
+廖先生
+联系电话：62587795,13601022790
+地址：中关村39号楼202
+liaoyanxian@pku.org.cn
+

@@ -1,0 +1,80 @@
+Return-Path: <wu@ccert.edu.cn>
+Received: from tsinghua.org.cn ([210.77.143.231])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id iB16c9N9019756
+	for <ding@ccert.edu.cn>; Wed, 1 Dec 2004 14:38:14 +0800
+Received: (eyou send program); Wed, 01 Dec 2004 14:31:11 +0800
+Received: (eyou send program); Wed, 01 Dec 2004 14:31:11 +0800
+X-EYOU-ORIGINAL-IP: 210.77.143.235
+X-EYOU-ENVELOPE-MAILFROM: sunbin@ccert.edu.cn
+Received: from unknown (HELO eyou.net) (unknown@210.77.143.235)
+ by 210.77.143.231 with SMTP; Wed, 01 Dec 2004 14:31:11 +0800
+Received: (eyou send program); Wed, 01 Dec 2004 14:46:19 +0800
+Message-ID: <301883579.11748@eyou.net>
+Received: from 166.111.8.16 by 210.77.143.235 with SMTP; Wed, 01 Dec 2004 14:45:52 +0800
+Received: (eyou send program); Wed, 01 Dec 2004 14:45:21 +0800
+Message-ID: <301883521.19030@mails.tsinghua.edu.cn>
+Received: (eyou send program); Wed, 01 Dec 2004 14:45:20 +0800
+Message-ID: <301883519.07916@mails.tsinghua.edu.cn>
+Received: from unknown (HELO mails.tsinghua.edu.cn) (unknown@127.0.0.1)
+ by 127.0.0.1 with SMTP; Wed, 01 Dec 2004 14:45:20 +0800
+X-scanvirus: By Symantec Scan Engine
+X-scanresult: NOREP
+Received: (eqmail ); 1 Dec 2004 06:45:15 -0000
+Received: from ccert.edu.cn (HELO home.ccert.edu.cn) (202.112.57.12)
+  by mails.tsinghua.edu.cn with SMTP; 1 Dec 2004 06:45:15 -0000
+Received: from home.ccert.edu.cn (localhost [127.0.0.1])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id iB16b6YJ019727;
+	Wed, 1 Dec 2004 14:37:06 +0800
+Received: (from majordomo@localhost)
+	by home.ccert.edu.cn (8.13.1/8.13.1/Submit) id iB16b6oc019726;
+	Wed, 1 Dec 2004 14:37:06 +0800
+X-Authentication-Warning: home.ccert.edu.cn: majordomo set sender to owner-ccertstaff using -f
+Received: from sunbin_S ([202.112.50.201])
+	(authenticated bits=0)
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id iB16b6RQ019722;
+	Wed, 1 Dec 2004 14:37:06 +0800
+Message-Id: <200412010637.iB16b6RQ019722@home.ccert.edu.cn>
+Date: Wed, 1 Dec 2004 14:55:04 +0800
+From: "wu" <wu@ccert.edu.cn>
+Reply-To: wu@ccert.edu.cn
+To: ding@ccert.edu.cn
+Subject: =?gb2312?B?ofEg1tC5+rTz0afJ+r7N0rW8+8+wzfjK7sbayrXPsLjazrvNxrz2Og==?=
+Organization: CCERT
+X-mailer: Foxmail 5.0 beta2 [cn]
+Mime-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: 8bit
+X-MIME-Autoconverted: from base64 to 8bit by home.ccert.edu.cn id iB16b6RQ019724
+Sender: owner-ccertstaff@home.ccert.edu.cn
+Precedence: bulk
+X-UIDL: Zo/"!Mg0!!e8*!!J=5"!
+
+发信人: eduportal (大学生就业见习网), 信区: Job
+    请登录www.54club.com查询更多...
+1、 公司名称: 上海泽寅经贸有限公司
+      招聘职位               工作地点         招聘人数
+行政助理(实习)             上海市              3人
+助理经理                   上海市              5人
+文员（可实习）             上海市              6人
+营销主管                   上海市              5人
+销售代表                    上海市              8人
+2、 公司名称:上海西门子开关有限公司
+       招聘职位                     工作地点         招聘人数
+NXAIR部门助理 NXAIR Assistant      上海市             1人
+   人力资源部助理 HR Assistant      上海市             1人
+3、公司名称:上海携航公共关系顾问有限公司
+       招聘职位                 工作地点         招聘人数
+   公共活动执行                 上海市             3人
+策划/方案                       上海市             3人
+4、公司名称:上海百脑汇电子信息有限公司
+        职位               工作地点            招聘人数
+      工程助理              北京市                1
+      高级程序员            浙江杭州              1
+餐饮招商专员              广东广州                1
+5 、公司名称:上海泽寅经贸有限公司
+       职位               工作地点         招聘人数
+  行政助理(实习)            上海              3
+  助理经理                  上海              5
+ 
+

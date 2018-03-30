@@ -1,0 +1,25 @@
+Return-Path: <su@rbl.ccert.edu.cn>
+Received: from rbl.ccert.edu.cn (rbl.ccert.edu.cn [202.112.57.71])
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id i9GDoHBF025372
+	for <wu@ccert.edu.cn>; Sat, 16 Oct 2004 21:50:18 +0800 (CST)
+Received: from rbl.ccert.edu.cn (localhost.localdomain [127.0.0.1])
+	by rbl.ccert.edu.cn (8.12.11/8.12.11) with ESMTP id i9GDtr3N021574
+	for <wu@ccert.edu.cn>; Sat, 16 Oct 2004 21:55:54 +0800
+Received: (from qa@localhost)
+	by rbl.ccert.edu.cn (8.12.11/8.12.11/Submit) id i9GDtrTg021573;
+	Sat, 16 Oct 2004 21:55:53 +0800
+Date: Sat, 16 Oct 2004 21:55:53 +0800
+Message-Id: <200410161355.i9GDtrTg021573@rbl.ccert.edu.cn>
+Subject: =?gb2312?B?UmU6INPWtb3J+sjVo6y78tDtsrvTprjDzKvJy7jQo7qjqQ==?=
+To: wu@ccert.edu.cn
+From: Tran Quang Anh <su@cernet.edu.cn>
+Content-Type: multipart/mixed; boundary="----------=_1097934954-2811-120"
+MIME-Version: 1.0
+X-UIDL: BOU!!'G_!!2jQ"!)pL!!
+
+过生日嘛，就要给自己找点快乐！
+祝福！
+: 忽然有点害怕过生日，不是怕变老，只是觉得孤独。
+: 去年的这个时候，我在糊涂上发帖子祝自己生日快乐，今年还是自己祝自己生日快乐，也相信生日那天会收到家人朋友的祝福，可是这句“生日快乐”是不是客套的都失去了它自己的意义了呢。
+: 今年算是真正的整二十岁生日了吧，在外地上学，没法和爸爸妈妈一起，现在真的好怀念在家的日子，想想真的就泪流满面，想爸爸妈妈烧的好吃的，和他们一起聊天的时光。从小偶就是一个话比较多的人，每天放学回家从吃饭前一直扯到洗完碗，有时还坐在客厅靠在爸爸或妈妈怀里再接着聊，说到没话说了再去写作业。爸爸妈妈以前为了照顾我，放弃了很多机会，现在我上大学了，他们也就放开工作了，工作很辛苦也很忙，而且分隔两地，爸爸隔三个月会回家一次，妈妈也是忙起来就早出晚归的。他们现在每周都会给我打电话，但是比起以前一家人在一起的? ...................
+

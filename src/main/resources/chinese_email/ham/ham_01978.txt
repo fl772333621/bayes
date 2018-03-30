@@ -1,0 +1,66 @@
+Return-Path: <yun@tsinghua.edu.cn>
+Received: from tsinghua.org.cn ([210.77.143.228])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id i9K1aQZe021749
+	for <wang@ccert.edu.cn>; Wed, 20 Oct 2004 09:36:31 +0800
+Received: (eyou send program); Wed, 20 Oct 2004 09:47:35 +0800
+Received: (eyou send program); Wed, 20 Oct 2004 09:47:34 +0800
+X-EYOU-ORIGINAL-IP: 166.111.8.16
+X-EYOU-ENVELOPE-MAILFROM: duanhx@tsinghua.edu.cn
+Received: from unknown (HELO mails.tsinghua.edu.cn) (unknown@166.111.8.16)
+ by 210.77.143.228 with SMTP; Wed, 20 Oct 2004 09:47:34 +0800
+Received: (eyou send program); Wed, 20 Oct 2004 09:41:25 +0800
+Message-ID: <298236485.22195@mails.tsinghua.edu.cn>
+Received: (eyou send program); Wed, 20 Oct 2004 09:41:25 +0800
+Message-ID: <298236484.10615@mails.tsinghua.edu.cn>
+Received: from unknown (HELO mails.tsinghua.edu.cn) (unknown@127.0.0.1)
+ by 127.0.0.1 with SMTP; Wed, 20 Oct 2004 09:41:25 +0800
+X-scanvirus: By Symantec Scan Engine
+X-scanresult: CLEAN
+Received: (eqmail ); 20 Oct 2004 01:41:23 -0000
+Received: from ccert.edu.cn (HELO home.ccert.edu.cn) (202.112.57.12)
+  by mails.tsinghua.edu.cn with SMTP; 20 Oct 2004 01:41:23 -0000
+Received: from home.ccert.edu.cn (localhost [127.0.0.1])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id i9K1YYKo021692;
+	Wed, 20 Oct 2004 09:34:34 +0800
+Received: (from majordomo@localhost)
+	by home.ccert.edu.cn (8.13.1/8.13.1/Submit) id i9K1YYhT021691;
+	Wed, 20 Oct 2004 09:34:34 +0800
+X-Authentication-Warning: home.ccert.edu.cn: majordomo set sender to owner-ccertstaff using -f
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with SMTP id i9K1YSEX021686
+	for <wang@ccert.edu.cn>; Wed, 20 Oct 2004 09:34:28 +0800
+Received: (eyou send program); Wed, 20 Oct 2004 09:31:13 +0800
+Message-ID: <298235873.27414@mail.tsinghua.edu.cn>
+Received: from unknown (HELO mail.tsinghua.edu.cn) (unknown@127.0.0.1)
+ by 127.0.0.1 with SMTP; Wed, 20 Oct 2004 09:31:13 +0800
+X-scanvirus: By Symantec Scan Engine
+X-scanresult: CLEAN
+Received: (eqmail ); 20 Oct 2004 01:31:12 -0000
+Received: from unknown (HELO sony) (duanhx@202.112.50.6)
+  by localhost with SMTP; 20 Oct 2004 01:31:12 -0000
+Message-ID: <01bb01c4b646$7ef2e4f0$cae86fa6@sony>
+From: "yun" <yun@tsinghua.edu.cn>
+To: wang@ccert.edu.cn
+Subject: =?gb2312?B?UmU6IMDPyse2zNDFtee7sMmnyMXKx7K7yse74cjDTU2+9bXDuty3s6O/?=
+Date: Wed, 20 Oct 2004 09:45:35 +0800
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2900.2180
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+Content-Transfer-Encoding: 8bit
+X-MIME-Autoconverted: from base64 to 8bit by home.ccert.edu.cn id i9K1YYEX021689
+Sender: owner-ccertstaff@home.ccert.edu.cn
+Precedence: bulk
+X-UIDL: ?2*!!A0["!S`$"!6Fl"!
+
+: 啊,,,,,,我最近也想问这个问题呀.
+: 不过我不同的是,我是女生,我老是发短信给一个男生.但是我确实不是
+: 在追求他的那种心理啊,我就是很习惯,很依赖,好象不发就不舒服似的
+: ...................
+这个男生跟我的遭遇有点相似，我也是每天都要收到一个女孩的二三十条短信。所以我想我可以帮你回答一下这个问题。
+烦是肯定不会烦的哈，因为我一直把给我发短信的这个女孩当作小妹妹。但是有一个问题，前面也有人提到了，不要在一个男生工作的时候打扰他。比如写程序，比如做作业、作实验，还有最重要的，快要考试的时候。你跟他很熟，我想你应该大体清楚他的作息时间，然后尽量避开这些时间就可以了哈。
+还有就是有时候可能因为种种原因（比如跟自己MM在一起，比如没有及时看到消息，等等等等）不会及时回你短信，要理解他哈。
+

@@ -1,0 +1,53 @@
+Return-Path: <tian@mails.tsinghua.edu.cn>
+Received: from tsinghua.org.cn ([210.77.143.232])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with SMTP id j2A39TEN029246
+	for <kong@ccert.edu.cn>; Thu, 10 Mar 2005 11:09:31 +0800
+Received: (eyou send program); Thu, 10 Mar 2005 11:21:44 +0800
+Message-ID: <310424904.32731@tsinghua.org.cn>
+X-EYOU-AUTOFORWARD: tsinghua.org.cn
+Received: (eyou send program); Thu, 10 Mar 2005 11:21:43 +0800
+Message-ID: <310424903.21877@tsinghua.org.cn>
+Received: from unknown (HELO gradinfo.net.edu.cn) (202.112.49.111)
+ by 210.77.143.232 with SMTP; Thu, 10 Mar 2005 11:21:43 +0800
+Received: from [202.112.49.111] (localhost [IPv6:::1])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with ESMTP id j2A3MisH054547
+	for <kong@ccert.edu.cn>; Thu, 10 Mar 2005 11:22:59 +0800 (CST)
+	(envelope-from toefl-bounces@gradinfo.net.edu.cn)
+Received: from mails.tsinghua.edu.cn (mails.tsinghua.edu.cn [166.111.8.16])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with SMTP id j2A3Mg7p054543
+	for <kong@ccert.edu.cn>; Thu, 10 Mar 2005 11:22:42 +0800 (CST)
+	(envelope-from sxx03@mails.tsinghua.edu.cn)
+Received: (eyou send program); Thu, 10 Mar 2005 11:14:23 +0800
+Message-ID: <310424463.30810@mails.tsinghua.edu.cn>
+Received: from 202.112.50.72 by mails.tsinghua.edu.cn with HTTP;
+	Thu, 10 Mar 2005 11:14:23 +0800
+X-WebMAIL-MUA: [202.112.50.72]
+From: "tian" <tian@mails.tsinghua.edu.cn>
+To: kong@ccert.edu.cn
+Date: Thu, 10 Mar 2005 11:14:23 +0800
+X-Priority: 3
+Content-Type: text/plain
+Subject: =?gb2312?B?ofEgyu7G2s34x/LV0rDpo6GjoaOho6E=?=
+X-BeenThere: toefl@gradinfo.net.edu.cn
+X-Mailman-Version: 2.1.5
+Precedence: list
+Reply-To: shaoxiaoxin <tian@mails.tsinghua.edu.cn>
+List-Id: "&#26446; &#26143; &#21644; &#20182; &#30340; &#23398; &#29983;
+	&#20204; " <toefl.gradinfo.net.edu.cn>
+List-Unsubscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=unsubscribe>
+List-Archive: <http://gradinfo.net.edu.cn/mailman/private/toefl>
+List-Post: <mailto:toefl@gradinfo.net.edu.cn>
+List-Help: <mailto:toefl-request@gradinfo.net.edu.cn?subject=help>
+List-Subscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=subscribe>
+Sender: toefl-bounces@gradinfo.net.edu.cn
+Errors-To: toefl-bounces@gradinfo.net.edu.cn
+X-UIDL: b+`!!=c?"!D:T"!"O(!!
+
+社会实践么，所以整暑假呆学校了。俺初学，目前水平十个球能接四五六个吧，不过，俺学习态度好且任劳任怨，所以进步较快。
+如果同学你水平高的话，别嫌弃俺。如果也是初学，希望和俺一样好学，否则，俺会嫌弃你的，呵呵。
+时间：一星期则么也得两三回吧。俺礼拜天没问题，礼拜六爬山，其他时间看实践单位了，估计晚六七点以后应该没有问题的，嗯。
+俺是男的，你的性别年龄籍贯身高体重什么的一概不限。
+场地：清华校内
+

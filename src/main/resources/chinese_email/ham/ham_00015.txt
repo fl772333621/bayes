@@ -1,0 +1,22 @@
+Return-Path: <xue@cernet.edu.cn>
+Received: from bbbthreeb (tu203022.ip.tsinghua.edu.cn [166.111.203.22])
+	(authenticated bits=0)
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id j0CBeAhn016770
+	for <li@ccert.edu.cn>; Wed, 12 Jan 2005 19:40:11 +0800 (CST)
+Message-ID: <001401c4f89b$8ecd3910$16cb6fa6@bbbthreeb>
+From: "xue" <xue@cernet.edu.cn>
+To: li@ccert.edu.cn
+References: <000501c4f88c$74d2f9f0$18cb6fa6@CCERTDAWEI>
+Subject: =?gb2312?B?ofEgztK4w7+8xMS49tGn0KOjvw==?=
+Date: Wed, 12 Jan 2005 19:40:10 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_000A_01C4F8DE.873C4A40"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2800.1409
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1409
+X-UIDL: #)=!!WN2"!??%!!3Hh"!
+
+我是03年毕业，金属材料专业，去年考过一次，报哈工大，准备的不好，刚300+分，但是英语被卡。今年决心再来一次，一直在准备清华的专业课，但是现在越来越没信心，感觉专业课好难，又没人可以请教。我大学读一所普通院校，本来学的就不怎么好，差点连学位都没有，听说复试的时候导师对本科出身以及本科成绩都很在意，担心啊。而且还要考数学一，唉，我今年26了，想考清华就是为了争口气，我要比同学晚3年才能读研啊，或许也有虚荣心的原因。但是现在是不是该放弃？？是不是该现实一点继续考哈工大？毕竟我的英语还很弱，我也没有多少时间可以去赌。
+

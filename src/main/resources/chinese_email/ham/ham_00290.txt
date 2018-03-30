@@ -1,0 +1,25 @@
+Return-Path: <guo@rbl.ccert.edu.cn>
+Received: from rbl.ccert.edu.cn (rbl.ccert.edu.cn [202.112.57.71])
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id i97AwPSN018791
+	for <yana@ccert.edu.cn>; Thu, 7 Oct 2004 18:58:25 +0800 (CST)
+Received: from rbl.ccert.edu.cn (localhost.localdomain [127.0.0.1])
+	by rbl.ccert.edu.cn (8.12.11/8.12.11) with ESMTP id i97B4Oor000960
+	for <yana@ccert.edu.cn>; Thu, 7 Oct 2004 19:04:25 +0800
+Received: (from qa@localhost)
+	by rbl.ccert.edu.cn (8.12.11/8.12.11/Submit) id i97B4OjD000959;
+	Thu, 7 Oct 2004 19:04:24 +0800
+Date: Thu, 7 Oct 2004 19:04:24 +0800
+Message-Id: <200410071104.i97B4OjD000959@rbl.ccert.edu.cn>
+Subject: =?gb2312?B?UmU6IMjD19SxsCC6ptDfIL301cUgtajH0yDT787ewte0ziDNs82zvPu57cilsMk=?=
+To: yana@ccert.edu.cn
+From: Tran Quang Anh <guo@cernet.edu.cn>
+Content-Type: multipart/mixed; boundary="----------=_1097147065-996-878"
+MIME-Version: 1.0
+X-UIDL: ~'H"!ZW]!!<+>"!_,h!!
+
+上高中时有关时间觉得我们的女老师不错，有短时间不由自主地神往某些事情，很难控制，那时也不懂什么自我调适措施，只是觉得不合适，就忍住了。估计对俺的心灵有莫大的伤害，心理这东西够麻烦的，自己会跳时就好了。
+: 我，还算优秀。
+: 至少英语说的还流利，至少歌唱的还好，至少会打篮球，至少不算难看，至少还有男生追~~我说这些不是为了炫耀自夸不是为了说明我是多么tmd了不起，我只是自我安慰一下告诉我自己我凭什么要紧张！！！
+: 我上学期的时候都还是一个非常大方自然的女孩。所有的事情都是在这个学期发生的。
+: ...................
+

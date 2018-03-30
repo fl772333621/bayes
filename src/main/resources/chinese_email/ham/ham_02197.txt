@@ -1,0 +1,25 @@
+Return-Path: <guo@rbl.ccert.edu.cn>
+Received: from rbl.ccert.edu.cn (rbl.ccert.edu.cn [202.112.57.71])
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id i98Cj9wn009544
+	for <wei@ccert.edu.cn>; Fri, 8 Oct 2004 20:45:09 +0800 (CST)
+Received: from rbl.ccert.edu.cn (localhost.localdomain [127.0.0.1])
+	by rbl.ccert.edu.cn (8.12.11/8.12.11) with ESMTP id i98CpB8i026719
+	for <wei@ccert.edu.cn>; Fri, 8 Oct 2004 20:51:12 +0800
+Received: (from qa@localhost)
+	by rbl.ccert.edu.cn (8.12.11/8.12.11/Submit) id i98CpBft026718;
+	Fri, 8 Oct 2004 20:51:11 +0800
+Date: Fri, 8 Oct 2004 20:51:11 +0800
+Message-Id: <200410081251.i98CpBft026718@rbl.ccert.edu.cn>
+Subject: =?gb2312?B?UmU6INC0uPjSqszuuN+/vNa+1Li1xMjLw8ejrLzmzLi149DQ0rW/tLeooaM=?=
+To: wei@ccert.edu.cn
+From: Tran Quang Anh <guo@cernet.edu.cn>
+Content-Type: multipart/mixed; boundary="----------=_1097239872-26230-84"
+MIME-Version: 1.0
+X-UIDL: K(j!!TO%!!I&g!!-NW"!
+
+我觉得差不多这样，起码如果看钱景，我知道学电力的绝对不差，啧啧。。。当时选专业老师还说电力工作不好找。看找工作，起码是今年，估计也只有电力部门给的工资能超过宝洁了，后悔？其实也没有了。一个人有一个人的理想，电力部门工资虽然高，但是很多人都还不愿意去，因为工作太枯燥，所以也招不够人了。
+: 现在是这样子
+: 其实如果当时高二高考考个bupt
+: 现在在某动、某通、某信应该已经混的爽歪歪了
+: ...................
+

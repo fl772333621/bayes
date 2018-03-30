@@ -1,0 +1,25 @@
+Return-Path: <jin@tsinghua.edu.cn>
+Received: from huhoo ([166.111.232.81])
+	(authenticated bits=0)
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id i8I25jvd028690;
+	Sat, 18 Sep 2004 10:05:45 +0800 (CST)
+From: "jin" <jin@tsinghua.edu.cn>
+To: guo@ccert.edu.cn
+Subject: =?gb2312?B?UmU6IMfr1qrH6cjLy7XLtbGxvqnA7bmktPPRp73Myum1xLT90/bI57rOo78=?=
+Date: Sat, 18 Sep 2004 10:03:11 +0800
+Message-ID: <010901c49d23$a9c235f0$033270ca@huhoo>
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="utf-8"
+X-Priority: 3 (Normal)
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook, Build 10.0.2627
+Importance: Normal
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1441
+Content-Transfer-Encoding: 8bit
+X-MIME-Autoconverted: from base64 to 8bit by sea.net.edu.cn id i8I25jvd028690
+X-UIDL: #-`!!I\g"!XR0"!mX2!!
+
+: 不止啊。博士过去一般是6级岗，岗贴就2W呢。加上其他的，一年有4w多（去除了住房公积金等等）。
+上当了吧：）今年博士没的2W了，好像1。4W了，10W也不是那么好拿的，分学校和课题组好几部分，课题组没钱就没10W。而且老实说现在理工的考核真是有点变态，如果进的课题组不对的话就几乎不可能完成工作量，而且现在新进的老师很难有课上了，因为所有人都在拼命张自己的工作量，要不然最后会被扣工资的。有的老师据说一年竟然被扣1W，而且可以说大部分老师都完不成，当然如果课题组有钱的话会给你补齐，但是，前提是课题组要有钱。另外理工的军工课题大部分都是纵向课题，课题经费的管理极其严格，有的看上去钱很多但很难花。现在北京高校是越来越拿年轻老师不当人待，最终的结果就是这些老师要么成神，要么就现形走人。
+

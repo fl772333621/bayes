@@ -1,0 +1,56 @@
+Return-Path: <ye@ccert.edu.cn>
+Received: from tsinghua.org.cn ([210.77.143.231])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id j0595FLI002362
+	for <tao@ccert.edu.cn>; Wed, 5 Jan 2005 17:05:16 +0800
+Received: (eyou send program); Wed, 05 Jan 2005 16:59:00 +0800
+Received: (eyou send program); Wed, 05 Jan 2005 16:59:00 +0800
+X-EYOU-ORIGINAL-IP: 210.77.143.235
+X-EYOU-ENVELOPE-MAILFROM: starry@ccert.edu.cn
+Received: from unknown (HELO eyou.net) (unknown@210.77.143.235)
+ by 210.77.143.231 with SMTP; Wed, 05 Jan 2005 16:59:00 +0800
+Received: (eyou send program); Wed, 05 Jan 2005 17:13:08 +0800
+Message-ID: <304916388.18502@eyou.net>
+Received: from 166.111.8.16 by 210.77.143.235 with SMTP; Wed, 05 Jan 2005 17:13:03 +0800
+Received: (eyou send program); Wed, 05 Jan 2005 17:14:08 +0800
+Message-ID: <304916448.00576@mails.tsinghua.edu.cn>
+Received: (eyou send program); Wed, 05 Jan 2005 17:14:07 +0800
+Message-ID: <304916447.04343@mails.tsinghua.edu.cn>
+Received: from unknown (HELO mails.tsinghua.edu.cn) (unknown@127.0.0.1)
+ by 127.0.0.1 with SMTP; Wed, 05 Jan 2005 17:14:07 +0800
+X-scanvirus: By Symantec Scan Engine
+X-scanresult: CLEAN
+X-Received: ccert.edu.cn,202.112.57.12,20050105171406
+Received: from ccert.edu.cn (HELO home.ccert.edu.cn) (202.112.57.12)
+  by localhost with SMTP; 5 Jan 2005 09:14:06 -0000
+Received: from home.ccert.edu.cn (localhost [127.0.0.1])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id j058UllJ031039;
+	Wed, 5 Jan 2005 16:30:47 +0800
+Received: (from majordomo@localhost)
+	by home.ccert.edu.cn (8.13.1/8.13.1/Submit) id j058UlOE031038;
+	Wed, 5 Jan 2005 16:30:47 +0800
+X-Authentication-Warning: home.ccert.edu.cn: majordomo set sender to owner-ccert_forum using -f
+Received: from starry ([202.112.50.10])
+	(authenticated bits=0)
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id j058UVSk031016;
+	Wed, 5 Jan 2005 16:30:35 +0800
+Message-Id: <200501050830.j058UVSk031016@home.ccert.edu.cn>
+Date: Wed, 5 Jan 2005 16:44:54 +0800
+From: "ye" <ye@ccert.edu.cn>
+To: tao@ccert.edu.cn
+Cc: "ccert_forum" <huang@ccert.edu.cn>
+Subject: =?gb2312?B?UmU6IL+80dDV5srHutqwtQ==?=
+X-mailer: Foxmail 5.0 [cn]
+Mime-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: 8bit
+X-MIME-Autoconverted: from base64 to 8bit by home.ccert.edu.cn id j058UaSk031027
+Sender: owner-ccert_forum@home.ccert.edu.cn
+Precedence: bulk
+X-UIDL: 8)m"!kHH!!-L_!!7XM!!
+
+: 复旦经济学院今年复试线365，但是就有一个人340就参加复试了。
+: 有个学生去研招办查了一下复试名单的排名，好说歹说才给看，结果正好那学生看见最后一名是340分，研招办的人还想用手捂住没来得及。这个学生就问340分的怎么就参加复试。结果研招办的人只丢了一句：你管这么多干嘛，你参加复试了不就行了。
+: 呵呵，里面的黑暗面是人都可想而知啦。
+我知道一个女生，因为长得不好看，虽然笔试成绩最好，复试中表现也很好，但是二个导师都不愿意带她，就被涤汰了。
+

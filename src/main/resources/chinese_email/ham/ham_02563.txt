@@ -1,0 +1,55 @@
+Return-Path: <zeng@mails.tsinghua.edu.cn>
+Received: from tsinghua.org.cn ([210.77.143.231])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id j0L2MwlB006137
+	for <yun@ccert.edu.cn>; Fri, 21 Jan 2005 10:22:59 +0800
+Received: (eyou send program); Fri, 21 Jan 2005 10:13:35 +0800
+Received: (eyou send program); Fri, 21 Jan 2005 10:13:35 +0800
+X-EYOU-ORIGINAL-IP: 210.77.143.235
+X-EYOU-ENVELOPE-MAILFROM: toefl-bounces@server.cool-meeting.com
+Received: from unknown (HELO eyou.net) (unknown@210.77.143.235)
+ by 210.77.143.231 with SMTP; Fri, 21 Jan 2005 10:13:35 +0800
+Received: (eyou send program); Fri, 21 Jan 2005 10:27:25 +0800
+Message-ID: <306274445.23544@eyou.net>
+Received: from 202.38.99.65 by 210.77.143.235 with SMTP; Fri, 21 Jan 2005 10:27:22 +0800
+Received: from server.cool-meeting.com (localhost.localdomain [127.0.0.1])
+	by server.cool-meeting.com (8.12.8/8.12.8) with ESMTP id j0L0iAvA014943
+	for <yun@ccert.edu.cn>; Fri, 21 Jan 2005 08:44:15 +0800
+Received: from mails.tsinghua.edu.cn (mails.tsinghua.edu.cn [166.111.8.16])
+	by server.cool-meeting.com (8.12.8/8.12.8) with SMTP id j0L0i4uL014940
+	for <yun@ccert.edu.cn>; Fri, 21 Jan 2005 08:44:04 +0800
+Received: (eyou send program); Fri, 21 Jan 2005 10:32:15 +0800
+Message-ID: <306274735.18546@mails.tsinghua.edu.cn>
+Received: from 202.112.50.72 by mails.tsinghua.edu.cn with HTTP;
+	Fri, 21 Jan 2005 10:32:15 +0800
+X-WebMAIL-MUA: [202.112.50.72]
+From: "zeng" <zeng@mails.tsinghua.edu.cn>
+To: yun@ccert.edu.cn
+Date: Fri, 21 Jan 2005 10:32:15 +0800
+X-Priority: 3
+Subject: Re: [TOEFL] Email address changing
+Content-Type: text/plain
+Cc: he@ccert.edu.cn
+X-BeenThere: toefl@server.cool-meeting.com
+X-Mailman-Version: 2.1.2
+Precedence: list
+Reply-To: shaoxiaoxin <zeng@mails.tsinghua.edu.cn>
+List-Id: &#26446;&#26143;&#21644;&#20182;&#30340;&#23398;&#29983;&#20204;
+	<toefl.server.cool-meeting.com>
+List-Unsubscribe: <http://server.cool-meeting.com/mailman/listinfo/toefl>,
+	<mailto:toefl-request@server.cool-meeting.com?subject=unsubscribe>
+List-Archive: <http://server.cool-meeting.com/mailman/private/toefl>
+List-Post: <mailto:toefl@server.cool-meeting.com>
+List-Help: <mailto:toefl-request@server.cool-meeting.com?subject=help>
+List-Subscribe: <http://server.cool-meeting.com/mailman/listinfo/toefl>,
+	<mailto:toefl-request@server.cool-meeting.com?subject=subscribe>
+Sender: toefl-bounces@server.cool-meeting.com
+Errors-To: toefl-bounces@server.cool-meeting.com
+X-UIDL: kan"!9#K!!PL/!!<^3"!
+
+不如直接说清楚,反正也离婚了,就赶快分开算了
+不然离了婚,还要吃醋
+: 今天早上我们吃完饭就去家旁边的俱乐部打球了。这是这么多年来他第一次陪我打乒乓球，在打球以前他手机响了，他和我说要接个电话就躲出去接了，当时我也没多心。
+: 我们玩儿得很开心，他边玩边和我讲以后的发展，因为最近一年公司派他到外地做区域经理了，他和我说打算做两年就回来。存点钱和我一起开公司或者做个小生意，然后过这种周末能一起运动放松的生活。
+: 打完球我们去吃饭，他和我说下午走，回家后让我帮他整理行李。我边干活他边和我聊天，这时候又接了一个电话，他去客厅接的，还开了电视。这时候我开始想昨天和今天网友的回帖，觉得这两个电话不大对头。
+: ...................
+

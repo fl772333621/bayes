@@ -1,0 +1,45 @@
+Return-Path: <mei@rbl.ccert.edu.cn>
+Received: from rbl.ccert.edu.cn (rbl.ccert.edu.cn [202.112.57.71])
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id i91CitXN005157
+	for <yun@ccert.edu.cn>; Fri, 1 Oct 2004 20:44:55 +0800 (CST)
+Received: from rbl.ccert.edu.cn (localhost.localdomain [127.0.0.1])
+	by rbl.ccert.edu.cn (8.12.11/8.12.11) with ESMTP id i91CoZ6w010097
+	for <yun@ccert.edu.cn>; Fri, 1 Oct 2004 20:50:35 +0800
+Received: (from qa@localhost)
+	by rbl.ccert.edu.cn (8.12.11/8.12.11/Submit) id i91CoZRt010096;
+	Fri, 1 Oct 2004 20:50:35 +0800
+Date: Fri, 1 Oct 2004 20:50:35 +0800
+Message-Id: <200410011250.i91CoZRt010096@rbl.ccert.edu.cn>
+Subject: =?gb2312?B?UmU6IM7SyLfKtc/rxde8uLj2se/By7rcvsO1xM7KzOKz9sC0o6E=?=
+To: yun@ccert.edu.cn
+From: Tran Quang Anh <mei@cernet.edu.cn>
+Content-Type: multipart/mixed; boundary="----------=_1096635035-996-296"
+MIME-Version: 1.0
+X-UIDL: P(%"!3'E!!~P@!!g*&!!
+
+: 标  题: 我确实想抛几个憋了很久的问题出来！
+: 发信站: 水木社区 (Wed Jun 15 22:02:19 2005), 站内
+: 
+: 可能有人问过，再讨论讨论吧
+: 
+: 1. 现在出现在各种媒体上（正规渠道）的招聘信息，真实度究竟有多大？（平均而言）
+还行.不过国内的虚假的也不少
+: 
+: 2. 一定要是在短时间内做出精确反应（或给出精确答案）的人才受面试官青睐吗？
+: 
+不是.看职位要求.有的职位,你利马说出答案的话,肯定没系. 
+: 3. 以较高的qualification去申请较低要求的工作，是不是一种极大的错误？
+: 
+不一定.有上交cs研究生毕业去做外贸采购的,那个是一个大专的职位.这个人是想换方向
+做.在那个台湾公司他做了1年(月薪1500),现在是某跨国公司的外贸采购主管.升值很快.
+: 4. 对着面试官，到底应该展现完全真实的自我，还是应该戴起面具？
+: 
+面具
+: 
+: 谢谢
+: 
+: 
+: --
+: 
+: ※ 来源:·水木社区 http://newsmth.net·[FROM: 219.135.227.*]
+

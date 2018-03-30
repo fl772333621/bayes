@@ -1,0 +1,42 @@
+Return-Path: <zhu@mails.tsinghua.edu.cn>
+Received: from mails.tsinghua.edu.cn (mails.tsinghua.edu.cn [166.111.8.16])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j092qdvj015953
+	for <tao@ccert.edu.cn>; Sun, 9 Jan 2005 10:52:39 +0800 (CST)
+Received: (eyou send program); Sun, 09 Jan 2005 10:47:10 +0800
+Message-ID: <305238830.24162@mails.tsinghua.edu.cn>
+Received: from unknown (HELO mails.tsinghua.edu.cn) (unknown@127.0.0.1)
+ by 127.0.0.1 with SMTP; Sun, 09 Jan 2005 10:47:10 +0800
+X-scanvirus: By Symantec Scan Engine
+X-scanresult: CLEAN
+X-Received: tu172250.ip.tsinghua.edu.cn,166.111.172.250,20050109104706
+Received: from tu172250.ip.tsinghua.edu.cn (HELO yfzy) (yang.feng00@166.111.172.250)
+  by localhost with SMTP; 9 Jan 2005 02:47:06 -0000
+Message-ID: <001001c4f5f6$65afda80$faac6fa6@yfzy>
+From: "zhu" <zhu@mails.tsinghua.edu.cn>
+To: tao@ccert.edu.cn
+References: <001e01c4f4a9$27d1ae80$15cb6fa6@ccertspark> <305192741.29836@mails.tsinghua.edu.cn>
+Subject: =?gb2312?B?ofEgyc+6o8C8se213b270MXPojTM9SAo16rU2Ck=?=
+Date: Sun, 9 Jan 2005 10:53:26 +0800
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2600.0000
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2600.0000
+Content-Transfer-Encoding: 8bit
+X-MIME-Autoconverted: from base64 to 8bit by sea.net.edu.cn id j092qdvj015953
+X-UIDL: 6AZ"!SiW"!"O_"!lW+!!
+
+【 以下文字转载自 Career 讨论区 】
+发信人: littlegrape (小葡萄), 信区: Career
+标  题: 上海兰表递交信息4条
+发信站: 水木社区 (Mon Jun  6 13:30:03 2005), 站内
+gg今天去了一趟上海就业指导中心，问了大家自己提交兰表的一些问题，现统
+一回答。
+第一、三方协议中任何一张都可以，最好把公司联交上去，个人的留着自己备用比
+较好。
+第二、不能直接邮寄到就业中心，必须有人待办
+第三、奖学金、清华水平1 2都没有用，复印件直接退出窗口
+第四、成绩单注册中心的章可以用 不按学期分也是可以的
+

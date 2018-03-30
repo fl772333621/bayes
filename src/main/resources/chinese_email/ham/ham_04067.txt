@@ -1,0 +1,26 @@
+Return-Path: <hou@rbl.ccert.edu.cn>
+Received: from rbl.ccert.edu.cn (rbl.ccert.edu.cn [202.112.57.71])
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id i9BLP9vR010770
+	for <wua@ccert.edu.cn>; Tue, 12 Oct 2004 05:25:09 +0800 (CST)
+Received: from rbl.ccert.edu.cn (localhost.localdomain [127.0.0.1])
+	by rbl.ccert.edu.cn (8.12.11/8.12.11) with ESMTP id i9BLUVWe021026
+	for <wua@ccert.edu.cn>; Tue, 12 Oct 2004 05:30:31 +0800
+Received: (from qa@localhost)
+	by rbl.ccert.edu.cn (8.12.11/8.12.11/Submit) id i9BLUVNR021025;
+	Tue, 12 Oct 2004 05:30:31 +0800
+Date: Tue, 12 Oct 2004 05:30:31 +0800
+Message-Id: <200410112130.i9BLUVNR021025@rbl.ccert.edu.cn>
+Subject: =?gb2312?B?UmU6ILqjte25q7mysLLIq7nd1NrExMDvo78=?=
+To: wua@ccert.edu.cn
+From: Tran Quang Anh <hou@cernet.edu.cn>
+Content-Type: multipart/mixed; boundary="----------=_1097530231-1014-132"
+MIME-Version: 1.0
+X-UIDL: VVK"!5>4!!nRY"!Y>B"!
+
+google一下，在海淀展览馆地下
+海淀展览馆位于北京市西北四环万泉河立交桥西北角，地处中关村科技园区中心地区、与清华、北大、中科院毗邻，北近颐和园、圆明园、西眺香山风景区。地理位置优越，周边商业环境繁华，交通迅捷便利。展馆是海淀公园的组成部分，是北京西北地区唯一的绿色园林式会展中心。
+: 今天看报纸，看到了有关海淀公共安全馆的介绍，在里面可以体验到很多有趣的灾难现场，可以学习如何自救，等等。感觉很有意思。现在体验免费，但需要网上注册或现场注册。
+: 不知道海淀公共安全馆地址在哪里？怎么做车去呢？
+: 如何注册呀？网址在哪里呢？
+: ...................
+

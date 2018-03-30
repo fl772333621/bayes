@@ -1,0 +1,37 @@
+Return-Path: <luo@home.ccert.edu.cn>
+Received: from home.ccert.edu.cn (localhost [127.0.0.1])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id j0KD4Zgw002378;
+	Thu, 20 Jan 2005 21:04:35 +0800
+Received: (from majordomo@localhost)
+	by home.ccert.edu.cn (8.13.1/8.13.1/Submit) id j0KD4Zjl002377;
+	Thu, 20 Jan 2005 21:04:35 +0800
+X-Authentication-Warning: home.ccert.edu.cn: majordomo set sender to owner-ccertstaff using -f
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id j0KD4Yjs002373
+	for <lai@ccert.edu.cn>; Thu, 20 Jan 2005 21:04:34 +0800
+Received: from WHITESNOW (tu203022.ip.tsinghua.edu.cn [166.111.203.22])
+	(authenticated bits=0)
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id j0KDGGCb003013
+	for <lai@ccert.edu.cn>; Thu, 20 Jan 2005 21:16:17 +0800 (CST)
+Message-ID: <001401c4fef2$4789cb10$16cb6fa6@WHITESNOW>
+From: "luo" <luo@cernet.edu.cn>
+To: lai@ccert.edu.cn
+Subject: =?gb2312?B?UmU6ILK7tq6woaO6IMWuuqLX08rHsrvKx7a8sci9z8O709CwssiruNCjrNKq1dLIy9LAv7+jvw==?=
+Date: Thu, 20 Jan 2005 21:16:35 +0800
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="----=_NextPart_000_000F_01C4FF35.527D00D0"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2900.2180
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+Sender: owner-ccertstaff@home.ccert.edu.cn
+Precedence: bulk
+X-UIDL: HQl"!nm-!!>&B"!@UY"!
+
+按照你这种讲法，岂不是 有了GG后，则更不安全了？
+: 你是男生？恩，可以考虑一下安全是个什么概念
+: 物质的安全：不担心失业，不担心没地方住，不担心吃了上顿没下顿，不担心生了病没钱治病……
+: 忠诚的安全：不用担心你在外面花天酒地，不用担心你在外面左拥右抱，不用担心你的qq和msn上有不可见人对话，不用担心你的电话接不通或者关机的时候你会做对不起她的事情
+: ...................
+

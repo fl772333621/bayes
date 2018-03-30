@@ -1,0 +1,38 @@
+Return-Path: <zhu@home.ccert.edu.cn>
+Received: from home.ccert.edu.cn (localhost [127.0.0.1])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id i9DBFNtu025146;
+	Wed, 13 Oct 2004 19:15:23 +0800
+Received: (from majordomo@localhost)
+	by home.ccert.edu.cn (8.13.1/8.13.1/Submit) id i9DBFN40025145;
+	Wed, 13 Oct 2004 19:15:23 +0800
+X-Authentication-Warning: home.ccert.edu.cn: majordomo set sender to owner-ccertstaff using -f
+Received: from ns.6test.edu.cn (ns.6test.edu.cn [202.112.54.2])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id i9DBFMfO025141
+	for <zheng@ccert.edu.cn>; Wed, 13 Oct 2004 19:15:23 +0800
+Received: from [210.25.128.109] (helo=tsinghua89o1rm)
+	by ns.6test.edu.cn with asmtp (Exim 4.12)
+	id 1CHhd9-0009yq-00
+	for ccertstaff@ccert.edu.cn; Wed, 13 Oct 2004 19:49:19 +0800
+Message-ID: <002801c4b117$7665e550$6d8019d2@tsinghua89o1rm>
+From: "zhu" <zhu@ns.6test.edu.cn>
+To: zheng@ccert.edu.cn
+Subject: =?gb2312?B?UmU6IHJ1bzIwMDW9473jx+PH6bfuz9ejrLnY09rJz9bc1ffIy8mxyMuzqrjotcS747Go?=
+Date: Wed, 13 Oct 2004 19:25:50 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0025_01C4B15A.7297CAE0"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2600.0000
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2600.0000
+Sender: owner-ccertstaff@home.ccert.edu.cn
+Precedence: bulk
+X-UIDL: :I4!!Z`:"!Zc("!CZ7"!
+
+        So 强
+        赞
+: 同志们，朋友们：
+:     大家下午好！今天很高兴大家能欢聚一堂，听俺做这个征友汇报。上周日下午，俺在这里发贴子征集了一批孩子去同一首歌杀人唱歌，今天就给大家做个汇报。总的来说，这次聚会是个成功的聚会，团结的聚会，先进的聚会。在此，俺代表组织中央，代表全体组织人员，向大家发
+:     我们八个革命同志，本着男女搭配干活不累的原则，精简了活动队伍，调整了男女配比，四男四女的性别比例是俺们活动成功的前提条件。在此后很长一段时间内，我们将坚持这个原则，一百天不变。
+: ...................
+

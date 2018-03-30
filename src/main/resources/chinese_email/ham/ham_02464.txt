@@ -1,0 +1,25 @@
+Return-Path: <yun@rbl.ccert.edu.cn>
+Received: from rbl.ccert.edu.cn (rbl.ccert.edu.cn [202.112.57.71])
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id i9D4Pq5D003189
+	for <chi@ccert.edu.cn>; Wed, 13 Oct 2004 12:25:56 +0800 (CST)
+Received: from rbl.ccert.edu.cn (localhost.localdomain [127.0.0.1])
+	by rbl.ccert.edu.cn (8.12.11/8.12.11) with ESMTP id i9D4VLR4017474
+	for <chi@ccert.edu.cn>; Wed, 13 Oct 2004 12:31:21 +0800
+Received: (from qa@localhost)
+	by rbl.ccert.edu.cn (8.12.11/8.12.11/Submit) id i9D4VLjR017473;
+	Wed, 13 Oct 2004 12:31:21 +0800
+Date: Wed, 13 Oct 2004 12:31:21 +0800
+Message-Id: <200410130431.i9D4VLjR017473@rbl.ccert.edu.cn>
+Subject: =?gb2312?B?UmU6INC0uPjSqszuuN+/vNa+1Li1xMjLw8ejrLzmzLi149DQ0rW/tLeooaM=?=
+To: chi@ccert.edu.cn
+From: Tran Quang Anh <yun@cernet.edu.cn>
+Content-Type: multipart/mixed; boundary="----------=_1097641881-20086-12"
+MIME-Version: 1.0
+X-UIDL: iGF!!fFc!!?Nd!!"<9!!
+
+热门学校热门专业再加上北京上海肯定是首选，这没什么好说的，不要说什么北邮上财比清华的电子北大的光华还好混，明白人都知道。如果是最好的学校，但是专业稍差，比如清华的机械，或者学校稍差，专业热门，复旦的金融，也都不错。如果专业或学校要更差了，那就不如选个好专业来得实惠，去北邮学通信或者上财，中财学金融，毕竟这样的学校门槛不会太高，性价比好，总比去南大学个物理强。
+: 看那么多人问，很想跟大家一起探讨一下，欢迎拍砖，当然，反对谩骂。
+: 感觉这个东西跟job很有关系，好的学校加专业是找到一个好工作的开始，所以发在这，希望斑竹别珊。
+: 读了四年，考了半年研，找了半年工作的一些感想。
+: ...................
+

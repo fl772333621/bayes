@@ -1,0 +1,18 @@
+Return-Path: <han@126.com>
+Received: from 126.com ([220.176.161.151])
+	by home.ccert.edu.cn (MIMEDefang) with ESMTP id NOQUEUE
+	for <xing@ccert.edu.cn>; Tue, 21 Jun 2005 03:11:57 +0800 (CST)
+Message-ID: <200506210311.0.29230421228996@home.ccert.edu.cn>
+From: =?GB2312?B?1tC7qtS0wuu/4g==?= <han@126.com>
+Subject: =?gb2312?B?1tC5+tfutPO1xNS0wuvPwtTYu/m12C0tLdbQu6rUtMLrv+I=?=
+To: xing@ccert.edu.cn
+Content-Type: text/plain;charset="GB2312"
+Content-Transfer-Encoding: 8bit
+Reply-To: han@126.com
+Date: Tue, 21 Jun 2005 03:29:49 +0800
+X-Priority: 3
+X-Mailer: Microsoft Outlook Express 5.00.2919.6700
+
+中国最全最大的源码下载基地，有兴趣的朋友可以看看
+网址:http://www.codek.cn 里面有1W6千多个源码下载
+

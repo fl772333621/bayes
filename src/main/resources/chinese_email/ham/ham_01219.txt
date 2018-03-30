@@ -1,0 +1,48 @@
+Return-Path: <hong@rbl.ccert.edu.cn>
+Received: from rbl.ccert.edu.cn (rbl.ccert.edu.cn [202.112.57.71])
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id i97IsOYb024330
+	for <fu@ccert.edu.cn>; Fri, 8 Oct 2004 02:54:24 +0800 (CST)
+Received: from rbl.ccert.edu.cn (localhost.localdomain [127.0.0.1])
+	by rbl.ccert.edu.cn (8.12.11/8.12.11) with ESMTP id i97J0Oon025637
+	for <fu@ccert.edu.cn>; Fri, 8 Oct 2004 03:00:25 +0800
+Received: (from qa@localhost)
+	by rbl.ccert.edu.cn (8.12.11/8.12.11/Submit) id i97J0Ouh025636;
+	Fri, 8 Oct 2004 03:00:24 +0800
+Date: Fri, 8 Oct 2004 03:00:24 +0800
+Message-Id: <200410071900.i97J0Ouh025636@rbl.ccert.edu.cn>
+Subject: =?gb2312?B?ofEguN/QvbPPxrjH5buqv7zR0NfJ0a/UsQ==?=
+To: fu@ccert.edu.cn
+From: Tran Quang Anh <hong@cernet.edu.cn>
+Content-Type: multipart/mixed; boundary="----------=_1097175625-1044-74"
+MIME-Version: 1.0
+X-UIDL: j2E"!p25"!Y/b"!:&D!!
+
+考研梦http://www.kaoyanmeng.com/招聘考研咨询员。
+ ——应聘条件：
+1. 清华大学硕士研究生，或者已经被录取即将入学读研的，需参加过研究生入学考试的。
+2. 能长期工作一到两年，寒暑假除外。上网较方便，要求每周至少上两次网。
+3. 能向中心提供本专业考研专业课的笔记和近几年的专业课真题等专业课资料。——如果中在一年内没有为咨询员提供客户，退还全部资料！
+4. 有高度的责任心，自我驱动(Self-drive)。
+——工作性质
+1. 为注册到相应院系的同学提供考研复习建议、疑难解答（不需具体解题）、复试指导、推荐导师；(寒暑假不需工作)
+2. 主要通过论坛，一周三小时左右（依你辅导的人数而定）。
+你将获得的报酬
+初试每辅导一人将获得180元，复试每辅导一人将获得100元。全程辅导每辅导一人将获得250元。
+这在同类网站里不管是实际得到的报酬还是占得会员费的比例基本都是最高的。
+为保证咨询员的利益，每个系只召一到两名。从速！
+有意者请填写下面内容，站内发信或者发到king_0108@163.com
+[个人简介]
+姓名：                                 性别：
+目前学校：                             专业：
+年级：                                 出生日期：  
+本科学校及专业：
+考研成绩（具体）：
+专业课包含科目：
+能向中心提供的资料（如实填写）：
+[联系方式]
+固定电话：                               手机：
+常用Email：                                QQ：
+地址：                                     邮编：
+[学校专业介绍]请务必介绍您所在的专业近两年的报考人数和录取人数（不算保送生）的大致数字、录取分数线；以及您的专业或者院系在学校里的情况（请和同校其他的院系或者异校相同的院系相比较 ）              
+                      
+

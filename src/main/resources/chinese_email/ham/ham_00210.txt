@@ -1,0 +1,34 @@
+Return-Path: <mei@tsinghua.edu.cn>
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id i8TGQpus012984
+	for <lv@ccert.edu.cn>; Thu, 30 Sep 2004 00:26:51 +0800 (CST)
+Received: (eyou send program); Thu, 30 Sep 2004 00:12:36 +0800
+Message-ID: <296474356.05040@mail.tsinghua.edu.cn>
+Received: from unknown (HELO mail.tsinghua.edu.cn) (unknown@127.0.0.1)
+ by 127.0.0.1 with SMTP; Thu, 30 Sep 2004 00:12:36 +0800
+X-scanvirus: By Symantec Scan Engine
+X-scanresult: CLEAN
+Received: (eqmail ); 29 Sep 2004 16:12:34 -0000
+Received: from unknown (HELO huhoo) (duanhx@166.111.232.114)
+  by localhost with SMTP; 29 Sep 2004 16:12:34 -0000
+From: "mei" <mei@tsinghua.edu.cn>
+To: lv@ccert.edu.cn
+Subject: =?gb2312?B?UmU6IL+0wcsi0arA4cq3IizQtNC019S8uszhuam49s/gt7S1xLLOv7ywyQ==?=
+Date: Thu, 30 Sep 2004 00:24:09 +0800
+Message-ID: <001401c4a640$c087cea0$72e86fa6@huhoo>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0015_01C4A683.CEAB0EA0"
+X-Priority: 3 (Normal)
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook, Build 10.0.6626
+X-MIMEOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+Importance: Normal
+X-UIDL: d\e"!>U1"!/Xk!!ZU~!!
+
+赞，＋U，兄弟~
+:     04年毕业以后一直准备考研，压根儿就没考虑过找工作的事情，在这里先反省一下：）2月18日回到北京，想想等成绩蛮无聊的，就跑工体，农展馆转了转。才发现面向社会的大型招聘会根本就不适合大学毕业生，最多的就是保险公司，其他的企业招聘对象也多是中专生。有的企�
+:     2月20日在前程无忧的报纸上边看到了一家大型合资企业的招聘，专业不是很对口，而且还要求硕士学历，英语6级或者日语2级，我都没有。抱着试试看的心情，在公司的网站上填写了表格，之后就忘了它，暂且记做“公司S”。
+:     后来考研成绩出来发现没能录取，才开始着手找工作，参加了在清华，北大，人大的招聘会，总计投递简历6份;后来在chinahr,51job等网站上搜索了一些公司，一一投了简历。
+: ...................
+

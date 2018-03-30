@@ -1,0 +1,27 @@
+Return-Path: <tao@ccert.edu.cn>
+Received: from tsinghua-5bcc83 (1hl-14s.tsinghua.edu.cn [166.111.248.15])
+	(authenticated bits=0)
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id j5NNThaZ026565
+	for <xue@ccert.edu.cn>; Fri, 24 Jun 2005 07:29:48 +0800
+Message-Id: <200506232329.j5NNThaZ026565@home.ccert.edu.cn>
+Date: Fri, 24 Jun 2005 07:49:56 +0800
+From: "tao" <tao@ccert.edu.cn>
+To: xue@ccert.edu.cn
+Subject: =?gb2312?B?UmU6IM7Sv7ShttL4ys6htw==?=
+X-mailer: Foxmail 5.0 [cn]
+Disposition-Notification-To: "=?GB2312?B?va/OtcjZ?=" <jwr@ccert.edu.cn>
+Mime-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+X-StampID: O59ea087c441e1def20f3d58191788123
+Content-Transfer-Encoding: 8bit
+X-MIME-Autoconverted: from base64 to 8bit by home.ccert.edu.cn id j5NNThaZ026565
+X-UIDL: ?a"#!7#j"!63!#!&ff!!
+
+发现近一年以来从《小说月报》上刊登的小说改编而成的电影很红啊
+从天下无贼到心急吃不了热豆腐到银饰
+:     《银饰》，导演：黄建中，主演：孟尧（饰碧兰）、谷洋（饰小银匠）、严顺开（饰老银匠）、王同辉（饰吕少爷）、王庆祥（饰吕老爷），音像发行：中凯。
+:     上周末跑到人大的八百人大去看一场电影——《银饰》，过了把学生瘾。故事讲的是县知事吕老爷的大儿子吕少爷是个同性恋，尤好银饰，大儿媳碧兰自16岁嫁到吕家，直到23岁丈夫都没有碰他一下。受不了这种压抑生活的碧兰试图用砒霜毒死丈夫和自己，但小银匠代买的砒霜实
+:     看之前就听说这部片子颇有争议。我个人倒没有认为这是一部色情片，虽然剧中有大量的淫靡之音。《银饰》在更大程度上是反映在封建旧家庭下的被压抑的人性和欲望。和黄建中前年的《大鸿米店》风格相近，但没有那么灰暗。主题和《雷雨》很接近，但是深度上还差很多。
+: ...................
+

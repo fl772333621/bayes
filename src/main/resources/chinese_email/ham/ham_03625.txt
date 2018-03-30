@@ -1,0 +1,45 @@
+Return-Path: <ye@home.ccert.edu.cn>
+Received: from home.ccert.edu.cn (localhost [127.0.0.1])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id iB17YPI3020680;
+	Wed, 1 Dec 2004 15:34:25 +0800
+Received: (from majordomo@localhost)
+	by home.ccert.edu.cn (8.13.1/8.13.1/Submit) id iB17YPkE020679;
+	Wed, 1 Dec 2004 15:34:25 +0800
+X-Authentication-Warning: home.ccert.edu.cn: majordomo set sender to owner-ccertstaff using -f
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id iB17WuM9020643;
+	Wed, 1 Dec 2004 15:32:56 +0800
+Received: from WHITESNOW ([220.207.84.223])
+	(authenticated bits=0)
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id iB17jpuY009400;
+	Wed, 1 Dec 2004 15:45:56 +0800 (CST)
+Message-ID: <002301c4d779$cc07e2a0$df54cfdc@WHITESNOW>
+From: "ye" <ye@cernet.edu.cn>
+To: zhan@ccert.edu.cn
+Cc: <kong@ccert.edu.cn>
+References: <000c01c4d770$3e023ea0$15cb6fa6@ccertspark>
+Subject: =?gb2312?B?UmU6IM7SyLfKtc/rxde8uLj2se/By7rcvsO1xM7KzOKz9sC0o6E=?=
+Date: Wed, 1 Dec 2004 15:45:49 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0020_01C4D7BC.D47AD620"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2900.2180
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+Sender: owner-ccertstaff@home.ccert.edu.cn
+Precedence: bulk
+X-UIDL: \CZ!!CUh"!]f8"!&Ja!!
+
+我的答案：
+1.一半对一半，因为那些同时在单位内部招聘的就不算了
+2.这样的标准筛选人才我真的不敢苟同，但是也没办法
+3.除非隐瞒自己的部分经验
+4.我很愿意展现真实的自己，但是事实很让我失望。
+  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+   所以hr们挂在嘴边的话就是，我们不是招最优秀的，而是招最适合的。
+: 挺大的，感觉。
+: 感觉是，不过好像没你说的那么重要吧。
+: yes
+: ...................
+

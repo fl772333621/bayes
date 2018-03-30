@@ -1,0 +1,38 @@
+Return-Path: <guan@home.ccert.edu.cn>
+Received: from home.ccert.edu.cn (localhost [127.0.0.1])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id j0M4Vecr025846;
+	Sat, 22 Jan 2005 12:31:40 +0800
+Received: (from majordomo@localhost)
+	by home.ccert.edu.cn (8.13.1/8.13.1/Submit) id j0M4Veqt025845;
+	Sat, 22 Jan 2005 12:31:40 +0800
+X-Authentication-Warning: home.ccert.edu.cn: majordomo set sender to owner-ccertstaff using -f
+Received: from ccertspark (tu203021.ip.tsinghua.edu.cn [166.111.203.21])
+	(authenticated bits=0)
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id j0M4Vd7H025840
+	for <cheng@ccert.edu.cn>; Sat, 22 Jan 2005 12:31:40 +0800
+Reply-To: <guan@cernet.edu.cn>
+From: "guan" <guan@ccert.edu.cn>
+To: cheng@ccert.edu.cn
+Subject: =?gb2312?B?UmU6IM/gsK61vbfWytY=?=
+Date: Sat, 22 Jan 2005 12:41:39 +0800
+Message-ID: <001801c5003c$aa7d3fe0$15cb6fa6@ccertspark>
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+X-Priority: 3 (Normal)
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook, Build 10.0.6626
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.3790.181
+Importance: Normal
+Content-Transfer-Encoding: 8bit
+X-MIME-Autoconverted: from base64 to 8bit by home.ccert.edu.cn id j0M4Ve7H025843
+Sender: owner-ccertstaff@home.ccert.edu.cn
+Precedence: bulk
+X-UIDL: cK'"!3,$"!!3Z!!"J^!!
+
+cft
+:     终于到了这一天，我从爱恋的纠缠中冷静了下来---宛如从云端跌下，虽然直到此刻我仍不能否认自己对你的感情，但我们毕竟已经从相爱走到了分手......
+:     回忆中有许许多多你的影子，酸甜苦辣的爱的滋味，我们都那么的年轻那么的激动，那么深切的爱着彼此，那么的敏感和不宽容。其实从我和你在一起的第一天开始我就知道我一定会和你分开，心碎的一个人走......
+:     写这些文字，不过是想寻找一个载体让自己倾诉，再从倾诉中平静下来，一切都只是过程，生命是很长很远的路，但我最美好的青春年华的一段是和你一起度过的，我曾爱着你就象爱我自己，你是我心底深刻的烙印，直到我忘记所有温情，激情，深情，多情的思绪.......
+: ...................
+

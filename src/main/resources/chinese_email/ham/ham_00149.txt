@@ -1,0 +1,60 @@
+Return-Path: <qian@ns.6test.edu.cn>
+Received: from tsinghua.org.cn ([210.77.143.228])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id i9J1lXf5003121
+	for <ren@ccert.edu.cn>; Tue, 19 Oct 2004 09:47:37 +0800
+Received: (eyou send program); Tue, 19 Oct 2004 09:58:39 +0800
+Received: (eyou send program); Tue, 19 Oct 2004 09:58:36 +0800
+X-EYOU-ORIGINAL-IP: 202.38.99.65
+X-EYOU-ENVELOPE-MAILFROM: toefl-bounces@server.cool-meeting.com
+Received: from unknown (HELO server.cool-meeting.com) (unknown@202.38.99.65)
+ by 210.77.143.228 with SMTP; Tue, 19 Oct 2004 09:58:36 +0800
+Received: from server.cool-meeting.com (localhost.localdomain [127.0.0.1])
+	by server.cool-meeting.com (8.12.8/8.12.8) with ESMTP id i9J1rcli026870
+	for <ren@ccert.edu.cn>; Tue, 19 Oct 2004 09:53:46 +0800
+Received: from ns.6test.edu.cn ([202.38.99.18])
+	by server.cool-meeting.com (8.12.8/8.12.8) with ESMTP id i9J1rakr026866
+	for <ren@ccert.edu.cn>; Tue, 19 Oct 2004 09:53:36 +0800
+Received: from [210.25.128.109] (helo=tsinghua89o1rm)
+	by ns.6test.edu.cn with asmtp (Exim 4.12) id 1CJjKg-0004qO-00
+	for Toefl@server.cool-meeting.com; Tue, 19 Oct 2004 10:02:38 +0800
+Message-ID: <002e01c4b57d$56173f00$6d8019d2@tsinghua89o1rm>
+From: "qian" <qian@ns.6test.edu.cn>
+To: ren@ccert.edu.cn
+Date: Tue, 19 Oct 2004 09:45:09 +0800
+MIME-Version: 1.0
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2600.0000
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2600.0000
+Cc: 
+Subject: =?gb2312?B?UmU6INChxvi1xMTQxfPT0aOsztK4w9T1w7Sw7KO/ICjXqtTYKQ==?=
+X-BeenThere: toefl@server.cool-meeting.com
+X-Mailman-Version: 2.1.2
+Precedence: list
+List-Id: &#26446;&#26143;&#21644;&#20182;&#30340;&#23398;&#29983;&#20204;
+	<toefl.server.cool-meeting.com>
+List-Unsubscribe: <http://server.cool-meeting.com/mailman/listinfo/toefl>,
+	<mailto:toefl-request@server.cool-meeting.com?subject=unsubscribe>
+List-Archive: <http://server.cool-meeting.com/mailman/private/toefl>
+List-Post: <mailto:toefl@server.cool-meeting.com>
+List-Help: <mailto:toefl-request@server.cool-meeting.com?subject=help>
+List-Subscribe: <http://server.cool-meeting.com/mailman/listinfo/toefl>,
+	<mailto:toefl-request@server.cool-meeting.com?subject=subscribe>
+Content-Type: multipart/mixed; boundary="===============85925402576720755=="
+Sender: toefl-bounces@server.cool-meeting.com
+Errors-To: toefl-bounces@server.cool-meeting.com
+X-UIDL: ,#;"!a^2"!,Q&!!PWf"!
+
+呵呵，不要那么绝对化，
+旅行也许不能很全面考察方方面面，
+但是一定程度上，你可以观察到
+对方会不会照顾人，体贴你的想法
+和外人交往的能力
+对待问题的看法两人是不是一致，
+处理突发时间的态度
+其实是可以知道一些平时无法知道的
+: 世界上的事情千变万化，很多事情不是出去旅行一次就行了的
+: 怎么去旅行？一帮子去旅行？两个人去？旅行前营造的气氛什么的都很
+: 重要
+: ...................
+

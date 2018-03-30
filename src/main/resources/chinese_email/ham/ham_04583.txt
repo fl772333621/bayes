@@ -1,0 +1,50 @@
+Return-Path: <gu@home.ccert.edu.cn>
+Received: from home.ccert.edu.cn (localhost [127.0.0.1])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id i9B7v7Gg014921;
+	Mon, 11 Oct 2004 15:57:07 +0800
+Received: (from majordomo@localhost)
+	by home.ccert.edu.cn (8.13.1/8.13.1/Submit) id i9B7v7f1014920;
+	Mon, 11 Oct 2004 15:57:07 +0800
+X-Authentication-Warning: home.ccert.edu.cn: majordomo set sender to owner-ccertstaff using -f
+Received: from power001 ([202.112.50.103])
+	(authenticated bits=0)
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id i9B7v5wS014916
+	for <xia@ccert.edu.cn>; Mon, 11 Oct 2004 15:57:06 +0800
+Message-ID: <00e001c4af69$6d7cd160$673270ca@Power001>
+From: "gu" <gu@ccert.edu.cn>
+To: xia@ccert.edu.cn
+Subject: =?gb2312?B?ofEguqu5+tK7yO25q8u+sbG+qbT6se20ptXQxrg=?=
+Date: Mon, 11 Oct 2004 16:07:59 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_00DD_01C4AFAC.7A885FD0"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.3790.181
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.3790.181
+Sender: owner-ccertstaff@home.ccert.edu.cn
+Precedence: bulk
+X-UIDL: A,'!!)HQ"!0$J"!ej6"!
+
+韩国一软公司北京代表处
+一软公司在无线互联网领域整整奋斗了4年，已经与美国的Openwave、瑞典的Teleca、日本的Access并列成为拥有基于WAP(Wireless Application Protocol) 2.0浏览器解决方案的世界四大公司之一，并取得了占有韩国国内WAP浏览器市场70%的巨大成就。
+Embider?是用于嵌入式系统的WEB/WAP浏览器，我们把Embider?提供给SK Telecom、LG Telecom、三星电子、LG电子、SK Teletech、APPEAL Telecom (MOTOROLA)、Pantech&amp;Curitel和三洋等韩国以及其他国家的移动通信运营商和手机终端制造商。我们不满足于韩国国内的成功业绩，正在积极开拓美国、欧洲、中国、日本、台湾、泰国等海外市场，为了发展成被世界认可的一软，而努力打好基石。
+一软公司不断引进和开发新技术，为用户提供了可随时随地方便使用因特网的无所不在的信息处理环境(The Ubiquitous ComPuting Environment)，同时也提供了更加方便且功能强大的解决方案，为满足客户的需求而尽最大努力。
+工作性质：全职
+月薪范围：面议
+工作经验：2年
+学历：本科及本科以上
+工作地点：北京、其他亚洲国家和地区
+职位描述及要求
+软件工程师
+- 熟悉C++语言
+- 有通讯背景或嵌入式软件开发经验者优先
+- 要求英语国家四级，能够熟练使用英语进行沟通
+- 有高度的责任感和良好的团队精神
+- 具有较强的学习能力和较快的适应工作能力
+- 掌握HTML、XML语言，2年以上实际软件开发经验者优先
+- ARM使用经验者优先
+- 手机终端开发经验者优先
+联系方式
+E-mail: cece@infraware.co.kr
+

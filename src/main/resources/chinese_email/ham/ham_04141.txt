@@ -1,0 +1,25 @@
+Return-Path: <you@rbl.ccert.edu.cn>
+Received: from rbl.ccert.edu.cn (rbl.ccert.edu.cn [202.112.57.71])
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id i91BhqHQ004919
+	for <yang@ccert.edu.cn>; Fri, 1 Oct 2004 19:43:53 +0800 (CST)
+Received: from rbl.ccert.edu.cn (localhost.localdomain [127.0.0.1])
+	by rbl.ccert.edu.cn (8.12.11/8.12.11) with ESMTP id i91BnRFl026666
+	for <yang@ccert.edu.cn>; Fri, 1 Oct 2004 19:49:27 +0800
+Received: (from qa@localhost)
+	by rbl.ccert.edu.cn (8.12.11/8.12.11/Submit) id i91BnRAn026665;
+	Fri, 1 Oct 2004 19:49:27 +0800
+Date: Fri, 1 Oct 2004 19:49:27 +0800
+Message-Id: <200410011149.i91BnRAn026665@rbl.ccert.edu.cn>
+Subject: =?gb2312?B?UmU6IG9mZmVy0aHU8Q==?=
+To: yang@ccert.edu.cn
+From: Tran Quang Anh <you@cernet.edu.cn>
+Content-Type: multipart/mixed; boundary="----------=_1096631367-996-272"
+MIME-Version: 1.0
+X-UIDL: %%U!!X;@"!a-%#!Hc;!!
+
+后者
+:     前段时间是一个offer也没有，加上又要忙着写论文，心情极其郁闷，当时还在水木上发了一顿牢骚，得到了很多水友的安慰。感谢大家。
+:     现在，有offer了，麻烦又来，改选哪一个呢？一个是去北京的三流大学做学生工作，一个是去一个较好的杂志社做编辑，后者的待遇可能比前者好一些，但后者正在转向公司化管理，需要有不断创业的精神。对了，本人是女生、北京较好大学的硕士。
+:     我该选哪一个呢？犹豫中。。。大家给点建议好吗？谢谢。
+: ...................
+

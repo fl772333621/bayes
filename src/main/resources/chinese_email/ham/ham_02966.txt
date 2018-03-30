@@ -1,0 +1,26 @@
+Return-Path: <chen@rbl.ccert.edu.cn>
+Received: from rbl.ccert.edu.cn (rbl.ccert.edu.cn [202.112.57.71])
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id i922e2aK010448
+	for <xia@ccert.edu.cn>; Sat, 2 Oct 2004 10:40:02 +0800 (CST)
+Received: from rbl.ccert.edu.cn (localhost.localdomain [127.0.0.1])
+	by rbl.ccert.edu.cn (8.12.11/8.12.11) with ESMTP id i922jh0a021415
+	for <xia@ccert.edu.cn>; Sat, 2 Oct 2004 10:45:44 +0800
+Received: (from qa@localhost)
+	by rbl.ccert.edu.cn (8.12.11/8.12.11/Submit) id i922jhd5021414;
+	Sat, 2 Oct 2004 10:45:43 +0800
+Date: Sat, 2 Oct 2004 10:45:43 +0800
+Message-Id: <200410020245.i922jhd5021414@rbl.ccert.edu.cn>
+Subject: =?gb2312?B?UmU6ILn6xNq1xFBIRMLbzsQ=?=
+To: xia@ccert.edu.cn
+From: Tran Quang Anh <chen@cernet.edu.cn>
+Content-Type: multipart/mixed; boundary="----------=_1096685144-996-342"
+MIME-Version: 1.0
+X-UIDL: bZC!!$+8"!H]"#!lBT!!
+
+其实国内就是喜欢听好话。这样的大学什么时候才有进步呢？也许有些人还在陶醉于4大发明呢。。。。。悲哀
+其实管中窥豹，可见一般。国内的PHD的标准就是这样呀。。。。。我也看见北大的一个PHD ACCOUNTING的论文。也是一样的结构。晕！难道国内没有BUSINESS RESEARCH MATHODS吗？没有SPSS吗？如果只是收集资料的话。这样也算论文呀。还不如我MBA的一个ASSIGNMENT呢...
+: 个人觉得不能这么讲，因为国内的教育体制、学术环境等等外在因素在那摆着，
+: 如果在国内能做出和国外一样的成绩，那一般来说要付出好几倍甚至10倍的energy。
+: 当然，实际上，国外的博士生已经很辛苦了，国内的再努力，也只能付出差不多的
+: ...................
+

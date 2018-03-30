@@ -1,0 +1,23 @@
+Return-Path: <lian@rbl.ccert.edu.cn>
+Received: from rbl.ccert.edu.cn (rbl.ccert.edu.cn [202.112.57.71])
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id i984eU6J002412
+	for <hu@ccert.edu.cn>; Fri, 8 Oct 2004 12:40:30 +0800 (CST)
+Received: from rbl.ccert.edu.cn (localhost.localdomain [127.0.0.1])
+	by rbl.ccert.edu.cn (8.12.11/8.12.11) with ESMTP id i984kTir007891
+	for <hu@ccert.edu.cn>; Fri, 8 Oct 2004 12:46:31 +0800
+Received: (from qa@localhost)
+	by rbl.ccert.edu.cn (8.12.11/8.12.11/Submit) id i984kTdH007890;
+	Fri, 8 Oct 2004 12:46:29 +0800
+Date: Fri, 8 Oct 2004 12:46:29 +0800
+Message-Id: <200410080446.i984kTdH007890@rbl.ccert.edu.cn>
+Subject: =?gb2312?B?UmU6ILK7tq6woaO6IMWuuqLX08rHsrvKx7a8sci9z8O709CwssiruNCjrNKq1dLIy9LAv7+jvw==?=
+To: hu@ccert.edu.cn
+From: Tran Quang Anh <lian@cernet.edu.cn>
+Content-Type: multipart/mixed; boundary="----------=_1097210791-1044-282"
+MIME-Version: 1.0
+X-UIDL: F6e!!28;!!@D$#!9oL!!
+
+有一半原因是女生喜欢把自己的柔弱扩大化，博取男生疼爱
+:   一直没有意识到 女孩子会有这样的问题，昨天看了个 董洁的访谈（我十分喜欢她在 天上的恋人  里的感觉，呵呵）。她说，她也是个没有安全感的人。
+:     我狂抓啊，什么叫做没有安全感啊，没有找到BF时候不都是十几二十年都这么过的嘛？那到底是个什么样的感觉啊，sigh，真的beyond my imagination 啊，估计这就是偶二十好几了还光光的原因啊，唉。
+

@@ -1,0 +1,22 @@
+Return-Path: <weng@yeah.net>
+Received: from yeah.net ([202.108.45.183])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with SMTP id iAH2SeH2020460
+	for <ni@ccert.edu.cn>; Wed, 17 Nov 2004 10:28:42 +0800
+MIME-Version: 1.0
+Message-ID: <419ABA3F.000087.05839@m183.yeah.net>
+Date: Wed, 17 Nov 2004 10:41:03 +0800 (CST)
+From: "weng" <weng@yeah.net>
+To: ni@ccert.edu.cn
+Subject: =?gb2312?B?UmU6ILXa0ru0zsPmytSx8MjL?=
+X-Priority: 3
+X-Originating-IP: [219.239.34.6]
+X-Mailer: <!-- CoreMail Version 2.5 Copyright (c) 2002-2003 www.tebie.com --> yeah
+Content-Type: Multipart/Alternative; boundary="Boundary-=_HLISEkogCkxUxrANfyXjxOwteyVl"
+X-UIDL: _bG"!7*+"!E18!!HoK!!
+
+sigh
+如此不专业的面试别人
+怪不得
+: 由于公司业务发展的需要，要招聘一个系统管理员，我是做这方面工作的，老板让我去做面试官，我看了那人的简历不禁心里发毛！毕业于国内名牌大学，学士学位，两年的工作经验，专线知识说的是天花乱坠。
+: 我手里拿着我自己出的UNIX系统管理的题不禁有些出汗，因为那些题太简单了，我怕人家看了这些题目后会笑话我这个面试官－－出这么简单的题能考出什么。在一阵寒暄过后，我请他介绍一下自己，他把自己的工作经历等等说了一遍，和简历上差不多，过后我开始提问他一些UNIX上
+

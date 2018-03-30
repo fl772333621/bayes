@@ -1,0 +1,24 @@
+Return-Path: <luo@rbl.ccert.edu.cn>
+Received: from rbl.ccert.edu.cn (rbl.ccert.edu.cn [202.112.57.71])
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id i973tUJQ014862
+	for <yun@ccert.edu.cn>; Thu, 7 Oct 2004 11:55:30 +0800 (CST)
+Received: from rbl.ccert.edu.cn (localhost.localdomain [127.0.0.1])
+	by rbl.ccert.edu.cn (8.12.11/8.12.11) with ESMTP id i9741TZb021502
+	for <yun@ccert.edu.cn>; Thu, 7 Oct 2004 12:01:29 +0800
+Received: (from qa@localhost)
+	by rbl.ccert.edu.cn (8.12.11/8.12.11/Submit) id i9741TVY021501;
+	Thu, 7 Oct 2004 12:01:29 +0800
+Date: Thu, 7 Oct 2004 12:01:29 +0800
+Message-Id: <200410070401.i9741TVY021501@rbl.ccert.edu.cn>
+Subject: =?gb2312?B?ofEgztK4w9T1w7TX9qO/?=
+To: yun@ccert.edu.cn
+From: Tran Quang Anh <luo@cernet.edu.cn>
+Content-Type: multipart/mixed; boundary="----------=_1097121689-996-806"
+MIME-Version: 1.0
+X-UIDL: >&>!!BI~"!Q!d"!p*)"!
+
+     这是第一次fall in love，却弄成这样...
+     首先声明是异地，所以各位不要对这一点再议论了。我和她是高中同学，一直是挺好的朋友，后来大三她去了法国作交换学生，上个月刚回来，期间一直保持着联系。去年搞定推研后，我开始认真考虑我们之间的可能性，因为以前问道她有没有男朋友时她都说没有。过完年来了以后大概3周吧，我正式向她表白了，结果被拒。原因是我不够成熟（我小她一岁），当时觉得只要努力，希望还是很大的，毕竟没有有力的竞争者。于是继续时常问候。
+     可是直到刚才，我才从一个高中同学那里知道她在出国以前都有男朋友了，只是我不知道而已，当时感觉浑身都有点麻木。她为什么距我时不告诉我？后来那个同学又说她和男朋友现在快分手了，因为男方要去南方工作，不在西安陪她（她读硕）。
+    现在心里很复杂，她在我心中的形象已经打了折扣，可是我又不愿意放弃，所以想请教各位过来人，1。为什么当初据我时不说她已经有男朋友了，是虚荣心吗？2。她真的是在抉择，还是我被大大的涮了一把？3。我还有希望吗，应该怎么做？（她8月还要来北京，因为要去法国办手续。曾说过到时候让我陪她逛北京）
+

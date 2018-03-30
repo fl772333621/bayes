@@ -1,0 +1,37 @@
+Return-Path: <liao@cernet.edu.cn>
+Received: from tsinghua.org.cn ([210.77.143.228])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id i9Q8CObY008427
+	for <liao@ccert.edu.cn>; Tue, 26 Oct 2004 16:12:25 +0800
+Received: (eyou send program); Tue, 26 Oct 2004 16:23:47 +0800
+Received: (eyou send program); Tue, 26 Oct 2004 16:23:47 +0800
+X-EYOU-ORIGINAL-IP: 210.77.143.235
+X-EYOU-ENVELOPE-MAILFROM: sundh@cernet.edu.cn
+Received: from unknown (HELO eyou.net) (unknown@210.77.143.235)
+ by 210.77.143.228 with SMTP; Tue, 26 Oct 2004 16:23:47 +0800
+Received: (eyou send program); Tue, 26 Oct 2004 16:20:35 +0800
+Message-ID: <298778835.11967@eyou.net>
+Received: from 202.112.5.66 by 210.77.143.235 with SMTP; Tue, 26 Oct 2004 16:20:24 +0800
+Received: from 8jmd55gawpz3tjh ([202.112.50.7])
+	(authenticated bits=0)
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id i9Q8NVCN003539;
+	Tue, 26 Oct 2004 16:23:31 +0800 (CST)
+Message-ID: <001e01c4bb35$1482be30$073270ca@8jmd55gawpz3tjh>
+From: "liao" <liao@cernet.edu.cn>
+To: liao@ccert.edu.cn
+Subject: =?gb2312?B?UmU6INfyzOy31srWwcujrGdmy7W74breztLSu7Gy19OjrM7SuMO8zND4sLLOv8v9w7Q=?=
+Date: Tue, 26 Oct 2004 16:23:32 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_001B_01C4BB78.2285CC00"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2800.1437
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1441
+X-UIDL: U[8!!V#K!!TWF"!'/T!!
+
+有同感。
+:     我相信最后能够提出分手，父母的反对只是一个无谓的借口，关键是你的潜意识里觉得她已经不适合你。感情是分阶段的，相信你也是真心的爱过她并且也很真诚的对待她，不然
+: 她不可能深爱你。
+:     被甩的确是很痛苦的，那种五雷轰顶，从天堂坠入地狱的感觉，那种撕心裂肺的痛楚，只有经历过真正的爱的人才能够体会和受到打击。但我也同是宽容提出分手的一方，我相信善良的你也是万般无奈深思熟虑和同样身心煎熬下 提出的。既然必定要分手，在她的爱超过你爱她的情况下，在她无论如何不忍心分手的情况下，你能够提出来，担当起被鄙视的罪责也是一种勇敢。
+: ...................
+

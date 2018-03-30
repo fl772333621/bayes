@@ -1,0 +1,43 @@
+Return-Path: <wen@cernet.edu.cn>
+Received: from tsinghua.org.cn ([210.77.143.228])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id i9Q8CObY008427
+	for <tu@ccert.edu.cn>; Tue, 26 Oct 2004 16:12:25 +0800
+Received: (eyou send program); Tue, 26 Oct 2004 16:23:47 +0800
+Received: (eyou send program); Tue, 26 Oct 2004 16:23:47 +0800
+X-EYOU-ORIGINAL-IP: 210.77.143.235
+X-EYOU-ENVELOPE-MAILFROM: sundh@cernet.edu.cn
+Received: from unknown (HELO eyou.net) (unknown@210.77.143.235)
+ by 210.77.143.228 with SMTP; Tue, 26 Oct 2004 16:23:47 +0800
+Received: (eyou send program); Tue, 26 Oct 2004 16:20:35 +0800
+Message-ID: <298778835.11967@eyou.net>
+Received: from 202.112.5.66 by 210.77.143.235 with SMTP; Tue, 26 Oct 2004 16:20:24 +0800
+Received: from 8jmd55gawpz3tjh ([202.112.50.7])
+	(authenticated bits=0)
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id i9Q8NVCN003539;
+	Tue, 26 Oct 2004 16:23:31 +0800 (CST)
+Message-ID: <001e01c4bb35$1482be30$073270ca@8jmd55gawpz3tjh>
+From: "wen" <wen@cernet.edu.cn>
+To: tu@ccert.edu.cn
+Subject: =?gb2312?B?UmU6IFu6z7yvXSDI57n7R0fN5tPOz7fJz/Gr1PXDtLDs?=
+Date: Tue, 26 Oct 2004 16:23:32 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_001B_01C4BB78.2285CC00"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2800.1437
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1441
+X-UIDL: U[8!!V#K!!TWF"!'/T!!
+
+哈哈哈,我猜也是..
+我家鱼前段时间出差,我玩游戏,他打电话来,我说我被人PK了N次正报仇那
+他于是立马说那先挂电话了,你PK要紧-____-
+平时他回来也是一堆工作,正好他工作我玩游戏:P没有工作的时候他竟然看我
+玩游戏都看的很上瘾,很晚也不睡觉乐-___-
+昨天晚上偷偷摸摸的自己折腾笔记本半天,然后很说郁闷的过来问我
+lp,为啥9C不让注册2区的帐号乐,我好不容易下载安装乐WOW的客户端
+我晕..立马忒豪爽的说等开放的肯定能注册,到时候让俺带着你这个小新人一起作任务
+hiahia
+: 好在我和LG一起玩....-_-
+: 往往说好了要早睡,结果俩人一起作任务啊,下副本啊...又到2点:p
+

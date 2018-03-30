@@ -1,0 +1,54 @@
+Return-Path: <zhao@ns.6test.edu.cn>
+Received: from tsinghua.org.cn ([210.77.143.228])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id iAO0lAeN013714
+	for <yi@ccert.edu.cn>; Wed, 24 Nov 2004 08:47:12 +0800
+Received: (eyou send program); Wed, 24 Nov 2004 08:59:50 +0800
+Received: (eyou send program); Wed, 24 Nov 2004 08:59:45 +0800
+X-EYOU-ORIGINAL-IP: 210.77.143.235
+X-EYOU-ENVELOPE-MAILFROM: toefl-bounces@server.cool-meeting.com
+Received: from unknown (HELO eyou.net) (unknown@210.77.143.235)
+ by 210.77.143.228 with SMTP; Wed, 24 Nov 2004 08:59:45 +0800
+Received: (eyou send program); Wed, 24 Nov 2004 08:55:14 +0800
+Message-ID: <301257714.24749@eyou.net>
+Received: from 202.38.99.65 by 210.77.143.235 with SMTP; Wed, 24 Nov 2004 08:55:12 +0800
+Received: from server.cool-meeting.com (localhost.localdomain [127.0.0.1])
+	by server.cool-meeting.com (8.12.8/8.12.8) with ESMTP id iAO1EKlZ026985
+	for <yi@ccert.edu.cn>; Wed, 24 Nov 2004 09:14:38 +0800
+Received: from ns.6test.edu.cn ([202.38.99.18])
+	by server.cool-meeting.com (8.12.8/8.12.8) with ESMTP id iAO1EEkr026981
+	for <yi@ccert.edu.cn>; Wed, 24 Nov 2004 09:14:14 +0800
+Received: from [202.112.3.118] (helo=IBM-E4AA49AF703)
+	by ns.6test.edu.cn with asmtp (Exim 4.12) id 1CWlps-000Hu0-00
+	for Toefl@server.cool-meeting.com; Wed, 24 Nov 2004 09:20:44 +0800
+From: "zhao" <zhao@ns.6test.edu.cn>
+To: yi@ccert.edu.cn
+X-mailer: Foxmail 4.2 [cn]
+Mime-Version: 1.0
+Content-Type: multipart/mixed; boundary="=====000_Dragon314187767103_====="
+Date: Wed, 24 Nov 2004 8:59:15 +0800
+Message-Id: <E1CWlps-000Hu0-00@ns.6test.edu.cn>
+Cc: 
+Subject: =?gb2312?B?UmU6IKOo1K20tKOp0rLQ7c7S1ea1xLjDzcuz9qO/?=
+X-BeenThere: toefl@server.cool-meeting.com
+X-Mailman-Version: 2.1.2
+Precedence: list
+List-Id: &#26446;&#26143;&#21644;&#20182;&#30340;&#23398;&#29983;&#20204;
+	<toefl.server.cool-meeting.com>
+List-Unsubscribe: <http://server.cool-meeting.com/mailman/listinfo/toefl>,
+	<mailto:toefl-request@server.cool-meeting.com?subject=unsubscribe>
+List-Archive: <http://server.cool-meeting.com/mailman/private/toefl>
+List-Post: <mailto:toefl@server.cool-meeting.com>
+List-Help: <mailto:toefl-request@server.cool-meeting.com?subject=help>
+List-Subscribe: <http://server.cool-meeting.com/mailman/listinfo/toefl>,
+	<mailto:toefl-request@server.cool-meeting.com?subject=subscribe>
+Sender: toefl-bounces@server.cool-meeting.com
+Errors-To: toefl-bounces@server.cool-meeting.com
+X-UIDL: he&"!?n+#!`YD"!Tlc"!
+
+一天就有深厚的感情了。。。
+呼唤rp啊。。
+: 和她认识是在网上，一个明媚的早上。我刚刚起床，电脑里面的qq闪动，一个女生的头像。陌生的我们就这样认识了。她：一个在苏州工作的山东女孩。我：一个在天津工作的天津人。
+: 她是一个漂亮的女孩，我喜欢的类型，就这样，我们竟然在网上聊了整整一天的时间，大家似乎都觉得时间过的好快。快下线的时候，我说：我喜欢你。她乐乐，下了。我知道，我们彼此都有感觉了。我们彼此交换了电话，我们发消息，我们打电话，真的，我们都对彼此有了深厚的感
+: 第二天，我早早的起来了，因为我们说好，要早早的起来聊天。点开视频，看到了她，真的好开心。我问她：你有男朋友吗？她说：没有。我就逗她说：那正好，我做你男朋友好了。也许你们会嘲笑我的这种轻浮的态度，因为这确实是泡女孩子惯用的伎俩，但在那一刻，我知道我是冷
+: ...................
+

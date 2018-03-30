@@ -1,0 +1,56 @@
+Return-Path: <ou@home.ccert.edu.cn>
+Received: from home.ccert.edu.cn (localhost [127.0.0.1])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id i8LAVOK3004076;
+	Tue, 21 Sep 2004 18:31:24 +0800
+Received: (from majordomo@localhost)
+	by home.ccert.edu.cn (8.13.1/8.13.1/Submit) id i8LAVON6004075;
+	Tue, 21 Sep 2004 18:31:24 +0800
+X-Authentication-Warning: home.ccert.edu.cn: majordomo set sender to owner-ccertstaff using -f
+Received: from ns.6test.edu.cn (ns.6test.edu.cn [202.112.54.2])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id i8LAVNxo004071
+	for <ding@ccert.edu.cn>; Tue, 21 Sep 2004 18:31:24 +0800
+Received: from [210.25.128.109] (helo=tsinghua89o1rm)
+	by ns.6test.edu.cn with asmtp (Exim 4.12)
+	id 1C9iNQ-00005t-00
+	for ccertstaff@ccert.edu.cn; Tue, 21 Sep 2004 19:00:04 +0800
+Message-ID: <003a01c49fc7$90b38950$6d8019d2@tsinghua89o1rm>
+From: "ou" <ou@ns.6test.edu.cn>
+To: ding@ccert.edu.cn
+Subject: =?gb2312?B?UmU6IM7SwM+5q7jVssXV5rrD?=
+Date: Tue, 21 Sep 2004 18:41:04 +0800
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2600.0000
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2600.0000
+Content-Transfer-Encoding: 8bit
+X-MIME-Autoconverted: from base64 to 8bit by home.ccert.edu.cn id i8LAVOxo004073
+Sender: owner-ccertstaff@home.ccert.edu.cn
+Precedence: bulk
+X-UIDL: 9\n!!UP_"!:c-"!9SF!!
+Status: RO
+
+实际测量数据啊
+: 标  题: Re: 我老公刚才真好
+: 发信站: 水木社区 (Sun Jun 19 20:02:47 2005), 站内
+: 
+: 有７７的码吗？
+: 不都是一个码差５？
+: : 也不用，75D本来就是给75左右的底围，93上围用的
+: : 她要是77的底围也差不多
+: : 再说啦，bra也可能不准嘛
+: : ...................
+: 
+: --
+: ╔═══════════════════════════╗
+: ║   ◣ ◤      姓名：sandyjs                           ║
+: ║◤       ◣   性别： mm                               ║
+: ║   "   "      出身：SMTH                              ║
+: ║◣≡   ≡◤        MARVEL灌水出入证＝                 ║
+: ╚═══════════════════════════╝
+: 
+: 
+: ※ 来源:·水木社区 newsmth.net·[FROM: 221.221.181.*]
+

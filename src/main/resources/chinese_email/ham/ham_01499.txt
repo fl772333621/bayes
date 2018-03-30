@@ -1,0 +1,25 @@
+Return-Path: <ma@rbl.ccert.edu.cn>
+Received: from rbl.ccert.edu.cn (rbl.ccert.edu.cn [202.112.57.71])
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id i972HeKX013544
+	for <ren@ccert.edu.cn>; Thu, 7 Oct 2004 10:17:40 +0800 (CST)
+Received: from rbl.ccert.edu.cn (localhost.localdomain [127.0.0.1])
+	by rbl.ccert.edu.cn (8.12.11/8.12.11) with ESMTP id i972NbPO010943
+	for <ren@ccert.edu.cn>; Thu, 7 Oct 2004 10:23:38 +0800
+Received: (from qa@localhost)
+	by rbl.ccert.edu.cn (8.12.11/8.12.11/Submit) id i972NbmT010942;
+	Thu, 7 Oct 2004 10:23:37 +0800
+Date: Thu, 7 Oct 2004 10:23:37 +0800
+Message-Id: <200410070223.i972NbmT010942@rbl.ccert.edu.cn>
+Subject: =?gb2312?B?UmU6INXi0rvE6rXEx/PWsMDhyrejrM+jzfu21GRkbW3T0Mv5vei8+A==?=
+To: ren@ccert.edu.cn
+From: Tran Quang Anh <ma@cernet.edu.cn>
+Content-Type: multipart/mixed; boundary="----------=_1097115818-996-800"
+MIME-Version: 1.0
+X-UIDL: dN$!!-XR"!HJR"!-J*"!
+
+    看到这篇文章,仿佛看到了去年的自己~~~~~也曾经为了爱情放弃了前途的其他机会,也曾因为爱情的背叛,选择了去一个完全陌生的城市~~~~只是为了逃离过去;也曾经背负着几乎不能承受的伤痛还得一个人为找工作而奔波,还不敢告诉家人,不愿让他们担心~~~~~不过也正象文章中所说的,一切都会过去的,经历了这么多,总算明白了不管什么境遇下,人一定要向前看,相信一定会有重见彩虹的那一天~~~~~
+: 这一年的工作历程真的很辛苦，我在这一年成熟了那么多，自己都没有想到。虽然现在的心态还算不错，但这是几经波折才得来的，其中的滋味有时连自己都体会不清楚。
+: 我不知道现在是麻木期，还是自己想的很开了，抑或是因为有了其他的精神寄托所以精神转移，也不知道当一段时间之后遇到同班同学后会是什么样的心理，不想去想，因为这不过是庸人自扰罢了。
+: 曾以为怎么这一阵子总是走霉运，但慢慢想过来其实满是自己的错，怨不得别人。也许一直走的太顺了，该是老天给我点警告的时候了，也许是他要安排我去做另外的一些事情。
+: ...................
+

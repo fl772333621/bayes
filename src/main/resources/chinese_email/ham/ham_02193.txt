@@ -1,0 +1,46 @@
+Return-Path: <jian@home.ccert.edu.cn>
+Received: from home.ccert.edu.cn (localhost [127.0.0.1])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id j3C83DUj022895;
+	Tue, 12 Apr 2005 16:03:18 +0800
+Received: (from majordomo@localhost)
+	by home.ccert.edu.cn (8.13.1/8.13.1/Submit) id j3C83DDb022894;
+	Tue, 12 Apr 2005 16:03:13 +0800
+X-Authentication-Warning: home.ccert.edu.cn: majordomo set sender to owner-ccertstaff using -f
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id j3C82lBv022873
+	for <hu@ccert.edu.cn>; Tue, 12 Apr 2005 16:03:02 +0800
+Received: from WHITESNOW (tu203025.ip.tsinghua.edu.cn [166.111.203.25])
+	(authenticated bits=0)
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id j3C8HiDB011211
+	for <hu@ccert.edu.cn>; Tue, 12 Apr 2005 16:17:44 +0800 (CST)
+Message-ID: <003401c53f38$6416c720$19cb6fa6@WHITESNOW>
+From: "jian" <jian@cernet.edu.cn>
+To: hu@ccert.edu.cn
+Subject: =?gb2312?B?UmU6INC0uPjSqszuuN+/vNa+1Li1xMjLw8ejrLzmzLi149DQ0rW/tLeooaM=?=
+Date: Tue, 12 Apr 2005 16:19:42 +0800
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_NextPart_000_0032_01C53F7B.6EF93400"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2900.2180
+X-MIMEOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+Sender: owner-ccertstaff@home.ccert.edu.cn
+Precedence: bulk
+X-UIDL: &@#"!?@Z!!B$]!!D?]"!
+
+我相信你说的是切身体会。
+我还是不赞成读所谓热门专业什么的
+热门不热门，数年间风水轮流转而已，但人的一生很长
+凡事要从自身的角度分析，别人的不一定适合自己
+那么多人崇拜盖茨，去读计算机，但有多少人有盖茨的造化？
+make concret analysis of concret problem
+我觉得楼主的帖子还是比较肤浅，
+这世界很多事情不是一时半会能看明白的，尤其决定你以后要从事什么，如果太功
+利太计较是会后悔的，尤其你如果以后你发现你所读的专业你所从事的职业你根本
+不感兴趣或者根本不擅长，毕竟我们是人，不是根据什么条件可以运行的程序或是
+机器
+: 适合多数人
+: 但照这个做有可能后悔的哦
+: 而不是照这个相反的做才有可能后悔.
+: ...................
+

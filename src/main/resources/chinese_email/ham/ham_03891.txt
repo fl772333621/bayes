@@ -1,0 +1,25 @@
+Return-Path: <lv@rbl.ccert.edu.cn>
+Received: from rbl.ccert.edu.cn (rbl.ccert.edu.cn [202.112.57.71])
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id i9INsUWD015017
+	for <qing@ccert.edu.cn>; Tue, 19 Oct 2004 07:54:31 +0800 (CST)
+Received: from rbl.ccert.edu.cn (localhost.localdomain [127.0.0.1])
+	by rbl.ccert.edu.cn (8.12.11/8.12.11) with ESMTP id i9J00Flm031541
+	for <qing@ccert.edu.cn>; Tue, 19 Oct 2004 08:00:16 +0800
+Received: (from qa@localhost)
+	by rbl.ccert.edu.cn (8.12.11/8.12.11/Submit) id i9J00F2X031540;
+	Tue, 19 Oct 2004 08:00:15 +0800
+Date: Tue, 19 Oct 2004 08:00:15 +0800
+Message-Id: <200410190000.i9J00F2X031540@rbl.ccert.edu.cn>
+Subject: =?gb2312?B?UmU6INDHx/K089W91tCwosTJvfC6zcW3scjN8rXEx+m40LnYz7W90sPc?=
+To: qing@ccert.edu.cn
+From: Tran Quang Anh <lv@cernet.edu.cn>
+Content-Type: multipart/mixed; boundary="----------=_1098144016-25795-250"
+MIME-Version: 1.0
+X-UIDL: L'+"!X]N"!)Jd"!j8_!!
+
+ft
+: 影评家们说《星战前传》就是一个绝地武士堕入黑暗的故事，说得不错，但是，这小子是怎么堕入黑暗的呢？这里面隐含了一段多么悲伤绝望的爱情啊~~~当然了，我说的可不是他和那美女参议员的爱情………… 
+: 想当年，在银河系最偏远的塔土因星球上，年仅9岁的阿纳金.天行者第一次见到了年轻俊美的欧比万.肯奴比，接着就是耽美小说里常见的那种套路，惊为天人、一见倾心…… 
+: 小天行者虽然只有9岁，爱美之心却不输成年人，曾经对着阿米达拉女王发过花痴就可见一斑了。所以他对初次见面的欧比万说的第一句话就是—— 
+: ...................
+

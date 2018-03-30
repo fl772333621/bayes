@@ -1,0 +1,33 @@
+Return-Path: <wu@tsinghua.edu.cn>
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with SMTP id j0B16nmn010958
+	for <cen@ccert.edu.cn>; Tue, 11 Jan 2005 09:07:04 +0800
+Received: (eyou send program); Tue, 11 Jan 2005 09:01:40 +0800
+Message-ID: <305405300.07556@mail.tsinghua.edu.cn>
+Received: from unknown (HELO mail.tsinghua.edu.cn) (unknown@127.0.0.1)
+ by 127.0.0.1 with SMTP; Tue, 11 Jan 2005 09:01:40 +0800
+X-scanvirus: By Symantec Scan Engine
+X-scanresult: CLEAN
+Received: (eqmail ); 11 Jan 2005 01:01:39 -0000
+Received: from unknown (HELO sony) (duanhx@166.111.204.189)
+  by localhost with SMTP; 11 Jan 2005 01:01:39 -0000
+Message-ID: <005301c4f77b$4ca275d0$bdcc6fa6@sony>
+From: "wu" <wu@tsinghua.edu.cn>
+To: cen@ccert.edu.cn
+Subject: =?gb2312?B?UmU6IKG+x+vIw87SwLSw79b6xOOhv9HrytPIy8n6yei8xr3axL+zz9X3vM6x9g==?=
+Date: Tue, 11 Jan 2005 09:17:19 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0050_01C4F7BE.59F76950"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2800.1106
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1106
+X-UIDL: RIM"!]fJ!!NI%#!<WZ!!
+
+I never watch CCTV
+: 大家好！我是清华研究生，现同时在央视10套《选择》栏目做策划编导。
+: 《选择》是一个关于青年人生设计的谈话节目，最近刚刚录制完改版后的第一批，将于6月下旬播出。
+: 节目形式是：每一期找一个有抱负有理想但尚未成功、需要帮助的青年人或团队，找几个相关行业的顶尖专家，分析他/她目前存在的问题，为他/她的发展提供建议、拓宽思路，比较难得的是：我们可以根据他/她的谈话表现和个人综合素质的考察，现场提供一些实习/工作/创业的机�
+: ...................
+

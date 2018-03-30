@@ -1,0 +1,35 @@
+Return-Path: <liao@home.ccert.edu.cn>
+Received: from home.ccert.edu.cn (localhost [127.0.0.1])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id iAU4t47g000934;
+	Tue, 30 Nov 2004 12:55:04 +0800
+Received: (from majordomo@localhost)
+	by home.ccert.edu.cn (8.13.1/8.13.1/Submit) id iAU4t34S000933;
+	Tue, 30 Nov 2004 12:55:03 +0800
+X-Authentication-Warning: home.ccert.edu.cn: majordomo set sender to owner-ccertstaff using -f
+Received: from ccertspark (tu203021.tsinghua.edu.cn [166.111.203.21])
+	(authenticated bits=0)
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id iAU4suwt000922
+	for <mo@ccert.edu.cn>; Tue, 30 Nov 2004 12:54:56 +0800
+From: "liao" <liao@ccert.edu.cn>
+To: mo@ccert.edu.cn
+Subject: =?gb2312?B?UmU6IMjV19PSu8zs0rvM7Ln9?=
+Date: Tue, 30 Nov 2004 13:06:50 +0800
+Message-ID: <001001c4d69a$665f0f30$15cb6fa6@ccertspark>
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="----=_NextPart_000_0011_01C4D6DD.74824F30"
+X-Priority: 3 (Normal)
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook, Build 10.0.6626
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.3790.181
+Importance: Normal
+Sender: owner-ccertstaff@home.ccert.edu.cn
+Precedence: bulk
+X-UIDL: ,,V!!fBl!!,62!!^3Y"!
+
+其实。。人都是那样的。。。。都不想给自己找麻烦。。。
+: 出事之后，肇事单位的办公室主任也去医院探望了几次
+: 他们找到医生说：“不要给他们家用好药，他们家没钱交住院费……”这是后来当事的医生告诉我们的，在那之前我们也听过一些传闻，但是一直没有相信，一直以为他们挺好的。呵呵，现在想想自己真傻。
+: 第二次病危之后，对方的办公室主任很满意，面带微笑的离开了医生办公室，当时他轻松笑脸深深地被我记住了
+: ...................
+

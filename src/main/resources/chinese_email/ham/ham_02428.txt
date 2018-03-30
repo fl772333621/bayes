@@ -1,0 +1,26 @@
+Return-Path: <lei@rbl.ccert.edu.cn>
+Received: from rbl.ccert.edu.cn (rbl.ccert.edu.cn [202.112.57.71])
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id i96JdKfx009134
+	for <huang@ccert.edu.cn>; Thu, 7 Oct 2004 03:39:20 +0800 (CST)
+Received: from rbl.ccert.edu.cn (localhost.localdomain [127.0.0.1])
+	by rbl.ccert.edu.cn (8.12.11/8.12.11) with ESMTP id i96JjEA4005439
+	for <huang@ccert.edu.cn>; Thu, 7 Oct 2004 03:45:14 +0800
+Received: (from qa@localhost)
+	by rbl.ccert.edu.cn (8.12.11/8.12.11/Submit) id i96JjE1X005438;
+	Thu, 7 Oct 2004 03:45:14 +0800
+Date: Thu, 7 Oct 2004 03:45:14 +0800
+Message-Id: <200410061945.i96JjE1X005438@rbl.ccert.edu.cn>
+Subject: =?gb2312?B?UmU6INC0uPjSqszuuN+/vNa+1Li1xMjLw8ejrLzmzLi149DQ0rW/tLeooaM=?=
+To: huang@ccert.edu.cn
+From: Tran Quang Anh <lei@cernet.edu.cn>
+Content-Type: multipart/mixed; boundary="----------=_1097091914-996-706"
+MIME-Version: 1.0
+X-UIDL: \U:"!pfk!!,^O!!=>i"!
+
+要明白读大学的素质和赚钱的素质是两码事，
+不要觉得读了名牌大学就应当赚大钱，呵呵。
+: 其实，我的感觉是，人学什么，在什么地方学习，根本不重要
+: 钱，是跟着人走的，不是跟着文凭走的，只要努力，不放弃，就会有机会
+: 360行，行行出状元的话是对的，学农林照样可以成为超级富豪，北大清华的骄人才子照样可以在社会的熔炉面前一绝不振，人的因素，才是最关键的，所以与其如此势力的分析得失，到不如认真的锻炼自己。
+: ...................
+

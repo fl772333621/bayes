@@ -1,0 +1,25 @@
+Return-Path: <kong@rbl.ccert.edu.cn>
+Received: from rbl.ccert.edu.cn (rbl.ccert.edu.cn [202.112.57.71])
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id i91BvTlp004976
+	for <qing@ccert.edu.cn>; Fri, 1 Oct 2004 19:57:29 +0800 (CST)
+Received: from rbl.ccert.edu.cn (localhost.localdomain [127.0.0.1])
+	by rbl.ccert.edu.cn (8.12.11/8.12.11) with ESMTP id i91C394l003781
+	for <qing@ccert.edu.cn>; Fri, 1 Oct 2004 20:03:09 +0800
+Received: (from qa@localhost)
+	by rbl.ccert.edu.cn (8.12.11/8.12.11/Submit) id i91C39gE003780;
+	Fri, 1 Oct 2004 20:03:09 +0800
+Date: Fri, 1 Oct 2004 20:03:09 +0800
+Message-Id: <200410011203.i91C39gE003780@rbl.ccert.edu.cn>
+Subject: =?gb2312?B?UmU6IMrHztK/tLTtwcvIy6Osu7nKx87StO3By6O/?=
+To: qing@ccert.edu.cn
+From: Tran Quang Anh <kong@cernet.edu.cn>
+Content-Type: multipart/mixed; boundary="----------=_1096632190-996-284"
+MIME-Version: 1.0
+X-UIDL: Q;Q"!:*W!!F59"!Q6-!!
+
+当你碰到我的那一天起,幸福就会永远伴你左右了.呵呵!瞎砍
+: 今天过节，心里好凄凉啊。没有人说话，没有人倾诉。也许，有人可以陪伴，可那不是我要等得人。为什么，事情的变化比天气还要快，一周以前，我还是幸福的女孩。可是现在，他
+: 把我视为陌路，视为仇人。是我错了吗？呵呵。我的坦白，我的执着，反馈给我的却是猜疑
+: ，却是指责。心里好委屈啊。真的好委屈。为什么，难道男生都那么在意女孩子的感情经历吗？谁能告诉我该怎么办？哪一天我会幸福那？
+: ...................
+

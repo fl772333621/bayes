@@ -1,0 +1,25 @@
+Return-Path: <tao@rbl.ccert.edu.cn>
+Received: from rbl.ccert.edu.cn (rbl.ccert.edu.cn [202.112.57.71])
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id i9HCW0Yb011428
+	for <mo@ccert.edu.cn>; Sun, 17 Oct 2004 20:32:01 +0800 (CST)
+Received: from rbl.ccert.edu.cn (localhost.localdomain [127.0.0.1])
+	by rbl.ccert.edu.cn (8.12.11/8.12.11) with ESMTP id i9HCbghb015552
+	for <mo@ccert.edu.cn>; Sun, 17 Oct 2004 20:37:42 +0800
+Received: (from qa@localhost)
+	by rbl.ccert.edu.cn (8.12.11/8.12.11/Submit) id i9HCbfJn015551;
+	Sun, 17 Oct 2004 20:37:41 +0800
+Date: Sun, 17 Oct 2004 20:37:41 +0800
+Message-Id: <200410171237.i9HCbfJn015551@rbl.ccert.edu.cn>
+Subject: =?gb2312?B?UmU6IL3xzOzKx87SveG76TLE6rzNxO7I1Sg1KQ==?=
+To: mo@ccert.edu.cn
+From: Tran Quang Anh <tao@cernet.edu.cn>
+Content-Type: multipart/mixed; boundary="----------=_1098016662-2811-176"
+MIME-Version: 1.0
+X-UIDL: 6Ri!![?I"!Adn!!OE9!!
+
+好幸福哦。说得真好尤其第一段。
+: 结婚2年，发现对婚姻的感悟已经不是小姑娘的心情了
+: 在合适的时候，找到合适的人，过着合适自己的生活，这是人生最大的幸福。其实每对夫妻能在一起都是有很多共同点的，只是在生活的压力下，经常移了自己的性情，对生活过于的苛求，给另一半的过分压力，很容易给婚姻造成阴影。
+: 我很感激我的老公，在我很年轻的时候，让我学会如何去爱一个人，如何去包容一个人，我以前总是觉得他太软弱，太木讷。可前一阵一个朋友的典型才让我意识到我的错误，他说：“我觉得你的老公是真正的男人，虽然不爱说话。上进，专一，对老婆绝对的温柔，对朋友绝对真诚，能够包容别人的很多缺点。男人有很多种，不同的男人会以不同的方式表现自己的人格魅力”
+: ...................
+

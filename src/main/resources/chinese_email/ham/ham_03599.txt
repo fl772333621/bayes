@@ -1,0 +1,60 @@
+Return-Path: <fan@home.ccert.edu.cn>
+Received: from home.ccert.edu.cn (localhost [127.0.0.1])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id i9K1YYKo021692;
+	Wed, 20 Oct 2004 09:34:34 +0800
+Received: (from majordomo@localhost)
+	by home.ccert.edu.cn (8.13.1/8.13.1/Submit) id i9K1YYhT021691;
+	Wed, 20 Oct 2004 09:34:34 +0800
+X-Authentication-Warning: home.ccert.edu.cn: majordomo set sender to owner-ccertstaff using -f
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with SMTP id i9K1YSEX021686
+	for <chi@ccert.edu.cn>; Wed, 20 Oct 2004 09:34:28 +0800
+Received: (eyou send program); Wed, 20 Oct 2004 09:31:13 +0800
+Message-ID: <298235873.27414@mail.tsinghua.edu.cn>
+Received: from unknown (HELO mail.tsinghua.edu.cn) (unknown@127.0.0.1)
+ by 127.0.0.1 with SMTP; Wed, 20 Oct 2004 09:31:13 +0800
+X-scanvirus: By Symantec Scan Engine
+X-scanresult: CLEAN
+Received: (eqmail ); 20 Oct 2004 01:31:12 -0000
+Received: from unknown (HELO sony) (duanhx@202.112.50.6)
+  by localhost with SMTP; 20 Oct 2004 01:31:12 -0000
+Message-ID: <01bb01c4b646$7ef2e4f0$cae86fa6@sony>
+From: "fan" <fan@tsinghua.edu.cn>
+To: chi@ccert.edu.cn
+Subject: =?gb2312?B?ofEguPfOu7jfyMsstPO80rDvw6a/tL+0zu/DwLXExeDRtdCt0uk=?=
+Date: Wed, 20 Oct 2004 09:45:35 +0800
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2900.2180
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+Content-Transfer-Encoding: 8bit
+X-MIME-Autoconverted: from base64 to 8bit by home.ccert.edu.cn id i9K1YYEX021689
+Sender: owner-ccertstaff@home.ccert.edu.cn
+Precedence: bulk
+X-UIDL: $E""!5?\"!^&>!!l&g!!
+
+当初我看到这个协议时,就觉得很不公平,劝同学不要签,可惜她还是签了,现在又想讨回来
+请问如果交了1800,但在培训没有开始之前，可以讨回来么?有什么好主意,比较方便的.除了完全对薄公堂之外.
+谢谢啦!!
+培训协议书
+甲方：北京物美商业集团股份有限公司
+乙方：xxx
+   为了使乙方能够胜任工作，掌握相关的岗位技能，甲方为乙方提供培训。甲方乙方就乙方接受甲方的培训事宜达成一致意见；
+一、乙方向甲方支付培训费1800元，在参加培训前至少三个工作日交纳。培训期结束后，乙方培训考核合格并与架方签定劳动合同。该劳动合同期满（第二款所列情形除外）时，甲方将乙方交纳的培训全额返还给乙方。
+二、有下列情形之一，培训费将不予还或部分返还乙方：
+1、培训考核不合格者不予录用，培训费于培训期结束时返还50%；
+2、培训期满前，乙方自行退出培训的培训费不予返还；
+3、培训考核合格后，乙方与甲方签定的劳动合同期内，由乙方提出辞职的不予返还；
+4、乙方因触犯刑律而受到刑罚被辞退的不予返还；
+5、乙方出现重大违纪过失，由甲方接触劳动合同的不予返还；
+6、绩效考评不合格，不能胜任本职工作，由甲方解除劳动合同的不予返还。
+三、培训期间，乙方发生的任何意外时间，包括但不限于疾病、意外事故、伤害等，甲方不负任何责任，乙方应由学校或自行投意外伤害险。
+四、本协议作为未来甲乙双方签定的劳动合同的附件，与劳动合同书具有同等法律效力。
+五、本协议一式两份，甲乙双方各执一份，具有同等法律效力。
+六、因本协议发生争议，通过石景山劳动仲裁委员会仲裁解决。
+七、本协议自甲方盖章、乙方签字之日起生效。
+我个人觉得找仲裁应该可以，但是时间太久,要三个月左右.
+

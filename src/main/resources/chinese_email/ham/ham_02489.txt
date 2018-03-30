@@ -1,0 +1,31 @@
+Return-Path: <yi@mails.tsinghua.edu.cn>
+Received: from mails.tsinghua.edu.cn (mails.tsinghua.edu.cn [166.111.8.16])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id iBA3dDv6022755
+	for <pan@ccert.edu.cn>; Fri, 10 Dec 2004 11:39:13 +0800 (CST)
+Received: (eyou send program); Fri, 10 Dec 2004 11:33:52 +0800
+Message-ID: <302649631.06444@mails.tsinghua.edu.cn>
+Received: from unknown (HELO mails.tsinghua.edu.cn) (unknown@127.0.0.1)
+ by 127.0.0.1 with SMTP; Fri, 10 Dec 2004 11:33:52 +0800
+X-scanvirus: By Symantec Scan Engine
+X-scanresult: CLEAN
+X-Received: tu154210.tsinghua.edu.cn,166.111.154.210,20041210113349
+Received: from tu154210.tsinghua.edu.cn (HELO xiner) (xwang03@166.111.154.210)
+  by localhost with SMTP; 10 Dec 2004 03:33:49 -0000
+Message-ID: <001c01c4de6a$260814e0$d29a6fa6@xiner>
+From: "yi" <yi@mails.tsinghua.edu.cn>
+To: pan@ccert.edu.cn
+Subject: =?gb2312?B?UmU6INXiysfO0rz7uf3X7s+40MS1xMTQyMvBy6Oh?=
+Date: Fri, 10 Dec 2004 11:41:27 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0019_01C4DEAD.2F527CA0"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2800.1437
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1441
+X-UIDL: "o'!!Q_`"!"Jf!!=<4"!
+
+偶觉得这很不正常
+:   我的舍友，找了个比她小三岁多的男朋友（是男孩追她），当初我们都不太看好，可现在，把我们都羡慕死了。男孩子特别疼她，自从在一起，室友就像个公主，男朋友把水提到宿舍，把饭送到嘴边，而且这一年多，室友连衣服都没有洗过，都是男朋友给洗的。就连鞋带都是男朋友给系，sign.
+:   可能这对于刚恋爱的人算不得什么，可男孩在近两年来天天如此，而且非常细心，这样的男人是不是现在真的很少见呀，反正我是第一次见到。
+

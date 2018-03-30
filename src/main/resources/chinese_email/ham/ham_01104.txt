@@ -1,0 +1,32 @@
+Return-Path: <gong@sina.com>
+Received: from sina.com (sina187-158.sina.com.cn [202.106.187.158] (may be forged))
+	by home.ccert.edu.cn (8.13.1/8.13.1) with SMTP id j2ECuWBC009473
+	for <fu@ccert.edu.cn>; Mon, 14 Mar 2005 20:56:47 +0800
+Message-Id: <200503141256.j2ECuWBC009473@home.ccert.edu.cn>
+Received: (qmail 53305 invoked from network); 14 Mar 2005 13:07:47 -0000
+Received: from unknown (HELO ibm-t23) (219.224.134.126)
+  by 202.106.187.158 with SMTP; 14 Mar 2005 13:07:47 -0000
+Received: from(cheriff@sina.com) to(qa@ccert.edu.cn)
+Date: Mon, 14 Mar 2005 20:50:02 +0800
+From: "gong" <gong@sina.com>
+To: fu@ccert.edu.cn
+Subject: =?gb2312?B?UmU6IMvEtPPV5tPQ1eLDtMDbw7Sjv8qyw7TQ0NK1sci9z9estavT1rK71sHT2syrwNuwoQ==?=
+X-mailer: Foxmail 5.0 [cn]
+Mime-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: 8bit
+X-MIME-Autoconverted: from base64 to 8bit by home.ccert.edu.cn id j2ECuWBC009473
+X-UIDL: 3L(#!SC`!!9TH"!%d4!!
+
+这个劳累程度么，要看是什么部门什么项目了，hoho~~
+有的部门赶上budget稍松的项目，准点下班偶尔加班还是挺滋润的
+又赚钱又轻松的工作？不知道有没有，我还是相信有所付出才能有所收获
+再说如果找工作是这个出发点……人的欲望嘛，没有最轻松只有更轻松~没有最有钱只有更有钱
+即使是吃家底靠门路的，那也要上一代人辛苦付出阿~呵呵
+不如现在努力工作一下，就当是给下一代攒资本好啦:P
+: 我看到一哥们的辞职信里这么说：
+: “这两年，由于工作性质和作息时间，我的身体受到了极大的伤害，现在的体检报告简直和大学毕业进入D公司时的体检报告判若两人:
+: 脂肪肝，甘油三脂高，胆固醇高，血糖高，转氨酶高，视力从当时的1.5下降到现在的0.6，体重由130斤变成了现在的170斤。
+: ...................
+

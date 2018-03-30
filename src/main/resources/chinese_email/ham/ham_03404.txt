@@ -1,0 +1,29 @@
+Return-Path: <guan@cernet.edu.cn>
+Received: from 8jmd55gawpz3tjh ([202.112.50.7])
+	(authenticated bits=0)
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id i9I3QnJx025282;
+	Mon, 18 Oct 2004 11:26:50 +0800 (CST)
+Message-ID: <005601c4b4c2$5abe90f0$073270ca@8jmd55gawpz3tjh>
+From: "guan" <guan@cernet.edu.cn>
+To: su@ccert.edu.cn
+Subject: =?gb2312?B?ofEgSUPJ6LzGuavLvrPPxrg=?=
+Date: Mon, 18 Oct 2004 11:27:10 +0800
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="----=_NextPart_000_0054_01C4B505.682A67D0"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2800.1437
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1441
+X-UIDL: Ak,!!1<S"!_)B"!/RB"!
+
+    钜泉光电科技（上海）有限公司是2005年在上海注册成立的集成电路设计企业。公司创办人是台湾领先和多家大陆领先IC设计公司的奠基人，在业界享有盛誉，强大的骨干团队均有在知名IC设计公司资深技术和管理经验。配合显示行业重大技术转变的时代机遇，在上海浦东张江高科技园区成立新的IC设计公司。现诚征人才加盟。
+要求：
+1。大学本科以上；
+2。微电子相关专业；
+3。熟悉IC设计的相关工具；了解IC设计的相关流程；对于IC设计有一定的认识；
+4。团队精神良好；能够吃苦耐劳；
+5。具备相关工作经验优先；
+6。服从工作安排，良好的心理素质，良好的沟通能力；
+联系邮箱：wwang@hitrendtech.com
+

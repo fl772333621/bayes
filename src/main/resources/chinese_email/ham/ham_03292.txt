@@ -1,0 +1,24 @@
+Return-Path: <yan@rbl.ccert.edu.cn>
+Received: from rbl.ccert.edu.cn (rbl.ccert.edu.cn [202.112.57.71])
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id i91BvTlp004976
+	for <xing@ccert.edu.cn>; Fri, 1 Oct 2004 19:57:29 +0800 (CST)
+Received: from rbl.ccert.edu.cn (localhost.localdomain [127.0.0.1])
+	by rbl.ccert.edu.cn (8.12.11/8.12.11) with ESMTP id i91C394l003781
+	for <xing@ccert.edu.cn>; Fri, 1 Oct 2004 20:03:09 +0800
+Received: (from qa@localhost)
+	by rbl.ccert.edu.cn (8.12.11/8.12.11/Submit) id i91C39gE003780;
+	Fri, 1 Oct 2004 20:03:09 +0800
+Date: Fri, 1 Oct 2004 20:03:09 +0800
+Message-Id: <200410011203.i91C39gE003780@rbl.ccert.edu.cn>
+Subject: =?gb2312?B?UmU6ILnY09rO0rXEuNDP6w==?=
+To: xing@ccert.edu.cn
+From: Tran Quang Anh <yan@cernet.edu.cn>
+Content-Type: multipart/mixed; boundary="----------=_1096632190-996-284"
+MIME-Version: 1.0
+X-UIDL: Q;Q"!:*W!!F59"!Q6-!!
+
+不好意思，中国队也请过德国人南斯拉夫人做主教练，时间比英格兰更早
+而且，没有英国队这一说
+: 好像来水木也有一个月了.回想一下可以明显感觉国内的大学氛围与英国大学的明显差异.如果你在国内说了一些人的缺点.那些人马上暴跳如雷.好像国内的大学还没有哪个大学的校长是外国人是吗?相对来说假如牛津大学是国内的大学.请了一个DR HOOD WHO IS A PRESIDENT OF UNIVER
+: 可以从英国足球队请瑞典人当主教练的例子.聪明的大家可以比较一下中国人＆英国人的思维习惯了吗?:)
+

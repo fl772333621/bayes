@@ -1,0 +1,36 @@
+Return-Path: <wua@tsinghua.edu.cn>
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with SMTP id j2A6KN0t031800
+	for <hua@ccert.edu.cn>; Thu, 10 Mar 2005 14:20:23 +0800
+Received: (eyou send program); Thu, 10 Mar 2005 14:17:26 +0800
+Message-ID: <310435446.02139@mail.tsinghua.edu.cn>
+Received: from unknown (HELO mail.tsinghua.edu.cn) (unknown@127.0.0.1)
+ by 127.0.0.1 with SMTP; Thu, 10 Mar 2005 14:17:26 +0800
+X-scanvirus: By Symantec Scan Engine
+X-scanresult: CLEAN
+Received: (eqmail ); 10 Mar 2005 06:17:21 -0000
+Received: from unknown (HELO sony) (duanhx@202.112.35.253)
+  by localhost with SMTP; 10 Mar 2005 06:17:21 -0000
+Message-ID: <00ee01c5253b$208962e0$0c01a8c0@sony>
+From: "wua" <wua@tsinghua.edu.cn>
+To: hua@ccert.edu.cn
+Cc: <tang@ccert.edu.cn>, =?gb2312?B?zuLWvr78?= <ke@ccert.edu.cn>,
+        "Liu Wu \(Tsinghua CERNET\)" <hong@ccert.edu.cn>,
+        <bi@ccert.edu.cn>, <su@ccert.edu.cn>
+Subject: =?gb2312?B?UmU6IKG+x+vIw87SwLSw79b6xOOhv9HrytPIy8n6yei8xr3axL+zz9X3vM6x9g==?=
+Date: Thu, 10 Mar 2005 14:33:50 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_00EB_01C5257E.2D85AF10"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2900.2180
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+X-UIDL: -[~"!o]4!!["D!!Cj)!!
+
+貌似n久前在哪见过。。
+: 大家好！我是清华研究生，现同时在央视10套《选择》栏目做策划编导。
+: 《选择》是一个关于青年人生设计的谈话节目，最近刚刚录制完改版后的第一批，将于6月下旬播出。
+: 节目形式是：每一期找一个有抱负有理想但尚未成功、需要帮助的青年人或团队，找几个相关行业的顶尖专家，分析他/她目前存在的问题，为他/她的发展提供建议、拓宽思路，比较难得的是：我们可以根据他/她的谈话表现和个人综合素质的考察，现场提供一些实习/工作/创业的机�
+: ...................
+

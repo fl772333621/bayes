@@ -1,0 +1,40 @@
+Return-Path: <pan@ccert.edu.cn>
+Received: from home.ccert.edu.cn (ccert.edu.cn [202.112.57.12])
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id iAJ1vLvl003990
+	for <he@ccert.edu.cn>; Fri, 19 Nov 2004 09:57:21 +0800 (CST)
+Received: from ccertspark (tu203021.tsinghua.edu.cn [166.111.203.21])
+	(authenticated bits=0)
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id iAJ1iZtH020233;
+	Fri, 19 Nov 2004 09:44:38 +0800
+From: "pan" <pan@ccert.edu.cn>
+To: he@ccert.edu.cn
+Cc: <jian@ccert.edu.cn>
+Subject: =?gb2312?B?ofEgu6rTzdH0ueLV0Ma4vMbL47v6t73P8tOmvezLtsq/0rvD+w==?=
+Date: Fri, 19 Nov 2004 09:56:02 +0800
+Message-ID: <001901c4cdda$f0f59f10$15cb6fa6@ccertspark>
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+X-Priority: 3 (Normal)
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook, Build 10.0.6626
+In-Reply-To: <300049396.24600@mail.tsinghua.edu.cn>
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.3790.181
+Importance: Normal
+Content-Transfer-Encoding: 8bit
+X-MIME-Autoconverted: from quoted-printable to 8bit by sea.net.edu.cn id iAJ1vLvl003990
+X-UIDL: BIe"!1TY!!]f$!!2aK"!
+
+华油阳光预招聘计算机方向的应届硕士一名，进行三维地质建模软件
+开发，有意者请发送简历到hr@oildigital.com。如有疑问，可查看
+公司网站：www.oildigital.com。
+要求：   
+1、重点学校计算机软件专业或相关专业应届硕士毕业生；  
+2、熟悉Visual  C++和.net，使用过Visual  C++开发过实际项目，熟悉OPENGL，具有良好的项目文档编写能力，有实际工作经验的人员优先；  
+3、了解最新的软件工程技术，面向对象的程序设计和开发过程，了解软件工程基本概念,包括数据库结构、网络服务、UML等；    
+4、学习能力强，有朝气，具有团队协作精神，能承受工作压力，能适应出差；  
+5、工作细致，具备与客户良好的沟通能力。  
+6、有过实际的开发经验优先。 
+待遇：面谈。
+btw：现剩余一个留京指标，欢迎理工科应届硕士加盟。
+

@@ -1,0 +1,60 @@
+Return-Path: <mei@mails.tsinghua.edu.cn>
+Received: from tsinghua.org.cn ([210.77.143.232])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with SMTP id j3LB8r7X009372
+	for <gao@ccert.edu.cn>; Thu, 21 Apr 2005 19:09:04 +0800
+Received: (eyou send program); Thu, 21 Apr 2005 19:24:52 +0800
+Message-ID: <314082692.00789@tsinghua.org.cn>
+X-EYOU-AUTOFORWARD: tsinghua.org.cn
+Received: (eyou send program); Thu, 21 Apr 2005 19:24:52 +0800
+Message-ID: <314082692.19350@tsinghua.org.cn>
+Received: from unknown (HELO eyou.net) (210.77.143.235)
+ by 210.77.143.232 with SMTP; Thu, 21 Apr 2005 19:24:52 +0800
+X-EYOU-SPAMVALUE: 0
+Received: (eyou anti_spam gateway 3.0); Thu, 21 Apr 2005 19:14:28 +0800
+Message-ID: <314082068.00478@eyou.net>
+Received: from 202.112.49.111 by 210.77.143.235 with SMTP; Thu, 21 Apr 2005 19:14:27 +0800
+Received: from Garfield. (localhost [IPv6:::1])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with ESMTP id j3LBKsPa060227
+	for <gao@ccert.edu.cn>; Thu, 21 Apr 2005 19:21:20 +0800 (CST)
+	(envelope-from toefl-bounces@gradinfo.net.edu.cn)
+Received: from mails.tsinghua.edu.cn (mails.tsinghua.edu.cn [166.111.8.16])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with SMTP id j3LBKlvd060223
+	for <gao@ccert.edu.cn>; Thu, 21 Apr 2005 19:20:49 +0800 (CST)
+	(envelope-from lguohan00@mails.tsinghua.edu.cn)
+Received: (eyou send program); Thu, 21 Apr 2005 19:11:49 +0800
+Message-ID: <314081909.05698@mails.tsinghua.edu.cn>
+Received: from 202.112.0.89 by mails.tsinghua.edu.cn with HTTP;
+	Thu, 21 Apr 2005 19:11:49 +0800
+X-WebMAIL-MUA: [202.112.0.89]
+From: "mei" <mei@mails.tsinghua.edu.cn>
+To: gao@ccert.edu.cn
+Date: Thu, 21 Apr 2005 19:11:49 +0800
+X-Priority: 3
+Subject: =?gb2312?B?UmU6ILK7y6zByw==?=
+Content-Type: multipart/mixed; boundary="----------=_1114081747-987-409"
+Cc: 
+X-BeenThere: toefl@gradinfo.net.edu.cn
+X-Mailman-Version: 2.1.5
+Precedence: list
+Reply-To: =?gb2312?B?wsC5+urP?= <mei@mails.tsinghua.edu.cn>
+List-Id: "&#26446; &#26143; &#21644; &#20182; &#30340; &#23398; &#29983;
+	&#20204; " <toefl.gradinfo.net.edu.cn>
+List-Unsubscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=unsubscribe>
+List-Archive: <http://gradinfo.net.edu.cn/mailman/private/toefl>
+List-Post: <mailto:toefl@gradinfo.net.edu.cn>
+List-Help: <mailto:toefl-request@gradinfo.net.edu.cn?subject=help>
+List-Subscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=subscribe>
+Sender: toefl-bounces@gradinfo.net.edu.cn
+Errors-To: toefl-bounces@gradinfo.net.edu.cn
+MIME-Version: 1.0
+X-UIDL: ?>`"!fGm"!?pV"!IX!"!
+
+: 刚才去紫荆水果摊买西瓜。当时是10点左右，人不多，切成半个的西瓜放了一地。我挑了半个看起来比较好的，让卖水果的给我再切一刀。因为我和gg两个人吃不了半个。
+: 结果卖水果的说这半个太小了，不给切。
+: 我说这是我能挑的最大的了。
+: ...................
+要求好像也不算太过分，不过有时候有些人是认为多一事不如少一事的，所以既然男朋友去买到了，他也就不会再计较什么。而你则不同，你希望他能帮你质问刚才摊主为什么没有把西瓜卖给你。
+呵呵，理解一下他吧。男人总会长大的，只需让他遇到让自己一夜长大的那件事情。你男朋友总有一天也会变得更加有气魄，只是这一天可能就在今天，也可能会直到你们老去。。
+

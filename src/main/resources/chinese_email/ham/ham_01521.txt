@@ -1,0 +1,26 @@
+Return-Path: <wu@rbl.ccert.edu.cn>
+Received: from rbl.ccert.edu.cn (rbl.ccert.edu.cn [202.112.57.71])
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id i9K7eY2Y017367
+	for <cao@ccert.edu.cn>; Wed, 20 Oct 2004 15:40:35 +0800 (CST)
+Received: from rbl.ccert.edu.cn (localhost.localdomain [127.0.0.1])
+	by rbl.ccert.edu.cn (8.12.11/8.12.11) with ESMTP id i9K7kN27032462
+	for <cao@ccert.edu.cn>; Wed, 20 Oct 2004 15:46:27 +0800
+Received: (from qa@localhost)
+	by rbl.ccert.edu.cn (8.12.11/8.12.11/Submit) id i9K7kNTC032461;
+	Wed, 20 Oct 2004 15:46:23 +0800
+Date: Wed, 20 Oct 2004 15:46:23 +0800
+Message-Id: <200410200746.i9K7kNTC032461@rbl.ccert.edu.cn>
+Subject: =?gb2312?B?UmU6IMTQyfqjrMDtv8ajrLGov7zExLj216jStbrDo78=?=
+To: cao@ccert.edu.cn
+From: Tran Quang Anh <wu@cernet.edu.cn>
+Content-Type: multipart/mixed; boundary="----------=_1098258387-20725-10"
+MIME-Version: 1.0
+X-UIDL: N]W!!Gf`!!4]+"!~,l!!
+
+计算机,通信
+唉，现在后悔ing
+: sorry啊 ，在公司只能上web，其他方式我也不太会使^_^。
+: 我弟弟，今年高考，数学还行，并且从小有兴趣，高二时全国奥数二等奖且排名靠前，所以数学、物理相对化学、生物要好些，语文、英语则是典型的理科男生，我估计上大学后他不能一次过6极，呵呵。
+: 所以，他应该以数学、物理类较侧重的专业为报考目标吧，但我读的是文科，不是很了解，请大家不吝赐教了。
+: ...................
+

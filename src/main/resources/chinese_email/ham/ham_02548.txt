@@ -1,0 +1,41 @@
+Return-Path: <guan@rbl.ccert.edu.cn>
+Received: from rbl.ccert.edu.cn (rbl.ccert.edu.cn [202.112.57.71])
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id i9G5HiTD019655
+	for <ling@ccert.edu.cn>; Sat, 16 Oct 2004 13:17:44 +0800 (CST)
+Received: from rbl.ccert.edu.cn (localhost.localdomain [127.0.0.1])
+	by rbl.ccert.edu.cn (8.12.11/8.12.11) with ESMTP id i9G5NKwc025820
+	for <ling@ccert.edu.cn>; Sat, 16 Oct 2004 13:23:23 +0800
+Received: (from qa@localhost)
+	by rbl.ccert.edu.cn (8.12.11/8.12.11/Submit) id i9G5NKxb025819;
+	Sat, 16 Oct 2004 13:23:20 +0800
+Date: Sat, 16 Oct 2004 13:23:20 +0800
+Message-Id: <200410160523.i9G5NKxb025819@rbl.ccert.edu.cn>
+Subject: =?gb2312?B?ofEg1dDGuEhhcmR3YXJlIERldmVsb3BtZW50IE1hbmFnZXI=?=
+To: ling@ccert.edu.cn
+From: Tran Quang Anh <guan@cernet.edu.cn>
+Content-Type: multipart/mixed; boundary="----------=_1097904203-2811-84"
+MIME-Version: 1.0
+X-UIDL: b2L"!'2""!=01!!2>^!!
+
+带人发贴，勿回本人信箱。
+年薪应该有20w。
+请联系：eric@promo.com.cn
+Summary:
+The Hardware Development Manager works at the Engineering Team in Beijing. He/she is responsible for designing the hardware architect of global software security product and managing the hardware development team 
+As the technical specialist, he/she is required to understand a lot of selectable microprocessors in order to choose the right chip for the product. Secondly, he/she should be familiar with the computer bus protocols and network protocols. Furthermore, he/she should have abilities of programming firmware and driver so that a prototype can be developed. Lastly, the experience about encryption and software protection is highly helpful.
+As the team leader, he/she should have good management, communication and   development skills, in order to build and lead the effective team to ensure the project development on time and with good quality.
+Requirements:
+Education:  Master degree in science and technology, computer related
+Experience: 5 years of industry experience, 3 years of architecture and system design, at least 3 years management experience.
+Skills:
+C/C++, Microprocessor, Driver for Windows, Firmware design, hardware design
+Excellent Documentation and Spoken English skill
+Specific Job Duties:  
+1.Managing the effective team.
+2.Hardware &amp; firmware development management and project management.
+3.Work together with other engineering teams for whole system.
+4.Systematically analyze product concept and bring it into reality.
+5.Track the technology innovation and adopt advanced technology in the product.
+6.Design the architecture of hardware product and improve the performance constantly.
+7.Understand the theory and practice of security and apply it to the product.
+

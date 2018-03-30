@@ -1,0 +1,25 @@
+Return-Path: <cen@rbl.ccert.edu.cn>
+Received: from rbl.ccert.edu.cn (rbl.ccert.edu.cn [202.112.57.71])
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id i8U93DJx024153
+	for <lv@ccert.edu.cn>; Thu, 30 Sep 2004 17:03:13 +0800 (CST)
+Received: from rbl.ccert.edu.cn (localhost.localdomain [127.0.0.1])
+	by rbl.ccert.edu.cn (8.12.11/8.12.11) with ESMTP id i8U98n8h007891
+	for <lv@ccert.edu.cn>; Thu, 30 Sep 2004 17:08:49 +0800
+Received: (from qa@localhost)
+	by rbl.ccert.edu.cn (8.12.11/8.12.11/Submit) id i8U98nog007890;
+	Thu, 30 Sep 2004 17:08:49 +0800
+Date: Thu, 30 Sep 2004 17:08:49 +0800
+Message-Id: <200409300908.i8U98nog007890@rbl.ccert.edu.cn>
+Subject: =?gb2312?B?UmU6INbcxKlnZ7W9ztK80szhx9c=?=
+To: lv@ccert.edu.cn
+From: Tran Quang Anh <cen@cernet.edu.cn>
+Content-Type: multipart/mixed; boundary="----------=_1096535329-996-260"
+MIME-Version: 1.0
+X-UIDL: a`/"!cg`"!#W1"!&R'#!
+
+幸福啊，真是羡慕~~~~
+: 我们周五回家，周日晚上回来的。
+: 周六早上到家，先到墓地看望已故的爷爷奶奶，下午回来路遇暴雨冰雹，快到家时才发现家附近居然斜阳晴空；晚上他和爸爸妈妈说了，然后听取了爸爸妈妈的意见；
+: 第二天早上我们去看望了姥姥、姥爷，正好小姨也在，听到这个消息大家都很高兴。我们没吃午饭就去街上给爸爸妈妈买跑步机，付款、联系送货，匆忙赶回家吃上几口饭，就背起行李打车奔赴火车站，6个小时以后就回到了北京。
+: ...................
+

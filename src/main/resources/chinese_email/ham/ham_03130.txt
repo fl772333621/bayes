@@ -1,0 +1,35 @@
+Return-Path: <gao@tsinghua.edu.cn>
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id iA17REv8009053
+	for <han@ccert.edu.cn>; Mon, 1 Nov 2004 15:27:14 +0800 (CST)
+Received: (eyou send program); Mon, 01 Nov 2004 15:12:33 +0800
+Message-ID: <299293153.02047@mail.tsinghua.edu.cn>
+Received: from unknown (HELO mail.tsinghua.edu.cn) (unknown@127.0.0.1)
+ by 127.0.0.1 with SMTP; Mon, 01 Nov 2004 15:12:33 +0800
+X-scanvirus: By Symantec Scan Engine
+X-scanresult: CLEAN
+Received: (eqmail ); 1 Nov 2004 07:12:32 -0000
+Received: from unknown (HELO sony) (duanhx@202.112.50.214)
+  by localhost with SMTP; 1 Nov 2004 07:12:32 -0000
+Message-ID: <008701c4bfe4$30aed770$d63270ca@sony>
+From: "gao" <gao@tsinghua.edu.cn>
+To: han@ccert.edu.cn
+Subject: =?gb2312?B?UmU6IL3hu+nC8Cy63M23zbQ=?=
+Date: Mon, 1 Nov 2004 15:27:04 +0800
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2900.2180
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+Content-Transfer-Encoding: 8bit
+X-MIME-Autoconverted: from base64 to 8bit by sea.net.edu.cn id iA17REv8009053
+X-UIDL: 1&L!!pQ@!!dZB"!UmJ!!
+
+发现你是被考研折磨的心情不好了
+: 最近和bf关系有点让我疑惑了.他研究生毕业马上工作了,我们认识也有三年了,我希望尽快结婚,至少领证.我不想不明不白的.但是他说刚工作就结婚休假(结婚有10天婚假),影响不好.还是明年五一或十一结婚,那时一起休假天数多可以好好玩,或者现在领证了不告诉公司就不休婚假.开�
+: 然后说到考研,我希望考A大学的最热门的专业,去年我已经上了复试线,面试时没过关.我是跨专业跨学校考,功底不好而且只复习了3个月.今年我想换个容易点的专业.现在白天上班,晚上看书,经常看到2/3点.他说算了别考了,至少不要考A学校了,现在工作了复习时间不多,而且竞争太激�
+: 其实在经济上不支持我也没什么,我辛苦点呗,这样他压力不大.但是不要在我看书的时候老是打击我,说我肯定考不上之类的话,弄得我我无所适从,心理负担很重.平时他也是不怎么做家务,不会主动做饭,扫地,洗衣.其实两个人家务本来就不多,30分钟就可以做完,但是他没事就打游戏,上
+: ...................
+

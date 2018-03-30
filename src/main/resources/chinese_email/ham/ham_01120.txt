@@ -1,0 +1,25 @@
+Return-Path: <hu@rbl.ccert.edu.cn>
+Received: from rbl.ccert.edu.cn (rbl.ccert.edu.cn [202.112.57.71])
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id i96AxhSK003325
+	for <ning@ccert.edu.cn>; Wed, 6 Oct 2004 18:59:43 +0800 (CST)
+Received: from rbl.ccert.edu.cn (localhost.localdomain [127.0.0.1])
+	by rbl.ccert.edu.cn (8.12.11/8.12.11) with ESMTP id i96B5d4S016708
+	for <ning@ccert.edu.cn>; Wed, 6 Oct 2004 19:05:39 +0800
+Received: (from qa@localhost)
+	by rbl.ccert.edu.cn (8.12.11/8.12.11/Submit) id i96B5dr3016707;
+	Wed, 6 Oct 2004 19:05:39 +0800
+Date: Wed, 6 Oct 2004 19:05:39 +0800
+Message-Id: <200410061105.i96B5dr3016707@rbl.ccert.edu.cn>
+Subject: =?gb2312?B?UmU6INXi0fm1xLT90/ajrNXi0fm1xLmk1/ejrNPQt6LVucewzb7C8KO/?=
+To: ning@ccert.edu.cn
+From: Tran Quang Anh <hu@cernet.edu.cn>
+Content-Type: multipart/mixed; boundary="----------=_1097060739-996-598"
+MIME-Version: 1.0
+X-UIDL: 2=R!!\:>"!I$9"!:!l"!
+
+多长的合同啊，违约金多少?
+先干着慢慢找别的工作吧
+: 一朋友来京找工作2个多月，最近终于签在一家中美合资的企业，德菲电气，做仪器仪表的。工作地点在延庆经济开发区，包住，试用期月薪1200好像，也许能够解决户口，已经签三方了。
+: 公司是做代理进口仪器仪表起家的，有10多年的“历史”，朋友的职位是电子工程师。
+: 在那么偏远的地方，拿着一点小钱，不知道工作内容会不会只是别人设计，自己只是负责出图这种技术含量不高的工作。。。。
+

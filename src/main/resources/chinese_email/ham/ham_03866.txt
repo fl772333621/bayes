@@ -1,0 +1,39 @@
+Return-Path: <pu@rbl.ccert.edu.cn>
+Received: from rbl.ccert.edu.cn (rbl.ccert.edu.cn [202.112.57.71])
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id i987dNiX005120
+	for <cai@ccert.edu.cn>; Fri, 8 Oct 2004 15:39:24 +0800 (CST)
+Received: from rbl.ccert.edu.cn (localhost.localdomain [127.0.0.1])
+	by rbl.ccert.edu.cn (8.12.11/8.12.11) with ESMTP id i987jPEr008616
+	for <cai@ccert.edu.cn>; Fri, 8 Oct 2004 15:45:25 +0800
+Received: (from qa@localhost)
+	by rbl.ccert.edu.cn (8.12.11/8.12.11/Submit) id i987jPMm008615;
+	Fri, 8 Oct 2004 15:45:25 +0800
+Date: Fri, 8 Oct 2004 15:45:25 +0800
+Message-Id: <200410080745.i987jPMm008615@rbl.ccert.edu.cn>
+Subject: =?gb2312?B?UmU6INX0yMu9zM7S1fTC+M23?=
+To: cai@ccert.edu.cn
+From: Tran Quang Anh <pu@cernet.edu.cn>
+Content-Type: multipart/mixed; boundary="----------=_1097221525-1044-312"
+MIME-Version: 1.0
+X-UIDL: ;W-"!7SF!!Wo0!!&]3!!
+
+ 我懒得回站内信箱了。
+ 简单的告诉你一下办法。
+ 先把少量的面（大概一小碗），少量发酵粉放在一个小盆里。
+ 然后倒入温水，搅拌成糊状的，尽量要稀一些，这样好发酵。
+ 放在高温处当然太阳下（我家一般这样），大概半天时间吧。
+ 等到有很多小泡泡的时候，大概就可以了。
+ 在面盆里放入你想蒸馒头的面粉，把小盆里发酵的倒入，
+ 然后用温水，和面。
+ 面和好之后，就跟刚才的发酵一样。
+ 夏天一般比较快，也就两三个小时足以。
+ 判断发酵好的方法是：用刀切一块面团，看里面是否布满蜂窝状的小孔。
+ 如果有，那就说明发酵好了。可以将面团拿出来。做成馒头。
+ 然后将馒头放在那里等（我们叫起），现在的天气也就是两个小时或者更短。
+ 拿到手里感觉馒头比较轻了，比最开始做的，这个时候就可以放在锅里蒸了。
+ 我写的复杂，其实真正做起来，很容易的。
+ 祝大家都能蒸出好吃的馒头来。
+: RT
+: 包括和面、发酵等一系列流程，有意者请将功略发到站内。
+: 谢谢。
+

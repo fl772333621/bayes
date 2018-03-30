@@ -1,0 +1,68 @@
+Return-Path: <yang@compass.net.edu.cn>
+Received: from tsinghua.org.cn ([210.77.143.231])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id iBN721L2020518
+	for <sun@ccert.edu.cn>; Thu, 23 Dec 2004 15:02:03 +0800
+Received: (eyou send program); Thu, 23 Dec 2004 14:39:29 +0800
+Received: (eyou send program); Thu, 23 Dec 2004 14:39:28 +0800
+X-EYOU-ORIGINAL-IP: 210.77.143.235
+X-EYOU-ENVELOPE-MAILFROM: toefl-bounces@server.cool-meeting.com
+Received: from unknown (HELO eyou.net) (unknown@210.77.143.235)
+ by 210.77.143.231 with SMTP; Thu, 23 Dec 2004 14:39:28 +0800
+Received: (eyou send program); Thu, 23 Dec 2004 14:54:03 +0800
+Message-ID: <303784843.08659@eyou.net>
+Received: from 202.38.99.65 by 210.77.143.235 with SMTP; Thu, 23 Dec 2004 14:54:00 +0800
+Received: from server.cool-meeting.com (localhost.localdomain [127.0.0.1])
+	by server.cool-meeting.com (8.12.8/8.12.8) with ESMTP id iBN7Julh011272
+	for <sun@ccert.edu.cn>; Thu, 23 Dec 2004 15:20:07 +0800
+Received: from sun.com ([202.38.188.130])
+	by server.cool-meeting.com (8.12.8/8.12.8) with ESMTP id iBN7Jkkr011268
+	for <sun@ccert.edu.cn>; Thu, 23 Dec 2004 15:19:47 +0800
+Received: from [210.25.128.113] ([210.25.128.113])
+	by sun.com (8.9.2/8.9.2) with ESMTP id PAA10466
+	for <sun@ccert.edu.cn>;
+	Thu, 23 Dec 2004 15:02:48 +0800 (CST)
+Message-ID: <41CA6BED.6040200@compass.net.edu.cn>
+Date: Thu, 23 Dec 2004 14:55:41 +0800
+From: Shaozhi Ye <yang@compass.net.edu.cn>
+User-Agent: Mozilla Thunderbird 1.0 (Windows/20041206)
+X-Accept-Language: en-us, en
+MIME-Version: 1.0
+To: sun@ccert.edu.cn
+Content-Type: text/plain; charset=GB2312
+Content-Transfer-Encoding: 8bit
+Cc: 
+Subject: =?gb2312?B?ofEgW822xrFdyq7E6suuxL68zcTu1b7JwMnovMbNtsaxv6rG9CjXqrzEKSAo16rU2Ck=?=
+X-BeenThere: toefl@server.cool-meeting.com
+X-Mailman-Version: 2.1.2
+Precedence: list
+List-Id: &#26446;&#26143;&#21644;&#20182;&#30340;&#23398;&#29983;&#20204;
+	<toefl.server.cool-meeting.com>
+List-Unsubscribe: <http://server.cool-meeting.com/mailman/listinfo/toefl>,
+	<mailto:toefl-request@server.cool-meeting.com?subject=unsubscribe>
+List-Archive: <http://server.cool-meeting.com/mailman/private/toefl>
+List-Post: <mailto:toefl@server.cool-meeting.com>
+List-Help: <mailto:toefl-request@server.cool-meeting.com?subject=help>
+List-Subscribe: <http://server.cool-meeting.com/mailman/listinfo/toefl>,
+	<mailto:toefl-request@server.cool-meeting.com?subject=subscribe>
+Sender: toefl-bounces@server.cool-meeting.com
+Errors-To: toefl-bounces@server.cool-meeting.com
+X-UIDL: PP8"!&4$#!mA/"!>12!!
+
+来  源: 211.151.90.87 
+【 以下文字转载自 P6 的信箱 】
+发信人: diameter (大米·蜜月中的大米), 信区: T_shirt
+标  题: [投票]十年水木纪念站衫设计投票开启
+发信站: 水木社区 (Thu Jun  9 00:32:34 2005), 站内
+版面按V进入投票
+十年水木纪念站衫设计投票分为两部分
+  1 diameter     Jun  9 十年水木纪念站衫设计投票(白色款W1-W32)  
+  2 diameter     Jun  9 十年水木纪念站衫设计投票(白(W33,34)/黑/其他)
+投票说明:
+1. 每人8票,投票结束于6.10号18:30
+2. 作品链接:
+   白色: http://www.newsmth.net/tshirt/vote/white.html
+   黑色: http://www.newsmth.net/tshirt/vote/black.html
+   其他: http://www.newsmth.net/tshirt/vote/other.html
+   所有: http://www.newsmth.net/tshirt/vote/index.html
+   作品详细链接请查阅版面文摘区,以编号(eg, W23, B11)为关键字搜索.
+

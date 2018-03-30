@@ -1,0 +1,38 @@
+Return-Path: <wei@cernet.edu.cn>
+Received: from tsinghua.org.cn ([210.77.143.228])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id iAG3G1LI004954
+	for <wang@ccert.edu.cn>; Tue, 16 Nov 2004 11:16:02 +0800
+Received: (eyou send program); Tue, 16 Nov 2004 11:28:27 +0800
+Received: (eyou send program); Tue, 16 Nov 2004 11:28:26 +0800
+X-EYOU-ORIGINAL-IP: 210.77.143.235
+X-EYOU-ENVELOPE-MAILFROM: wlzxrs@cernet.edu.cn
+Received: from unknown (HELO eyou.net) (unknown@210.77.143.235)
+ by 210.77.143.228 with SMTP; Tue, 16 Nov 2004 11:28:26 +0800
+Received: (eyou send program); Tue, 16 Nov 2004 11:24:17 +0800
+Message-ID: <300575457.10012@eyou.net>
+Received: from 202.112.5.66 by 210.77.143.235 with SMTP; Tue, 16 Nov 2004 11:24:06 +0800
+Received: from 56ls81hgnjb0ggr ([202.112.4.6])
+	(authenticated bits=0)
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id iAG3SAct020890
+	for <wang@ccert.edu.cn>; Tue, 16 Nov 2004 11:28:11 +0800 (CST)
+Message-Id: <200411160328.iAG3SAct020890@sea.net.edu.cn>
+From: "wei" <wei@cernet.edu.cn>
+Reply-To: wei@cernet.edu.cn
+To: wang@ccert.edu.cn
+Subject: =?gb2312?B?ofEgMjAwNcTqM9TCNMjVo6jNrNK7zOzEs7n6xvPD5srUvq3A+qOp?=
+X-mailer: Foxmail 4.2 [cn]
+Mime-Version: 1.0
+Content-Type: multipart/mixed;
+      boundary="=====000_Dragon473784377465_====="
+Date: Tue, 16 Nov 2004 11:27:26 +0800
+X-UIDL: f]@!!#?Z!!>8["!n[L!!
+
+时间：2005年3月4日15：30－15：45
+国有企业的面试果然不同于外企，进了面试间，就被安排坐在和几位考官面对的沙发上，我的面前是一个矮矮的小茶几，这样他们刚好可以舒服地俯视我。
+照例先是自我介绍，这一套说得自然已是纯熟，并且吸取了上次在华润面试失败地教训，放慢了语速，降低了声调。
+随后几位考官（主要是两位男士）发问，看似很随意地问了我一些和专业相关的问题，比如写过的文章都是哪一类型，曾经发表过些什么文章（估计这是我的软肋，因为我发表过的文章很少），有没有写过报告一类的文章，我都一一做了说明。从他们的表情也看不出他们是不是满意，不过我对自己的仪态很满意，看来注意就是会变好的。
+还让我设想一下工作的状态，我说自己更喜欢和人打交道的工作，还问了为什么不去媒体，也不做记者，我说这个工作对于女生有诸多不便利。
+最后轮到我问问题，首先问了岗位的情况，结果说就是和文字打交道，我心里想"肯定挂了"，于是就问了一下，面试的人当然表示不会受影响。接下来的时间他们一直让我问，关于他们亏损的事儿我实在没好意思问，于是就打了个边鼓，问了一下企业的功能方向。
+总体来说，今天表现比较好的就是仪态和肢体语言的合理运用，陈述自己的观点时也基本上做到了有理有节。不好的是好像是杨森面试的惯性还在持续，所以没有顺着他们的意思说，而是诚实地表达了自己的想法，也许在国企服从是比较受欢迎的吧。
+随后，先后有一些意外情况出现，有人敲门，中间被打断了两次，面试官中无人致歉，我想他们完全没有当回事吧。
+

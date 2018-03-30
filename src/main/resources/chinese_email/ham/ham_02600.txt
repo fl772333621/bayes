@@ -1,0 +1,37 @@
+Return-Path: <yi@tsinghua.edu.cn>
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id iAA1VXYs023616
+	for <ma@ccert.edu.cn>; Wed, 10 Nov 2004 09:31:33 +0800 (CST)
+Received: (eyou send program); Wed, 10 Nov 2004 09:16:38 +0800
+Message-ID: <300049398.24600@mail.tsinghua.edu.cn>
+Received: from unknown (HELO mail.tsinghua.edu.cn) (unknown@127.0.0.1)
+ by 127.0.0.1 with SMTP; Wed, 10 Nov 2004 09:16:38 +0800
+X-scanvirus: By Symantec Scan Engine
+X-scanresult: NOREP
+Received: (eqmail ); 10 Nov 2004 01:16:30 -0000
+Received: from unknown (HELO sony) (duanhx@202.112.50.214)
+  by localhost with SMTP; 10 Nov 2004 01:16:30 -0000
+Message-ID: <012f01c4c6c4$f7599770$c60370ca@sony>
+From: "yi" <yi@tsinghua.edu.cn>
+To: ma@ccert.edu.cn
+References: <299636717.19631@mail.tsinghua.edu.cn>
+Subject: =?gb2312?B?UmU6INT1w7TIw7Xa0rvVwrXE0rPC686qMdG9Li4u?=
+Date: Wed, 10 Nov 2004 09:30:49 +0800
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2900.2180
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+Content-Transfer-Encoding: 8bit
+X-MIME-Autoconverted: from base64 to 8bit by sea.net.edu.cn id iAA1VXYs023616
+X-UIDL: H:9!!X[I!!eRO"!JPG"!
+
+         　　我那妖媚性感的外形和冰清玉洁的气质（以前同学评价我的原话）让我
+无论走到哪里都会被众人的目光“无情地”揪出来。我总是很焦点。我那张耐看的脸，配上
+那副火爆得让男人流鼻血的身体，就注定了我前半生的悲剧。我也曾有过傲人的辉煌，但这
+些似乎只与我的外表有关，我不甘心命运对我无情的嘲弄，一直渴望用自己的内秀来展现自
+己的内在美……                                                                  
+: dianz dianz
+

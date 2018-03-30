@@ -1,0 +1,51 @@
+Return-Path: <liao@rbl.ccert.edu.cn>
+Received: from rbl.ccert.edu.cn (rbl.ccert.edu.cn [202.112.57.71])
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id i9B7FL3k000990
+	for <yun@ccert.edu.cn>; Mon, 11 Oct 2004 15:15:21 +0800 (CST)
+Received: from rbl.ccert.edu.cn (localhost.localdomain [127.0.0.1])
+	by rbl.ccert.edu.cn (8.12.11/8.12.11) with ESMTP id i9B7KdVh000450
+	for <yun@ccert.edu.cn>; Mon, 11 Oct 2004 15:20:40 +0800
+Received: (from qa@localhost)
+	by rbl.ccert.edu.cn (8.12.11/8.12.11/Submit) id i9B7KdP6000449;
+	Mon, 11 Oct 2004 15:20:39 +0800
+Date: Mon, 11 Oct 2004 15:20:39 +0800
+Message-Id: <200410110720.i9B7KdP6000449@rbl.ccert.edu.cn>
+Subject: =?gb2312?B?UmU6INXi1tbS0rjOwb221LDrtcS87NHpveG5+7Wlzru74b71tcOyu7rDwvCjvw==?=
+To: yun@ccert.edu.cn
+From: Tran Quang Anh <liao@cernet.edu.cn>
+Content-Type: multipart/mixed; boundary="----------=_1097479240-1014-104"
+MIME-Version: 1.0
+X-UIDL: p2N!!\W*"!8'\"!fc-!!
+
+医学科普:
+序号 HBsAg 抗-HBs HBeAg 抗-HBe 抗-HBc 
+1 + - + - + 
+2 + - - - + 
+3 + - - + + 
+4 - + - - + 
+5 - - - + + 
+6 - - - - + 
+7 - + - - - 
+8- + - + + 
+9 + - - - - 
+10 + - - + - 
+11 + - + - - 
+12 + - + + + 
+解释:
+1、 俗称乙肝大三阳说明患者是慢性肝炎，有传染性。
+2、 急性乙肝感染阶段或者是慢性乙肝表面抗原携带者，传染性弱些。
+3、 乙肝已趋向恢复，属于慢性携带者，传染性弱，长时间持续此种态可转变为肝癌。
+4、 既往感染过乙肝，现在仍有免疫力，属于不典型恢复期，也可能为急性乙肝感染期。
+5、 既往有乙肝感染，属于急性感染恢复期，也少数人仍有传染性。
+6、 过去有乙肝感染或现在正处于急性感染。
+7、 以前打过乙肝疫苗或以前感染过乙肝。
+8、 急性乙肝恢复期，以前感染过乙肝。
+9、 急性感染早期或者慢性乙肝表面抗原携带者传染性弱。
+10、 慢性乙肝表面抗原携带者易转阴或者是急性感染趋向恢复。
+11、 早期乙肝感染或者慢性携带者，传染性强。
+12、 急性乙肝感染趋向恢复或者为慢性携带者。
+: 发信人: pig101 (pig101), 信区: Medicine
+: 标  题: 帮忙看看乙肝两对半的检验结果
+: 发信站: 水木社区 (Thu Jun  2 10:37:36 2005), 站内
+: ...................
+

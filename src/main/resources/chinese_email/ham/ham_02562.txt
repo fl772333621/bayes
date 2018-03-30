@@ -1,0 +1,60 @@
+Return-Path: <zhu@ns.6test.edu.cn>
+Received: from tsinghua.org.cn ([210.77.143.231])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id j0L2EmE5004936
+	for <zhuang@ccert.edu.cn>; Fri, 21 Jan 2005 10:14:49 +0800
+Received: (eyou send program); Fri, 21 Jan 2005 10:05:24 +0800
+Received: (eyou send program); Fri, 21 Jan 2005 10:05:24 +0800
+X-EYOU-ORIGINAL-IP: 210.77.143.235
+X-EYOU-ENVELOPE-MAILFROM: toefl-bounces@server.cool-meeting.com
+Received: from unknown (HELO eyou.net) (unknown@210.77.143.235)
+ by 210.77.143.231 with SMTP; Fri, 21 Jan 2005 10:05:24 +0800
+Received: (eyou send program); Fri, 21 Jan 2005 10:19:14 +0800
+Message-ID: <306273954.24439@eyou.net>
+Received: from 202.38.99.65 by 210.77.143.235 with SMTP; Fri, 21 Jan 2005 10:19:13 +0800
+Received: from server.cool-meeting.com (localhost.localdomain [127.0.0.1])
+	by server.cool-meeting.com (8.12.8/8.12.8) with ESMTP id j0L0a0vA014681
+	for <zhuang@ccert.edu.cn>; Fri, 21 Jan 2005 08:36:06 +0800
+Received: from ns.6test.edu.cn ([202.38.99.18])
+	by server.cool-meeting.com (8.12.8/8.12.8) with ESMTP id j0L0ZruL014678
+	for <zhuang@ccert.edu.cn>; Fri, 21 Jan 2005 08:35:53 +0800
+Received: from tu203096.ip.tsinghua.edu.cn ([166.111.203.96])
+	by ns.6test.edu.cn with asmtp (Exim 4.12)
+	id 1Crotp-000MkG-00; Fri, 21 Jan 2005 10:51:49 +0800
+Message-ID: <41F06841.6090500@ns.6test.edu.cn>
+Date: Fri, 21 Jan 2005 10:26:09 +0800
+From: CHEN Maoke <zhu@ns.6test.edu.cn>
+User-Agent: Mozilla Thunderbird 0.9 (Macintosh/20041103)
+X-Accept-Language: en-us, en
+MIME-Version: 1.0
+To: zhuang@ccert.edu.cn
+Subject: Re: [TOEFL] Email address changing
+References: <20050120161347.GA1108@compass.net.edu.cn>
+	<20050121015513.GB2330@compass.net.edu.cn>
+In-Reply-To: <20050121015513.GB2330@compass.net.edu.cn>
+Content-Type: text/plain; charset=GB2312
+Content-Transfer-Encoding: 8bit
+X-MIME-Autoconverted: from base64 to 8bit by server.cool-meeting.com id
+	j0L0ZruL014678
+Cc: yi@ccert.edu.cn
+X-BeenThere: toefl@server.cool-meeting.com
+X-Mailman-Version: 2.1.2
+Precedence: list
+List-Id: &#26446;&#26143;&#21644;&#20182;&#30340;&#23398;&#29983;&#20204;
+	<toefl.server.cool-meeting.com>
+List-Unsubscribe: <http://server.cool-meeting.com/mailman/listinfo/toefl>,
+	<mailto:toefl-request@server.cool-meeting.com?subject=unsubscribe>
+List-Archive: <http://server.cool-meeting.com/mailman/private/toefl>
+List-Post: <mailto:toefl@server.cool-meeting.com>
+List-Help: <mailto:toefl-request@server.cool-meeting.com?subject=help>
+List-Subscribe: <http://server.cool-meeting.com/mailman/listinfo/toefl>,
+	<mailto:toefl-request@server.cool-meeting.com?subject=subscribe>
+Sender: toefl-bounces@server.cool-meeting.com
+Errors-To: toefl-bounces@server.cool-meeting.com
+X-UIDL: W~C!!&bF!!$5U"!+EF"!
+
+说实在的....我想起来中国是离婚里头的绢子..恩..自我检讨一下我抬不厚道...
+: 今天早上我们吃完饭就去家旁边的俱乐部打球了。这是这么多年来他第一次陪我打乒乓球，在打球以前他手机响了，他和我说要接个电话就躲出去接了，当时我也没多心。
+: 我们玩儿得很开心，他边玩边和我讲以后的发展，因为最近一年公司派他到外地做区域经理了，他和我说打算做两年就回来。存点钱和我一起开公司或者做个小生意，然后过这种周末能一起运动放松的生活。
+: 打完球我们去吃饭，他和我说下午走，回家后让我帮他整理行李。我边干活他边和我聊天，这时候又接了一个电话，他去客厅接的，还开了电视。这时候我开始想昨天和今天网友的回帖，觉得这两个电话不大对头。
+: ...................
+

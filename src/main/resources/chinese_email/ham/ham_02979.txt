@@ -1,0 +1,59 @@
+Return-Path: <wu@rbl.ccert.edu.cn>
+Received: from rbl.ccert.edu.cn (rbl.ccert.edu.cn [202.112.57.71])
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id i9INtCvX015038
+	for <xie@ccert.edu.cn>; Tue, 19 Oct 2004 07:55:12 +0800 (CST)
+Received: from rbl.ccert.edu.cn (localhost.localdomain [127.0.0.1])
+	by rbl.ccert.edu.cn (8.12.11/8.12.11) with ESMTP id i9J00v9Q003431
+	for <xie@ccert.edu.cn>; Tue, 19 Oct 2004 08:00:58 +0800
+Received: (from qa@localhost)
+	by rbl.ccert.edu.cn (8.12.11/8.12.11/Submit) id i9J00vuP003430;
+	Tue, 19 Oct 2004 08:00:57 +0800
+Date: Tue, 19 Oct 2004 08:00:57 +0800
+Message-Id: <200410190000.i9J00vuP003430@rbl.ccert.edu.cn>
+Subject: =?gb2312?B?ofEg1dDGuM+4vdooU0FQKQ==?=
+To: xie@ccert.edu.cn
+From: Tran Quang Anh <wu@cernet.edu.cn>
+Content-Type: multipart/mixed; boundary="----------=_1098144058-25795-256"
+MIME-Version: 1.0
+X-UIDL: "RQ!!-0$#!Q]M"!:=G"!
+
+欢迎北京和上海的朋友应聘。
+我们是一家刚刚跟德国某公司合资成立(2005,1,10)的面向金属行业提供ERP解决方
+案的公司。公司在北京,上海,呼和浩特,包头和太原均有开发和实施中心,
+分别负责不同的任务。
+由于这次接的项目超出我们目前的人员编制,特面向社会征集贤才。
+该项目预计需要1~2年的时间才能完成.
+如果顺利,公司将获得极大发展,后续的开发项目会越来越多.
+个人也将跟随公司共同进步.
+如果失败,对公司对个人都是不小的损失。
+因此，在你考虑应聘前请慎重选择,如有问题请及时来信联系。
+目前提供的职位有:
+1,Programmer(10~20)/Tester(10~20)/implementer(10~20)
+2,SAP Designer(5)/Coordinator(5)
+3,Leader(2~3)
+任务:为太原、呼和浩特、包头等企业提供完整的基于SAP的高端三级解决方案
+需求如下:
+1,需要有丰富的JAVA(C++)开发经验--考核方法:笔试+技术人员面试;
+2,熟悉SAP,开发经验丰富--考核方法:案例分析
+3,英语流利--考核方法:面试,笔试均是英语,面试官是德国人
+4,学习能力强,适应能力强--考核方法:应聘者自己介绍+游戏测试
+5,能够连续在Berlin/Frankfurt高密度培训3~4个月,然后在太原/呼和浩特工作12~13个月
+6,身体健康,品行端正,无不良生活习惯;
+7,工作态度积极认真,要有团队合作精神,要有一定的交流能力;
+8,能经常出差,独立工作能力强
+除上述条件外,如具备下述条件中一个或多个更好:
+1,德语流利,能无障碍交流--(请提交德语简历)
+2,法语流利,能无障碍交流--(请提交法语简历)
+2,在德国留学工作过,或用德语跟德国人合作过
+3,有SAP认证和相应工作经验
+4,通晓内蒙古中西部蒙语方言--(面试时请提交蒙语简历)
+5,熟悉钢铁行业,熟悉财务管理/物流管理等
+感兴趣的朋友请将英,中简历发给yangzhentao@sigs.com.cn.
+简历请排版好,发pdf或txt格式.
+有具体疑问的请来信联系
+北京的面试时间在6.20前结束;上海的面试时间在7月初结束.
+: 替朋友的公司招人
+: java，c＋＋，英文好的，最好会德语，因为公司派到德国培训学习ERP的SAP，
+: 工资面议，有意的把中英文简历发到yangzhentao@sigs.com.cn不要回站内信箱。
+: ...................
+

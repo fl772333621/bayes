@@ -1,0 +1,43 @@
+Return-Path: <xie@rbl.ccert.edu.cn>
+Received: from rbl.ccert.edu.cn (rbl.ccert.edu.cn [202.112.57.71])
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id i920sjRd009578
+	for <guan@ccert.edu.cn>; Sat, 2 Oct 2004 08:54:45 +0800 (CST)
+Received: from rbl.ccert.edu.cn (localhost.localdomain [127.0.0.1])
+	by rbl.ccert.edu.cn (8.12.11/8.12.11) with ESMTP id i9210R4O000685
+	for <guan@ccert.edu.cn>; Sat, 2 Oct 2004 09:00:27 +0800
+Received: (from qa@localhost)
+	by rbl.ccert.edu.cn (8.12.11/8.12.11/Submit) id i9210Rpw000684;
+	Sat, 2 Oct 2004 09:00:27 +0800
+Date: Sat, 2 Oct 2004 09:00:27 +0800
+Message-Id: <200410020100.i9210Rpw000684@rbl.ccert.edu.cn>
+Subject: =?gb2312?B?UmU6IM/W1NrGosb4usO08w==?=
+To: guan@ccert.edu.cn
+From: Tran Quang Anh <xie@cernet.edu.cn>
+Content-Type: multipart/mixed; boundary="----------=_1096678827-996-312"
+MIME-Version: 1.0
+X-UIDL: GA7!!7,O!!d6d"!gW\"!
+
+这个不太正常啊
+: 标  题: 现在脾气好大
+: 发信站: 水木社区 (Wed Jun 15 12:24:21 2005), 站内
+: 
+: 
+: 太压抑了!
+: 刚才骂走了一送水的!!
+: 态度太差
+: 本来不关我事
+: 就想发泄一下
+: 还想打架!!
+: sigh!!!!!!!!!!!!
+: 
+: --
+: 我的博士的目标：
+: 
+: 第一年：我要争取做个牛博士；
+: 第二年：我要争取4年毕业；
+: 第三年：我要争取5年毕业；
+: 第四年：我要争取毕业；
+: 
+: 
+: ※ 来源:·水木社区 newsmth.net·[FROM: 202.127.20.*]
+

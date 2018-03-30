@@ -1,0 +1,28 @@
+Return-Path: <jiang@rbl.ccert.edu.cn>
+Received: from rbl.ccert.edu.cn (rbl.ccert.edu.cn [202.112.57.71])
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id i96ARoVn002817
+	for <zhong@ccert.edu.cn>; Wed, 6 Oct 2004 18:27:51 +0800 (CST)
+Received: from rbl.ccert.edu.cn (localhost.localdomain [127.0.0.1])
+	by rbl.ccert.edu.cn (8.12.11/8.12.11) with ESMTP id i96AXkrb026489
+	for <zhong@ccert.edu.cn>; Wed, 6 Oct 2004 18:33:47 +0800
+Received: (from qa@localhost)
+	by rbl.ccert.edu.cn (8.12.11/8.12.11/Submit) id i96AXkCb026488;
+	Wed, 6 Oct 2004 18:33:46 +0800
+Date: Wed, 6 Oct 2004 18:33:46 +0800
+Message-Id: <200410061033.i96AXkCb026488@rbl.ccert.edu.cn>
+Subject: =?gb2312?B?UmU6ILjQtb3D1MOjoaLAp7vzoaLO3sTOoaM=?=
+To: zhong@ccert.edu.cn
+From: Tran Quang Anh <jiang@cernet.edu.cn>
+Content-Type: multipart/mixed; boundary="----------=_1097058827-996-574"
+MIME-Version: 1.0
+X-UIDL: (V~!!T',"!oQK"!\^T!!
+
+: 不敢说自己代表了一类人的生活，但我相信在清华，有不少人
+: 有着与我或多或少类似的生活环境，类似的迷茫。在这里写出
+: 来，主要是来寻求生活经历更丰富的前辈们的建议，另一方面，
+: ...................
+偶有同感，虽然我不是清华大学的，曾经以为清华的才是真正的天之骄子，谁知也有如此的迷茫、困惑和无奈。
+我也 差不多有同样的经历，两年前考研，从一个名不见经传的大学考同济大学的研究生，都复式过了，还是差那么一点点，很遗憾，后来，调剂到武汉大学，虽然在武汉大学工科的专业不是很强，但总算是名牌大学。自己还自我感觉挺好。
+开学，上课，同样是信心百倍地开始了新的生活，选课，上课，跟着老师做点小事。 日子不知不觉中就过去了两年了，又要考虑前途了，想想自己能做什么的时候，脑子里真是空白一片，自己觉得自己比较聪明，但是现在什么也跟计算机挂钩，自己也学了一点，也是有问题就搜索引擎，很少请教别人，进步很慢，蜗牛一样爬阿。
+我也知道我自己不够牛，更重要的是我不知道我的大海里的夜明灯在哪里，真想问，你在哪？我的未来我拿什么来拯救你啊？
+

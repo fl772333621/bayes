@@ -1,0 +1,38 @@
+Return-Path: <wu@tsinghua.edu.cn>
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id iA82ctcc010470
+	for <wei@ccert.edu.cn>; Mon, 8 Nov 2004 10:38:55 +0800 (CST)
+Received: (eyou send program); Mon, 08 Nov 2004 10:24:03 +0800
+Message-ID: <299880643.00105@mail.tsinghua.edu.cn>
+Received: from unknown (HELO mail.tsinghua.edu.cn) (unknown@127.0.0.1)
+ by 127.0.0.1 with SMTP; Mon, 08 Nov 2004 10:24:03 +0800
+X-scanvirus: By Symantec Scan Engine
+X-scanresult: CLEAN
+Received: (eqmail ); 8 Nov 2004 02:20:43 -0000
+Received: from unknown (HELO sony) (duanhx@166.111.204.113)
+  by localhost with SMTP; 8 Nov 2004 02:20:43 -0000
+Message-ID: <003e01c4c53b$9a53ebf0$71cc6fa6@sony>
+From: "wu" <wu@tsinghua.edu.cn>
+To: wei@ccert.edu.cn
+Subject: =?gb2312?B?UmU6ILn6xNq1xFBIRMLbzsQ=?=
+Date: Mon, 8 Nov 2004 10:35:23 +0800
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2900.2180
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+Content-Transfer-Encoding: 8bit
+X-MIME-Autoconverted: from base64 to 8bit by sea.net.edu.cn id iA82ctcc010470
+X-UIDL: %I##!\#$#!^\)!!<ng"!
+
+你说的对，我很赞成，我们需要的是在paper里面发现启迪的东西
+而不是一味不经思考说看过的东西里没什么
+Someone told me that when you were reviewing a paper,
+you should give constructive suggestions, not destructive criticism.
+If you simply say ``trash, rabbish\'\', none, neither you nor we,
+will benefit from that.
+: 其实国内就是喜欢听好话。这样的大学什么时候才有进步呢？也许有些人还在陶醉于4大发明呢。。。。。悲哀
+: 其实管中窥豹，可见一般。国内的PHD的标准就是这样呀。。。。。我也看见北大的一个PHD ACCOUNTING的论文。也是一样的结构。晕！难道国内没有BUSINESS RESEARCH MATHODS吗？没有SPSS吗？如果只是收集资料的话。这样也算论文呀。还不如我MBA的一个ASSIGNMENT呢...
+

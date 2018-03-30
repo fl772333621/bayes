@@ -1,0 +1,37 @@
+Return-Path: <ma@tsinghua.edu.cn>
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id iBG509Si018987
+	for <zheng@ccert.edu.cn>; Thu, 16 Dec 2004 13:00:09 +0800 (CST)
+Received: (eyou send program); Thu, 16 Dec 2004 12:44:47 +0800
+Message-ID: <303172286.15946@mail.tsinghua.edu.cn>
+Received: from unknown (HELO mail.tsinghua.edu.cn) (unknown@127.0.0.1)
+ by 127.0.0.1 with SMTP; Thu, 16 Dec 2004 12:44:47 +0800
+X-scanvirus: By Symantec Scan Engine
+X-scanresult: CLEAN
+Received: (eqmail ); 16 Dec 2004 04:18:03 -0000
+Received: from unknown (HELO sony) (duanhx@166.111.204.106)
+  by localhost with SMTP; 16 Dec 2004 04:18:03 -0000
+Message-ID: <006601c4e328$5d4a6490$6acc6fa6@sony>
+From: "ma" <ma@tsinghua.edu.cn>
+To: zheng@ccert.edu.cn
+Cc: <cheng@ccert.edu.cn>, <zhan@ccert.edu.cn>, <rao@ccert.edu.cn>,
+        <zhuang@ccert.edu.cn>, <wua@ccert.edu.cn>, <ou@ccert.edu.cn>,
+        <yun@ccert.edu.cn>, <rao@ccert.edu.cn>
+Subject: =?gb2312?B?UmU6INK71rHS1M6qztLDx8rH1+7H18PctcQg1NrSu8bwvsXE6iC7ucrH0qq31g==?=
+Date: Thu, 16 Dec 2004 12:33:15 +0800
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="----=_NextPart_000_0064_01C4E36B.6A66E2F0"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2900.2180
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+X-UIDL: ?4?"!E%/"!<hV"!\>G!!
+
+这样都能分开...
+估计是另有原因吧
+: 潜水很久了,觉得虽然是很多人在心烦时写些家庭琐事,写的人貌似心乱，而文不乱；评的人中肯而有逻辑,觉得很有水平的是。我一直不敢贸然灌水，今天确实很需要倾诉，不想说给亲人，怕他们担心，不想说给熟人，怕他们正忙，如果你今天正好有空，看到了，就随意写几句话，多�
+: 我和他在一起亲密无间整整九年了，结婚也4年了吧，其中还有一年人在两地，每晚他睡前都必须给我打一两个小时的长途电话，最长的一次分离也只有一个多月我们没有到对方的地方去探望。那时候我们钱不多，几千块钱月入基本上就在电话费和车票里了。后来我们终于在一起了，�
+: 我们是那么了解对方，经过一夜的坦诚交谈、抱头痛哭，我们就要分手了，就在这样的清晨，朦胧睡去，他还习惯性的要抓住我的胳膊，把脚压在我身上，仿佛怕我乘他睡着跑了。今天我就去找房子，打算尽快搬出去，尽早结束彷徨中的痛苦，好重新开始。
+: ...................
+

@@ -1,0 +1,28 @@
+Return-Path: <luo@rbl.ccert.edu.cn>
+Received: from rbl.ccert.edu.cn (rbl.ccert.edu.cn [202.112.57.71])
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id i97MtAOO026736
+	for <gu@ccert.edu.cn>; Fri, 8 Oct 2004 06:55:10 +0800 (CST)
+Received: from rbl.ccert.edu.cn (localhost.localdomain [127.0.0.1])
+	by rbl.ccert.edu.cn (8.12.11/8.12.11) with ESMTP id i97N1BD0002506
+	for <gu@ccert.edu.cn>; Fri, 8 Oct 2004 07:01:11 +0800
+Received: (from qa@localhost)
+	by rbl.ccert.edu.cn (8.12.11/8.12.11/Submit) id i97N1BQW002505;
+	Fri, 8 Oct 2004 07:01:11 +0800
+Date: Fri, 8 Oct 2004 07:01:11 +0800
+Message-Id: <200410072301.i97N1BQW002505@rbl.ccert.edu.cn>
+Subject: =?gb2312?B?UmU6IMfrsO/O0rnAucC82w==?=
+To: gu@ccert.edu.cn
+From: Tran Quang Anh <luo@cernet.edu.cn>
+Content-Type: multipart/mixed; boundary="----------=_1097190071-1044-138"
+MIME-Version: 1.0
+X-UIDL: /:o!!?U)"!gI;"!m7/!!
+
+切，指给出学历来，有什么用,现在的世界是看能力的。
+当然，你的学校经历还是比较好的，顺利的话，你可以进入好外企，做研发的话，即使是郎讯，给的钱也就在a选项中吧。至于别的选项，呵呵
+如果进不了外企，在中小企业的话，那就更得看你能做什么了，你牛的很的话，也就顶多B以下，不牛，a/2都是可能的。
+做技术的，刚毕业，就别做梦了。要经验，没有，要能力,不足,就拿着文凭，你以为能把老总们砸倒的吗？
+: 本人国防科大计算机本科毕业，后在通信领域工作3年，进入清华某通信专业学习，明年硕士毕业，不知道如今行情如何，请各位大虾给各参考，一般是多少价位呢？
+: a 7k--9k
+: b 9k--11k
+: ...................
+

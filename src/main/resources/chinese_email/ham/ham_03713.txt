@@ -1,0 +1,67 @@
+Return-Path: <kong@ccert.edu.cn>
+Received: from tsinghua.org.cn ([210.77.143.228])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id i8L3vMBx027231
+	for <long@ccert.edu.cn>; Tue, 21 Sep 2004 11:57:24 +0800
+Received: (eyou send program); Tue, 21 Sep 2004 12:07:18 +0800
+Received: (eyou send program); Tue, 21 Sep 2004 12:06:52 +0800
+X-EYOU-ORIGINAL-IP: 166.111.8.16
+X-EYOU-ENVELOPE-MAILFROM: zhenghui@ccert.edu.cn
+Received: from unknown (HELO mails.tsinghua.edu.cn) (unknown@166.111.8.16)
+ by 210.77.143.228 with SMTP; Tue, 21 Sep 2004 12:06:52 +0800
+Received: (eyou send program); Tue, 21 Sep 2004 12:00:52 +0800
+Message-ID: <295739252.23590@mails.tsinghua.edu.cn>
+Received: (eyou send program); Tue, 21 Sep 2004 12:00:51 +0800
+Message-ID: <295739251.01366@mails.tsinghua.edu.cn>
+Received: from unknown (HELO mails.tsinghua.edu.cn) (unknown@127.0.0.1)
+ by 127.0.0.1 with SMTP; Tue, 21 Sep 2004 12:00:51 +0800
+X-scanvirus: By Symantec Scan Engine
+X-scanresult: CLEAN
+Received: (eqmail ); 21 Sep 2004 04:00:39 -0000
+Received: from ccert.edu.cn (HELO home.ccert.edu.cn) (202.112.57.12)
+  by mails.tsinghua.edu.cn with SMTP; 21 Sep 2004 04:00:39 -0000
+Received: from home.ccert.edu.cn (localhost [127.0.0.1])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id i8L3sOO4027132;
+	Tue, 21 Sep 2004 11:54:24 +0800
+Received: (from majordomo@localhost)
+	by home.ccert.edu.cn (8.13.1/8.13.1/Submit) id i8L3sOmv027131;
+	Tue, 21 Sep 2004 11:54:24 +0800
+X-Authentication-Warning: home.ccert.edu.cn: majordomo set sender to owner-ccertstaff using -f
+Received: from ccertspark (puma.ccert.edu.cn [202.112.50.50])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id i8L3sKJr027125
+	for <long@ccert.edu.cn>; Tue, 21 Sep 2004 11:54:21 +0800
+From: "kong" <kong@ccert.edu.cn>
+To: long@ccert.edu.cn
+Subject: =?gb2312?B?ofEgveG76cTqweTSu87K?=
+Date: Tue, 21 Sep 2004 12:07:50 +0800
+Message-ID: <001801c49f90$9314afd0$323270ca@ccertspark>
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+X-Priority: 3 (Normal)
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook, Build 10.0.6626
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.3790.181
+Importance: Normal
+Content-Transfer-Encoding: 8bit
+X-MIME-Autoconverted: from base64 to 8bit by home.ccert.edu.cn id i8L3sOJr027128
+Sender: owner-ccertstaff@home.ccert.edu.cn
+Precedence: bulk
+X-UIDL: CA\"!abj"!&Ka"!"bF!!
+
+ 刚刚跟猪头宝通电话，他问我可不可以快点结婚
+ (原本我们是预计今年8月先订婚，明年底或后年再结婚)
+ 我看了婚姻法，是这么规定的∶
+ 第六条∶「结婚年龄，男不得早于二十二周岁，女不得早于二十周岁。」
+ 可是我之前听说，结婚年龄好像会因城市或农村而有不同的限制
+ 城市男子要24岁才能结婚？
+ 那城市和农村又是如何区分呢？
+ 我不太清楚他所在的地方是属于城市还是农村
+ (我觉得是介于两者之间，不过应该是偏城市吧)
+ 猪头宝现在人在外地工作，而且有点偏僻
+ 所以他没办法问这个事情，就叫我来问。
+ 他现在23岁，想要今年8月我过去时就结婚
+ 如果是满24岁才能结婚的话，那就等到明年初了
+ 所以我想请问，关于这个结婚年龄的限制，到底是怎么样呢？
+ 麻烦板上的朋友告诉我一下
+ 谢谢...:)
+

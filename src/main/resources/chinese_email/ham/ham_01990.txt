@@ -1,0 +1,36 @@
+Return-Path: <peng@tsinghua.edu.cn>
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id i9K2WHPF011720
+	for <xiao@ccert.edu.cn>; Wed, 20 Oct 2004 10:32:17 +0800 (CST)
+Received: (eyou send program); Wed, 20 Oct 2004 10:17:46 +0800
+Message-ID: <298238666.04989@mail.tsinghua.edu.cn>
+Received: from unknown (HELO mail.tsinghua.edu.cn) (unknown@127.0.0.1)
+ by 127.0.0.1 with SMTP; Wed, 20 Oct 2004 10:17:46 +0800
+X-scanvirus: By Symantec Scan Engine
+X-scanresult: CLEAN
+Received: (eqmail ); 20 Oct 2004 02:17:39 -0000
+Received: from unknown (HELO sony) (duanhx@202.112.50.6)
+  by localhost with SMTP; 20 Oct 2004 02:17:39 -0000
+Message-ID: <021a01c4b64c$fc9e2990$cae86fa6@sony>
+From: "peng" <peng@tsinghua.edu.cn>
+To: xiao@ccert.edu.cn
+Subject: =?gb2312?B?UmU6INfyze21xLK70+S/7CAo16rU2Ck=?=
+Date: Wed, 20 Oct 2004 10:32:03 +0800
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2900.2180
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+Content-Transfer-Encoding: 8bit
+X-MIME-Autoconverted: from base64 to 8bit by sea.net.edu.cn id i9K2WHPF011720
+X-UIDL: A=$"!?GB!!>FK"!/aM!!
+
+我看到你说的第一句就是：以后十二点就睡吧，大家白天还有事儿。口气已经不和善了。。
+那些本来什么什么的，就别计较了，我不是说了让你拉个床帘么。
+睡不好确实容易烦，但是和别人住一间屋子肯定有这些不方便，要是没这些问题，为啥大家还都想租单间呢 :)
+你那个室友人家还烦呢，有意见你早不说，一开口就有情绪，还摔门，摔门回来又训人。。
+这些都是同屋住难以避免的问题，犯不着这么计较
+: 我刚开始口气比较好，但是好几次他都不理我，我自然不高兴了。再说了，你仔细看看原文，他本来是可以早点睡的，但因为我在床上翻来覆去，发出了声音（床质量不好），竟然以为我是以此来向他抗议，因此才故意不睡的
+

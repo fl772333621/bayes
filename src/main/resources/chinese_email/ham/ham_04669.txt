@@ -1,0 +1,43 @@
+Return-Path: <ning@rbl.ccert.edu.cn>
+Received: from rbl.ccert.edu.cn (rbl.ccert.edu.cn [202.112.57.71])
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id i8T6rbds006440
+	for <yuan@ccert.edu.cn>; Wed, 29 Sep 2004 14:53:39 +0800 (CST)
+Received: from rbl.ccert.edu.cn (localhost.localdomain [127.0.0.1])
+	by rbl.ccert.edu.cn (8.12.11/8.12.11) with ESMTP id i8T51Nw1025084
+	for <yuan@ccert.edu.cn>; Wed, 29 Sep 2004 13:01:23 +0800
+Received: (from qa@localhost)
+	by rbl.ccert.edu.cn (8.12.11/8.12.11/Submit) id i8T51Nix025083;
+	Wed, 29 Sep 2004 13:01:23 +0800
+Date: Wed, 29 Sep 2004 13:01:23 +0800
+Message-Id: <200409290501.i8T51Nix025083@rbl.ccert.edu.cn>
+Subject: =?gb2312?B?UmU6IENTsqnKv6OsyKvE6suwx7DX3MrVyOsxMnejrNT1w7TR+aO/?=
+To: yuan@ccert.edu.cn
+From: Tran Quang Anh <ning@cernet.edu.cn>
+Content-Type: multipart/mixed; boundary="----------=_1096434083-996-136"
+MIME-Version: 1.0
+X-UIDL: Hgg"!DKb"!_a,!!cTG!!
+
+公司很大，明后年的收入肯定是能保证的
+只是我觉得这个数字不多啊，税后才9w多
+不加班倒是真的，这是我欣赏这个单位的一个因素
+如果加班是有1.5倍还是多少的加班工资的
+所以往往是员工主动要求加班都不批准，呵呵
+: 标  题: Re: CS博士，全年税前总收入12w，怎么样？
+: 发信站: 水木社区 (Fri Jun  3 10:05:25 2005), 站内
+: 
+: 如果是大公司，当然不错。
+: 如果是小公司，应该能多要点，否则今年有，明年可是不一定。
+: 
+: 不过不加班这个东西，你最好不要太相信，做IT不加班的，我工作数年，还从来没见过。除非你是专门做research的。
+: 
+: : 这12w包括了所有的收入奖金等等，所有的现金收入
+: : 当然不会加班，加班是有加班工资的
+: : 这个offer怎么样？大家说说看
+: : ...................
+: 
+: --
+: I dislike having boss!
+: 
+: 
+: ※ 来源:·水木社区 newsmth.net·[FROM: 61.51.125.*]
+

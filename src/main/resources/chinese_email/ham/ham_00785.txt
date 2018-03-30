@@ -1,0 +1,38 @@
+Return-Path: <weng@tsinghua.edu.cn>
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id i8RDh0jQ016721;
+	Mon, 27 Sep 2004 21:43:01 +0800
+Received: from huhoo ([166.111.232.94])
+	(authenticated bits=0)
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id i8RDrMo0007792;
+	Mon, 27 Sep 2004 21:53:23 +0800 (CST)
+From: "weng" <weng@tsinghua.edu.cn>
+To: tao@ccert.edu.cn
+Cc: <bai@ccert.edu.cn>,
+        "'dais'" <wu@ccert.edu.cn>,
+        <qian@ccert.edu.cn>,
+        "'wanglanjia'" <xie@ccert.edu.cn>, <wei@ccert.edu.cn>,
+        <pu@ccert.edu.cn>, "'xrlccert'" <hong@ccert.edu.cn>
+Subject: =?gb2312?B?ofEg0MLAy8340dC3otbQ0MSjqLGxvqmjqc34wufTptPDv6q3orK/1dDGuEMvQysrv6q3ormks8zK
+pg==?=
+Date: Mon, 27 Sep 2004 21:50:44 +0800
+Message-ID: <001101c4a498$ffdaa540$5ee86fa6@huhoo>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0012_01C4A4DC.0DFDE540"
+X-Priority: 3 (Normal)
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook, Build 10.0.6626
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+Importance: Normal
+In-Reply-To: 
+X-UIDL: K3=!!hi7!!BX;"!Hc/"!
+
+新浪网研发中心（北京）网络应用开发部招聘C/C++开发工程师 
+要求：
+1、熟悉C、C++、STL，熟悉 UNIX 开发环境和 GNU 系列开发工具的使用；
+2、要求具备 WEB 项目开发经验，最好有分布式系统的开发经验；
+3、有解决问题、钻研新技术的兴趣和能力，善于交流和表达；
+4、熟悉至少一种脚本语言，了解 HTTP 协议/HTML/JavaScript 等 WEB 开发常识。
+简历请发至：liuli@staff.sina.com.cn
+

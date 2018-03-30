@@ -1,0 +1,29 @@
+Return-Path: <wang@tsinghua.edu.cn>
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j1H2I67M013007
+	for <cao@ccert.edu.cn>; Thu, 17 Feb 2005 10:18:06 +0800 (CST)
+Received: (eyou send program); Thu, 17 Feb 2005 10:01:43 +0800
+Message-ID: <308605703.11041@mail.tsinghua.edu.cn>
+Received: from unknown (HELO mail.tsinghua.edu.cn) (unknown@127.0.0.1)
+ by 127.0.0.1 with SMTP; Thu, 17 Feb 2005 10:01:43 +0800
+X-scanvirus: By Symantec Scan Engine
+X-scanresult: CLEAN
+Received: (eqmail ); 17 Feb 2005 02:01:43 -0000
+Received: from unknown (HELO sony) (duanhx@202.112.35.253)
+  by localhost with SMTP; 17 Feb 2005 02:01:43 -0000
+Message-ID: <005701c51496$e72db730$0201a8c0@sony>
+From: "wang" <wang@tsinghua.edu.cn>
+To: cao@ccert.edu.cn
+Subject: =?gb2312?B?ofEg1eLR+c7S0rvWsbrcwNujrM7Svr++ubjE1PXDtNf2o78=?=
+Date: Thu, 17 Feb 2005 10:17:58 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0054_01C514D9.F42A0360"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2900.2180
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+X-UIDL: M6F"!Q?(#!aED"!Q`D!!
+
+我和GG相恋有一年了，其中有太多的甜蜜和泪水。恋爱是甜蜜的，恋爱也好辛苦，我总觉得我好像把一辈子的眼泪都用尽了。情侣间吵架是不可避免的，可是我和GG的频率似乎太高了点，三天两头的，其实也不是很大的事情，竟是些鸡毛蒜皮的小事。有些摩擦并不要紧，可是GG最让我受不了的是，就算在小的事情，他都最少一天，不给我发短信，也不打电话！过来人都会知道，这是多麽折磨人的事情，心里特别难受，我觉得这样特别伤人。大家面对面怎么说都可以，我受不了别人对我的冷漠。其实，我也试着先理GG，可次数多了，觉得很累，女生有时是不能太主动的，太主动了，男生就越发不把你当回事。我也和GG说过很多次，要他别这样不理人，GG当面都是很好，可过后还是一样。平时GG也是很疼我，我也很爱GG，可我还是觉得很累，能不能告诉我改怎么办？
+

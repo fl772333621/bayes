@@ -1,0 +1,29 @@
+Return-Path: <ling@mails.tsinghua.edu.cn>
+Received: from mails.tsinghua.edu.cn (mails.tsinghua.edu.cn [166.111.8.16])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j0HAjc8I028841
+	for <xu@ccert.edu.cn>; Mon, 17 Jan 2005 18:45:38 +0800 (CST)
+X-scanvirus: By SOPHOS Scan Engine
+X-scanresult: CLEAN
+X-Received: unknown,166.111.154.210,20050117184354
+Received: from unknown (HELO xiner) (xwang03@166.111.154.210)
+  by localhost with SMTP; 17 Jan 2005 10:43:54 -0000
+Message-ID: <002001c4fc81$a554df00$d29a6fa6@xiner>
+From: "ling" <ling@mails.tsinghua.edu.cn>
+To: xu@ccert.edu.cn
+Subject: =?gb2312?B?UmU6IPfo9+vUtrS0yO28/ijW0Ln6KdPQz965q8u+1dDGuMjtvP7Iy7LF?=
+Date: Mon, 17 Jan 2005 18:45:21 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_001D_01C4FCC4.B28E5B40"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2800.1437
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1441
+X-UIDL: G&5!!H]%"!>2%#!)V_!!
+
+公司不错，但是企业文化太差，脱不了台湾企业的风格：不尊重人。电话面试的时候就极其牛鼻。
+: 麒麟远创软件有限公司——中国市场首屈一指的业务集成技术和解决方案供货商。麒麟远创和电信、电子政务、制造业、能源和金融服务业界的专家相配合，显著地改善了跨系统、人员和交易伙伴的策略性业务流程。
+: 软件工程师 Software Engineer 
+: 电子邮箱：qilinsoft_hire@yahoo.com.cn 
+: ...................
+

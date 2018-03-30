@@ -1,0 +1,28 @@
+Return-Path: <che@rbl.ccert.edu.cn>
+Received: from rbl.ccert.edu.cn (rbl.ccert.edu.cn [202.112.57.71])
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id i96GsLJ6006868
+	for <you@ccert.edu.cn>; Thu, 7 Oct 2004 00:54:21 +0800 (CST)
+Received: from rbl.ccert.edu.cn (localhost.localdomain [127.0.0.1])
+	by rbl.ccert.edu.cn (8.12.11/8.12.11) with ESMTP id i96H0Ft2021007
+	for <you@ccert.edu.cn>; Thu, 7 Oct 2004 01:00:18 +0800
+Received: (from qa@localhost)
+	by rbl.ccert.edu.cn (8.12.11/8.12.11/Submit) id i96H0F1F021006;
+	Thu, 7 Oct 2004 01:00:15 +0800
+Date: Thu, 7 Oct 2004 01:00:15 +0800
+Message-Id: <200410061700.i96H0F1F021006@rbl.ccert.edu.cn>
+Subject: =?gb2312?B?UmU6ILK7tq6woaO6IMWuuqLX08rHsrvKx7a8sci9z8O709CwssiruNCjrNKq1dLIy9LAv7+jvw==?=
+To: you@ccert.edu.cn
+From: Tran Quang Anh <che@cernet.edu.cn>
+Content-Type: multipart/mixed; boundary="----------=_1097082018-996-700"
+MIME-Version: 1.0
+X-UIDL: 2aa"!7YZ!!?E&"!%1P!!
+
+没有男朋友并不等于没有安全感
+没有安全感
+我看就是对寂寞比较敏感
+而且比较害怕
+在与人的相处中找不到位置
+这样的情况在有男朋友的时候也同样出现的
+:   一直没有意识到 女孩子会有这样的问题，昨天看了个 董洁的访谈（我十分喜欢她在 天上的恋人  里的感觉，呵呵）。她说，她也是个没有安全感的人。
+:     我狂抓啊，什么叫做没有安全感啊，没有找到BF时候不都是十几二十年都这么过的嘛？那到底是个什么样的感觉啊，sigh，真的beyond my imagination 啊，估计这就是偶二十好几了还光光的原因啊，唉。
+

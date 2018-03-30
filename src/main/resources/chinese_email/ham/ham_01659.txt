@@ -1,0 +1,31 @@
+Return-Path: <xing@moon.bjnet.edu.cn>
+Received: from moon.bjnet.edu.cn (moon.bjnet.edu.cn [202.112.4.65])
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id iBH8xmJR016640
+	(version=TLSv1/SSLv3 cipher=EDH-RSA-DES-CBC3-SHA bits=168 verify=NO)
+	for <lv@ccert.edu.cn>; Fri, 17 Dec 2004 16:59:49 +0800 (CST)
+Received: from thh (tu203105.tsinghua.edu.cn [166.111.203.105])
+	(authenticated bits=0)
+	by moon.bjnet.edu.cn (8.12.9/8.12.9) with ESMTP id iBH7xkYI008814
+	for <lv@ccert.edu.cn>; Fri, 17 Dec 2004 15:59:50 +0800 (CST)
+Message-Id: <200412170759.iBH7xkYI008814@moon.bjnet.edu.cn>
+Date: Fri, 17 Dec 2004 17:03:03 +0800
+From: "xing" <xing@moon.bjnet.edu.cn>
+To: lv@ccert.edu.cn
+Subject: =?gb2312?B?UmU6ILDCv7nR9NDUo6y4zrmm1f2zo8Tct/G1vbjf0KO+zdK1xNijvw==?=
+X-mailer: Foxmail 5.0 [cn]
+Mime-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: 8bit
+X-MIME-Autoconverted: from base64 to 8bit by sea.net.edu.cn id iBH8xmJR016640
+X-UIDL: ,%i!!pEN"!j2n!!V?g"!
+
+: www.hbvhbv.com
+: 这是国内最大的此类网站
+: 你也真够学究气的，自己体检还不zb么？自己去体检的时候，找个亲戚好友什么的替你抽血就是了。
+: ...................
+到时报告吧
+对了，我自己就是搞公共政策研究的，硕士论文还是有关血液产品安全的问题
+其中我提出，中国之所以成为乙肝大国（10%左右的携带者），是因为我们在很长一段时间忽略了血液传播的问题，那时候注射用的针管都只是经过煮煮而已，现在农村里很多地方还是这样
+但与我论文有关的论文竟然被发表在所谓的内参上，仅供地厅级以上干部参考
+

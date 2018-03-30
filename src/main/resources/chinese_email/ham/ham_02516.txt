@@ -1,0 +1,54 @@
+Return-Path: <xiao@ccert.edu.cn>
+Received: from tsinghua.org.cn ([210.77.143.228])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id i8L3vMBx027231
+	for <pan@ccert.edu.cn>; Tue, 21 Sep 2004 11:57:24 +0800
+Received: (eyou send program); Tue, 21 Sep 2004 12:07:18 +0800
+Received: (eyou send program); Tue, 21 Sep 2004 12:06:52 +0800
+X-EYOU-ORIGINAL-IP: 166.111.8.16
+X-EYOU-ENVELOPE-MAILFROM: zhenghui@ccert.edu.cn
+Received: from unknown (HELO mails.tsinghua.edu.cn) (unknown@166.111.8.16)
+ by 210.77.143.228 with SMTP; Tue, 21 Sep 2004 12:06:52 +0800
+Received: (eyou send program); Tue, 21 Sep 2004 12:00:52 +0800
+Message-ID: <295739252.23590@mails.tsinghua.edu.cn>
+Received: (eyou send program); Tue, 21 Sep 2004 12:00:51 +0800
+Message-ID: <295739251.01366@mails.tsinghua.edu.cn>
+Received: from unknown (HELO mails.tsinghua.edu.cn) (unknown@127.0.0.1)
+ by 127.0.0.1 with SMTP; Tue, 21 Sep 2004 12:00:51 +0800
+X-scanvirus: By Symantec Scan Engine
+X-scanresult: CLEAN
+Received: (eqmail ); 21 Sep 2004 04:00:39 -0000
+Received: from ccert.edu.cn (HELO home.ccert.edu.cn) (202.112.57.12)
+  by mails.tsinghua.edu.cn with SMTP; 21 Sep 2004 04:00:39 -0000
+Received: from home.ccert.edu.cn (localhost [127.0.0.1])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id i8L3sOO4027132;
+	Tue, 21 Sep 2004 11:54:24 +0800
+Received: (from majordomo@localhost)
+	by home.ccert.edu.cn (8.13.1/8.13.1/Submit) id i8L3sOmv027131;
+	Tue, 21 Sep 2004 11:54:24 +0800
+X-Authentication-Warning: home.ccert.edu.cn: majordomo set sender to owner-ccertstaff using -f
+Received: from ccertspark (puma.ccert.edu.cn [202.112.50.50])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id i8L3sKJr027125
+	for <pan@ccert.edu.cn>; Tue, 21 Sep 2004 11:54:21 +0800
+From: "xiao" <xiao@ccert.edu.cn>
+To: pan@ccert.edu.cn
+Subject: =?gb2312?B?UmU6INXiysfO0rz7uf3X7s+40MS1xMTQyMvBy6Oh?=
+Date: Tue, 21 Sep 2004 12:07:50 +0800
+Message-ID: <001801c49f90$9314afd0$323270ca@ccertspark>
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+X-Priority: 3 (Normal)
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook, Build 10.0.6626
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.3790.181
+Importance: Normal
+Content-Transfer-Encoding: 8bit
+X-MIME-Autoconverted: from base64 to 8bit by home.ccert.edu.cn id i8L3sOJr027128
+Sender: owner-ccertstaff@home.ccert.edu.cn
+Precedence: bulk
+X-UIDL: CA\"!abj"!&Ka"!"bF!!
+
+dao~~~
+:   我的舍友，找了个比她小三岁多的男朋友（是男孩追她），当初我们都不太看好，可现在，把我们都羡慕死了。男孩子特别疼她，自从在一起，室友就像个公主，男朋友把水提到宿舍，把饭送到嘴边，而且这一年多，室友连衣服都没有洗过，都是男朋友给洗的。就连鞋带都是男朋友
+:   可能这对于刚恋爱的人算不得什么，可男孩在近两年来天天如此，而且非常细心，这样的男人是不是现在真的很少见呀，反正我是第一次见到。
+

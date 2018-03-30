@@ -1,0 +1,23 @@
+Return-Path: <jiang@rbl.ccert.edu.cn>
+Received: from rbl.ccert.edu.cn (rbl.ccert.edu.cn [202.112.57.71])
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id i9J9Tnaf026599
+	for <yi@ccert.edu.cn>; Tue, 19 Oct 2004 17:29:53 +0800 (CST)
+Received: from rbl.ccert.edu.cn (localhost.localdomain [127.0.0.1])
+	by rbl.ccert.edu.cn (8.12.11/8.12.11) with ESMTP id i9J9BPIC022325
+	for <yi@ccert.edu.cn>; Tue, 19 Oct 2004 17:11:25 +0800
+Received: (from qa@localhost)
+	by rbl.ccert.edu.cn (8.12.11/8.12.11/Submit) id i9J9BP3n022324;
+	Tue, 19 Oct 2004 17:11:25 +0800
+Date: Tue, 19 Oct 2004 17:11:25 +0800
+Message-Id: <200410190911.i9J9BP3n022324@rbl.ccert.edu.cn>
+Subject: =?gb2312?B?ofEgz6PN+7j41dK5pNf31tC1xMj1ysbIuszlv6q49ri9yvSw5qGj?=
+To: yi@ccert.edu.cn
+From: Tran Quang Anh <jiang@cernet.edu.cn>
+Content-Type: multipart/mixed; boundary="----------=_1098177085-22096-6"
+MIME-Version: 1.0
+X-UIDL: *+E"!Oep"!llN!!h^`!!
+
+在这里看到了很多各式各样的大公司大外企招聘的启事，大都要很好的英语、计算机或者通信背景，还要有工作经验，项目经验等等，总之都是对那些热门专业的优秀学生来说的。
+我想除了这些大牛、小牛们，应该也有一些象我这样的能力不是很强的人吧？我们在找工作的时候压力更大，也希望找一个尽可能好的工作。而往往在这里得不到很好的建议和信息。
+不知道有没有可能开一个针对求职弱势群体的版面？
+

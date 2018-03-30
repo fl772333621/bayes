@@ -1,0 +1,44 @@
+Return-Path: <tang@public.hf.ah.cn>
+Received: from tsinghua.org.cn ([210.77.143.231])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id iBFIqDvq001461
+	for <yi@ccert.edu.cn>; Thu, 16 Dec 2004 02:52:13 +0800
+Received: (eyou send program); Thu, 16 Dec 2004 02:45:40 +0800
+Received: (eyou send program); Thu, 16 Dec 2004 02:45:39 +0800
+X-EYOU-ORIGINAL-IP: 210.77.143.235
+X-EYOU-ENVELOPE-MAILFROM: rmang528sonyc761@public.hf.ah.cn
+Received: from unknown (HELO eyou.net) (unknown@210.77.143.235)
+ by 210.77.143.231 with SMTP; Thu, 16 Dec 2004 02:45:39 +0800
+Received: (eyou send program); Thu, 16 Dec 2004 02:55:50 +0800
+Message-ID: <303136950.13883@eyou.net>
+Received: from 203.176.49.196 by 210.77.143.235 with SMTP; Thu, 16 Dec 2004 02:48:25 +0800
+Received: from career (customer-203-176-49-209.ph.inter.net [203.176.49.209] (may be forged))
+	by networx.networx-inc.com (8.11.0/8.11.0) with ESMTP id iBFJ2DZ26418
+	for <yi@ccert.edu.cn>; Thu, 16 Dec 2004 03:02:13 +0800
+Date: Thu, 16 Dec 2004 03:02:13 +0800
+Received: from public.hf.ah.cn - 61.230.28.135 by career  with Microsoft SMTPSVC(5.5.1774.114.11);
+	 Thu, 16 Dec 2004 03:02:01 +0800
+Received: from unknown (HELO lib651.org [159.210.233.65])
+          by public.hf.ah.cn with SMTP;
+          Wed, 15 Dec 2004 18:46:47 GMT
+Message-Id: <1103136446-@lib651.org>
+From: "tang" <tang@public.hf.ah.cn>
+To: yi@ccert.edu.cn
+Subject: =?gb2312?B?ofEgzP2jrNK53bq46LOqo6zG/NGqtb3M7MP3?=
+Sender: bao.jilin@networx.networx-inc.com
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	boundary="----=_NextPart_000_0009_01C4E0B2.948437B0";
+	type="multipart/alternative"
+X-UIDL: jK7"!X0`"!AVY"!HUK!!
+
+（给朋友的信的片断。暗恋一个人，爱得要死掉的感觉。）
+爱，虽然生活在凡俗世间，但是我最在意的，真的只是爱而已。仅此而已。
+我一直酝酿一段话，试着说一下吧。
+我不知道我和他在一起会不会幸福，我不知道我能不能给他足够的幸福，我多么想给他幸福——我用尽我的心。我对他的爱是绝望的，我倾向于这样的爱没有光明的结局，最后只能悲壮地死去。可是还是要爱，还能怎样呢。
+我像是把荆棘放入胸口的夜莺，抱着必死的心情，用生命歌唱无悔的深爱
+（有一个传说，说的是有那么一只鸟儿，它一生只唱一次，那歌声比世上所有一切生灵的歌声都更加优美动听。从离开巢窝的那一刻起，他就在寻找着荆棘树，直到如愿以偿，才歇息下来。然后，它把自己的身体扎进最长，最尖的荆棘上，便在那荒蛮的枝条之间放开了歌喉。在奄奄一息的时刻，它超脱了自身的痛苦，而那歌声竟然使云雀和夜莺都黯然失色。这是一曲无比美好的歌，曲终而命竭。然而，整个世界都在静静地谛听着，上帝也在苍穹中微笑。因为最美好的东西只能用最深痛的巨创来换取...
+...它的歌唱是以生命为代价的歌唱，是世间最凄美的绝唱。这不仅仅是一种生的态度，更是一种感天动地的爱的方式，反正那个传说是这样讲的。——小说《荆棘鸟》的前言。
+胸前带着棘刺的鸟儿，遵循着一个不可改变的法则，她被不知其名的东西刺穿身体，被驱赶着，歌唱着死去。在那荆棘刺进的一瞬，她没有意识到死之将临。她只是唱着、唱着，直到生命耗尽，再也唱不出一个音符。但是，当我们把棘刺扎进胸膛时，我们是知道的。我们是了解的。然而，我们依然要这样做，我们依然要把棘刺扎进胸膛。——《荆棘鸟》的尾声）
+我只能用尽生命去爱，等待荆棘最终刺破心脏，死亡来临。或者奔驰在那一条通向绝望的不归路，等待他的喜帖像一颗子弹，穿透我的头颅，然后轰然倒地。我所追求的只是爱，如此而已，如此而已。
+这样的爱，于我从来是一种骄傲和荣耀，在这个污浊的世间，能拥有这般心情，实在应当感恩了。因为遇见他，以前所有的艰难都可以被接受。"为了在这一刻遇见你，竟花光所有运气"。
+

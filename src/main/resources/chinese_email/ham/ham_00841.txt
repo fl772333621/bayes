@@ -1,0 +1,32 @@
+Return-Path: <ou@ccert.edu.cn>
+Received: from tsinghua.org.cn ([210.77.143.228])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id i8S9Hf9j001270
+	for <long@ccert.edu.cn>; Tue, 28 Sep 2004 17:17:42 +0800
+Received: (eyou send program); Tue, 28 Sep 2004 16:37:00 +0800
+Received: (eyou send program); Tue, 28 Sep 2004 15:38:19 +0800
+X-EYOU-ORIGINAL-IP: 202.112.57.12
+X-EYOU-ENVELOPE-MAILFROM: starry@ccert.edu.cn
+Received: from unknown (HELO home.ccert.edu.cn) (unknown@202.112.57.12)
+ by 210.77.143.228 with SMTP; Tue, 28 Sep 2004 15:38:19 +0800
+Received: from starry ([202.112.50.191])
+	(authenticated bits=0)
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id i8S7OeTh031609
+	for <long@ccert.edu.cn>; Tue, 28 Sep 2004 15:24:40 +0800
+Message-Id: <200409280724.i8S7OeTh031609@home.ccert.edu.cn>
+Date: Tue, 28 Sep 2004 15:34:38 +0800
+From: "ou" <ou@ccert.edu.cn>
+To: long@ccert.edu.cn
+Subject: =?gb2312?B?UmU6IDNHyc/C7cqxvOTQ/Lb4zrS+9iA1MM3yyMuyxcixv9q8tLHGvfzR28ewKHp6KQ==?=
+X-mailer: Foxmail 5.0 [cn]
+Mime-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="=====001_Dragon255781722267_====="
+X-UIDL: $hB!!%oT!!@lo"!'_/!!
+
+瞎扯，什么叫3G人才？
+记者大傻又大嘴
+: 3G上马时间悬而未决，50万人才缺口即逼近眼前。据计世资讯最新报告显示，保守估计，明年起中国将进入3G基础建设高峰期，3G人才的市场缺口将达到50万以上。
+: 　　“目前，国内对于3G的关注，出现了冷热不均的现象。 
+: ”计世资讯分析师郭畅表示，设备厂商热，最终用户冷；上马时间讨论热，基础条件冷；3G行业热，配套行业冷。而3G人才建设就需要马上提到日程上来。
+: ...................
+

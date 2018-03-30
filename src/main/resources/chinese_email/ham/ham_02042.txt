@@ -1,0 +1,75 @@
+Return-Path: <ye@compass.net.edu.cn>
+Received: from tsinghua.org.cn ([210.77.143.228])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id iADCCLkE014466
+	for <cao@ccert.edu.cn>; Sat, 13 Nov 2004 20:12:23 +0800
+Received: (eyou send program); Sat, 13 Nov 2004 20:24:02 +0800
+Received: (eyou send program); Sat, 13 Nov 2004 20:24:02 +0800
+X-EYOU-ORIGINAL-IP: 210.77.143.235
+X-EYOU-ENVELOPE-MAILFROM: toefl-bounces@server.cool-meeting.com
+Received: from unknown (HELO eyou.net) (unknown@210.77.143.235)
+ by 210.77.143.228 with SMTP; Sat, 13 Nov 2004 20:24:02 +0800
+Received: (eyou send program); Sat, 13 Nov 2004 20:20:00 +0800
+Message-ID: <300348400.00555@eyou.net>
+Received: from 202.38.99.65 by 210.77.143.235 with SMTP; Sat, 13 Nov 2004 20:19:53 +0800
+Received: from server.cool-meeting.com (localhost.localdomain [127.0.0.1])
+	by server.cool-meeting.com (8.12.8/8.12.8) with ESMTP id iADCaflh006835
+	for <cao@ccert.edu.cn>; Sat, 13 Nov 2004 20:36:51 +0800
+Received: from compass.net.edu.cn ([202.38.188.130])
+	by server.cool-meeting.com (8.12.8/8.12.8) with ESMTP id iADCaMkr006831
+	for <cao@ccert.edu.cn>; Sat, 13 Nov 2004 20:36:22 +0800
+Received: from [210.25.128.113] ([210.25.128.113])
+	by compass.net.edu.cn (8.9.2/8.9.2) with ESMTP id UAA12740
+	for <cao@ccert.edu.cn>;
+	Sat, 13 Nov 2004 20:26:12 +0800 (CST)
+Message-ID: <4195FC17.8050204@compass.net.edu.cn>
+Date: Sat, 13 Nov 2004 20:20:39 +0800
+From: Shaozhi Ye <ye@compass.net.edu.cn>
+User-Agent: Mozilla Thunderbird 0.9 (Windows/20041103)
+X-Accept-Language: en-us, en
+MIME-Version: 1.0
+To: cao@ccert.edu.cn
+Content-Type: text/plain; charset=GB2312
+Content-Transfer-Encoding: 8bit
+Cc: 
+Subject: =?gb2312?B?UmU6ILTzvNK2vMrH1PXDtL+00rvSucfptcSjvw==?=
+X-BeenThere: toefl@server.cool-meeting.com
+X-Mailman-Version: 2.1.2
+Precedence: list
+List-Id: &#26446;&#26143;&#21644;&#20182;&#30340;&#23398;&#29983;&#20204;
+	<toefl.server.cool-meeting.com>
+List-Unsubscribe: <http://server.cool-meeting.com/mailman/listinfo/toefl>,
+	<mailto:toefl-request@server.cool-meeting.com?subject=unsubscribe>
+List-Archive: <http://server.cool-meeting.com/mailman/private/toefl>
+List-Post: <mailto:toefl@server.cool-meeting.com>
+List-Help: <mailto:toefl-request@server.cool-meeting.com?subject=help>
+List-Subscribe: <http://server.cool-meeting.com/mailman/listinfo/toefl>,
+	<mailto:toefl-request@server.cool-meeting.com?subject=subscribe>
+Sender: toefl-bounces@server.cool-meeting.com
+Errors-To: toefl-bounces@server.cool-meeting.com
+X-UIDL: lBH"!'0F!!&3>"!Dk,!!
+
+那一夜情如果只是两人满足一时的SEX需求呢？
+没有所谓的背叛婚姻、爱情，
+是否就可以接受了？
+打个比方，一个男人，LP出国，2年，
+一个女人，LG出过，3年，
+这段时间，有正常的性需求，
+是否可以在不发生感情的前提下，
+偶尔尝试一夜情？
+只是举例问问，不是具体讨论。
+: 在妓女合法的社会
+: 只要是文明社会
+: 不忠于婚姻也是不合法的
+: 不忠于爱情也是被谴责的
+: 尤其是西方的基督教国家
+: 对婚姻的态度很严肃的
+: 感觉中国封建社会的流毒对sex文化的影响很深
+: 人们一方面享受着乌七八糟糜烂的性生活
+: 一方面标榜仁义道德
+: 尤其是男人
+: 经过几千年的多妻制
+: 大家公子收丫头买小老婆素娼嫖妓的恶习
+: 加上西方早就过了时的性解放篡夺着
+: 对婚姻的庄严性，和贞节（包括男人和女人）的崇拜
+: 已经不知道是什么看法了
+

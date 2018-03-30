@@ -1,0 +1,40 @@
+Return-Path: <pu@tsinghua.edu.cn>
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id iBA6gNs3025391
+	for <ke@ccert.edu.cn>; Fri, 10 Dec 2004 14:42:23 +0800 (CST)
+Received: (eyou send program); Fri, 10 Dec 2004 14:27:08 +0800
+Message-ID: <302660028.21509@mail.tsinghua.edu.cn>
+Received: from unknown (HELO mail.tsinghua.edu.cn) (unknown@127.0.0.1)
+ by 127.0.0.1 with SMTP; Fri, 10 Dec 2004 14:27:08 +0800
+X-scanvirus: By Symantec Scan Engine
+X-scanresult: CLEAN
+Received: (eqmail ); 10 Dec 2004 06:27:08 -0000
+Received: from unknown (HELO sony) (duanhx@166.111.204.117)
+  by localhost with SMTP; 10 Dec 2004 06:27:08 -0000
+Message-ID: <00a001c4de83$63612750$0401a8c0@sony>
+From: "pu" <pu@tsinghua.edu.cn>
+To: ke@ccert.edu.cn
+Cc: <gu@ccert.edu.cn>
+Subject: =?gb2312?B?UmU6IMfrzsrW0LnYtOW4vb38xMfA79PQ1NC4vrfAt/jJ5Lf+wvKjvw==?=
+Date: Fri, 10 Dec 2004 14:42:12 +0800
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2900.2180
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+Content-Transfer-Encoding: 8bit
+X-MIME-Autoconverted: from base64 to 8bit by sea.net.edu.cn id iBA6gNs3025391
+X-UIDL: -MV!!S9i"!lZ3"!ZEp!!
+
+最最简单的说,辐射可以分为两种,一种是致电离辐射(放射源/加速器),
+一种普通的电磁辐射(如手机辐射).
+对于电视,目前的技术条件下距离屏幕1m以外,基本可以忽略致电离辐射(也就是
+在放射科工作需要考虑的那种辐射),但电磁辐射也许还有(关于这个我不太清楚).
+实际上,做一次飞机(2000km)造成的致电离辐射剂量就高于看一年电视(每天两小时)
+的剂量了.
+另外,电磁辐射(如手机,微波炉,高压线等)对人体/胎儿是否有影响,恐怕就是见仁见智的
+事情. 
+: 电脑辐射有害完全是心理作用。严肃的书里关于辐射根本就没有提到电脑。如果是在放射科工作则需要考虑这类问题。
+

@@ -1,0 +1,59 @@
+Return-Path: <zhu@mails.tsinghua.edu.cn>
+Received: from tsinghua.org.cn ([210.77.143.231])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id j0L3DVHj009817
+	for <tang@ccert.edu.cn>; Fri, 21 Jan 2005 11:13:34 +0800
+Received: (eyou send program); Fri, 21 Jan 2005 11:04:07 +0800
+Received: (eyou send program); Fri, 21 Jan 2005 11:04:06 +0800
+X-EYOU-ORIGINAL-IP: 210.77.143.235
+X-EYOU-ENVELOPE-MAILFROM: toefl-bounces@server.cool-meeting.com
+Received: from unknown (HELO eyou.net) (unknown@210.77.143.235)
+ by 210.77.143.231 with SMTP; Fri, 21 Jan 2005 11:04:06 +0800
+Received: (eyou send program); Fri, 21 Jan 2005 11:17:56 +0800
+Message-ID: <306277476.25689@eyou.net>
+Received: from 202.38.99.65 by 210.77.143.235 with SMTP; Fri, 21 Jan 2005 11:17:55 +0800
+Received: from server.cool-meeting.com (localhost.localdomain [127.0.0.1])
+	by server.cool-meeting.com (8.12.8/8.12.8) with ESMTP id j0L1YhvA015110
+	for <tang@ccert.edu.cn>; Fri, 21 Jan 2005 09:34:48 +0800
+Received: from mails.tsinghua.edu.cn (mails.tsinghua.edu.cn [166.111.8.16])
+	by server.cool-meeting.com (8.12.8/8.12.8) with SMTP id j0L1YbuL015107
+	for <tang@ccert.edu.cn>; Fri, 21 Jan 2005 09:34:37 +0800
+Message-Id: <200501210134.j0L1YbuL015107@server.cool-meeting.com>
+X-scanvirus: By SOPHOS Scan Engine
+X-scanresult: CLEAN
+X-Received: unknown,166.111.203.82,20050121112247
+Received: from unknown (HELO zz) (zhuyangbo99@166.111.203.82)
+	by localhost with SMTP; 21 Jan 2005 03:22:47 -0000
+Date: Fri, 21 Jan 2005 11:27:33 +0800
+From: "zhu" <zhu@mails.tsinghua.edu.cn>
+To: tang@ccert.edu.cn
+Subject: Re: Re: [TOEFL] Email address changing
+X-mailer: Foxmail 5.0 [cn]
+Mime-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: 8bit
+X-MIME-Autoconverted: from base64 to 8bit by server.cool-meeting.com id
+	j0L1YbuL015107
+Cc: =?gb2312?B?zfjC59bQ0MRUb2VmbMzWwtvX6Q==?= <rao@ccert.edu.cn>
+X-BeenThere: toefl@server.cool-meeting.com
+X-Mailman-Version: 2.1.2
+Precedence: list
+List-Id: &#26446;&#26143;&#21644;&#20182;&#30340;&#23398;&#29983;&#20204;
+	<toefl.server.cool-meeting.com>
+List-Unsubscribe: <http://server.cool-meeting.com/mailman/listinfo/toefl>,
+	<mailto:toefl-request@server.cool-meeting.com?subject=unsubscribe>
+List-Archive: <http://server.cool-meeting.com/mailman/private/toefl>
+List-Post: <mailto:toefl@server.cool-meeting.com>
+List-Help: <mailto:toefl-request@server.cool-meeting.com?subject=help>
+List-Subscribe: <http://server.cool-meeting.com/mailman/listinfo/toefl>,
+	<mailto:toefl-request@server.cool-meeting.com?subject=subscribe>
+Sender: toefl-bounces@server.cool-meeting.com
+Errors-To: toefl-bounces@server.cool-meeting.com
+X-UIDL: EI"#!TXB"!f(M!!4*"#!
+
+: 和好友聊着天，莫名其妙的聊到了男人和男人的“处女情结” 
+: 好友说男人都会有“处女情结”。对于每一个处女来说，这应该是一件引以为豪的事情。可是在我看来，所谓的“处女情结”只是男人们在为自己找的借口，来证明自己的“正直”和“清白”。 
+: 男人是嫉妒的魔鬼。他们喜欢把身边的事物拿出来和别人比较，炫耀。无论是地位，金钱，事业，家庭，老婆，孩子，情妇，汽车，别墅。。。概括地说就是男人可以把这个世界上的一切拿出来比较。不管比完了以后他们是不是真的觉得兴奋，或者是不是真的需要兴奋。 
+: ...................
+    楼主想必是一个女生吧，其实男孩有这种情结是出于很多种原因的，并不都是出于虚伪和嫉妒的体现，一个女生是处女意味着什么，证明她至少现在还是很纯洁的，无论从身体上和心理上，因为我相信女生尤其是处女，是不会随便和一个男人上床的，但是如果不是处女，起码说明他的初恋已经没有了，或者很有可能你在和他交往时，她心里还有另一个人。这种情况虽然不是对所有女人都成立，但是很多时候就是这样的。因此我强烈建议处男找处女！！
+

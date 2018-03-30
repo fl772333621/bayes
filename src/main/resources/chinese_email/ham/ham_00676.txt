@@ -1,0 +1,24 @@
+Return-Path: <rao@rbl.ccert.edu.cn>
+Received: from rbl.ccert.edu.cn (rbl.ccert.edu.cn [202.112.57.71])
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id i973tUJQ014862
+	for <cao@ccert.edu.cn>; Thu, 7 Oct 2004 11:55:30 +0800 (CST)
+Received: from rbl.ccert.edu.cn (localhost.localdomain [127.0.0.1])
+	by rbl.ccert.edu.cn (8.12.11/8.12.11) with ESMTP id i9741TZb021502
+	for <cao@ccert.edu.cn>; Thu, 7 Oct 2004 12:01:29 +0800
+Received: (from qa@localhost)
+	by rbl.ccert.edu.cn (8.12.11/8.12.11/Submit) id i9741TVY021501;
+	Thu, 7 Oct 2004 12:01:29 +0800
+Date: Thu, 7 Oct 2004 12:01:29 +0800
+Message-Id: <200410070401.i9741TVY021501@rbl.ccert.edu.cn>
+Subject: =?gb2312?B?UmU6IMvmsePOytK7z8I=?=
+To: cao@ccert.edu.cn
+From: Tran Quang Anh <rao@cernet.edu.cn>
+Content-Type: multipart/mixed; boundary="----------=_1097121689-996-806"
+MIME-Version: 1.0
+X-UIDL: >&>!!BI~"!Q!d"!p*)"!
+
+: 两课是不是要背很久？
+~~~~~~~~~~~~~~~~~~~~~欢迎你来清华大学基础科学班学习！我们有独特的两课教学模式，每学期只上八节课，考试全部用论文的形式搞定，点名两次以上不到的不给过，其他的都过，嗯，总共也就点两次名……
+: 入学英语考试难不难？有百分之几的人会分到一级？
+~~~~~~~~~~~~~~~~~~~~~~~~这个很打击人，做好心理准备，我被分到了二级，呜呜。分到一级的基本上都是只认识字母的，还有个别的发挥不好的……
+

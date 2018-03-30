@@ -1,0 +1,31 @@
+Return-Path: <cen@tsinghua.org.cn>
+Received: from tsinghua.org.cn ([210.77.143.228])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id i9H7niHs004728
+	for <lai@ccert.edu.cn>; Sun, 17 Oct 2004 15:49:46 +0800
+Received: (eyou send program); Sun, 17 Oct 2004 16:00:42 +0800
+X-EYOU-ORIGINAL-IP: 218.107.132.130
+X-EYOU-ENVELOPE-MAILFROM: chenguangying@tsinghua.org.cn
+Received: from unknown (HELO ccertdawei) (unknown@218.107.132.130)
+ by 210.77.143.228 with SMTP; Sun, 17 Oct 2004 16:00:42 +0800
+Message-ID: <042301c4b41f$656ffb40$9f01510a@CCERTDAWEI>
+From: "cen" <cen@tsinghua.org.cn>
+To: lai@ccert.edu.cn
+Subject: =?gb2312?B?UmU6ILnY09qwrsGi0MXR0Lei1tDQxKOsztKyu7XDsrvLtcG9vuQ=?=
+Date: Sun, 17 Oct 2004 16:00:27 +0800
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2800.1437
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1441
+Content-Transfer-Encoding: 8bit
+X-MIME-Autoconverted: from base64 to 8bit by home.ccert.edu.cn id i9H7niHs004728
+X-UIDL: Wd9!!6VD"!B<m"!`I$#!
+
+我只想说，作为R&amp;D的component engineer没有一个是懂器件的，而真正有经验懂专业的人随着新经理的上任而相继离开，恐怕不是好的管理风格吧。年轻工程师更应该反省自己的言行对公司形象带来的负面影响。
+: 什么叫基本的尊重？学生的自我感觉和社会能给予你的显然是不一样的。
+: 我之所以说楼主幼稚，是因为他一不自带简历，二抱怨面试时间晚，三需要管晚饭。
+: 前面有帖子讲过，自己要多带几份简历是常识。
+: ...................
+

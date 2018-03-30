@@ -1,0 +1,57 @@
+Return-Path: <xie@compass.net.edu.cn>
+Received: from tsinghua.org.cn ([210.77.143.231])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id iBN721L2020518
+	for <ding@ccert.edu.cn>; Thu, 23 Dec 2004 15:02:03 +0800
+Received: (eyou send program); Thu, 23 Dec 2004 14:39:29 +0800
+Received: (eyou send program); Thu, 23 Dec 2004 14:39:28 +0800
+X-EYOU-ORIGINAL-IP: 210.77.143.235
+X-EYOU-ENVELOPE-MAILFROM: toefl-bounces@server.cool-meeting.com
+Received: from unknown (HELO eyou.net) (unknown@210.77.143.235)
+ by 210.77.143.231 with SMTP; Thu, 23 Dec 2004 14:39:28 +0800
+Received: (eyou send program); Thu, 23 Dec 2004 14:54:03 +0800
+Message-ID: <303784843.08659@eyou.net>
+Received: from 202.38.99.65 by 210.77.143.235 with SMTP; Thu, 23 Dec 2004 14:54:00 +0800
+Received: from server.cool-meeting.com (localhost.localdomain [127.0.0.1])
+	by server.cool-meeting.com (8.12.8/8.12.8) with ESMTP id iBN7Julh011272
+	for <ding@ccert.edu.cn>; Thu, 23 Dec 2004 15:20:07 +0800
+Received: from sun.com ([202.38.188.130])
+	by server.cool-meeting.com (8.12.8/8.12.8) with ESMTP id iBN7Jkkr011268
+	for <ding@ccert.edu.cn>; Thu, 23 Dec 2004 15:19:47 +0800
+Received: from [210.25.128.113] ([210.25.128.113])
+	by sun.com (8.9.2/8.9.2) with ESMTP id PAA10466
+	for <ding@ccert.edu.cn>;
+	Thu, 23 Dec 2004 15:02:48 +0800 (CST)
+Message-ID: <41CA6BED.6040200@compass.net.edu.cn>
+Date: Thu, 23 Dec 2004 14:55:41 +0800
+From: Shaozhi Ye <xie@compass.net.edu.cn>
+User-Agent: Mozilla Thunderbird 1.0 (Windows/20041206)
+X-Accept-Language: en-us, en
+MIME-Version: 1.0
+To: ding@ccert.edu.cn
+Content-Type: text/plain; charset=GB2312
+Content-Transfer-Encoding: 8bit
+Cc: 
+Subject: =?gb2312?B?UmU6ILqrufrSu8jtuavLvrGxvqm0+rHttKbV0Ma4?=
+X-BeenThere: toefl@server.cool-meeting.com
+X-Mailman-Version: 2.1.2
+Precedence: list
+List-Id: &#26446;&#26143;&#21644;&#20182;&#30340;&#23398;&#29983;&#20204;
+	<toefl.server.cool-meeting.com>
+List-Unsubscribe: <http://server.cool-meeting.com/mailman/listinfo/toefl>,
+	<mailto:toefl-request@server.cool-meeting.com?subject=unsubscribe>
+List-Archive: <http://server.cool-meeting.com/mailman/private/toefl>
+List-Post: <mailto:toefl@server.cool-meeting.com>
+List-Help: <mailto:toefl-request@server.cool-meeting.com?subject=help>
+List-Subscribe: <http://server.cool-meeting.com/mailman/listinfo/toefl>,
+	<mailto:toefl-request@server.cool-meeting.com?subject=subscribe>
+Sender: toefl-bounces@server.cool-meeting.com
+Errors-To: toefl-bounces@server.cool-meeting.com
+X-UIDL: PP8"!&4$#!mA/"!>12!!
+
+Teleca简直就是垃圾产品
+怎么也想不明白，Teleca竟然是世界第三大内置浏览器厂商的说！
+: 韩国一软公司北京代表处
+: 一软公司在无线互联网领域整整奋斗了4年，已经与美国的Openwave、瑞典的Teleca、日本的Access并列成为拥有基于WAP(Wireless Application Protocol) 2.0浏览器解决方案的世界四大公司之一，并取得了占有韩国国内WAP浏览器市场70%的巨大成就。
+: Embider?是用于嵌入式系统的WEB/WAP浏览器，我们把Embider?提供给SK Telecom、LG Telecom、三星电子、LG电子、SK Teletech、APPEAL Telecom (MOTOROLA)、Pantech&amp;Curitel和三洋等韩国以及其他国家的移动通信运营商和手机终端制造商。我们不满足于韩国国内的成功业绩，正
+: ...................
+

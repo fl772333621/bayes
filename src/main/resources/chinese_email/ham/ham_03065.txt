@@ -1,0 +1,38 @@
+Return-Path: <mo@infosec.pku.edu.cn>
+Received: from infosec.jadebird.pku.edu.cn (infosec.pku.cn [162.105.202.100])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id iBHB1EL1020085
+	for <chi@ccert.edu.cn>; Fri, 17 Dec 2004 19:01:15 +0800
+Received: from infosec-lixy (lab.infosec.pku.edu.cn [162.105.30.181])
+	by infosec.jadebird.pku.edu.cn (8.12.11/8.12.11) with SMTP id iBHBEdrs065925
+	for <chi@ccert.edu.cn>; Fri, 17 Dec 2004 19:14:39 +0800 (CST)
+	(envelope-from lixy@infosec.pku.edu.cn)
+Message-Id: <200412171114.iBHBEdrs065925@infosec.jadebird.pku.edu.cn>
+Date: Fri, 17 Dec 2004 19:11:36 +0800
+From: "mo" <mo@infosec.pku.edu.cn>
+To: chi@ccert.edu.cn
+Subject: =?gb2312?B?ofEgzsrOyrTzvNKjrM7S1ea1xMPUu/PByw==?=
+X-mailer: Foxmail 5.0 [cn]
+Mime-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+X-Infosec-PKU-Scanner-Information: Information Security Lab. Peking University
+X-Infosec-PKU-Scanner: Clean
+X-Infosec-PKU-Scanner-SpamScore: sssss
+Content-Transfer-Encoding: 8bit
+X-MIME-Autoconverted: from base64 to 8bit by home.ccert.edu.cn id iBHB1EL1020085
+X-UIDL: ke9!!OVY!!OU$"!jGJ!!
+
+我追的一个女孩，我们一直都在QQ上联系，她几乎每天都在，她也知道我在追她
+上上周我约她去看电影，她答应了
+然后她那天穿的很漂亮，也戴着我送给她的手链
+看玩电影后她叫我陪她回学校，一路上我们聊得很开心
+虽然我没敢做什么，但是她回去之后还发短信说以后有空一起玩
+我以为差不多了，都在憧憬着和她在一起的日子
+但是就在看了电影之后，她就很少上QQ了
+昨天我碰到她，打了个招呼，她很快就下了，我感觉她是在有意回避我
+我也不想打电话逼她
+我不知道为什么，我也没有向她表白过
+如果她不喜欢我，为什么又要答应和我去看电影
+我真的搞不懂，这几天感觉从天堂到地狱，痛苦死了
+难道女孩都是这么嬗变吗，大家给我说说看把，郁闷啊
+

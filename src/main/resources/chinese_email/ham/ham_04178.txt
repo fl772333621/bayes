@@ -1,0 +1,25 @@
+Return-Path: <zhong@rbl.ccert.edu.cn>
+Received: from rbl.ccert.edu.cn (rbl.ccert.edu.cn [202.112.57.71])
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id i96GOQ2M006601
+	for <liu@ccert.edu.cn>; Thu, 7 Oct 2004 00:24:26 +0800 (CST)
+Received: from rbl.ccert.edu.cn (localhost.localdomain [127.0.0.1])
+	by rbl.ccert.edu.cn (8.12.11/8.12.11) with ESMTP id i96GUMng030769
+	for <liu@ccert.edu.cn>; Thu, 7 Oct 2004 00:30:23 +0800
+Received: (from qa@localhost)
+	by rbl.ccert.edu.cn (8.12.11/8.12.11/Submit) id i96GUMS1030768;
+	Thu, 7 Oct 2004 00:30:22 +0800
+Date: Thu, 7 Oct 2004 00:30:22 +0800
+Message-Id: <200410061630.i96GUMS1030768@rbl.ccert.edu.cn>
+Subject: =?gb2312?B?UmU6INStwLTV5rXE09DQxM20tb3O3reouvTO/A==?=
+To: liu@ccert.edu.cn
+From: Tran Quang Anh <zhong@cernet.edu.cn>
+Content-Type: multipart/mixed; boundary="----------=_1097080223-996-694"
+MIME-Version: 1.0
+X-UIDL: BJn!!T1J!!$eJ!!!#<!!
+
+我一定给我的感情取名叫旺财、得福……
+: 说不出现在是怎样的心情，在QQ上，他用“爱你很深的**”的落款，对我们近500个日子的感情宣判死刑。想哭，却发现眼泪早已罢工~
+: 在感情的世界里，永远没有是非，我一直这样认为。所以不管谁对谁错，这都已经不是问题的关键。只是希望，真的希望他能快乐，而自己能够坚强。
+: 我给我们的感情取名叫小爱，希望彼此能象养育孩子一样经营这份爱，可是……说什么呢。我是真的无话可说~
+: ...................
+

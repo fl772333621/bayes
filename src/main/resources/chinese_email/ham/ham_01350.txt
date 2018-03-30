@@ -1,0 +1,65 @@
+Return-Path: <lian@ccert.edu.cn>
+Received: from tsinghua.org.cn ([210.77.143.231])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id iB17uGLF021127
+	for <ni@ccert.edu.cn>; Wed, 1 Dec 2004 15:56:17 +0800
+Received: (eyou send program); Wed, 01 Dec 2004 15:49:22 +0800
+Received: (eyou send program); Wed, 01 Dec 2004 15:49:22 +0800
+X-EYOU-ORIGINAL-IP: 210.77.143.235
+X-EYOU-ENVELOPE-MAILFROM: zhenghui@ccert.edu.cn
+Received: from unknown (HELO eyou.net) (unknown@210.77.143.235)
+ by 210.77.143.231 with SMTP; Wed, 01 Dec 2004 15:49:22 +0800
+Received: (eyou send program); Wed, 01 Dec 2004 16:04:29 +0800
+Message-ID: <301888269.15440@eyou.net>
+Received: from 166.111.8.16 by 210.77.143.235 with SMTP; Wed, 01 Dec 2004 16:04:16 +0800
+Received: (eyou send program); Wed, 01 Dec 2004 16:03:50 +0800
+Message-ID: <301888230.09778@mails.tsinghua.edu.cn>
+Received: (eyou send program); Wed, 01 Dec 2004 16:03:49 +0800
+Message-ID: <301888228.14352@mails.tsinghua.edu.cn>
+Received: from unknown (HELO mails.tsinghua.edu.cn) (unknown@127.0.0.1)
+ by 127.0.0.1 with SMTP; Wed, 01 Dec 2004 16:03:49 +0800
+X-scanvirus: By Symantec Scan Engine
+X-scanresult: NOREP
+Received: (eqmail ); 1 Dec 2004 08:03:37 -0000
+Received: from ccert.edu.cn (HELO home.ccert.edu.cn) (202.112.57.12)
+  by mails.tsinghua.edu.cn with SMTP; 1 Dec 2004 08:03:37 -0000
+Received: from home.ccert.edu.cn (localhost [127.0.0.1])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id iB17t3EI021043;
+	Wed, 1 Dec 2004 15:55:03 +0800
+Received: (from majordomo@localhost)
+	by home.ccert.edu.cn (8.13.1/8.13.1/Submit) id iB17t35o021042;
+	Wed, 1 Dec 2004 15:55:03 +0800
+X-Authentication-Warning: home.ccert.edu.cn: majordomo set sender to owner-ccertstaff using -f
+Received: from ccertspark (tu203021.tsinghua.edu.cn [166.111.203.21])
+	(authenticated bits=0)
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id iB17rqKa021013;
+	Wed, 1 Dec 2004 15:53:52 +0800
+From: "lian" <lian@ccert.edu.cn>
+To: ni@ccert.edu.cn
+Cc: <ding@ccert.edu.cn>
+Subject: =?gb2312?B?UmU6ILCz1qq1wLXEw8C5+qOh?=
+Date: Wed, 1 Dec 2004 16:05:48 +0800
+Message-ID: <002101c4d77c$91024c60$15cb6fa6@ccertspark>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0022_01C4D7BF.9F258C60"
+X-Priority: 3 (Normal)
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook, Build 10.0.6626
+X-MIMEOLE: Produced By Microsoft MimeOLE V6.00.3790.181
+In-Reply-To: <002301c4d779$cc07e2a0$df54cfdc@WHITESNOW>
+Importance: Normal
+Sender: owner-ccertstaff@home.ccert.edu.cn
+Precedence: bulk
+X-UIDL: JRD"!-oE!!+3:!!6YV"!
+
+敢说跟国内差不多价钱吃饭这一点的。。。。。我真严重怀疑他有没有去过波士顿
+ft，想吃一顿中餐盒饭就要4美元。。。还挺难吃的。。。。
+喝水。。。没有下1美元的。。。。饮料。。。。。。那种罐装的都是1美元以上
+。。。。还有还有。。。。。地铁啥的我记得也都是1美元以上阿。。。。
+不过波士顿的天很蓝，云很低。。。。尤其出海看还不错，总之波士顿还算是个好城市
+但是也不能说就比国内强多少。。。最起码吃的东西太差了。。。。。。pizza也都做得挺硬的
+:     有家人在波士顿定居。
+:     汽车：比国内便宜很多
+:     住房：跟国内差不多，但面积大很多，而且土地也归你！
+: ...................
+

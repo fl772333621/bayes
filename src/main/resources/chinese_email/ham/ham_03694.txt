@@ -1,0 +1,25 @@
+Return-Path: <lei@rbl.ccert.edu.cn>
+Received: from rbl.ccert.edu.cn (rbl.ccert.edu.cn [202.112.57.71])
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id i96BCvST003505
+	for <xue@ccert.edu.cn>; Wed, 6 Oct 2004 19:12:57 +0800 (CST)
+Received: from rbl.ccert.edu.cn (localhost.localdomain [127.0.0.1])
+	by rbl.ccert.edu.cn (8.12.11/8.12.11) with ESMTP id i96BIpat028073
+	for <xue@ccert.edu.cn>; Wed, 6 Oct 2004 19:18:53 +0800
+Received: (from qa@localhost)
+	by rbl.ccert.edu.cn (8.12.11/8.12.11/Submit) id i96BIpdY028072;
+	Wed, 6 Oct 2004 19:18:51 +0800
+Date: Wed, 6 Oct 2004 19:18:51 +0800
+Message-Id: <200410061118.i96BIpdY028072@rbl.ccert.edu.cn>
+Subject: =?gb2312?B?UmU6ILn6xNq1xFBIRMLbzsQ=?=
+To: xue@ccert.edu.cn
+From: Tran Quang Anh <lei@cernet.edu.cn>
+Content-Type: multipart/mixed; boundary="----------=_1097061533-996-616"
+MIME-Version: 1.0
+X-UIDL: `A+"!b%*!!3J""!T/9!!
+
+兄弟，不要再让人笑话了......海龟的牌子现在已经有点烂了，不要让他再烂了
+论文在网上摆着，国内外做得怎么样大家心里都有杆秤，如果你非要那mit和海淀走读大学来比，我们也没办法...
+不论国内外,生活的质量意义放在一边不说,但就看你参考的对象,大概就明白你混得怎么样了,呵呵
+: 呵呵.没有必要回那你回什么?我觉得我说得没有错呀.你什么专业的?看来你的论文也是简单的资料堆积呀.这也叫论文........大家应该思考一下什么是论文???
+: 还有各位老兄希望你(特别是会计金融的)PHD说说你们PHD第一年学什么课程.这里居然说国内的PHD没有作业.晕!!!国内的PHD真的不用上课没有作业吗?奇怪的培养方式:)
+

@@ -1,0 +1,18 @@
+Return-Path: <hu@gzzygzs.kmip.net>
+Received: from gzzygzs.kmip.net ([61.144.96.203])
+	by home.ccert.edu.cn (MIMEDefang) with ESMTP id NOQUEUE
+	for <tao@ccert.edu.cn>; Fri, 24 Jun 2005 18:32:02 +0800 (CST)
+Message-ID: <200506241832.0.219960603949833@home.ccert.edu.cn>
+To: tao@ccert.edu.cn
+From: hu@gzzygzs.kmip.net
+Subject: =?gb2312?B?IKG2ueO2q8qhuaTXytanuLbM9cD9obe21Mbz0rXA+7HXt9bO9tPr06a21LTryg==?=
+
+
+单位名称：____________________________________联系人：___________
+
+联系电话：_________________传真：_____________学员人数：___________
+
+学员姓名：__________________付款方式：___选择1.转帐2.现金3.支票
+
+报名课题：__________________________________________________________
+

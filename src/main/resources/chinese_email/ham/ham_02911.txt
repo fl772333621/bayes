@@ -1,0 +1,25 @@
+Return-Path: <guo@rbl.ccert.edu.cn>
+Received: from rbl.ccert.edu.cn (rbl.ccert.edu.cn [202.112.57.71])
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id i98CHpSG009250
+	for <ling@ccert.edu.cn>; Fri, 8 Oct 2004 20:17:51 +0800 (CST)
+Received: from rbl.ccert.edu.cn (localhost.localdomain [127.0.0.1])
+	by rbl.ccert.edu.cn (8.12.11/8.12.11) with ESMTP id i98CNqq8021865
+	for <ling@ccert.edu.cn>; Fri, 8 Oct 2004 20:23:53 +0800
+Received: (from qa@localhost)
+	by rbl.ccert.edu.cn (8.12.11/8.12.11/Submit) id i98CNqs4021864;
+	Fri, 8 Oct 2004 20:23:52 +0800
+Date: Fri, 8 Oct 2004 20:23:52 +0800
+Message-Id: <200410081223.i98CNqs4021864@rbl.ccert.edu.cn>
+Subject: =?gb2312?B?UmU6ILjVssXNtsvfwcs=?=
+To: ling@ccert.edu.cn
+From: Tran Quang Anh <guo@cernet.edu.cn>
+Content-Type: multipart/mixed; boundary="----------=_1097238233-26230-54"
+MIME-Version: 1.0
+X-UIDL: "V8"!Te5"!d/9"!JR&#!
+
+咣当..不是说南方的服务业很好吗...
+: 上周末进酒店的时候，刷了3500预授权，今天一查帐单，发现昨晚酒店又私自给我刷了2500，居然一点都没有通知我。刚刚打电话过去，他们还觉得这样做很对，气得我给他们骂了一顿。
+: 广州的服务真是太差了，上周和同事去超市，同事买了一个可以凉毛衣的那种能折起来的架子，结果收银员自己没见过这个货，居然怀疑里面有两个，还就把包装的很好的货品拆开了，然后又装不上去，同事气得当场就退货了
+: 还有上次大家去吃饭，我同事要了一个牛肉炒粉，我要了一个肉丝炒粉，小姐把东西送上来就摔桌子上了，我们问她这两个哪个是牛肉粉，结果她居然非常生气，说话的吐沫都溅到我身上了。
+: ...................
+

@@ -1,0 +1,43 @@
+Return-Path: <lin@tsinghua.edu.cn>
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id iAH4Gm6h020184
+	for <hou@ccert.edu.cn>; Wed, 17 Nov 2004 12:16:48 +0800 (CST)
+Received: (eyou send program); Wed, 17 Nov 2004 12:01:52 +0800
+Message-ID: <300664112.28028@mail.tsinghua.edu.cn>
+Received: from unknown (HELO mail.tsinghua.edu.cn) (unknown@127.0.0.1)
+ by 127.0.0.1 with SMTP; Wed, 17 Nov 2004 12:01:52 +0800
+X-scanvirus: By Symantec Scan Engine
+X-scanresult: CLEAN
+Received: (eqmail ); 17 Nov 2004 04:01:49 -0000
+Received: from unknown (HELO sony) (duanhx@166.111.204.105)
+  by localhost with SMTP; 17 Nov 2004 04:01:49 -0000
+Message-ID: <00b501c4cc5c$3d608610$d63270ca@sony>
+From: "lin" <lin@tsinghua.edu.cn>
+To: hou@ccert.edu.cn
+References: <300658772.10576@mail.tsinghua.edu.cn>
+Subject: =?gb2312?B?ofEgob6zz8a4ob9EU1C/qreiyMvUsXp6?=
+Date: Wed, 17 Nov 2004 12:16:39 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_00B2_01C4CC9F.4ABEA150"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2900.2180
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+X-UIDL: +Zd"!8&p"!ne_!!&`J!!
+
+发信人: vivihou (belong), 信区: Career
+标  题: 【诚聘】DSP开发人员
+发信站: BBS 水木清华站 (Fri Jun 10 11:09:57 2005), 站内
+    我们是一家是从事计算机视觉技术研究与开发的高新技术企业，由在美大学
+教授创办。公司致力于将该领域的最新研究成果应用到实际产品中。
+    公司因业务扩展需要，招聘 DSP 开发人员一名，可考虑全职和兼职。
+要求：
+(1). 为人诚恳踏实，动手能力强。
+(2). 有丰富的 DSP 开发和算法优化经验，掌握一定的硬件设计开发与调试经验；
+(3). 熟悉TI的 DSP 软件算法实现；熟悉 DM642 者优先。
+(4). 有较好的沟通能力和团队合作精神。
+工作地点：清华东门创业园
+有意者请将个人简历（详细说明您做过的工作）发至 jobs@standardvision.com
+来信注明“DSP开发”。
+

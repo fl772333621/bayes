@@ -1,0 +1,83 @@
+Return-Path: <chi@ns.6test.edu.cn>
+Received: from tsinghua.org.cn ([210.77.143.228])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id iBM7jfWH002444
+	for <hua@ccert.edu.cn>; Wed, 22 Dec 2004 15:45:42 +0800
+Received: (eyou send program); Wed, 22 Dec 2004 15:59:26 +0800
+Received: (eyou send program); Wed, 22 Dec 2004 15:59:25 +0800
+X-EYOU-ORIGINAL-IP: 210.77.143.235
+X-EYOU-ENVELOPE-MAILFROM: toefl-bounces@server.cool-meeting.com
+Received: from unknown (HELO eyou.net) (unknown@210.77.143.235)
+ by 210.77.143.228 with SMTP; Wed, 22 Dec 2004 15:59:25 +0800
+Received: (eyou send program); Wed, 22 Dec 2004 15:53:36 +0800
+Message-ID: <303702016.04709@eyou.net>
+Received: from 202.38.99.65 by 210.77.143.235 with SMTP; Wed, 22 Dec 2004 15:53:32 +0800
+Received: from server.cool-meeting.com (localhost.localdomain [127.0.0.1])
+	by server.cool-meeting.com (8.12.8/8.12.8) with ESMTP id iBM8JElY009865
+	for <hua@ccert.edu.cn>; Wed, 22 Dec 2004 16:19:25 +0800
+Received: from ns.6test.edu.cn ([202.38.99.18])
+	by server.cool-meeting.com (8.12.8/8.12.8) with ESMTP id iBM8J6kr009861
+	for <hua@ccert.edu.cn>; Wed, 22 Dec 2004 16:19:06 +0800
+Received: from tu203047.tsinghua.edu.cn ([166.111.203.47] helo=wanglanjia)
+	by ns.6test.edu.cn with asmtp (Exim 4.12) id 1Ch1on-000Hfm-00
+	for Toefl@server.cool-meeting.com; Wed, 22 Dec 2004 16:26:02 +0800
+Message-ID: <001301c4e7fc$13b60f90$2fcb6fa6@wanglanjia>
+From: "chi" <chi@ns.6test.edu.cn>
+To: hua@ccert.edu.cn
+Date: Wed, 22 Dec 2004 15:58:48 +0800
+MIME-Version: 1.0
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2800.1437
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1441
+Cc: 
+Subject: =?gb2312?B?UmU6IM7Sus3L/Q==?=
+X-BeenThere: toefl@server.cool-meeting.com
+X-Mailman-Version: 2.1.2
+Precedence: list
+List-Id: &#26446;&#26143;&#21644;&#20182;&#30340;&#23398;&#29983;&#20204;
+	<toefl.server.cool-meeting.com>
+List-Unsubscribe: <http://server.cool-meeting.com/mailman/listinfo/toefl>,
+	<mailto:toefl-request@server.cool-meeting.com?subject=unsubscribe>
+List-Archive: <http://server.cool-meeting.com/mailman/private/toefl>
+List-Post: <mailto:toefl@server.cool-meeting.com>
+List-Help: <mailto:toefl-request@server.cool-meeting.com?subject=help>
+List-Subscribe: <http://server.cool-meeting.com/mailman/listinfo/toefl>,
+	<mailto:toefl-request@server.cool-meeting.com?subject=subscribe>
+Content-Type: multipart/mixed; boundary="===============0050970247577767358=="
+Sender: toefl-bounces@server.cool-meeting.com
+Errors-To: toefl-bounces@server.cool-meeting.com
+X-UIDL: ASY"!RLX!!6IF"!10'#!
+
+看言情小说看多了，以为同居密友会比男女朋友更浪漫
+: 标  题: 我和她
+: 发信站: 水木社区 (Tue Jun  7 09:30:55 2005), 站内
+: 
+: 我和她认识一年半，只有三四次见面
+: 
+: 也曾追求她，却遭拒n(n=她说对我没感觉之后我对她说我爱她的次数)次。
+: 
+: 终于皇天不负苦心人，我们毕业后都来到北京，而且在我的努力下，我们住到了一起（每人一室）。她说和我住一起放心。她对我说过好几次，找个女朋友吧，你那么多姐姐妹妹的。我说不行，我的姐姐妹妹都没有可能发展成为其它的关系，如果可以，我不会认做姐姐妹妹的。她说，那我做你妹妹吧。我告诉她，好呀(我想，这样的话她大概可以放心了，我不会再起什么念头了)。可是她又说：“不好，我不能认一个比自己心态不好的人当哥哥，其实你比我心态要好，呵呵，我自己都矛盾了”。
+: 
+: 还有，我们的帐务她说要分清楚，不能这样不明不白的
+: 
+: 其实我是想多付出一些，现在她的收入比我少很多。
+: 
+: 不知道她现在到底是什么想法，希望各位兄弟姐妹支招~~~
+: 
+: 期待中~~~
+: 
+: ----------------------------------------------------------
+: 
+: 在我眼里，她就是精灵
+: 
+: 属于比较皎洁的女孩儿
+: 
+: --
+: 让它自然地来吧
+: 让它悄然地去吧
+: 就这样微笑着看着自己
+: 漫步在这人生里
+: 
+: ※ 修改:·genius4693 於 Jun  7 09:42:23 2005 修改本文·[FROM: 218.107.147.*]
+: ※ 来源:·水木社区 http://newsmth.net·[FROM: 218.107.147.*]
+

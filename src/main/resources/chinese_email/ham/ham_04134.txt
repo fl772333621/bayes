@@ -1,0 +1,39 @@
+Return-Path: <yana@rbl.ccert.edu.cn>
+Received: from rbl.ccert.edu.cn (rbl.ccert.edu.cn [202.112.57.71])
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id i929Otl0012752
+	for <jin@ccert.edu.cn>; Sat, 2 Oct 2004 17:24:55 +0800 (CST)
+Received: from rbl.ccert.edu.cn (localhost.localdomain [127.0.0.1])
+	by rbl.ccert.edu.cn (8.12.11/8.12.11) with ESMTP id i929Ucuv013336
+	for <jin@ccert.edu.cn>; Sat, 2 Oct 2004 17:30:38 +0800
+Received: (from qa@localhost)
+	by rbl.ccert.edu.cn (8.12.11/8.12.11/Submit) id i929UcbZ013335;
+	Sat, 2 Oct 2004 17:30:38 +0800
+Date: Sat, 2 Oct 2004 17:30:38 +0800
+Message-Id: <200410020930.i929UcbZ013335@rbl.ccert.edu.cn>
+Subject: =?gb2312?B?ofEgSUJNIENSTNXQxrjIq9awIFImRCBFbmdpbmVlciAoQ29udHJhY3Rvcik=?=
+To: jin@ccert.edu.cn
+From: Tran Quang Anh <yana@cernet.edu.cn>
+Content-Type: multipart/mixed; boundary="----------=_1096709438-996-366"
+MIME-Version: 1.0
+X-UIDL: &;7!!eQ^"!!8O!!bY@"!
+
+R&amp;D Engineer/Software Engineer （Contractor ) 2~3
+Working Location: Beijing , IBM CRL (IBM China Research Lab.)
+Job Mission: Solution Development
+ 
+Responsibilities:
+To implement advanced research technologies  as tools, proof-of-concepts, prototypes and so on
+To deliver advanced research technologies through the developing of real customer solutions  
+Desired Skills and Experience:
+Strong programming experiences in Java &amp; J2EE, XML, Web Service, JDBC, Swing and etc.
+Strong programming experiences of Eclipse and etc. 
+Strong programming experience in C/C++.
+Experienced development both on Linux, Win32 platforms. 
+Experiences in IBM software products (DB2, Rational, WAS...) is preferred. 
+Experiences in GIS is preferred. 
+Qualification:
+MS degree, or equivalent experience, major in CS.
+Good written and verbal communication skills, be logical and well organized.
+Good team work and high responsibility are required skills as well.
+Contact: zhangjm@cn.ibm.com
+

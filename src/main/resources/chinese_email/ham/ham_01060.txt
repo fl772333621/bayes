@@ -1,0 +1,34 @@
+Return-Path: <tang@tsinghua.edu.cn>
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id iARCQS99012906
+	for <cao@ccert.edu.cn>; Sat, 27 Nov 2004 20:26:28 +0800 (CST)
+Received: (eyou send program); Sat, 27 Nov 2004 20:11:14 +0800
+Message-ID: <301557473.18628@mail.tsinghua.edu.cn>
+Received: from unknown (HELO mail.tsinghua.edu.cn) (unknown@127.0.0.1)
+ by 127.0.0.1 with SMTP; Sat, 27 Nov 2004 20:11:14 +0800
+X-scanvirus: By Symantec Scan Engine
+X-scanresult: CLEAN
+Received: (eqmail ); 27 Nov 2004 12:11:13 -0000
+Received: from unknown (HELO sony) (duanhx@166.111.232.131)
+  by localhost with SMTP; 27 Nov 2004 12:11:13 -0000
+Message-ID: <00a101c4d47c$479fba60$56e86fa6@sony>
+From: "tang" <tang@tsinghua.edu.cn>
+To: cao@ccert.edu.cn
+Subject: =?gb2312?B?UmU6IMrHsrvKx8qxvOS6zb7gwOvV5rXEysfOyszi?=
+Date: Sat, 27 Nov 2004 20:26:10 +0800
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="----=_NextPart_000_009D_01C4D4BF.54F32740"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2900.2180
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+X-UIDL: Gi;"!,pF!!b'o!!Z[["!
+
+这个异地问题不能从宏观方面分析，别人异地失败不代表你们也会走向分离。
+有真感情要去珍惜，出了问题多沟通，不要打冷战。相信坚定的爱情经得起时间和空间的考验。
+: 烦死了，每天每句话都会要吵架。想尽量压抑，尽量忍。一点用都没有，过不了三分钟就会说：算了算了，今天就不说了。
+: 真的是什么事都会吵，小到聊qq的时候没回话都能吵起来。
+: 前一阵子我们说要好好想想各自在心目中是不是还有一个恋人的分量。在一起快四年了，分分合合的好几次。三年分隔两地后，我觉得我对他，他对我都有点变质了。难道说真的时间和距离会使感情出现问题吗？还是，本来的，就只是一个感情周期中的低谷阶段。
+: ...................
+

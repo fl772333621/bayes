@@ -1,0 +1,26 @@
+Return-Path: <bai@rbl.ccert.edu.cn>
+Received: from rbl.ccert.edu.cn (rbl.ccert.edu.cn [202.112.57.71])
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id i97DqIpH020822
+	for <zhong@ccert.edu.cn>; Thu, 7 Oct 2004 21:52:18 +0800 (CST)
+Received: from rbl.ccert.edu.cn (localhost.localdomain [127.0.0.1])
+	by rbl.ccert.edu.cn (8.12.11/8.12.11) with ESMTP id i97DwI8I000655
+	for <zhong@ccert.edu.cn>; Thu, 7 Oct 2004 21:58:18 +0800
+Received: (from qa@localhost)
+	by rbl.ccert.edu.cn (8.12.11/8.12.11/Submit) id i97DwIeE000654;
+	Thu, 7 Oct 2004 21:58:18 +0800
+Date: Thu, 7 Oct 2004 21:58:18 +0800
+Message-Id: <200410071358.i97DwIeE000654@rbl.ccert.edu.cn>
+Subject: =?gb2312?B?UmU6INP0w8a1xMn6u+6jusDPuauyu9esx66jrMzszOzU2rzSwO+09NfF?=
+To: zhong@ccert.edu.cn
+From: Tran Quang Anh <bai@cernet.edu.cn>
+Content-Type: multipart/mixed; boundary="----------=_1097157498-1044-8"
+MIME-Version: 1.0
+X-UIDL: gm1!!7Jc!!&0>!!7P9"!
+
+可以争取出国去深造么？奖学金多。
+另外应该是最后通谍吧怎么成了统计令。。。
+: 那就是一年一年又一年，这种日子，我过怕呢，千万不要等四年、五年的呢，更何况再过一年，带在学校的我必须深造，那完全就没有经济来源了，小孩怎么办，我可能让我老爸老妈出钱养着吧，小孩现在快两岁了，要上幼儿园，那该如何是好。
+: 我前不久给他下了通缉令，8月1号，必须让他那个破程序交到效益，或者到外面去找一份工作，让我看到钱的影子，真的，没有钱的日子太难受了。我不想这样过下去！
+: 但是真的到了那一天，而什么都没有的话怎么办
+: ...................
+

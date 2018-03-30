@@ -1,0 +1,40 @@
+Return-Path: <cen@tsinghua.edu.cn>
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id iAS45ERj023765
+	for <gong@ccert.edu.cn>; Sun, 28 Nov 2004 12:05:14 +0800 (CST)
+Received: (eyou send program); Sun, 28 Nov 2004 11:50:01 +0800
+Message-ID: <301613801.15054@mail.tsinghua.edu.cn>
+Received: from unknown (HELO mail.tsinghua.edu.cn) (unknown@127.0.0.1)
+ by 127.0.0.1 with SMTP; Sun, 28 Nov 2004 11:50:01 +0800
+X-scanvirus: By Symantec Scan Engine
+X-scanresult: CLEAN
+Received: (eqmail ); 28 Nov 2004 03:49:54 -0000
+Received: from unknown (HELO sony) (duanhx@166.111.204.105)
+  by localhost with SMTP; 28 Nov 2004 03:49:54 -0000
+Message-ID: <007701c4d4ff$698e02c0$69cc6fa6@sony>
+From: "cen" <cen@tsinghua.edu.cn>
+To: gong@ccert.edu.cn
+Subject: Fw: weblog
+Date: Sun, 28 Nov 2004 12:04:50 +0800
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="----=_NextPart_000_0075_01C4D542.76798610"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2900.2180
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+X-UIDL: PSH"!(Yo"!NB8"!%Y>"!
+
+孩子过敏一般表现是起湿疹，不知道你们宝宝湿疹厉害吗？
+关于拉肚子，首先宝宝的大便是不是水样大便，如果是，那么一定要重视，如果是糊状大便，一般都没事。
+另外你们孩子以前吃母乳拉肚子吗？需要排除宝宝是否乳糖不耐受，表现为吃母乳屁多，小肚子胀，便便酸臭。
+如果以前没事，看看母亲吃的食物里面有没有过敏原，比如海鲜什么的，需要母亲改变成比较平常的饮食。
+从你的描述看，最有可能的是母亲腹泻细菌跑到宝宝身体里。
+一般家里有人腹泻，每次抱孩子之前必须用肥皂水洗手，哺乳的妈妈需要每次用开水烫过的毛巾擦奶头并且每次哺乳的时候挤掉前面的几滴奶，防止细菌喂给孩子。
+如果你的孩子水样便很厉害，建议你早到医院去化验大便，看是否是细菌感染，另外注意防止脱水，如果孩子尿很少，或者没尿，需要到医院去吊盐水瓶，这么小的孩子脱水非常危险。
+屁股红是因为腹泻次数太多，粪便刺激屁股引起的，你要经常换尿不湿，用温水洗屁股，擦护臀膏。
+: 【 以下文字转载自 FamilyLife 讨论区 】
+: 发信人: linamariani (maria), 信区: FamilyLife
+: 标  题: 急问：婴儿母乳过敏是怎么回事儿?
+: ...................
+

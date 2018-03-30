@@ -1,0 +1,35 @@
+Return-Path: <guo@cernet.edu.cn>
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id j090DOPn016153
+	for <tu@ccert.edu.cn>; Sun, 9 Jan 2005 08:13:39 +0800
+Received: from smart ([61.149.117.178])
+	(authenticated bits=0)
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id j090PIHi014233
+	for <tu@ccert.edu.cn>; Sun, 9 Jan 2005 08:25:18 +0800 (CST)
+From: "guo" <guo@cernet.edu.cn>
+To: tu@ccert.edu.cn
+Subject: =?gb2312?B?UmU6IMnPuqPAvLHttd29u9DFz6I0zPU=?=
+Date: Sun, 9 Jan 2005 08:28:16 +0800
+Message-ID: <NCEFLGKAPJDDOEBLPPNLOEJFCFAA.zhang@cernet.edu.cn>
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+X-Priority: 3 (Normal)
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook IMO, Build 9.0.6604 (9.0.2911.0)
+In-Reply-To: <000801c4f4b7$726f0f10$e800510a@CCERTDAWEI>
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1441
+Importance: Normal
+Content-Transfer-Encoding: 8bit
+X-MIME-Autoconverted: from base64 to 8bit by home.ccert.edu.cn id j090DOPn016153
+X-UIDL: /6:"!VkB!!n*0!!9`U"!
+
+: gg今天去了一趟上海就业指导中心，问了大家自己提交兰表的一些问题，现统
+: 一回答。
+: 第一、三方协议中任何一张都可以，最好把公司联交上去，个人的留着自己备用比
+: 较好。
+: 第二、不能直接邮寄到就业中心，必须有人待办
+: 第三、奖学金、清华水平1 2都没有用，复印件直接退出窗口
+                                     ~~~~~复印件直接退出窗口是什么意思啊？
+: 第四、成绩单注册中心的章可以用 不按学期分也是可以的
+

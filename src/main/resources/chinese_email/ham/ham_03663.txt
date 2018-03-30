@@ -1,0 +1,40 @@
+Return-Path: <yi@rbl.ccert.edu.cn>
+Received: from rbl.ccert.edu.cn (rbl.ccert.edu.cn [202.112.57.71])
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id i9EDYxQ0011413
+	for <wei@ccert.edu.cn>; Thu, 14 Oct 2004 21:35:00 +0800 (CST)
+Received: from rbl.ccert.edu.cn (localhost.localdomain [127.0.0.1])
+	by rbl.ccert.edu.cn (8.12.11/8.12.11) with ESMTP id i9EDeWta020436
+	for <wei@ccert.edu.cn>; Thu, 14 Oct 2004 21:40:33 +0800
+Received: (from qa@localhost)
+	by rbl.ccert.edu.cn (8.12.11/8.12.11/Submit) id i9EDeW0w020435;
+	Thu, 14 Oct 2004 21:40:32 +0800
+Date: Thu, 14 Oct 2004 21:40:32 +0800
+Message-Id: <200410141340.i9EDeW0w020435@rbl.ccert.edu.cn>
+Subject: =?gb2312?B?UmU6IL3oyMvG+M7K0rvPwqO6yOe6zsihz/tBRFNMt/7O8Q==?=
+To: wei@ccert.edu.cn
+From: Tran Quang Anh <yi@cernet.edu.cn>
+Content-Type: multipart/mixed; boundary="----------=_1097761233-2811-46"
+MIME-Version: 1.0
+X-UIDL: HUX"!aoK!!G)\"!?2O!!
+
+打电话是让他问一问，那里问比这里问有效
+: 标  题: Re: 借人气问一下：如何取消ADSL服务
+: 发信站: 水木社区 (Wed Jun 15 23:54:05 2005), 站内
+: 
+: 好像要亲自去，光电话不行吧
+: 
+: : 打10060或者直接去网通营业厅，带上身份证
+: : 对了，你那里是网通的势力范围吧，
+: 
+: 
+: --
+: lg，你知不知道有一个地方叫马尔代夫
+: 那里蓝天白云,椰林树影,水清沙幼,
+: 是位于印度洋的世外桃源……
+: lg，你什么时候带我去马尔代夫呀？
+: 
+: lp啊，没看见马尔代夫都给淹了嘛，咱们还是乖乖去三亚吧……  
+: 
+: 
+: ※ 来源:·水木社区 newsmth.net·[FROM: 61.51.124.*]
+

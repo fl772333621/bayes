@@ -1,0 +1,31 @@
+Return-Path: <gong@moon.bjnet.edu.cn>
+Received: from moon.bjnet.edu.cn (moon.bjnet.edu.cn [202.112.4.65])
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id iB3CEDLU029632
+	(version=TLSv1/SSLv3 cipher=EDH-RSA-DES-CBC3-SHA bits=168 verify=NO)
+	for <shi@ccert.edu.cn>; Fri, 3 Dec 2004 20:14:13 +0800 (CST)
+Received: from thh (tu167127.tsinghua.edu.cn [166.111.167.127])
+	(authenticated bits=0)
+	by moon.bjnet.edu.cn (8.12.9/8.12.9) with ESMTP id iB3BEJYI006727
+	for <shi@ccert.edu.cn>; Fri, 3 Dec 2004 19:14:21 +0800 (CST)
+Message-Id: <200412031114.iB3BEJYI006727@moon.bjnet.edu.cn>
+Date: Fri, 3 Dec 2004 20:13:50 +0800
+From: "gong" <gong@moon.bjnet.edu.cn>
+To: shi@ccert.edu.cn
+Subject: =?gb2312?B?UmU6ILK7y6zByw==?=
+X-mailer: Foxmail 5.0 [cn]
+Mime-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: 8bit
+X-MIME-Autoconverted: from base64 to 8bit by sea.net.edu.cn id iB3CEDLU029632
+X-UIDL: HHC"!enC"!;bG!!$@1"!
+
+从文章分析，mm地位最高，瓜农地位最低，gg比瓜农略高。
+mm亲自买瓜，瓜农本应感激涕零，不料缺拒绝mm正当要求，mm受辱。
+不料比mm地位卑微之gg却顺利买来瓜瓜，瓜农有眼不识泰山，不分尊卑，mm再受辱，mm怒。
+地位卑微之gg竟然包辟地位卑微之瓜农，不想与瓜农理论，mm复受辱，终大怒。
+: 刚才去紫荆水果摊买西瓜。当时是10点左右，人不多，切成半个的西瓜放了一地。我挑了半个看起来比较好的，让卖水果的给我再切一刀。因为我和gg两个人吃不了半个。
+: 结果卖水果的说这半个太小了，不给切。
+: 我说这是我能挑的最大的了。
+: ...................
+

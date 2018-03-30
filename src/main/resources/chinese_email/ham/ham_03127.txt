@@ -1,0 +1,37 @@
+Return-Path: <wua@home.ccert.edu.cn>
+Received: from home.ccert.edu.cn (localhost [127.0.0.1])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id iBF2imkD017253;
+	Wed, 15 Dec 2004 10:44:48 +0800
+Received: (from majordomo@localhost)
+	by home.ccert.edu.cn (8.13.1/8.13.1/Submit) id iBF2imql017252;
+	Wed, 15 Dec 2004 10:44:48 +0800
+X-Authentication-Warning: home.ccert.edu.cn: majordomo set sender to owner-ccertstaff using -f
+Received: from ns.6test.edu.cn (ns.6test.edu.cn [202.112.54.2])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id iBF2ilNs017248
+	for <shen@ccert.edu.cn>; Wed, 15 Dec 2004 10:44:48 +0800
+Received: from tu203047.tsinghua.edu.cn ([166.111.203.47] helo=wanglanjia)
+	by ns.6test.edu.cn with asmtp (Exim 4.12)
+	id 1CePlo-000BA7-00
+	for ccertstaff@ccert.edu.cn; Wed, 15 Dec 2004 11:24:08 +0800
+Message-ID: <00cb01c4e251$f7142f20$2fcb6fa6@wanglanjia>
+From: "wua" <wua@ns.6test.edu.cn>
+To: shen@ccert.edu.cn
+Subject: =?gb2312?B?UmU6INXiysfE0MjLtcTV/bOjtcTKwtK10MTDtA==?=
+Date: Wed, 15 Dec 2004 10:58:32 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_00C8_01C4E295.049ED8A0"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2800.1437
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1441
+Sender: owner-ccertstaff@home.ccert.edu.cn
+Precedence: bulk
+X-UIDL: ~^@"!![?"!#Ol"!7e0!!
+
+东莞？一条街上就有数家五星级大酒店，流莺满街都是，在珠三角提到去东莞男人们都会露出会意的笑容。而且东莞的警察收入最少的也月入过万，那边物价不及北京的三分之一。要是还爱你的姐妹，早就把她接过去一起生活。
+: 刚才一个要好的小姐妹打电话给我说了老半天。
+: 她和她男友的故事我们是早就听说过很多的，大多都是她男友在大学期间如何对她无微不至，每天一起去打饭，吃完饭后都是男友帮她洗饭盒的，期末的那些被子床单都是男友帮她洗，每个星期还帮她熬汤。这样二十四孝的男友真是没的说了。
+: 毕业后mm没怎么去找工作，大部分时间都在家呆着。很轻闲。但是她gg去了东莞一个工业镇当警察，据说很忙很忙，最近一个月mm都没怎么接到他的电话或者短信，而mm主动找他的时候他却老是显得很忙，而且态度很冷淡。还有，mm说发现他有什么不开心的事都不像以前那样告诉她，
+: ...................
+

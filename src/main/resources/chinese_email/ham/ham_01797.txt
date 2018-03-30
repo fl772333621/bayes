@@ -1,0 +1,26 @@
+Return-Path: <chen@rbl.ccert.edu.cn>
+Received: from rbl.ccert.edu.cn (rbl.ccert.edu.cn [202.112.57.71])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id i9T3Va8l026564
+	for <wu@ccert.edu.cn>; Fri, 29 Oct 2004 11:31:36 +0800
+Received: from rbl.ccert.edu.cn (localhost.localdomain [127.0.0.1])
+	by rbl.ccert.edu.cn (8.12.11/8.12.11) with ESMTP id i9T3mhn7016449
+	for <wu@ccert.edu.cn>; Fri, 29 Oct 2004 11:48:59 +0800
+Received: (from qa@localhost)
+	by rbl.ccert.edu.cn (8.12.11/8.12.11/Submit) id i9T3mciK016445;
+	Fri, 29 Oct 2004 11:48:38 +0800
+Date: Fri, 29 Oct 2004 11:48:38 +0800
+Message-Id: <200410290348.i9T3mciK016445@rbl.ccert.edu.cn>
+Subject: =?gb2312?B?UmU6IM7S0OjSqruv0enSu9bW1rLO77XEs8m31qOs18nRr9K7z8K4w8ilxMfA77uv0emjvzE=?=
+To: wu@ccert.edu.cn
+From: chen@rbl.ccert.edu.cn
+Content-Type: multipart/mixed; boundary="----------=_1099021744-20866-178"
+MIME-Version: 1.0
+X-UIDL: VC?"!TSh"!Na4!!mfP!!
+
+1/有报酬是指给你提供信息的人还是给你化验的人。化验当然需要费用。
+2/不知道你指的“成分”是什么意思。是不可能告诉你组成这个植物的各种化学物质的分子式，除非你提供一个生物计算机。
+: 我需要化验一种植物的成分，请做这方面成分分析化验的朋友速联系我，有报酬
+: 我需要准确详细的化验结果，希望能从这里结识做这方面工作或学习这方面知识的朋友。
+: 请回复站内信箱。
+: ...................
+

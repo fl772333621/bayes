@@ -1,0 +1,28 @@
+Return-Path: <lv@jdl.ac.cn>
+Received: from jdl.ac.cn ([159.226.42.8])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7C1ceuQ019050
+	for <fu@ccert.edu.cn>; Fri, 12 Aug 2005 09:38:40 +0800 (CST)
+Received: (qmail 5448 invoked from network); 12 Aug 2005 01:49:27 -0000
+Received: from unknown (HELO d47db5334f2a479) (192.168.0.233)
+  by 159.226.42.8 with SMTP; 12 Aug 2005 01:49:27 -0000
+Message-ID: <000b01c59ee0$a1f666b0$e900a8c0@d47db5334f2a479>
+From: "lv" <lv@jdl.ac.cn>
+To: fu@ccert.edu.cn
+References: <000301c59e50$0bb8f450$26cb6fa6@liuwu>
+Subject: =?gb2312?B?UmU6IMvAxd3Az8TQyMs=?=
+Date: Fri, 12 Aug 2005 09:53:26 +0800
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: base64
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2800.1506
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1506
+
+: 朋友喜欢上一个老男人,一想到他就激动得不得了，可是他对她说他过了那个卿卿我我的年龄了，然后让她考博士再说，这个，要知道，考上了，就得去读了。
+:  然后，他对她总是若即若离的，我友超疯狂，成天给他发短信，据我所知人家就没有回过几次，然后那个男人很狂，批评我友难看，其实走在学校里，她的回头率高的不成不成，他总是很忙，偶尔消失几天，跑外地，其实她对他不是很了解，但是就此深陷，怎么办？
+:   另外：（很多年前，清华有个诺贝尔班吗？）
+                        杨爷爷的班？
+: ...................
+

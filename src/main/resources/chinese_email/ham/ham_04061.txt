@@ -1,0 +1,27 @@
+Return-Path: <sun@rbl.ccert.edu.cn>
+Received: from rbl.ccert.edu.cn (rbl.ccert.edu.cn [202.112.57.71])
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id i9J9Tnab026599
+	for <lai@ccert.edu.cn>; Tue, 19 Oct 2004 17:29:50 +0800 (CST)
+Received: from rbl.ccert.edu.cn (localhost.localdomain [127.0.0.1])
+	by rbl.ccert.edu.cn (8.12.11/8.12.11) with ESMTP id i9J994Zt021331
+	for <lai@ccert.edu.cn>; Tue, 19 Oct 2004 17:09:06 +0800
+Received: (from qa@localhost)
+	by rbl.ccert.edu.cn (8.12.11/8.12.11/Submit) id i9J994j0021330;
+	Tue, 19 Oct 2004 17:09:04 +0800
+Date: Tue, 19 Oct 2004 17:09:04 +0800
+Message-Id: <200410190909.i9J994j0021330@rbl.ccert.edu.cn>
+Subject: =?gb2312?B?UmU6ILn6xNq1xFBIRMLbzsQ=?=
+To: lai@ccert.edu.cn
+From: Tran Quang Anh <sun@cernet.edu.cn>
+Content-Type: multipart/mixed; boundary="----------=_1098176946-17653-6"
+MIME-Version: 1.0
+X-UIDL: W00"!k5l"!Lih"!R?5!!
+
+: 此贴贴主确实给在英国读书的phd们丢脸。
+: 另外，咱不能什么事情都跟美国人比呀。不只是英国，地球上这200多个国家，哪个国家的
+老实说，就我接触过的英国的PhD平均水平是不太高的，不仅是和美国的PhD比，即使是欧洲其他国家的也比英国强一些，日本的貌似也要好一些。
+英国的PhD（出国前也是牛校）回来在华为写code拿6k得也不是没有
+英国得便宜主要还是它用英语，外国留学生语言上更容易适应一些。
+: phd平均水平能比美国毕业的phd的平均水平高呀？再说，比较这些东西也没啥意义，牛人烂人什么地方都有，跟国家种族无关；也就是此贴贴主热衷于这个。
+: ...................
+

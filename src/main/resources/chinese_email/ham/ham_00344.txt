@@ -1,0 +1,33 @@
+Return-Path: <yana@rbl.ccert.edu.cn>
+Received: from rbl.ccert.edu.cn (rbl.ccert.edu.cn [202.112.57.71])
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id i971BlZo012854
+	for <hou@ccert.edu.cn>; Thu, 7 Oct 2004 09:11:47 +0800 (CST)
+Received: from rbl.ccert.edu.cn (localhost.localdomain [127.0.0.1])
+	by rbl.ccert.edu.cn (8.12.11/8.12.11) with ESMTP id i971HjsN026293
+	for <hou@ccert.edu.cn>; Thu, 7 Oct 2004 09:17:46 +0800
+Received: (from qa@localhost)
+	by rbl.ccert.edu.cn (8.12.11/8.12.11/Submit) id i971Hjio026292;
+	Thu, 7 Oct 2004 09:17:45 +0800
+Date: Thu, 7 Oct 2004 09:17:45 +0800
+Message-Id: <200410070117.i971Hjio026292@rbl.ccert.edu.cn>
+Subject: =?gb2312?B?UmU6INPQudi4+Li4xLi80seutcTKwsfpo6zO0tKywLTLtdK7vuQ=?=
+To: hou@ccert.edu.cn
+From: Tran Quang Anh <yana@cernet.edu.cn>
+Content-Type: multipart/mixed; boundary="----------=_1097111866-996-764"
+MIME-Version: 1.0
+X-UIDL: U#X!!UVg!!c88!!f?k"!
+
+不懂事的mm很多的
+我堂妹，跟我形容她读书的生活
+我笑着听着，心里觉得巨痛苦
+她那个书，是家里花了很多钱供的
+家里在农村，挣点钱不是很容易
+她不好好读书也就算了，还学会了胡乱败家
+毕业了找工作，辛苦了不行，钱少了不行
+我爸火了，不管了，也勒令我妈不准管
+不知道以后会如何，7月份就毕业了
+:         因为我们家偏心咯,好简单的
+:         我从做小姑娘开始就是捡我爸旧衣服穿
+:         我妹妹宠坏了,就要买新的
+: ...................
+

@@ -1,0 +1,58 @@
+Return-Path: <jiang@compass.net.edu.cn>
+Received: from tsinghua.org.cn ([210.77.143.228])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id iAI2UON2004684
+	for <luo@ccert.edu.cn>; Thu, 18 Nov 2004 10:30:26 +0800
+Received: (eyou send program); Thu, 18 Nov 2004 10:42:54 +0800
+Received: (eyou send program); Thu, 18 Nov 2004 10:42:51 +0800
+X-EYOU-ORIGINAL-IP: 210.77.143.235
+X-EYOU-ENVELOPE-MAILFROM: toefl-bounces@server.cool-meeting.com
+Received: from unknown (HELO eyou.net) (unknown@210.77.143.235)
+ by 210.77.143.228 with SMTP; Thu, 18 Nov 2004 10:42:51 +0800
+Received: (eyou send program); Thu, 18 Nov 2004 10:38:36 +0800
+Message-ID: <300745516.22057@eyou.net>
+Received: from 202.38.99.65 by 210.77.143.235 with SMTP; Thu, 18 Nov 2004 10:38:35 +0800
+Received: from server.cool-meeting.com (localhost.localdomain [127.0.0.1])
+	by server.cool-meeting.com (8.12.8/8.12.8) with ESMTP id iAHFlKlZ015179
+	for <luo@ccert.edu.cn>; Wed, 17 Nov 2004 23:47:28 +0800
+Received: from compass.net.edu.cn ([202.38.188.130])
+	by server.cool-meeting.com (8.12.8/8.12.8) with ESMTP id iAHFlBkr015175
+	for <luo@ccert.edu.cn>; Wed, 17 Nov 2004 23:47:12 +0800
+Received: from [166.111.166.150] (tu166150.tsinghua.edu.cn [166.111.166.150])
+	by compass.net.edu.cn (8.9.2/8.9.2) with ESMTP id XAA10678
+	for <luo@ccert.edu.cn>;
+	Wed, 17 Nov 2004 23:36:20 +0800 (CST)
+Message-ID: <419B6F4B.5090509@compass.net.edu.cn>
+Date: Wed, 17 Nov 2004 23:33:31 +0800
+From: Shaozhi Ye <jiang@compass.net.edu.cn>
+User-Agent: Mozilla Thunderbird 0.9 (Windows/20041103)
+X-Accept-Language: en-us, en
+MIME-Version: 1.0
+To: luo@ccert.edu.cn
+Subject: Re: [TOEFL] =?GB2312?B?udjT2jMxNbrNOTIztcTPtc34zsrM4g==?=
+References: <200411171520.XAA13914@gradinfo.net.edu.cn>
+In-Reply-To: <200411171520.XAA13914@gradinfo.net.edu.cn>
+Content-Type: text/plain; charset=GB2312
+Content-Transfer-Encoding: 8bit
+X-MIME-Autoconverted: from quoted-printable to 8bit by server.cool-meeting.com
+	id iAHFlBkr015175
+X-BeenThere: toefl@server.cool-meeting.com
+X-Mailman-Version: 2.1.2
+Precedence: list
+List-Id: &#26446;&#26143;&#21644;&#20182;&#30340;&#23398;&#29983;&#20204;
+	<toefl.server.cool-meeting.com>
+List-Unsubscribe: <http://server.cool-meeting.com/mailman/listinfo/toefl>,
+	<mailto:toefl-request@server.cool-meeting.com?subject=unsubscribe>
+List-Archive: <http://server.cool-meeting.com/mailman/private/toefl>
+List-Post: <mailto:toefl@server.cool-meeting.com>
+List-Help: <mailto:toefl-request@server.cool-meeting.com?subject=help>
+List-Subscribe: <http://server.cool-meeting.com/mailman/listinfo/toefl>,
+	<mailto:toefl-request@server.cool-meeting.com?subject=subscribe>
+Sender: toefl-bounces@server.cool-meeting.com
+Errors-To: toefl-bounces@server.cool-meeting.com
+X-UIDL: eEJ!!neb"!WY-!!L#e"!
+
+安达信倒闭，是因为联邦大陪审团作出的裁决造成的一系列连锁反应，比如说巨额罚款，不能继续为贸易公司公开从事审计业务，以及大量的可预见的接踵而来的民事诉讼等。
+毕马威这次担负的是推销避税产品，跟aa为安然做假账，销毁财务数据的行为还不在一个量级上。何况，对于避税产品的调查一年前就开始了，国内外也没什么连篇累牍的报道，
+跟aa当时出事时候情况完全不同。况且，KPMG这次为了能够达成和解，不也主动重组了管理层么，还是比较低调的。还有更重要的一点，避税产品谁不搞，谁不卖阿，四大谁都逃不了干系，只不过这次美国国税局怒了，抓到KPMG当靶子，杀鸡骇猴罢了，KPMG要是倒闭了，那就开了一个危险的先例，四大都要遭殃。
+: 当年aa的事刚被捅出来的时候，你想过它会倒闭吗
+

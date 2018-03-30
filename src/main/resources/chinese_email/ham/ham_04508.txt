@@ -1,0 +1,25 @@
+Return-Path: <ma@rbl.ccert.edu.cn>
+Received: from rbl.ccert.edu.cn (rbl.ccert.edu.cn [202.112.57.71])
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id i96DOHY6004733
+	for <han@ccert.edu.cn>; Wed, 6 Oct 2004 21:24:17 +0800 (CST)
+Received: from rbl.ccert.edu.cn (localhost.localdomain [127.0.0.1])
+	by rbl.ccert.edu.cn (8.12.11/8.12.11) with ESMTP id i96DUCP3028032
+	for <han@ccert.edu.cn>; Wed, 6 Oct 2004 21:30:14 +0800
+Received: (from qa@localhost)
+	by rbl.ccert.edu.cn (8.12.11/8.12.11/Submit) id i96DUCN0028031;
+	Wed, 6 Oct 2004 21:30:12 +0800
+Date: Wed, 6 Oct 2004 21:30:12 +0800
+Message-Id: <200410061330.i96DUCN0028031@rbl.ccert.edu.cn>
+Subject: =?gb2312?B?UmU6IKG2ztK/tM6xuqu159OwzKu8q8bsxq7R76G3sbGzr9Tau6rB9NGnyfq1xLnbuvO40A==?=
+To: han@ccert.edu.cn
+From: Tran Quang Anh <ma@cernet.edu.cn>
+Content-Type: multipart/mixed; boundary="----------=_1097069414-996-652"
+MIME-Version: 1.0
+X-UIDL: BfB"!NA,"!@cR"!KHO!!
+
+分析的非常透彻
+: 一个朝鲜在中国的留学生写的 “我看伪韩电影太极旗飘扬”
+: 自从来到中国留学，虽然中国同为社会主义国家，但由于中国的国情与朝鲜不同，因此，即使在中国，也是要小心各种不良思想的侵蚀的；同样，前不久，在中国同学的邀请下，我们观看了伪韩拍摄的反动影片《太极旗飘》。按照伟大领袖金日成的指示"只有以主体思想为指导的文艺�
+: 虽然这部影片是反动的，但它为了蒙蔽人民，故意装出一副亲切的嘴脸来，但也正因为如此，反而暴露了伪韩的虚伪面目，下面就让我们逐步开始批判吧。 
+: ...................
+

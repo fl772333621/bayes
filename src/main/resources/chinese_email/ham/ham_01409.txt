@@ -1,0 +1,57 @@
+Return-Path: <wang@compass.net.edu.cn>
+Received: from tsinghua.org.cn ([210.77.143.228])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id iAB1N9h5005494
+	for <jin@ccert.edu.cn>; Thu, 11 Nov 2004 09:23:11 +0800
+Received: (eyou send program); Thu, 11 Nov 2004 09:35:12 +0800
+Received: (eyou send program); Thu, 11 Nov 2004 09:35:12 +0800
+X-EYOU-ORIGINAL-IP: 210.77.143.235
+X-EYOU-ENVELOPE-MAILFROM: toefl-bounces@server.cool-meeting.com
+Received: from unknown (HELO eyou.net) (unknown@210.77.143.235)
+ by 210.77.143.228 with SMTP; Thu, 11 Nov 2004 09:35:12 +0800
+Received: (eyou send program); Thu, 11 Nov 2004 09:31:17 +0800
+Message-ID: <300136677.29805@eyou.net>
+Received: from 202.38.99.65 by 210.77.143.235 with SMTP; Thu, 11 Nov 2004 09:31:16 +0800
+Received: from server.cool-meeting.com (localhost.localdomain [127.0.0.1])
+	by server.cool-meeting.com (8.12.8/8.12.8) with ESMTP id iAB1lalZ002538
+	for <jin@ccert.edu.cn>; Thu, 11 Nov 2004 09:47:43 +0800
+Received: from compass.net.edu.cn ([202.38.188.130])
+	by server.cool-meeting.com (8.12.8/8.12.8) with ESMTP id iAB1lTkr002534
+	for <jin@ccert.edu.cn>; Thu, 11 Nov 2004 09:47:29 +0800
+Received: from [210.25.128.113] ([210.25.128.113])
+	by compass.net.edu.cn (8.9.2/8.9.2) with ESMTP id JAA21416
+	for <jin@ccert.edu.cn>;
+	Thu, 11 Nov 2004 09:37:44 +0800 (CST)
+Message-ID: <4192C121.7020103@compass.net.edu.cn>
+Date: Thu, 11 Nov 2004 09:32:17 +0800
+From: Shaozhi Ye <wang@compass.net.edu.cn>
+User-Agent: Mozilla Thunderbird 0.9 (Windows/20041103)
+X-Accept-Language: en-us, en
+MIME-Version: 1.0
+To: jin@ccert.edu.cn
+Content-Type: text/plain; charset=GB2312
+Content-Transfer-Encoding: 8bit
+Cc: 
+Subject: =?gb2312?B?UmU6INbQufogdnMuIMPAufo=?=
+X-BeenThere: toefl@server.cool-meeting.com
+X-Mailman-Version: 2.1.2
+Precedence: list
+List-Id: &#26446;&#26143;&#21644;&#20182;&#30340;&#23398;&#29983;&#20204;
+	<toefl.server.cool-meeting.com>
+List-Unsubscribe: <http://server.cool-meeting.com/mailman/listinfo/toefl>,
+	<mailto:toefl-request@server.cool-meeting.com?subject=unsubscribe>
+List-Archive: <http://server.cool-meeting.com/mailman/private/toefl>
+List-Post: <mailto:toefl@server.cool-meeting.com>
+List-Help: <mailto:toefl-request@server.cool-meeting.com?subject=help>
+List-Subscribe: <http://server.cool-meeting.com/mailman/listinfo/toefl>,
+	<mailto:toefl-request@server.cool-meeting.com?subject=subscribe>
+Sender: toefl-bounces@server.cool-meeting.com
+Errors-To: toefl-bounces@server.cool-meeting.com
+X-UIDL: 8)+"!=L&#!S*D!!QVA"!
+
+: 中国就没有好的？比如你在美国因为长着一张黄脸普遍受美国人的歧视，没有晋升机会，没法融入美国文化，相当孤独寂寞，美国的房子比较贵（这才是人们消费的主要方面）�
+～～～～～～～～～～～～～～～～～～～～～～～～～～～～～～～～～～～～～～～�
+                  ~~~~~这是真的    ～～比比中国农村贵，但和北京比比，很不错了
+你们在美国虽然租着房养着老婆开着车（由于美国的工交不发达，私车是必备的），可是过的那是什么生活
+物质生活极大丰富，这个不用忌讳了，就是精神生活比较。。。，因人而异吧
+两个地方就业都紧张，但北京这种地方更紧张，人多啊，搞技术的估计想过的比较好一点，美国快些
+

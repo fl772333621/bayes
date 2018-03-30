@@ -1,0 +1,40 @@
+Return-Path: <ye@tsinghua.edu.cn>
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id iAU7gOcV015953
+	for <wen@ccert.edu.cn>; Tue, 30 Nov 2004 15:42:24 +0800 (CST)
+Received: (eyou send program); Tue, 30 Nov 2004 15:27:18 +0800
+Message-ID: <301799638.04809@mail.tsinghua.edu.cn>
+Received: from unknown (HELO mail.tsinghua.edu.cn) (unknown@127.0.0.1)
+ by 127.0.0.1 with SMTP; Tue, 30 Nov 2004 15:27:18 +0800
+X-scanvirus: By Symantec Scan Engine
+X-scanresult: CLEAN
+Received: (eqmail ); 30 Nov 2004 07:27:17 -0000
+Received: from unknown (HELO sony) (duanhx@166.111.204.112)
+  by localhost with SMTP; 30 Nov 2004 07:27:17 -0000
+Message-ID: <015b01c4d6b0$1cc8db10$70cc6fa6@sony>
+From: "ye" <ye@tsinghua.edu.cn>
+To: wen@ccert.edu.cn
+Subject: =?gb2312?B?ofEgx+vOytPQwcu94sqxtPrD8dC+tcTC8KOo1K2xsb6pzqK159fTy/mjqaO/?=
+Date: Tue, 30 Nov 2004 15:42:14 +0800
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2900.2180
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+Content-Transfer-Encoding: 8bit
+X-MIME-Autoconverted: from base64 to 8bit by sea.net.edu.cn id iAU7gOcV015953
+X-UIDL: P'k"!U(:!!>/7"!=c-!!
+
+本人西直门附近电气小硕
+    本来签了上地的一家大国企：彩虹集团，做等离子电视，解决北京户口，还没办理户
+口审批手续，没有签劳动合同，三方都已签完。签两年，出国则延长为五年。
+    现在想去另一家国企：时代集团，亦解决北京户口，主要做芯片，有民用
+用项目，在东高地，签三年。
+    其实签前者的目的主要是解决北京户口。
+    因为对后者的工作内容感兴趣。两者工资水平差别不大。后者稍高，较忙。
+    明天想去，招生就业办问问，听说今年毁约很难，而且期限临近，后者的地点比较偏。有些犹豫。
+    不知有没有对时代民芯的吗（原北京微电子所）比较清楚的兄弟，所以向大家求助，我的倾向是做技术，拼命毁约是否值得。
+    跟贴或回站内信都行，先谢谢大家了
+

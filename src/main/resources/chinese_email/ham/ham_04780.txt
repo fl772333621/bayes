@@ -1,0 +1,33 @@
+Return-Path: <cai@tsinghua.edu.cn>
+Received: from huhoo ([166.111.232.136])
+	(authenticated bits=0)
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id i8MDfhlB011864;
+	Wed, 22 Sep 2004 21:41:43 +0800 (CST)
+From: "cai" <cai@tsinghua.edu.cn>
+To: liao@ccert.edu.cn
+Cc: <qing@ccert.edu.cn>
+Subject: RE: Honeyd
+Date: Wed, 22 Sep 2004 21:39:07 +0800
+Message-ID: <02a901c4a0a9$8bc383e0$033270ca@huhoo>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_02AA_01C4A0EC.99E6C3E0"
+X-Priority: 3 (Normal)
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook, Build 10.0.2627
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1441
+Importance: Normal
+In-Reply-To: <295853553.07596@mail.tsinghua.edu.cn>
+X-UIDL: !QH"!/AE!!>'+!!,-7!!
+
+【 以下文字转载自 WorkLife 讨论区 】
+发信人: jingjings (jingjings), 信区: WorkLife
+标  题: 问问：办户口的费用应该由谁出
+发信站: 水木社区 (Fri Jun  3 10:17:35 2005), 站内
+我今年夏季毕业
+昨天刚拿到人事局的接收函，总算户口能落下来了
+有趣的是办户口的费用由我个人承担，公司说户口的事情本来就是个人受益
+虽然钱不多，就2k，可是觉得满奇怪的
+周围同学都是公司出的费用啊
+公司还是个比较大的外企，这么做让我更是纳闷了
+

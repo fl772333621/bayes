@@ -1,0 +1,55 @@
+Return-Path: <shi@ns.6test.edu.cn>
+Received: from tsinghua.org.cn ([210.77.143.228])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id i9IEXRvX026825
+	for <he@ccert.edu.cn>; Mon, 18 Oct 2004 22:33:29 +0800
+Received: (eyou send program); Mon, 18 Oct 2004 22:44:31 +0800
+Received: (eyou send program); Mon, 18 Oct 2004 22:44:26 +0800
+X-EYOU-ORIGINAL-IP: 202.38.99.65
+X-EYOU-ENVELOPE-MAILFROM: toefl-bounces@server.cool-meeting.com
+Received: from unknown (HELO server.cool-meeting.com) (unknown@202.38.99.65)
+ by 210.77.143.228 with SMTP; Mon, 18 Oct 2004 22:44:26 +0800
+Received: from server.cool-meeting.com (localhost.localdomain [127.0.0.1])
+	by server.cool-meeting.com (8.12.8/8.12.8) with ESMTP id i9IEdJlj025902
+	for <he@ccert.edu.cn>; Mon, 18 Oct 2004 22:39:30 +0800
+Received: from ns.6test.edu.cn ([202.38.99.18])
+	by server.cool-meeting.com (8.12.8/8.12.8) with ESMTP id i9IEdGkr025898
+	for <he@ccert.edu.cn>; Mon, 18 Oct 2004 22:39:16 +0800
+Received: from [61.48.105.0] (helo=[192.168.0.8])
+	by ns.6test.edu.cn with asmtp (Exim 4.12) id 1CJYo5-0001dZ-00
+	for toefl@server.cool-meeting.com; Mon, 18 Oct 2004 22:48:18 +0800
+Mime-Version: 1.0 (Apple Message framework v619)
+To: he@ccert.edu.cn
+Message-Id: <37301EDC-2112-11D9-B5B9-000D93AF6D96@ns.6test.edu.cn>
+From: CHEN Maoke <shi@ns.6test.edu.cn>
+Subject: =?gb2312?B?UmU6INK71rHS1M6qztLDx8rH1+7H18PctcQg1NrSu8bwvsXE6iC7ucrH0qq31g==?=
+Date: Mon, 18 Oct 2004 22:30:10 +0800
+X-Mailer: Apple Mail (2.619)
+X-BeenThere: toefl@server.cool-meeting.com
+X-Mailman-Version: 2.1.2
+Precedence: list
+List-Id: &#26446;&#26143;&#21644;&#20182;&#30340;&#23398;&#29983;&#20204;
+	<toefl.server.cool-meeting.com>
+List-Unsubscribe: <http://server.cool-meeting.com/mailman/listinfo/toefl>,
+	<mailto:toefl-request@server.cool-meeting.com?subject=unsubscribe>
+List-Archive: <http://server.cool-meeting.com/mailman/private/toefl>
+List-Post: <mailto:toefl@server.cool-meeting.com>
+List-Help: <mailto:toefl-request@server.cool-meeting.com?subject=help>
+List-Subscribe: <http://server.cool-meeting.com/mailman/listinfo/toefl>,
+	<mailto:toefl-request@server.cool-meeting.com?subject=subscribe>
+Content-Type: multipart/mixed; boundary="===============28727708915062822=="
+Sender: toefl-bounces@server.cool-meeting.com
+Errors-To: toefl-bounces@server.cool-meeting.com
+X-UIDL: a*!#!gA-!!hQO!!IA;!!
+
+现在回头去看校园里的爱情，觉得很幼稚，当然也很美好。
+但是那些人真的只适合恋爱，而不应该那么快结婚。
+记得当初分手的时候，男友说：恋爱和结婚的确是很不一样的两回事。
+恋爱只要有爱情就可以了，可婚姻不是。
+婚姻更多的可能是涉及到利益，或者直白的说，是利益的组合。
+所以现在也就渐渐地明白了为什么有的人为了事业而放弃爱情，转而和一个自己原本并不那么爱的人结婚。
+所以，慎重地结婚吧，尤其是在你对未来还不太看得清楚的时候。
+: 潜水很久了,觉得虽然是很多人在心烦时写些家庭琐事,写的人貌似心乱，而文不乱；评的人中肯而有逻辑,觉得很有水平的是。我一直不敢贸然灌水，今天确实很需要倾诉，不想说给亲人，怕他们担心，不想说给熟人，怕他们正忙，如果你今天正好有空，看到了，就随意写几句话，多谢。不好意思了。
+: 我和他在一起亲密无间整整九年了，结婚也4年了吧，其中还有一年人在两地，每晚他睡前都必须给我打一两个小时的长途电话，最长的一次分离也只有一个多月我们没有到对方的地方去探望。那时候我们钱不多，几千块钱月入基本上就在电话费和车票里了。后来我们终于在一起了，在清华西门附近租了一套房子一住就是几年，猫猫都养大了。幸福甜蜜，熟识的朋友都觉得我们是难得要好的一对，家里人也都认为我们可能是下一代中最稳定的了，好放心。
+: 我们是那么了解对方，经过一夜的坦诚交谈、抱头痛哭，我们就要分手了，就在这样的清晨，朦胧睡去，他还习惯性的要抓住我的胳膊，把脚压在我身上，仿佛怕我乘他睡着跑了。今天我就去找房子，打算尽快搬出去，尽早结束彷徨中的痛苦，好重新开始。
+: ...................
+

@@ -1,0 +1,40 @@
+Return-Path: <zhuang@home.ccert.edu.cn>
+Received: from home.ccert.edu.cn (localhost [127.0.0.1])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id iB16UWbt019588;
+	Wed, 1 Dec 2004 14:30:32 +0800
+Received: (from majordomo@localhost)
+	by home.ccert.edu.cn (8.13.1/8.13.1/Submit) id iB16UW8I019587;
+	Wed, 1 Dec 2004 14:30:32 +0800
+X-Authentication-Warning: home.ccert.edu.cn: majordomo set sender to owner-ccertstaff using -f
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id iB16UVUd019583
+	for <kang@ccert.edu.cn>; Wed, 1 Dec 2004 14:30:31 +0800
+Received: from GirlOfGod (tu203027.tsinghua.edu.cn [166.111.203.27])
+	(authenticated bits=0)
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id iB16hauK007966
+	for <kang@ccert.edu.cn>; Wed, 1 Dec 2004 14:43:37 +0800 (CST)
+Message-Id: <200412010643.iB16hauK007966@sea.net.edu.cn>
+Date: Wed, 1 Dec 2004 14:47:57 +0800
+From: "zhuang" <zhuang@cernet.edu.cn>
+To: kang@ccert.edu.cn
+Subject: =?gb2312?B?ofEg1dDGuM/6ytvIy9Sx?=
+X-mailer: Foxmail 5.0 [cn]
+Mime-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: 8bit
+X-MIME-Autoconverted: from base64 to 8bit by home.ccert.edu.cn id iB16UVUd019585
+Sender: owner-ccertstaff@home.ccert.edu.cn
+Precedence: bulk
+X-UIDL: j(e"!CHV!!P"k!!NPf!!
+
+代友发文:
+北京中煤地技术装备公司，是一个从事软件开发和销售本公司研发的软件产品的公司.现由于公司需要招聘软件销售人员(2-3)人
+要求:
+1 有相关销售经验一年以上,最好是有从事过软件销售的经验.
+2 了解软件销售的市场,有挖掘销售渠道的潜力.
+3 较强的语言表达能力,善于与人交流和沟通.
+4 热爱销售的职业,能承受一定的工作压力.
+有意者请先把个人简历发送到公司信箱ccgcit@163.com，如合适会及时与您联系！
+请勿回复本信箱，谢谢！：）
+

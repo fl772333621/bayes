@@ -1,0 +1,21 @@
+Return-Path: <bi@rbl.ccert.edu.cn>
+Received: from rbl.ccert.edu.cn (rbl.ccert.edu.cn [202.112.57.71])
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id i9INsUWD015017
+	for <lu@ccert.edu.cn>; Tue, 19 Oct 2004 07:54:31 +0800 (CST)
+Received: from rbl.ccert.edu.cn (localhost.localdomain [127.0.0.1])
+	by rbl.ccert.edu.cn (8.12.11/8.12.11) with ESMTP id i9J00Flm031541
+	for <lu@ccert.edu.cn>; Tue, 19 Oct 2004 08:00:16 +0800
+Received: (from qa@localhost)
+	by rbl.ccert.edu.cn (8.12.11/8.12.11/Submit) id i9J00F2X031540;
+	Tue, 19 Oct 2004 08:00:15 +0800
+Date: Tue, 19 Oct 2004 08:00:15 +0800
+Message-Id: <200410190000.i9J00F2X031540@rbl.ccert.edu.cn>
+Subject: =?gb2312?B?ofEgtaXBtcHL0O2+wyzW1dPayeG1w7fFytbByw==?=
+To: lu@ccert.edu.cn
+From: Tran Quang Anh <bi@cernet.edu.cn>
+Content-Type: multipart/mixed; boundary="----------=_1098144016-25795-250"
+MIME-Version: 1.0
+X-UIDL: L'+"!X]N"!)Jd"!j8_!!
+
+    这样烦躁的天气,最适合说绝情话.不管心里有多么舍不得,到了放手的时候只能选择所谓的坚强,从此以后就偷偷的想着她,不用再告诉她.我不懂得什么是爱.我只明白自己放不下她,总是想念她.她也想我,但是她不愿意告诉我,她认为我追她,就应该我多想她一点.我在恋爱的追逐中落后了,我失败了.我再也找不到一个和她一样的女人,但是没有她我也要开开心心的活下去.爱情始终在别处.告别永远是悲伤,我很失落.我选择恣意放纵,我想快乐.我的兽性被激发了,我永远不会真正的快乐!永远不要选择没有希望的恋爱!
+

@@ -1,0 +1,35 @@
+Return-Path: <lv@mails.tsinghua.edu.cn>
+Received: from mails.tsinghua.edu.cn (mails.tsinghua.edu.cn [166.111.8.16])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id i9Q3irR7028829
+	for <wua@ccert.edu.cn>; Tue, 26 Oct 2004 11:44:53 +0800 (CST)
+Received: (eyou send program); Tue, 26 Oct 2004 11:39:40 +0800
+Message-ID: <298761980.15713@mails.tsinghua.edu.cn>
+Received: from unknown (HELO mails.tsinghua.edu.cn) (unknown@127.0.0.1)
+ by 127.0.0.1 with SMTP; Tue, 26 Oct 2004 11:39:40 +0800
+X-scanvirus: By Symantec Scan Engine
+X-scanresult: CLEAN
+Received: (eqmail ); 26 Oct 2004 03:39:38 -0000
+Received: from tu154210.tsinghua.edu.cn (HELO xiner) (xwang03@166.111.154.210)
+  by mails.tsinghua.edu.cn with SMTP; 26 Oct 2004 03:39:38 -0000
+Message-ID: <001f01c4bb0f$036c28a0$d29a6fa6@xiner>
+From: "lv" <lv@mails.tsinghua.edu.cn>
+To: wua@ccert.edu.cn
+References: <298758708.01058@mails.tsinghua.edu.cn>
+Subject: =?gb2312?B?UmU6INfyzOzL+8C0vdPO0sHL?=
+Date: Tue, 26 Oct 2004 11:51:01 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_001C_01C4BB52.10B66DC0"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2800.1437
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1441
+X-UIDL: LCF"!k~:!!#D7"!K"*!!
+
+暗恋的感觉也许比所谓的相恋更好吧
+:       昨天晚上一晚上没睡着，翻来覆去的，心情不能平静下来，暗恋一个人真的很甜美，很辛苦，昨天晚上在qq
+上跟他聊了一晚上，末了开玩笑说来接我回寝室，于是就这样见面了，想象了好几回该怎么见面，就这样发生了，
+比照片上的更帅，更瘦，但没有那么成熟，感动的是他给我拿了一件衣服，怕我冷，我这一辈子是不会忘记的。路
+上闲聊着，不敢认真地看他，心里多想啊，想把他完全永远存在心里，不论以后会怎样！！！
+:       不知道他对我印象怎样，互发短信也很客气，就这样患得患失地想着，我真得好像问他啊，还是没有问.........
+

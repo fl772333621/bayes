@@ -1,0 +1,23 @@
+Return-Path: <sun@rbl.ccert.edu.cn>
+Received: from rbl.ccert.edu.cn (rbl.ccert.edu.cn [202.112.57.71])
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id i987dNiX005120
+	for <yi@ccert.edu.cn>; Fri, 8 Oct 2004 15:39:24 +0800 (CST)
+Received: from rbl.ccert.edu.cn (localhost.localdomain [127.0.0.1])
+	by rbl.ccert.edu.cn (8.12.11/8.12.11) with ESMTP id i987jPEr008616
+	for <yi@ccert.edu.cn>; Fri, 8 Oct 2004 15:45:25 +0800
+Received: (from qa@localhost)
+	by rbl.ccert.edu.cn (8.12.11/8.12.11/Submit) id i987jPMm008615;
+	Fri, 8 Oct 2004 15:45:25 +0800
+Date: Fri, 8 Oct 2004 15:45:25 +0800
+Message-Id: <200410080745.i987jPMm008615@rbl.ccert.edu.cn>
+Subject: =?gb2312?B?UmU6INDEy+m1xMPA?=
+To: yi@ccert.edu.cn
+From: Tran Quang Anh <sun@cernet.edu.cn>
+Content-Type: multipart/mixed; boundary="----------=_1097221525-1044-312"
+MIME-Version: 1.0
+X-UIDL: ;W-"!7SF!!Wo0!!&]3!!
+
+从一个blog转载的？
+: 心慢慢的裂开了，也许是从本来已经布满疮痍的表面上多了一道细微的裂痕；一直以为一个完整的心才会是最美的，如同一个美丽的水晶球。可是，当发觉它在破碎的霎那间也可以迸发出极其美丽的瞬间，四散的碎片如同美丽的雪花，在最后一丝的阳光下，闪着夕阳那紫红色的光泽，
+: 我的眼睛里开始凝聚泪水，可是它们却如同被那块残缺的水晶所吸引掉落在地上，然后慢慢朝它滚去。我仰起我的头颅，看那些被夕阳染色的云，是那么的美，那个颜色是那么的鲜艳。当最后一滴泪水流出眼眶的时候，我想怒吼，可是没有气力的躯体居然连一丝呻吟都发不出来，只能
+

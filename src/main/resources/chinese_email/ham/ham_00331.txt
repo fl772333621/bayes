@@ -1,0 +1,37 @@
+Return-Path: <zhu@cernet.edu.cn>
+Received: from tsinghua.org.cn ([210.77.143.231])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id iB313NjO015510
+	for <zhu@ccert.edu.cn>; Fri, 3 Dec 2004 09:03:25 +0800
+Received: (eyou send program); Fri, 03 Dec 2004 08:56:31 +0800
+Received: (eyou send program); Fri, 03 Dec 2004 08:56:31 +0800
+X-EYOU-ORIGINAL-IP: 210.77.143.235
+X-EYOU-ENVELOPE-MAILFROM: wlzxrs@cernet.edu.cn
+Received: from unknown (HELO eyou.net) (unknown@210.77.143.235)
+ by 210.77.143.231 with SMTP; Fri, 03 Dec 2004 08:56:31 +0800
+Received: (eyou send program); Fri, 03 Dec 2004 09:11:35 +0800
+Message-ID: <302036295.14436@eyou.net>
+Received: from 202.112.5.66 by 210.77.143.235 with SMTP; Fri, 03 Dec 2004 09:11:34 +0800
+Received: from 56ls81hgnjb0ggr ([202.112.4.6])
+	(authenticated bits=0)
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id iB31GOhv017543
+	for <zhu@ccert.edu.cn>; Fri, 3 Dec 2004 09:16:27 +0800 (CST)
+Message-Id: <200412030116.iB31GOhv017543@sea.net.edu.cn>
+From: "zhu" <zhu@cernet.edu.cn>
+Reply-To: zhu@cernet.edu.cn
+To: zhu@ccert.edu.cn
+Subject: =?gb2312?B?UmU6IMy9zNbSu7z+ysI=?=
+X-mailer: Foxmail 4.2 [cn]
+Mime-Version: 1.0
+Content-Type: text/plain;
+      charset="GB2312"
+Date: Fri, 3 Dec 2004 9:15:31 +0800
+Content-Transfer-Encoding: 8bit
+X-MIME-Autoconverted: from quoted-printable to 8bit by home.ccert.edu.cn id iB313NjO015510
+X-UIDL: H,?"!J:~!!X%a!!";<!!
+
+说说我的个人体会吧，我曾经在中国石油下面的一家二级单位工作过，应该说具有一定的代表性，不管是学工科还是学文科的学生刚到油田的时候都会下基层，文科的干一段时间可能会到机关作个文员财务劳资什么的，是比较轻闲一点，虽说接触上面的时间多一些，但是最终提起来的大部分还是工科学石油工程或者机械什么的，不管别的企业怎么样，至少在中油这个现象还是很普遍的。而且据我所知好像我们某位秘书也是石油大学毕业的石油工程专业的高才生。不过我说的是一个国有大型企业的情况，跟国家事业单位、政府机关还是有一定的差别，anyway，关键是要自己努力，当然你要是认识个什么局长处长的那又当别论了^_^
+:   我不知理工科学生走的，跟文科学生走的路，有什么本质区别。
+:   像我去一家私营公司，即使做好了，大不了能做到自己开公司，最多也只能
+: 赶赶裘伯军，张朝阳等人（当然现在看来不大可能）。而文科学生呢，也是跟我相同
+: ...................
+

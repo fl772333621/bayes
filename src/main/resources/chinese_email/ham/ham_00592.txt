@@ -1,0 +1,50 @@
+Return-Path: <ding@ccert.edu.cn>
+Received: from tsinghua.org.cn ([210.77.143.228])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id i9L8pXqV015743
+	for <ma@ccert.edu.cn>; Thu, 21 Oct 2004 16:51:56 +0800
+Received: (eyou send program); Thu, 21 Oct 2004 17:02:40 +0800
+Received: (eyou send program); Thu, 21 Oct 2004 17:02:33 +0800
+X-EYOU-ORIGINAL-IP: 166.111.8.16
+X-EYOU-ENVELOPE-MAILFROM: starry@ccert.edu.cn
+Received: from unknown (HELO mails.tsinghua.edu.cn) (unknown@166.111.8.16)
+ by 210.77.143.228 with SMTP; Thu, 21 Oct 2004 17:02:33 +0800
+Received: (eyou send program); Thu, 21 Oct 2004 16:56:24 +0800
+Message-ID: <298348984.08384@mails.tsinghua.edu.cn>
+Received: (eyou send program); Thu, 21 Oct 2004 16:56:23 +0800
+Message-ID: <298348983.21557@mails.tsinghua.edu.cn>
+Received: from unknown (HELO mails.tsinghua.edu.cn) (unknown@127.0.0.1)
+ by 127.0.0.1 with SMTP; Thu, 21 Oct 2004 16:56:23 +0800
+X-scanvirus: By Symantec Scan Engine
+X-scanresult: CLEAN
+Received: (eqmail ); 21 Oct 2004 08:56:13 -0000
+Received: from ccert.edu.cn (HELO home.ccert.edu.cn) (202.112.57.12)
+  by mails.tsinghua.edu.cn with SMTP; 21 Oct 2004 08:56:13 -0000
+Received: from home.ccert.edu.cn (localhost [127.0.0.1])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id i9L8mH1v015704;
+	Thu, 21 Oct 2004 16:48:17 +0800
+Received: (from majordomo@localhost)
+	by home.ccert.edu.cn (8.13.1/8.13.1/Submit) id i9L8mH9G015703;
+	Thu, 21 Oct 2004 16:48:17 +0800
+X-Authentication-Warning: home.ccert.edu.cn: majordomo set sender to owner-ccertstaff using -f
+Received: from starry ([202.112.50.191])
+	(authenticated bits=0)
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id i9L8m9jr015698;
+	Thu, 21 Oct 2004 16:48:11 +0800
+Message-Id: <200410210848.i9L8m9jr015698@home.ccert.edu.cn>
+Date: Thu, 21 Oct 2004 16:59:09 +0800
+From: "ding" <ding@ccert.edu.cn>
+To: ma@ccert.edu.cn
+Cc: "ccertstaff" <lai@ccert.edu.cn>
+Subject: =?gb2312?B?ofEgvfHM7MrHus3Az7mrz+DKtjTE6rDrtcTI1dfTo6y3osz5x+y62F5fXg==?=
+X-mailer: Foxmail 5.0 [cn]
+Mime-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: 8bit
+X-MIME-Autoconverted: from base64 to 8bit by home.ccert.edu.cn id i9L8mHjr015700
+Sender: owner-ccertstaff@home.ccert.edu.cn
+Precedence: bulk
+X-UIDL: fYW!!1[1"!TZk!!]-`!!
+
+我们是大学的同学，又一块考上了研究生，今年4月份刚刚毕业，都在北京找到了一份差不多的工作安定下来，下面的计划就是攒钱买房了，双方家里都不容易，就靠我们自己了。虽然很辛苦，但是很幸福。回头想想刚开始也有很多不开心的事情，还有一次差一点就分开了。我俩是星像上所说的最不合的两个星座：双子和双鱼，不知是不是和这个有关，观点不一致的地方很多，再加上俩人都是急性子，矛盾就更多了。还好，我们都克服了，感情也随着年龄的增长越来越深了，也许现在这个物资的社会，能走到这么久的恋人可能不是很多了，我很庆幸认识了我的老公，难得有他这样重感情、专一的人，这么多年了都是他包容我的坏脾气，虽然他的脾气也不好。我师妹有时会给我诉苦说她和现在的男朋友以后也不知道最终能不能走到一起，说要找一个自己有感觉的才幸福。我就会笑着告诉她，她还是太年轻了，还没有真正认识到什么是幸福。那些都是虚的，找一个对自己好的，负责的男人才会有幸福。祝福大家都能找到自己的幸福，已经幸福的就好好把握自己的幸福，也祝福我们自己。我的文笔太差，说话颠三倒四的，希望大家别笑话，^_^
+

@@ -1,0 +1,21 @@
+Return-Path: <pan@rbl.ccert.edu.cn>
+Received: from rbl.ccert.edu.cn (rbl.ccert.edu.cn [202.112.57.71])
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id i9K76lsZ016692
+	for <lian@ccert.edu.cn>; Wed, 20 Oct 2004 15:06:48 +0800 (CST)
+Received: from rbl.ccert.edu.cn (localhost.localdomain [127.0.0.1])
+	by rbl.ccert.edu.cn (8.12.11/8.12.11) with ESMTP id i9K7Cd7v023864
+	for <lian@ccert.edu.cn>; Wed, 20 Oct 2004 15:12:40 +0800
+Received: (from qa@localhost)
+	by rbl.ccert.edu.cn (8.12.11/8.12.11/Submit) id i9K7Cdee023863;
+	Wed, 20 Oct 2004 15:12:39 +0800
+Date: Wed, 20 Oct 2004 15:12:39 +0800
+Message-Id: <200410200712.i9K7Cdee023863@rbl.ccert.edu.cn>
+Subject: =?gb2312?B?ofEgtb2118TjysfExMDvusM=?=
+To: lian@ccert.edu.cn
+From: Tran Quang Anh <pan@cernet.edu.cn>
+Content-Type: multipart/mixed; boundary="----------=_1098256360-20725-4"
+MIME-Version: 1.0
+X-UIDL: RUA!!eae"!%Mi!!H^E!!
+
+因为想你，我哭了，已经有好几年没有这么伤心过，已经好几年没有哭得这么厉害。不知道你有哪里好？让我一直忘不了。你说不喜欢我哭，说我哭起来很难看，所以我很久没有哭，可是你知道吗，我其实很少哭，每次伤心的哭都是因为你；你说我多笑会很好看，所以我会经常笑；你说我长发挥很漂亮，所以我留长发虽然我梳了20多年短发也不觉得不好；你说不喜欢我把头发扎起来，所以每次见你之前都会把头发熨直不管天气多热。我都不知道我是怎么了，从来没有一个人让我这么言听计从，从来没有一个人让我如此温柔。虽然三年没有联络 ，但你在我心中依然不陌生。你说过的话，做过的事都历历在目，清晰如昨。真的不知道你到底哪里好。虽然我爱你，但却不敢奢望与你在一起。我怕终有一天又会失去，我承受不起，只能远远看着你祝福你过得比我好；在你需要安慰的时候我会陪着你度过，你快乐得时候静静的消失。到今天我也不后悔，和你一起的快乐时光，是我一生最美丽的时刻。是我一生中最值得回忆的一段岁月。虽然我也想忘记，但感情的事真的不是理智可以约束得了的。我还是会爱你，但我不会告诉你。就让他埋在我心里，刻在三生石上。如果下辈子可以选择，我愿做你的妹妹，可以受到你的疼爱一辈子不会变。
+

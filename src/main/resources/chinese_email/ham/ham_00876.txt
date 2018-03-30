@@ -1,0 +1,43 @@
+Return-Path: <yun@rbl.ccert.edu.cn>
+Received: from rbl.ccert.edu.cn (rbl.ccert.edu.cn [202.112.57.71])
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id i9GDoHBF025372
+	for <cheng@ccert.edu.cn>; Sat, 16 Oct 2004 21:50:18 +0800 (CST)
+Received: from rbl.ccert.edu.cn (localhost.localdomain [127.0.0.1])
+	by rbl.ccert.edu.cn (8.12.11/8.12.11) with ESMTP id i9GDtr3N021574
+	for <cheng@ccert.edu.cn>; Sat, 16 Oct 2004 21:55:54 +0800
+Received: (from qa@localhost)
+	by rbl.ccert.edu.cn (8.12.11/8.12.11/Submit) id i9GDtrTg021573;
+	Sat, 16 Oct 2004 21:55:53 +0800
+Date: Sat, 16 Oct 2004 21:55:53 +0800
+Message-Id: <200410161355.i9GDtrTg021573@rbl.ccert.edu.cn>
+Subject: =?gb2312?B?UmU6IM3ixvO+zdK7tqi6w8Lw?=
+To: cheng@ccert.edu.cn
+From: Tran Quang Anh <yun@cernet.edu.cn>
+Content-Type: multipart/mixed; boundary="----------=_1097934954-2811-120"
+MIME-Version: 1.0
+X-UIDL: BOU!!'G_!!2jQ"!)pL!!
+
+问题是这些东西都没用啊。
+: 标  题: Re: 外企就一定好吗
+: 发信站: 水木社区 (Tue Jun  7 15:23:29 2005), 站内
+: 
+: 你有证据吗？
+: 拿着什么开源的？jboss的？呵呵
+: 
+: 袁洪刚说他看过jboss的东西，那什么都不说明。呵呵
+: 
+: 用友也在搞自己的中间件。
+: 这些都是好事
+: 让中国的程序员有点追求，不要只是在现成的
+: 架构实现上写一些应用
+: 
+: 
+: 
+: : hehe ,这个貌似。。。。。
+: : 无非是拿着opensource的卖钱。。。。
+: 
+: 
+: --
+: 
+: ※ 来源:·水木社区 newsmth.net·[FROM: 211.154.46.*]
+

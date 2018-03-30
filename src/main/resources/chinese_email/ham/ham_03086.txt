@@ -1,0 +1,52 @@
+Return-Path: <tu@tsinghua.edu.cn>
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id iBLBP3l8009858
+	for <liao@ccert.edu.cn>; Tue, 21 Dec 2004 19:25:03 +0800 (CST)
+Received: (eyou send program); Tue, 21 Dec 2004 19:09:37 +0800
+Message-ID: <303627377.00783@mail.tsinghua.edu.cn>
+Received: from unknown (HELO mail.tsinghua.edu.cn) (unknown@127.0.0.1)
+ by 127.0.0.1 with SMTP; Tue, 21 Dec 2004 19:09:37 +0800
+X-scanvirus: By Symantec Scan Engine
+X-scanresult: CLEAN
+Received: (eqmail ); 21 Dec 2004 11:09:36 -0000
+Received: from unknown (HELO sony) (duanhx@202.112.50.214)
+  by localhost with SMTP; 21 Dec 2004 11:09:36 -0000
+Message-ID: <002601c4e74f$b3a4ef60$d63270ca@sony>
+From: "tu" <tu@tsinghua.edu.cn>
+To: liao@ccert.edu.cn
+Subject: =?gb2312?B?ofEguPjE4yzO0rXEw8PDwzM=?=
+Date: Tue, 21 Dec 2004 19:24:55 +0800
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="----=_NextPart_000_0024_01C4E792.C0B0A4E0"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2900.2180
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+X-UIDL: UO5!!i(`"!pHi!!\&X!!
+
+不知道这样把你写在网上会怎样
+你偶尔也会来这里看的,还是我介绍你来的
+你去了郊区学画画
+独立了,但是脾气也大了
+乖巧,嘴甜的时候很少了
+经常把姥爷气得半死
+和最小的表弟打成一团
+姥爷经常气得让你滚,不许再来
+但是你下次仍然笑呵呵的出现在姥爷家
+我们见面的少了
+但是你还是那样单纯
+你长得漂亮高挑
+家里人都担心你会早恋
+但是每次问你你都说没有的事情
+还记得初中的时候你问你妈妈的笑话
+什么样才是谈恋爱啊?
+女生和女生不行吗?
+想起高中时你闹的笑话
+校舍半夜着火了
+你穿着秋衣秋裤光着脚就跑了出来,床上烧的一片狼藉
+那是冬天,你打电话让家里人接你回家
+老妈说你,也不知道抓件衣服再跑,火也不大
+结果你说"下次再着火我就不出来了"
+单纯的你,可爱的你
+

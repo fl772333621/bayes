@@ -1,0 +1,37 @@
+Return-Path: <ke@rbl.ccert.edu.cn>
+Received: from rbl.ccert.edu.cn (rbl.ccert.edu.cn [202.112.57.71])
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id i97AwPSN018791
+	for <kong@ccert.edu.cn>; Thu, 7 Oct 2004 18:58:25 +0800 (CST)
+Received: from rbl.ccert.edu.cn (localhost.localdomain [127.0.0.1])
+	by rbl.ccert.edu.cn (8.12.11/8.12.11) with ESMTP id i97B4Oor000960
+	for <kong@ccert.edu.cn>; Thu, 7 Oct 2004 19:04:25 +0800
+Received: (from qa@localhost)
+	by rbl.ccert.edu.cn (8.12.11/8.12.11/Submit) id i97B4OjD000959;
+	Thu, 7 Oct 2004 19:04:24 +0800
+Date: Thu, 7 Oct 2004 19:04:24 +0800
+Message-Id: <200410071104.i97B4OjD000959@rbl.ccert.edu.cn>
+Subject: =?gb2312?B?ofEgW9XQxrhdzfjTzsa1tcCx4Lyt?=
+To: kong@ccert.edu.cn
+From: Tran Quang Anh <ke@cernet.edu.cn>
+Content-Type: multipart/mixed; boundary="----------=_1097147065-996-878"
+MIME-Version: 1.0
+X-UIDL: ~'H"!ZW]!!<+>"!_,h!!
+
+网游频道编辑
+专业要求：
+1、     本科以上学历，中文、新闻等专业为佳；
+2、     有新闻采编工作经验；
+3、     新闻敏感度高，策划能力强，文笔好。
+4、     熟悉网络游戏。
+基本要求：
+1、     英语国家四级以上，能够阅读英文新闻。
+2、     熟练电脑与办公软件操作。
+3、     热爱网络编辑工作，有团队精神，能适应较大工作强度。
+工作职责：
+1、     网络游戏相关新闻的报道与编辑。
+2、     网络游戏新闻网站的活动策划。
+3、     作者队伍管理。
+shiwenti@uoyoo.com
+北京梦托邦信息技术有限公司
+公司地址：北京海淀区西屋国际公寓D座1102
+

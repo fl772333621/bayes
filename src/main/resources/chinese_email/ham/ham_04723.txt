@@ -1,0 +1,32 @@
+Return-Path: <zhang@mails.tsinghua.edu.cn>
+Received: from tsinghua.org.cn ([210.77.143.231])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id iB44IHOJ014943
+	for <ke@ccert.edu.cn>; Sat, 4 Dec 2004 12:18:19 +0800
+Received: (eyou send program); Sat, 04 Dec 2004 12:11:28 +0800
+Received: (eyou send program); Sat, 04 Dec 2004 12:11:27 +0800
+X-EYOU-ORIGINAL-IP: 210.77.143.235
+X-EYOU-ENVELOPE-MAILFROM: webmaster@mails.tsinghua.edu.cn
+Received: from unknown (HELO eyou.net) (unknown@210.77.143.235)
+ by 210.77.143.231 with SMTP; Sat, 04 Dec 2004 12:11:27 +0800
+Received: (eyou send program); Sat, 04 Dec 2004 12:26:29 +0800
+Message-ID: <302134389.08368@eyou.net>
+Received: from 166.111.8.16 by 210.77.143.235 with SMTP; Sat, 04 Dec 2004 12:26:28 +0800
+Received: (eyou send program); Sat, 04 Dec 2004 12:26:09 +0800
+Message-ID: <302134368.27586@mails.tsinghua.edu.cn>
+Received: (eyou send program); Sat, 04 Dec 2004 12:26:02 +0800
+Message-ID: <302134362.27439@mails.tsinghua.edu.cn>
+Date: Sat, 04 Dec 2004 12:08:31 +0800
+From: zhang@mails.tsinghua.edu.cn
+Reply-To: zhang@mails.tsinghua.edu.cn
+Subject: =?gb2312?B?UmU6IL3x0rmjrLCux+nLwM32oaqhqs7StcSwrsfptb/OxA==?=
+CC: 
+Content-Type: multipart/mixed; boundary="----------=_1102133900-10199-652"
+MIME-Version: 1.0
+X-UIDL: $%a!!f_<!!PdM"!ok6!!
+
+找找自己的原因吧
+: 刚刚回到宿舍，轻轻地放下大包小包，镇静地微笑，和宿舍的MM们聊了几句，极力装做什么事也没有……
+:     脱掉凉鞋，爬上床，拉上帘子，终于，把自己甩在了被子上，天昏地暗……
+:     今夜，我的爱情死了……她就像我的一个孩子，一个小baby,我是那么精心的呵护，全力的付出，可是，她一直在生病，各种各样的病，大大小小的病，直到，病入膏肓……今夜，她终于死去了，除了我身上一身的伤痛外，什么也没留下。
+: ...................
+

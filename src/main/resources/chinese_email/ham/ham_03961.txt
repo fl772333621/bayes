@@ -1,0 +1,41 @@
+Return-Path: <cao@ccert.edu.cn>
+Received: from home.ccert.edu.cn (ccert.edu.cn [202.112.57.12])
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id iB187HrA009778;
+	Wed, 1 Dec 2004 16:07:17 +0800 (CST)
+Received: from ccertspark (tu203021.tsinghua.edu.cn [166.111.203.21])
+	(authenticated bits=0)
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id iB17rqKa021013;
+	Wed, 1 Dec 2004 15:53:52 +0800
+From: "cao" <cao@ccert.edu.cn>
+To: yi@ccert.edu.cn
+Cc: <wen@ccert.edu.cn>
+Subject: =?gb2312?B?ofEgob7IyNXQob+7qs6quqPLvLDrtbzM5bqjy7zNqNDFvLzK9dHQvr+yv7PP0fu808PL?=
+Date: Wed, 1 Dec 2004 16:05:48 +0800
+Message-ID: <002101c4d77c$91024c60$15cb6fa6@ccertspark>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0022_01C4D7BF.9F258C60"
+X-Priority: 3 (Normal)
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook, Build 10.0.6626
+X-MIMEOLE: Produced By Microsoft MimeOLE V6.00.3790.181
+In-Reply-To: <002301c4d779$cc07e2a0$df54cfdc@WHITESNOW>
+Importance: Normal
+X-UIDL: JD9!!<V*"!DPK"!,S[!!
+
+职位：   物理层软件工程师(华为海思半导体) 
+职责：    1、按照模块规格和软件总体方案的要求，严格遵循开发流程、模板、
+             标准和规范，承担模块设计与测试工作，确保开发工作按时按质完成；
+          2、完成与基带芯片的集成测试与联调；
+          3、与相关团队合作，共同完成系统测试任务。 
+职位要求：      1、具有1年以上DSP软件设计开发经验；
+                2、对无线通信信号处理有一定的了解，
+                     熟悉WCDMA/GSM/GPRS/TDSCDMA物理层者优先；
+                3、对无线终端总体结构有一定的理解和认识；
+                4、电子类相关专业，通信专业优先，本科以上学历 
+工作地点： 北京 
+有效期：2005-05-16 至 2005-12-30
+  
+有意者请将简历投递至huanghk@hisilicon.com 
+&lt;代友发文，请勿回站内信箱&gt;
+

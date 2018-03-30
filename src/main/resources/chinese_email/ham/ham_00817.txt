@@ -1,0 +1,73 @@
+Return-Path: <xiao@ccert.edu.cn>
+Received: from tsinghua.org.cn ([210.77.143.231])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id iBSABAro021781
+	for <luo@ccert.edu.cn>; Tue, 28 Dec 2004 18:11:17 +0800
+Received: (eyou send program); Tue, 28 Dec 2004 18:04:42 +0800
+Received: (eyou send program); Tue, 28 Dec 2004 18:04:42 +0800
+X-EYOU-ORIGINAL-IP: 210.77.143.235
+X-EYOU-ENVELOPE-MAILFROM: zhenghui@ccert.edu.cn
+Received: from unknown (HELO eyou.net) (unknown@210.77.143.235)
+ by 210.77.143.231 with SMTP; Tue, 28 Dec 2004 18:04:42 +0800
+Received: (eyou send program); Tue, 28 Dec 2004 18:19:06 +0800
+Message-ID: <304229146.14300@eyou.net>
+Received: from 166.111.8.16 by 210.77.143.235 with SMTP; Tue, 28 Dec 2004 18:19:01 +0800
+Received: (eyou send program); Tue, 28 Dec 2004 18:19:42 +0800
+Message-ID: <304229182.17380@mails.tsinghua.edu.cn>
+Received: (eyou send program); Tue, 28 Dec 2004 18:19:42 +0800
+Message-ID: <304229182.09876@mails.tsinghua.edu.cn>
+Received: from unknown (HELO mails.tsinghua.edu.cn) (unknown@127.0.0.1)
+ by 127.0.0.1 with SMTP; Tue, 28 Dec 2004 18:19:42 +0800
+X-scanvirus: By Symantec Scan Engine
+X-scanresult: CLEAN
+X-Received: unknown,202.112.57.12,20041228181940
+Received: from unknown (HELO home.ccert.edu.cn) (202.112.57.12)
+  by localhost with SMTP; 28 Dec 2004 10:19:40 -0000
+Received: from home.ccert.edu.cn (localhost [127.0.0.1])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id iBSA2VS2021583;
+	Tue, 28 Dec 2004 18:02:36 +0800
+Received: (from majordomo@localhost)
+	by home.ccert.edu.cn (8.13.1/8.13.1/Submit) id iBSA2UgJ021582;
+	Tue, 28 Dec 2004 18:02:30 +0800
+X-Authentication-Warning: home.ccert.edu.cn: majordomo set sender to owner-ccertstaff using -f
+Received: from ccertspark (tu203021.tsinghua.edu.cn [166.111.203.21])
+	(authenticated bits=0)
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id iBSA2FKX021569
+	for <luo@ccert.edu.cn>; Tue, 28 Dec 2004 18:02:20 +0800
+Reply-To: <xiao@cernet.edu.cn>
+From: "xiao" <xiao@ccert.edu.cn>
+To: luo@ccert.edu.cn
+Subject: =?gb2312?B?UmU6INDUuPGyu7rPtcTBvbj2yMujrLCu09Cz9sK3w7Sjv34=?=
+Date: Tue, 28 Dec 2004 18:14:39 +0800
+Message-ID: <000701c4ecc6$136125b0$15cb6fa6@ccertspark>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0008_01C4ED09.218465B0"
+X-Priority: 3 (Normal)
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook, Build 10.0.6626
+Importance: Normal
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.3790.181
+Sender: owner-ccertstaff@home.ccert.edu.cn
+Precedence: bulk
+X-UIDL: ,>*!!>;!#!nje!!nFZ"!
+
+只要有爱就合
+无爱则不合
+  
+   我和GG大三。在一个学校。不同专业。
+   相恋一年又二月。
+   热恋很美好。令人羡慕的浪漫。虽然他其实很木讷。但特别用心。
+   当然热恋遮蔽到人的理性的呵呵，“人太终于感觉，就难好好思考。”
+   逐渐发现两个人性格实在差很远……
+GG属于事业型的。忙社团，忙团委。很多的事情而且十分投入。尤其是社团，因为是他一手做起来的，两年来大部分心血在那里，特别地爱。所以放不下。
+GG希望我能理解他。比如说他忙的时候，我能不去计较，哪怕真的是三天都不见面。他随时可能不忙了找我吃饭，我就跟他去吃饭。
+MM呢，就是我喽。可能比较小女人，而且有点娇气（这确实是我的缺点）。我依赖性有点厉害，但是也在改正。不知道为什么，就喜欢长厢厮守的爱。就喜欢平平稳稳的爱。
+MM我觉得爱情是双方的，我尽量去体谅他，但同时我也觉得GG应该疼我保护我。我病了应该安慰我陪我。哪怕是他比较忙的时候。因为爱情重于大学的社团。我这么觉得。
+   我们对爱情的理解不一样。还有对社团这种事情的理解也不一样。
+   我们吵了一些架。确切说是争辩。
+   好累哦……哎~~~~~累……
+   可是我不想放弃他。因为喜欢。也因为他对我好好。（有空的时候）
+   他也说不想放弃我。因为喜欢。也因为我对他好好。（不烦的时候）
+我们确实都在努力。他闲下来会陪我。我尽量忍着不发脾气。可是……
+昨晚上又吵架了，哭了好多好多，哎。有出路么，大家帮帮我，有出路么？
+

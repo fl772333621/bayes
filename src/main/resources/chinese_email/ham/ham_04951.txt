@@ -1,0 +1,28 @@
+Return-Path: <mei@rbl.ccert.edu.cn>
+Received: from rbl.ccert.edu.cn (rbl.ccert.edu.cn [202.112.57.71])
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id i9G5QOM7019776
+	for <ning@ccert.edu.cn>; Sat, 16 Oct 2004 13:26:24 +0800 (CST)
+Received: from rbl.ccert.edu.cn (localhost.localdomain [127.0.0.1])
+	by rbl.ccert.edu.cn (8.12.11/8.12.11) with ESMTP id i9G5W21l005819
+	for <ning@ccert.edu.cn>; Sat, 16 Oct 2004 13:32:03 +0800
+Received: (from qa@localhost)
+	by rbl.ccert.edu.cn (8.12.11/8.12.11/Submit) id i9G5W27L005817;
+	Sat, 16 Oct 2004 13:32:02 +0800
+Date: Sat, 16 Oct 2004 13:32:02 +0800
+Message-Id: <200410160532.i9G5W27L005817@rbl.ccert.edu.cn>
+Subject: =?gb2312?B?UmU6IM7Syseyu8rH06a4w7fFxvqjv7u5ysfP8sv7se2w16O/o6i0+tPRt6KjqQ==?=
+To: ning@ccert.edu.cn
+From: Tran Quang Anh <mei@cernet.edu.cn>
+Content-Type: multipart/mixed; boundary="----------=_1097904723-2811-96"
+MIME-Version: 1.0
+X-UIDL: PKA!!fo&#!WAm!!4Tb"!
+
+ 天恨大，下面的树也很多
+ 何必一颗树上吊死
+ 人说经历过一次失败的恋情之后更能理解情的真谛，情是两情相约的情
+ 不是苦恼之情的情，懂了这些，也就知道何去何从了
+: 朋友们，你们怎么想？有什么建议吗？
+: 我爱一个男子，但我决定放弃。
+: 认识他是在我人生中最灰暗孤绝的阶段。受够了罗曼蒂克的幻想的苦难，但对于最初、永远还心存幻想，尽管早已没有一丝力气。
+: ...................
+

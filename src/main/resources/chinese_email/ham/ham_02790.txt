@@ -1,0 +1,33 @@
+Return-Path: <zhao@rbl.ccert.edu.cn>
+Received: from rbl.ccert.edu.cn (rbl.ccert.edu.cn [202.112.57.71])
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id i97NA7de026925
+	for <gong@ccert.edu.cn>; Fri, 8 Oct 2004 07:10:07 +0800 (CST)
+Received: from rbl.ccert.edu.cn (localhost.localdomain [127.0.0.1])
+	by rbl.ccert.edu.cn (8.12.11/8.12.11) with ESMTP id i97NG7Ro012735
+	for <gong@ccert.edu.cn>; Fri, 8 Oct 2004 07:16:08 +0800
+Received: (from qa@localhost)
+	by rbl.ccert.edu.cn (8.12.11/8.12.11/Submit) id i97NG7xo012734;
+	Fri, 8 Oct 2004 07:16:07 +0800
+Date: Fri, 8 Oct 2004 07:16:07 +0800
+Message-Id: <200410072316.i97NG7xo012734@rbl.ccert.edu.cn>
+Subject: =?gb2312?B?UmU6IMTjw8e+9bXDztLV4tH5usPC8KO/uPi149LivPs=?=
+To: gong@ccert.edu.cn
+From: Tran Quang Anh <zhao@cernet.edu.cn>
+Content-Type: multipart/mixed; boundary="----------=_1097190968-1044-144"
+MIME-Version: 1.0
+X-UIDL: /(h"!UK4!!_H*!!CZL!!
+
+其实大家一直认为医疗和养老保险就能比商业保险管用，
+那完全是因为以前有单位就有饭碗的思想...
+我也没有工作，但我有工作居住证，前几天看到新闻，说有北京市工作居住证的，
+医保可以给报销生育费，顺产最低也能报3100，我就去捣腾了一下这个事，
+发现羊毛还是出在羊身上，如果要上医保，三险都得上，
+有单位的话，每个月交两三百，没有单位自己全交，就是五六百...
+一年下来也是六千多哪~~
+社保和医保真的是国家在保护你吗？未必，只不过是大家都拿点钱出来放着，
+谁倒霉有事了，大家都摊点，表面上看着划算，其实羊毛还是出在羊身上，
+而且，单位帮你交的保险钱，还不是从工资里扣掉的？其实是一样的
+社保有一个专门的保险公司来运作，呵呵，没有利润怎么可能养得起那么多人呢？
+: 我自己买商业保险不行吗？其实我觉得一般的头疼脑热就自己买点药行了，真的大病，商业保险也会陪的。而且我想，现在的养老保险真的几十年以后能到手的钱也只是维持你饿不死罢了，你要想过的好，维持现在的状态 ，也要靠年青的时候多存点钱。
+: 哎。觉得这样说好象在给自己找借口一样。不出去工作的借口。
+

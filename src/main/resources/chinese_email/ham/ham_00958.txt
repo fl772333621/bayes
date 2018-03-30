@@ -1,0 +1,58 @@
+Return-Path: <gong@compass.net.edu.cn>
+Received: from tsinghua.org.cn ([210.77.143.228])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id iAIFQFca014395
+	for <huang@ccert.edu.cn>; Thu, 18 Nov 2004 23:26:16 +0800
+Received: (eyou send program); Thu, 18 Nov 2004 23:38:44 +0800
+Received: (eyou send program); Thu, 18 Nov 2004 23:38:44 +0800
+X-EYOU-ORIGINAL-IP: 210.77.143.235
+X-EYOU-ENVELOPE-MAILFROM: toefl-bounces@server.cool-meeting.com
+Received: from unknown (HELO eyou.net) (unknown@210.77.143.235)
+ by 210.77.143.228 with SMTP; Thu, 18 Nov 2004 23:38:44 +0800
+Received: (eyou send program); Thu, 18 Nov 2004 23:34:28 +0800
+Message-ID: <300792068.11730@eyou.net>
+Received: from 202.38.99.65 by 210.77.143.235 with SMTP; Thu, 18 Nov 2004 23:34:25 +0800
+Received: from server.cool-meeting.com (localhost.localdomain [127.0.0.1])
+	by server.cool-meeting.com (8.12.8/8.12.8) with ESMTP id iAIFqOlZ017019
+	for <huang@ccert.edu.cn>; Thu, 18 Nov 2004 23:52:34 +0800
+Received: from compass.net.edu.cn ([202.38.188.130])
+	by server.cool-meeting.com (8.12.8/8.12.8) with ESMTP id iAIFqHkr017015
+	for <huang@ccert.edu.cn>; Thu, 18 Nov 2004 23:52:17 +0800
+Received: from [210.25.128.113] ([210.25.128.113])
+	by compass.net.edu.cn (8.9.2/8.9.2) with ESMTP id XAA19815
+	for <huang@ccert.edu.cn>;
+	Thu, 18 Nov 2004 23:41:16 +0800 (CST)
+Message-ID: <419CC145.9090105@compass.net.edu.cn>
+Date: Thu, 18 Nov 2004 23:35:33 +0800
+From: Shaozhi Ye <gong@compass.net.edu.cn>
+User-Agent: Mozilla Thunderbird 0.9 (Windows/20041103)
+X-Accept-Language: en-us, en
+MIME-Version: 1.0
+To: huang@ccert.edu.cn
+Content-Type: text/plain; charset=GB2312
+Content-Transfer-Encoding: 8bit
+Cc: 
+Subject: =?gb2312?B?UmU6INPQw+a5/dbQtLTQxbLitcR4ZGptw8fC8KO/zNbC29K7z8LV4rj2uavLvrXEw+bK1LrNscrK
+1LA=?=
+X-BeenThere: toefl@server.cool-meeting.com
+X-Mailman-Version: 2.1.2
+Precedence: list
+List-Id: &#26446;&#26143;&#21644;&#20182;&#30340;&#23398;&#29983;&#20204;
+	<toefl.server.cool-meeting.com>
+List-Unsubscribe: <http://server.cool-meeting.com/mailman/listinfo/toefl>,
+	<mailto:toefl-request@server.cool-meeting.com?subject=unsubscribe>
+List-Archive: <http://server.cool-meeting.com/mailman/private/toefl>
+List-Post: <mailto:toefl@server.cool-meeting.com>
+List-Help: <mailto:toefl-request@server.cool-meeting.com?subject=help>
+List-Subscribe: <http://server.cool-meeting.com/mailman/listinfo/toefl>,
+	<mailto:toefl-request@server.cool-meeting.com?subject=subscribe>
+Sender: toefl-bounces@server.cool-meeting.com
+Errors-To: toefl-bounces@server.cool-meeting.com
+X-UIDL: )]G"!2WE!!R;#!!fX[!!
+
+其实他就是个通信类的公司的缩影，大家都等着上3g，现在基本上所有的通信公司都在靠扩容的单子。或者是开拓海外市场。
+他们去年的收入好像不是特别高，不过大家的收入反正都比起业内不错了。另外他们公司新业务成长的还算不错，你去主页上看看那几个新的部门就知道了。还行，而且他们不仅仅作仪表，还做系统。总的来说除了行业比较窄这个缺点外，别的都还行
+: 这公司在走下坡路，因为现在需求根本没有增长
+: 主要仪表订单已经在下降
+: 在上3G之前，这公司都会紧缩管理费用
+: ...................
+

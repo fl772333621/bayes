@@ -1,0 +1,62 @@
+Return-Path: <lu@cernet.edu.cn>
+Received: from tsinghua.org.cn ([210.77.143.231])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id iB17ZU0F020715
+	for <xing@ccert.edu.cn>; Wed, 1 Dec 2004 15:35:35 +0800
+Received: (eyou send program); Wed, 01 Dec 2004 15:28:36 +0800
+Received: (eyou send program); Wed, 01 Dec 2004 15:28:36 +0800
+X-EYOU-ORIGINAL-IP: 210.77.143.235
+X-EYOU-ENVELOPE-MAILFROM: sundh@cernet.edu.cn
+Received: from unknown (HELO eyou.net) (unknown@210.77.143.235)
+ by 210.77.143.231 with SMTP; Wed, 01 Dec 2004 15:28:36 +0800
+Received: (eyou send program); Wed, 01 Dec 2004 15:43:44 +0800
+Message-ID: <301887024.14622@eyou.net>
+Received: from 166.111.8.16 by 210.77.143.235 with SMTP; Wed, 01 Dec 2004 15:43:38 +0800
+Received: (eyou send program); Wed, 01 Dec 2004 15:43:12 +0800
+Message-ID: <301886992.19183@mails.tsinghua.edu.cn>
+Received: (eyou send program); Wed, 01 Dec 2004 15:43:11 +0800
+Message-ID: <301886991.19093@mails.tsinghua.edu.cn>
+Received: from unknown (HELO mails.tsinghua.edu.cn) (unknown@127.0.0.1)
+ by 127.0.0.1 with SMTP; Wed, 01 Dec 2004 15:43:11 +0800
+X-scanvirus: By Symantec Scan Engine
+X-scanresult: NOREP
+Received: (eqmail ); 1 Dec 2004 07:43:04 -0000
+Received: from ccert.edu.cn (HELO home.ccert.edu.cn) (202.112.57.12)
+  by mails.tsinghua.edu.cn with SMTP; 1 Dec 2004 07:43:04 -0000
+Received: from home.ccert.edu.cn (localhost [127.0.0.1])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id iB17YPI3020680;
+	Wed, 1 Dec 2004 15:34:25 +0800
+Received: (from majordomo@localhost)
+	by home.ccert.edu.cn (8.13.1/8.13.1/Submit) id iB17YPkE020679;
+	Wed, 1 Dec 2004 15:34:25 +0800
+X-Authentication-Warning: home.ccert.edu.cn: majordomo set sender to owner-ccertstaff using -f
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id iB17WuM9020643;
+	Wed, 1 Dec 2004 15:32:56 +0800
+Received: from WHITESNOW ([220.207.84.223])
+	(authenticated bits=0)
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id iB17jpuY009400;
+	Wed, 1 Dec 2004 15:45:56 +0800 (CST)
+Message-ID: <002301c4d779$cc07e2a0$df54cfdc@WHITESNOW>
+From: "lu" <lu@cernet.edu.cn>
+To: xing@ccert.edu.cn
+Cc: <bi@ccert.edu.cn>
+References: <000c01c4d770$3e023ea0$15cb6fa6@ccertspark>
+Subject: =?gb2312?B?UmU6INbV09rWqrXA19S8us+yu7bKssO00fm1xMTQyfrByw==?=
+Date: Wed, 1 Dec 2004 15:45:49 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0020_01C4D7BC.D47AD620"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2900.2180
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+Sender: owner-ccertstaff@home.ccert.edu.cn
+Precedence: bulk
+X-UIDL: K2J!!DN\"!19Z!!dP4!!
+
+这是很大的收获，我理解：）
+: 一直人云亦云，一直不知道自己喜欢什么样的人，一直不知道什么是一见钟情，但现在，我知道了，并遇上了这份属于自己的缘分。
+: 不知道他是否喜欢我，但是聊天难的的投缘。其实相貌又如何，身高又如何？了解投缘才是爱情的基础。遇见他之后，所有的限制条件都不存在了。
+: 现在说爱还太早，但是欣赏是一定的了；他要出国，在一起的希望估计也不大，然而最让我开心的是我遇见了他，最让我难忘的是我知道了到底什么样的男孩是适合自己的，最让我感谢的是知道了世上还有这么一类欣赏我的人。
+: ...................
+

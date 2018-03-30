@@ -1,0 +1,30 @@
+Return-Path: <zeng@ccert.edu.cn>
+Received: from ns2.ccert.edu.cn (ccert.edu.cn [202.112.57.12])
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id j6P37FTQ013957
+	(version=TLSv1/SSLv3 cipher=DES-CBC3-SHA bits=168 verify=NO)
+	for <su@ccert.edu.cn>; Mon, 25 Jul 2005 11:07:15 +0800 (CST)
+Received: from [202.112.50.10] (helo=sunbin)
+	by ns2.ccert.edu.cn with esmtp (Exim 4.50)
+	id 1DwtUL-0008Ig-7S
+	for qa@cernet.edu.cn; Mon, 25 Jul 2005 11:18:45 +0800
+Date: Mon, 25 Jul 2005 11:07:25 +0800
+From: "zeng" <zeng@ccert.edu.cn>
+Reply-To: zeng@ccert.edu.cn
+To: su@ccert.edu.cn
+Subject: =?gb2312?B?UmU6IMTjw8e+9bXDztLV4tH5usPC8KO/uPi149LivPs=?=
+Organization: CCERT
+X-mailer: Foxmail 5.0 [cn]
+Mime-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: 8bit
+Message-Id: <E1DwtUL-0008Ig-7S@ns2.ccert.edu.cn>
+X-UIDL: T$6!!ES6"!be?"!W<W!!
+
+有买保险不就行了，貌似要交30年？
+找一个喜欢老婆在家的男人呗，什么样的男人都是有的。
+: 自己没工作，做的是自由职业吧，很多时间在家里。收入还过得去，能养活自己。不过家里人老不同意，老想让我去那种大的国企，钱不多，但是稳定，觉得什么社保都有。
+: 可我根本不喜欢天天在办公室里做着。觉得烦。而且我打算自己买保险什么的。
+: 嗯，我想知道大家对这样有什么看法没？
+: ...................
+

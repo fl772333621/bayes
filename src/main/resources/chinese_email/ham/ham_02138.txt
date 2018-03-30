@@ -1,0 +1,25 @@
+Return-Path: <jin@rbl.ccert.edu.cn>
+Received: from rbl.ccert.edu.cn (rbl.ccert.edu.cn [202.112.57.71])
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id i983E3UF000791
+	for <jian@ccert.edu.cn>; Fri, 8 Oct 2004 11:14:05 +0800 (CST)
+Received: from rbl.ccert.edu.cn (localhost.localdomain [127.0.0.1])
+	by rbl.ccert.edu.cn (8.12.11/8.12.11) with ESMTP id i983K2ac022792
+	for <jian@ccert.edu.cn>; Fri, 8 Oct 2004 11:20:04 +0800
+Received: (from qa@localhost)
+	by rbl.ccert.edu.cn (8.12.11/8.12.11/Submit) id i983K2iX022791;
+	Fri, 8 Oct 2004 11:20:02 +0800
+Date: Fri, 8 Oct 2004 11:20:02 +0800
+Message-Id: <200410080320.i983K2iX022791@rbl.ccert.edu.cn>
+Subject: =?gb2312?B?UmU6INDFz6LQ0NK1wey1vMjLtcSxz9K11LrQow==?=
+To: jian@ccert.edu.cn
+From: Tran Quang Anh <jin@cernet.edu.cn>
+Content-Type: multipart/mixed; boundary="----------=_1097205604-1044-234"
+MIME-Version: 1.0
+X-UIDL: DPC"!epK!!8N9"!A[2!!
+
+通信行业也不是那么好的。虽然在国企里算好的
+: 这个我可以给你一个数据，我们做校友会的时候统计了一份名单，东西不方便给出来。基本上各个省的4大运营商，（算上北方电信和南方网通），头北邮占了80%，不算副总。这个包括江苏上海浙江等传统认为是南邮的地盘的地方。当然，这里面也算上了那种在北邮读一些管理类研究
+: 设备制造商也很多，不过这里面的企业太多了，不好算�
+: 其实列这个没有意义，我列出了也没啥意思，大家知道情况就行了。每必要再列出什么。
+: ...................
+

@@ -1,0 +1,37 @@
+Return-Path: <>
+Received: from vip.sina.com.cn (sina35-140.sina.com.cn [202.108.35.140])
+	by home.ccert.edu.cn (MIMEDefang) with ESMTP id NOQUEUE
+	for <pu@ccert.edu.cn>; Thu, 02 Jun 2005 05:31:35 +0800 (CST)
+Message-ID: <200506020531.0.973894377116679@home.ccert.edu.cn>
+Received: (qmail 50300 invoked for bounce); 1 Jun 2005 21:48:19 -0000
+Date: 1 Jun 2005 21:48:19 -0000
+From: xue@vip.sina.com.cn
+To: pu@ccert.edu.cn
+Subject: =?gb2312?B?08q8/rSryuTKp7Dco6E=?=
+MIME-Version: 1.0
+X-Priority: 3
+X-Mailer: SinaMail 3.0
+Content-Type: multipart/mixed;
+  boundary="----------111766249988172SINAEMAIL---"
+
+vip.sina.com.cn.
+邮件无法发送到您指定的地址中。
+在邮件传输过程中由于外部的无法避免的错误导致邮件无法送达。
+
+:
+
+--- 附件中的内容是原信件的一份拷贝
+
+你好，你发送的邮件已经收到，稍后我会处理！
+
+
+
+-----
+该邮件被判为正常邮件,如果判断有误,请点击下面的反馈链接:
+http://202.112.57.79/cgi-bin/t.pl?a=%2C%17%9E%EE%08%AB%F0%B5&b=6&c=%BD%B3%B6Q%91%CB%15%CBm%EF%D1%DD%0Dj%F3%15
+
+
+-----
+该邮件被判为正常邮件,如果判断有误,请点击下面的反馈链接:
+http://202.112.57.79/cgi-bin/t.pl?a=%A0%86%CA%97%40%01%13%19&b=6&c=9%23%09l%7B%81%0D%13%12%16I%AAS%274%60
+

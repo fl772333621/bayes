@@ -1,0 +1,38 @@
+Return-Path: <mo@tsinghua.edu.cn>
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with SMTP id iBN2EVlp017076
+	for <luo@ccert.edu.cn>; Thu, 23 Dec 2004 10:15:07 +0800
+Received: (eyou send program); Thu, 23 Dec 2004 10:13:03 +0800
+Message-ID: <303767983.14854@mail.tsinghua.edu.cn>
+Received: from unknown (HELO mail.tsinghua.edu.cn) (unknown@127.0.0.1)
+ by 127.0.0.1 with SMTP; Thu, 23 Dec 2004 10:13:03 +0800
+X-scanvirus: By Symantec Scan Engine
+X-scanresult: CLEAN
+Received: (eqmail ); 23 Dec 2004 02:13:00 -0000
+Received: from unknown (HELO sony) (duanhx@166.111.204.187)
+  by localhost with SMTP; 23 Dec 2004 02:13:00 -0000
+Message-ID: <011f01c4e897$12f61780$d53270ca@sony>
+From: "mo" <mo@tsinghua.edu.cn>
+To: luo@ccert.edu.cn
+Cc: =?gb2312?B?1qPPyM6w?= <weng@ccert.edu.cn>, <qian@ccert.edu.cn>
+References: <303767006.10323@mail.tsinghua.edu.cn>
+Subject: =?gb2312?B?UmU6ILT609G3os7Eo6zDwLn6VFJXIEF1dG9tb3RpdmWjqMnPuqOjqbmry77V0Ma406a97M/6ytvF
+4NE=?=
+Date: Thu, 23 Dec 2004 10:28:21 +0800
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2900.2180
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+Content-Transfer-Encoding: 8bit
+X-MIME-Autoconverted: from base64 to 8bit by home.ccert.edu.cn id iBN2EVlp017076
+X-UIDL: 7`0"!Oin!!9Lh"!Plc!!
+
+我投了两简历2 没人里我
+: //代发文章,请勿回本人信箱
+: 美国TRW Automotive（上海）公司招聘应届销售培训生，录用后将获得半年在公司德国（或北美）总部的培训。培训期满，可根据培训的产品情况，相应加入TRW中国不同客户销售队伍，工作范围包括客户开发、提供产品报价、商务谈判等等。目前，公司第一批销售培训生（3名）正在
+: 美国TRW（天合）汽车集团是汽车安全系统的先驱和领导者。我们目前在22个国家有将近64,000名员工。
+: ...................
+

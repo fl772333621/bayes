@@ -1,0 +1,29 @@
+Return-Path: <ke@rbl.ccert.edu.cn>
+Received: from rbl.ccert.edu.cn (rbl.ccert.edu.cn [202.112.57.71])
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id i97KOB6N025243
+	for <kang@ccert.edu.cn>; Fri, 8 Oct 2004 04:24:11 +0800 (CST)
+Received: from rbl.ccert.edu.cn (localhost.localdomain [127.0.0.1])
+	by rbl.ccert.edu.cn (8.12.11/8.12.11) with ESMTP id i97KUBc8022011
+	for <kang@ccert.edu.cn>; Fri, 8 Oct 2004 04:30:12 +0800
+Received: (from qa@localhost)
+	by rbl.ccert.edu.cn (8.12.11/8.12.11/Submit) id i97KUBUT022010;
+	Fri, 8 Oct 2004 04:30:11 +0800
+Date: Fri, 8 Oct 2004 04:30:11 +0800
+Message-Id: <200410072030.i97KUBUT022010@rbl.ccert.edu.cn>
+Subject: =?gb2312?B?UmU6IMfz1qTT0LnYyP23vdCt0um1xM7KzOIsx+vWqrXAyMu72LTw0rvPwg==?=
+To: kang@ccert.edu.cn
+From: Tran Quang Anh <ke@cernet.edu.cn>
+Content-Type: multipart/mixed; boundary="----------=_1097181012-1044-84"
+MIME-Version: 1.0
+X-UIDL: e:b!!J0W"!J<h!!*<g!!
+
+简单说一下，干人事工作不久没接触过那么多种情况所以只能简单说：
+1。无论公司在何地，都可以签三方协议；
+2。签订三方协议的单位，为员工解决单位所在地户口，必须；
+3。解决户口在北京的各种条件：
+一单位有指标个人有留京名额即可；
+二个人没有留京名额，单位为高新技术企业，个人为高级人才（硕士或者高工以上什么的）；
+三外企等一些企业，可先办理个人事卡之类的，相当于过渡期，满足一定的企业个人以及工作年限即可申请拿到户口；
+也就是说，外企照签不误，户口档案等 外企服务中心 留存，具体咨询外企服务中心即可。
+: 学校跟我说:如果北京的单位不解决北京户口,那么单位就无权签定三方协议,就算签了,也是无效~~~~~~~~~是这样的吗?  如果我找了个北京的外企,想把户口放回原籍,那么就不能与这家公司签三方了是吗?
+

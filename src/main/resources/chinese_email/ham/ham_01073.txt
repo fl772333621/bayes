@@ -1,0 +1,25 @@
+Return-Path: <luo@rbl.ccert.edu.cn>
+Received: from rbl.ccert.edu.cn (rbl.ccert.edu.cn [202.112.57.71])
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id i983brxU001362
+	for <jiang@ccert.edu.cn>; Fri, 8 Oct 2004 11:37:54 +0800 (CST)
+Received: from rbl.ccert.edu.cn (localhost.localdomain [127.0.0.1])
+	by rbl.ccert.edu.cn (8.12.11/8.12.11) with ESMTP id i983hpIE013094
+	for <jiang@ccert.edu.cn>; Fri, 8 Oct 2004 11:43:52 +0800
+Received: (from qa@localhost)
+	by rbl.ccert.edu.cn (8.12.11/8.12.11/Submit) id i983hp1p013093;
+	Fri, 8 Oct 2004 11:43:51 +0800
+Date: Fri, 8 Oct 2004 11:43:51 +0800
+Message-Id: <200410080343.i983hp1p013093@rbl.ccert.edu.cn>
+Subject: =?gb2312?B?UmU6ILKpuvO7ucrHuavO8dSxo6zH67TzvNK4+LXjvajS6Q==?=
+To: jiang@ccert.edu.cn
+From: Tran Quang Anh <luo@cernet.edu.cn>
+Content-Type: multipart/mixed; boundary="----------=_1097207032-1044-264"
+MIME-Version: 1.0
+X-UIDL: `g:!!e<>"!L9F!!C7K"!
+
+像你这种情况应该选择公务员更好！
+: 1.某省的公务员，转正后副科级，可能也可以正科级，家人都在那里，这个很稳定，待遇也过得去，进修、培训的机会很多，也可以评技术职称，只是觉得自己比较内向，不知道是否适合当公务员
+: 2.美国博后，J1签证，不过要先在国内一个老板这儿先干半年，学习技术和英语，3年博后回来很有可能还在这儿接着干，年薪不知道，应该不会低，美国的老板很牛，研究方向我很感兴趣，但觉得自己的科研能力不太强，只是很能投入的去做事情。
+: 我的情况：女，28岁，未婚，家里人希望我早点稳定
+: ...................
+

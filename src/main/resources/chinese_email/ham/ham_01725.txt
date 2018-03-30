@@ -1,0 +1,28 @@
+Return-Path: <long@rbl.ccert.edu.cn>
+Received: from rbl.ccert.edu.cn (rbl.ccert.edu.cn [202.112.57.71])
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id i97BTUqK019220
+	for <ou@ccert.edu.cn>; Thu, 7 Oct 2004 19:29:30 +0800 (CST)
+Received: from rbl.ccert.edu.cn (localhost.localdomain [127.0.0.1])
+	by rbl.ccert.edu.cn (8.12.11/8.12.11) with ESMTP id i97BZT0r026644
+	for <ou@ccert.edu.cn>; Thu, 7 Oct 2004 19:35:29 +0800
+Received: (from qa@localhost)
+	by rbl.ccert.edu.cn (8.12.11/8.12.11/Submit) id i97BZTuE026643;
+	Thu, 7 Oct 2004 19:35:29 +0800
+Date: Thu, 7 Oct 2004 19:35:29 +0800
+Message-Id: <200410071135.i97BZTuE026643@rbl.ccert.edu.cn>
+Subject: =?gb2312?B?UmU6ILbB0dC687Xa0ru0ztXSuaTX98qnsNyjqMzlvOy5/bnYuvOxu8Sz0Km52M+1tqXBy6OpuvO1
+xLc=?=
+To: ou@ccert.edu.cn
+From: Tran Quang Anh <long@cernet.edu.cn>
+Content-Type: multipart/mixed; boundary="----------=_1097148929-996-902"
+MIME-Version: 1.0
+X-UIDL: UfO"!&47!!34$"!:!f"!
+
+好像很多人的内心都是类似的，只是在顺境中就只顾正向前看，
+而在逆境中，就开始忏悔自我
+其实大家的内心都是自卑与自我的复合阿
+: 夏天越来越近了，去年的这个季节在郁闷中渡过，上天总是把我安排这一个个尴尬的旋涡里，从小到而立之年，有N个夏天在混沌中渡过，难道这就是我的命运安排吗？
+: 命运由性格来决定，是不是该再次反省自己到底是何种性格，该做何种道路的规划呢，是不是幼稚的想法太多呢，是不是没有真正看清自己的处境呢……一连串的问题在我脑海里盘绕，路在何方？
+: 想想那些急功尽力的指导原则下，囫囵吞枣地读书，结果是一无所获，留下下一次失败的隐患，想起那些取得一点成绩后的沾沾自喜，心里有很多懊悔，难道年轻的生命就要在这些“软货币”似的投入中消耗吗？
+: ...................
+

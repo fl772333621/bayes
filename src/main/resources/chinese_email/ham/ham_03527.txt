@@ -1,0 +1,40 @@
+Return-Path: <xue@home.ccert.edu.cn>
+Received: from home.ccert.edu.cn (localhost [127.0.0.1])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id iB18VL5K021664;
+	Wed, 1 Dec 2004 16:31:21 +0800
+Received: (from majordomo@localhost)
+	by home.ccert.edu.cn (8.13.1/8.13.1/Submit) id iB18VL5D021663;
+	Wed, 1 Dec 2004 16:31:21 +0800
+X-Authentication-Warning: home.ccert.edu.cn: majordomo set sender to owner-ccertstaff using -f
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id iB18TQiA021624;
+	Wed, 1 Dec 2004 16:29:26 +0800
+Received: from WHITESNOW ([220.207.88.17])
+	(authenticated bits=0)
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id iB18gH8d010373;
+	Wed, 1 Dec 2004 16:42:22 +0800 (CST)
+Message-ID: <008101c4d781$ae4f1d70$df54cfdc@WHITESNOW>
+From: "xue" <xue@cernet.edu.cn>
+To: lu@ccert.edu.cn
+Cc: <qian@ccert.edu.cn>
+References: <002101c4d77c$91024c60$15cb6fa6@ccertspark>
+Subject: =?gb2312?B?UmU6IM3yt9a99Lyxo6HV97j216HH5buqMTa6xcKltcRHR7Dvw6bRvaOho6GjoQ==?=
+Date: Wed, 1 Dec 2004 16:42:15 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_007E_01C4D7C4.B6AB2D90"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2900.2180
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+Sender: owner-ccertstaff@home.ccert.edu.cn
+Precedence: bulk
+X-UIDL: ;\A"!a2E!!GTa"!0W,!!
+
+这样重复发文会被封的.....
+无论多着急，不能被小day盯上呀
+:  6月12日，我在清华16号楼107宿舍买了李蓬（他说已经研3，汽车专业）的电脑，因为我对电脑不是特懂，忘了要声卡和显卡驱动盘。回来后我对电脑里面的东西进行了整理删除，想重装系统，才知道没有驱动盘，我在网上问他要盘，他说驱动程序在E盘里，可是我不知道不小心把驱�
+:    我想再去清华找上门的，可是我觉得那样似乎又不是太好。所以想征个好心人帮我去问问吗？实际上是说服他给我下载匹配的声卡和显卡驱动程序！
+:    一个急切期待帮助的林大MM！
+: ...................
+

@@ -1,0 +1,62 @@
+Return-Path: <fan@yahoo.com.cn>
+Received: from tsinghua.org.cn ([210.77.143.232])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with SMTP id j4J0wFnr027473
+	for <ren@ccert.edu.cn>; Thu, 19 May 2005 08:58:25 +0800
+Received: (eyou send program); Thu, 19 May 2005 09:14:56 +0800
+Message-ID: <316465296.17898@tsinghua.org.cn>
+X-EYOU-AUTOFORWARD: tsinghua.org.cn
+Received: (eyou send program); Thu, 19 May 2005 09:14:25 +0800
+Message-ID: <316465265.16101@tsinghua.org.cn>
+Received: from unknown (HELO eyou.net) (210.77.143.235)
+ by 210.77.143.232 with SMTP; Thu, 19 May 2005 09:14:25 +0800
+X-EYOU-SPAMVALUE: 0
+Received: (eyou anti_spam gateway 3.0); Thu, 19 May 2005 09:03:23 +0800
+Message-ID: <316464603.16534@eyou.net>
+Received: from 202.112.49.111 by 210.77.143.235 with SMTP; Thu, 19 May 2005 09:03:23 +0800
+Received: from Garfield. (localhost [IPv6:::1])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with ESMTP id j4J18Q3B085331
+	for <ren@ccert.edu.cn>; Thu, 19 May 2005 09:08:58 +0800 (CST)
+	(envelope-from toefl-bounces@gradinfo.net.edu.cn)
+Received: from web15405.mail.cnb.yahoo.com (web15405.mail.cnb.yahoo.com
+	[202.43.216.208])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with SMTP id j4J18Mqc085327
+	for <ren@ccert.edu.cn>; Thu, 19 May 2005 09:08:23 +0800 (CST)
+	(envelope-from shaozhiye@yahoo.com.cn)
+Message-ID: <20050519011256.37130.qmail@web15405.mail.cnb.yahoo.com>
+Received: from [207.46.125.18] by web15405.mail.cnb.yahoo.com via HTTP;
+	Thu, 19 May 2005 09:12:55 CST
+Date: Thu, 19 May 2005 09:12:55 +0800 (CST)
+From: Shaozhi Ye <fan@yahoo.com.cn>
+Subject: =?gb2312?B?UmU6IG1tc8C0y7XLtb+0?=
+To: ren@ccert.edu.cn
+In-Reply-To: 6667
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----------=_1116464305-20299-568"
+X-BeenThere: toefl@gradinfo.net.edu.cn
+X-Mailman-Version: 2.1.5
+Precedence: list
+List-Id: "&#26446; &#26143; &#21644; &#20182; &#30340; &#23398; &#29983;
+	&#20204; " <toefl.gradinfo.net.edu.cn>
+List-Unsubscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=unsubscribe>
+List-Archive: <http://gradinfo.net.edu.cn/mailman/private/toefl>
+List-Post: <mailto:toefl@gradinfo.net.edu.cn>
+List-Help: <mailto:toefl-request@gradinfo.net.edu.cn?subject=help>
+List-Subscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=subscribe>
+Sender: toefl-bounces@gradinfo.net.edu.cn
+Errors-To: toefl-bounces@gradinfo.net.edu.cn
+X-UIDL: U>$"!i#d"!=B`!!3iS!!
+
+        都两年多了，今年想结婚的说。但是实在是让我太难过了，觉得每天
+        都提心吊胆的。
+        虽然说没什么见不得人的事情，但是想想看，如果你的爱人会因为你根本
+        预计不到的小事，鸡蛋里挑骨头，并且可以把这种事情扩展，上升到一个
+        层次上去。然后跟你吵架，说你有问题，那日子怎么过啊。被冤枉本来就
+        心里有气，但是再他看来，我又是个大罪人。那种有苦不能诉的感觉真的
+        太闹心了。
+: 这样的情况如果是刚开始暂时一小阵就罢了，做好点给他点信心自然就好了，但要
+: 是一直这样。。。。那还是分开吧，信任建立不起来是没有不办法在一起的，迟早
+: 都受不了；而且如果他本性就是多疑的话那就更糟糕了，那给谁也受不了
+: ...................
+

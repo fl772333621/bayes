@@ -1,0 +1,62 @@
+Return-Path: <lin@tsinghua.edu.cn>
+Received: from tsinghua.org.cn ([210.77.143.231])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id iBR9WPaB026173
+	for <cai@ccert.edu.cn>; Mon, 27 Dec 2004 17:32:26 +0800
+Received: (eyou send program); Mon, 27 Dec 2004 17:25:59 +0800
+Received: (eyou send program); Mon, 27 Dec 2004 17:25:59 +0800
+X-EYOU-ORIGINAL-IP: 210.77.143.235
+X-EYOU-ENVELOPE-MAILFROM: duanhx@tsinghua.edu.cn
+Received: from unknown (HELO eyou.net) (unknown@210.77.143.235)
+ by 210.77.143.231 with SMTP; Mon, 27 Dec 2004 17:25:59 +0800
+Received: (eyou send program); Mon, 27 Dec 2004 17:40:25 +0800
+Message-ID: <304140425.06729@eyou.net>
+Received: from 166.111.8.16 by 210.77.143.235 with SMTP; Mon, 27 Dec 2004 17:39:55 +0800
+Received: (eyou send program); Mon, 27 Dec 2004 17:40:36 +0800
+Message-ID: <304140436.11689@mails.tsinghua.edu.cn>
+Received: (eyou send program); Mon, 27 Dec 2004 17:40:35 +0800
+Message-ID: <304140434.13281@mails.tsinghua.edu.cn>
+Received: from unknown (HELO mails.tsinghua.edu.cn) (unknown@127.0.0.1)
+ by 127.0.0.1 with SMTP; Mon, 27 Dec 2004 17:40:35 +0800
+X-scanvirus: By Symantec Scan Engine
+X-scanresult: NOREP
+X-Received: ccert.edu.cn,202.112.57.12,20041227174030
+Received: from ccert.edu.cn (HELO home.ccert.edu.cn) (202.112.57.12)
+  by localhost with SMTP; 27 Dec 2004 09:40:30 -0000
+Received: from home.ccert.edu.cn (localhost [127.0.0.1])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id iBR9RUJ7025771;
+	Mon, 27 Dec 2004 17:27:30 +0800
+Received: (from majordomo@localhost)
+	by home.ccert.edu.cn (8.13.1/8.13.1/Submit) id iBR9RUAY025770;
+	Mon, 27 Dec 2004 17:27:30 +0800
+X-Authentication-Warning: home.ccert.edu.cn: majordomo set sender to owner-ccertstaff using -f
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with SMTP id iBR9RTKx025762
+	for <cai@ccert.edu.cn>; Mon, 27 Dec 2004 17:27:29 +0800
+Received: (eyou send program); Mon, 27 Dec 2004 17:26:07 +0800
+Message-ID: <304139567.24169@mail.tsinghua.edu.cn>
+Received: from unknown (HELO mail.tsinghua.edu.cn) (unknown@127.0.0.1)
+ by 127.0.0.1 with SMTP; Mon, 27 Dec 2004 17:26:07 +0800
+X-scanvirus: By Symantec Scan Engine
+X-scanresult: NOREP
+Received: (eqmail ); 27 Dec 2004 09:26:02 -0000
+Received: from unknown (HELO sony) (duanhx@166.111.204.181)
+  by localhost with SMTP; 27 Dec 2004 09:26:02 -0000
+Message-ID: <00b301c4ebf8$3dcb31c0$26fe040a@sony>
+From: "lin" <lin@tsinghua.edu.cn>
+To: cai@ccert.edu.cn
+Subject: =?gb2312?B?UmU6IM7SuMPU9cO01/Y/?=
+Date: Mon, 27 Dec 2004 17:41:27 +0800
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="----=_NextPart_000_00B1_01C4EC3B.4AEF2A30"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2900.2180
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+Sender: owner-ccertstaff@home.ccert.edu.cn
+Precedence: bulk
+X-UIDL: 39>"!$]o"!YHL!!K!:!!
+
+劝分手不太厚道,毕竟是什么事情还没有弄清楚,不过我不喜欢这样的GG,即使想分手也应该说清楚情况,出了什么事情不想让MM知道也应该找个合理的借口,这样算什么呢,把别人吊着,自己却不知道做什么事情去了,太没有责任感了,分开了也好,想想要是以后在一起了,他动不动就玩失踪什么的,谁受得了.如果你想弄清楚的话就什么都别怕,找到他把问题说清楚,然后做个决定,他不对你负责任,自己也要对自己负责吧,我最害怕不清不楚的,折磨人的.
+: 一年了，虽然离得很近，但在一起的时间并不多，他比较忙，我和理解他这样。应该还是很熟悉了。
+

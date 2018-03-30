@@ -1,0 +1,50 @@
+Return-Path: <zhao@home.ccert.edu.cn>
+Received: from home.ccert.edu.cn (localhost [127.0.0.1])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id j4INpG1C026719;
+	Thu, 19 May 2005 07:51:21 +0800
+Received: (from majordomo@localhost)
+	by home.ccert.edu.cn (8.13.1/8.13.1/Submit) id j4INpGk2026718;
+	Thu, 19 May 2005 07:51:16 +0800
+X-Authentication-Warning: home.ccert.edu.cn: majordomo set sender to owner-ccertstaff using -f
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with SMTP id j4INowIJ026709
+	for <kang@ccert.edu.cn>; Thu, 19 May 2005 07:51:14 +0800
+Received: (eyou send program); Thu, 19 May 2005 07:49:26 +0800
+Message-ID: <316460166.29705@mail.tsinghua.edu.cn>
+Received: from unknown (HELO mail.tsinghua.edu.cn) (unknown@127.0.0.1)
+ by 127.0.0.1 with SMTP; Thu, 19 May 2005 07:49:26 +0800
+X-scanvirus: By Symantec Scan Engine
+X-scanresult: CLEAN
+Received: (eqmail ); 18 May 2005 23:49:24 -0000
+Received: from th024086.ip.tsinghua.edu.cn (HELO sony) (duanhx@59.66.24.86)
+  by localhost with SMTP; 18 May 2005 23:49:24 -0000
+Message-ID: <002d01c55c06$b3b8f790$5618423b@sony>
+From: "zhao" <zhao@tsinghua.edu.cn>
+To: kang@ccert.edu.cn
+Subject: =?gb2312?B?UmU6ILK7tq6woaO6IMWuuqLX08rHsrvKx7a8sci9z8O709CwssiruNCjrNKq1dLIy9LAv7+jvw==?=
+Date: Thu, 19 May 2005 08:07:08 +0800
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_NextPart_000_002B_01C55C49.C0EAD2B0"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2900.2180
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+Sender: owner-ccertstaff@home.ccert.edu.cn
+Precedence: bulk
+X-UIDL: @ZW!!1;;!!,^9"!Ee6!!
+
+你既然这样说了
+那就指以前你让很多爱你的人很伤心
+你再这样做下去
+会使那些爱你的人更伤心~~
+何必呢~~
+这个世界本来有很多有意义的事情你可以去做~~
+你也可以因为那些事情而开怀~~
+然而你却要固执的做出另一种选择~~
+聪明的孩子在第一次摔倒之后会注意脚下的路
+看看是否有坑，以避免再次的摔倒~
+虽然不能保证他的谨慎可以使他永远不再摔倒
+但是至少可以使他不会那么频繁的跌交~
+我想你是聪明的孩子~
+: 我活着不追求这个，以前做过很多所谓不值得的事情，以后会作很多没有意义的事情。
+

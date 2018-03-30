@@ -1,0 +1,33 @@
+Return-Path: <fu@mails.tsinghua.edu.cn>
+Received: from mails.tsinghua.edu.cn (mails.tsinghua.edu.cn [166.111.8.16])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with SMTP id j0DCKjKe010978
+	for <lei@ccert.edu.cn>; Thu, 13 Jan 2005 20:20:46 +0800
+Message-Id: <200501131220.j0DCKjKe010978@home.ccert.edu.cn>
+X-scanvirus: By SOPHOS Scan Engine
+X-scanresult: CLEAN
+X-Received: unknown,166.111.203.28,20050113203139
+Received: from unknown (HELO ccert-dijg) (dijg01@166.111.203.28)
+  by localhost with SMTP; 13 Jan 2005 12:31:39 -0000
+From: "fu" <fu@mails.tsinghua.edu.cn>
+To: lei@ccert.edu.cn
+Subject: =?gb2312?B?UmU6IMfFts7V4rj2tMrKx8C019TT2sL+u63C8D8=?=
+X-mailer: Foxmail 4.2 [cn]
+Mime-Version: 1.0
+Content-Type: multipart/mixed;
+      boundary="=====000_Dragon245225517024_====="
+Date: Thu, 13 Jan 2005 20:33:23 +0800
+X-UIDL: 'n'#!KX9!!?\;"!LBm"!
+
+戏曲中有桥段这种说法肯定早在电影诞生之前的
+想来在粤剧中也有
+那么我猜想，这个词应该首先是在香港被渐渐移植入影视中的
+内地似乎是本来没有这种说法的
+所谓类似“桥”的“段落”，还能是干啥的？
+穿插、联系应该是原本的含义
+现在显然在大多数语境中都变了
+成了较固定的一种情节模式的说法。。。
+这种情况就跟“文艺片”一样
+: 原先我也这么想来着
+: 不过后来被一堆懂粤语的人教唆，现在倾向于认为这个桥段
+: 就是等同于Plot的东西，情节而已...
+

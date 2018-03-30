@@ -1,0 +1,54 @@
+Return-Path: <he@mails.tsinghua.edu.cn>
+Received: from tsinghua.org.cn ([210.77.143.232])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with SMTP id j3S7S2cv005946
+	for <mo@ccert.edu.cn>; Thu, 28 Apr 2005 15:28:13 +0800
+Received: (eyou send program); Thu, 28 Apr 2005 15:44:29 +0800
+Message-ID: <314674269.06097@tsinghua.org.cn>
+X-EYOU-AUTOFORWARD: tsinghua.org.cn
+Received: (eyou send program); Thu, 28 Apr 2005 15:44:29 +0800
+Message-ID: <314674269.02053@tsinghua.org.cn>
+Received: from unknown (HELO eyou.net) (210.77.143.235)
+ by 210.77.143.232 with SMTP; Thu, 28 Apr 2005 15:44:29 +0800
+X-EYOU-SPAMVALUE: 0
+Received: (eyou anti_spam gateway 3.0); Thu, 28 Apr 2005 15:33:57 +0800
+Message-ID: <314673637.09792@eyou.net>
+Received: from 202.112.49.111 by 210.77.143.235 with SMTP; Thu, 28 Apr 2005 15:33:57 +0800
+Received: from Garfield. (localhost [IPv6:::1])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with ESMTP id j3S7eNNd016239
+	for <mo@ccert.edu.cn>; Thu, 28 Apr 2005 15:40:33 +0800 (CST)
+	(envelope-from toefl-bounces@gradinfo.net.edu.cn)
+Received: from [202.112.49.111] (Garfield [202.112.49.111])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with ESMTP id j3S7eLts016235
+	for <mo@ccert.edu.cn>; Thu, 28 Apr 2005 15:40:21 +0800 (CST)
+	(envelope-from lguohan00@mails.tsinghua.edu.cn)
+Message-ID: <42709540.9060108@mails.tsinghua.edu.cn>
+Date: Thu, 28 Apr 2005 15:48:16 +0800
+From: Guohan Lu <he@mails.tsinghua.edu.cn>
+Organization: Tsinghua University
+User-Agent: Mozilla Thunderbird 1.0 (Windows/20041206)
+X-Accept-Language: en-us, en
+MIME-Version: 1.0
+To: mo@ccert.edu.cn
+Content-Type: multipart/mixed; boundary="----------=_1114673293-31250-317"
+Subject: =?gb2312?B?UmU6IMfrtPO80su1y7W/tLeoLg==?=
+X-BeenThere: toefl@gradinfo.net.edu.cn
+X-Mailman-Version: 2.1.5
+Precedence: list
+Reply-To: he@mails.tsinghua.edu.cn
+List-Id: "&#26446; &#26143; &#21644; &#20182; &#30340; &#23398; &#29983;
+	&#20204; " <toefl.gradinfo.net.edu.cn>
+List-Unsubscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=unsubscribe>
+List-Archive: <http://gradinfo.net.edu.cn/mailman/private/toefl>
+List-Post: <mailto:toefl@gradinfo.net.edu.cn>
+List-Help: <mailto:toefl-request@gradinfo.net.edu.cn?subject=help>
+List-Subscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=subscribe>
+Sender: toefl-bounces@gradinfo.net.edu.cn
+Errors-To: toefl-bounces@gradinfo.net.edu.cn
+X-UIDL: ^UJ"!\-?"!Qh$#!BK?!!
+
+那个男孩为什么不过来看她。
+: 前几天我的一个女同学在网上认识一个男孩,她自认为是一个不错的男孩.他提出一个要求,要求我同学去看他,在这学期结束的时候.如果不去看他,就结束,再也不联系.我同学几次冲动要坐火车过去看他,不过,都被我阻拦了.原因是她心理还是有点障碍,她还是不能接受这个在网上认识的男孩,觉得有点像网恋.现在,那男孩对爱情提出唯一的一个要求就是让她在25号之前去看他,我也束手无策了,大家觉得我的这个善良的同学应该去看他吗??
+: 大家都出出主意吧,谢谢了
+

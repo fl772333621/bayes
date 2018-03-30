@@ -1,0 +1,33 @@
+Return-Path: <chen@sina.com>
+Received: from sina.com (sina35-243.sina.com.cn [202.108.35.243] (may be forged))
+	by home.ccert.edu.cn (8.13.1/8.13.1) with SMTP id j0O0anrK022407
+	for <feng@ccert.edu.cn>; Mon, 24 Jan 2005 08:36:50 +0800
+Received: (qmail 16420 invoked by uid 99); 24 Jan 2005 00:48:32 -0000
+Message-ID: <20050124004832.16419.qmail@sina.com>
+Received: Sina Web Mail (cheriff<cheriff@sina.com>|219.224.134.126) by webserver with HTTP;
+From: cheriff <chen@sina.com>
+To: feng@ccert.edu.cn
+Subject: =?gb2312?B?ofEgW822xrFdyq7E6suuxL68zcTu1b7JwMnovMbNtsaxv6rG9CAo16rU2Ck=?=
+MIME-Version: 1.0
+Date: Mon, 24 Jan 2005 08:48:32 +0800
+X-Mailer: SinaMail 3.0Beta (FireToad)
+X-Priority: 3
+X-UIDL: lL\!!;`W!!Fal!!R4i"!
+
+【 以下文字转载自 T_shirt 讨论区 】
+发信人: diameter (大米·蜜月中的大米), 信区: T_shirt
+标  题: [投票]十年水木纪念站衫设计投票开启
+发信站: 水木社区 (Thu Jun  9 00:32:34 2005), 站内
+版面按V进入投票
+十年水木纪念站衫设计投票分为两部分
+  1 diameter     Jun  9 十年水木纪念站衫设计投票(白色款W1-W32)
+  2 diameter     Jun  9 十年水木纪念站衫设计投票(白(W33,34)/黑/其他)
+投票说明:
+1. 每人8票,投票结束于6.10号18:30
+2. 作品链接:
+   白色: http://www.newsmth.net/tshirt/vote/white.html
+   黑色: http://www.newsmth.net/tshirt/vote/black.html
+   其他: http://www.newsmth.net/tshirt/vote/other.html
+   所有: http://www.newsmth.net/tshirt/vote/index.html
+   作品详细链接请查阅版面文摘区,以编号(eg, W23, B11)为关键字搜索.
+

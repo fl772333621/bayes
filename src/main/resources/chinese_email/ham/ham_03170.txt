@@ -1,0 +1,22 @@
+Return-Path: <zhong@rbl.ccert.edu.cn>
+Received: from rbl.ccert.edu.cn (rbl.ccert.edu.cn [202.112.57.71])
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id i9B5gnRk029718
+	for <lai@ccert.edu.cn>; Mon, 11 Oct 2004 13:42:50 +0800 (CST)
+Received: from rbl.ccert.edu.cn (localhost.localdomain [127.0.0.1])
+	by rbl.ccert.edu.cn (8.12.11/8.12.11) with ESMTP id i9B5mBd5019863
+	for <lai@ccert.edu.cn>; Mon, 11 Oct 2004 13:48:12 +0800
+Received: (from qa@localhost)
+	by rbl.ccert.edu.cn (8.12.11/8.12.11/Submit) id i9B5mBOL019862;
+	Mon, 11 Oct 2004 13:48:11 +0800
+Date: Mon, 11 Oct 2004 13:48:11 +0800
+Message-Id: <200410110548.i9B5mBOL019862@rbl.ccert.edu.cn>
+Subject: =?gb2312?B?UmU6IM7ezOI=?=
+To: lai@ccert.edu.cn
+From: Tran Quang Anh <zhong@cernet.edu.cn>
+Content-Type: multipart/mixed; boundary="----------=_1097473692-1014-98"
+MIME-Version: 1.0
+X-UIDL: :,W!!ZnQ!!aIA!!^Cg!!
+
+我妈说差不多的状态..尤其是我也走了以后.我走的那年我哥跟我一块顺便送我然后我爸在我的学校里出差一直到过了国庆节..我妈后来说那一个月她都不知道怎么过的天天脑袋沉沉的医院的同事都不敢跟她说孩子的事据说一说就哭:P..我那会高高兴兴的再学校里冻玩西玩的还有人天天给买饭买水果压根就想不到她啥样..
+: sigh...我15岁离家。。。四年后 我奶奶才告诉我。。“你走的头一年。。只要有人在你妈面前提到你的名字 你妈眼泪就打转”。。。。
+

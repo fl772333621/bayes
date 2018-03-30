@@ -1,0 +1,32 @@
+Return-Path: <pu@rbl.ccert.edu.cn>
+Received: from rbl.ccert.edu.cn (rbl.ccert.edu.cn [202.112.57.71])
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id i9GJA4Hw029251
+	for <qing@ccert.edu.cn>; Sun, 17 Oct 2004 03:10:04 +0800 (CST)
+Received: from rbl.ccert.edu.cn (localhost.localdomain [127.0.0.1])
+	by rbl.ccert.edu.cn (8.12.11/8.12.11) with ESMTP id i9GJFgsG017585
+	for <qing@ccert.edu.cn>; Sun, 17 Oct 2004 03:15:42 +0800
+Received: (from qa@localhost)
+	by rbl.ccert.edu.cn (8.12.11/8.12.11/Submit) id i9GJFg3P017584;
+	Sun, 17 Oct 2004 03:15:42 +0800
+Date: Sun, 17 Oct 2004 03:15:42 +0800
+Message-Id: <200410161915.i9GJFg3P017584@rbl.ccert.edu.cn>
+Subject: =?gb2312?B?UmU6INXiysfO0rz7uf3X7s+40MS1xMTQyMvBy6Oh?=
+To: qing@ccert.edu.cn
+From: Tran Quang Anh <pu@cernet.edu.cn>
+Content-Type: multipart/mixed; boundary="----------=_1097954142-2811-132"
+MIME-Version: 1.0
+X-UIDL: ;`C!!,gI!!'gV!!V\d"!
+
+就业机会永远不是均等的，即使对于男的也是这样
+同工同酬支持，毫无疑问
+单位中并不是谁厉害谁上，男女都如此
+很多时候直接拒绝是因为中国人太多了
+他总有个挑选和判断的准则
+而没有规定，优秀的一定能被挑上
+清华男生毕业月工资2000，我见了好几个了
+难道说他们就一定应该拿8000？不是
+: 没说要任何方面都平等，只要求就业机会均等和同工同酬
+: 还有在单位上谁厉害谁上总可以吧
+: 不要一看人是个女生，就把她否定了
+: ...................
+

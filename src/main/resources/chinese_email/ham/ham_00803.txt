@@ -1,0 +1,31 @@
+Return-Path: <cen@mails.tsinghua.edu.cn>
+Received: from mails.tsinghua.edu.cn (mails.tsinghua.edu.cn [166.111.8.16])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id i8R3L8HU028234
+	for <zhan@ccert.edu.cn>; Mon, 27 Sep 2004 11:21:08 +0800 (CST)
+Received: (eyou send program); Mon, 27 Sep 2004 11:16:04 +0800
+Message-ID: <296254964.09244@mails.tsinghua.edu.cn>
+Received: from unknown (HELO mails.tsinghua.edu.cn) (unknown@127.0.0.1)
+ by 127.0.0.1 with SMTP; Mon, 27 Sep 2004 11:16:04 +0800
+X-scanvirus: By Symantec Scan Engine
+X-scanresult: CLEAN
+Received: (eqmail ); 27 Sep 2004 03:16:00 -0000
+Received: from unknown (HELO lulh) (xwang03@202.112.50.170)
+  by mails.tsinghua.edu.cn with SMTP; 27 Sep 2004 03:16:00 -0000
+Message-ID: <006201c4a441$ad5d2a10$aa3270ca@lulh>
+From: "cen" <cen@mails.tsinghua.edu.cn>
+To: zhan@ccert.edu.cn
+Subject: =?gb2312?B?ofEgx+u087zSuPi1472o0umjrLnY09rWsNK1uea7rg==?=
+Date: Mon, 27 Sep 2004 11:25:44 +0800
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="----=_NextPart_000_005E_01C4A484.BA611760"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2800.1437
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1441
+X-UIDL: ((k"!,Wf"!^Qj"!<L,"!
+
+　　我的好朋友去年毕业于南开大学，现在四大的天津分公司做审计。她不大喜欢做财务（当初择业很盲目），而且在天津发展空间很小，收入也不高，加上男朋友在北京，就想辞了这份工作到北京来试试。
+　　问题是，她并不清楚自己的兴趣才能所在，不知道到底是坚持做审计或财务，还是换个全新的职业。毕竟只做一年就离开四大，在很多公司看来都是很不明智的选择，估计她很难再像应届毕业生一样自由择业了。她性格活泼，善长交际，敢想敢做，英语非常好，我觉得可能比较适合去外企做市场或销售，但我们对类似的职位不太了解，不知道应聘门槛对她来说是否过高。
+　　希望过来人能指点一下，她来北京重新择业的难度是否过大，又该怎样做好改行前的准备，谢谢。
+

@@ -1,0 +1,33 @@
+Return-Path: <fu@mails.tsinghua.edu.cn>
+Received: from mails.tsinghua.edu.cn (mails.tsinghua.edu.cn [166.111.8.16])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id i8R9GJ0L004308
+	for <tao@ccert.edu.cn>; Mon, 27 Sep 2004 17:16:19 +0800 (CST)
+Received: (eyou send program); Mon, 27 Sep 2004 17:11:15 +0800
+Message-ID: <296276275.27033@mails.tsinghua.edu.cn>
+Received: from unknown (HELO mails.tsinghua.edu.cn) (unknown@127.0.0.1)
+ by 127.0.0.1 with SMTP; Mon, 27 Sep 2004 17:11:15 +0800
+X-scanvirus: By Symantec Scan Engine
+X-scanresult: CLEAN
+Received: (eqmail ); 27 Sep 2004 09:11:09 -0000
+Received: from unknown (HELO lulh) (xwang03@202.112.50.170)
+  by mails.tsinghua.edu.cn with SMTP; 27 Sep 2004 09:11:09 -0000
+Message-ID: <004401c4a473$49fb0b40$aa3270ca@lulh>
+From: "fu" <fu@mails.tsinghua.edu.cn>
+To: tao@ccert.edu.cn
+Subject: =?gb2312?B?UmU6IMTQxfPT0dPQsci9z9bYtcTVrs7xo6zO0rjDsru4w7DR19S8urXEuaTXyr3ouPjL+7Ch?=
+Date: Mon, 27 Sep 2004 17:20:50 +0800
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="----=_NextPart_000_0040_01C4A4B6.564322A0"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2800.1437
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1441
+X-UIDL: 5Y<!!TWS!!B]_!!k8o"!
+
+分手，分手，工作几年还欠这么多钱，如果不是因为创业失败，基本上是不可原谅的
+:     我和男友认识时间不是特别长，不过彼此都对对方比较钟情，和他交往以后，才知道他不是特别善于理财，工作五年了，不仅没有存钱，还有一万五千左右的债务。
+:     刚开始他对我说银行一直催他还信用卡里的贷款，我担心他的信用受影响，就把自己的一点点积蓄（我去年毕业的，给家里寄了大概7000多，就只剩下不多的积蓄了）去借给他了，弄得我手里只剩150块左右，离发工资日还有半个月。不过我平常比较省，花钱的地方也少，也就还�
+:     后来，因为发生了一点点事情，他把钱还给我了，这件事情是什么我就不说了，倘若不是这趟意外，我估计他在今年是不会还我钱的。
+: ...................
+

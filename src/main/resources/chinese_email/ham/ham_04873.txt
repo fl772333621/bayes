@@ -1,0 +1,50 @@
+Return-Path: <weng@cernet.edu.cn>
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id j0D78CNi030348;
+	Thu, 13 Jan 2005 15:08:13 +0800
+Received: from ccert-dijg (tu203028.ip.tsinghua.edu.cn [166.111.203.28])
+	(authenticated bits=0)
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id j0D7Ii35029948;
+	Thu, 13 Jan 2005 15:18:44 +0800 (CST)
+Message-Id: <200501130718.j0D7Ii35029948@sea.net.edu.cn>
+From: "weng" <weng@cernet.edu.cn>
+Reply-To: weng@cernet.edu.cn
+To: he@ccert.edu.cn
+Subject: =?gb2312?B?ofEgttTN4rrP1/e5q8u+s8/GuMjtvP65pLPMyqY=?=
+Organization: ccert
+X-mailer: Foxmail 4.2 [cn]
+Mime-Version: 1.0
+Content-Type: text/plain;
+      charset="GB2312"
+Date: Thu, 13 Jan 2005 15:19:14 +0800
+Content-Transfer-Encoding: 8bit
+X-MIME-Autoconverted: from quoted-printable to 8bit by home.ccert.edu.cn id j0D78CNi030348
+X-UIDL: 9I4"!P]8"!W!9"!ga8"!
+
+中科开元信息技术有限公司（原中科院软件所国际合作部）是位于中关村的一家以承接对外合作业务为主的高新技术公司，本公司主要与名列世界五百强的海外战略伙伴合作，利用科学院雄厚的技术实力，专注于嵌入式领域的基础软件的研发，为客户提供高品质的软件产品和工程服务。
+因公司业务扩张，现诚聘以下岗位的软件工程师。一经录用，我们将向您提供有竞争力的薪酬待遇和良好的技术发展机会，您将和高素质的工程团队一起工作，享受到接受高难度技术挑战和不断成长的快感。
+本次招聘同时面向社会和在校研究生。对于在校研究生，我们提供同岗位的实习/毕业设计机会，要求已完成全部课程，并能在我公司全职工作至2006年3月
+有意者请发送简历到xielinfeng@embedded-iscas.com.我们保证在5个工作日内完成对您的简历的处理并给予回复。
+职位描述：
+AD02：Tool-Chain 开发工程师(2-3名）
+必需要求：
+1.英语六级以上，或同等读写能力
+2.三年以上C/C++项目开发经验
+可选要求：
+3.三年以上C++经验，熟悉STL，Design pattern者优先考虑
+4.熟悉编译器的工作原理者优先考虑，有C++编译器开发工作经验者尤佳
+5.有其他开发工具的开发经验(linker/assembler/debugger/simulator)者优先考虑
+6.熟悉test harness,有参与过大型自动测试系统开发经验者优先考虑
+7.日语熟练者优先考虑
+AD03:高级系统软件研发工程师(3人）
+岗位需求：
+1.计算机或相关专业硕士以上学历
+2.勇于面对挑战，很强的自我激励和管理能力
+3.熟悉C/x86 assemble编程,熟悉GNU开发工具包（GCC/Binutils, make, Autotools)
+4.2年以上操作系统内核研发经验（Linux/FreeBSD/Solaris/AIX等）
+5.熟悉IA32/64体系结构
+6.有很强的英语听说读写能力，有日语背景者优先考虑
+7.有下列专业背景之一者优先考虑：
+  7.1)熟悉Linux文件系统(ext3/reiserfs/jfs/xfs等）
+  
+

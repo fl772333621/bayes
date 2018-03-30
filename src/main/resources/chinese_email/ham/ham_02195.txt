@@ -1,0 +1,41 @@
+Return-Path: <luo@home.ccert.edu.cn>
+Received: from home.ccert.edu.cn (localhost [127.0.0.1])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id j3D7gWNX010530;
+	Wed, 13 Apr 2005 15:42:37 +0800
+Received: (from majordomo@localhost)
+	by home.ccert.edu.cn (8.13.1/8.13.1/Submit) id j3D7gWYQ010529;
+	Wed, 13 Apr 2005 15:42:32 +0800
+X-Authentication-Warning: home.ccert.edu.cn: majordomo set sender to owner-ccertstaff using -f
+Received: from ccertspark (tu203021.ip.tsinghua.edu.cn [166.111.203.21])
+	(authenticated bits=0)
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id j3D7gDqm010519
+	for <zhang@ccert.edu.cn>; Wed, 13 Apr 2005 15:42:20 +0800
+Reply-To: <luo@cernet.edu.cn>
+From: "luo" <luo@ccert.edu.cn>
+To: zhang@ccert.edu.cn
+Subject: =?gb2312?B?UmU6ILDsu6TV1cyryMPIy8b4t9/By6Os1tC5+rXEz6PN+9TaxMTA76O/?=
+Date: Wed, 13 Apr 2005 15:55:21 +0800
+Message-ID: <002301c53ffe$34622ee0$15cb6fa6@ccertspark>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----------=_1113378172-4267-168"
+X-Priority: 3 (Normal)
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook, Build 10.0.6626
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.3790.181
+Importance: Normal
+X-MIME-Autoconverted: from base64 to 8bit by home.ccert.edu.cn id j3D7gMqm010525
+Sender: owner-ccertstaff@home.ccert.edu.cn
+Precedence: bulk
+X-UIDL: ?We!!@EA"!C8)"!J->!!
+
+: 让妈妈去半护照。公安局的发表格收取180元，到公安局旁别制定照相管照相80元（照相
+: 的人是公安局
+: 局长的什么人）。据说添好表格以后办理还要收取手续费？我听了以后简直就块气死了。
+  照相80元的确是贵了点
+  办护照，我不太能理解为何不同地方会有不同的收费
+  这种行政规费，照理说应该是全国统一收费才对。
+  至于政府机构的官僚文化，大概也是举世皆有, 只在程度高低的区别而已 
+  当然，如果有能力，移民到其他国家未尝不可
+  只是，人活在这世界上，不可能有完全的自由及真正的平等
+  弱肉强食、优胜劣败，的确是这个世界的生存法则~~
+

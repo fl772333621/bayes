@@ -1,0 +1,29 @@
+Return-Path: <qiu@topline-express.com>
+Received: from topline-express.com ([211.152.185.124])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id iBN1v7sh016819;
+	Thu, 23 Dec 2004 09:57:13 +0800
+Message-Id: <200412230157.iBN1v7sh016819@home.ccert.edu.cn>
+Received: from jerry by topline-express.com
+	(MDaemon.Standard.v7.1.2.R)
+	with ESMTP id md50000069693.msg;
+	Thu, 23 Dec 2004 10:12:07 +0800
+From: "qiu" <qiu@topline-express.com>
+To: hua@ccert.edu.cn
+Cc: <ning@ccert.edu.cn>
+Subject: =?gb2312?B?ofEgb2ZmZXLRodTxo6y6w8TRsKGjoQ==?=
+Date: Thu, 23 Dec 2004 10:10:44 +0800
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="----=_NextPart_000_0013_01C4E8D7.ADBE2970"
+X-Mailer: Microsoft Office Outlook, Build 11.0.6353
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1441
+Thread-Index: AcTnxqiExeKvgUMlTQOgENhyM9K2EgANyUkgAAKU4HAAIuX5kA==
+X-Authenticated-Sender: jerry-shi@topline-express.com
+X-MDRemoteIP: 218.80.123.16
+X-Return-Path: jerry-shi@topline-express.com
+X-UIDL: TBW"!-j="![1k!!9#%#!
+
+第一个是在北京一家IC设计公司做技术，公司前途比较好。可惜我去了不是搞核心技术，是一些底层的软件开发和测试。差不多3K吧，成长空间不是很大，最多也就一年1K。工作环境比较好，压力不大，不用经常加班，最重要的是：能学到很多东西！以后跳槽什么的比较有资本了。
+第二个是北京某部下面附属的公路工程检测单位，国企，人不多，小单位。效益应该比较好，工资不好说，不会比上面的少，灰色收入应该比较多。但是很累很忙，要长期出差，应付各种场面。做得好的话说不定可以干一辈子，毕竟有一点点小垄断的意味。但是面很窄，技术含量不高，以后想转别的恐怕就难了。还有，不大喜欢国企里面复杂的人事关系，同事素质也普遍不高。
+达人们有什么意见都说说吧！谢了！
+

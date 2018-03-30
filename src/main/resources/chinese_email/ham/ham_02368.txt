@@ -1,0 +1,43 @@
+Return-Path: <guan@cernet.edu.cn>
+Received: from tsinghua.org.cn ([210.77.143.231])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id j0A26Vr5027849
+	for <xu@ccert.edu.cn>; Mon, 10 Jan 2005 10:06:33 +0800
+Received: (eyou send program); Mon, 10 Jan 2005 09:57:51 +0800
+Received: (eyou send program); Mon, 10 Jan 2005 09:57:51 +0800
+X-EYOU-ORIGINAL-IP: 210.77.143.235
+X-EYOU-ENVELOPE-MAILFROM: wlzxrs@cernet.edu.cn
+Received: from unknown (HELO eyou.net) (unknown@210.77.143.235)
+ by 210.77.143.231 with SMTP; Mon, 10 Jan 2005 09:57:51 +0800
+Received: (eyou send program); Mon, 10 Jan 2005 10:11:49 +0800
+Message-ID: <305323109.13408@eyou.net>
+Received: from 202.112.5.66 by 210.77.143.235 with SMTP; Mon, 10 Jan 2005 10:11:44 +0800
+Received: from 56ls81hgnjb0ggr ([202.112.4.6])
+	(authenticated bits=0)
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id j0A2ILIL020118
+	for <xu@ccert.edu.cn>; Mon, 10 Jan 2005 10:18:23 +0800 (CST)
+Message-Id: <200501100218.j0A2ILIL020118@sea.net.edu.cn>
+From: "guan" <guan@cernet.edu.cn>
+Reply-To: guan@cernet.edu.cn
+To: xu@ccert.edu.cn
+Subject: =?gb2312?B?UmU6INC0uPjSqszuuN+/vNa+1Li1xMjLw8ejrLzmzLi149DQ0rW/tLeooaM=?=
+X-mailer: Foxmail 4.2 [cn]
+Mime-Version: 1.0
+Content-Type: multipart/mixed;
+      boundary="=====000_Dragon780557084587_====="
+Date: Mon, 10 Jan 2005 10:17:9 +0800
+X-UIDL: f8]"!X]K!!W8'#!Y~7!!
+
+我也是北邮出来的，理解楼主的心情，北邮也有垃圾，也有牛人，每个学校都一样
+这不是大家需要争论的
+北邮在排名上被往后挪，我也很奇怪，毕竟北邮不至于比那些学校差，我当年也是以高过
+北大很多分的成绩进北邮的，同学中这种情况也比较多
+在通信领域，或者更广点的范围，北邮的确是很强的
+北邮学生本来素质就不错，加上专业不错，就业形势很好，这是铁一般的事情
+大家不能看少数的特例，应该看得是普通的北邮毕业生和普通的其他毕业生的区别
+整体上讲，能不能成老板是个人的问题，学校能让你出来有份不错的工作不错的收入
+我觉得足够了
+: 看那么多人问，很想跟大家一起探讨一下，欢迎拍砖，当然，反对谩骂。
+: 感觉这个东西跟job很有关系，好的学校加专业是找到一个好工作的开始，所以发在这，希望斑竹别珊。
+: 读了四年，考了半年研，找了半年工作的一些感想。
+: ...................
+

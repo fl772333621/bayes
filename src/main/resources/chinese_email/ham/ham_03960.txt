@@ -1,0 +1,41 @@
+Return-Path: <lian@tsinghua.edu.cn>
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with SMTP id j2N8hPSW028152
+	for <fan@ccert.edu.cn>; Wed, 23 Mar 2005 16:43:41 +0800
+Received: (eyou send program); Wed, 23 Mar 2005 16:40:37 +0800
+Message-ID: <311567237.28747@mail.tsinghua.edu.cn>
+Received: from unknown (HELO mail.tsinghua.edu.cn) (unknown@127.0.0.1)
+ by 127.0.0.1 with SMTP; Wed, 23 Mar 2005 16:40:37 +0800
+X-scanvirus: By Symantec Scan Engine
+X-scanresult: CLEAN
+Received: (eqmail ); 23 Mar 2005 08:40:35 -0000
+Received: from unknown (HELO sony) (duanhx@221.7.150.218)
+  by localhost with SMTP; 23 Mar 2005 08:40:35 -0000
+Message-ID: <008e01c52f86$5314c380$0d00a8c0@sony>
+From: "lian" <lian@tsinghua.edu.cn>
+To: fan@ccert.edu.cn
+References: <311565945.00013@mail.tsinghua.edu.cn>
+Subject: =?gb2312?B?UmU6IMqnw9/Jz8C0x8PX1qGqoarKsbzkv8nS1NbO0/rKssO0?=
+Date: Wed, 23 Mar 2005 16:56:59 +0800
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----------=_1111567422-27376-118"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2900.2180
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+X-UIDL: 0Z("!9HQ"!K&D"!>/_"!
+
+脉脉，你就当你爱的那个人已经往生了吧
+或者你会说，明明知道他还活着，却要当他不在了？
+而一个明明知道活着的、爱过的人，却又明明知道不能爱了，你说是不是错？
+就告诉自己爱错了，这样才会容易解脱
+就算是骗自己爱错了，自欺的目的是解脱
+很喜欢看你的笑话
+从你的笑话中能回顾到自己身边那些幽默的瞬间
+那么，我想对我适用的解脱办法，应该对你也有用吧
+我不忍心知道，有你这么一个可爱的女生，为了不该爱的人，而在夜里失眠
+: 我并不觉得自己错，不觉得爱错。
+: 如果让我再一次选择，即使已经知道会有这么长的苦痛，我也还是会坚持。
+: 我忘不了的，是那两年，和那时的他。
+: ...................
+

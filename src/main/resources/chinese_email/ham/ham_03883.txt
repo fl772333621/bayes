@@ -1,0 +1,60 @@
+Return-Path: <luo@home.ccert.edu.cn>
+Received: from home.ccert.edu.cn (localhost [127.0.0.1])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id j12EGLfp013268;
+	Wed, 2 Feb 2005 22:16:21 +0800
+Received: (from majordomo@localhost)
+	by home.ccert.edu.cn (8.13.1/8.13.1/Submit) id j12EGLWS013267;
+	Wed, 2 Feb 2005 22:16:21 +0800
+X-Authentication-Warning: home.ccert.edu.cn: majordomo set sender to owner-ccert_forum using -f
+Received: from aktc.net.cn ([61.134.47.205])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id j12EGJxX013246
+	for <zhou@ccert.edu.cn>; Wed, 2 Feb 2005 22:16:20 +0800
+Received: from WorldClient ([127.0.0.1])
+	by aktc.net.cn ([127.0.0.1])
+	with SMTP (MDaemon.PRO.v6.5.2.R)
+	for <zhou@ccert.edu.cn>; Wed, 02 Feb 2005 22:21:28 +0800
+Received: from [61.134.39.99] via WorldClient with HTTP;
+	Wed, 02 Feb 2005 22:21:28 +0800
+Date: Wed, 02 Feb 2005 22:21:28 +0800
+From: "luo" <luo@aktc.net.cn>
+To: zhou@ccert.edu.cn
+Subject: [CCERT-FORUM:11] Re: [CCERT-FORUM:10] =?gb2312?B?09BzYW3OxLz+o6zI57rOxsa94g==?=
+MIME-Version: 1.0
+Content-Type: text/plain; charset="gb2312"
+Content-Transfer-Encoding: 8bit
+Message-ID: <WorldClient-F200502022221.AA21280856@aktc.net.cn>
+X-Mailer: WorldClient 6.5.2
+In-Reply-To: <20050202073427.87709.qmail@web15805.mail.cnb.yahoo.com>
+References: <20050202073427.87709.qmail@web15805.mail.cnb.yahoo.com>
+X-MDRemoteIP: 127.0.0.1
+X-Return-Path: lxp@aktc.net.cn
+X-MDaemon-Deliver-To: ccert_forum@ccert.edu.cn
+Sender: owner-ccert_forum@home.ccert.edu.cn
+Precedence: bulk
+X-UIDL: ,^1"!!%W!!8RB"!F"6"!
+
+这种面试都是hr的本职工作，他们不多问一些，岂不是显得他们吃干饭的
+如果是老总或者高管面试，几分钟就差不多了，剩下的几分钟就是聊聊天
+比如唐骏说他一般都是三分钟内判断是否要人
+: 标  题: Re: 老板已经被3位清华的master放过鸽子了
+: 发信站: 水木社区 (Thu Jun 16 15:27:59 2005), 站内
+: 
+: 最郁闷还是面试的时候像是选精英中的精英一样，
+: 又是群殴，又是e文的，居多的抽象性问题，什么职业规划，什么最大挑战的
+: 结果一进去，还是民工干的活
+: 
+: 
+: 
+: : offer都是要签字的，要是签了没去，有点不太好。不过说白了也无所谓，试用期走都可以，拿offer不去又怎么样呢？
+: : 用人单位要想自己的问题，量力而行，老招那么牛的，待遇还不给够，当然人家不珍惜了。
+: 
+: 
+: --
+: 我就即将远扬，在向你诉说时，得以有机会遥望自己生命的既往和来兹，
+: 那条坎坷的少年游途上，每一段一块，清晰分明地刻着你的名字，以及
+: 我不朽的爱。
+: 
+: 
+※ 修改:·newroute 于 Jun 16 16:02:52 修改本文·[FROM: 203.212.3.*]
+: ※ 来源:·水木社区 newsmth.net·[FROM: 210.22.139.*]
+

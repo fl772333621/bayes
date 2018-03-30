@@ -1,0 +1,39 @@
+Return-Path: <xue@rbl.ccert.edu.cn>
+Received: from rbl.ccert.edu.cn (rbl.ccert.edu.cn [202.112.57.71])
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id i973tUJQ014862
+	for <hua@ccert.edu.cn>; Thu, 7 Oct 2004 11:55:30 +0800 (CST)
+Received: from rbl.ccert.edu.cn (localhost.localdomain [127.0.0.1])
+	by rbl.ccert.edu.cn (8.12.11/8.12.11) with ESMTP id i9741TZb021502
+	for <hua@ccert.edu.cn>; Thu, 7 Oct 2004 12:01:29 +0800
+Received: (from qa@localhost)
+	by rbl.ccert.edu.cn (8.12.11/8.12.11/Submit) id i9741TVY021501;
+	Thu, 7 Oct 2004 12:01:29 +0800
+Date: Thu, 7 Oct 2004 12:01:29 +0800
+Message-Id: <200410070401.i9741TVY021501@rbl.ccert.edu.cn>
+Subject: =?gb2312?B?UmU6IMfrsO/O0rnAucC82w==?=
+To: hua@ccert.edu.cn
+From: Tran Quang Anh <xue@cernet.edu.cn>
+Content-Type: multipart/mixed; boundary="----------=_1097121689-996-806"
+MIME-Version: 1.0
+X-UIDL: >&>!!BI~"!Q!d"!p*)"!
+
+对于有自信的同学，俺历来都是鼓励他们最求卓越的offer.....
+人总得撞撞南墙才能回头么，对吧
+: 标  题: Re: 请帮我估估价
+: 发信站: 水木社区 (Sun Jun  5 20:44:07 2005), 站内
+: 
+: 过分自大
+: : 按照你的实力,绝对能拿到e,千万不要把自己贱卖了,bcd之类的offer考虑都不用考虑！
+: 
+: 
+: --
+: 
+:     恋爱过程好比求职，需要经过投递简历、笔试、一面及二面等，然后
+: 就是offer的到来。整个过程关键点在于是否相互match，最终，offer选
+: 择了你，你也选择了offer。
+: 
+:                                                     某人语
+: 
+: 
+: ※ 来源:·水木社区 newsmth.net·[FROM: 221.219.32.*]
+

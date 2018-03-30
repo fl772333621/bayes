@@ -1,0 +1,26 @@
+Return-Path: <long@cernet.edu.cn>
+Received: from WHITESNOW ([220.207.84.83])
+	(authenticated bits=0)
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id j068gnt1017836
+	for <mei@ccert.edu.cn>; Thu, 6 Jan 2005 16:42:52 +0800 (CST)
+Message-ID: <006201c4f3cb$bb317db0$5354cfdc@WHITESNOW>
+From: "long" <long@cernet.edu.cn>
+To: mei@ccert.edu.cn
+References: <000701c4f23e$49323da0$18cb6fa6@CCERTDAWEI> <003501c4f3c4$7d82f310$5354cfdc@WHITESNOW> <004d01c4f3c7$df7980e0$18cb6fa6@CCERTDAWEI>
+Subject: =?gb2312?B?ofEgtPO80sPmytTX7sTRtcTM4sS/ysfKssO0KLy8yvXA4LXEKQ==?=
+Date: Thu, 6 Jan 2005 16:42:54 +0800
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="----=_NextPart_000_005E_01C4F40E.C4DC54F0"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2900.2180
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+X-UIDL: A4F!!RXI!!E2b"!7GG"!
+
+刚刚听见几个找工作的哥们抱怨
+一个说,去面试程序员职位,要他用c写一个快速排序和一个shell排序...那哥们憋了半天,说能不能给我一下这些排序算法的描述啊? 我都忘记了....这个是GE的题目...
+另外一个面试电信研发职位的,要他用c实现sscop..哥们怒了,你有没有搞错,我一年全在写sscop了,现在你要我20分钟给你写一个?? 怒而拒之...这个公司就是M开头的某个大型跨国公司
+最离谱的是一个面试金融分析职位的哥们,别人要他预测一下01年美国某只股票的情况.给了他n多数据.这哥们累了4个小时,又建模又计算的,最后结论是股票会涨.人家乐了,因为01年碰上911,都跌了...然后说你分析不对,拒之...这是morgen的面试....
+好玩
+

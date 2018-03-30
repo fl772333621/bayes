@@ -1,0 +1,29 @@
+Return-Path: <bai@bjnet.edu.cn>
+Received: from sniff.ccert.edu.cn ([202.112.57.72])
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id iB14w2Rb005694
+	for <tang@ccert.edu.cn>; Wed, 1 Dec 2004 12:58:02 +0800 (CST)
+Received: by sniff.ccert.edu.cn (Postfix, from userid 1000)
+	id 2FED824DB68; Wed,  1 Dec 2004 12:59:51 +0800 (CST)
+Received: from localhost (localhost [127.0.0.1])
+	by sniff.ccert.edu.cn (Postfix) with ESMTP id 2E6D437CCC
+	for <tang@ccert.edu.cn>; Wed,  1 Dec 2004 12:59:51 +0800 (CST)
+Date: Wed, 1 Dec 2004 12:59:51 +0800 (CST)
+From: bai@bjnet.edu.cn
+X-X-Sender: zhang@sniff.ccert.edu.cn
+Reply-To: bai@bjnet.edu.cn
+To: tang@ccert.edu.cn
+Subject: Re: hello
+In-Reply-To: <000e01c4d751$481476c0$18cb6fa6@CCERTDAWEI>
+Message-ID: <Pine.LNX.4.58.0412011259340.8925@sniff.ccert.edu.cn>
+References: <Pine.LNX.4.58.0412010919540.8789@sniff.ccert.edu.cn>
+ <000e01c4d751$481476c0$18cb6fa6@CCERTDAWEI>
+MIME-Version: 1.0
+Content-Type: TEXT/PLAIN; charset=gb2312
+Content-Transfer-Encoding: 8bit
+X-MIME-Autoconverted: from QUOTED-PRINTABLE to 8bit by sea.net.edu.cn id iB14w2Rb005694
+X-UIDL: IBA!!cQ="!m`S"!8KM"!
+
+算了吧……
+: 接下来的事情就完全让我无法理解了，当晚回来发短信不回，又发几条又不回，第2天2条不回，第3天2条不回，咨询我以前女同学，都不理解，说要么不告诉，告诉就基本有反应，起码就是礼貌，短信要回的。没有办法就继续尾随，看哪天碰到就正面询问，偏偏几次她和同学一起，我
+: 被逼无奈，昨天开始横下一条心-----打电话，更邪门，通了没人接，晚7点左右，等晚10点又是暂时无法接通，以为通话呢就等啊，再11点多又打通了没人接，今天中午又打不是通了没人接就是暂时无法接通，最后办法只好打寝室电话，她说她手机屏蔽，不是爸妈或亲戚都挡在外面，
+

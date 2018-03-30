@@ -1,0 +1,23 @@
+Return-Path: <zeng@cernet.edu.cn>
+Received: from WHITESNOW ([220.207.84.83])
+	(authenticated bits=0)
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id j068lYlu017940;
+	Thu, 6 Jan 2005 16:47:38 +0800 (CST)
+Message-ID: <007201c4f3cc$65159e10$5354cfdc@WHITESNOW>
+From: "zeng" <zeng@cernet.edu.cn>
+To: wua@ccert.edu.cn
+References: <000701c4f23e$49323da0$18cb6fa6@CCERTDAWEI>
+Subject: =?gb2312?B?ofEgQSBwb3N0ZG9jIHBvc2l0aW9uIGF0IE5VUw==?=
+Date: Thu, 6 Jan 2005 16:47:38 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_006E_01C4F40F.6E9100E0"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2900.2180
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+X-UIDL: %!h"!nhj"!fJA!!%XN"!
+
+A postdoctoral research fellow position is open immediately at the National University of Singapore. The fellow will join the Bioimaging Lab to develop time-resolved diffuse optical tomography for medical diagnoses. The ideal candidate should have strong background in optical instrumentation and radio frequency/microwave circuit design. Scientific programming skill is also desirable. To apply, send a soft copy of CV to Dr. Nanguang Chen via email (biecng@nus.edu.sg). 
+Candidates should have a Ph. D. in Biomedical Engineering, Electrical Engineering, Optical Engineering, or Applied Physics.
+

@@ -1,0 +1,25 @@
+Return-Path: <guan@rbl.ccert.edu.cn>
+Received: from rbl.ccert.edu.cn (rbl.ccert.edu.cn [202.112.57.71])
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id i96ARnR0002814
+	for <sun@ccert.edu.cn>; Wed, 6 Oct 2004 18:27:49 +0800 (CST)
+Received: from rbl.ccert.edu.cn (localhost.localdomain [127.0.0.1])
+	by rbl.ccert.edu.cn (8.12.11/8.12.11) with ESMTP id i96AXjgj026419
+	for <sun@ccert.edu.cn>; Wed, 6 Oct 2004 18:33:45 +0800
+Received: (from qa@localhost)
+	by rbl.ccert.edu.cn (8.12.11/8.12.11/Submit) id i96AXjGC026418;
+	Wed, 6 Oct 2004 18:33:45 +0800
+Date: Wed, 6 Oct 2004 18:33:45 +0800
+Message-Id: <200410061033.i96AXjGC026418@rbl.ccert.edu.cn>
+Subject: =?gb2312?B?ofEgudjT2runv9q1tbC4o6zH673MaHVrb3W087jnsKE=?=
+To: sun@ccert.edu.cn
+From: Tran Quang Anh <guan@cernet.edu.cn>
+Content-Type: multipart/mixed; boundary="----------=_1097058825-996-568"
+MIME-Version: 1.0
+X-UIDL: ~J*"!>0e"!e/*!!Im\"!
+
+我的公司说我的材料被拒了啊，理由专业不符啊，他们正在做二次申请，不过我估计戏也不大啊，真是。。唉！！！！
+现在有个问题，
+1）如果解决不了户口，那么可以接受档案吗？
+2）如果档案必须和户口一起的话，想要保留干部身份的话，是不是可以把户口和档案先放在原学校所在市的人才，还是放在原籍所在市的人才啊？
+3）如果放在人才的话，人才好像需要报道证？那我怎么去北京的这家公司上班？他们不要报道证吗？
+

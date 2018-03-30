@@ -1,0 +1,29 @@
+Return-Path: <yan@sdu.edu.cn>
+Received: from sdu.edu.cn (sdu.edu.cn [202.194.15.6])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with SMTP id j4J20DoQ028426
+	for <you@ccert.edu.cn>; Thu, 19 May 2005 10:00:24 +0800
+Received: (eyou send program); Thu, 19 May 2005 10:33:21 +0800
+Message-ID: <316470001.19312@sdu.edu.cn>
+Received: from 202.194.16.209 by tmail.sdu.edu.cn with HTTP; Thu, 19 May 2005 10:33:21 +0800
+X-WebMAIL-MUA: [202.194.16.209]
+From: "yan" <yan@sdu.edu.cn>
+To: you@ccert.edu.cn
+Date: Thu, 19 May 2005 10:33:21 +0800
+Reply-To: "yan" <yan@sdu.edu.cn>
+X-Priority: 3
+Subject: =?gb2312?B?ofEgbG92ZbDmwPrIzrDf1vGjrNT1w7S+zcvEuPbIy7Cho78=?=
+Content-Type: multipart/mixed; boundary="----------=_1116468025-20299-675"
+MIME-Version: 1.0
+X-UIDL: A]C!!\ep!!M(&!!CCk"!
+
+Love版历任版主                                 
+                                                                               
+                                                                               
+按上任日期排列:
+序号 ID           上任日期           离任日期         备注                     
+ 1   yanxiaoxing  2005.04.10                              （正版主）                
+ 2   zhangsu      2005.04.13
+ 3   kkmoun       2005.04.13
+ 4   dididar      2005.04.14                               
+还都是现任的，赫赫。
+

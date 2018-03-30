@@ -1,0 +1,27 @@
+Return-Path: <ke@tsinghua.org.cn>
+Received: from tsinghua.org.cn ([210.77.143.228])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id iAQAE47a026796
+	for <jiang@ccert.edu.cn>; Fri, 26 Nov 2004 18:14:06 +0800
+Message-Id: <200411261014.iAQAE47a026796@home.ccert.edu.cn>
+Received: (eyou send program); Fri, 26 Nov 2004 18:00:54 +0800
+Received: (eyou send program); Thu, 25 Nov 2004 17:06:14 +0800
+Date: Thu, 25 Nov 2004 16:28:47 +0800
+From: ke@tsinghua.org.cn
+Reply-To: ke@tsinghua.org.cn
+Subject: =?gb2312?B?UmU6IMfrsO/O0rnAucC82w==?=
+CC: 
+Content-Type: multipart/mixed; boundary="----------=_1101464048-22983-321"
+MIME-Version: 1.0
+X-UIDL: V\,"!)iG"!I!k"!:2h!!
+
+楼主条件不错，如果能力按这种硬件的中等水平估计
+刚毕业应该可以达到a/b
+如果想让大家帮你分析得准确的话
+希望能透露本科、工作、读研期间的项目经验和其他收获
+另外有个问题，最近接触到很多清华热门专业高学历的朋友工作不好
+正在思考是什么原因
+: 本人国防科大计算机本科毕业，后在通信领域工作3年，进入清华某通信专业学习，明年硕士毕业，不知道如今行情如何，请各位大虾给各参考，一般是多少价位呢？
+: a 7k--9k
+: b 9k--11k
+: ...................
+

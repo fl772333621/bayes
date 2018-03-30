@@ -1,0 +1,52 @@
+Return-Path: <bi@rbl.ccert.edu.cn>
+Received: from rbl.ccert.edu.cn (rbl.ccert.edu.cn [202.112.57.71])
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id i984eQgW002409
+	for <wu@ccert.edu.cn>; Fri, 8 Oct 2004 12:40:26 +0800 (CST)
+Received: from rbl.ccert.edu.cn (localhost.localdomain [127.0.0.1])
+	by rbl.ccert.edu.cn (8.12.11/8.12.11) with ESMTP id i984kRWB007789
+	for <wu@ccert.edu.cn>; Fri, 8 Oct 2004 12:46:27 +0800
+Received: (from qa@localhost)
+	by rbl.ccert.edu.cn (8.12.11/8.12.11/Submit) id i984kR5f007788;
+	Fri, 8 Oct 2004 12:46:27 +0800
+Date: Fri, 8 Oct 2004 12:46:27 +0800
+Message-Id: <200410080446.i984kR5f007788@rbl.ccert.edu.cn>
+Subject: =?gb2312?B?ofEgob7V0Ma4ob/P7sS/vq3R6bfhuLu1xM341b68vMr1?=
+To: wu@ccert.edu.cn
+From: Tran Quang Anh <bi@cernet.edu.cn>
+Content-Type: multipart/mixed; boundary="----------=_1097210787-1044-276"
+MIME-Version: 1.0
+X-UIDL: +pi"!KFB"!&+`!!;e_!!
+
+职位1：网站建设
+工作：
+创建并编写一个信息门户网站，服务于中国高端人群
+要求：
+（1）熟练掌握ASP，JSP，ASP.net等网站建设语言/平台，有足够的相关项目经验
+（2）做过新闻发布平台、blog、论坛、校友录者优先
+（3）熟悉.NET平台，有asp.net项目经验者优先
+有意者请发送电子邮件至：
+        wangguopu00@mails.tsinghua.edu.cn
+报酬面谈，从优。
+公司简介：
+北京雷梦无线科技发展有限公司成立于2004年5月，是一家专业从事无线商务应用技术研究
+、产品开发和服务的高科技企业。
+公司创建一年来，伴随众多成功案例的实施，产品线不断丰富。目前主要产品为无线信息管
+理平台（Lemon-WIM），无线增值业务平台（Lemon-WISP）和基于无线应用技术的客户关系
+管理平台（Lemon-WCRM）等。公司旨在通过对高端企业及个人市场的灵敏把握，结合最恰当
+的无线技术，为商务世界的信息交换提供全面解决方案，推动从有线到无线的信息革命，成
+为无线商务应用领域的领导者。
+北京雷梦文化发展有限公司拥有一支极具创新意识和务实作风的创业团队，管理团队来自清
+华大学，有着丰富的管理和技术开发经验，始终以市场需求为第一导向，潜心挖掘大型企业
+和高端商务人群的信息管理等方面需求，将用户纯朴、零散的应用需求概括、提升和引导，
+使之产品化。凭借着对市场的长期关注和深刻理解，雷梦发挥自己的团队优势，为多个领域
+的高端用户提供着无线业务和内容服务，并开发出一系列的产品，引领着无线商务沟通的潮
+流。
+目前，雷梦已成功地建立起多个销售服务平台，并与移动、联通、手机终端厂商、CRM开发
+企业、代理商、媒体及高端服务业建立了广泛的合作关系，能为各地区用户同时提供高品质
+的服务。
+公司秉承“诚信，创新，贴心”的经营理念，愿为开拓中国无线商务应用事业，实现商界的
+无限沟通贡献力量！
+由于公司业务发展，诚邀有志于无线商务应用事业的同行朋友们加入我们的团队，共同分享
+创业的快乐和收获！
+目前公司处于快速发展期，诚邀有志于无线增值领域长足发展的人士加盟。
+

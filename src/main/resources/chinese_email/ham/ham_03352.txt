@@ -1,0 +1,55 @@
+Return-Path: <kang@ccert.edu.cn>
+Received: from tsinghua.org.cn ([210.77.143.228])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id i9B7woTI014958
+	for <rao@ccert.edu.cn>; Mon, 11 Oct 2004 15:58:52 +0800
+Received: (eyou send program); Mon, 11 Oct 2004 16:09:33 +0800
+Received: (eyou send program); Mon, 11 Oct 2004 16:09:31 +0800
+X-EYOU-ORIGINAL-IP: 166.111.8.16
+X-EYOU-ENVELOPE-MAILFROM: weike@ccert.edu.cn
+Received: from unknown (HELO mails.tsinghua.edu.cn) (unknown@166.111.8.16)
+ by 210.77.143.228 with SMTP; Mon, 11 Oct 2004 16:09:31 +0800
+Received: (eyou send program); Mon, 11 Oct 2004 16:03:25 +0800
+Message-ID: <297481804.23739@mails.tsinghua.edu.cn>
+Received: (eyou send program); Mon, 11 Oct 2004 16:03:24 +0800
+Message-ID: <297481803.07032@mails.tsinghua.edu.cn>
+Received: from unknown (HELO mails.tsinghua.edu.cn) (unknown@127.0.0.1)
+ by 127.0.0.1 with SMTP; Mon, 11 Oct 2004 16:03:24 +0800
+X-scanvirus: By Symantec Scan Engine
+X-scanresult: CLEAN
+Received: (eqmail ); 11 Oct 2004 08:03:21 -0000
+Received: from ccert.edu.cn (HELO home.ccert.edu.cn) (202.112.57.12)
+  by mails.tsinghua.edu.cn with SMTP; 11 Oct 2004 08:03:21 -0000
+Received: from home.ccert.edu.cn (localhost [127.0.0.1])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id i9B7v7Gg014921;
+	Mon, 11 Oct 2004 15:57:07 +0800
+Received: (from majordomo@localhost)
+	by home.ccert.edu.cn (8.13.1/8.13.1/Submit) id i9B7v7f1014920;
+	Mon, 11 Oct 2004 15:57:07 +0800
+X-Authentication-Warning: home.ccert.edu.cn: majordomo set sender to owner-ccertstaff using -f
+Received: from power001 ([202.112.50.103])
+	(authenticated bits=0)
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id i9B7v5wS014916
+	for <rao@ccert.edu.cn>; Mon, 11 Oct 2004 15:57:06 +0800
+Message-ID: <00e001c4af69$6d7cd160$673270ca@Power001>
+From: "kang" <kang@ccert.edu.cn>
+To: rao@ccert.edu.cn
+Subject: =?gb2312?B?UmU6IMj9uPbUwrXE0KHT8cPX?=
+Date: Mon, 11 Oct 2004 16:07:59 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_00DD_01C4AFAC.7A885FD0"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.3790.181
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.3790.181
+Sender: owner-ccertstaff@home.ccert.edu.cn
+Precedence: bulk
+X-UIDL: (Uh!!eN$"!(m="!Gl3!!
+
+脸上好多肉肉啊!
+可能照出来都那样?
+: 三个月的小玉米，身长64cm，体重15斤出头。与同月龄的宝宝相比大好多，抱出去别人都以为已经4、5个月了
+: 三个月的小玉米从刚满两个月时候学会了开始咿咿哦哦的跟人对话，喜欢看鲜艳的颜色和动来动去的物体。早上是她最favorate的时刻，睡得美美的醒来，看着窗帘缝里露出的光亮就开始一个人傻乐 :D 能一个人玩好一会儿。
+: 三个月的小玉米有了倾心喜爱的物品，一个是奶瓶，还有一个是妈妈的乳房^&amp;*^*%
+: ...................
+

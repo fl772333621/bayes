@@ -1,0 +1,25 @@
+Return-Path: <qian@rbl.ccert.edu.cn>
+Received: from rbl.ccert.edu.cn (rbl.ccert.edu.cn [202.112.57.71])
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id i922OifI010295
+	for <shen@ccert.edu.cn>; Sat, 2 Oct 2004 10:24:44 +0800 (CST)
+Received: from rbl.ccert.edu.cn (localhost.localdomain [127.0.0.1])
+	by rbl.ccert.edu.cn (8.12.11/8.12.11) with ESMTP id i922UQHC008291
+	for <shen@ccert.edu.cn>; Sat, 2 Oct 2004 10:30:26 +0800
+Received: (from qa@localhost)
+	by rbl.ccert.edu.cn (8.12.11/8.12.11/Submit) id i922UQdv008290;
+	Sat, 2 Oct 2004 10:30:26 +0800
+Date: Sat, 2 Oct 2004 10:30:26 +0800
+Message-Id: <200410020230.i922UQdv008290@rbl.ccert.edu.cn>
+Subject: =?gb2312?B?UmU6ILeizsTH7NejZ2fJ+sjV?=
+To: shen@ccert.edu.cn
+From: Tran Quang Anh <qian@cernet.edu.cn>
+Content-Type: multipart/mixed; boundary="----------=_1096684226-996-336"
+MIME-Version: 1.0
+X-UIDL: ,bV!!k(Z!!g?O!!b]6!!
+
+羡慕。好运。
+: 今天gg过生日，又是六一儿童节，可谓“双喜临门”，就跑来love发个文，作为礼物送给gg。
+:    我和gg是初中同学，算来相识也有10年了。前6年，说过的话加在一起，不超过100句。那时觉得他只对数理化感兴趣，大概永远不会喜欢上什么女生。
+:    上了大学，经过复杂曲折的发展过程，他成了我gg，我变成他mm，和许多人一样，偶们成了幸福的一对。这一年来，一起走过风风雨雨，在点滴生活中才渐渐感到，我一生中大概再也不会遇到像gg这样爱我的人了。他对我种种的好，似乎都是那么不起眼而难以察觉，但是现在回忆起来，却真的忍不住喉头哽咽。
+: ...................
+

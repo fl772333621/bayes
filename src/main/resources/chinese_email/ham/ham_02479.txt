@@ -1,0 +1,40 @@
+Return-Path: <qian@compass.net.edu.cn>
+Received: from tsinghua.org.cn ([210.77.143.228])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id iAOE3t4q023979
+	for <hong@ccert.edu.cn>; Wed, 24 Nov 2004 22:03:56 +0800
+Received: (eyou send program); Wed, 24 Nov 2004 22:16:43 +0800
+Received: (eyou send program); Wed, 24 Nov 2004 22:16:42 +0800
+X-EYOU-ORIGINAL-IP: 210.77.143.235
+X-EYOU-ENVELOPE-MAILFROM: ys@compass.net.edu.cn
+Received: from unknown (HELO eyou.net) (unknown@210.77.143.235)
+ by 210.77.143.228 with SMTP; Wed, 24 Nov 2004 22:16:42 +0800
+Received: (eyou send program); Wed, 24 Nov 2004 22:12:10 +0800
+Message-ID: <301305530.17404@eyou.net>
+Received: from 202.38.188.130 by 210.77.143.235 with SMTP; Wed, 24 Nov 2004 22:12:08 +0800
+Received: from [210.25.128.113] ([210.25.128.113])
+	by compass.net.edu.cn (8.9.2/8.9.2) with ESMTP id WAA11870
+	for <hong@ccert.edu.cn>; Wed, 24 Nov 2004 22:19:37 +0800 (CST)
+Message-ID: <41A4971B.6040807@compass.net.edu.cn>
+Date: Wed, 24 Nov 2004 22:13:47 +0800
+From: Shaozhi Ye <qian@compass.net.edu.cn>
+User-Agent: Mozilla Thunderbird 0.9 (Windows/20041103)
+X-Accept-Language: en-us, en
+MIME-Version: 1.0
+To: hong@ccert.edu.cn
+Subject: Re: =?GB2312?B?zsrSu8/Cu/rG9w==?=
+References: <301289476.11048@eyou.net> <004d01c4d22d$63a36370$7203510a@CCERTDAWEI> <301304963.17405@eyou.net> <008101c4d22f$f24b1800$7203510a@CCERTDAWEI>
+In-Reply-To: <008101c4d22f$f24b1800$7203510a@CCERTDAWEI>
+Content-Type: text/plain; charset=GB2312
+Content-Transfer-Encoding: 8bit
+X-UIDL: ia8!!n"X"!@_J"!7=="!
+
+纽约－纽约、情定奇缘，价位大约在4200－4500元，内容：26张底板3本满版相册（14或
+16寸的1本，11或12寸的2本－－双方爸妈各1本），2张带框大片（30和24寸各1个），2
+个10寸水晶照片，5套服装，包括化妆、外景。
+是爸爸妈妈帮我们去踩点的，还没有交定金。我知道情定奇缘没有纽约纽约档次高，但
+是爸妈说服务态度好。
+想麻烦熟悉婚纱照的姐妹看一下，纽约纽约这个档次给这么多照片值不值？是不是还需
+要进一步讨价还价？
+要是还行的话就先定下了。
+谢谢
+

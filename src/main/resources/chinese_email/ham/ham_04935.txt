@@ -1,0 +1,31 @@
+Return-Path: <yang@mails.tsinghua.edu.cn>
+Received: from mails.tsinghua.edu.cn (mails.tsinghua.edu.cn [166.111.8.16])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j1N7T4om016475
+	for <you@ccert.edu.cn>; Wed, 23 Feb 2005 15:29:04 +0800 (CST)
+X-scanvirus: By SOPHOS Scan Engine
+X-scanresult: CLEAN
+X-Received: unknown,166.111.203.210,20050223152340
+Received: from unknown (HELO xiner) (xwang03@166.111.203.210)
+  by localhost with SMTP; 23 Feb 2005 07:23:40 -0000
+Message-ID: <001501c51979$998dee40$d2cb6fa6@xiner>
+From: "yang" <yang@mails.tsinghua.edu.cn>
+To: you@ccert.edu.cn
+Subject: =?gb2312?B?UmU6IM6qyrLDtMTQ09HX3Mzhs/ZYWNKqx/Ojvw==?=
+Date: Wed, 23 Feb 2005 15:30:45 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0012_01C519BC.A4A12F20"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2900.2180
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+X-UIDL: ZGA"!WIc!!!RW!!%(f!!
+Status: RO
+
+他有提出得权利
+你有拒绝的权利
+: 和男友交往时间不长，他提出要带我去见他家人。好象他家人经常催问他个人的问题。平时他经常向我提出XX要求。都被我拒绝。男友经常夸我漂亮，似乎我最吸引他的就是我的外貌。
+: 我不明白，他看中的究竟是我什么？
+: 因为他常提出那样要求，导致我产生不安感。虽然我有过感情经历，他也有过，而且我们年龄都不算小了。但我不明白，和他发生关系后会产生什么样的结果，尽管他提出要带我去见他的家人，提出明年就要和我结婚。
+: ...................
+

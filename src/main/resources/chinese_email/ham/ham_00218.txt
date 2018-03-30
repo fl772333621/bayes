@@ -1,0 +1,54 @@
+Return-Path: <cheng@ccert.edu.cn>
+Received: from tsinghua.org.cn ([210.77.143.228])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id i9L8pXqV015743
+	for <hong@ccert.edu.cn>; Thu, 21 Oct 2004 16:51:56 +0800
+Received: (eyou send program); Thu, 21 Oct 2004 17:02:40 +0800
+Received: (eyou send program); Thu, 21 Oct 2004 17:02:33 +0800
+X-EYOU-ORIGINAL-IP: 166.111.8.16
+X-EYOU-ENVELOPE-MAILFROM: starry@ccert.edu.cn
+Received: from unknown (HELO mails.tsinghua.edu.cn) (unknown@166.111.8.16)
+ by 210.77.143.228 with SMTP; Thu, 21 Oct 2004 17:02:33 +0800
+Received: (eyou send program); Thu, 21 Oct 2004 16:56:24 +0800
+Message-ID: <298348984.08384@mails.tsinghua.edu.cn>
+Received: (eyou send program); Thu, 21 Oct 2004 16:56:23 +0800
+Message-ID: <298348983.21557@mails.tsinghua.edu.cn>
+Received: from unknown (HELO mails.tsinghua.edu.cn) (unknown@127.0.0.1)
+ by 127.0.0.1 with SMTP; Thu, 21 Oct 2004 16:56:23 +0800
+X-scanvirus: By Symantec Scan Engine
+X-scanresult: CLEAN
+Received: (eqmail ); 21 Oct 2004 08:56:13 -0000
+Received: from ccert.edu.cn (HELO home.ccert.edu.cn) (202.112.57.12)
+  by mails.tsinghua.edu.cn with SMTP; 21 Oct 2004 08:56:13 -0000
+Received: from home.ccert.edu.cn (localhost [127.0.0.1])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id i9L8mH1v015704;
+	Thu, 21 Oct 2004 16:48:17 +0800
+Received: (from majordomo@localhost)
+	by home.ccert.edu.cn (8.13.1/8.13.1/Submit) id i9L8mH9G015703;
+	Thu, 21 Oct 2004 16:48:17 +0800
+X-Authentication-Warning: home.ccert.edu.cn: majordomo set sender to owner-ccertstaff using -f
+Received: from starry ([202.112.50.191])
+	(authenticated bits=0)
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id i9L8m9jr015698;
+	Thu, 21 Oct 2004 16:48:11 +0800
+Message-Id: <200410210848.i9L8m9jr015698@home.ccert.edu.cn>
+Date: Thu, 21 Oct 2004 16:59:09 +0800
+From: "cheng" <cheng@ccert.edu.cn>
+To: hong@ccert.edu.cn
+Cc: "ccertstaff" <ren@ccert.edu.cn>
+Subject: =?gb2312?B?UmU6IL3jw8PDxyzI57n71eLKwreiyfq1vcHLxOPDx8ntyc8sxOPDx9T1w7Sw7D8=?=
+X-mailer: Foxmail 5.0 [cn]
+Mime-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: 8bit
+X-MIME-Autoconverted: from base64 to 8bit by home.ccert.edu.cn id i9L8mHjr015700
+Sender: owner-ccertstaff@home.ccert.edu.cn
+Precedence: bulk
+X-UIDL: fYW!!1[1"!TZk!!]-`!!
+
+  那就离吧，只能怪你没眼光，找了这么差劲的老公
+: 我和老公大学同学,去年4月结的婚,10月生的孩子,属于未婚先孕,就在我还有两个月要生孩子的时候,婆婆从外边抱回去了一个40天的小孩,当女儿养着,对此我心里有所不满,觉得对我们的孩子太不公平,本来一家4口都应该疼我们的孩子,但我也没表现出来,去年9月28日,第一次矛盾:婆婆
+: 去年11月由于老公工作调动,我们搬出去住了,我一个人带着孩子,今年4月,公婆叫我们回去和他们同住,我已经想到肯定会有矛盾发生的,就怕闹矛盾,我提出还是搬出去住,可公公婆婆不答应 ,平时婆婆和保姆带着抱来的那个孩子,我一个人带着我们的孩子
+:   而且他们家重男轻女,我生的是个女孩,婆婆曾经说过这样的话:他们家有的是钱,找个什么样的儿媳妇找不到,希望我和老公再要一个孩子,就是他们的孙子,但又怕我老公把工作丢掉,婆婆说:到时可以去医院找人开证明,说我女儿有什么什么毛病,想生第二个, 还有就是还说,我要是再怀
+: ...................
+

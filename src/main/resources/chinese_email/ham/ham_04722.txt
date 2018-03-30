@@ -1,0 +1,29 @@
+Return-Path: <fan@cernet.edu.cn>
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id iBF6taaV020285;
+	Wed, 15 Dec 2004 14:55:36 +0800
+Received: from WHITESNOW (tu203022.tsinghua.edu.cn [166.111.203.22])
+	(authenticated bits=0)
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id iBF79Fcd029123;
+	Wed, 15 Dec 2004 15:09:16 +0800 (CST)
+Message-ID: <003501c4e275$050681a0$16cb6fa6@WHITESNOW>
+From: "fan" <fan@cernet.edu.cn>
+To: cao@ccert.edu.cn
+References: <002101c4d77c$91024c60$15cb6fa6@ccertspark>
+Subject: =?gb2312?B?UmU6IM7StcSwrsfp?=
+Date: Wed, 15 Dec 2004 15:09:24 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0032_01C4E2B8.100C06E0"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2900.2180
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+X-UIDL: j-8"!$]a!!cJG"!nEj!!
+
+今天看一期艺术人生，看到“沧海，桑田”四个字，有些感慨随着时间的流逝，可能曾经的激情再回味都已经趋于平淡。。。但正是这些积累，才使人成熟，有平和的心态
+: 看着这里的DDMM们咿咿呀呀的伤心失恋，我终于也忍不住哼哼两句，
+: 所谓的爱情，过了几年回头看看也没什么大不了的。这是我的纯粹个人经验之谈。
+: 我大学时，和男朋友朦胧的爱情没有经过任何考验，毕业之后就糊涂的结束，那时候他牵我的手，我都会激动的浑身颤抖，纯净得象白纸。现在呢，我们已经成为好朋友，偶尔打打电话什么的，平和而温暖，象亲人一样。
+: ...................
+

@@ -1,0 +1,34 @@
+Return-Path: <zhan@tsinghua.edu.cn>
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j0A7RVsD025500
+	for <qiu@ccert.edu.cn>; Mon, 10 Jan 2005 15:27:31 +0800 (CST)
+Received: (eyou send program); Mon, 10 Jan 2005 15:11:44 +0800
+Message-ID: <305341104.29145@mail.tsinghua.edu.cn>
+Received: from unknown (HELO mail.tsinghua.edu.cn) (unknown@127.0.0.1)
+ by 127.0.0.1 with SMTP; Mon, 10 Jan 2005 15:11:44 +0800
+X-scanvirus: By Symantec Scan Engine
+X-scanresult: CLEAN
+Received: (eqmail ); 10 Jan 2005 07:11:43 -0000
+Received: from unknown (HELO sony) (duanhx@166.111.204.189)
+  by localhost with SMTP; 10 Jan 2005 07:11:43 -0000
+Message-ID: <01e101c4f6e5$d372b430$6ce86fa6@sony>
+From: "zhan" <zhan@tsinghua.edu.cn>
+To: qiu@ccert.edu.cn
+References: <305338162.11542@mail.tsinghua.edu.cn>
+Subject: =?gb2312?B?UmU6IMLttO+808u5vNPKtdTasrvU9cO00fk=?=
+Date: Mon, 10 Jan 2005 15:26:45 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_01DC_01C4F728.CB7D1020"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2800.1106
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1106
+X-UIDL: i0e!!*fK"!hGc"!(?;"!
+
+没有超人特工队好看的动画片多了去了，哪有你这样的逻辑
+: 这和年纪大不大有什么关系呢？
+: 难道以这是给小孩看的电影为借口就能为电影拍的烂开脱吗？很多电影都是动画片，都是给小孩看的，那么sherk,狮子王、海底总动员、超人特工队总该是给小孩拍的吧，难道这些电影的情节也像“马”一样让人向前快进拖着看都觉得乏味，只剩下一群造型在那里蹦蹦跳跳耍宝吗？说
+: 给小朋友看并不是借口，小朋友也懂得什么好，什么不好。随便找个看过这些动画片的小朋友问问他“马”好看还是“超”好看，你看看他会怎么回答，用膝盖想都想的出来。
+: ...................
+

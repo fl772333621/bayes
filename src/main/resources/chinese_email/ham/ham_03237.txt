@@ -1,0 +1,29 @@
+Return-Path: <weng@sina.com>
+Received: from sina.com (sina187-158.sina.com.cn [202.106.187.158] (may be forged))
+	by home.ccert.edu.cn (8.13.1/8.13.1) with SMTP id j2834luD030465
+	for <weng@ccert.edu.cn>; Tue, 8 Mar 2005 11:04:51 +0800
+Message-Id: <200503080304.j2834luD030465@home.ccert.edu.cn>
+Received: (qmail 75561 invoked from network); 8 Mar 2005 03:16:26 -0000
+Received: from unknown (HELO ibm-t23) (219.224.134.126)
+  by 202.106.187.158 with SMTP; 8 Mar 2005 03:16:26 -0000
+Received: from(cheriff@sina.com) to(qa@ccert.edu.cn)
+Date: Tue, 8 Mar 2005 11:06:46 +0800
+From: "weng" <weng@sina.com>
+To: weng@ccert.edu.cn
+Subject: =?gb2312?B?UmU6IKH+xOO/vMnP0dC+v8n6o6zO0r7NvN64+MTjo6yjrMTj1LjS4te3x/PV4tH5tcTFrsjLwvCj
+vw==?=
+X-mailer: Foxmail 5.0 [cn]
+Mime-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: 8bit
+X-MIME-Autoconverted: from base64 to 8bit by home.ccert.edu.cn id j2834luD030465
+X-UIDL: J16"!1`W"!6&0"!D^N"!
+
+并不是只有是研究生才能学会爱 而是读了研究生后你能给她更长久的爱情
+ 现实世界的爱情不是单纯的两情相悦就足够啊 如果两人能有一定的物质基础做保证 这
+样未来的爱情尤其是婚姻能走得更幸福长久
+ 不要以为爱一个人就是单纯地去给她你的爱 要能让她看到未来你们爱情的希望
+【 在 l824 (守着阳光守着你) 的作中提到: 】
+难到我是研究生我才会学会怎么爱你，怎么和你共度一生吗？
+

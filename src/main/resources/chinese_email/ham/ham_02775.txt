@@ -1,0 +1,55 @@
+Return-Path: <zheng@compass.net.edu.cn>
+Received: from tsinghua.org.cn ([210.77.143.228])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id i9A23wlv022038
+	for <luo@ccert.edu.cn>; Sun, 10 Oct 2004 10:04:01 +0800
+Received: (eyou send program); Sun, 10 Oct 2004 10:14:39 +0800
+Received: (eyou send program); Sun, 10 Oct 2004 10:14:37 +0800
+X-EYOU-ORIGINAL-IP: 202.38.99.65
+X-EYOU-ENVELOPE-MAILFROM: toefl-bounces@server.cool-meeting.com
+Received: from unknown (HELO server.cool-meeting.com) (unknown@202.38.99.65)
+ by 210.77.143.228 with SMTP; Sun, 10 Oct 2004 10:14:37 +0800
+Received: from server.cool-meeting.com (localhost.localdomain [127.0.0.1])
+	by server.cool-meeting.com (8.12.8/8.12.8) with ESMTP id i9A283lX011067
+	for <luo@ccert.edu.cn>; Sun, 10 Oct 2004 10:08:09 +0800
+Received: from compass.net.edu.cn ([202.112.0.90])
+	by server.cool-meeting.com (8.12.8/8.12.8) with ESMTP id i9A280kr011063
+	for <luo@ccert.edu.cn>; Sun, 10 Oct 2004 10:08:00 +0800
+Received: from [210.25.128.113] ([210.25.128.113])
+	by compass.net.edu.cn (8.9.2/8.9.2) with ESMTP id KAA11895
+	for <luo@ccert.edu.cn>;
+	Sun, 10 Oct 2004 10:03:42 +0800 (CST)
+Message-ID: <41689771.2060501@compass.net.edu.cn>
+Date: Sun, 10 Oct 2004 09:59:13 +0800
+From: Shaozhi Ye <zheng@compass.net.edu.cn>
+User-Agent: Mozilla Thunderbird 0.8 (Windows/20040913)
+X-Accept-Language: en-us, en
+MIME-Version: 1.0
+To: luo@ccert.edu.cn
+Content-Type: text/plain; charset=GB2312
+Content-Transfer-Encoding: 8bit
+Cc: 
+Subject: =?gb2312?B?UmU6IMTjw8e+9bXDztLV4tH5usPC8KO/uPi149LivPs=?=
+X-BeenThere: toefl@server.cool-meeting.com
+X-Mailman-Version: 2.1.2
+Precedence: list
+List-Id: &#26446;&#26143;&#21644;&#20182;&#30340;&#23398;&#29983;&#20204;
+	<toefl.server.cool-meeting.com>
+List-Unsubscribe: <http://server.cool-meeting.com/mailman/listinfo/toefl>,
+	<mailto:toefl-request@server.cool-meeting.com?subject=unsubscribe>
+List-Archive: <http://server.cool-meeting.com/mailman/private/toefl>
+List-Post: <mailto:toefl@server.cool-meeting.com>
+List-Help: <mailto:toefl-request@server.cool-meeting.com?subject=help>
+List-Subscribe: <http://server.cool-meeting.com/mailman/listinfo/toefl>,
+	<mailto:toefl-request@server.cool-meeting.com?subject=subscribe>
+Sender: toefl-bounces@server.cool-meeting.com
+Errors-To: toefl-bounces@server.cool-meeting.com
+X-UIDL: c26!!LN[!!LmY"!,+6!!
+
+我觉得挺好，
+是我一直追求的生活方式，羡慕ing
+但是，有没有为以后年纪大了做打算什么的，你父母也是担心这个吧
+: 自己没工作，做的是自由职业吧，很多时间在家里。收入还过得去，能养活自己。不过家里人老不同意，老想让我去那种大的国企，钱不多，但是稳定，觉得什么社保都有。
+: 可我根本不喜欢天天在办公室里做着。觉得烦。而且我打算自己买保险什么的。
+: 嗯，我想知道大家对这样有什么看法没？
+: ...................
+

@@ -1,0 +1,114 @@
+Return-Path: <liu@zgsite.com>
+Received: from zgsite.com ([61.152.93.15])
+	by home.ccert.edu.cn (MIMEDefang) with ESMTP id NOQUEUE
+	for <cheng@ccert.edu.cn>; Thu, 02 Jun 2005 14:47:10 +0800 (CST)
+Received: from 中国建站服务 [210.21.209.203] by zgsite.com with ESMTP
+  (SMTPD32-8.10) id AF1B611C66; Thu, 02 Jun 2005 15:02:51 +0800
+Reply-To: "liu"<liu@szshowp.com>
+From: 中国建站服务网<liu@zgsite.com>
+To: cheng@ccert.edu.cn
+Subject: =?gb2312?B?0/LD+7/VvOTM2LzboaK5+sTa0/LD+zYw1Ko=?=
+Date: Thu,2 Jun 2005 15:02:30 +0800
+Return-Path: 中国建站服务网<liu@zgsite.com>
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	boundary="----=_Mail_Part_PPP_SMTP_01C11A5B.CEFD965";
+	type="multipart/alternative"
+X-MimeOLE: Produced By Microsoft MimeOLE V5.00.2615.200
+Message-Id: <200506021502359.SM00572@中国建站服务>
+
+
+
+
+BODY {
+	FONT-FAMILY: 宋体; FONT-SIZE: 9pt
+}
+TABLE {
+	FONT-FAMILY: 宋体; FONT-SIZE: 9pt
+}
+A:link {
+	COLOR: #000000; TEXT-DECORATION: none
+}
+A:visited {
+	COLOR: #000000; TEXT-DECORATION: none
+}
+A:active {
+	TEXT-DECORATION: underline
+}
+A:hover {
+	TEXT-DECORATION: underline
+}
+line {
+	LINE-HEIGHT: 150%
+}
+
+
+
+
+
+
+
+
+ 
+  
+    [ 域名注册 ] 
+  
+    
+       
+        型号
+        客户价（元/年）
+        简介
+      
+       
+        国际域名
+        70
+        国际顶级域名，代理价更优惠
+      
+       
+        国内域名
+        60
+        中国人自己的域名，价格优惠抢注中……
+      
+    
+  
+  注：本站所有域名都可由用户自己管理域名密码，DNS解析、A记录、MX记录指向管理
+    并可提供20个二级域名，任意添加三级域名。
+  
+[ 虚拟主机 ] 
+
+  
+  
+    型号
+    客户价
+    简介
+  
+    经济A型
+    100元/年
+    100M空间，支持HTML，赠送50M企业邮局
+  
+      普及A型
+      150元/年
+      100M空间，支持ASP、ACCESS、赠送50M企业邮局
+    
+  
+      企业A型
+    240元/年
+      200M空间，支持ASP、CGI、PHP、.NET，支持ACCESS，赠送100M企业邮局
+    
+  
+    专业A型
+      780元/年
+      500M空间，支持ASP、ACCESS、SQLSERVER，赠送100M企业邮局
+    
+注：以上空间都支持用户自由进行：FTP密码修改、域名绑定、邮箱开设等，
+  并可免费试用一个星期，用户满意后再付款
+
+
+  更多资料请访问中国建站服务网：www.zgsite.com
+  
+  
+  　　　 24小时服务热线：013714093246
+---------------------------------------------------------
+  如果您不希望收到本邮件,请到这里退订:sale@zgsite.com 
+      
+

@@ -1,0 +1,52 @@
+Return-Path: <ke@tsinghua.edu.cn>
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j4KE0Eum024200
+	for <lu@ccert.edu.cn>; Fri, 20 May 2005 22:00:14 +0800 (CST)
+Received: (eyou send program); Fri, 20 May 2005 21:42:17 +0800
+Message-ID: <316596537.21190@mail.tsinghua.edu.cn>
+Received: from unknown (HELO mail.tsinghua.edu.cn) (unknown@127.0.0.1)
+ by 127.0.0.1 with SMTP; Fri, 20 May 2005 21:42:17 +0800
+X-scanvirus: By Symantec Scan Engine
+X-scanresult: NOREP
+Received: (eqmail ); 20 May 2005 13:42:16 -0000
+Received: from th042126.ip.tsinghua.edu.cn (HELO sony) (duanhx@59.66.42.126)
+  by localhost with SMTP; 20 May 2005 13:42:16 -0000
+Message-ID: <014001c55d44$3a03bd10$5618423b@sony>
+From: "ke" <ke@tsinghua.edu.cn>
+To: lu@ccert.edu.cn
+References: <316583068.24939@mail.tsinghua.edu.cn>
+Subject: Re: HOWTO: Automate downloading of chinese_rules.cf 
+Date: Fri, 20 May 2005 22:00:04 +0800
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2900.2180
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+Content-Transfer-Encoding: 8bit
+X-MIME-Autoconverted: from base64 to 8bit by sea.net.edu.cn id j4KE0Eum024200
+X-UIDL: 7\n!!^0~"!&VC"!R4h!!
+
+o
+: 标  题: Re: 刚才看了friends
+: 发信站: 水木社区 (Tue Jun 14 23:48:50 2005), 站内
+: 
+: monica是pp版小
+: 
+: : 看到Chandler向Monica求婚
+: : 好感动
+: : 这一刻也许是她一生中最最幸福的时刻了
+: : ...................
+: 
+: --
+: 花似伊 柳似伊    ◣◢  █ ▊█▎    ▎▍\\◥▊  ◣  ▍▍▍▂▁        ◥█▊  █
+: 叶叶声声是别离 ◥◣█◤   ▉▉     ▋◥▄▆◥    ◣▋  ◤▅    ▄     ▂ ◥  ◥
+: 雨急人更急     ◢█╲   ▕▉█      ▎  ▃         ◣▍  ▅   ▎ ▎   █▎     
+:     ╲█◤ 湘江西 楚江西  ◥◥ ╲    ▕▆▅▂▏       ▊▆▄▆▏ ▌ ▕█▌     
+:   ◢█◥◣ 万水千山远路迷            ▍▄▂▃           ▄▂▃▅  ▋   █◤    
+:     ◤◥   相逢终有期            ▅◢▊ ///              /////▊  ▌ /◤       
+: 
+: 
+: ※ 来源:·水木社区 newsmth.net·[FROM: 202.108.158.*]
+

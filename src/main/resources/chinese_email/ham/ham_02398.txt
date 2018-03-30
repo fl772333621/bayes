@@ -1,0 +1,51 @@
+Return-Path: <bi@mails.tsinghua.edu.cn>
+Received: from tsinghua.org.cn ([210.77.143.228])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id i9M2OBh1026692
+	for <ling@ccert.edu.cn>; Fri, 22 Oct 2004 10:24:12 +0800
+Received: (eyou send program); Fri, 22 Oct 2004 10:35:15 +0800
+Received: (eyou send program); Fri, 22 Oct 2004 10:35:12 +0800
+X-EYOU-ORIGINAL-IP: 202.38.99.65
+X-EYOU-ENVELOPE-MAILFROM: toefl-bounces@server.cool-meeting.com
+Received: from unknown (HELO server.cool-meeting.com) (unknown@202.38.99.65)
+ by 210.77.143.228 with SMTP; Fri, 22 Oct 2004 10:35:12 +0800
+Received: from server.cool-meeting.com (localhost.localdomain [127.0.0.1])
+	by server.cool-meeting.com (8.12.8/8.12.8) with ESMTP id i9M2UnlY031563
+	for <ling@ccert.edu.cn>; Fri, 22 Oct 2004 10:30:56 +0800
+Received: from mails.tsinghua.edu.cn (mails.tsinghua.edu.cn [166.111.8.16])
+	by server.cool-meeting.com (8.12.8/8.12.8) with SMTP id i9M2Ulkr031559
+	for <ling@ccert.edu.cn>; Fri, 22 Oct 2004 10:30:47 +0800
+Received: (eyou send program); Fri, 22 Oct 2004 10:16:40 +0800
+Message-ID: <298411400.03709@mails.tsinghua.edu.cn>
+Received: from 202.112.0.90 by mails.tsinghua.edu.cn with HTTP;
+	Fri, 22 Oct 2004 10:16:40 +0800
+X-WebMAIL-MUA: [202.112.0.90]
+From: "bi" <bi@mails.tsinghua.edu.cn>
+To: ling@ccert.edu.cn
+Date: Fri, 22 Oct 2004 10:16:40 +0800
+Content-Type: text/plain
+Subject: =?gb2312?B?ofEgyOe5+9fUtq/Ny7WztcS7sMrHsrvKx7fHs6O3x7Ojwum3s6O/?=
+X-BeenThere: toefl@server.cool-meeting.com
+X-Mailman-Version: 2.1.2
+Precedence: list
+Reply-To: 邵筱昕 <bi@mails.tsinghua.edu.cn>
+List-Id: &#26446;&#26143;&#21644;&#20182;&#30340;&#23398;&#29983;&#20204;
+	<toefl.server.cool-meeting.com>
+List-Unsubscribe: <http://server.cool-meeting.com/mailman/listinfo/toefl>,
+	<mailto:toefl-request@server.cool-meeting.com?subject=unsubscribe>
+List-Archive: <http://server.cool-meeting.com/mailman/private/toefl>
+List-Post: <mailto:toefl@server.cool-meeting.com>
+List-Help: <mailto:toefl-request@server.cool-meeting.com?subject=help>
+List-Subscribe: <http://server.cool-meeting.com/mailman/listinfo/toefl>,
+	<mailto:toefl-request@server.cool-meeting.com?subject=subscribe>
+Sender: toefl-bounces@server.cool-meeting.com
+Errors-To: toefl-bounces@server.cool-meeting.com
+X-UIDL: ~Hc!!9H*"!@4<!!JOD"!
+
+因为不懂程序上的问题，老公的党组织关系一直在原单位（广州）没转过来，有5、6年了
+不过一直都参加后单位（深圳）的党组织生活，也有交党费
+一直到最近单位问他登记的事情，才知道党组织关系一直没转
+他下个月就要去另一个单位了，也在深圳，是高校，他打算不填自己是党员了
+因为他怕麻烦，觉得广州的那个单位肯定把他的党组织关系都不知道扔哪里去了
+我很生气，说你这样会自动退党的，因为如果不交党费的话就会这样，他说那也没办法
+大家快给我说说自动退党有些什么严重后果吧，真受不了他这样怕麻烦的人了
+

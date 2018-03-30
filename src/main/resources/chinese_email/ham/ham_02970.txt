@@ -1,0 +1,40 @@
+Return-Path: <yuan@home.ccert.edu.cn>
+Received: from home.ccert.edu.cn (localhost [127.0.0.1])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id iB18RHQk021573;
+	Wed, 1 Dec 2004 16:27:17 +0800
+Received: (from majordomo@localhost)
+	by home.ccert.edu.cn (8.13.1/8.13.1/Submit) id iB18RHlO021572;
+	Wed, 1 Dec 2004 16:27:17 +0800
+X-Authentication-Warning: home.ccert.edu.cn: majordomo set sender to owner-ccertstaff using -f
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id iB18Pqrl021547;
+	Wed, 1 Dec 2004 16:25:52 +0800
+Received: from WHITESNOW ([220.207.88.17])
+	(authenticated bits=0)
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id iB18ch8t010293;
+	Wed, 1 Dec 2004 16:38:49 +0800 (CST)
+Message-ID: <007a01c4d781$2f3d5c40$df54cfdc@WHITESNOW>
+From: "yuan" <yuan@cernet.edu.cn>
+To: weng@ccert.edu.cn
+Cc: <han@ccert.edu.cn>
+References: <002101c4d77c$91024c60$15cb6fa6@ccertspark>
+Subject: =?gb2312?B?UmU6IExhc3QgZm91ciBkYXlz?=
+Date: Wed, 1 Dec 2004 16:38:41 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0077_01C4D7C4.376BA5A0"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2900.2180
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+Sender: owner-ccertstaff@home.ccert.edu.cn
+Precedence: bulk
+X-UIDL: LZ8!!'M/!!JK?!!H!="!
+
+加油
+没问题的
+: Last four days，仿佛还有一个世纪的漫长。
+: 当我极为专注地做事情的时候，刹那间觉得时间为我停顿，然后再一个刹那间，时间已经流逝了许多许多；在错觉与错觉之间，我彷徨徘徊、反复无常，经常因害怕而担忧，因担忧而浪费更多更多的时间。心中始终应有一种信念，而这种信念我殊为缺乏。很多诡异的情形下我是醍醐灌
+: Last four days，很短暂，沙漏的一个尽头，每写下一个字，每闪过一个无用的念头，都是一粒流失的沙子。信念站在我背后，我能看到它的影子，或许，我应该专注于自我，而不要浪费气力去捕捉它了吧。
+: ...................
+

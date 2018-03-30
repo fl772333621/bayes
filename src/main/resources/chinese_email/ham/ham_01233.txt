@@ -1,0 +1,39 @@
+Return-Path: <lu@rbl.ccert.edu.cn>
+Received: from rbl.ccert.edu.cn (rbl.ccert.edu.cn [202.112.57.71])
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id i9FLccLH013563
+	for <feng@ccert.edu.cn>; Sat, 16 Oct 2004 05:38:38 +0800 (CST)
+Received: from rbl.ccert.edu.cn (localhost.localdomain [127.0.0.1])
+	by rbl.ccert.edu.cn (8.12.11/8.12.11) with ESMTP id i9FLiDlp010288
+	for <feng@ccert.edu.cn>; Sat, 16 Oct 2004 05:44:13 +0800
+Received: (from qa@localhost)
+	by rbl.ccert.edu.cn (8.12.11/8.12.11/Submit) id i9FLiDlZ010287;
+	Sat, 16 Oct 2004 05:44:13 +0800
+Date: Sat, 16 Oct 2004 05:44:13 +0800
+Message-Id: <200410152144.i9FLiDlZ010287@rbl.ccert.edu.cn>
+Subject: =?gb2312?B?UmU6INDQvOS+4MTHuPa1pc67cHTKx8m20uLLvLCho7+jv6O/?=
+To: feng@ccert.edu.cn
+From: Tran Quang Anh <lu@cernet.edu.cn>
+Content-Type: multipart/mixed; boundary="----------=_1097876653-2811-66"
+MIME-Version: 1.0
+X-UIDL: nVd"!Q%<!!'_A!!S$5!!
+
+admire...你们都好强
+: 标  题: Re: 行间距那个单位pt是啥意思啊？？？
+: 发信站: 水木社区 (Wed Jun  8 16:42:14 2005), 站内
+: 
+: 我的正文是从8480 words减下来的
+: 系里的老师说，要求3k5到5k，你把俩加一块儿都超限了
+: : 俺努力把正文删减到100页以内……
+: 
+: 
+: --
+: Cerberus  Lv 23  HP 1490
+: 天堂的大门打开了，Cerberus狂奔而出，在距离敌人0.1cm处戛然而止，仰天长啸。从三个
+: 头的口中射出无比绚烂夺目的光芒。光芒附体，魔力倍增，赋予味方全体"Double"(双次) 
+: + "Triple"(连击)状态。
+: 由于施加的全体效果，所以作用非常大。特别是需要大量使用魔法的战斗，召唤Cerberus
+: 是十分必要的。它的自动加速(Auto-Haste)和警戒(Alert)能力对于速攻会有很大作用。
+: 
+: 
+: ※ 来源:·水木社区 newsmth.net·[FROM: 211.151.90.*]
+

@@ -1,0 +1,32 @@
+Return-Path: <wu@rbl.ccert.edu.cn>
+Received: from rbl.ccert.edu.cn (rbl.ccert.edu.cn [202.112.57.71])
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id i977e0Ui016923
+	for <xin@ccert.edu.cn>; Thu, 7 Oct 2004 15:40:00 +0800 (CST)
+Received: from rbl.ccert.edu.cn (localhost.localdomain [127.0.0.1])
+	by rbl.ccert.edu.cn (8.12.11/8.12.11) with ESMTP id i977jvV1005263
+	for <xin@ccert.edu.cn>; Thu, 7 Oct 2004 15:45:59 +0800
+Received: (from qa@localhost)
+	by rbl.ccert.edu.cn (8.12.11/8.12.11/Submit) id i977jvPX005262;
+	Thu, 7 Oct 2004 15:45:57 +0800
+Date: Thu, 7 Oct 2004 15:45:57 +0800
+Message-Id: <200410070745.i977jvPX005262@rbl.ccert.edu.cn>
+Subject: =?gb2312?B?UmU6ILbUtPPRp8n6tP3T9rXEuNDR1FvXqtTYXQ==?=
+To: xin@ccert.edu.cn
+From: Tran Quang Anh <wu@cernet.edu.cn>
+Content-Type: multipart/mixed; boundary="----------=_1097135159-996-830"
+MIME-Version: 1.0
+X-UIDL: mQW!!2[~!!\?$"!p,M"!
+
+什么叫做平等？让大学生跟民工拿一样的工资就是平等么？
+招聘单位招聘员工，招聘时并不明了该员工能给自身带来多大的价值，
+所以只能根据应聘者可以衡量的一些条件指标以及招聘者本身所需
+职位可能给公司带来的价值的平均值来制定应聘者的薪资水平，
+普遍说来，或者从经验说来，大学生总体上能给企业带来的价值大于
+民工能给企业带来的价值，所以一般都会给大学生比民工更高的薪资。
+这本来就是社会长期以来形成的一种普遍规律，跟所谓的“特殊照顾”
+一点关系都没有。
+:     转载：希望不要被拍
+: 很多人特别是大学生们都夸夸其谈所谓的人权平等,等轮到自己头上,往往就失衡了. 
+:   民工,市民,大学生都是人,都应该站在人生的同一起跑线上.特殊的照顾才是社会的病态表现. 
+: ...................
+

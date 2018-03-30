@@ -1,0 +1,39 @@
+Return-Path: <yang@withub.org>
+Received: from autoforward.mail.sohu.com ([61.135.132.166])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id j0Q6qFJx016352
+	for <su@ccert.edu.cn>; Wed, 26 Jan 2005 14:52:24 +0800
+Received: from mx23.mail.sohu.com (unknown [192.168.41.141])
+	by autoforward.mail.sohu.com (Postfix) with ESMTP id 6F8AD8E55F
+	for <su@ccert.edu.cn>; Wed, 26 Jan 2005 15:04:07 +0800 (CST)
+Received: by mx23.mail.sohu.com (Postfix)
+	id C2D9C14017; Wed, 26 Jan 2005 15:04:06 +0800 (CST)
+Delivered-To: chen741120@mx23.mail.sohu.com
+Received: from withub.org (unknown [218.80.208.20])
+	by sohumx13.sohu.com (Postfix) with SMTP id 17AB70542252
+	for <su@ccert.edu.cn>; Wed, 26 Jan 2005 15:03:53 +0800 (CST)
+Received: (qmail 35400 invoked by uid 1009); 26 Jan 2005 06:56:50 -0000
+Message-ID: <20050126065650.35399.qmail@withub.org>
+To: su@ccert.edu.cn
+Subject: =?gb2312?B?UmU6IMfXyMvM4bP20qrH86Ossruw79PWtaPQxLK7ttSjrNT1w7S+3L74xNg=?=
+From: "yang" <yang@withub.org>
+Date: Wed, 26 Jan 2005 14:56:50 +0800
+X-Priority: 3
+X-Mailer: iGENUS webmail 3.0 beta powered by wuqiong@igenus.org
+X-Originating-IP: [192.168.1.254]
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----b6b9a703c7d1c69e19ed47bfd2cb6783"
+X-Sohu-Antivirus: 0
+X-UIDL: ,LP!!1!n"!'V/!!km'!!
+
+: 要是操劳吧还可以理解，我舅对我妈根本就是掠夺
+: 我外婆去世的时候少说有10万遗产留下，还不算一个70多米的套间
+: 理所当然一分不给我妈也还罢了
+: 丧葬费全是我们家出，骨灰盒都是我妈买的
+: 这之前老人一直在我家住了10年，10年间一分钱赡养费我舅都没出过
+按理说重男轻女的人应该很不屑于在女儿家养老的阿,
+这些财产我不信你外婆专门立了遗嘱不给你妈妈,还是你妈妈不敢要,
+真的你妈妈要拿这个钱,打官司的话,你舅舅还不时什么都得不到
+只是你妈妈还是内心更愿意维护你舅舅的利益
+只不过表现成是被迫的而已
+

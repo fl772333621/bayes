@@ -1,0 +1,37 @@
+Return-Path: <wei@home.ccert.edu.cn>
+Received: from home.ccert.edu.cn (localhost [127.0.0.1])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id j3D7gWNX010530;
+	Wed, 13 Apr 2005 15:42:37 +0800
+Received: (from majordomo@localhost)
+	by home.ccert.edu.cn (8.13.1/8.13.1/Submit) id j3D7gWYQ010529;
+	Wed, 13 Apr 2005 15:42:32 +0800
+X-Authentication-Warning: home.ccert.edu.cn: majordomo set sender to owner-ccertstaff using -f
+Received: from ccertspark (tu203021.ip.tsinghua.edu.cn [166.111.203.21])
+	(authenticated bits=0)
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id j3D7gDqm010519
+	for <ou@ccert.edu.cn>; Wed, 13 Apr 2005 15:42:20 +0800
+Reply-To: <wei@cernet.edu.cn>
+From: "wei" <wei@ccert.edu.cn>
+To: ou@ccert.edu.cn
+Subject: =?gb2312?B?UmU6INXi0rvE6rXEx/PWsMDhyrejrM+jzfu21GRkbW3T0Mv5vei8+A==?=
+Date: Wed, 13 Apr 2005 15:55:21 +0800
+Message-ID: <002301c53ffe$34622ee0$15cb6fa6@ccertspark>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----------=_1113378172-4267-168"
+X-Priority: 3 (Normal)
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook, Build 10.0.6626
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.3790.181
+Importance: Normal
+X-MIME-Autoconverted: from base64 to 8bit by home.ccert.edu.cn id j3D7gMqm010525
+Sender: owner-ccertstaff@home.ccert.edu.cn
+Precedence: bulk
+X-UIDL: ?We!!@EA"!C8)"!J->!!
+
+但愿你的想法正是你要做的
+bless you and me
+: 这一年的工作历程真的很辛苦，我在这一年成熟了那么多，自己都没有想到。虽然现在的心态还算不错，但这是几经波折才得来的，其中的滋味有时连自己都体会不清楚。
+: 我不知道现在是麻木期，还是自己想的很开了，抑或是因为有了其他的精神寄托所以精神转移，也不知道当一段时间之后遇到同班同学后会是什么样的心理，不想去想，因为这不过是庸人自扰罢了。
+: 曾以为怎么这一阵子总是走霉运，但慢慢想过来其实满是自己的错，怨不得别人。也许一直走的太顺了，该是老天给我点警告的时候了，也许是他要安排我去做另外的一些事情。
+: ...................
+

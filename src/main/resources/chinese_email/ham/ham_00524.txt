@@ -1,0 +1,48 @@
+Return-Path: <xin@tsinghua.edu.cn>
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id iAT6hDrC016089
+	for <hou@ccert.edu.cn>; Mon, 29 Nov 2004 14:43:13 +0800 (CST)
+Received: (eyou send program); Mon, 29 Nov 2004 14:28:06 +0800
+Message-ID: <301709686.20347@mail.tsinghua.edu.cn>
+Received: from unknown (HELO mail.tsinghua.edu.cn) (unknown@127.0.0.1)
+ by 127.0.0.1 with SMTP; Mon, 29 Nov 2004 14:28:06 +0800
+X-scanvirus: By Symantec Scan Engine
+X-scanresult: CLEAN
+Received: (eqmail ); 29 Nov 2004 06:28:04 -0000
+Received: from unknown (HELO sony) (duanhx@166.111.204.117)
+  by localhost with SMTP; 29 Nov 2004 06:28:04 -0000
+Message-ID: <00cc01c4d5de$ac6431c0$75cc6fa6@sony>
+From: "xin" <xin@tsinghua.edu.cn>
+To: hou@ccert.edu.cn
+Subject: =?gb2312?B?UmU6INTOxMejrG1t09C147eiydWjrLWrysfL/dPWsrvP68il0r3Uug==?=
+Date: Mon, 29 Nov 2004 14:43:01 +0800
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2900.2180
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+Content-Transfer-Encoding: 8bit
+X-MIME-Autoconverted: from base64 to 8bit by sea.net.edu.cn id iAT6hDrC016089
+X-UIDL: 0Rc!!@30"!T8^!!;l#!!
+
+这一段对用药论述更详细：
+中醫將感冒主要分為風寒感冒、風熱感冒和蜊濕感冒三大類。
+    一.治療風寒感冒的藥
+    1.風寒感冒沖劑：主要用於發熱惡寒的感冒初起。
+    2.荊防沖劑：主要用於惡風寒重者或風寒感冒較重者。
+    3.感冒清：適於風寒感冒中後期發熱明顯者。
+    二.治療風熱感冒
+    1.羚翹解毒丸：適於發熱、咽痛、咽干、咳嗽症狀。
+    2.銀翹解毒片：適於風熱感冒以咽喉腫痛、小便短赤為主要表現者。
+    3.柴胡口服液：主要用於以發熱為主者。
+    4.板藍根沖劑：適於發熱，咽痛。
+    5.雙黃連口服液：主要用於發熱、咽痛為主者。
+    三.治療暑濕感冒
+    主要有午時茶顆粒、廣東涼茶、霍香正氣水、六合定中丸、十滴水、清涼片等。
+: 感冒分四大类型，所以应该是对症下药而并不是对“地域”下药吧……
+:                感冒类型的简单辨别
+:   风寒型：此类感冒比较少见，主要是冬季感冒。表现为怕冷，发热轻（或不发热），头痛，鼻塞，流清鼻涕，喉痒，咳嗽，多数是稀白痰，舌苔薄白。应选择发散风寒的药，九味羌活汤，正柴胡饮冲剂。
+: ...................
+

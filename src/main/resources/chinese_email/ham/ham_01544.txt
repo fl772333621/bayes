@@ -1,0 +1,34 @@
+Return-Path: <zhu@mails.tsinghua.edu.cn>
+Received: from mails.tsinghua.edu.cn (mails.tsinghua.edu.cn [166.111.8.16])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id iAM8iBJO009002
+	for <lei@ccert.edu.cn>; Mon, 22 Nov 2004 16:44:11 +0800 (CST)
+Received: (eyou send program); Mon, 22 Nov 2004 16:38:52 +0800
+Message-ID: <301112732.28167@mails.tsinghua.edu.cn>
+Received: from unknown (HELO mails.tsinghua.edu.cn) (unknown@127.0.0.1)
+ by 127.0.0.1 with SMTP; Mon, 22 Nov 2004 16:38:52 +0800
+X-scanvirus: By Symantec Scan Engine
+X-scanresult: CLEAN
+Received: (eqmail ); 22 Nov 2004 08:38:48 -0000
+Received: from tu203210.tsinghua.edu.cn (HELO xiner) (xwang03@166.111.203.210)
+  by mails.tsinghua.edu.cn with SMTP; 22 Nov 2004 08:38:48 -0000
+Message-ID: <002301c4d06f$66a122c0$d2cb6fa6@xiner>
+From: "zhu" <zhu@mails.tsinghua.edu.cn>
+To: lei@ccert.edu.cn
+Subject: =?gb2312?B?UmU6INKwwvnFrtPRw9i8rqO6TU3Q3sDtsru51MDPuau1xL7FtPO/4dDMKHp6KQ==?=
+Date: Mon, 22 Nov 2004 16:43:40 +0800
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="----=_NextPart_000_001F_01C4D0B2.6C70BBA0"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2900.2180
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+X-UIDL: k"N!!&*F"!XM=!!bPN!!
+Status: RO
+
+en,可以学习领会精神，举一反三
+: 1、在和老公吵架后，可以放下面子原谅老公，并告诉他老公是一家之主一切都听他的。第二天早上为其准备丰盛早餐，在早餐中加入泻药一份。 
+: 　　2、在老公出现要夜不归家的预兆时，可以把老公所有的衣服全都洗一遍，包括内衣袜子鞋和老公身上所有衣物。在老公出门前从盆里将衣服捞出晾干，而且赔礼道歉，并告诉他你可以陪他在家。 
+: 　　3、当老公在外乱花钱时，你可偷偷的将老公银行存款转移在自己名下，并找机会要走老公身上所有现金。当老公有反对意见时就可以将银行卡摔在他面前，并告诉他从今天开始你不管帐了。 
+: ...................
+

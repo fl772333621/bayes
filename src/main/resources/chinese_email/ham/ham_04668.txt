@@ -1,0 +1,53 @@
+Return-Path: <ma@compass.net.edu.cn>
+Received: from tsinghua.org.cn ([210.77.143.228])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id i8K52sfc003857
+	for <lin@ccert.edu.cn>; Mon, 20 Sep 2004 13:02:55 +0800
+Received: (eyou send program); Mon, 20 Sep 2004 13:12:47 +0800
+Received: (eyou send program); Mon, 20 Sep 2004 13:12:41 +0800
+X-EYOU-ORIGINAL-IP: 202.38.99.65
+X-EYOU-ENVELOPE-MAILFROM: toefl-bounces@server.cool-meeting.com
+Received: from unknown (HELO server.cool-meeting.com) (unknown@202.38.99.65)
+ by 210.77.143.228 with SMTP; Mon, 20 Sep 2004 13:12:41 +0800
+Received: from server.cool-meeting.com (localhost.localdomain [127.0.0.1])
+	by server.cool-meeting.com (8.12.8/8.12.8) with ESMTP id i8K52Rlf009066
+	for <lin@ccert.edu.cn>; Mon, 20 Sep 2004 13:02:33 +0800
+Received: from compass.net.edu.cn ([202.112.0.90])
+	by server.cool-meeting.com (8.12.8/8.12.8) with ESMTP id i8K52Pkr009062
+	for <lin@ccert.edu.cn>; Mon, 20 Sep 2004 13:02:25 +0800
+Received: from [210.25.128.113] ([210.25.128.113])
+	by compass.net.edu.cn (8.9.2/8.9.2) with ESMTP id NAA18129
+	for <lin@ccert.edu.cn>;
+	Mon, 20 Sep 2004 13:01:30 +0800 (CST)
+Message-ID: <414E6342.4000009@compass.net.edu.cn>
+Date: Mon, 20 Sep 2004 12:57:38 +0800
+From: Shaozhi Ye <ma@compass.net.edu.cn>
+User-Agent: Mozilla Thunderbird 0.8 (Windows/20040913)
+X-Accept-Language: en-us, en
+MIME-Version: 1.0
+To: lin@ccert.edu.cn
+Content-Type: text/plain; charset=gb2312
+Content-Transfer-Encoding: 8bit
+X-MIME-Autoconverted: from quoted-printable to 8bit by server.cool-meeting.com
+	id i8K52Pkr009062
+Cc: 
+Subject: [TOEFL] [Fwd: Biometric =?gb2312?b?U2VjdXJpdHm/zrPMyrG85Lj8uMRd?=
+X-BeenThere: toefl@server.cool-meeting.com
+X-Mailman-Version: 2.1.2
+Precedence: list
+List-Id: &#26446;&#26143;&#21644;&#20182;&#30340;&#23398;&#29983;&#20204;
+	<toefl.server.cool-meeting.com>
+List-Unsubscribe: <http://server.cool-meeting.com/mailman/listinfo/toefl>,
+	<mailto:toefl-request@server.cool-meeting.com?subject=unsubscribe>
+List-Archive: <http://server.cool-meeting.com/mailman/private/toefl>
+List-Post: <mailto:toefl@server.cool-meeting.com>
+List-Help: <mailto:toefl-request@server.cool-meeting.com?subject=help>
+List-Subscribe: <http://server.cool-meeting.com/mailman/listinfo/toefl>,
+	<mailto:toefl-request@server.cool-meeting.com?subject=subscribe>
+Sender: toefl-bounces@server.cool-meeting.com
+Errors-To: toefl-bounces@server.cool-meeting.com
+X-UIDL: D%%!!Ng&!!%S8!!&Y/"!
+
+和mm相识不到一年，在一起的时间更短（因为异地读书）。曾经一次又一次约她，回报是一次又一次的拒绝。不久前，mm突然问我有没有女朋友（我这么专一如果有女朋友会这样追你吗？），又让我请她吃饭。我想可能期望已久的时刻就要来了。昨天请mm去starbuck喝咖啡，可怎么也鼓不起勇气说出想了很久的话，只是聊了一些很平淡的事情。mm今天就走了，可能最近不会再有机会见她。我真的很后悔也很苦恼。
+求各位赐教，
+我想如果先在表白是不失太仓促了（一共和mm出去也不过三四次）。如果表白的话，是不是应该等到下次见面。如果通过短信或者电话来表白是不是会不恰当啊？我真是一天都等不下去了。
+

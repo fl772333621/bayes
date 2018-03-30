@@ -1,0 +1,29 @@
+Return-Path: <tian@ccert.edu.cn>
+Received: from home.ccert.edu.cn (ccert.edu.cn [202.112.57.12])
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id iAF2wFZD026798;
+	Mon, 15 Nov 2004 10:58:15 +0800 (CST)
+Received: from sunbin_S ([202.112.50.201])
+	(authenticated bits=0)
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id iAF2jmSJ017120;
+	Mon, 15 Nov 2004 10:45:48 +0800
+Message-Id: <200411150245.iAF2jmSJ017120@home.ccert.edu.cn>
+Date: Mon, 15 Nov 2004 11:01:45 +0800
+From: "tian" <tian@ccert.edu.cn>
+Reply-To: tian@ccert.edu.cn
+To: ye@ccert.edu.cn
+Subject: =?gb2312?B?UmU6INKqtMfWsKOstPO80rDvw6az9rP21vfS4qOs0LvQu6Oh?=
+Organization: CCERT
+X-mailer: Foxmail 5.0 beta2 [cn]
+Mime-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: 8bit
+X-MIME-Autoconverted: from base64 to 8bit by sea.net.edu.cn id iAF2wFZD026798
+X-UIDL: ,Q:!!@%Z!!<*m!!D<3!!
+
+没有劳动合同？似乎你比较沾光哦，呵呵
+:     毕业快一年了，现在在一家事业单位（也可以算是国企）工作，做的不是很顺，想辞职。
+:     按照三方协议的规定，如果我违约，需向学校交纳违约金6000元整，同时也要向单位交纳，但具体金额要双方协商确定；按照劳动合同的说法，违约金为从现在算起之前一年的工资，同时规定在实习期内可随时通知解除和约，在劳动法里也有这样的说法。
+:     我现在的情况比较特殊，只在毕业的时候签了三方协议，本来在来这里之后还要签一份劳动合同，不过现在合同还都在我这里没有签。现在实际上我还处在实习期，不过没有在书面上体现出来。那天我去人事处向人事处副处长询问时，他说我现在要走需要交纳违约金，金额数目是
+: ...................
+

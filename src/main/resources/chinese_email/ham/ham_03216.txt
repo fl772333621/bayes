@@ -1,0 +1,40 @@
+Return-Path: <mo@cacs.gov.cn>
+Received: from tsinghua.org.cn ([210.77.143.228])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id i95GbvVg029851
+	for <cheng@ccert.edu.cn>; Wed, 6 Oct 2004 00:38:03 +0800
+Date: Wed, 6 Oct 2004 00:37:57 +0800
+Received: (eyou send program); Wed, 06 Oct 2004 00:48:31 +0800
+Received: (eyou send program); Wed, 06 Oct 2004 00:47:30 +0800
+X-EYOU-ORIGINAL-IP: 200.47.79.38
+X-EYOU-ENVELOPE-MAILFROM: zheng954cuib@cacs.gov.cn
+Received: from unknown (HELO tzo-ppal.empresas-yv.com) (unknown@200.47.79.38)
+ by 210.77.143.228 with SMTP; Wed, 06 Oct 2004 00:47:30 +0800
+Received: from cacs.gov.cn ([218.165.110.20]) by tzo-ppal.empresas-yv.com  with Microsoft SMTPSVC(5.5.1877.197.19);
+	 Tue, 5 Oct 2004 02:52:07 -0400
+Received: from unknown (HELO science.net [210.196.74.21])
+          by cacs.gov.cn with SMTP;
+          Tue, 05 Oct 2004 06:39:01 GMT
+Message-Id: <1096958415-@science.net>
+From: "mo" <mo@cacs.gov.cn>
+To: cheng@ccert.edu.cn
+Subject: =?gb2312?B?ofEgutrB+r2tuunU1jkyy8DG5NbQODjRp8n6IMO/tM6/tNXi0fm1xLHqzOLO0r7Nu+HP67W9tcTO
+ysziICg=?=
+Sender: zheng.lib
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="----=_NextPart_000_000B_01C4AA53.91190500"
+X-UIDL: +h7"!bAC"!d&G!!g]#"!
+
+【 以下文字转载自 NewExpress 讨论区 】
+发信人: xinai (心爱), 信区: NewExpress
+标  题: 黑龙江洪灾92死其中88学生 每次看这样的标题我就会想到的问题
+发信站: 水木社区 (Tue Jun 14 18:53:49 2005), 站内
+每次看到这种事情，我就会联想到这些父母有多么可怜
+只有一个孩子，又失去了。
+如果是孩子大了失去的，父母连再生一个的可能性都没了
+如果能允许生两个孩子对父母的冲击会小很多的
+: 中广网宁安6月13日消息（记者毕国昌 牡丹江电台记者赵凯）目前，10日下午发生在黑龙江省牡丹江地区宁安市沙兰乡长安小学的洪灾，已造成92 人死亡，其中８8名学生和４名村民死亡，失踪人数尚无法统计，这个死亡人数还可能增加。
+: 　　黑龙江省省长张左己正在洪灾现场指挥救援和抢险工作。
+: 　　张左已看到这么多孩子在洪水中遇难，十分难过，他痛心地表示，我作为省长，有不可推卸的责任，请求中央给我处分。  
+: ...................
+

@@ -1,0 +1,46 @@
+Return-Path: <gan@home.ccert.edu.cn>
+Received: from home.ccert.edu.cn (localhost [127.0.0.1])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id j0KD4Zgw002378;
+	Thu, 20 Jan 2005 21:04:35 +0800
+Received: (from majordomo@localhost)
+	by home.ccert.edu.cn (8.13.1/8.13.1/Submit) id j0KD4Zjl002377;
+	Thu, 20 Jan 2005 21:04:35 +0800
+X-Authentication-Warning: home.ccert.edu.cn: majordomo set sender to owner-ccertstaff using -f
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id j0KD4Yjs002373
+	for <che@ccert.edu.cn>; Thu, 20 Jan 2005 21:04:34 +0800
+Received: from WHITESNOW (tu203022.ip.tsinghua.edu.cn [166.111.203.22])
+	(authenticated bits=0)
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id j0KDGGCb003013
+	for <che@ccert.edu.cn>; Thu, 20 Jan 2005 21:16:17 +0800 (CST)
+Message-ID: <001401c4fef2$4789cb10$16cb6fa6@WHITESNOW>
+From: "gan" <gan@cernet.edu.cn>
+To: che@ccert.edu.cn
+Subject: =?gb2312?B?ofEgwvTXysHPo7rH5buq19S2r7uvus2157v6tcS/vNHQ18rBzw==?=
+Date: Thu, 20 Jan 2005 21:16:35 +0800
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="----=_NextPart_000_000F_01C4FF35.527D00D0"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2900.2180
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+Sender: owner-ccertstaff@home.ccert.edu.cn
+Precedence: bulk
+X-UIDL: HQl"!nm-!!>&B"!@UY"!
+
+    电路原理资料：   电路原理课本---就当送了
+     （自动化和电机）课件（内部本科用）----我花钱买的，有用呀，总结的好。
+                     笔记---以前考生清华辅导班记得，陆文娟老师主讲
+                     本科生用的习题集----我做了3遍，觉得出题思路好
+                     电路典型题解----我看了一下，主要看思路
+                     电路本科生期中期末考试题
+                     电路考研历年试题91年-2000年
+    自控原理资料（复式）：自控原理书---挺贵的，也难，清华本科用的
+                          自控原理习题集----清华自己的，主要做
+                          自控原理本科笔记----可以把握知识体系和范围
+                          自控原理考研近几年的试题
+    
+    以上资料都是我华心血收集买的，特别全。价钱350元，物有所值。
+    如有需要者，请站内联系。
+

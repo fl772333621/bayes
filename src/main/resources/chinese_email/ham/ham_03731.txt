@@ -1,0 +1,59 @@
+Return-Path: <xue@ns.6test.edu.cn>
+Received: from tsinghua.org.cn ([210.77.143.228])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id iAO0v2EG013950
+	for <zhong@ccert.edu.cn>; Wed, 24 Nov 2004 08:57:03 +0800
+Received: (eyou send program); Wed, 24 Nov 2004 09:09:47 +0800
+Received: (eyou send program); Wed, 24 Nov 2004 09:09:47 +0800
+X-EYOU-ORIGINAL-IP: 210.77.143.235
+X-EYOU-ENVELOPE-MAILFROM: toefl-bounces@server.cool-meeting.com
+Received: from unknown (HELO eyou.net) (unknown@210.77.143.235)
+ by 210.77.143.228 with SMTP; Wed, 24 Nov 2004 09:09:47 +0800
+Received: (eyou send program); Wed, 24 Nov 2004 09:04:49 +0800
+Message-ID: <301258289.25638@eyou.net>
+Received: from 202.38.99.65 by 210.77.143.235 with SMTP; Wed, 24 Nov 2004 09:04:48 +0800
+Received: from server.cool-meeting.com (localhost.localdomain [127.0.0.1])
+	by server.cool-meeting.com (8.12.8/8.12.8) with ESMTP id iAO1O8li027269
+	for <zhong@ccert.edu.cn>; Wed, 24 Nov 2004 09:24:14 +0800
+Received: from ns.6test.edu.cn ([202.38.99.18])
+	by server.cool-meeting.com (8.12.8/8.12.8) with ESMTP id iAO1O2kr027265
+	for <zhong@ccert.edu.cn>; Wed, 24 Nov 2004 09:24:02 +0800
+Received: from [202.112.3.118] (helo=IBM-E4AA49AF703)
+	by ns.6test.edu.cn with asmtp (Exim 4.12) id 1CWlzN-000HxZ-00
+	for Toefl@server.cool-meeting.com; Wed, 24 Nov 2004 09:30:33 +0800
+From: "xue" <xue@ns.6test.edu.cn>
+To: zhong@ccert.edu.cn
+X-mailer: Foxmail 4.2 [cn]
+Mime-Version: 1.0
+Content-Type: text/plain;
+      charset="GB2312"
+Date: Wed, 24 Nov 2004 9:9:4 +0800
+Message-Id: <E1CWlzN-000HxZ-00@ns.6test.edu.cn>
+Content-Transfer-Encoding: 8bit
+X-MIME-Autoconverted: from quoted-printable to 8bit by server.cool-meeting.com
+	id iAO1O2kr027265
+Cc: 
+Subject: =?gb2312?B?UmU6IEdHwu3Jz9Kqs/a5+sHLo6zO0sPH06a4w8/W1Nq94bvpwvCjvw==?=
+X-BeenThere: toefl@server.cool-meeting.com
+X-Mailman-Version: 2.1.2
+Precedence: list
+List-Id: &#26446;&#26143;&#21644;&#20182;&#30340;&#23398;&#29983;&#20204;
+	<toefl.server.cool-meeting.com>
+List-Unsubscribe: <http://server.cool-meeting.com/mailman/listinfo/toefl>,
+	<mailto:toefl-request@server.cool-meeting.com?subject=unsubscribe>
+List-Archive: <http://server.cool-meeting.com/mailman/private/toefl>
+List-Post: <mailto:toefl@server.cool-meeting.com>
+List-Help: <mailto:toefl-request@server.cool-meeting.com?subject=help>
+List-Subscribe: <http://server.cool-meeting.com/mailman/listinfo/toefl>,
+	<mailto:toefl-request@server.cool-meeting.com?subject=subscribe>
+Sender: toefl-bounces@server.cool-meeting.com
+Errors-To: toefl-bounces@server.cool-meeting.com
+X-UIDL: O`E!!ck;!!`[W!!R\G!!
+
+恩，我个人也希望你们结婚，确实看的出都很爱对方，结婚不是唯一手段，但是就目前而言应该是最好的手段了吧！不管结婚之后你是不是能马上出去这至少对你心灵上是一种很大的鼓励和安慰，对他也是。
+只是你们要面对的东西可能会比较多比较麻烦，其余的就靠相互来维系了
+bless~
+: 随着GG出国的日子越来越近，我们的心都在往下沉，感觉不知道接下来的两年怎么活下去。
+: GG是到美国读博，得四到五年，我本来今年也申请了的，但是管理类的硕士，最后虽然拿到美国几个顶尖大学的半奖，但一方面我们都是应届毕业，经济能力有限，另外一半的学费和生活费会让我们双方的家庭都很吃力；另一方面，因为是管理类的，所以学习过程中和毕业以后找工作
+: 现在他的签证都办好了，我在找到了和我现在的专业和以后要申请的方向比较接近的一个国际机构的研究性工作，已经上班两个月了，工作还比较顺利，预期两年后再去申请我今年已经拿到半奖的学校机会非常大，而且可能更容易拿到奖学金。这个国际机构和美国那几所牛校的相关专
+: ...................
+

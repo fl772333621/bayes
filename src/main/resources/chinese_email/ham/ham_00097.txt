@@ -1,0 +1,33 @@
+Return-Path: <ling@rbl.ccert.edu.cn>
+Received: from rbl.ccert.edu.cn (rbl.ccert.edu.cn [202.112.57.71])
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id i91BhqHQ004919
+	for <xu@ccert.edu.cn>; Fri, 1 Oct 2004 19:43:53 +0800 (CST)
+Received: from rbl.ccert.edu.cn (localhost.localdomain [127.0.0.1])
+	by rbl.ccert.edu.cn (8.12.11/8.12.11) with ESMTP id i91BnRFl026666
+	for <xu@ccert.edu.cn>; Fri, 1 Oct 2004 19:49:27 +0800
+Received: (from qa@localhost)
+	by rbl.ccert.edu.cn (8.12.11/8.12.11/Submit) id i91BnRAn026665;
+	Fri, 1 Oct 2004 19:49:27 +0800
+Date: Fri, 1 Oct 2004 19:49:27 +0800
+Message-Id: <200410011149.i91BnRAn026665@rbl.ccert.edu.cn>
+Subject: =?gb2312?B?ofEgzsq49s7KzOI=?=
+To: xu@ccert.edu.cn
+From: Tran Quang Anh <ling@cernet.edu.cn>
+Content-Type: multipart/mixed; boundary="----------=_1096631367-996-272"
+MIME-Version: 1.0
+X-UIDL: %%U!!X;@"!a-%#!Hc;!!
+
+我是个大龄青年，不过在感情问题总成熟不起来
+在网上征到一个女朋友，在某高校研二，我挺喜欢的
+交往起来有几点不爽：
+正式交往一个月来：
+给她买东西花掉了2000多，吃饭1000多
+当然钱虽然自己挣得不多，该花还是应该花的
+不过总觉得有些不舒服
+她总喜欢让我去她那里
+可去了不是去商场买衣服，就是去餐馆吃饭，而且还不能较差的
+让她到我那里去，她说不应该让一个女孩大热天跑
+我都快受不了了，不知道这种事怎么办？
+有经验的各位给支支招。
+谢谢。
+

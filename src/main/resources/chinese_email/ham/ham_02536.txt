@@ -1,0 +1,45 @@
+Return-Path: <jin@mails.tsinghua.edu.cn>
+Received: from mails.tsinghua.edu.cn (mails.tsinghua.edu.cn [166.111.8.16])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j3I1m9x5009335
+	for <xie@ccert.edu.cn>; Mon, 18 Apr 2005 09:48:09 +0800 (CST)
+X-scanvirus: By SOPHOS Scan Engine
+X-scanresult: CLEAN
+X-Received: th110141.ip.tsinghua.edu.cn,59.66.110.141,20050418093721
+Received: from th110141.ip.tsinghua.edu.cn (HELO xiner) (xwang03@59.66.110.141)
+  by localhost with SMTP; 18 Apr 2005 01:37:21 -0000
+Message-ID: <000a01c543b8$a3778650$8d6e423b@xiner>
+From: "jin" <jin@mails.tsinghua.edu.cn>
+To: xie@ccert.edu.cn
+Subject: =?gb2312?B?ofEg0rLLtby4uPbNy9GntcTKwsfp?=
+Date: Mon, 18 Apr 2005 09:47:52 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0007_01C543FB.B0585B40"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2800.1409
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1409
+X-UIDL: IN;!!I^U"!gLi"!P/P!!
+
+最近遇上很多.8g一下给各位phd candidates吧
+案例1, 一北理哥们,本科cs,拿全奖过来读phd.昨天大家一起包粽子才知道,这哥们
+在读了快3年的时候,转master了,现在已经开始工作了.因为学校规定,如果第一年的
+qualify没有过,如果老板支持可以转自费的master,如果过了,要转的话,必须要赔从
+第二年开始的所有的钱.于是这哥们赔了2年的钱,转了master.现在工作的很爽
+案例二, 一华中的女master,过来读phd,被老板搞的不爽.quit了,回国工作去了.在
+一物流公司.两年房子车子都有了.感叹,当初出国读什么phd啊.
+案例三, yosko大家应该都知道吧,读business的phd.后来转master了,刚刚毕业,现
+在在kpmg做咨询.而她同期的师兄师弟们,还在熬phd,还不一定能毕业....
+案例四, 一西交的哥们,本科过来读phd.一年以后qualify没过,回国去了Intel工作
+,两年后,跑过来招人了...上次在career center看见他,感慨,丫的幸好他们fail了
+我,要不现在还不知道什么时候是个头
+案例五, 上交一女孩,SAP工作一年过来读phd,读了一年,quit又回SAP去了,现在也过
+的爽,至少不象phd candidates那个时候,天天不知道自己未来在那里.
+案例六, 还是上交cs的一哥们,phd过来读了2年,quit了,回国考了上交的经管.今年
+找工作,已经签下了巴黎银行.当年和他一起读phd的那些人也在熬了3年+一年自费延
+期的情况下毕业工作了,接着在IT业里面做程序员的工作,薪水还没他高....
+案例七, 一中科大的美女过来读phd,三年了,quit,去了香港读master去了.原因是phd
+不能按时毕业,延期要自己交钱,出来工作还不好找...
+说这些是说,退学要赶快.如果自己不是想做研究的,想发财,想混社会的人,就不要读
+phd,赶快工作.如果要做研究,就好好读phd,中国科学进步还看你们.
+

@@ -1,0 +1,39 @@
+Return-Path: <xue@anti-spam.org.cn>
+Received: from autoforward.mail.sohu.com ([61.135.132.166])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id iBVF7QL1019529
+	for <huang@ccert.edu.cn>; Fri, 31 Dec 2004 23:07:27 +0800
+Received: from mx23.mail.sohu.com (unknown [192.168.41.141])
+	by autoforward.mail.sohu.com (Postfix) with ESMTP id 2B9968E9A4
+	for <huang@ccert.edu.cn>; Fri, 31 Dec 2004 23:21:43 +0800 (CST)
+Received: by mx23.mail.sohu.com (Postfix)
+	id 538EB14011; Fri, 31 Dec 2004 23:21:43 +0800 (CST)
+Delivered-To: chen741120@mx23.mail.sohu.com
+Received: from cngnu.org (unknown [211.157.2.95])
+	by sohumx04.sohu.com (Postfix) with ESMTP id B2E9D7397873
+	for <huang@ccert.edu.cn>; Fri, 31 Dec 2004 23:21:39 +0800 (CST)
+Received: from localhost (localhost [127.0.0.1])
+	by cngnu.org (Postfix) with ESMTP id 4D625CA02B
+	for <huang@ccert.edu.cn>; Fri, 31 Dec 2004 23:21:40 +0800 (CST)
+Received: from cngnu.org ([211.157.2.95])
+ by localhost (xia.cngnu.net [127.0.0.1]) (amavisd-new, port 10024) with ESMTP
+ id 29705-07 for <huang@ccert.edu.cn>; Fri, 31 Dec 2004 23:21:39 +0800 (CST)
+Received: from 127.0.0.1 (localhost [127.0.0.1])
+	by cngnu.org (Postfix) with SMTP id B4322CA023
+	for <huang@ccert.edu.cn>; Fri, 31 Dec 2004 23:21:39 +0800 (CST)
+From: "xue" <xue@anti-spam.org.cn>
+To: huang@ccert.edu.cn
+Subject: =?gb2312?B?UmU6ILGnvfTO0rHw198=?=
+X-Priority: 3
+X-Mailer: CASA IPB PHP Mailer
+Message-Id: <20041231152139.B4322CA023@cngnu.org>
+Date: Fri, 31 Dec 2004 23:21:39 +0800 (CST)
+X-Virus-Scanned: by amavisd-new using ClamAV at cngnu.net
+X-Sohu-Antivirus: 0
+X-UIDL: hX9!!<$?"!Gf?"!UcK!!
+
+bless 
+:       陈琳的《抱紧我别走》，听一次哭一次，听一百次流一百次泪。这首作品是由陈琳亲自作词，由韩国著名的音乐家作曲的一首跨国联手合作的作品，而更重要的是这首歌的主题表达的是关于两代人之间的关系和情感，也是陈琳献给刚刚由于身患癌症而不幸去世的父亲的一首歌。
+:       两代人之间的关系、情感和隔阂已经谈论了很久，陈琳想通过这首歌告诉所有的年轻人屏弃隔阂，勇敢的向自己的父母表达对他们的爱，不要等到失去了才去追忆、才去后悔。
+:       “每当窗外吹过一丝丝的微风，我就感觉到你在我身边清唱”。我并没有一个会唱歌很浪漫很慈爱的父亲，但是我相信我有一个很朴实的默默的在心里爱护自己子女的父亲。从小到大，我受到老师褒奖并且被拿来做范文朗读的文章，无一例外，全都是关于父亲的主题。
+: ...................
+

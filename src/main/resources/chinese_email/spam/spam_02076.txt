@@ -1,0 +1,18 @@
+Return-Path: <lian@eyou.com>
+Received: from djw ([61.48.141.221])
+	by home.ccert.edu.cn (MIMEDefang) with ESMTP id NOQUEUE
+	for <lin@ccert.edu.cn>; Thu, 23 Jun 2005 09:10:29 +0800 (CST)
+Message-ID: <200506230910.0.173457414308537@home.ccert.edu.cn>
+Received: from bjtl-3174418a1f [127.0.0.1] by djw ( ); 
+Date: Wed, 22 Jun 2005 20:19:09 +0800
+From: =?gb2312?B?tq3PyMn6?= <lian@eyou.com>
+To: lin@ccert.edu.cn
+Reply-To: =?gb2312?B?tq3PyMn6?= <lian@163.com>
+Subject: =?gb2312?B?1tC5+s2218q02b34zfjXqNK1zOG5qdXQyczS/dfKt/7O8Q==?=
+MIME-Version: 1.0
+X-Priority: 3
+X-MSMail-Priority: Normal
+Content-Type: multipart/alternative;
+	boundary="----_=_NextPart_000_00038525.84663194"
+
+中国投资促进网是专业为全国各地政府、开发区、企业等提供招商引资服务的网站，运行一年多来，受到了国内外投资者的广泛关注，拥有大量的国内外投资商资源及各地项目资源，我们除提供网上交流服务外，为了取得更好的效果，我们也为投资者及项目方提供网下对接交流服务。我们广泛的资源将为资金及项目双方找到理想的项目及合作伙伴节约宝贵的时间并减少开支费用，提高效率。目前我们受投资商委托寻求国内各地效益较好的项目，欢迎各地项目拥有者及政府、开发区与我们联系。加拿大投资商寻求外商投资额度在1000-2000万美元的项目，资金可在短期内到位。详细情况请登陆中国投资促进网www.invest-inchina.comb 了解。

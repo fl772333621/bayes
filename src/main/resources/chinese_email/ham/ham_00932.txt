@@ -1,0 +1,26 @@
+Return-Path: <shen@cernet.edu.cn>
+Received: from WHITESNOW ([220.192.3.195])
+	(authenticated bits=0)
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id iB2ErRs9009213
+	for <zhong@ccert.edu.cn>; Thu, 2 Dec 2004 22:53:31 +0800 (CST)
+Message-ID: <001501c4d87e$b2a2f740$c303c0dc@WHITESNOW>
+From: "shen" <shen@cernet.edu.cn>
+To: zhong@ccert.edu.cn
+References: <000701c4d142$78284bd0$18cb6fa6@CCERTDAWEI>
+Subject: =?gb2312?B?UmU6IEhpQWxsyrXPsLrP1/ctLS0t0cfQxb/GvLwo1tC5+inT0M/euavLvg==?=
+Date: Thu, 2 Dec 2004 22:53:27 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0012_01C4D8C1.BC2F22F0"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2900.2180
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+X-UIDL: <l#"!lFj"!?^_!!Ri?"!
+
+一年还要能出差，这是正式工作啊，哪里是实习。hehe
+: 公司简介  亚信科技(中国)有限公司
+:       从1993年公司创立以来，亚信公司在把信息通信技术成功转化为科技服务方面享有盛誉。亚信公司坚信：信息革命时代，中国与世界同步。亚信公司正以卓越的市场前瞻和技术创新动力推动中国信息化进程，为中国企业提供核心化的软件产品、量身定制的解决方案以及专业的服
+:       亚信公司总部位于北京，在香港、成都、广州、上海、杭州、南京等地设有分支机构和研发中心，员工2千人，年收入约10亿元人民币。2000年，亚信公司成为第一家在美国纳斯达克成功上市的中国高科技企业（NASDAQ交易代码：ASIA）。 
+: ...................
+

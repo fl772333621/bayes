@@ -1,0 +1,39 @@
+Return-Path: <liu@cernet.edu.cn>
+Received: from ccertspark (tu203021.ip.tsinghua.edu.cn [166.111.203.21])
+	(authenticated bits=0)
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id j2GA905T028955;
+	Wed, 16 Mar 2005 18:09:00 +0800 (CST)
+From: "liu" <liu@cernet.edu.cn>
+To: xue@ccert.edu.cn
+Subject: =?gb2312?B?UmU6ILGxvqm9u7TzIG9yILGxwO25pA==?=
+Date: Wed, 16 Mar 2005 18:07:29 +0800
+Message-ID: <001001c52a0f$f7139960$15cb6fa6@ccertspark>
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+X-Priority: 3 (Normal)
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook, Build 10.0.6626
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.3790.181
+Importance: Normal
+In-Reply-To: <300049396.24600@mail.tsinghua.edu.cn>
+Content-Transfer-Encoding: 8bit
+X-MIME-Autoconverted: from base64 to 8bit by sea.net.edu.cn id j2GA905T028955
+X-UIDL: 54/!!e?%"!W/H!!1F;!!
+
+如果留北京的话我还是觉得北理工比较好
+尤其是你的专业
+北京交大不是太熟悉，但是我对原铁道部的另外一所地位差不多的学校比较熟悉
+两个学校的北京差不多
+铁道部的项目确实非常多，但是主要的不在于你所从事的这个专业
+主要的项目都在铁道口，机电的如果去电气学院的话一般就是做传动
+去机械学院的话俺就不知道了，而在北理工可能就不太一样了
+当然了如果你不一定要在北京的话，我觉得西安交大是最好的选择
+这边的控制理论与控制工程还是比较牛的，这两年信号处理，机器人这一块
+也不错了，还是比较有前途的
+个人观点，仅供参考了
+: 本人北京机电控制专业博士毕业，目前联系了北方交大和北理工。
+: 学科排名：北理工》北方交大
+: 住房：北方交大》北理工
+: ...................
+

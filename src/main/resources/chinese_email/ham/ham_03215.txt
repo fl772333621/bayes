@@ -1,0 +1,66 @@
+Return-Path: <tang@home.ccert.edu.cn>
+Received: from home.ccert.edu.cn (localhost [127.0.0.1])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id j0O5j1lh026339;
+	Mon, 24 Jan 2005 13:45:01 +0800
+Received: (from majordomo@localhost)
+	by home.ccert.edu.cn (8.13.1/8.13.1/Submit) id j0O5j1u1026338;
+	Mon, 24 Jan 2005 13:45:01 +0800
+X-Authentication-Warning: home.ccert.edu.cn: majordomo set sender to owner-ccertstaff using -f
+Received: from ccertspark (tu203021.ip.tsinghua.edu.cn [166.111.203.21])
+	(authenticated bits=0)
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id j0O5j1WY026333
+	for <tu@ccert.edu.cn>; Mon, 24 Jan 2005 13:45:01 +0800
+Reply-To: <tang@cernet.edu.cn>
+From: "tang" <tang@ccert.edu.cn>
+To: tu@ccert.edu.cn
+Subject: =?gb2312?B?ofEg9+j369S2tLTI7bz+KNbQufop09DP3rmry77V0Ma4yO28/sjLssU=?=
+Date: Mon, 24 Jan 2005 13:55:06 +0800
+Message-ID: <002101c501d9$41459f60$15cb6fa6@ccertspark>
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+X-Priority: 3 (Normal)
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook, Build 10.0.6626
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.3790.181
+Importance: Normal
+Content-Transfer-Encoding: 8bit
+X-MIME-Autoconverted: from quoted-printable to 8bit by home.ccert.edu.cn id j0O5j1WY026335
+Sender: owner-ccertstaff@home.ccert.edu.cn
+Precedence: bulk
+X-UIDL: i"j"!pHe!!~'?!!eS(!!
+
+麒麟远创软件有限公司——中国市场首屈一指的业务集成技术和解决方案供货商。麒麟远创和电信、电子政务、制造业、能源和金融服务业界的专家相配合，显著地改善了跨系统、人员和交易伙伴的策略性业务流程。
+软件工程师 Software Engineer 
+电子邮箱：qilinsoft_hire@yahoo.com.cn 
+内部推荐故采用公网邮箱
+Description 
+We are looking for highly motivated individuals who can design and imple
+ment complex distributed applications,who have experience in fault toler
+ant computing, distributed network protocols,database and transaction pr
+ocessing, performance optimization of highly concurrent applications,sec
+urity integration, and user interface design and implementation.Position
+s available have varying degrees of responsibility,including technical/p
+roduct leads.Must be highly motivated to bring state-of-the-art technolo
+gy to the marketplace and capable of conceptual breakthroughs and robust
+ implementations. 
+Required Skills 
+·2+ years of product development experience. 
+·Java or C++ proficiency on Windows and UNIX. 
+·Solid OOP (design patterns,UML,etc.) 
+·Strong experience writing network/system-level programming (sockets,th
+reads,object pooling). 
+·Web Service (SOAP,JAX-RPC,UDDI,etc.) or other XML technologies. 
+·Experience in middle-ware,application server,and CORBA server technolo
+gies. 
+·Write and Speak English Fluently 
+Preferred Skills 
+·Web Server,HTTP 
+·Relational Database development experience 
+·Multiple UNIX platform experience (HP,AIX, Solaris) 
+·Web UI Development experience:JSP,ASP,java script 
+Educational Requirements 
+·BS of Computer Science or Related Field 
+·Advanced degree preferred
+ 
+

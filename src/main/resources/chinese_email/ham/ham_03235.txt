@@ -1,0 +1,25 @@
+Return-Path: <lian@rbl.ccert.edu.cn>
+Received: from rbl.ccert.edu.cn (rbl.ccert.edu.cn [202.112.57.71])
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id i96B9pZf003468
+	for <guo@ccert.edu.cn>; Wed, 6 Oct 2004 19:09:51 +0800 (CST)
+Received: from rbl.ccert.edu.cn (localhost.localdomain [127.0.0.1])
+	by rbl.ccert.edu.cn (8.12.11/8.12.11) with ESMTP id i96BFlDp024185
+	for <guo@ccert.edu.cn>; Wed, 6 Oct 2004 19:15:48 +0800
+Received: (from qa@localhost)
+	by rbl.ccert.edu.cn (8.12.11/8.12.11/Submit) id i96BFlwD024184;
+	Wed, 6 Oct 2004 19:15:47 +0800
+Date: Wed, 6 Oct 2004 19:15:47 +0800
+Message-Id: <200410061115.i96BFlwD024184@rbl.ccert.edu.cn>
+Subject: =?gb2312?B?UmU6ILK71qrOqsqyw7TX3MrHz+vG8Mv7?=
+To: guo@ccert.edu.cn
+From: Tran Quang Anh <lian@cernet.edu.cn>
+Content-Type: multipart/mixed; boundary="----------=_1097061348-996-610"
+MIME-Version: 1.0
+X-UIDL: 0e%#!FS`"!Q<$#!Y!\!!
+
+没事发什么骚
+: 嗨，换了新水木，用http登录，发文还是不习惯。
+: 不知为什么，不论忙闲，总是会想起他，总想找个人好好的哭一场。
+: 想把他忘记，却在每一天的呼吸，行走，吃饭时总会不经意的想起他，想起以前的种种温柔和伤痛，想起我为他流的泪水，想起他和他的新女朋友。想起他对我的背叛，想起我当初拥有他时的无力与疲惫。想起我每天不得不面对他的伤痛，想起所有心中的伤......
+: ...................
+

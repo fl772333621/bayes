@@ -1,0 +1,29 @@
+Return-Path: <lai@rbl.ccert.edu.cn>
+Received: from rbl.ccert.edu.cn (rbl.ccert.edu.cn [202.112.57.71])
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id i976saWD016546
+	for <zhuang@ccert.edu.cn>; Thu, 7 Oct 2004 14:54:36 +0800 (CST)
+Received: from rbl.ccert.edu.cn (localhost.localdomain [127.0.0.1])
+	by rbl.ccert.edu.cn (8.12.11/8.12.11) with ESMTP id i9770ZAG001349
+	for <zhuang@ccert.edu.cn>; Thu, 7 Oct 2004 15:00:35 +0800
+Received: (from qa@localhost)
+	by rbl.ccert.edu.cn (8.12.11/8.12.11/Submit) id i9770ZNl001348;
+	Thu, 7 Oct 2004 15:00:35 +0800
+Date: Thu, 7 Oct 2004 15:00:35 +0800
+Message-Id: <200410070700.i9770ZNl001348@rbl.ccert.edu.cn>
+Subject: =?gb2312?B?UmU6ILzH0ruyv7P2yau1xLXn07Chts7Uu6Ky2MH6obd6eg==?=
+To: zhuang@ccert.edu.cn
+From: Tran Quang Anh <lai@cernet.edu.cn>
+Content-Type: multipart/mixed; boundary="----------=_1097132435-996-824"
+MIME-Version: 1.0
+X-UIDL: QXj"!O4p!!\M-!!*MF"!
+
+这是哪门子的评论, 是2000年写了个观后感, 现在被贴出来, 还是今年突然看了片子,
+擦屁股一样补上篇评论? 现在这些脑袋上顶着"影评人"帽子的半吊子写手, 肚子里没
+半点墨水, 整天在新浪这种文盲聚集的地方连跳带骂. 写文章不是为了推介知识, 启
+发思讨, 而是为了臭拽取宠. 有这种人整日在书报电视上折腾, 也算是国内文化圈内
+的一大祸害.
+: 日期：2005-01-30] 来源：  作者：胡淑芬 [字体：大 中 小]  
+:  
+: 　　最近，总有一些人四处批评《卧虎藏龙》这部影片，把该片批得体无完肤，说它这也
+: ...................
+

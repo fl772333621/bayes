@@ -1,0 +1,34 @@
+Return-Path: <ye@rbl.ccert.edu.cn>
+Received: from rbl.ccert.edu.cn (rbl.ccert.edu.cn [202.112.57.71])
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id i9ANsTIQ024916
+	for <sun@ccert.edu.cn>; Mon, 11 Oct 2004 07:54:29 +0800 (CST)
+Received: from rbl.ccert.edu.cn (localhost.localdomain [127.0.0.1])
+	by rbl.ccert.edu.cn (8.12.11/8.12.11) with ESMTP id i9ANxkFv010155
+	for <sun@ccert.edu.cn>; Mon, 11 Oct 2004 07:59:48 +0800
+Received: (from qa@localhost)
+	by rbl.ccert.edu.cn (8.12.11/8.12.11/Submit) id i9ANxkK4010154;
+	Mon, 11 Oct 2004 07:59:46 +0800
+Date: Mon, 11 Oct 2004 07:59:46 +0800
+Message-Id: <200410102359.i9ANxkK4010154@rbl.ccert.edu.cn>
+Subject: =?gb2312?B?ofEgs8/GuMjLssU=?=
+To: sun@ccert.edu.cn
+From: Tran Quang Anh <ye@cernet.edu.cn>
+Content-Type: multipart/mixed; boundary="----------=_1097452788-1014-62"
+MIME-Version: 1.0
+X-UIDL: bp_"!T<W!!"~;"!_Jc!!
+
+由于公司业务迅速发展，Paragon Wireless诚聘人才。(www.parawireless.com)
+Paragon Wireless是宽带无线通讯领域的硅谷高科技企业在中关村设立的研发中心(北京市高新技术企业)。Paragon Wireless是由该行业的国内外精英所创建，其中包括现任IEEE 802.20工作组副主席的前NTT DoCoMo美国研究院资深副总裁，以及历任摩托罗拉中国首席代表和长信嘉总裁。因此商业开发能力强大。公司目前有一支30人左右的技术队伍，实力强劲。
+Paragon Wireless同国内外多家著名运营商,ISP,手机设计公司，以及通讯产品公司，签订了合作开发合同。与国内外多个相关企业建立了多赢的合作伙伴关系。由于业务的迅速发展，公司诚聘如下人才，如有兴趣者，请将简历发至hr@parawireless.com
+招聘对象 Speech DSP Engineer (2) 
+招聘人数 1 
+工资待遇 面议
+招聘要求 Experience: 
+- 1+ year experience in speech processing for telecommunications products Skills: - Deep knowledge of speech compression standards and algorithms: G.729(A/B), G.723.
+- Deep knowledge of speech processing algorithms: echo cancellation, speaker phone processing, error concealment, noise suppression and comfort noise generation
+- Working knowledge of putting the above algorithms into products 
+- Expereince w. embedded DSP software development using DSP IDE tools
+- Proficient in C, C++ - Proficient in Matlab modeling and simulation 
+Education: MS+ in Digital Signal Processing (speech). 
+ 
+

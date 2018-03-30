@@ -1,0 +1,37 @@
+Return-Path: <mo@sina.com>
+Received: from tsinghua.org.cn ([210.77.143.231])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id j0QGPx5D011379
+	for <lu@ccert.edu.cn>; Thu, 27 Jan 2005 00:25:59 +0800
+Received: (eyou send program); Thu, 27 Jan 2005 00:16:45 +0800
+Received: (eyou send program); Thu, 27 Jan 2005 00:16:45 +0800
+X-EYOU-ORIGINAL-IP: 210.77.143.235
+X-EYOU-ENVELOPE-MAILFROM: cheriff@sina.com
+Received: from unknown (HELO eyou.net) (unknown@210.77.143.235)
+ by 210.77.143.231 with SMTP; Thu, 27 Jan 2005 00:16:45 +0800
+Received: (eyou send program); Thu, 27 Jan 2005 00:30:23 +0800
+Message-ID: <306757023.14758@eyou.net>
+Received: from 202.106.187.156 by 210.77.143.235 with SMTP; Thu, 27 Jan 2005 00:30:23 +0800
+Received: (qmail 20038 invoked from network); 26 Jan 2005 16:37:48 -0000
+Received: from unknown (HELO ?219.224.134.126?) (219.224.134.126)
+  by 202.106.187.156 with SMTP; 26 Jan 2005 16:37:48 -0000
+Received: from(cheriff@sina.com) to(chenguangying@tsinghua.org.cn)
+Subject: =?gb2312?B?UmU6INC0uPjSqszuuN+/vNa+1Li1xMjLw8ejrLzmzLi149DQ0rW/tLeooaM=?=
+From: chenff <mo@sina.com>
+To: lu@ccert.edu.cn
+In-Reply-To: <002a01c50287$3d98c5f0$5902510a@CCERTDAWEI>
+References: <002a01c50287$3d98c5f0$5902510a@CCERTDAWEI>
+Content-Type: text/plain; charset=GB18030
+Organization: 
+Message-Id: <1106757046.4413.30.camel@localhost.localdomain>
+Mime-Version: 1.0
+X-Mailer: Ximian Evolution 1.2.2 (1.2.2-4) 
+Date: 27 Jan 2005 00:30:47 +0800
+Content-Transfer-Encoding: 8bit
+X-UIDL: ?kD"!$nY!!0m~"!QN*"!
+
+作为一般学校，专业还是挺重要的，至少行业平均收入摆在那里，热门与冷门之间相差数k是很正常的。作为清华毕业的，我觉得不必太看重专业。了不起也就是刚出去底薪低一点，在行业做到金字塔端钱肯定不少。总结一下我的结论：最好是能进入你所从事行业的top15％，如果不能的话那就进入top15％的行业。
+: 看那么多人问，很想跟大家一起探讨一下，欢迎拍砖，当然，反对谩骂。
+: 感觉这个东西跟job很有关系，好的学校加专业是找到一个好工作的开始，所以发在这，希望斑竹别珊。
+: 读了四年，考了半年研，找了半年工作的一些感想。
+: ...................
+

@@ -1,0 +1,44 @@
+Return-Path: <bi@rbl.ccert.edu.cn>
+Received: from rbl.ccert.edu.cn (rbl.ccert.edu.cn [202.112.57.71])
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id i91CitXN005157
+	for <lu@ccert.edu.cn>; Fri, 1 Oct 2004 20:44:55 +0800 (CST)
+Received: from rbl.ccert.edu.cn (localhost.localdomain [127.0.0.1])
+	by rbl.ccert.edu.cn (8.12.11/8.12.11) with ESMTP id i91CoZ6w010097
+	for <lu@ccert.edu.cn>; Fri, 1 Oct 2004 20:50:35 +0800
+Received: (from qa@localhost)
+	by rbl.ccert.edu.cn (8.12.11/8.12.11/Submit) id i91CoZRt010096;
+	Fri, 1 Oct 2004 20:50:35 +0800
+Date: Fri, 1 Oct 2004 20:50:35 +0800
+Message-Id: <200410011250.i91CoZRt010096@rbl.ccert.edu.cn>
+Subject: =?gb2312?B?ofEgoe+h76HvzNi8201QM6OstefX07TKteSjrMr9wuvP4Lv6o6zJ48/xzbeh76Hvoe8=?=
+To: lu@ccert.edu.cn
+From: Tran Quang Anh <bi@cernet.edu.cn>
+Content-Type: multipart/mixed; boundary="----------=_1096635035-996-296"
+MIME-Version: 1.0
+X-UIDL: P(%"!3'E!!~P@!!g*&!!
+
+★★★特价MP3，电子词典，数码相机，摄像头★★★
+八佰易数码商城www.800e.com.cn 是北京大学电子政务研究院下属的电子商务网站，由大学生自主经营，并于2004年在北京市工商行政管理局和北京市通信管理局进行了经营性网站的备案登记。
+八佰易数码商城主要经营MP3播放器、数码相机、U盘、移动硬盘、电子词典、摄像头、学习机、光电鼠标、数码周边产品、电脑周边产品等。所有产品质量可靠，价格低于市场价，北京市内1-24小时内免费送货上门；北京以外地区50个城市货到付款，1-3日到货。
+7日内无障碍退货，全年无忧全程免费质量保证！
+MP3/U盘：
+1.嘉星128M全功能MP3           市场价：280元   特价：188元
+2.嘉星小贝贝彩屏FM收音机MP3   市场价：450元   特价：325元
+3.爱国者V001彩屏经典MP3       市场价：499元    特价：389元
+4.华顺128M U盘                 市场价：150元    特价：98元
+5.华顺256M U盘                 市场价：260元    特价：180元
+数码相机/相机配件：
+1.紫光320万象素12倍变焦数码相机  市场价：990元  特价：699元
+2.紫光550万象素12倍变焦数码相机  市场价：1580元 特价：899元
+3.三星A400四百万象素12倍变焦相机 市场价：1980元 特价：1399元
+4.原装256M Sandisk SD/MMC存储卡  市场价：360元  特价：248元
+电子词典/学习机：
+1.文曲星CC360电子词典           市场价：260元   特价：150元
+2.诺亚舟NH3180真人发音电子词典  市场价：270元   特价：165元
+3.清华同方Halo数码学习机         市场价：980元   特价：818元
+其他产品：
+1.IBM黑色光电小鼠标              市场价：98元     特价：48元
+2.世纪飞翔130万象素带三角架摄像头 市场价：160元  特价：99元
+3.星威*菲比850毫安2×AAA充电套装 市场价：60元  特价：20元
+八佰易  www.800e.com.cn   咨询QQ：37585903  电话：010-62643398
+

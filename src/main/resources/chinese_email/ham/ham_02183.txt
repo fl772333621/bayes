@@ -1,0 +1,25 @@
+Return-Path: <su@rbl.ccert.edu.cn>
+Received: from rbl.ccert.edu.cn (rbl.ccert.edu.cn [202.112.57.71])
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id i9BDdodB005802
+	for <liao@ccert.edu.cn>; Mon, 11 Oct 2004 21:39:50 +0800 (CST)
+Received: from rbl.ccert.edu.cn (localhost.localdomain [127.0.0.1])
+	by rbl.ccert.edu.cn (8.12.11/8.12.11) with ESMTP id i9BDjEP9001624
+	for <liao@ccert.edu.cn>; Mon, 11 Oct 2004 21:45:14 +0800
+Received: (from qa@localhost)
+	by rbl.ccert.edu.cn (8.12.11/8.12.11/Submit) id i9BDjEtT001623;
+	Mon, 11 Oct 2004 21:45:14 +0800
+Date: Mon, 11 Oct 2004 21:45:14 +0800
+Message-Id: <200410111345.i9BDjEtT001623@rbl.ccert.edu.cn>
+Subject: =?gb2312?B?UmU6IM7StcTH5buqw86jrM7SuNC1vcPUw6OjoX4=?=
+To: liao@ccert.edu.cn
+From: Tran Quang Anh <su@cernet.edu.cn>
+Content-Type: multipart/mixed; boundary="----------=_1097502314-1014-116"
+MIME-Version: 1.0
+X-UIDL: $_f!!D(9"!2F\"!f-m"!
+
+:     今天看到这里的人说到了"水木社区"忙注册了一个.(ID:aimoon2005)
+: 我对于我现在的生活和以前的理想做了一下对比,相比之下,我感到迷茫!!    我要考清华!!这个是我今生不变的理想!!真的,是为了这个目标而流过泪的.   
+:     我知道我不努力,我知道自己很LAZY,但是我始终相信自己是清华的料子!   
+: ...................
+同感啊 我也是考清华啊，那大家一起加油吧！我是学中文的，不知道情况怎么样
+

@@ -1,0 +1,26 @@
+Return-Path: <lei@rbl.ccert.edu.cn>
+Received: from rbl.ccert.edu.cn (rbl.ccert.edu.cn [202.112.57.71])
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id i96EOumQ005352
+	for <shen@ccert.edu.cn>; Wed, 6 Oct 2004 22:24:56 +0800 (CST)
+Received: from rbl.ccert.edu.cn (localhost.localdomain [127.0.0.1])
+	by rbl.ccert.edu.cn (8.12.11/8.12.11) with ESMTP id i96EUrJd012252
+	for <shen@ccert.edu.cn>; Wed, 6 Oct 2004 22:30:53 +0800
+Received: (from qa@localhost)
+	by rbl.ccert.edu.cn (8.12.11/8.12.11/Submit) id i96EUrZT012251;
+	Wed, 6 Oct 2004 22:30:53 +0800
+Date: Wed, 6 Oct 2004 22:30:53 +0800
+Message-Id: <200410061430.i96EUrZT012251@rbl.ccert.edu.cn>
+Subject: =?gb2312?B?UmU6IM6qbW3X9rXE1+6689K7vP7KwqOhx+u087zSsO+w78Omo6E=?=
+To: shen@ccert.edu.cn
+From: Tran Quang Anh <lei@cernet.edu.cn>
+Content-Type: multipart/mixed; boundary="----------=_1097073053-996-670"
+MIME-Version: 1.0
+X-UIDL: g4J!!*bi!!oih"!S-^!!
+
+沼泽地是可以绕过去的，有现在的交通工具，再大的沼泽也只要几天就能绕过，但这不是沼泽地，这更象是碰到车祸，它已经造成了伤害，如果不好好治疗、恢复，可能会留下终生痛楚。
+面对  要面对  要把该做的事情做完  要做到没有遗憾和后悔
+: 你平时在森林里如果遇到一块沼泽地，你难道会跳进去而不是绕路前进吗？
+: 为什么生活里就要往里跳尼？对你有什么好处？除了你那莫名其妙的感情？
+: 感情如果是指导去服毒你也会吗？既然不会，为什么不用些理智，而单单为
+: ...................
+

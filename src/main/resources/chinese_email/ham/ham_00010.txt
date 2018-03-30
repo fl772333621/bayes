@@ -1,0 +1,35 @@
+Return-Path: <ling@smth.edu.cn>
+Received: from tsinghua.org.cn ([210.77.143.228])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id iANFcQ2u008011
+	for <yuan@ccert.edu.cn>; Tue, 23 Nov 2004 23:38:27 +0800
+Received: (eyou send program); Tue, 23 Nov 2004 23:51:12 +0800
+Received: (eyou send program); Tue, 23 Nov 2004 23:51:11 +0800
+X-EYOU-ORIGINAL-IP: 210.77.143.235
+X-EYOU-ENVELOPE-MAILFROM: svm@smth.edu.cn
+Received: from unknown (HELO eyou.net) (unknown@210.77.143.235)
+ by 210.77.143.228 with SMTP; Tue, 23 Nov 2004 23:51:11 +0800
+Received: (eyou send program); Tue, 23 Nov 2004 23:46:42 +0800
+Message-ID: <301224802.15161@eyou.net>
+Received: from 211.68.16.32 by 210.77.143.235 with SMTP; Tue, 23 Nov 2004 23:46:40 +0800
+Received: from smth.edu.cn (bbs.tsinghua.edu.cn [166.111.8.238])
+	by alpha.linux.edu.cn (8.11.6/8.11.6) with ESMTP id iANGKT607872
+	for <yuan@ccert.edu.cn>; Wed, 24 Nov 2004 00:20:30 +0800
+MIME-Version: 1.0
+Content-Type: text/plain; charset=gb2312
+Content-Transfer-Encoding: 8bit
+From: "ling" <ling@smth.edu.cn>
+To: yuan@ccert.edu.cn
+Date: Tue, 23 Nov 2004 23:51:07 +0800
+Message-Id: <1101225067.0@smth.edu.cn>
+Subject: =?gb2312?B?UmU6IL+0wcsi0arA4cq3IizQtNC019S8uszhuam49s/gt7S1xLLOv7ywyQ==?=
+X-UIDL: \G7"!,Z)!!$&4"!&`Y"!
+
+: 1.简历：
+: 　　简历是重要的，面试机会得靠好的简历来赢得，但是在整个找工作的环节里头，相对的，它不是决定性的因素。许多同学花了很多时间，做了一份华丽的，大而全的简历，我觉得不必要。首先应聘的岗位不同，对人的要求就不同，怎么能指望一份简历做好了一劳永逸呢？最好还是根据不同的用人单位以及工作岗位做必要的修改。我的简历一般会做成几个模块，投的时候在根据需要把不同模块复制粘贴在一起，省时省力。：）
+赫赫，这条很赞同。我就瞅准了那么几个公司，每个公司的简历都是单独的。视公司文化和具体情况单独写一份简历。我觉得既然要找工作，写那么四五份简历应该不难。
+B
+: 　　有不少同学喜欢在封面上打上大大的校徽，抑或是每页的页眉上“强调”一下自己的毕业院校。我觉得这样会收到负面效果。也许有的同学会有一点小小的自豪感吧，可你曾想过，如果自己毕业院校比较一般，也许对方瞄一眼就会将你的简历丢一边了；如果毕业于名校，也可能被对方理解成你在“炫”。我把毕业院校丢到了基本信息的最后一栏，不是见不得人，北大，还过得去吧。不过找过工作后的感觉就是，这个学校，有时候甚至还不如籍贯的影响大。
+: 　　hr可以说是阅人无数，什么样的牛人他们都见过，有的本身就很牛。就比方说公司S吧。面试的两位，技术部长是北大本清华硕东京大学博，曾任三星技术部经理；人力资源部科长曾参与过卫星发射的工程。在这些人面前，咱还是谦虚点好——不能叫谦虚，连谦虚的资格都没有，只能说是识相。
+: 　　hr也是人，人就会有一些观念和偏见，尤其是地域上的。倘若面试的是北京的单位，我会强调自己在北京读了４年书，很喜欢北京的生活；假如面试的是上海的单位，我会强调自己是南方人；面试的是深圳的公司，我会用粤语跟他聊几句。这样可以拉近彼此的距离。
+: 2
+

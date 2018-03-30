@@ -1,0 +1,48 @@
+Return-Path: <tu@tsinghua.edu.cn>
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id i9PEp4s6015972
+	for <cai@ccert.edu.cn>; Mon, 25 Oct 2004 22:51:04 +0800 (CST)
+Received: (eyou send program); Mon, 25 Oct 2004 22:36:29 +0800
+Message-ID: <298714989.06408@mail.tsinghua.edu.cn>
+Received: from unknown (HELO mail.tsinghua.edu.cn) (unknown@127.0.0.1)
+ by 127.0.0.1 with SMTP; Mon, 25 Oct 2004 22:36:29 +0800
+X-scanvirus: By Symantec Scan Engine
+X-scanresult: CLEAN
+Received: (eqmail ); 25 Oct 2004 14:36:26 -0000
+Received: from unknown (HELO sony) (duanhx@166.111.232.146)
+  by localhost with SMTP; 25 Oct 2004 14:36:26 -0000
+Message-ID: <005301c4baa2$082bc110$063270ca@sony>
+From: "tu" <tu@tsinghua.edu.cn>
+To: cai@ccert.edu.cn
+References: <296440622.22437@mail.tsinghua.edu.cn> <298702987.09967@mail.tsinghua.edu.cn>
+Subject: =?gb2312?B?UmU6IM7S1ebKx7z6y8DBy6Oh?=
+Date: Mon, 25 Oct 2004 22:50:54 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0050_01C4BAE5.15719960"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2900.2180
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+X-UIDL: lMD!!^:f!!'p6!!,;l"!
+
+你ms得了相思病。。。。。
+好女人有好多啊，何必单恋一枝不是花的花。
+: 标  题: 我真是贱死了！
+: 发信站: 水木社区 (Sun Jun 12 16:53:13 2005), 站内
+: 
+: 刚开始追她的时候，她的态度很暧昧，于是我陷进去了；
+: 然后，她又说不喜欢我
+: 就一直没放弃，到现在三年了
+: 去年她有了一个男友，今年分手，整个过程中，我也一直说喜欢她
+: 现在她又有男友了，男友仍然不是我，可是我忍不住又拨了她的电话......
+: 人家不接，我独自郁闷
+: 
+: 明明知道没有什么希望了，可就是走不出来，老想着她
+: 
+: 我这样的人，是不是特别特别的贱啊！
+: 有没有好办法啊？苦恼死了。
+: --
+: 
+: ※ 来源:·水木社区 http://newsmth.net·[FROM: 61.51.108.*]
+

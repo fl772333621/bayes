@@ -1,0 +1,39 @@
+Return-Path: <yang@rbl.ccert.edu.cn>
+Received: from rbl.ccert.edu.cn (rbl.ccert.edu.cn [202.112.57.71])
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id i9ELAWM1019017
+	for <wua@ccert.edu.cn>; Fri, 15 Oct 2004 05:10:32 +0800 (CST)
+Received: from rbl.ccert.edu.cn (localhost.localdomain [127.0.0.1])
+	by rbl.ccert.edu.cn (8.12.11/8.12.11) with ESMTP id i9ELG257009635
+	for <wua@ccert.edu.cn>; Fri, 15 Oct 2004 05:16:04 +0800
+Received: (from qa@localhost)
+	by rbl.ccert.edu.cn (8.12.11/8.12.11/Submit) id i9ELG2lH009634;
+	Fri, 15 Oct 2004 05:16:02 +0800
+Date: Fri, 15 Oct 2004 05:16:02 +0800
+Message-Id: <200410142116.i9ELG2lH009634@rbl.ccert.edu.cn>
+Subject: =?gb2312?B?UmU6IMqyw7S90Nf26tPDwaO/tPO80szWwtvPwqO/?=
+To: wua@ccert.edu.cn
+From: Tran Quang Anh <yang@cernet.edu.cn>
+Content-Type: multipart/mixed; boundary="----------=_1097788564-2811-56"
+MIME-Version: 1.0
+X-UIDL: >Fg"!,j3!!*O'#!doN!!
+
+这个得看个人定义了，以前我从来不觉得自己暧昧，
+后来的某一天发现哦原来这就是暧昧亚
+: 标  题: 什么叫做暧昧？大家讨论下？
+: 发信站: 水木社区 (Fri Jun 10 17:47:37 2005), 站内
+: 
+: 是那种彼此心照不宣的那种？
+: 
+: 互相拿对方取暖，而不愿意继续的那种？
+: 
+: 还是别的什么
+: 
+: --
+: Je ne veux pas travailler
+: Je ne veux pas déjeuner
+: Je veux seulement oublier
+: Et puis je fume
+: 
+: 
+: ※ 来源:·水木社区 newsmth.net·[FROM: 218.249.29.*]
+

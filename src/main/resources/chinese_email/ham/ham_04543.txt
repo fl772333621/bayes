@@ -1,0 +1,68 @@
+Return-Path: <wang@ns.6test.edu.cn>
+Received: from tsinghua.org.cn ([210.77.143.228])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id iAO0v2EG013950
+	for <lv@ccert.edu.cn>; Wed, 24 Nov 2004 08:57:03 +0800
+Received: (eyou send program); Wed, 24 Nov 2004 09:09:47 +0800
+Received: (eyou send program); Wed, 24 Nov 2004 09:09:47 +0800
+X-EYOU-ORIGINAL-IP: 210.77.143.235
+X-EYOU-ENVELOPE-MAILFROM: toefl-bounces@server.cool-meeting.com
+Received: from unknown (HELO eyou.net) (unknown@210.77.143.235)
+ by 210.77.143.228 with SMTP; Wed, 24 Nov 2004 09:09:47 +0800
+Received: (eyou send program); Wed, 24 Nov 2004 09:04:49 +0800
+Message-ID: <301258289.25638@eyou.net>
+Received: from 202.38.99.65 by 210.77.143.235 with SMTP; Wed, 24 Nov 2004 09:04:48 +0800
+Received: from server.cool-meeting.com (localhost.localdomain [127.0.0.1])
+	by server.cool-meeting.com (8.12.8/8.12.8) with ESMTP id iAO1O8li027269
+	for <lv@ccert.edu.cn>; Wed, 24 Nov 2004 09:24:14 +0800
+Received: from ns.6test.edu.cn ([202.38.99.18])
+	by server.cool-meeting.com (8.12.8/8.12.8) with ESMTP id iAO1O2kr027265
+	for <lv@ccert.edu.cn>; Wed, 24 Nov 2004 09:24:02 +0800
+Received: from [202.112.3.118] (helo=IBM-E4AA49AF703)
+	by ns.6test.edu.cn with asmtp (Exim 4.12) id 1CWlzN-000HxZ-00
+	for Toefl@server.cool-meeting.com; Wed, 24 Nov 2004 09:30:33 +0800
+From: "wang" <wang@ns.6test.edu.cn>
+To: lv@ccert.edu.cn
+X-mailer: Foxmail 4.2 [cn]
+Mime-Version: 1.0
+Content-Type: text/plain;
+      charset="GB2312"
+Date: Wed, 24 Nov 2004 9:9:4 +0800
+Message-Id: <E1CWlzN-000HxZ-00@ns.6test.edu.cn>
+Content-Transfer-Encoding: 8bit
+X-MIME-Autoconverted: from quoted-printable to 8bit by server.cool-meeting.com
+	id iAO1O2kr027265
+Cc: 
+Subject: =?gb2312?B?ofEg1dCxtLG006LT79Pv0vTI7bz+z/rK2w==?=
+X-BeenThere: toefl@server.cool-meeting.com
+X-Mailman-Version: 2.1.2
+Precedence: list
+List-Id: &#26446;&#26143;&#21644;&#20182;&#30340;&#23398;&#29983;&#20204;
+	<toefl.server.cool-meeting.com>
+List-Unsubscribe: <http://server.cool-meeting.com/mailman/listinfo/toefl>,
+	<mailto:toefl-request@server.cool-meeting.com?subject=unsubscribe>
+List-Archive: <http://server.cool-meeting.com/mailman/private/toefl>
+List-Post: <mailto:toefl@server.cool-meeting.com>
+List-Help: <mailto:toefl-request@server.cool-meeting.com?subject=help>
+List-Subscribe: <http://server.cool-meeting.com/mailman/listinfo/toefl>,
+	<mailto:toefl-request@server.cool-meeting.com?subject=subscribe>
+Sender: toefl-bounces@server.cool-meeting.com
+Errors-To: toefl-bounces@server.cool-meeting.com
+X-UIDL: O`E!!ck;!!`[W!!R\G!!
+
+招贝贝英语语音软件销售
+本人现代理贝贝英语语音软件，为了扩大销售额，为了你我能挣点外汇，特招若干销售员。
+本人与业务员达成如下合作内容
+1、业务员自行找客户销售。
+2、在本人这做业务员是兼职做的，没有任何风险和压力，可谓是一本万利的买卖。
+3、费用说明：销售员的业务提成是自己销售额的30％，通讯费、交通费自行负担。
+4、结算方式：按次结算，销售一个软件付一次提成。
+5、销售业务员加入本销售业务，本人不收任何代理费和押金，
+6、业务员找到客户后交易方式如下，一是到我这里拿走贝贝英语语音软件去卖，交软件定价的30％押金，销售出去后到我这领取销售提成，顺便退回30％的押金。客户如果决定不购买，销售员把语音软件退回给我，我把押金退回给销售员。
+7、大家能挣多少钱完全取决于自己的努力，多卖多收，少卖少收。
+8、贝贝英语语音软件介绍网址：http://maihuo.zzzg.com
+联系电话：83758617
+手机：13681475385（也接受短信）
+Email：zsjsmth@126.com
+QQ：239864822
+地址：北京海淀清河永泰园
+

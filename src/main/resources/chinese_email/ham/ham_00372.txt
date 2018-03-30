@@ -1,0 +1,43 @@
+Return-Path: <xin@chinatextile.net>
+Received: from tsinghua.org.cn ([210.77.143.231])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id j043Om7e024636
+	for <ke@ccert.edu.cn>; Tue, 4 Jan 2005 11:25:07 +0800
+Received: (eyou send program); Tue, 04 Jan 2005 11:17:24 +0800
+Received: (eyou send program); Tue, 04 Jan 2005 11:17:24 +0800
+X-EYOU-ORIGINAL-IP: 210.77.143.235
+X-EYOU-ENVELOPE-MAILFROM: beijing@chinatextile.net
+Received: from unknown (HELO eyou.net) (unknown@210.77.143.235)
+ by 210.77.143.231 with SMTP; Tue, 04 Jan 2005 11:17:24 +0800
+Received: (eyou send program); Tue, 04 Jan 2005 11:31:35 +0800
+Message-ID: <304809495.21290@eyou.net>
+Received: from 211.150.100.27 by 210.77.143.235 with SMTP; Tue, 04 Jan 2005 11:31:35 +0800
+Received: from wvooqwr5n4mdti (e-smtp2 [127.0.0.1])
+	by smtp.263xmail.com (Postfix) with ESMTP id EF28E22184
+	for <ke@ccert.edu.cn>; Tue,  4 Jan 2005 11:37:59 +0800 (CST)
+	(envelope-from beijing@chinatextile.net)
+Received: from wvooqwr5n4mdti (unknown [221.218.90.204])
+	by antispam-2 (Coremail:263(040326)) with SMTP id RUAEAJcP2kEyDlrM.1
+	for <ke@ccert.edu.cn>; Tue, 04 Jan 2005 11:38:00 +0800 (CST)
+X-TEBIE-Originating-IP: [221.218.90.204]
+Message-ID: <005001c4f20e$791093d0$4f00a8c0@wvooqwr5n4mdti>
+From: "xin" <xin@chinatextile.net>
+To: ke@ccert.edu.cn
+Subject: =?gb2312?B?UmU6IMTRtcC087zStrzIz86quLjEuLP2x664+NfUvLrC8re/ysfTprjDtcSjvw==?=
+Date: Tue, 4 Jan 2005 11:35:43 +0800
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----------=_1104809115-21636-164"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2800.1106
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1106
+X-UIDL: ?/,!!lZK"!HQX!!F*"#!
+
+你现在还在读书，在美国学生要买房还是很难的，心有余而力不足啊.
+当然，UIUC的房子很便宜，学生在那儿买房的也有。
+国内，干嘛要买市区的房子，空气差，环境乱，噪声还大。
+好房子那是在郊区。
+我家有一套房子在市区，还有一套房子在郊区湖边。当然住在湖边了，环境好
+另外，我赞成独立了就不要拿父母的钱了，就算父母有余钱，那也不要心安理得的用来付首期。那是父母的钱，不是你的（针对一个re文的说）
+: 我正准备筹钱给父母买套市区的好房子。虽然自己还在租房。
+: 有多少人和我一样的？
+

@@ -1,0 +1,55 @@
+Return-Path: <ou@mails.tsinghua.edu.cn>
+Received: from tsinghua.org.cn ([210.77.143.231])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id j0L2MwlB006137
+	for <zhou@ccert.edu.cn>; Fri, 21 Jan 2005 10:22:59 +0800
+Received: (eyou send program); Fri, 21 Jan 2005 10:13:35 +0800
+Received: (eyou send program); Fri, 21 Jan 2005 10:13:35 +0800
+X-EYOU-ORIGINAL-IP: 210.77.143.235
+X-EYOU-ENVELOPE-MAILFROM: toefl-bounces@server.cool-meeting.com
+Received: from unknown (HELO eyou.net) (unknown@210.77.143.235)
+ by 210.77.143.231 with SMTP; Fri, 21 Jan 2005 10:13:35 +0800
+Received: (eyou send program); Fri, 21 Jan 2005 10:27:25 +0800
+Message-ID: <306274445.23544@eyou.net>
+Received: from 202.38.99.65 by 210.77.143.235 with SMTP; Fri, 21 Jan 2005 10:27:22 +0800
+Received: from server.cool-meeting.com (localhost.localdomain [127.0.0.1])
+	by server.cool-meeting.com (8.12.8/8.12.8) with ESMTP id j0L0iAvA014943
+	for <zhou@ccert.edu.cn>; Fri, 21 Jan 2005 08:44:15 +0800
+Received: from mails.tsinghua.edu.cn (mails.tsinghua.edu.cn [166.111.8.16])
+	by server.cool-meeting.com (8.12.8/8.12.8) with SMTP id j0L0i4uL014940
+	for <zhou@ccert.edu.cn>; Fri, 21 Jan 2005 08:44:04 +0800
+Received: (eyou send program); Fri, 21 Jan 2005 10:32:15 +0800
+Message-ID: <306274735.18546@mails.tsinghua.edu.cn>
+Received: from 202.112.50.72 by mails.tsinghua.edu.cn with HTTP;
+	Fri, 21 Jan 2005 10:32:15 +0800
+X-WebMAIL-MUA: [202.112.50.72]
+From: "ou" <ou@mails.tsinghua.edu.cn>
+To: zhou@ccert.edu.cn
+Date: Fri, 21 Jan 2005 10:32:15 +0800
+X-Priority: 3
+Subject: Re: [TOEFL] Email address changing
+Content-Type: text/plain
+Cc: xiao@ccert.edu.cn
+X-BeenThere: toefl@server.cool-meeting.com
+X-Mailman-Version: 2.1.2
+Precedence: list
+Reply-To: shaoxiaoxin <ou@mails.tsinghua.edu.cn>
+List-Id: &#26446;&#26143;&#21644;&#20182;&#30340;&#23398;&#29983;&#20204;
+	<toefl.server.cool-meeting.com>
+List-Unsubscribe: <http://server.cool-meeting.com/mailman/listinfo/toefl>,
+	<mailto:toefl-request@server.cool-meeting.com?subject=unsubscribe>
+List-Archive: <http://server.cool-meeting.com/mailman/private/toefl>
+List-Post: <mailto:toefl@server.cool-meeting.com>
+List-Help: <mailto:toefl-request@server.cool-meeting.com?subject=help>
+List-Subscribe: <http://server.cool-meeting.com/mailman/listinfo/toefl>,
+	<mailto:toefl-request@server.cool-meeting.com?subject=subscribe>
+Sender: toefl-bounces@server.cool-meeting.com
+Errors-To: toefl-bounces@server.cool-meeting.com
+X-UIDL: kan"!9#K!!PL/!!<^3"!
+
+我gg也不让我太粘他，不过他只是说每天不要八个小时都在一起。
+两个人的关系像跷跷板吧，一边在意得多一些，另外一边就会在意得比较少。
+: 昨晚他说不希望我粘着他，太依赖他。他是THU的，我在隔壁。他说一周见三四次比较好，还说天天见的话就会审美疲劳的
+: 他还说他不希望别人管他，约束他，他说他喜欢自由，还说他比较大男子主义
+: 他要忙着赶毕业论文，昨晚送我到我们学校的东门时，我就说我自己回去好了，本来心情也不好，他本来说是要送我到我们南门，我宿舍离东门很远，离南门很近，但没有继续坚持。我走进东门，在黑暗里回转身，没有看到他的身影，泪就下来了。觉得伤心，也因为跟他有一些不太容易解决的分歧，而他又不愿让着我。sigh，睫毛膏是不防水的，在他面前把眼泪硬是忍住了，可是进了我们学校的东门，泪就止不住了，不管眼睛成什么样子了
+: ...................
+

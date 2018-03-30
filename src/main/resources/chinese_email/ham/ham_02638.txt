@@ -1,0 +1,29 @@
+Return-Path: <sun@ee.tsinghua.edu.cn>
+Received: from Unixmail5.21 (mail.ee.tsinghua.edu.cn [166.111.64.188])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id i9E112Sg027526
+	for <gong@ccert.edu.cn>; Thu, 14 Oct 2004 09:01:02 +0800 (CST)
+Received: (qmail 27784 invoked by alias); 14 Oct 2004 00:57:03 -0000
+Received: from unknown (HELO fangdan) (166.111.64.95)
+	by mail.ee.tsinghua.edu.cn with SMTP; 14 Oct 2004 08:57:03 +0800
+Message-ID: <002601c4b189$ec3b1f30$5f406fa6@fangdan>
+From: "sun" <sun@ee.tsinghua.edu.cn>
+To: gong@ccert.edu.cn
+Subject: =?gb2312?B?UmU6INC0uPjSqszuuN+/vNa+1Li1xMjLw8ejrLzmzLi149DQ0rW/tLeooaM=?=
+Date: Thu, 14 Oct 2004 09:05:39 +0800
+Organization: Tsinghua University
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="----=_NextPart_000_0022_01C4B1CC.F9EBEE50"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 5.50.4922.1500
+X-MimeOLE: Produced By Microsoft MimeOLE V5.50.4939.300
+X-Mozilla-Status2: 00000000
+
+期末要不及格自习几天就够了
+天天自习的都在mit或者普林斯顿了
+: 每个人上大学的目的都不尽相同。
+: 在北邮，你完全可以把精力放在谈谈恋爱，掺和掺和社会工作。多结交些酒肉朋友。这些经历远比学习那些没用的专业课要宝贵许多，更不用像清华孩子一样要经常惦记着自习，否则期末就不及格了。
+: 当然，清华的资源是北邮远远比不上的，所以，不得不花费些额外的力气到外面找些乐趣。
+: ...................
+

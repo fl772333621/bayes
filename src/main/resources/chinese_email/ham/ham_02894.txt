@@ -1,0 +1,29 @@
+Return-Path: <tu@cernet.edu.cn>
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id j0D78CNi030348;
+	Thu, 13 Jan 2005 15:08:13 +0800
+Received: from ccert-dijg (tu203028.ip.tsinghua.edu.cn [166.111.203.28])
+	(authenticated bits=0)
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id j0D7Ii35029948;
+	Thu, 13 Jan 2005 15:18:44 +0800 (CST)
+Message-Id: <200501130718.j0D7Ii35029948@sea.net.edu.cn>
+From: "tu" <tu@cernet.edu.cn>
+Reply-To: tu@cernet.edu.cn
+To: kong@ccert.edu.cn
+Subject: =?gb2312?B?UmU6IFvT0cfpenpdTWF4dGhvbiDl29PO5K/AwMb3INXQxrg=?=
+Organization: ccert
+X-mailer: Foxmail 4.2 [cn]
+Mime-Version: 1.0
+Content-Type: text/plain;
+      charset="GB2312"
+Date: Thu, 13 Jan 2005 15:19:14 +0800
+Content-Transfer-Encoding: 8bit
+X-MIME-Autoconverted: from quoted-printable to 8bit by home.ccert.edu.cn id j0D78CNi030348
+X-UIDL: 9I4"!P]8"!W!9"!ga8"!
+
+这个公司咋挣钱的呢？
+: Maxthon 浏览器经过多年的努力, 成为了国内外知名的浏览器品牌, 目前国内外有超过千万的用户.
+: 现在我们国内的开发运营中心已在北京设立. 我们可以为有志于促进互联网技术革新和进步的人士提供一流的工作环境和学习环境, 以及有竞争力的薪酬和成长机会. 欢迎加入 Maxthon 的队伍, 让我们一起建设一个更好的互联网服务环境, 并见证 Maxthon 未来的成长.
+: 具体招聘内容如下:
+: ...................
+

@@ -1,0 +1,39 @@
+Return-Path: <peng@rbl.ccert.edu.cn>
+Received: from rbl.ccert.edu.cn (rbl.ccert.edu.cn [202.112.57.71])
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id i97KuTBu025578
+	for <gu@ccert.edu.cn>; Fri, 8 Oct 2004 04:56:29 +0800 (CST)
+Received: from rbl.ccert.edu.cn (localhost.localdomain [127.0.0.1])
+	by rbl.ccert.edu.cn (8.12.11/8.12.11) with ESMTP id i97L2UfY020948
+	for <gu@ccert.edu.cn>; Fri, 8 Oct 2004 05:02:30 +0800
+Received: (from qa@localhost)
+	by rbl.ccert.edu.cn (8.12.11/8.12.11/Submit) id i97L2UE3020947;
+	Fri, 8 Oct 2004 05:02:30 +0800
+Date: Fri, 8 Oct 2004 05:02:30 +0800
+Message-Id: <200410072102.i97L2UE3020947@rbl.ccert.edu.cn>
+Subject: =?gb2312?B?ofEgudjT2runv9qjrLnY09q+zdK1vq3A+qOs1PXDtLDso78=?=
+To: gu@ccert.edu.cn
+From: Tran Quang Anh <peng@cernet.edu.cn>
+Content-Type: multipart/mixed; boundary="----------=_1097182950-1044-108"
+MIME-Version: 1.0
+X-UIDL: "0G!!mS!#!`Wo!!TPh!!
+
+偶一路升学顺顺当当，
+从去年半年没有走好，有现在的这种境况
+去年暑假失恋，生活开始乱乱乱
+三心二意准备考高翻，偶原来的理想是做同传，心高得很
+10月份在北京最好得一所高中实习，学生很喜欢我，老师们对我工作能力评价还是很高得
+不过，自己当初就不想做老师，而且工作很不尽心
+考研挂了，
+好的学校也错过了，面了两个大外企，都是面到最后被bs,
+去差一点儿得单位和学校，人家说，我们这里留不住你，你应该走学术这条路
+一家公办民营的学校，办学效益很好，校长很精明，很喜欢我，学校也催我签，
+当时什么条件都没讲就把三方拿过去了
+现在的状况是
+据说户口早报上去了，让我等，据说是要到6月底，7月初知道结果
+户口下来，三方上面才能盖章，否则无效
+人事老师态度很冷，我当时把品行鉴定拿过去，还有体检表都没要，
+这种情况是不是没戏了
+偶是英语专业本科，
+现在觉得特没有着罗，
+心高，现在都没有地方哭了……
+

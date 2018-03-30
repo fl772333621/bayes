@@ -1,0 +1,58 @@
+Return-Path: <tang@ns.6test.edu.cn>
+Received: from tsinghua.org.cn ([210.77.143.231])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id iBF2kC41017286
+	for <han@ccert.edu.cn>; Wed, 15 Dec 2004 10:46:14 +0800
+Received: (eyou send program); Wed, 15 Dec 2004 10:39:37 +0800
+Received: (eyou send program); Wed, 15 Dec 2004 10:39:37 +0800
+X-EYOU-ORIGINAL-IP: 210.77.143.235
+X-EYOU-ENVELOPE-MAILFROM: wanglanjia@ns.6test.edu.cn
+Received: from unknown (HELO eyou.net) (unknown@210.77.143.235)
+ by 210.77.143.231 with SMTP; Wed, 15 Dec 2004 10:39:37 +0800
+Received: (eyou send program); Wed, 15 Dec 2004 10:54:16 +0800
+Message-ID: <303079256.16677@eyou.net>
+Received: from 166.111.8.16 by 210.77.143.235 with SMTP; Wed, 15 Dec 2004 10:53:47 +0800
+Received: (eyou send program); Wed, 15 Dec 2004 10:53:54 +0800
+Message-ID: <303079233.11538@mails.tsinghua.edu.cn>
+Received: (eyou send program); Wed, 15 Dec 2004 10:53:52 +0800
+Message-ID: <303079232.72048@mails.tsinghua.edu.cn>
+Received: from unknown (HELO mails.tsinghua.edu.cn) (unknown@127.0.0.1)
+ by 127.0.0.1 with SMTP; Wed, 15 Dec 2004 10:53:52 +0800
+X-scanvirus: By Symantec Scan Engine
+X-scanresult: CLEAN
+X-Received: ccert.edu.cn,202.112.57.12,20041215105348
+Received: from ccert.edu.cn (HELO home.ccert.edu.cn) (202.112.57.12)
+  by localhost with SMTP; 15 Dec 2004 02:53:48 -0000
+Received: from home.ccert.edu.cn (localhost [127.0.0.1])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id iBF2imkD017253;
+	Wed, 15 Dec 2004 10:44:48 +0800
+Received: (from majordomo@localhost)
+	by home.ccert.edu.cn (8.13.1/8.13.1/Submit) id iBF2imql017252;
+	Wed, 15 Dec 2004 10:44:48 +0800
+X-Authentication-Warning: home.ccert.edu.cn: majordomo set sender to owner-ccertstaff using -f
+Received: from ns.6test.edu.cn (ns.6test.edu.cn [202.112.54.2])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id iBF2ilNs017248
+	for <han@ccert.edu.cn>; Wed, 15 Dec 2004 10:44:48 +0800
+Received: from tu203047.tsinghua.edu.cn ([166.111.203.47] helo=wanglanjia)
+	by ns.6test.edu.cn with asmtp (Exim 4.12)
+	id 1CePlo-000BA7-00
+	for ccertstaff@ccert.edu.cn; Wed, 15 Dec 2004 11:24:08 +0800
+Message-ID: <00cb01c4e251$f7142f20$2fcb6fa6@wanglanjia>
+From: "tang" <tang@ns.6test.edu.cn>
+To: han@ccert.edu.cn
+Subject: =?gb2312?B?UmU6IMrHztLMq9PX1snBy8Lwo7+juqOo?=
+Date: Wed, 15 Dec 2004 10:58:32 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_00C8_01C4E295.049ED8A0"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2800.1437
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1441
+Sender: owner-ccertstaff@home.ccert.edu.cn
+Precedence: bulk
+X-UIDL: L(g!!Q'_!!Um7!!ULG!!
+
+没啥，一种生活方式
+: 昨晚，和中学的同桌聊天聊到很晚，谈话间，我知道她现在的工作环境中有很多让我很诧异的人和事，在她看来，这些人和事如今是很正常的；而这对于我，似乎有点想不通，社会真的是这样子了吗？真的觉得很矛盾，还请这里有经验的人多多指点！
+: 我先说说其中的一件事情吧！我同桌有两个好朋友，男的很优秀，女的一般，两人刚在一起的时候，互相促进，彼此进步都很快，尤其是女孩，两人的差距也在一点点缩小。后来很自然两个人走进了婚姻的殿堂，男的依旧很努力的工作，自己的时间还是安排的满满的，这时候，时间一长，女孩很自然就觉得自己心理上有了落差，觉得对方忽略她，不陪她逛街，不陪她玩儿……于是，她便开始寻觅玩伴，找到了一个比她小7、8岁的大男孩，陪她逛街，陪她玩儿……俨然又找到了恋爱的感觉……而她自己家里还有老公和孩子,我觉得这个女人很不道德，而同桌则觉得: 没什么，这年头，女人都可以这样，何况男人……我简直晕倒！觉得她怎么一点是非观念都没有呢，而且思想也变得灰暗了，我这么一说，反倒遭到她的批评，说我整天固守着自己的那块一亩三分地……我无语，难道我错了吗？：（
+

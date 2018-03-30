@@ -1,0 +1,48 @@
+Return-Path: <ye@ernv.com>
+Received: from mail.ernv.com ([221.232.244.47])
+	by home.ccert.edu.cn (MIMEDefang) with ESMTP id NOQUEUE
+	for <xin@ccert.edu.cn>; Wed, 22 Jun 2005 22:56:22 +0800 (CST)
+Message-ID: <200506222256.0.437512580912081@home.ccert.edu.cn>
+Received: from [219.139.229.190]; Tue, 21 Jun 2005 23:09:34 +0800
+From: =?GB2312?B?vfDJvba+sNS3/s7x?= <ye@ernv.com>
+Subject: =?gb2312?B?saO7pMT6tcS158TULL3wyb22vrDUw+K30c/C1Ng=?=
+To: xin@ccert.edu.cn
+Content-Type: text/plain;charset="GB2312"
+Content-Transfer-Encoding: 8bit
+Reply-To: ye@ernv.com
+Date: Tue, 21 Jun 2005 23:16:21 +0800
+X-Priority: 2
+X-Mailer: Foxmail 5.0 beta2 [cn]
+
+report: 你好
+
+金山公司是领先的国内企业，金山毒霸可以保护每一台电脑系统。用户只有在安装了金山毒霸后，才能更为安全的享受电脑和网络给我们带来的乐趣和价值！
+
+软件平台：适用于简体中文 Win98/Me Win2000/XP家庭版/专业版
+软件大小：15.0M
+
+主动实时升级 :用户电脑可以在很短的时间内获,得最新病毒库。 
+ 
+抢先启动防毒 :用户电脑可以在很短的时间内获,得最新病毒库。 
+ 
+主动漏洞修复 :可扫描操作系统及各种应用软件,修补，此功能可确保用户随时保,持系统最安全状态！ 
+ 
+木马防火墙 :通过多种技术，实现对木马进程,的查杀，保网游、通信安全，更放心！ 
+
+下载地址: http://union.kingsoft.com/union/download/index.html?uid=6242
+
+
+
+金山毒霸服务
+
+详细请访问金山公司网站
+
+小王
+
+2005.6
+
+
+
+
+
+

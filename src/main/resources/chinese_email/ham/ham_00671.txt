@@ -1,0 +1,27 @@
+Return-Path: <wua@cernet.edu.cn>
+Received: from bbb-threeb (tu203030.tsinghua.edu.cn [166.111.203.30])
+	(authenticated bits=0)
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id iBT6Y6Kb019641;
+	Wed, 29 Dec 2004 14:34:06 +0800 (CST)
+Message-Id: <200412290634.iBT6Y6Kb019641@sea.net.edu.cn>
+Date: Wed, 29 Dec 2004 14:34:32 +0800
+From: "wua" <wua@cernet.edu.cn>
+To: yana@ccert.edu.cn
+Cc: "duanhx" <hou@ccert.edu.cn>
+Subject: =?gb2312?B?UmU6ILvYuem80s2lo6zRp8+wyfq77qGqoarWo9Kyt/K9zMraMjAwNMTqMTHUwjfI1dTa1tC7qsWu
+19M=?=
+Organization: Tsinghua University
+X-mailer: Foxmail 5.0 [cn]
+Mime-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: 8bit
+X-MIME-Autoconverted: from base64 to 8bit by sea.net.edu.cn id iBT6Y6Kb019641
+X-UIDL: "jJ"!j//!!1bO"!SW#!!
+
+这个郑也夫，随便baidu一下就能发现是一纯2b
+:                                 回归家庭，学习生活
+:                           ——2004年11月7日在中华女子学院的演讲   
+: 　　各位同学，各位朋友，晚上好！今天的演讲是专门为大家准备的，也就是说不打算重复我以前所做过的任何一场演讲。所以这么做，一个是我自己性格的原因，我觉得重复一件事情在智力上没有挑战性，没趣味，所以我的课程基本上教过三遍就不再教了，我要求自己不断迎接智力
+: ...................
+

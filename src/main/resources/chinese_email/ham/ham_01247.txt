@@ -1,0 +1,27 @@
+Return-Path: <li@rbl.ccert.edu.cn>
+Received: from rbl.ccert.edu.cn (rbl.ccert.edu.cn [202.112.57.71])
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id i98FhtLv011504
+	for <hua@ccert.edu.cn>; Fri, 8 Oct 2004 23:43:55 +0800 (CST)
+Received: from rbl.ccert.edu.cn (localhost.localdomain [127.0.0.1])
+	by rbl.ccert.edu.cn (8.12.11/8.12.11) with ESMTP id i98FntM2031833
+	for <hua@ccert.edu.cn>; Fri, 8 Oct 2004 23:49:56 +0800
+Received: (from qa@localhost)
+	by rbl.ccert.edu.cn (8.12.11/8.12.11/Submit) id i98Fntbf031832;
+	Fri, 8 Oct 2004 23:49:55 +0800
+Date: Fri, 8 Oct 2004 23:49:55 +0800
+Message-Id: <200410081549.i98Fntbf031832@rbl.ccert.edu.cn>
+Subject: =?gb2312?B?UmU6IMfrzsq087zSv7S5/bXEuNC+9dfu1+7X7r/WssC1xLXn07DKx8TE0Kmjvw==?=
+To: hua@ccert.edu.cn
+From: Tran Quang Anh <li@cernet.edu.cn>
+Content-Type: multipart/mixed; boundary="----------=_1097250596-26230-108"
+MIME-Version: 1.0
+X-UIDL: C:<!!-H/"!JTQ!!A['#!
+
+《羔羊的沉默》吓死我了，本来一个恐怖片都不敢看，那次是去看007之太空城的，结果
+出来这个片子，同学们都在，不好意思说走，结果，吓死了，吓死了，看过的唯一一部
+恐怖片
+: 有一个人和我说看恐怖片没感觉，要我帮他下载几部，我就不信这个邪 :)
+: 我准备给他找一找《小岛惊魂》《咒怨》(不知道I好还是II好)《群尸玩过界》，
+: 不知道还有什么大家觉得比较恐怖的，但不能太旧，像午夜凶铃这样尽人皆知的就不用了
+: ...................
+

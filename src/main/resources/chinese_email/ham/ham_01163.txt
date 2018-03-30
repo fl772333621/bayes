@@ -1,0 +1,38 @@
+Return-Path: <long@withub.org>
+Received: from autoforward.mail.sohu.com ([61.135.132.166])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id j0R1CjZu023959
+	for <he@ccert.edu.cn>; Thu, 27 Jan 2005 09:12:45 +0800
+Received: from mx23.mail.sohu.com (unknown [192.168.41.141])
+	by autoforward.mail.sohu.com (Postfix) with ESMTP id 281518EA77
+	for <he@ccert.edu.cn>; Thu, 27 Jan 2005 09:24:39 +0800 (CST)
+Received: by mx23.mail.sohu.com (Postfix)
+	id CED9414016; Thu, 27 Jan 2005 09:24:38 +0800 (CST)
+Delivered-To: chen741120@mx23.mail.sohu.com
+Received: from withub.org (unknown [218.80.208.20])
+	by sohumx13.sohu.com (Postfix) with SMTP id D44EA05BE35
+	for <he@ccert.edu.cn>; Thu, 27 Jan 2005 09:24:33 +0800 (CST)
+Received: (qmail 46827 invoked by uid 1009); 27 Jan 2005 01:16:49 -0000
+Message-ID: <20050127011649.46826.qmail@withub.org>
+To: he@ccert.edu.cn
+Subject: =?gb2312?B?UmU6IMTRtcDV4r7NysfSu7z71tPH6aO/?=
+From: "long" <long@withub.org>
+Date: Thu, 27 Jan 2005 9:16:49 +0800
+X-Priority: 3
+X-Mailer: iGENUS webmail 3.0 beta powered by wuqiong@igenus.org
+X-Originating-IP: [192.168.1.254]
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----0973427521165f310c2805ed7b8ab6fb"
+X-Sohu-Antivirus: 0
+X-UIDL: c`[!!(;B"!:@g"!1F*#!
+
+  说你衣服合身，说明他注意你的身材了，三围什么的。
+  真正的一见钟情，是不会说出来的，而是幸福充盈在心间，而且有点紧张。
+  他多大岁数了？ 感觉他对追女孩、讨好女人好像很有经验。
+  MM能到这里来问，说明MM还挺清醒的。
+  建议MM对这种人持保留态度。
+: 刚见面，他就说：你的衣服很合身。
+: 吃饭时，他说：你比照片好，比我想象的好多了（他把俺想成什么样？）
+: 他还说：和你在一起说话很高兴，觉得很幸福。
+: ...................
+

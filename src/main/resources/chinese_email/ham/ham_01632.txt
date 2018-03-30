@@ -1,0 +1,46 @@
+Return-Path: <you@mails.tsinghua.edu.cn>
+Received: from mails.tsinghua.edu.cn (mails.tsinghua.edu.cn [166.111.8.16])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id i8R9GJ0L004308
+	for <gu@ccert.edu.cn>; Mon, 27 Sep 2004 17:16:19 +0800 (CST)
+Received: (eyou send program); Mon, 27 Sep 2004 17:11:15 +0800
+Message-ID: <296276275.27033@mails.tsinghua.edu.cn>
+Received: from unknown (HELO mails.tsinghua.edu.cn) (unknown@127.0.0.1)
+ by 127.0.0.1 with SMTP; Mon, 27 Sep 2004 17:11:15 +0800
+X-scanvirus: By Symantec Scan Engine
+X-scanresult: CLEAN
+Received: (eqmail ); 27 Sep 2004 09:11:09 -0000
+Received: from unknown (HELO lulh) (xwang03@202.112.50.170)
+  by mails.tsinghua.edu.cn with SMTP; 27 Sep 2004 09:11:09 -0000
+Message-ID: <004401c4a473$49fb0b40$aa3270ca@lulh>
+From: "you" <you@mails.tsinghua.edu.cn>
+To: gu@ccert.edu.cn
+Subject: =?gb2312?B?UmU6IL+quPa4vcr0sObD5rDJICjXqtTYKQ==?=
+Date: Mon, 27 Sep 2004 17:20:50 +0800
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="----=_NextPart_000_0040_01C4A4B6.564322A0"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2800.1437
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1441
+X-UIDL: 5Y<!!TWS!!B]_!!k8o"!
+
+我暑假就要去当民工了..
+: 标  题: Re: 开个附属版面吧 (转载)
+: 发信站: 水木社区 (Thu Jun  9 20:53:59 2005), 站内
+: 
+: 我这个暑假要接触3批不同的freshman, sigh
+: : 哦
+: 
+: 
+: --
+: Cerberus  Lv 23  HP 1490
+: 天堂的大门打开了，Cerberus狂奔而出，在距离敌人0.1cm处戛然而止，仰天长啸。从三个
+: 头的口中射出无比绚烂夺目的光芒。光芒附体，魔力倍增，赋予味方全体"Double"(双次) 
+: + "Triple"(连击)状态。
+: 由于施加的全体效果，所以作用非常大。特别是需要大量使用魔法的战斗，召唤Cerberus
+: 是十分必要的。它的自动加速(Auto-Haste)和警戒(Alert)能力对于速攻会有很大作用。
+: 
+: 
+: ※ 来源:·水木社区 newsmth.net·[FROM: 211.151.90.*]
+

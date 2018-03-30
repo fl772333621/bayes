@@ -1,0 +1,25 @@
+Return-Path: <zhang@rbl.ccert.edu.cn>
+Received: from rbl.ccert.edu.cn (rbl.ccert.edu.cn [202.112.57.71])
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id i97I9PoK023762
+	for <xia@ccert.edu.cn>; Fri, 8 Oct 2004 02:09:25 +0800 (CST)
+Received: from rbl.ccert.edu.cn (localhost.localdomain [127.0.0.1])
+	by rbl.ccert.edu.cn (8.12.11/8.12.11) with ESMTP id i97IFPEM028693
+	for <xia@ccert.edu.cn>; Fri, 8 Oct 2004 02:15:26 +0800
+Received: (from qa@localhost)
+	by rbl.ccert.edu.cn (8.12.11/8.12.11/Submit) id i97IFPtK028692;
+	Fri, 8 Oct 2004 02:15:25 +0800
+Date: Fri, 8 Oct 2004 02:15:25 +0800
+Message-Id: <200410071815.i97IFPtK028692@rbl.ccert.edu.cn>
+Subject: =?gb2312?B?UmU6INX3yMvNrMil1tC5+sz6tcCyqc7vud2/tLvws7XNt6OoxNDFrrK7z96jqQ==?=
+To: xia@ccert.edu.cn
+From: Tran Quang Anh <zhang@cernet.edu.cn>
+Content-Type: multipart/mixed; boundary="----------=_1097172926-1044-62"
+MIME-Version: 1.0
+X-UIDL: 6RU"!o"'!!"mC"!n!,"!
+
+听说DEEAET有个对火车特别感兴趣的，你可以联系他试试  ：）
+: 征同样喜欢火车的朋友（男女不限）周六（6月4日）去中国铁道博物馆看看，预计是周六上午10：00出发，下午返回。铁道博物馆大部分机车和机车头都可以进去参观！
+: 门票：全票20 学生票10元
+: 路线：五道口城铁至上地站下，换629路至环形铁道，在环行铁道下车，这里有一个铁路道口。在铁路道口继续往西前行，来到一个丁字路口，这时向左走，路会越来越窄，当走到另一个铁路道口时，会发现你的左边有一条小路，路的尽头是一座很大的白色建筑（蓝房顶），这个就是�
+: ...................
+

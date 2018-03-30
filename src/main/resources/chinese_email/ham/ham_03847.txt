@@ -1,0 +1,42 @@
+Return-Path: <bai@ccert.edu.cn>
+Received: from tsinghua.org.cn ([210.77.143.231])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id j073JI3Z019370
+	for <yi@ccert.edu.cn>; Fri, 7 Jan 2005 11:19:19 +0800
+Received: (eyou send program); Fri, 07 Jan 2005 11:10:33 +0800
+Received: (eyou send program); Fri, 07 Jan 2005 11:10:32 +0800
+X-EYOU-ORIGINAL-IP: 210.77.143.235
+X-EYOU-ENVELOPE-MAILFROM: starry@ccert.edu.cn
+Received: from unknown (HELO eyou.net) (unknown@210.77.143.235)
+ by 210.77.143.231 with SMTP; Fri, 07 Jan 2005 11:10:32 +0800
+Received: (eyou send program); Fri, 07 Jan 2005 11:24:37 +0800
+Message-ID: <305068277.02653@eyou.net>
+Received: from 202.112.57.12 by 210.77.143.235 with SMTP; Fri, 07 Jan 2005 11:24:36 +0800
+Received: from starry ([202.112.50.9])
+	(authenticated bits=0)
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id j073J5HO019328;
+	Fri, 7 Jan 2005 11:19:05 +0800
+Message-Id: <200501070319.j073J5HO019328@home.ccert.edu.cn>
+Date: Fri, 7 Jan 2005 11:30:53 +0800
+From: "bai" <bai@ccert.edu.cn>
+To: yi@ccert.edu.cn
+Cc: "zhenghui" <mo@ccert.edu.cn>,
+        "chenguangying" <zhong@ccert.edu.cn>,
+        "zjwu" <kang@ccert.edu.cn>
+Subject: =?gb2312?B?UmU6ILn6xNq1xFBIRMLbzsQ=?=
+X-mailer: Foxmail 5.0 [cn]
+Mime-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: 8bit
+X-MIME-Autoconverted: from base64 to 8bit by home.ccert.edu.cn id j073JI3Z019370
+X-UIDL: ZT""!eW?!!#6K!!KB_!!
+
+水母是个好地方
+请受了歧视的海带君去别的地方孤芳自赏吧
+你比那些入了其它国家国籍的人还恶心，哪里都不要回来叫嚣。
+ps：
+1.用某所学校的论文，得出“全国phd皆...”的结论是可笑的。
+2.退一万步，即使是北大的经济，清华的工科，也一样有不求上进的，这是事实，所以，即使你拿出清华某个系某个烂博士的烂论文，也不能推广到“全国phd皆....”
+: 呵呵.没有必要回那你回什么?我觉得我说得没有错呀.你什么专业的?看来你的论文也是简单的资料堆积呀.这也叫论文........大家应该思考一下什么是论文???
+: 还有各位老兄希望你(特别是会计金融的)PHD说说你们PHD第一年学什么课程.这里居然说国内的PHD没有作业.晕!!!国内的PHD真的不用上课没有作业吗?奇怪的培养方式:)
+

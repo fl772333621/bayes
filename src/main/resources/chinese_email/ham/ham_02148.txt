@@ -1,0 +1,31 @@
+Return-Path: <bai@rbl.ccert.edu.cn>
+Received: from rbl.ccert.edu.cn (rbl.ccert.edu.cn [202.112.57.71])
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id i97DqKC0020825
+	for <wu@ccert.edu.cn>; Thu, 7 Oct 2004 21:52:20 +0800 (CST)
+Received: from rbl.ccert.edu.cn (localhost.localdomain [127.0.0.1])
+	by rbl.ccert.edu.cn (8.12.11/8.12.11) with ESMTP id i97DwJAX000738
+	for <wu@ccert.edu.cn>; Thu, 7 Oct 2004 21:58:20 +0800
+Received: (from qa@localhost)
+	by rbl.ccert.edu.cn (8.12.11/8.12.11/Submit) id i97DwJ2t000737;
+	Thu, 7 Oct 2004 21:58:19 +0800
+Date: Thu, 7 Oct 2004 21:58:19 +0800
+Message-Id: <200410071358.i97DwJ2t000737@rbl.ccert.edu.cn>
+Subject: =?gb2312?B?ofEg1dDGuMr9vt2/4s/gudjIy9Sx?=
+To: wu@ccert.edu.cn
+From: Tran Quang Anh <bai@cernet.edu.cn>
+Content-Type: multipart/mixed; boundary="----------=_1097157500-1044-14"
+MIME-Version: 1.0
+X-UIDL: KoX!!Y4j!!*pI"!RbU!!
+
+我是泰康人寿总公司信息技术部的，我们部门一个职位一直在招聘，却一直没有招到合适的人。今天借着加班的机会，我想把这个职位稍微详细的介绍一下，希望能招到合适的人。
+职位介绍：
+这个职位隶属数据仓库项目组（公司内部称BI项目组），主要工作职责是为公司的业务部门提供数据服务，包括制作报表、数据立方体、数据清单等，需要经常跟业务部门进行沟通。我们使用的主要工具为Business Objects/Cognos等。在做好本职工作的前提下，还可以了解BI项目中其他的工作例如数据仓库模型设计、ETL设计维护、数据挖掘等。
+待遇：
+我们是股份制寿险公司，公司根据市场行情提供业内相当的待遇，具体你可以跟我们的HR谈，当然不能跟IBM、HP等外企相比，想发财的就别考虑了。至于户口，公司只能申请北京市人事局的指标，因此今年的应届毕业生已经几乎没有机会解决了，这是客观条件限制的。公司可以给你办工作证，按照北京市人事局的规定在工作一定年限后走人才引进的方式。
+优势：
+保险业目前在国内还属于比较年轻的行业，还有很大的发展空间。BI（商业智能）也是IT行业的新兴方向，现在IBM、SAS都在国内强力推动这方面的业务。你既可以熟悉保险业务，又掌握BI方面的技术，会有很好的上升空间和职业发展前途。在我们公司你还有机会了解学习SAP/AS400等各种高端软件，充实你自己的知识。
+要求：
+首先要求你为人踏实，有高度的责任感，我们是服务部门，工作很烦琐，有时候甚至需要加班，需要你有良好的心态，能吃苦耐劳，有良好的沟通能力和团队合作精神，以及学习新知识和分析解决问题的能力。
+应届硕士毕业生优先，不要求你有BI方面的经验（有当然最好啦），要求有大型数据库方面的实际应用经验，了解数据仓库的体系结构。精通SQL，能写出复杂高效的SQL。最好了解一些Java相关的知识例如J2EE（JSP技术、IBM Websphere工具）、Unix的一些简单命令等。
+最后，我说了这么多，希望你能仔细考虑一下，结合自己的职业发展思路，作出自己正确的选择。希望加盟我们大家庭的请发送简历给我们负责人事招聘的伙伴lvtong@taikanglife.com，同时cc一份给我salue@126.com。
+

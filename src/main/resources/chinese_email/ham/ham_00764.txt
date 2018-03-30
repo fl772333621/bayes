@@ -1,0 +1,27 @@
+Return-Path: <che@rbl.ccert.edu.cn>
+Received: from rbl.ccert.edu.cn (rbl.ccert.edu.cn [202.112.57.71])
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id i983AKfe000722
+	for <sun@ccert.edu.cn>; Fri, 8 Oct 2004 11:10:21 +0800 (CST)
+Received: from rbl.ccert.edu.cn (localhost.localdomain [127.0.0.1])
+	by rbl.ccert.edu.cn (8.12.11/8.12.11) with ESMTP id i983GLpV020850
+	for <sun@ccert.edu.cn>; Fri, 8 Oct 2004 11:16:21 +0800
+Received: (from qa@localhost)
+	by rbl.ccert.edu.cn (8.12.11/8.12.11/Submit) id i983GLSf020849;
+	Fri, 8 Oct 2004 11:16:21 +0800
+Date: Fri, 8 Oct 2004 11:16:21 +0800
+Message-Id: <200410080316.i983GLSf020849@rbl.ccert.edu.cn>
+Subject: =?gb2312?B?UmU6IM7Sus3L/Q==?=
+To: sun@ccert.edu.cn
+From: Tran Quang Anh <che@cernet.edu.cn>
+Content-Type: multipart/mixed; boundary="----------=_1097205381-1044-228"
+MIME-Version: 1.0
+X-UIDL: 0ZW"!'d/!!L`k!!JVS"!
+
+或许会有感动，但是好像不会有激情
+或许可以在一起但是不完美。
+不过世上完美的事情太少
+: 我和她认识一年半，只有三四次见面
+: 也曾追求她，却遭拒n(n=她说对我没感觉之后我对她说我爱她的次数)次。
+: 终于皇天不负苦心人，我们毕业后都来到北京，而且在我的努力下，我们住到了一起（每人一室）。她说和我住一起放心。她对我说过好几次，找个女朋友吧，你那么多姐姐妹妹的。我说不行，我的姐姐妹妹都没有可能发展成为其它的关系，如果可以，我不会认做姐姐妹妹的。她说，
+: ...................
+

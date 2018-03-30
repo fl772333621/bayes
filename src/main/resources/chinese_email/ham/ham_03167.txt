@@ -1,0 +1,33 @@
+Return-Path: <tang@tsinghua.org.cn>
+Received: from tsinghua.org.cn ([210.77.143.228])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id i8M6ZDaa023169
+	for <yu@ccert.edu.cn>; Wed, 22 Sep 2004 14:35:14 +0800
+Received: (eyou send program); Wed, 22 Sep 2004 14:45:10 +0800
+X-EYOU-ORIGINAL-IP: 202.112.50.4
+X-EYOU-ENVELOPE-MAILFROM: chenguangying@tsinghua.org.cn
+Received: from unknown (HELO ccertdawei) (unknown@202.112.50.4)
+ by 210.77.143.228 with SMTP; Wed, 22 Sep 2004 14:45:10 +0800
+Message-ID: <003901c4a06f$b4b43720$043270ca@CCERTDAWEI>
+From: "tang" <tang@tsinghua.org.cn>
+To: yu@ccert.edu.cn
+Subject: =?gb2312?B?UmU6IMfrzsqjrMjLtPO1xL3wyNrXqNK11PXDtNH5o78=?=
+Date: Wed, 22 Sep 2004 14:45:06 +0800
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2800.1437
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1441
+Content-Transfer-Encoding: 8bit
+X-MIME-Autoconverted: from base64 to 8bit by home.ccert.edu.cn id i8M6ZDaa023169
+X-UIDL: mRC!!0PB!!9;&#!VcN"!
+
+上海那边的金融业的工作机会比北京多
+复旦和上财（尤其是上财）的金融专业找起工作来其实比人大中财容易
+我大学在北京念的，工作在上海呆过，都是金融业，深有体会
+: 看你的目的和一些其他具体情况了,
+: 学术上讲，去上财、复旦学金融也不错，人大、中财也不错，国内够混了。
+: 这里仅提供一点：如果于前两个金融毕业，在北京这边的大型国有企业的金融投资类、国有商业银行、股份制银行等等就业机会的争取中，比毕业于后两者要差很多。
+: ...................
+

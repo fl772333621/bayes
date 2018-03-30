@@ -1,0 +1,36 @@
+Return-Path: <tian@tsinghua.edu.cn>
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with SMTP id j051Y4Jg009451
+	for <zhong@ccert.edu.cn>; Wed, 5 Jan 2005 09:34:05 +0800
+Received: (eyou send program); Wed, 05 Jan 2005 09:32:55 +0800
+Message-ID: <304888775.00042@mail.tsinghua.edu.cn>
+Received: from unknown (HELO mail.tsinghua.edu.cn) (unknown@127.0.0.1)
+ by 127.0.0.1 with SMTP; Wed, 05 Jan 2005 09:32:55 +0800
+X-scanvirus: By Symantec Scan Engine
+X-scanresult: CLEAN
+Received: (eqmail ); 5 Jan 2005 01:32:52 -0000
+Received: from unknown (HELO sony) (duanhx@166.111.204.189)
+  by localhost with SMTP; 5 Jan 2005 01:32:52 -0000
+Message-ID: <003901c4f2c8$a601e6e0$8ae86fa6@sony>
+From: "tian" <tian@tsinghua.edu.cn>
+To: zhong@ccert.edu.cn
+Subject: =?gb2312?B?UmU6ILnY09rO0rXEucC828bAvNujrLu509DSu7j2zsrM4g==?=
+Date: Wed, 5 Jan 2005 09:48:25 +0800
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2800.1106
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1106
+Content-Transfer-Encoding: 8bit
+X-MIME-Autoconverted: from base64 to 8bit by home.ccert.edu.cn id j051Y4Jg009451
+X-UIDL: +CD!!1AI!!bW3"!1@2"!
+
+你的abcde是咋定的阿?
+按照赌球的行话,a是五位数,b是四位数,d就是两位数了
+: 谢谢各位同人的提醒和评价。我还有个问题，经过近来级次的面试经历，我现在有一些offer了，但是很让我难以选择，请各位大虾给我处处注意。
+: 1、外企篇 lucent的高技术研发中心，月薪不超过9k，福利据说很好，作的是老本行，比较稳定；
+: 2、一个小外企，薪资应该计较高的，但是做的是不太喜欢的东东；
+: ...................
+

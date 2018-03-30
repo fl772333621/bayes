@@ -1,0 +1,74 @@
+Return-Path: <zhuang@ns.6test.edu.cn>
+Received: from tsinghua.org.cn ([210.77.143.228])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id i9R6Okg4025261
+	for <ning@ccert.edu.cn>; Wed, 27 Oct 2004 14:24:48 +0800
+Received: (eyou send program); Wed, 27 Oct 2004 14:36:09 +0800
+Received: (eyou send program); Wed, 27 Oct 2004 14:36:09 +0800
+X-EYOU-ORIGINAL-IP: 210.77.143.235
+X-EYOU-ENVELOPE-MAILFROM: wanglanjia@ns.6test.edu.cn
+Received: from unknown (HELO eyou.net) (unknown@210.77.143.235)
+ by 210.77.143.228 with SMTP; Wed, 27 Oct 2004 14:36:09 +0800
+Received: (eyou send program); Wed, 27 Oct 2004 14:32:54 +0800
+Message-ID: <298858774.08406@eyou.net>
+Received: from 166.111.8.16 by 210.77.143.235 with SMTP; Wed, 27 Oct 2004 14:32:49 +0800
+Received: (eyou send program); Wed, 27 Oct 2004 14:30:52 +0800
+Message-ID: <298858652.07151@mails.tsinghua.edu.cn>
+Received: (eyou send program); Wed, 27 Oct 2004 14:30:51 +0800
+Message-ID: <298858650.22634@mails.tsinghua.edu.cn>
+Received: from unknown (HELO mails.tsinghua.edu.cn) (unknown@127.0.0.1)
+ by 127.0.0.1 with SMTP; Wed, 27 Oct 2004 14:30:51 +0800
+X-scanvirus: By Symantec Scan Engine
+X-scanresult: CLEAN
+Received: (eqmail ); 27 Oct 2004 06:30:38 -0000
+Received: from ccert.edu.cn (HELO home.ccert.edu.cn) (202.112.57.12)
+  by mails.tsinghua.edu.cn with SMTP; 27 Oct 2004 06:30:38 -0000
+Received: from home.ccert.edu.cn (localhost [127.0.0.1])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id i9R6HJAj025156;
+	Wed, 27 Oct 2004 14:17:19 +0800
+Received: (from majordomo@localhost)
+	by home.ccert.edu.cn (8.13.1/8.13.1/Submit) id i9R6HJYv025155;
+	Wed, 27 Oct 2004 14:17:19 +0800
+X-Authentication-Warning: home.ccert.edu.cn: majordomo set sender to owner-ccertstaff using -f
+Received: from ns.6test.edu.cn (ns.6test.edu.cn [202.112.54.2])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id i9R6HDq1025149
+	for <ning@ccert.edu.cn>; Wed, 27 Oct 2004 14:17:14 +0800
+Received: from [210.25.128.109] (helo=tsinghua89o1rm)
+	by ns.6test.edu.cn with asmtp (Exim 4.12)
+	id 1CMhaw-00054K-00
+	for ccertstaff@ccert.edu.cn; Wed, 27 Oct 2004 14:47:42 +0800
+Message-ID: <001401c4bbee$2f26d0a0$6d8019d2@tsinghua89o1rm>
+From: "zhuang" <zhuang@ns.6test.edu.cn>
+To: ning@ccert.edu.cn
+Subject: =?gb2312?B?UmU6ILCz1qq1wLXEw8C5+qOh?=
+Date: Wed, 27 Oct 2004 14:28:02 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0011_01C4BC31.2A9FC670"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2600.0000
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2600.0000
+Sender: owner-ccertstaff@home.ccert.edu.cn
+Precedence: bulk
+X-UIDL: +Jl"!lV'"!6"""!A^"#!
+
+看个人追求啦。
+吃：当然比不上国内，俺们这旮旯都没有四川餐馆，
+    贵的西餐厅俺们也不忍心散银子去。
+穿：质量好的比国内的便宜。出国一前觉得gap好，hehe ,过来一看，这个牌子太普通啦。 好多名牌打折打得凶的时候，真是爽！
+    当然要是跟五道口价钱没法比。
+玩：俺们这里没有钱柜，有朋友从国内带ok机，就是一张盘，好多好多歌那种。
+    他们的电视音像都特专业，还是high defination的。
+    而且大家不能成天届唱ok吧，出去玩的话，还是美国好点，别骂我假鬼子，//我躲
+住：大多数人租房子，学生合租得多，工作的就开始攒钱买房子。有的小区免水费，有的还提供免费的电视cable.
+心态：中国人在美国都挺辛苦的，觉得压力大，不过现在哪都压力吧。
+      人在他乡为异客，多少觉得处在社会边缘。买菜爱去中国超市，吃饭爱去中国饭馆，
+      玩还是ok,打牌，打麻将。
+最最要命的是被国内的人看成loser,读博士的被认为是没本事找到工作。经常安慰“知道你们在国外挺苦的” ft ft, 你们怎么知道我们苦呀？
+不回国，看成硬挺，死撑，loser
+回国，看成混不下去了，海带，loser 
+: 去过Boston的一家卡拉OK厅（据朋友说全boston也就这一家了）
+: 歌曲倒是很多很多，不都是老歌 
+: 就是装修太差了
+: ...................
+

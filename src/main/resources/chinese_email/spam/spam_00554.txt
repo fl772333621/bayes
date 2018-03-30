@@ -1,0 +1,21 @@
+Return-Path: <liu@124.com>
+Received: from 124.com ([60.180.165.65])
+	by home.ccert.edu.cn (MIMEDefang) with ESMTP id NOQUEUE
+	for <lin@ccert.edu.cn>; Tue, 21 Jun 2005 02:26:21 +0800 (CST)
+Message-ID: <200506210226.0.580274829512017@home.ccert.edu.cn>
+From: liu@124.com
+Subject: =?gb2312?B?zfjC57DmvfjP+rTmyO28/g==?=
+To: lin@ccert.edu.cn
+Content-Type: text/plain;charset="GB2312"
+Content-Transfer-Encoding: 8bit
+Date: Tue, 21 Jun 2005 02:44:15 +0800
+X-Priority: 3
+X-Mailer: Microsoft Outlook Express 5.50.4133.2400
+
+网络版进销存软件
+该系统是B/S互联网版，只要您能上网就可以使用了。很简单。操作人性化
+能实现进货，存货，销售一系列活动
+演示http://ymx.meibu.com/iduscm
+户名admin 密码123456
+购买联系QQ11088688
+

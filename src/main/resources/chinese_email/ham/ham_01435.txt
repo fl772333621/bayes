@@ -1,0 +1,37 @@
+Return-Path: <cheng@tsinghua.edu.cn>
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id iB9HHev8014258
+	for <che@ccert.edu.cn>; Fri, 10 Dec 2004 01:17:40 +0800 (CST)
+Received: (eyou send program); Fri, 10 Dec 2004 01:02:25 +0800
+Message-ID: <302611745.19141@mail.tsinghua.edu.cn>
+Received: from unknown (HELO mail.tsinghua.edu.cn) (unknown@127.0.0.1)
+ by 127.0.0.1 with SMTP; Fri, 10 Dec 2004 01:02:25 +0800
+X-scanvirus: By Symantec Scan Engine
+X-scanresult: CLEAN
+Received: (eqmail ); 9 Dec 2004 17:02:24 -0000
+Received: from unknown (HELO sony) (duanhx@166.111.232.135)
+  by localhost with SMTP; 9 Dec 2004 17:02:24 -0000
+Message-ID: <004701c4de12$f876f660$87e86fa6@sony>
+From: "cheng" <cheng@tsinghua.edu.cn>
+To: che@ccert.edu.cn
+Cc: <zhong@ccert.edu.cn>, <xie@ccert.edu.cn>, <he@ccert.edu.cn>,
+        <zeng@ccert.edu.cn>
+Subject: =?gb2312?B?UmU6IL3xzOy21EdH09DQqcqnzfuhraGt?=
+Date: Fri, 10 Dec 2004 01:17:31 +0800
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2900.2180
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+Content-Transfer-Encoding: 8bit
+X-MIME-Autoconverted: from base64 to 8bit by sea.net.edu.cn id iB9HHev8014258
+X-UIDL: dMZ!!#Ub"!Y#\!!P3d"!
+
+老实人真不好，让人叫吃饭还要付钱，以后像我这样的老实人绝对不交你gg那样的朋友。35虽然不多，但能看出一个人的本性。我觉得你gg气量太小了，对老实人给点小恩小惠很容易笼络的，以后能帮上不少忙的。
+: 今天是六一，又因为我通过了一个挺重要的考试，所以本来很高兴
+: 晚上和GG商量去学校外面吃饭，学校后门有一家挺便宜的小饭馆，
+: 我觉得那里的老板人很好，所以想多支持他们的生意，就提议去那里吃
+: ...................
+

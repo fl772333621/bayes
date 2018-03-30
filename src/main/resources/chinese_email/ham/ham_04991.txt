@@ -1,0 +1,33 @@
+Return-Path: <gong@rbl.ccert.edu.cn>
+Received: from rbl.ccert.edu.cn (rbl.ccert.edu.cn [202.112.57.71])
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id i98D9CP0009868
+	for <lei@ccert.edu.cn>; Fri, 8 Oct 2004 21:09:12 +0800 (CST)
+Received: from rbl.ccert.edu.cn (localhost.localdomain [127.0.0.1])
+	by rbl.ccert.edu.cn (8.12.11/8.12.11) with ESMTP id i98DFEaS010393
+	for <lei@ccert.edu.cn>; Fri, 8 Oct 2004 21:15:15 +0800
+Received: (from qa@localhost)
+	by rbl.ccert.edu.cn (8.12.11/8.12.11/Submit) id i98DFEb9010392;
+	Fri, 8 Oct 2004 21:15:14 +0800
+Date: Fri, 8 Oct 2004 21:15:14 +0800
+Message-Id: <200410081315.i98DFEb9010392@rbl.ccert.edu.cn>
+Subject: =?gb2312?B?ofEgyc+6o7Xn07C92rbU1dTesbXExsC82w==?=
+To: lei@ccert.edu.cn
+From: Tran Quang Anh <gong@cernet.edu.cn>
+Content-Type: multipart/mixed; boundary="----------=_1097241315-26230-96"
+MIME-Version: 1.0
+X-UIDL: B'\!!&&c"!iN+!!5'X!!
+
+评委的评价
+最佳女演员奖  
+ 
+获奖影片： 情人结 获奖者： 赵薇 
+评委评语： 首先，我们看到了她的美丽。接着，我们又看到了她作为女演员所具有
+的感性和细腻，突出表现了她的才华。 
+演绎过去的时光对任何一个演员都是一件极富挑战性的工作，感谢你，赵薇！我们透
+过你那双神采的双眼，看到了许许多多的情感。 
+: zhangziyi至少演了几部好片子
+: zhaowei演的那个情人结简直就是大烂片，票房和行内评论都很次，居然还得上海国际
+: 影后
+: 搞笑，看来这个奖是太垃圾了。
+: ...................
+

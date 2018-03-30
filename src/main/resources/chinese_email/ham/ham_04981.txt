@@ -1,0 +1,25 @@
+Return-Path: <wu@sina.com>
+Received: from sina.com (sina187-156.sina.com.cn [202.106.187.156] (may be forged))
+	by home.ccert.edu.cn (8.13.1/8.13.1) with SMTP id j2EEFqUl010262
+	for <ning@ccert.edu.cn>; Mon, 14 Mar 2005 22:16:03 +0800
+Message-Id: <200503141416.j2EEFqUl010262@home.ccert.edu.cn>
+Received: (qmail 635 invoked from network); 14 Mar 2005 14:29:21 -0000
+Received: from unknown (HELO ibm-t23) (219.224.134.126)
+  by 202.106.187.156 with SMTP; 14 Mar 2005 14:29:21 -0000
+Received: from(cheriff@sina.com) to(qa@ccert.edu.cn)
+Date: Mon, 14 Mar 2005 22:09:41 +0800
+From: "wu" <wu@sina.com>
+To: ning@ccert.edu.cn
+Subject: =?gb2312?B?UmU6ILj4ztLToc/z1+7J7rXEyq6yv8PAufq159OwvLDLtcP3?=
+X-mailer: Foxmail 5.0 [cn]
+Mime-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="=====001_Dragon041854254233_====="
+X-UIDL: 'C@"!>jB!!*N0!!fD]!!
+
+里面大部分电影属于大片性质
+: 排名不分先后：
+: 一、《阿甘正传》（1994）每看一次就感动一回，这部电影阐释了生命的意义，让我启发良多，也是我了解美国历史的窗口，汤姆.汉克斯从此成为我最喜爱的男演员之一。
+: 二、《美人计》（1946）我最喜爱的希区柯克作品，我心目中最美丽的女神、瑞典女郎--英格丽.褒曼主演，难忘的片段有：男女主人公两人在地下酒库里偷取证物，被女主人公的丈夫发现了，男主人公机智地拥吻了女主人公，声称对她余情未了、约她在地下室幽会…….假戏真做，加
+: ...................
+

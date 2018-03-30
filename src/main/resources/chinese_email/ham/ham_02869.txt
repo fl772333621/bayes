@@ -1,0 +1,58 @@
+Return-Path: <ou@mails.tsinghua.edu.cn>
+Received: from tsinghua.org.cn ([210.77.143.232])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with SMTP id j4IFGegC021875
+	for <qing@ccert.edu.cn>; Wed, 18 May 2005 23:16:50 +0800
+Received: (eyou send program); Wed, 18 May 2005 23:33:14 +0800
+Message-ID: <316430394.09926@tsinghua.org.cn>
+X-EYOU-AUTOFORWARD: tsinghua.org.cn
+Received: (eyou send program); Wed, 18 May 2005 23:32:44 +0800
+Message-ID: <316430364.32558@tsinghua.org.cn>
+Received: from unknown (HELO eyou.net) (210.77.143.235)
+ by 210.77.143.232 with SMTP; Wed, 18 May 2005 23:32:44 +0800
+X-EYOU-SPAMVALUE: 0
+Received: (eyou anti_spam gateway 3.0); Wed, 18 May 2005 23:21:42 +0800
+Message-ID: <316429702.07641@eyou.net>
+Received: from 202.112.49.111 by 210.77.143.235 with SMTP; Wed, 18 May 2005 23:21:42 +0800
+Received: from Garfield. (localhost [IPv6:::1])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with ESMTP id j4IFQlV7081121
+	for <qing@ccert.edu.cn>; Wed, 18 May 2005 23:27:18 +0800 (CST)
+	(envelope-from toefl-bounces@gradinfo.net.edu.cn)
+Received: from [202.112.49.111] (Garfield [202.112.49.111])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with ESMTP id j4IFQilK081117
+	for <qing@ccert.edu.cn>; Wed, 18 May 2005 23:26:44 +0800 (CST)
+	(envelope-from lguohan00@mails.tsinghua.edu.cn)
+Message-ID: <428B610E.3000408@mails.tsinghua.edu.cn>
+Date: Wed, 18 May 2005 23:36:46 +0800
+From: Guohan Lu <ou@mails.tsinghua.edu.cn>
+Organization: Tsinghua University
+User-Agent: Mozilla Thunderbird 1.0 (Windows/20041206)
+X-Accept-Language: en-us, en
+MIME-Version: 1.0
+To: qing@ccert.edu.cn
+Content-Type: multipart/mixed; boundary="----------=_1116429411-15348-322"
+Subject: =?gb2312?B?UmU6ILK7y6zByw==?=
+X-BeenThere: toefl@gradinfo.net.edu.cn
+X-Mailman-Version: 2.1.5
+Precedence: list
+Reply-To: ou@mails.tsinghua.edu.cn
+List-Id: "&#26446; &#26143; &#21644; &#20182; &#30340; &#23398; &#29983;
+	&#20204; " <toefl.gradinfo.net.edu.cn>
+List-Unsubscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=unsubscribe>
+List-Archive: <http://gradinfo.net.edu.cn/mailman/private/toefl>
+List-Post: <mailto:toefl@gradinfo.net.edu.cn>
+List-Help: <mailto:toefl-request@gradinfo.net.edu.cn?subject=help>
+List-Subscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=subscribe>
+Sender: toefl-bounces@gradinfo.net.edu.cn
+Errors-To: toefl-bounces@gradinfo.net.edu.cn
+X-UIDL: ;'&#!XKp!!KP_!!GTa"!
+
+    现在的女孩子真的是小题大做。   老觉得自己了不起，自己态度不好就怪罪别人。我的mm也有这样的问题。以为自己是顾客就可以冷冰冰的，可以面无表情的，可以呼来喝去的。卖东西的态度不好了，她自己就生气。
+    我觉得是从小没有学会友善对人，可能都是独生子女，没有受过什么挫折，不知道怎么与人相处。
+     可能我说的过头了，不过现在很多的女孩子真的是这个样子。
+: 刚才去紫荆水果摊买西瓜。当时是10点左右，人不多，切成半个的西瓜放了一地。我挑了半个看起来比较好的，让卖水果的给我再切一刀。因为我和gg两个人吃不了半个。
+: 结果卖水果的说这半个太小了，不给切。
+: 我说这是我能挑的最大的了。
+: ...................
+

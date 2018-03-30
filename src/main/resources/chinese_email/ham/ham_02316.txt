@@ -1,0 +1,61 @@
+Return-Path: <ren@compass.net.edu.cn>
+Received: from tsinghua.org.cn ([210.77.143.232])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with SMTP id j3LCXCWP010696
+	for <he@ccert.edu.cn>; Thu, 21 Apr 2005 20:33:24 +0800
+Received: (eyou send program); Thu, 21 Apr 2005 20:49:34 +0800
+Message-ID: <314087774.16089@tsinghua.org.cn>
+X-EYOU-AUTOFORWARD: tsinghua.org.cn
+Received: (eyou send program); Thu, 21 Apr 2005 20:49:34 +0800
+Message-ID: <314087774.08806@tsinghua.org.cn>
+Received: from unknown (HELO eyou.net) (210.77.143.235)
+ by 210.77.143.232 with SMTP; Thu, 21 Apr 2005 20:49:34 +0800
+X-EYOU-SPAMVALUE: 0
+Received: (eyou anti_spam gateway 3.0); Thu, 21 Apr 2005 20:39:10 +0800
+Message-ID: <314087150.16862@eyou.net>
+Received: from 202.112.49.111 by 210.77.143.235 with SMTP; Thu, 21 Apr 2005 20:39:09 +0800
+Received: from Garfield. (localhost [IPv6:::1])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with ESMTP id j3LCjhH5060650
+	for <he@ccert.edu.cn>; Thu, 21 Apr 2005 20:46:01 +0800 (CST)
+	(envelope-from toefl-bounces@gradinfo.net.edu.cn)
+Received: from compass.net.edu.cn (compass.net.edu.cn [202.38.188.130])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with ESMTP id j3LCje4T060646
+	for <he@ccert.edu.cn>; Thu, 21 Apr 2005 20:45:40 +0800 (CST)
+	(envelope-from jiaming@compass.net.edu.cn)
+Received: from tu172183.ip.tsinghua.edu.cn ([166.111.172.183]
+	helo=dodoes-ohp009t5)
+	by compass.net.edu.cn with asmtp (Exim 3.36 #1 (Debian))
+	id 1DOb85-0004XP-00
+	for <he@ccert.edu.cn>; Thu, 21 Apr 2005 20:50:01 +0800
+Date: Thu, 21 Apr 2005 20:50:21 +0800
+From: "ren" <ren@compass.net.edu.cn>
+To: he@ccert.edu.cn
+X-mailer: Foxmail 5.0 [cn]
+Mime-Version: 1.0
+Content-Type: multipart/mixed; boundary="----------=_1114086808-987-661"
+Message-Id: <E1DOb85-0004XP-00@compass.net.edu.cn>
+X-MIME-Autoconverted: from base64 to 8bit by gradinfo.net.edu.cn id
+	j3LCje4T060646
+Cc: 
+Subject: =?gb2312?B?UmU6INC0uPjSqszuuN+/vNa+1Li1xMjLw8ejrLzmzLi149DQ0rW/tLeooaM=?=
+X-BeenThere: toefl@gradinfo.net.edu.cn
+X-Mailman-Version: 2.1.5
+Precedence: list
+List-Id: "&#26446; &#26143; &#21644; &#20182; &#30340; &#23398; &#29983;
+	&#20204; " <toefl.gradinfo.net.edu.cn>
+List-Unsubscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=unsubscribe>
+List-Archive: <http://gradinfo.net.edu.cn/mailman/private/toefl>
+List-Post: <mailto:toefl@gradinfo.net.edu.cn>
+List-Help: <mailto:toefl-request@gradinfo.net.edu.cn?subject=help>
+List-Subscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=subscribe>
+Sender: toefl-bounces@gradinfo.net.edu.cn
+Errors-To: toefl-bounces@gradinfo.net.edu.cn
+X-UIDL: \%m"!7Dc"!GAi"!,!$"!
+
+不明白,我找工作和我念的本科专业有什么关系,牛人一通百通,本科你需要学习的是快速掌握知识的能力,与人沟通交际的能力,好的学校,能让你的眼界更开阔,年轻的时候就那么看重钱,未免会影响长远的发展
+: 其实我也觉得蛮有道理的，一个好的专业虽然不一定能让你以后非常有钱，
+: 但一般来说，宽裕一点的生活应该没问题。但是一个差的专业，你得付出
+: 大得多的代价才能达到这样的水平.
+: ...................
+

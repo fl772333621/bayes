@@ -1,0 +1,52 @@
+Return-Path: <lv@rbl.ccert.edu.cn>
+Received: from rbl.ccert.edu.cn (rbl.ccert.edu.cn [202.112.57.71])
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id i929Otl0012752
+	for <yuan@ccert.edu.cn>; Sat, 2 Oct 2004 17:24:55 +0800 (CST)
+Received: from rbl.ccert.edu.cn (localhost.localdomain [127.0.0.1])
+	by rbl.ccert.edu.cn (8.12.11/8.12.11) with ESMTP id i929Ucuv013336
+	for <yuan@ccert.edu.cn>; Sat, 2 Oct 2004 17:30:38 +0800
+Received: (from qa@localhost)
+	by rbl.ccert.edu.cn (8.12.11/8.12.11/Submit) id i929UcbZ013335;
+	Sat, 2 Oct 2004 17:30:38 +0800
+Date: Sat, 2 Oct 2004 17:30:38 +0800
+Message-Id: <200410020930.i929UcbZ013335@rbl.ccert.edu.cn>
+Subject: =?gb2312?B?ofEgW7nbxqzI1bzHXUJhcmVmb290s+C9xcfp1LUvtcK5+i5KdW4uMTI=?=
+To: yuan@ccert.edu.cn
+From: Tran Quang Anh <lv@cernet.edu.cn>
+Content-Type: multipart/mixed; boundary="----------=_1096709438-996-366"
+MIME-Version: 1.0
+X-UIDL: &;7!!eQ^"!!8O!!bY@"!
+
+: 注意:看电影之前看影评,可能会影响看电影的感受;您可以选择看完电影之后再看影评
+您今天看的哪部片子?:
+Barefoot赤脚情缘 /  上海电影节 上海影城1厅
+片子作者是谁?:
+德 Til Schweiger
+您对摄影画面的评分?5*经典4*值得研究3*到位2*需提高:
+5* 剪辑很不错, 节奏把握很好, 还制造出不少喜剧效果
+您对演员表演的评分?5*经典4*值得研究3*到位2*需提高:
+5* 眼神, 尖叫很特别, 赤脚是个噱头, 接触-尖叫的反射设计很好; 聚会吃东西很有趣,
+        Liar心灵动作为主, Nick起初是理智动作, 最后转为心灵动作
+您对人物性格的评分?5*经典4*值得研究3*到位2*需提高:
+5* 前面的动作节奏已经有了分析, 其实本质上讲, 这2个人互相依恋,
+        最关键的原因, 是不是就是: 这两个人, 互相尊重,enjoy在一起呢?
+另外, 人物的个性化设计非常好, 显得人物 很有立体感
+您对叙事剧情的评分?5*经典4*值得研究3*到位2*需提高:
+4.5*
+第一个转折点, 是在厕所把Liar救下来
+第二个转折点, 是Liar在聚会捅了漏子, Nick决定送她回去.
+结局从Nick醒转开始, 是一个浪漫的尾巴...
+        跟&lt;&lt;求求你,表扬我&gt;&gt;其实一样,
+                原本故事已经悲剧收场, 但作者故意改成团圆, 仿佛升华了主题,
+可是矛盾冲突的尖锐性就打了折扣
+您对主题寓意的评分?5*经典4*值得研究3*到位2*需提高:
+4.5*
+其实在我看来, 就是"任何人都有 被尊重的愿望"-卡耐基的道理
+      升华以后的主题呢? 其实还是这样. 不过从浪漫的角度看, 升华以后的爱情更理想化
+总体的星星评级?5*经典4*值得研究3*值得一看2*需提高:
+4.5* 爱丽丝漫游仙境-现代的爱情童化+恶搞喜剧, 可看性和研究性不错
+这部片,您特别喜欢的地方是什么? (最多160字,^q换行):
+镜头组接制造情节 + 表演方面的 诙谐设计
+看了这部片子,您最想去做什么?(最多160字,每行1件事):
+学习joke情节的设计
+

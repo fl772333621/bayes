@@ -1,0 +1,74 @@
+Return-Path: <feng@mail.tsinghua.edu.cn>
+Received: from tsinghua.org.cn ([210.77.143.228])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id i8M8VUqY026126
+	for <wu@ccert.edu.cn>; Wed, 22 Sep 2004 16:31:31 +0800
+Received: (eyou send program); Wed, 22 Sep 2004 16:41:29 +0800
+Received: (eyou send program); Wed, 22 Sep 2004 16:41:27 +0800
+X-EYOU-ORIGINAL-IP: 202.38.99.65
+X-EYOU-ENVELOPE-MAILFROM: toefl-bounces@server.cool-meeting.com
+Received: from unknown (HELO server.cool-meeting.com) (unknown@202.38.99.65)
+ by 210.77.143.228 with SMTP; Wed, 22 Sep 2004 16:41:27 +0800
+Received: from server.cool-meeting.com (localhost.localdomain [127.0.0.1])
+	by server.cool-meeting.com (8.12.8/8.12.8) with ESMTP id i8M8VZlf012735
+	for <wu@ccert.edu.cn>; Wed, 22 Sep 2004 16:31:44 +0800
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by server.cool-meeting.com (8.12.8/8.12.8) with SMTP id i8M8VWkr012731
+	for <wu@ccert.edu.cn>; Wed, 22 Sep 2004 16:31:32 +0800
+Received: (eyou send program); Wed, 22 Sep 2004 16:13:55 +0800
+Message-ID: <295840835.03386@mail.tsinghua.edu.cn>
+Received: from unknown (HELO mail.tsinghua.edu.cn) (unknown@127.0.0.1)
+	by 127.0.0.1 with SMTP; Wed, 22 Sep 2004 16:13:55 +0800
+X-scanvirus: By Symantec Scan Engine
+X-scanresult: CLEAN
+Received: (eqmail ); 22 Sep 2004 08:13:54 -0000
+Received: from unknown (HELO dbx) (dengbx@210.25.128.116)
+	by localhost with SMTP; 22 Sep 2004 08:13:54 -0000
+Date: Wed, 22 Sep 2004 16:36:19 +0800
+From: "feng" <feng@mail.tsinghua.edu.cn>
+To: wu@ccert.edu.cn
+X-mailer: Foxmail 4.1 [cn]
+Mime-Version: 1.0
+Content-Type: text/plain;
+      charset="GB2312"
+Content-Transfer-Encoding: 8bit
+X-MIME-Autoconverted: from quoted-printable to 8bit by server.cool-meeting.com
+	id i8M8VWkr012731
+Cc: 
+Subject: =?gb2312?B?ofEgtPq3otXQxrjG9Mq+?=
+X-BeenThere: toefl@server.cool-meeting.com
+X-Mailman-Version: 2.1.2
+Precedence: list
+List-Id: &#26446;&#26143;&#21644;&#20182;&#30340;&#23398;&#29983;&#20204;
+	<toefl.server.cool-meeting.com>
+List-Unsubscribe: <http://server.cool-meeting.com/mailman/listinfo/toefl>,
+	<mailto:toefl-request@server.cool-meeting.com?subject=unsubscribe>
+List-Archive: <http://server.cool-meeting.com/mailman/private/toefl>
+List-Post: <mailto:toefl@server.cool-meeting.com>
+List-Help: <mailto:toefl-request@server.cool-meeting.com?subject=help>
+List-Subscribe: <http://server.cool-meeting.com/mailman/listinfo/toefl>,
+	<mailto:toefl-request@server.cool-meeting.com?subject=subscribe>
+Sender: toefl-bounces@server.cool-meeting.com
+Errors-To: toefl-bounces@server.cool-meeting.com
+X-UIDL: oV+"!MY0"!@Sj!!C~o"!
+
+潍坊怡力达电声有限公司（工作地点北京）
+招聘启事：
+    潍坊怡力达电声有限公司是一家专业生产电声产品的高技术公司。在北京设有办事处。由于业务需要，现诚招有志之士加盟：
+一、工作内容：
+1、处理与山东总公司的业务来往信息。
+2、北京办事处的文件管理。
+3、协调销售员与公司的信息沟通。
+4、电话与客户沟通业务信息。
+5、日常考勤等内务管理。
+二、招聘条件：
+1、要求女性。
+2、思路清晰、善于沟通、踏实稳重。
+3、学历大专或本科学历，能熟练操作计算机及日常办公室软件。
+4、能阅读回复英文邮件，普通话良好。
+三、工作及待遇情况：
+1、    工作地点：北京。
+2、    待遇面谈。
+3、      国家规定的保险。
+四、联系方式：
+moses@iea.cn   guosh@goertek.com
+

@@ -1,0 +1,34 @@
+Return-Path: <qing@rbl.ccert.edu.cn>
+Received: from rbl.ccert.edu.cn (rbl.ccert.edu.cn [202.112.57.71])
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id i97Hunbd023636
+	for <wu@ccert.edu.cn>; Fri, 8 Oct 2004 01:56:50 +0800 (CST)
+Received: from rbl.ccert.edu.cn (localhost.localdomain [127.0.0.1])
+	by rbl.ccert.edu.cn (8.12.11/8.12.11) with ESMTP id i97I2iWP021767
+	for <wu@ccert.edu.cn>; Fri, 8 Oct 2004 02:02:44 +0800
+Received: (from qa@localhost)
+	by rbl.ccert.edu.cn (8.12.11/8.12.11/Submit) id i97I2iUp021766;
+	Fri, 8 Oct 2004 02:02:44 +0800
+Date: Fri, 8 Oct 2004 02:02:44 +0800
+Message-Id: <200410071802.i97I2iUp021766@rbl.ccert.edu.cn>
+Subject: =?gb2312?B?UmU6IM/uxL+3orD8o6xtc27U2s/ftcijoQ==?=
+To: wu@ccert.edu.cn
+From: Tran Quang Anh <qing@cernet.edu.cn>
+Content-Type: multipart/mixed; boundary="----------=_1097172164-1044-50"
+MIME-Version: 1.0
+X-UIDL: 95~!!<Q>"!1<E"!]Z3"!
+
+: 那个视频输出台标识别比较难搞，和做板子不搭边阿，不好找人
+我的想法是这样的：现在出售的电视机后面都有一组视频信号输出（为模拟信号）
+                 多组视频信号输入（可接驳dvd、vcd、录像机等）
+                通过A/D转换模块（图像处理芯片），每秒采集一桢图像（格式gif、
+                bmp、tga都可）然后定好坐标（因为坐标固定，都在左上角），与
+                数据库中的图标识别，识别后发送一组事先定义好的代码，中国制式
+                为PAL,分辨率为720*576，台标的分辨率很小,约为：100*200左右，
+                这样数据量很小，识别起来速度很快就完成了。这些方面可能有的同
+               学没有接触过，认为很难实现。所以有很多小组认为不容易实现，漫天
+                要价，我认为不太合适的，我很愿意在这里与相关的小组共同探讨。
+                有的小组要价是比较合理的，但我们认为他们在uclinux+arm+gprs方
+                面没有实际经验，所以不断的发贴子招人。我们希望能够有实际经验
+                的小组来完成我们的项目。小组在完成这个项目过程中，我们也会提
+                出我们的相关经验，来共同学习进步。谢谢！
+

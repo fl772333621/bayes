@@ -1,0 +1,29 @@
+Return-Path: <zhou@rbl.ccert.edu.cn>
+Received: from rbl.ccert.edu.cn (rbl.ccert.edu.cn [202.112.57.71])
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id i983buWK001366
+	for <kong@ccert.edu.cn>; Fri, 8 Oct 2004 11:37:57 +0800 (CST)
+Received: from rbl.ccert.edu.cn (localhost.localdomain [127.0.0.1])
+	by rbl.ccert.edu.cn (8.12.11/8.12.11) with ESMTP id i983hv4S013469
+	for <kong@ccert.edu.cn>; Fri, 8 Oct 2004 11:43:57 +0800
+Received: (from qa@localhost)
+	by rbl.ccert.edu.cn (8.12.11/8.12.11/Submit) id i983hvH9013468;
+	Fri, 8 Oct 2004 11:43:57 +0800
+Date: Fri, 8 Oct 2004 11:43:57 +0800
+Message-Id: <200410080343.i983hvH9013468@rbl.ccert.edu.cn>
+Subject: =?gb2312?B?UmU6IM3ixvO+zdK7tqi6w8Lw?=
+To: kong@ccert.edu.cn
+From: Tran Quang Anh <zhou@cernet.edu.cn>
+Content-Type: multipart/mixed; boundary="----------=_1097207037-1044-270"
+MIME-Version: 1.0
+X-UIDL: g#X"!i`j"!@R~"!oQW!!
+
+  做一辈子技术，以前倒是有，但是真正能靠技术成为大牛的，极少。
+大学里，国家单位里做技术的，或者领导国内技术前沿的企业，可能会培养
+出技术大牛，对于大部分人而言，很多是挂着做技术的牌子，实际上做的可能
+并不入流。
+  再一个，国内能真正算是核心技术的，很少，像填补国内空白，，填补国际空白
+这些都可能很少看到，实际上内在的技术含量，有可能又要打折扣。等等因素
+下，对于大部分人而言，个人觉得还是做上3－5年技术，能转管理是最好。
+: 我也是学技术的，周围的人都跟我说不能老学技术，以后一定转管理，
+: 我就是纳闷阿，到底什么时候转管理？ 技术做好了就转？ 技术做好了为什么不能给加点钱继续作技术，非要把技术全废了转去作管理。作技术的技术都作不好，为啥又能转管理呢，全靠机会？？
+

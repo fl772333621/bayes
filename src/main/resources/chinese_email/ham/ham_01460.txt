@@ -1,0 +1,41 @@
+Return-Path: <zhan@mails.tsinghua.edu.cn>
+Received: from mails.tsinghua.edu.cn (mails.tsinghua.edu.cn [166.111.8.16])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id iAO37uwb022087
+	for <qian@ccert.edu.cn>; Wed, 24 Nov 2004 11:07:56 +0800 (CST)
+Received: (eyou send program); Wed, 24 Nov 2004 11:02:38 +0800
+Message-ID: <301265358.27033@mails.tsinghua.edu.cn>
+Received: from unknown (HELO mails.tsinghua.edu.cn) (unknown@127.0.0.1)
+ by 127.0.0.1 with SMTP; Wed, 24 Nov 2004 11:02:38 +0800
+X-scanvirus: By Symantec Scan Engine
+X-scanresult: CLEAN
+Received: (eqmail ); 24 Nov 2004 03:02:32 -0000
+Received: from tu203210.tsinghua.edu.cn (HELO xiner) (xwang03@166.111.203.210)
+  by mails.tsinghua.edu.cn with SMTP; 24 Nov 2004 03:02:32 -0000
+Message-ID: <001d01c4d1d2$c00ecfb0$d2cb6fa6@xiner>
+From: "zhan" <zhan@mails.tsinghua.edu.cn>
+To: qian@ccert.edu.cn
+References: <301112732.28167@mails.tsinghua.edu.cn> <301199106.06721@mails.tsinghua.edu.cn>
+Subject: =?gb2312?B?UmU6IKH+of7A4aOsy63E3LDv1vrO0qO/of6h/g==?=
+Date: Wed, 24 Nov 2004 11:07:22 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_001A_01C4D215.C63D2A60"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2900.2180
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+X-UIDL: 7S*"!@T~"!(U)!!EZ:!!
+
+要是有准备，财产可能分不到多少
+还有一个办法，到清华大学闹吧，学校不可能不管，拿不到学位男的还是会怕
+: 标  题: Re: 〓〓泪，谁能帮助我？〓〓
+: 发信站: 水木社区 (Thu Jun  9 10:44:32 2005), 站内
+: 
+:   如果男的死赖着就是一分也不给，那估计她也没辙
+:   如果她说的都是真的，这样的极品男也还是很少见的，
+:   她的眼光实在也是有问题，而且她现在这样做，估计也得不到什么好处
+: 
+: : 赶快离婚，找律师尽量争取尽可能多的经济补偿
+: : 年幼的孩子很容易判给母亲的，只要你有固定收入，不用担心这个
+: : 只要他和法院没有勾结就行
+

@@ -1,0 +1,37 @@
+Return-Path: <lei@home.ccert.edu.cn>
+Received: from home.ccert.edu.cn (localhost [127.0.0.1])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id iB16QShF019474;
+	Wed, 1 Dec 2004 14:26:28 +0800
+Received: (from majordomo@localhost)
+	by home.ccert.edu.cn (8.13.1/8.13.1/Submit) id iB16QSbb019473;
+	Wed, 1 Dec 2004 14:26:28 +0800
+X-Authentication-Warning: home.ccert.edu.cn: majordomo set sender to owner-ccertstaff using -f
+Received: from ccertspark (tu203021.tsinghua.edu.cn [166.111.203.21])
+	(authenticated bits=0)
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id iB16PcBe019451;
+	Wed, 1 Dec 2004 14:25:38 +0800
+From: "lei" <lei@ccert.edu.cn>
+To: zhao@ccert.edu.cn
+Cc: <mo@ccert.edu.cn>
+Subject: =?gb2312?B?UmU6ILK7y6zByw==?=
+Date: Wed, 1 Dec 2004 14:37:34 +0800
+Message-ID: <000c01c4d770$3e023ea0$15cb6fa6@ccertspark>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_000D_01C4D7B3.4C270540"
+X-Priority: 3 (Normal)
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook, Build 10.0.6626
+X-MIMEOLE: Produced By Microsoft MimeOLE V6.00.3790.181
+In-Reply-To: <003101c4d76f$0c7459f0$18cb6fa6@CCERTDAWEI>
+Importance: Normal
+Sender: owner-ccertstaff@home.ccert.edu.cn
+Precedence: bulk
+X-UIDL: 'ZH!!BC="!m]H!!UF0!!
+
+为什么不自己去和卖水果的理论呢，为什么要bf解决呢，我要是你的话，直接冲进去和卖水果的理论了。我觉得你的bf做的很对
+: 不是不是，我是和gg事先约好见面的。我买西瓜，他去取些东西。然后在水果摊前面见。
+: 生活中本来就没有什么大事，也碰不上说是需要展现你男子汉气概的情况。而且最好也不要碰到。可是我gg在平常的谈吐说话中都缺少一种自信的表现。一种男生的风度。
+: 也许这是清华的gg都有的一种气质吧。也许经过社会的历练，自然会产生吧。
+: ...................
+

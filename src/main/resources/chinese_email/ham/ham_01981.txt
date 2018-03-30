@@ -1,0 +1,35 @@
+Return-Path: <ding@mails.tsinghua.edu.cn>
+Received: from mails.tsinghua.edu.cn (mails.tsinghua.edu.cn [166.111.8.16])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id i9Q3irR7028829
+	for <xin@ccert.edu.cn>; Tue, 26 Oct 2004 11:44:53 +0800 (CST)
+Received: (eyou send program); Tue, 26 Oct 2004 11:39:40 +0800
+Message-ID: <298761980.15713@mails.tsinghua.edu.cn>
+Received: from unknown (HELO mails.tsinghua.edu.cn) (unknown@127.0.0.1)
+ by 127.0.0.1 with SMTP; Tue, 26 Oct 2004 11:39:40 +0800
+X-scanvirus: By Symantec Scan Engine
+X-scanresult: CLEAN
+Received: (eqmail ); 26 Oct 2004 03:39:38 -0000
+Received: from tu154210.tsinghua.edu.cn (HELO xiner) (xwang03@166.111.154.210)
+  by mails.tsinghua.edu.cn with SMTP; 26 Oct 2004 03:39:38 -0000
+Message-ID: <001f01c4bb0f$036c28a0$d29a6fa6@xiner>
+From: "ding" <ding@mails.tsinghua.edu.cn>
+To: xin@ccert.edu.cn
+References: <298758708.01058@mails.tsinghua.edu.cn>
+Subject: =?gb2312?B?UmU6IMDPyse2zNDFtee7sMmnyMXKx7K7yse74cjDTU2+9bXDuty3s6O/?=
+Date: Tue, 26 Oct 2004 11:51:01 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_001C_01C4BB52.10B66DC0"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2800.1437
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1441
+X-UIDL: LCF"!k~:!!#D7"!K"*!!
+
+你说的那些我都避免了,另外他没有MM的,我们都是晚上发短信,所以应该没影响到他工作的.
+另外他有时候可能不及时回,但是一定会回
+: 这个男生跟我的遭遇有点相似，我也是每天都要收到一个女孩的二三十条短信。所以我想我可以帮你回答一下这个问题。
+: 烦是肯定不会烦的哈，因为我一直把给我发短信的这个女孩当作小妹妹。但是有一个问题，前面也有人提到了，不要在一个男生工作的时候打扰他。比如写程序，比如做作业、作实验，还有最重要的，快要考试的时候。你跟他很熟，我想你应该大体清楚他的作息时间，然后尽量避开这
+: 还有就是有时候可能因为种种原因（比如跟自己MM在一起，比如没有及时看到消息，等等等等）不会及时回你短信，要理解他哈。
+: ...................
+

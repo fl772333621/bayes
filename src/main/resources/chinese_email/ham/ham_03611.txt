@@ -1,0 +1,29 @@
+Return-Path: <tu@mails.tsinghua.edu.cn>
+Received: from tsinghua.org.cn ([210.77.143.232])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with SMTP id j231XjRO006939
+	for <jiang@ccert.edu.cn>; Thu, 3 Mar 2005 09:33:46 +0800
+Received: (eyou send program); Thu, 03 Mar 2005 09:44:50 +0800
+Message-ID: <309814290.25902@tsinghua.org.cn>
+X-EYOU-AUTOFORWARD: tsinghua.org.cn
+Received: (eyou send program); Thu, 03 Mar 2005 09:44:49 +0800
+Message-ID: <309814289.23400@tsinghua.org.cn>
+Received: from unknown (HELO mails.tsinghua.edu.cn) (166.111.8.16)
+ by 210.77.143.232 with SMTP; Thu, 03 Mar 2005 09:44:49 +0800
+Received: (eyou send program); Thu, 03 Mar 2005 09:35:09 +0800
+Message-ID: <309813709.13502@mails.tsinghua.edu.cn>
+Received: from 202.112.50.72 by mails.tsinghua.edu.cn with HTTP; Thu, 03 Mar 2005 09:35:09 +0800
+X-WebMAIL-MUA: [202.112.50.72]
+From: "tu" <tu@mails.tsinghua.edu.cn>
+To: jiang@ccert.edu.cn
+Date: Thu, 03 Mar 2005 09:35:09 +0800
+Reply-To: "tu" <tu@mails.tsinghua.edu.cn>
+X-Priority: 3
+Subject: =?gb2312?B?UmU6IHp6ftKyzLjGxc+xudjPtaOsxsXGxdPA1LbSsrK7ysfC6A==?=
+Content-Type: text/plain
+X-UIDL: gBI!!"[O!!@1R!!5j<"!
+
+我当时和我妈妈抱怨婆婆对我不如对他儿子好  我妈妈说：“也是一样啊，你对婆婆也
+没有对自己的妈妈好”  呵呵 这我就平衡了 ^_^
+: 在家无聊，zz onlylady上的一篇文章，觉得写得很好
+: 天天在论坛上泡着，看得最多的就是老公外遇和婆媳矛盾，看得心里堵得慌。老公外遇懒得说了，今天聊聊婆媳之争。这个话题肯定会被大老爷们们砸，因为，婆媳之争又触及了他们脆弱且绷得紧紧的神经。但不得不说的是，婆婆永远成不了媳妇的母亲，婆媳关系也远不止母女关系那么简单融洽。如果你非要说我家的关系就好得跟母女似的，我也不打算跟你抬杠，祝你幸福，你遇到了宝，比中了500W还难，找个旮旯偷着乐去吧。
+

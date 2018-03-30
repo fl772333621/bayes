@@ -1,0 +1,53 @@
+Return-Path: <wua@cernet.edu.cn>
+Received: from WHITESNOW ([220.192.3.195])
+	(authenticated bits=0)
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id iB2ErRs9009213
+	for <xue@ccert.edu.cn>; Thu, 2 Dec 2004 22:53:31 +0800 (CST)
+Message-ID: <001501c4d87e$b2a2f740$c303c0dc@WHITESNOW>
+From: "wua" <wua@cernet.edu.cn>
+To: xue@ccert.edu.cn
+References: <000701c4d142$78284bd0$18cb6fa6@CCERTDAWEI>
+Subject: =?gb2312?B?ofEgttRFcmljc3NvbrXE0rvQqbjQytw=?=
+Date: Thu, 2 Dec 2004 22:53:27 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0012_01C4D8C1.BC2F22F0"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2900.2180
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+X-UIDL: <l#"!lFj"!?^_!!Ri?"!
+
+        我在Eircsson的竞争对手处干。
+        基本上Nokia、Ericsson都打过交道
+        最近听说他们的网络部和数据部合了
+        而做CMnet的功臣被Cisco挖了墙角，
+        所以很想去试试看。起码看看自己是否有机会。
+        投简历总共投了3此，一直没有理会，我开始
+        时候有些想部通，毕竟自己去年做了中国电信
+        的CN2工程，可以说经历上还算符合。
+        突然有一天Daisy Liu打了个电话就让我去面试了。
+        面试的形式合Nokia的二面形式很类似，是一个
+        Group的形式，六个人，上来以后自我介绍，然后
+        开始做一个项目，前面都是一些英文的，到后来
+        每个人的水品参差不齐，实在进行部下去了，就
+        改成中文了。
+        面试是由部门经理2个合人力资源经理一个（估计
+        是以后的Line Manager了）组成的。
+        基本感觉时间掌控的还是很好的，约的2点在汉威，
+        很准时，整个过程对人基本比较尊重的。也会在
+        面试的过程中给人提一些建议。
+        所以想提醒一下那个说Ericsson R&amp;D的，也许心态
+        不用那么激动，平和一些，也看的开一些就好了。
+        我以前对Nokia也一直感觉不错，Nokia的人也有犯
+        错误，例如约了面试，结果自己去见客户的时候。
+        心态平和，也许更能接收社会上的一些现状。
+        总的来说，外企的人也就那么会事，包括那些大的
+        通信500强，Moto、SI、Alcatel、Nokia、Eric之流
+        的，无论进去没有进去，也都不用太叫真。尤其事
+        不要一下子把这个公司看贬了，那是完全没有必要的。
+        最后提醒一下，我觉得每次面试之前准备简历是最
+        基本的工作，他没有管你要是他的事，如果他没有
+        准备那受损失的就是你了。要知道面试的是人不是
+        神，不要因为他的过错而让自己去承担这一切。
+

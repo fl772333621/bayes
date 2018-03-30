@@ -1,0 +1,25 @@
+Return-Path: <ke@cernet.edu.cn>
+Received: from sony ([166.111.232.112])
+	(authenticated bits=0)
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id i9ADXXbP018931;
+	Sun, 10 Oct 2004 21:33:33 +0800 (CST)
+Message-ID: <010701c4aecd$bbcb7b60$56e86fa6@sony>
+From: "ke" <ke@cernet.edu.cn>
+To: zhao@ccert.edu.cn
+Subject: =?gb2312?B?UmU6ILDrxOqjrNC9vfC1xMj9tM63rcG9t6w=?=
+Date: Sun, 10 Oct 2004 21:32:34 +0800
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="----=_NextPart_000_0105_01C4AF10.A80BCE20"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2900.2180
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+X-UIDL: ~D8!!mfY!!j:^"!`p5"!
+
+价值是在跳槽中实现的
+: 我以前是一个小单位的职工，一个月1.4k，去年就办理了离职手续。然后作为实习生在bell实习了几个月，一个月2.4k多。今年4月到一家公司实习，7k；现在已经有两个offer等我了，一个12k，一个13k。
+: 以前只是想着8k就不错了，幸好没有满足亚，不然可能就是8k了。
+: 很多时候，人需要激情和努力的，当大家都在考虑10k的薪金的时候，买蔬菜的大妈已经年薪10多万了，开车的司机已经20多万了，开个小饭店的老板已经30万以上了......
+: ...................
+

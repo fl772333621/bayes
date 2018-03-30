@@ -1,0 +1,51 @@
+Return-Path: <che@tsinghua.edu.cn>
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j1L6qeP6023994
+	for <hua@ccert.edu.cn>; Mon, 21 Feb 2005 14:52:40 +0800 (CST)
+Received: (eyou send program); Mon, 21 Feb 2005 14:36:13 +0800
+Message-ID: <308967773.09074@mail.tsinghua.edu.cn>
+Received: from unknown (HELO mail.tsinghua.edu.cn) (unknown@127.0.0.1)
+ by 127.0.0.1 with SMTP; Mon, 21 Feb 2005 14:36:13 +0800
+X-scanvirus: By Symantec Scan Engine
+X-scanresult: CLEAN
+Received: (eqmail ); 21 Feb 2005 06:36:08 -0000
+Received: from unknown (HELO sony) (duanhx@202.112.35.253)
+  by localhost with SMTP; 21 Feb 2005 06:36:08 -0000
+Message-ID: <003f01c517e1$e96d9300$0201a8c0@sony>
+From: "che" <che@tsinghua.edu.cn>
+To: hua@ccert.edu.cn
+Cc: <fu@ccert.edu.cn>
+References: <308965458.10097@mail.tsinghua.edu.cn>
+Subject: =?gb2312?B?UmU6IMDPsOXS0b6tsbszzrvH5buqtcRtYXN0ZXK3xbn9uOvX08HL?=
+Date: Mon, 21 Feb 2005 14:52:28 +0800
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2900.2180
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+Content-Transfer-Encoding: 8bit
+X-MIME-Autoconverted: from base64 to 8bit by sea.net.edu.cn id j1L6qeP6023994
+X-UIDL: ZOU"!0h#"!-`!"!PGg"!
+
+: 标  题: Re: 老板已经被3位清华的master放过鸽子了
+: 发信站: 水木社区 (Thu Jun 16 09:33:53 2005), 站内
+: 
+: 现在是整个社会都这样不讲信用阿
+: 个人这样，企业难道就没有这样的了吗？往往投去的简历如果不要连据信都不回一封，让你空等一个月的时间。
+nod,企业好歹给个回复,不论是什么形式的,那怕是发个公告也行. 
+那种投过去后不回复的公司是很不职业
+: 
+: 现在这样的社会环境，大家为了个人的利益只好脚踩几只船，因为很多船也是不可靠的
+: 谁要是傻乎乎的去完全信任那只船才是悲哀的！
+: 
+: : 以前两位，最近一位。。拿到offer后不来了
+: : 感叹，清华的master怎么这样子。。以后不敢要了。。
+: : BTW： 俺是GE的。
+: : ...................
+: 
+: --
+: 
+: ※ 来源:·水木社区 newsmth.net·[FROM: 61.48.132.*]
+

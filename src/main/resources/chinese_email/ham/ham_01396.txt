@@ -1,0 +1,51 @@
+Return-Path: <sun@tsinghua.edu.cn>
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id iBMDaTXH005746
+	for <tan@ccert.edu.cn>; Wed, 22 Dec 2004 21:36:29 +0800 (CST)
+Received: (eyou send program); Wed, 22 Dec 2004 21:21:02 +0800
+Message-ID: <303721662.18238@mail.tsinghua.edu.cn>
+Received: from unknown (HELO mail.tsinghua.edu.cn) (unknown@127.0.0.1)
+ by 127.0.0.1 with SMTP; Wed, 22 Dec 2004 21:21:02 +0800
+X-scanvirus: By Symantec Scan Engine
+X-scanresult: CLEAN
+Received: (eqmail ); 22 Dec 2004 13:21:00 -0000
+Received: from unknown (HELO sony) (duanhx@166.111.232.152)
+  by localhost with SMTP; 22 Dec 2004 13:21:00 -0000
+Message-ID: <008f01c4e82b$39ac56d0$d53270ca@sony>
+From: "sun" <sun@tsinghua.edu.cn>
+To: tan@ccert.edu.cn
+References: <303713739.12402@mail.tsinghua.edu.cn>
+Subject: Re: Updated:  CustomRulesets
+Date: Wed, 22 Dec 2004 21:36:20 +0800
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2900.2180
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+Content-Transfer-Encoding: 8bit
+X-MIME-Autoconverted: from base64 to 8bit by sea.net.edu.cn id iBMDaTXH005746
+X-UIDL: =,d!!~#o"!_a7"!nc]!!
+
+太有了！
+我老爸50多，以前学俄语，英语没学过，而且汉语拼音也没学过。
+两年前从学汉语拼音开始（看幼儿园的汉语拼音卡片），慢慢地可以打中文字。
+后来学习了wpord, excel，可以自己打印报告、并且用excel公式整理流水帐。
+上网也会了。
+还打游戏。
+: 标  题: 50多岁的人还有希望学电脑么?
+: 发信站: 水木社区 (Thu Jun  9 00:14:00 2005), 站内
+: 
+: 想让家人用电脑和我联络
+: 大家有经验么？
+: --
+: 如果我仅仅是因为生理原因才去找女友的话，一定会有女生受到伤害。
+: 事实上大多数女生受伤害都是这个原因。因此我想在我没有想好之前，不能草率的去谈情做爱。
+: 这是对别人负责，也是对自己负责。
+: 
+: ※ 来源:·BBS 水木清华站 smth.org·[FROM: 111.111.111.*]
+: 
+: 
+: ※ 来源:·水木社区 http://newsmth.net·[FROM: 202.30.106.*]
+

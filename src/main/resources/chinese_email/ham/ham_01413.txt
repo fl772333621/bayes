@@ -1,0 +1,29 @@
+Return-Path: <shi@ccert.edu.cn>
+Received: from ccert.edu.cn ([202.112.57.8])
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id i88ANYTn024284
+	for <che@ccert.edu.cn>; Wed, 8 Sep 2004 18:23:34 +0800 (CST)
+Received: from 8jmd55gawpz3tjh ([202.112.50.5])
+	by ccert.edu.cn (8.12.11/8.12.11) with ESMTP id i88AqlQe027752
+	for <che@ccert.edu.cn>; Wed, 8 Sep 2004 18:52:48 +0800 (CST)
+Message-ID: <001001c4958d$ebcf1140$053270ca@8jmd55gawpz3tjh>
+From: "shi" <shi@ccert.edu.cn>
+To: che@ccert.edu.cn
+References: <002501c49572$ad6ae250$0e3270ca@CCERTDAWEI>
+Subject: =?gb2312?B?UmU6INbQufq6o83ivK/NxdT1w7TR+bCho78=?=
+Date: Wed, 8 Sep 2004 18:23:44 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_000D_01C495D0.F9CD8B30"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2800.1437
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1441
+X-UIDL: %*%"!Rm%"!F$`!!1&b!!
+
+原来就是一个房地产公司阿？
+噱头这么大
+: 中国海外集团有限公司于1979年6月在香港注册成立，隶属中国建筑工程总公司。1992年8月，本集团之旗舰中国海外发展有限公司在香港联合交易所公开上市，首开中资企业以香港本地业务资产直接上市之先河，2003年实现利润6.89亿港元。截至2003年底，本集团在香港﹑澳门和中国
+: 　　中国海外集团在香港承接建设了许多具有历史价值的规模性项目，如被国际权威机构评为二十世纪全球十大建筑的香港新机场客运大楼，以及香港西九龙填海造地、中国人民解放军驻香港海军基地、迪士尼基建等，均为香港同期同类项目中最大的工程。2001年，中国海外集团承建
+: 　　中国海外集团的地产业务遍布香港、澳门、北京、上海、广州、深圳、成都、长春、南京、西安、中山、苏州等地，成功投资开发了几十个畅销当地的明星楼盘，累计开发和在建房地产项目578万平方米，创造了“排队买楼不知价，只因市民信任他”的行业佳话。2002年8月，中海
+: ...................
+

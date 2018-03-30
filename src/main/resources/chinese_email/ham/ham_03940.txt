@@ -1,0 +1,67 @@
+Return-Path: <tang@mails.tsinghua.edu.cn>
+Received: from tsinghua.org.cn ([210.77.143.232])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with SMTP id j3LB8r7X009372
+	for <wang@ccert.edu.cn>; Thu, 21 Apr 2005 19:09:04 +0800
+Received: (eyou send program); Thu, 21 Apr 2005 19:24:52 +0800
+Message-ID: <314082692.00789@tsinghua.org.cn>
+X-EYOU-AUTOFORWARD: tsinghua.org.cn
+Received: (eyou send program); Thu, 21 Apr 2005 19:24:52 +0800
+Message-ID: <314082692.19350@tsinghua.org.cn>
+Received: from unknown (HELO eyou.net) (210.77.143.235)
+ by 210.77.143.232 with SMTP; Thu, 21 Apr 2005 19:24:52 +0800
+X-EYOU-SPAMVALUE: 0
+Received: (eyou anti_spam gateway 3.0); Thu, 21 Apr 2005 19:14:28 +0800
+Message-ID: <314082068.00478@eyou.net>
+Received: from 202.112.49.111 by 210.77.143.235 with SMTP; Thu, 21 Apr 2005 19:14:27 +0800
+Received: from Garfield. (localhost [IPv6:::1])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with ESMTP id j3LBKsPa060227
+	for <wang@ccert.edu.cn>; Thu, 21 Apr 2005 19:21:20 +0800 (CST)
+	(envelope-from toefl-bounces@gradinfo.net.edu.cn)
+Received: from mails.tsinghua.edu.cn (mails.tsinghua.edu.cn [166.111.8.16])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with SMTP id j3LBKlvd060223
+	for <wang@ccert.edu.cn>; Thu, 21 Apr 2005 19:20:49 +0800 (CST)
+	(envelope-from lguohan00@mails.tsinghua.edu.cn)
+Received: (eyou send program); Thu, 21 Apr 2005 19:11:49 +0800
+Message-ID: <314081909.05698@mails.tsinghua.edu.cn>
+Received: from 202.112.0.89 by mails.tsinghua.edu.cn with HTTP;
+	Thu, 21 Apr 2005 19:11:49 +0800
+X-WebMAIL-MUA: [202.112.0.89]
+From: "tang" <tang@mails.tsinghua.edu.cn>
+To: wang@ccert.edu.cn
+Date: Thu, 21 Apr 2005 19:11:49 +0800
+X-Priority: 3
+Subject: =?gb2312?B?UmU6ILXawfm40MDvw+bEx7j20r3J+sz9tMW0+LXEyrG68sz9tb3By8qyw7Q/?=
+Content-Type: multipart/mixed; boundary="----------=_1114081747-987-409"
+Cc: 
+X-BeenThere: toefl@gradinfo.net.edu.cn
+X-Mailman-Version: 2.1.5
+Precedence: list
+Reply-To: =?gb2312?B?wsC5+urP?= <tang@mails.tsinghua.edu.cn>
+List-Id: "&#26446; &#26143; &#21644; &#20182; &#30340; &#23398; &#29983;
+	&#20204; " <toefl.gradinfo.net.edu.cn>
+List-Unsubscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=unsubscribe>
+List-Archive: <http://gradinfo.net.edu.cn/mailman/private/toefl>
+List-Post: <mailto:toefl@gradinfo.net.edu.cn>
+List-Help: <mailto:toefl-request@gradinfo.net.edu.cn?subject=help>
+List-Subscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=subscribe>
+Sender: toefl-bounces@gradinfo.net.edu.cn
+Errors-To: toefl-bounces@gradinfo.net.edu.cn
+MIME-Version: 1.0
+X-UIDL: ?>`"!fGm"!?pV"!IX!"!
+
+ok
+1、道歉不该问下载，我真的不知道会这么严厉
+2、我很喜欢科幻电影，我记得未来水世界上映的时候，我可是去
+电影院看得，当时这个电影被嘲笑，说花了很多钱，不叫好不叫座
+我觉得很遗憾，其实题材和拍的都很不错啊
+3、基努立维思也很支持科幻电影的，我猜他接拍matrix的时候也不知道
+会那么走红，我记得很早看过他一个电影，他在里面把鼻孔挖的很大
+（不恶心），挖出来一个什么盒子？把我吓了一跳。
+~~~~~~~~~~~~~~~~~~~~~~~~~~~你不会把施瓦辛格当成了[1m基努立维思[m
+.我觉得演员接拍什么片子，不止是他们的经纪人，肯定跟自己的品味
+爱好有关系的，我喜欢有自己个性爱好的演员，而不是只演容易走红的
+或者角色讨好的。
+: 唉，前面不是都说了Waterworld是Kevin Costner么..
+

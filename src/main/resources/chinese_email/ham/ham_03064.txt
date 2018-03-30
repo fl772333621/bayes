@@ -1,0 +1,36 @@
+Return-Path: <xiao@mails.tsinghua.edu.cn>
+Received: from mails.tsinghua.edu.cn (mails.tsinghua.edu.cn [166.111.8.16])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id i8HHkq7R024378
+	for <you@ccert.edu.cn>; Sat, 18 Sep 2004 01:46:52 +0800 (CST)
+Received: (eyou send program); Sat, 18 Sep 2004 01:41:51 +0800
+Message-ID: <295442911.00979@mails.tsinghua.edu.cn>
+Received: from unknown (HELO mails.tsinghua.edu.cn) (unknown@127.0.0.1)
+ by 127.0.0.1 with SMTP; Sat, 18 Sep 2004 01:41:51 +0800
+X-scanvirus: By Symantec Scan Engine
+X-scanresult: CLEAN
+Received: (eqmail ); 17 Sep 2004 17:41:49 -0000
+Received: from tu154210.tsinghua.edu.cn (HELO xiner) (xwang03@166.111.154.210)
+  by mails.tsinghua.edu.cn with SMTP; 17 Sep 2004 17:41:49 -0000
+Message-ID: <003d01c49cde$d5f56b00$d29a6fa6@xiner>
+From: "xiao" <xiao@mails.tsinghua.edu.cn>
+To: you@ccert.edu.cn
+References: <295425058.08406@mails.tsinghua.edu.cn> <295434670.16120@mails.tsinghua.edu.cn>
+Subject: =?gb2312?B?UmU6IMTRuf1pbmc=?=
+Date: Sat, 18 Sep 2004 01:50:34 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_003A_01C49D21.E35CAE00"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2800.1437
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1441
+X-UIDL: #<6"!9i8!!?!A!!N!O!!
+
+……唉，这种生活谁都不好受，结婚了还算好，心里多少有了保障吧！
+最可怕的就是在恋爱期间出去，不管怎么想念、之前怎么过的幸福，化为泡沫了基本。我gg宿舍一个男孩子长的很帅，女朋友今年1月刚去米国，他51就跟其他mm……。我在gg宿舍里碰巧他女朋友打长途来找他，那个时候都不知道他在哪，屋里人只好骗他mm说出去了。
+可我是女孩子，心里突然怅然若失 sigh
+:     终于还是忍不住哭了。
+:     今天早上起来眼睛是肿着的，用冷水敷的时候，泪水又默默地滑了下来。
+:     又是一年过去了，前几天是我的生日。依旧是一个热闹但是寂寞的生日晚宴，因为我的他，仍然不能陪在我身边。
+: ...................
+

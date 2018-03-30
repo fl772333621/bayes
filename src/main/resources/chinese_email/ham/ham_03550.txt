@@ -1,0 +1,40 @@
+Return-Path: <gan@rbl.ccert.edu.cn>
+Received: from rbl.ccert.edu.cn (rbl.ccert.edu.cn [202.112.57.71])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id i9T3Tn5e026490
+	for <yi@ccert.edu.cn>; Fri, 29 Oct 2004 11:29:49 +0800
+Received: from rbl.ccert.edu.cn (localhost.localdomain [127.0.0.1])
+	by rbl.ccert.edu.cn (8.12.11/8.12.11) with ESMTP id i9T3kuLK016379
+	for <yi@ccert.edu.cn>; Fri, 29 Oct 2004 11:47:13 +0800
+Received: (from qa@localhost)
+	by rbl.ccert.edu.cn (8.12.11/8.12.11/Submit) id i9T3kpco016375;
+	Fri, 29 Oct 2004 11:46:51 +0800
+Date: Fri, 29 Oct 2004 11:46:51 +0800
+Message-Id: <200410290346.i9T3kpco016375@rbl.ccert.edu.cn>
+Subject: =?gb2312?B?ofEgwb249sa9t7LIy7XEz+DKtrW9veG76Q==?=
+To: yi@ccert.edu.cn
+From: gan@rbl.ccert.edu.cn
+Content-Type: multipart/mixed; boundary="----------=_1099021638-20866-154"
+MIME-Version: 1.0
+X-UIDL: _PV"!e7Q!!8+/!!bZ="!
+
+2003年10月3日晚，相遇
+2003年10月4日（重阳节），一起爬山
+2003年10月x日，一起吃饭，他帮我喝鸡蛋汤上面的油
+2003年11月x日，生病了，他从公司偷跑回来，给我买了零食，并且熬姜汤我喝。
+2003年11月x日，版聚，一起去大梅沙玩，他对我同学都很好，为我挣足了面子
+2003年11月x日，我牙疼，他给我买了一堆零食，还陪我去看牙医
+2003年12月x日，由于牙疼要换药原因，正式住在一起
+2004年1月x日，一起坐飞机回他家（我第一次坐飞机）
+2004年1月31日，在上海游玩一天，并第一次烫发
+2004年3月x日，我们吵架，我要回学校，他抱住了我。
+2004年3月x日，为了让我散心，他陪我去大梅沙二人世界，拍了很多照
+2004年4月8日，他离开深圳来到上海，工作
+2004年5月2日，我飞过上海看他
+2004年5月22日，再次来上海看他
+2004年6月26日，我正式离开深圳，来到上海
+2004年7月5日，我第一次工作，很开心，大家一起吃火锅庆祝（以后每次换工作都吃火锅）
+2004年10月2日，他第一次跟我回我家，父母很高兴
+2004年12月22日，他托他老板帮我找到第三份工作
+2005年4月5日，辞职，老板扣了我500元，为此事，我们差点分手，我收拾东西准备回家，他又从公司跑回来，大哭抱住我。
+2005年6月x日，终于决定结婚，哈哈
+

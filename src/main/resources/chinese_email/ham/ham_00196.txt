@@ -1,0 +1,61 @@
+Return-Path: <liao@ns.6test.edu.cn>
+Received: from tsinghua.org.cn ([210.77.143.228])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id iA23PVEC009328
+	for <zhao@ccert.edu.cn>; Tue, 2 Nov 2004 11:25:43 +0800
+Received: (eyou send program); Tue, 02 Nov 2004 11:36:53 +0800
+Received: (eyou send program); Tue, 02 Nov 2004 11:36:53 +0800
+X-EYOU-ORIGINAL-IP: 210.77.143.235
+X-EYOU-ENVELOPE-MAILFROM: toefl-bounces@server.cool-meeting.com
+Received: from unknown (HELO eyou.net) (unknown@210.77.143.235)
+ by 210.77.143.228 with SMTP; Tue, 02 Nov 2004 11:36:53 +0800
+Received: (eyou send program); Tue, 02 Nov 2004 11:33:23 +0800
+Message-ID: <299366403.21887@eyou.net>
+Received: from 202.38.99.65 by 210.77.143.235 with SMTP; Tue, 02 Nov 2004 11:33:19 +0800
+Received: from server.cool-meeting.com (localhost.localdomain [127.0.0.1])
+	by server.cool-meeting.com (8.12.8/8.12.8) with ESMTP id iA23lYli017908
+	for <zhao@ccert.edu.cn>; Tue, 2 Nov 2004 11:47:43 +0800
+Received: from ns.6test.edu.cn ([202.38.99.18])
+	by server.cool-meeting.com (8.12.8/8.12.8) with ESMTP id iA23lRkr017904
+	for <zhao@ccert.edu.cn>; Tue, 2 Nov 2004 11:47:27 +0800
+Received: from [210.25.128.109] (helo=tsinghua89o1rm)
+	by ns.6test.edu.cn with asmtp (Exim 4.12) id 1COpmj-000Hqn-00
+	for Toefl@server.cool-meeting.com; Tue, 02 Nov 2004 11:56:41 +0800
+Message-ID: <00b901c4c08d$3da56df0$6d8019d2@tsinghua89o1rm>
+From: "liao" <liao@ns.6test.edu.cn>
+To: zhao@ccert.edu.cn
+Date: Tue, 2 Nov 2004 11:36:42 +0800
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2600.0000
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2600.0000
+Content-Transfer-Encoding: 8bit
+X-MIME-Autoconverted: from base64 to 8bit by server.cool-meeting.com id
+	iA23lRkr017904
+Cc: 
+Subject: =?gb2312?B?UmU6IL3jw8PDxyzI57n71eLKwreiyfq1vcHLxOPDx8ntyc8sxOPDx9T1w7Sw7D8=?=
+X-BeenThere: toefl@server.cool-meeting.com
+X-Mailman-Version: 2.1.2
+Precedence: list
+List-Id: &#26446;&#26143;&#21644;&#20182;&#30340;&#23398;&#29983;&#20204;
+	<toefl.server.cool-meeting.com>
+List-Unsubscribe: <http://server.cool-meeting.com/mailman/listinfo/toefl>,
+	<mailto:toefl-request@server.cool-meeting.com?subject=unsubscribe>
+List-Archive: <http://server.cool-meeting.com/mailman/private/toefl>
+List-Post: <mailto:toefl@server.cool-meeting.com>
+List-Help: <mailto:toefl-request@server.cool-meeting.com?subject=help>
+List-Subscribe: <http://server.cool-meeting.com/mailman/listinfo/toefl>,
+	<mailto:toefl-request@server.cool-meeting.com?subject=subscribe>
+Sender: toefl-bounces@server.cool-meeting.com
+Errors-To: toefl-bounces@server.cool-meeting.com
+X-UIDL: XBJ"!V@@!!,cK"!pR5"!
+Status: RO
+
+说得好呀，比较中肯，呵呵
+: 未婚先孕和未婚性行为并没有本质的区别。一个女人怀了孕，因为身体的原因，舍不得的原因不想打胎，怎么说都是有道理的。没有啥道德问题。又不是第三者，又不是未成年。坚持反对婚前什么什么的，只能把这样要求自己，不该评判别人。
+: 老人要是看不惯这个，也很正常，如果他们的家庭观念很保守的话。不过这个pp也称不上吧。五十多岁领养个孩子，而且还不是发善心碰上了捡回来，而是主动找的。从保守的角度看也够骇世惊俗了。
+: 相信矛盾不是单方面的，也不是那么简单的。双面胶就是这样的。这的要想解决问题，还是反省一下，找出矛盾焦点想办法吧。
+: ...................
+

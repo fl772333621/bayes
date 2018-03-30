@@ -1,0 +1,28 @@
+Return-Path: <qiu@ee.tsinghua.edu.cn>
+Received: from Unixmail5.21 (mail.ee.tsinghua.edu.cn [166.111.64.188])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j066RtIS015046
+	for <zhang@ccert.edu.cn>; Thu, 6 Jan 2005 14:27:55 +0800 (CST)
+Received: (qmail 7905 invoked by alias); 6 Jan 2005 06:23:26 -0000
+Received: from unknown (HELO tsinghuad60c2e) (166.111.64.226)
+  by mail.ee.tsinghua.edu.cn with SMTP; 6 Jan 2005 14:23:26 +0800
+Message-ID: <001101c4f3b8$f9bcd290$e2406fa6@tsinghuad60c2e>
+From: "qiu" <qiu@ee.tsinghua.edu.cn>
+To: zhang@ccert.edu.cn
+Subject: =?gb2312?B?UmU6INf2vLzK9bXE1PXR+c3Yv+3R273nPw==?=
+Date: Thu, 6 Jan 2005 14:28:44 +0800
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="----=_NextPart_000_000D_01C4F3FC.06B15690"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2800.1437
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1441
+X-Mozilla-Status2: 00000000
+
+谁叫你做技术的? 没前途的工作...
+以前听过一个讲座,就是说,马上列举一下你能想到的5个人,这5个人的职业最终会决
+定你未来的圈子..大意如此....
+现在聪明的人都不去挤ee/cs这种民工的专业..
+: 毕业三年多了，同学同事都是一帮做技术的，感觉大家的眼界真的是不宽，聚在一起也就是说技术和网上的事，国家国内大事趣闻等，很少涉及到自己身边的人际交往，进行正确的职业规划等东西，或者跳出来，怎样不靠死工资而赚钱等话题，即使涉及到这些事情，一般大家也都很迷
+: 做技术的有这种感觉吗?
+

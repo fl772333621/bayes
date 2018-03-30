@@ -1,0 +1,27 @@
+Return-Path: <qing@tsinghua.edu.cn>
+Received: from huhoo ([202.112.50.11])
+	(authenticated bits=0)
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id i8L3UVbi014316;
+	Tue, 21 Sep 2004 11:30:31 +0800 (CST)
+From: "qing" <qing@tsinghua.edu.cn>
+To: lin@ccert.edu.cn
+Subject: =?gb2312?B?UmU6ILnY09qwrsGi0MXR0Lei1tDQxKOsttSxyMW1u/nRx9HQt6LW0NDELS0t0rKyu7XDsrvLtQ==?=
+Date: Tue, 21 Sep 2004 11:27:56 +0800
+Message-ID: <018e01c49f8a$ffdca510$033270ca@huhoo>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_018F_01C49FCE.0DFFE510"
+X-Priority: 3 (Normal)
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook, Build 10.0.2627
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1441
+Importance: Normal
+X-UIDL: ma_!!P5@"!*OC!!$E?"!
+
+But, 同样有人在诺基亚面完后等了4个星期，没有任何消息，nokia也没有说多长时间内没有消息就不要再等了，最后是面试者自己打电话去要结果，答复是他们在等一个海龟，仍然不能给出明确的结果。你觉得这件事上，nokia的表现是不是可圈可点？
+所以不要因为某个公司某个部门某个人的做法，就说这个公司优秀或者垃圾，心态平和一点，说话前用一点脑子，对自己没坏处
+: 同意！
+: 很不喜欢爱立信这个人，还有这个人组织的面试，根本不尊重别人！
+: 诺基亚是做技术的，他们也很忙，北电是做技术的，他们很忙，朗讯是做技术的，他们也很忙。
+: ...................
+

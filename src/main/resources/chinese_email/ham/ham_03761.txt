@@ -1,0 +1,26 @@
+Return-Path: <ling@rbl.ccert.edu.cn>
+Received: from rbl.ccert.edu.cn (rbl.ccert.edu.cn [202.112.57.71])
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id i9INsUWD015017
+	for <hu@ccert.edu.cn>; Tue, 19 Oct 2004 07:54:31 +0800 (CST)
+Received: from rbl.ccert.edu.cn (localhost.localdomain [127.0.0.1])
+	by rbl.ccert.edu.cn (8.12.11/8.12.11) with ESMTP id i9J00Flm031541
+	for <hu@ccert.edu.cn>; Tue, 19 Oct 2004 08:00:16 +0800
+Received: (from qa@localhost)
+	by rbl.ccert.edu.cn (8.12.11/8.12.11/Submit) id i9J00F2X031540;
+	Tue, 19 Oct 2004 08:00:15 +0800
+Date: Tue, 19 Oct 2004 08:00:15 +0800
+Message-Id: <200410190000.i9J00F2X031540@rbl.ccert.edu.cn>
+Subject: =?gb2312?B?UmU6ILyx0Oiw79b6o6zU2s/ftci087zS0uK8+w==?=
+To: hu@ccert.edu.cn
+From: Tran Quang Anh <ling@cernet.edu.cn>
+Content-Type: multipart/mixed; boundary="----------=_1098144016-25795-250"
+MIME-Version: 1.0
+X-UIDL: L'+"!X]N"!)Jd"!j8_!!
+
+这次户口的事情，真是让人费尽了心折
+我的都办了两个多月了，三方换了三份，依然没办下来
+公司后来的一个，两个礼拜，却已经办完了……
+不由得不对我们公司的HR产生一点小小的反感。
+就象你说的，这应该是一种工作态度啊。。
+: 去年开始，北京市卡解决户口非常厉害，给每个区分了硬性指标数量，严禁超过，因此各个公司都是尽早上报审批，争取排在前面，通过的几率大一些，我们公司就有过第一年没批下来第二年去批才搞定的情况。当然，公司如果有背景有门路的话会容易一些，这个看公司人力资源的工作态度和职业道德了。从大的环境上来讲，北京在逐年限制外地人入京，包括毕业生就业、住房购置等等方面，哪个公司都不好弄，形势太差罢了。
+

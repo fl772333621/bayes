@@ -1,0 +1,44 @@
+Return-Path: <wang@rbl.ccert.edu.cn>
+Received: from rbl.ccert.edu.cn (rbl.ccert.edu.cn [202.112.57.71])
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id i97C0Mlm019581
+	for <gu@ccert.edu.cn>; Thu, 7 Oct 2004 20:00:22 +0800 (CST)
+Received: from rbl.ccert.edu.cn (localhost.localdomain [127.0.0.1])
+	by rbl.ccert.edu.cn (8.12.11/8.12.11) with ESMTP id i97C6L5i014961
+	for <gu@ccert.edu.cn>; Thu, 7 Oct 2004 20:06:21 +0800
+Received: (from qa@localhost)
+	by rbl.ccert.edu.cn (8.12.11/8.12.11/Submit) id i97C6LZF014960;
+	Thu, 7 Oct 2004 20:06:21 +0800
+Date: Thu, 7 Oct 2004 20:06:21 +0800
+Message-Id: <200410071206.i97C6LZF014960@rbl.ccert.edu.cn>
+Subject: =?gb2312?B?UmU6IM/Q18XO3srCo7rM+dK7z8Kxvr/GsOC1xL7N0rXH6b/2KFpaKQ==?=
+To: gu@ccert.edu.cn
+From: Tran Quang Anh <wang@cernet.edu.cn>
+Content-Type: multipart/mixed; boundary="----------=_1097150781-996-926"
+MIME-Version: 1.0
+X-UIDL: !7G"!d[J!!]QB"!DUD!!
+
+贴个我们班的吧，22个人，赫赫
+新加坡国立大学(PHD candidate)
+国家开发银行
+中国建设银行
+赛迪顾问
+普天集团
+国家发改委
+大庆石油管理局
+斯伦贝谢
+清华大学**学院(PHD candidate)
+清华大学**学院
+清华大学**学院
+清华大学科技园
+宾夕法尼亚州立大学(PHD candidate)
+中国人民银行
+卡内基-梅隆大学(PHD candidate)
+巴黎高等师范学校(PHD candidate)
+中国电信北京研究院
+联想集团
+明尼苏达大学(PHD candidate)
+北京富士康
+卡内基-梅隆大学(PHD candidate)
+香港中文大学(PHD candidate)
+: 有道理，偶咋没想到
+

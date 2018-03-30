@@ -1,0 +1,25 @@
+Return-Path: <wang@rbl.ccert.edu.cn>
+Received: from rbl.ccert.edu.cn (rbl.ccert.edu.cn [202.112.57.71])
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id i98D9CP0009868
+	for <pu@ccert.edu.cn>; Fri, 8 Oct 2004 21:09:12 +0800 (CST)
+Received: from rbl.ccert.edu.cn (localhost.localdomain [127.0.0.1])
+	by rbl.ccert.edu.cn (8.12.11/8.12.11) with ESMTP id i98DFEaS010393
+	for <pu@ccert.edu.cn>; Fri, 8 Oct 2004 21:15:15 +0800
+Received: (from qa@localhost)
+	by rbl.ccert.edu.cn (8.12.11/8.12.11/Submit) id i98DFEb9010392;
+	Fri, 8 Oct 2004 21:15:14 +0800
+Date: Fri, 8 Oct 2004 21:15:14 +0800
+Message-Id: <200410081315.i98DFEb9010392@rbl.ccert.edu.cn>
+Subject: =?gb2312?B?UmU6ILCmo6zDu9P7zfu4+sDPuavBxMzswcs=?=
+To: pu@ccert.edu.cn
+From: Tran Quang Anh <wang@cernet.edu.cn>
+Content-Type: multipart/mixed; boundary="----------=_1097241315-26230-96"
+MIME-Version: 1.0
+X-UIDL: B'\!!&&c"!iN+!!5'X!!
+
+: 电话太贵，用skype，聊天效果很好。或者你俩每天写日记给对方看，这样对对方生活
+: 参与的程度会深很多，应该。如果没有细节和琐碎的事情，聊天会很容易失去话题，我
+: 是这种感觉。                                        ~~~~~~~~~~~~~~~~~~~~~~
+                                     ,貌似我们还好...到目前为止还是有讲不完的话的...相互打趣的占多...每天都是胡说八道的:)
+: ...................
+

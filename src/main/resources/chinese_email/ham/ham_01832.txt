@@ -1,0 +1,34 @@
+Return-Path: <you@ccert.edu.cn>
+Received: from home.ccert.edu.cn (ccert.edu.cn [202.112.57.12])
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id iB187HrA009778;
+	Wed, 1 Dec 2004 16:07:17 +0800 (CST)
+Received: from ccertspark (tu203021.tsinghua.edu.cn [166.111.203.21])
+	(authenticated bits=0)
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id iB17rqKa021013;
+	Wed, 1 Dec 2004 15:53:52 +0800
+From: "you" <you@ccert.edu.cn>
+To: xie@ccert.edu.cn
+Cc: <peng@ccert.edu.cn>
+Subject: =?gb2312?B?ofEgzrDIy8y4uaTX9w==?=
+Date: Wed, 1 Dec 2004 16:05:48 +0800
+Message-ID: <002101c4d77c$91024c60$15cb6fa6@ccertspark>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0022_01C4D7BF.9F258C60"
+X-Priority: 3 (Normal)
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook, Build 10.0.6626
+X-MIMEOLE: Produced By Microsoft MimeOLE V6.00.3790.181
+In-Reply-To: <002301c4d779$cc07e2a0$df54cfdc@WHITESNOW>
+Importance: Normal
+X-UIDL: JD9!!<V*"!DPK"!,S[!!
+
+主席和小平散步，小平问：租吸，四接桑最同库地丝洒子思青哩？主席说：桑板！
+小平又问： 有更同库地拉？主席沉吟半晌，深吸一口烟说：田田桑板
+加强版:
+主席和小平散步，小平问：租吸，四接桑最同库地丝洒子思青哩？主席说：桑板！
+小平又问：有更同库地拉？主席沉吟半晌，深吸一口烟说：甲板！
+小平再问：有更更同库地拉？主席沉吟一晌，深吸二口烟：甲板还木有甲板费！
+小平最后问：有最同库地拉？主席深吸三口烟：甲板，有甲板费，忘记填甲板单。
+小平摇摇头，说“租吸，伲所滴都步嘚，四接桑嘴嘴同库地思青丝霉嘚板桑~”!
+

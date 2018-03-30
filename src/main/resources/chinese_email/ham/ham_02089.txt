@@ -1,0 +1,32 @@
+Return-Path: <yi@rbl.ccert.edu.cn>
+Received: from rbl.ccert.edu.cn (rbl.ccert.edu.cn [202.112.57.71])
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id i97Bkk1W019434
+	for <luo@ccert.edu.cn>; Thu, 7 Oct 2004 19:46:46 +0800 (CST)
+Received: from rbl.ccert.edu.cn (localhost.localdomain [127.0.0.1])
+	by rbl.ccert.edu.cn (8.12.11/8.12.11) with ESMTP id i97Bqjw7002692
+	for <luo@ccert.edu.cn>; Thu, 7 Oct 2004 19:52:45 +0800
+Received: (from qa@localhost)
+	by rbl.ccert.edu.cn (8.12.11/8.12.11/Submit) id i97Bqjqi002691;
+	Thu, 7 Oct 2004 19:52:45 +0800
+Date: Thu, 7 Oct 2004 19:52:45 +0800
+Message-Id: <200410071152.i97Bqjqi002691@rbl.ccert.edu.cn>
+Subject: =?gb2312?B?UmU6IDi/6TXDq8eutcTEuLCuW3p0XQ==?=
+To: luo@ccert.edu.cn
+From: Tran Quang Anh <yi@cernet.edu.cn>
+Content-Type: multipart/mixed; boundary="----------=_1097149965-996-908"
+MIME-Version: 1.0
+X-UIDL: RPG!!ZC_"!>X\!!K,'!!
+
+这样的文章从来不会感动我,
+原因很简单....为了教化人而写.
+不真实
+: 一天中午，一个捡破烂的妇女，把捡来的破烂物品送到废品收购站卖掉后，骑着三轮车
+: 往回走，经过一条无人的小巷时，从小巷的拐角处，猛地窜出一个歹徒来。这歹徒手里拿
+: 着一把刀，他用刀抵住妇女的胸部，凶狠的命令妇女将身上的钱全部交出来。妇女吓傻了
+: ，站在那儿一动不动
+: 　　歹徒便开始搜身，他从妇女的衣袋里搜出一个塑料袋，塑料袋里包着一沓钞票。　
+: 　　歹徒拿着那沓钞票，转身就走。这时，那位妇女反应过来，立即扑上前去，劈手夺
+: 下了塑料袋。歹徒用刀对着妇女，作势要捅她，威胁她放手。妇女却双手紧紧地攥住盛钱
+: 的袋子，死活不松手。　
+: ...................
+

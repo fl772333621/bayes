@@ -1,0 +1,60 @@
+Return-Path: <fan@mails.tsinghua.edu.cn>
+Received: from tsinghua.org.cn ([210.77.143.228])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id iAI2Um1x004701
+	for <jin@ccert.edu.cn>; Thu, 18 Nov 2004 10:30:50 +0800
+Received: (eyou send program); Thu, 18 Nov 2004 10:43:18 +0800
+Received: (eyou send program); Thu, 18 Nov 2004 10:43:15 +0800
+X-EYOU-ORIGINAL-IP: 210.77.143.235
+X-EYOU-ENVELOPE-MAILFROM: toefl-bounces@server.cool-meeting.com
+Received: from unknown (HELO eyou.net) (unknown@210.77.143.235)
+ by 210.77.143.228 with SMTP; Thu, 18 Nov 2004 10:43:15 +0800
+Received: (eyou send program); Thu, 18 Nov 2004 10:39:01 +0800
+Message-ID: <300745541.22057@eyou.net>
+Received: from 202.38.99.65 by 210.77.143.235 with SMTP; Thu, 18 Nov 2004 10:38:59 +0800
+Received: from server.cool-meeting.com (localhost.localdomain [127.0.0.1])
+	by server.cool-meeting.com (8.12.8/8.12.8) with ESMTP id iAHFYilZ015027
+	for <jin@ccert.edu.cn>; Wed, 17 Nov 2004 23:35:15 +0800
+Received: from gradinfo.net.edu.cn ([202.112.49.111])
+	by server.cool-meeting.com (8.12.8/8.12.8) with ESMTP id iAHFYZkr015022
+	for <jin@ccert.edu.cn>; Wed, 17 Nov 2004 23:34:36 +0800
+Received: from garfield ([219.224.201.52])
+	by gradinfo.net.edu.cn (8.9.3/8.9.3) with ESMTP id XAA13914;
+	Wed, 17 Nov 2004 23:20:47 +0800
+Message-Id: <200411171520.XAA13914@gradinfo.net.edu.cn>
+From: "fan" <fan@mails.tsinghua.edu.cn>
+To: jin@ccert.edu.cn
+Subject: =?gb2312?B?UmU6INXi0fm1xMDPuau7udKqsrvSqqO/?=
+Date: Wed, 17 Nov 2004 23:21:38 +0800
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+X-Mailer: Microsoft Office Outlook, Build 11.0.5510
+Thread-Index: AcTMs2ueN2nTY10PSuyplOjPdG55gQABXB8A
+In-Reply-To: <300702445.24670@mails.tsinghua.edu.cn>
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+Content-Transfer-Encoding: 8bit
+X-MIME-Autoconverted: from base64 to 8bit by server.cool-meeting.com id
+	iAHFYZkr015022
+Cc: 
+X-BeenThere: toefl@server.cool-meeting.com
+X-Mailman-Version: 2.1.2
+Precedence: list
+List-Id: &#26446;&#26143;&#21644;&#20182;&#30340;&#23398;&#29983;&#20204;
+	<toefl.server.cool-meeting.com>
+List-Unsubscribe: <http://server.cool-meeting.com/mailman/listinfo/toefl>,
+	<mailto:toefl-request@server.cool-meeting.com?subject=unsubscribe>
+List-Archive: <http://server.cool-meeting.com/mailman/private/toefl>
+List-Post: <mailto:toefl@server.cool-meeting.com>
+List-Help: <mailto:toefl-request@server.cool-meeting.com?subject=help>
+List-Subscribe: <http://server.cool-meeting.com/mailman/listinfo/toefl>,
+	<mailto:toefl-request@server.cool-meeting.com?subject=subscribe>
+Sender: toefl-bounces@server.cool-meeting.com
+Errors-To: toefl-bounces@server.cool-meeting.com
+X-UIDL: 'n>!!G-0!!]\*"!)Hi"!
+
+这个坑真的有点眼熟。^_^
+:  还大打出手，我实在受不了我老公在家里闲呆着，已经7，8个月了。他北京的一位同学不断的努力找工作，前不久工作辞了，现在又找了1份。我让我老公去找一份先干着，他编程能力不行,我就建议他去找一份销售的活干干，别人不同意，想想他93年毕业，到现在已经8个年头，什么
+: 他竟然还说我这样跟他吵伤了他的自尊心，如果他有一天咸鱼翻身，他会好好报复的。
+: 像这样的老公说出这样的话，已经不只一次了，其实我也不怕。我有固定的工作，我吁他做什么，但是他竟然有脸说出这样的话，想想从我研究生毕业到现在3年，我挣的钱都是我们俩花掉的，他这几年同朋友开了家破产公司，还是别个老板投资，每月连基本工资（1200）元都发不到�
+: ...................
+

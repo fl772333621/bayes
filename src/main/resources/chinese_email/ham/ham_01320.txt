@@ -1,0 +1,56 @@
+Return-Path: <qiu@ccert.edu.cn>
+Received: from tsinghua.org.cn ([210.77.143.228])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id i9B7woTI014958
+	for <weng@ccert.edu.cn>; Mon, 11 Oct 2004 15:58:52 +0800
+Received: (eyou send program); Mon, 11 Oct 2004 16:09:33 +0800
+Received: (eyou send program); Mon, 11 Oct 2004 16:09:31 +0800
+X-EYOU-ORIGINAL-IP: 166.111.8.16
+X-EYOU-ENVELOPE-MAILFROM: weike@ccert.edu.cn
+Received: from unknown (HELO mails.tsinghua.edu.cn) (unknown@166.111.8.16)
+ by 210.77.143.228 with SMTP; Mon, 11 Oct 2004 16:09:31 +0800
+Received: (eyou send program); Mon, 11 Oct 2004 16:03:25 +0800
+Message-ID: <297481804.23739@mails.tsinghua.edu.cn>
+Received: (eyou send program); Mon, 11 Oct 2004 16:03:24 +0800
+Message-ID: <297481803.07032@mails.tsinghua.edu.cn>
+Received: from unknown (HELO mails.tsinghua.edu.cn) (unknown@127.0.0.1)
+ by 127.0.0.1 with SMTP; Mon, 11 Oct 2004 16:03:24 +0800
+X-scanvirus: By Symantec Scan Engine
+X-scanresult: CLEAN
+Received: (eqmail ); 11 Oct 2004 08:03:21 -0000
+Received: from ccert.edu.cn (HELO home.ccert.edu.cn) (202.112.57.12)
+  by mails.tsinghua.edu.cn with SMTP; 11 Oct 2004 08:03:21 -0000
+Received: from home.ccert.edu.cn (localhost [127.0.0.1])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id i9B7v7Gg014921;
+	Mon, 11 Oct 2004 15:57:07 +0800
+Received: (from majordomo@localhost)
+	by home.ccert.edu.cn (8.13.1/8.13.1/Submit) id i9B7v7f1014920;
+	Mon, 11 Oct 2004 15:57:07 +0800
+X-Authentication-Warning: home.ccert.edu.cn: majordomo set sender to owner-ccertstaff using -f
+Received: from power001 ([202.112.50.103])
+	(authenticated bits=0)
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id i9B7v5wS014916
+	for <weng@ccert.edu.cn>; Mon, 11 Oct 2004 15:57:06 +0800
+Message-ID: <00e001c4af69$6d7cd160$673270ca@Power001>
+From: "qiu" <qiu@ccert.edu.cn>
+To: weng@ccert.edu.cn
+Subject: =?gb2312?B?UmU6IM7Suty2qsjLIM7SMjXAsiDO0rfFyfm087/ewLKjoSDOqsqyw7Q=?=
+Date: Mon, 11 Oct 2004 16:07:59 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_00DD_01C4AFAC.7A885FD0"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.3790.181
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.3790.181
+Sender: owner-ccertstaff@home.ccert.edu.cn
+Precedence: bulk
+X-UIDL: (Uh!!eN$"!(m="!Gl3!!
+
+cft 
+全当是历练了 
+什么认都有什么事情都会碰上
+: 事情这样的 我为了帮我同学购买人大金融 的考研资料 去联系到了一个网站上边管理员 留下的方式我和她联系了  然后我说我只要其中一部分 总共一百元 头一天说好了 我不要她其他什么赠送的资料 后来给我说不卖了要就是全部 总共190 我说西经的试题我都有了 真的没有重复的
+: 我救给她说你怎么不相信我。。。他说什么样的人都有。。。。。。。。。。。
+: 我骂她了 她玩了我两次 我骂她 。。。。。。。。。她说我素质差
+: ...................
+

@@ -1,0 +1,25 @@
+Return-Path: <jiang@rbl.ccert.edu.cn>
+Received: from rbl.ccert.edu.cn (rbl.ccert.edu.cn [202.112.57.71])
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id i9A7Xc7s012982
+	for <yun@ccert.edu.cn>; Sun, 10 Oct 2004 15:33:38 +0800 (CST)
+Received: from rbl.ccert.edu.cn (localhost.localdomain [127.0.0.1])
+	by rbl.ccert.edu.cn (8.12.11/8.12.11) with ESMTP id i9A7csiI007854
+	for <yun@ccert.edu.cn>; Sun, 10 Oct 2004 15:38:58 +0800
+Received: (from qa@localhost)
+	by rbl.ccert.edu.cn (8.12.11/8.12.11/Submit) id i9A7cshv007853;
+	Sun, 10 Oct 2004 15:38:54 +0800
+Date: Sun, 10 Oct 2004 15:38:54 +0800
+Message-Id: <200410100738.i9A7cshv007853@rbl.ccert.edu.cn>
+Subject: =?gb2312?B?UmU6INTZxsChttC0uPjSqszuuN+/vNa+1Li1xMjLw8ejrLzmzLi149DQ0rW/tLeoobc=?=
+To: yun@ccert.edu.cn
+From: Tran Quang Anh <jiang@cernet.edu.cn>
+Content-Type: multipart/mixed; boundary="----------=_1097393938-1014-22"
+MIME-Version: 1.0
+X-UIDL: 1GQ"!k"*!!P(i!!Gh4!!
+
+老国企都是看关系的，管理现代化的会好一些
+:     不信算了。这里能升上去的都不是看文凭的。
+:     这里还有几个老清华的，到现在全部都是普通职工（别跟我说那几个人都不团结群众或者能力不够）。那时候大学生可没扩招，大部分人都是中专技校文凭，还有初中毕业的。
+:     现在啊，是个人肯掏钱再花上几年时间就能搞到文凭，特别是国外的一些大学，有些领导孩子高考考不上，就直接送国外去镀金了。
+: ...................
+

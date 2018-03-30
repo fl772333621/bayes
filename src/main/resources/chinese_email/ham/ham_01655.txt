@@ -1,0 +1,42 @@
+Return-Path: <tan@rbl.ccert.edu.cn>
+Received: from rbl.ccert.edu.cn (rbl.ccert.edu.cn [202.112.57.71])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id i9T3UhIW026541
+	for <hong@ccert.edu.cn>; Fri, 29 Oct 2004 11:30:43 +0800
+Received: from rbl.ccert.edu.cn (localhost.localdomain [127.0.0.1])
+	by rbl.ccert.edu.cn (8.12.11/8.12.11) with ESMTP id i9T3lpoo016417
+	for <hong@ccert.edu.cn>; Fri, 29 Oct 2004 11:48:07 +0800
+Received: (from qa@localhost)
+	by rbl.ccert.edu.cn (8.12.11/8.12.11/Submit) id i9T3lkWG016414;
+	Fri, 29 Oct 2004 11:47:46 +0800
+Date: Fri, 29 Oct 2004 11:47:46 +0800
+Message-Id: <200410290347.i9T3lkWG016414@rbl.ccert.edu.cn>
+Subject: =?gb2312?B?ofEgTG9va2luZyBmb3IgUHJvamVjdCBNYW5hZ2VyIGFuZCBFeHBlcmllbmNlZCBQcm9ncmFtbWVy
+cw==?=
+To: hong@ccert.edu.cn
+From: tan@rbl.ccert.edu.cn
+Content-Type: multipart/mixed; boundary="----------=_1099021692-20866-168"
+MIME-Version: 1.0
+X-UIDL: mB(!!-?S!!M[M"!NUk"!
+
+Please directly contact with the employer, a Michigan MBA from South Korea. His email address is hr@powerilc.com.
+==========================================================================
+Looking for Project Manager and Experienced Programmers
+I am setting up a new educational internet contents company in HwaQingJiaYuan (near southern gate).  These days, I am planning to create a demo websites including English listening board game, English study multi-media player including VOD, and other English education solution synchronized with mobile phone).  I am looking for project-based employees for helping creating our demo site for about 3 months. If you are interested in this project, please send your resume in English to my mailbox: hr@powerilc.com. 
+Project manager candidate Requirement
+-    Good English Communication Skill
+-    Strong Experience in handing both database and clients.
+-    Looking for one who can work in sincerity
+-    Monthly salaries depends on his careers
+-    Online education and online game experience are welcomed.
+Programmer Candidate Requirement
+-    Good English Communication Skill
+-    Board game and casual game development experience welcomed
+-    Media player development experience welcomed
+-    Mobile solution related experience welcomed
+-    Monthly salaries depends on his careers
+-    Online game or online education experience welcomed 
+-    Looking for one who can work in sincerity
+Working Hours
+Monday to Friday 9:00PM – 6:00 PM (a little adjustment possible)
+If you can finish the whole project in less than 3 months according to your time arrangement, I can also outsource this project to you. Certainly we should contract with each other the turn key-bases on the project.
+

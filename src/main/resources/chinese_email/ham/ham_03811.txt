@@ -1,0 +1,25 @@
+Return-Path: <wei@rbl.ccert.edu.cn>
+Received: from rbl.ccert.edu.cn (rbl.ccert.edu.cn [202.112.57.71])
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id i9K76lsZ016692
+	for <wen@ccert.edu.cn>; Wed, 20 Oct 2004 15:06:48 +0800 (CST)
+Received: from rbl.ccert.edu.cn (localhost.localdomain [127.0.0.1])
+	by rbl.ccert.edu.cn (8.12.11/8.12.11) with ESMTP id i9K7Cd7v023864
+	for <wen@ccert.edu.cn>; Wed, 20 Oct 2004 15:12:40 +0800
+Received: (from qa@localhost)
+	by rbl.ccert.edu.cn (8.12.11/8.12.11/Submit) id i9K7Cdee023863;
+	Wed, 20 Oct 2004 15:12:39 +0800
+Date: Wed, 20 Oct 2004 15:12:39 +0800
+Message-Id: <200410200712.i9K7Cdee023863@rbl.ccert.edu.cn>
+Subject: =?gb2312?B?UmU6ILTzvNK2vMzYsfDU2rr1tP3T9sLwo78=?=
+To: wen@ccert.edu.cn
+From: Tran Quang Anh <wei@cernet.edu.cn>
+Content-Type: multipart/mixed; boundary="----------=_1098256360-20725-4"
+MIME-Version: 1.0
+X-UIDL: RUA!!eae"!%Mi!!H^E!!
+
+我不着急，呵呵，我又不找工作，我只是发表一下我的看法罢了。:)
+btw：俺下下个月就28了，房子是有了，打算明年买车，媳妇也找了，呵呵
+想当年99年从清华出来的时候去上地一家外企，一个月就开3000多，住北大东门小平房，慢慢熬到现在第六年了，现在在一个60人的公司当技术副总，每年公司做几千万的项目，也算混的还行，温饱基本还是解决了，工作之余还能玩玩网络游戏，做做自己喜欢的技术研究，也挺不错。可能现在的毕业生已经没有那份耐心去用5年的时间为自己挖第一桶金了，呵呵，快有代沟了。:)
+: 你那么着急干吗，呵呵呵呵
+: 35岁也不迟啊
+

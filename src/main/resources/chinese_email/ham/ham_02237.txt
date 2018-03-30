@@ -1,0 +1,69 @@
+Return-Path: <hong@mails.tsinghua.edu.cn>
+Received: from tsinghua.org.cn ([210.77.143.232])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with SMTP id j295MRLb015686
+	for <fu@ccert.edu.cn>; Wed, 9 Mar 2005 13:22:28 +0800
+Received: (eyou send program); Wed, 09 Mar 2005 13:34:43 +0800
+Message-ID: <310346483.02061@tsinghua.org.cn>
+X-EYOU-AUTOFORWARD: tsinghua.org.cn
+Received: (eyou send program); Wed, 09 Mar 2005 13:34:42 +0800
+Message-ID: <310346482.30600@tsinghua.org.cn>
+Received: from unknown (HELO gradinfo.net.edu.cn) (202.112.49.111)
+ by 210.77.143.232 with SMTP; Wed, 09 Mar 2005 13:34:42 +0800
+Received: from [202.112.49.111] (localhost [IPv6:::1])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with ESMTP id j295b0FI046749
+	for <fu@ccert.edu.cn>; Wed, 9 Mar 2005 13:37:18 +0800 (CST)
+	(envelope-from toefl-bounces@gradinfo.net.edu.cn)
+Received: from [219.224.201.36] (r204.zj.tsinghua.edu.cn [219.224.201.36] (may
+	be forged))
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with ESMTP id j295avlx046745
+	for <fu@ccert.edu.cn>; Wed, 9 Mar 2005 13:36:57 +0800 (CST)
+	(envelope-from lguohan00@mails.tsinghua.edu.cn)
+Message-ID: <422E8C0C.70109@mails.tsinghua.edu.cn>
+Date: Wed, 09 Mar 2005 13:39:24 +0800
+From: Guohan Lu <hong@mails.tsinghua.edu.cn>
+Organization: Tsinghua University
+User-Agent: Mozilla Thunderbird 1.0 (Windows/20041206)
+X-Accept-Language: en-us, en
+MIME-Version: 1.0
+To: fu@ccert.edu.cn
+Content-Type: text/plain; charset=GB2312
+Content-Transfer-Encoding: 8bit
+Subject: =?gb2312?B?UmU6IM3iyfvFrtKqsai/vNbQssa78tXfzeK+rcOz?=
+X-BeenThere: toefl@gradinfo.net.edu.cn
+X-Mailman-Version: 2.1.5
+Precedence: list
+Reply-To: hong@mails.tsinghua.edu.cn
+List-Id: "&#26446; &#26143; &#21644; &#20182; &#30340; &#23398; &#29983;
+	&#20204; " <toefl.gradinfo.net.edu.cn>
+List-Unsubscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=unsubscribe>
+List-Archive: <http://gradinfo.net.edu.cn/mailman/private/toefl>
+List-Post: <mailto:toefl@gradinfo.net.edu.cn>
+List-Help: <mailto:toefl-request@gradinfo.net.edu.cn?subject=help>
+List-Subscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=subscribe>
+Sender: toefl-bounces@gradinfo.net.edu.cn
+Errors-To: toefl-bounces@gradinfo.net.edu.cn
+X-UIDL: RIb"!TY:!!21l!!!N~"!
+
+: 标  题: 外甥女要报考中财或者外经贸
+: 发信站: 水木社区 (Sat Jun 11 17:41:53 2005), 站内
+: 
+: 想问一下现在金融学前景如何？
+前景不错,但是要好学校,学到博士都不亏,
+: 
+: 哪个学校好点？
+感觉才不多,要使国际金融,
+: 
+: 这两个学校什么专业好点？？
+国际金融,国际贸易之类的吧,另外英语要学好,有二外更好
+: 
+: 对不起问的乱。
+: 
+: 请大家帮帮忙。
+绝对忠言,不用谢
+: 
+: --
+: 
+: ※ 来源:·水木社区 newsmth.net·[FROM: 210.77.2.*]
+

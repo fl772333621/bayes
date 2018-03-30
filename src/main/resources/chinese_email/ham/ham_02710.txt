@@ -1,0 +1,43 @@
+Return-Path: <gao@cernet.edu.cn>
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id iB18Pqrl021547;
+	Wed, 1 Dec 2004 16:25:52 +0800
+Received: from WHITESNOW ([220.207.88.17])
+	(authenticated bits=0)
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id iB18ch8t010293;
+	Wed, 1 Dec 2004 16:38:49 +0800 (CST)
+Message-ID: <007a01c4d781$2f3d5c40$df54cfdc@WHITESNOW>
+From: "gao" <gao@cernet.edu.cn>
+To: chen@ccert.edu.cn
+Cc: <zhan@ccert.edu.cn>
+References: <002101c4d77c$91024c60$15cb6fa6@ccertspark>
+Subject: =?gb2312?B?ofEgz+u9qL+80dDNqNDF0+vQxbrFtKbA7deo0rW1xMi6oaOho6Gj?=
+Date: Wed, 1 Dec 2004 16:38:41 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0077_01C4D7C4.376BA5A0"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2900.2180
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+X-UIDL: =Ko"!I']"!#$g!!6k5!!
+
+愿与各位同学一起探讨如下几个方面的试题：
+1. 信号与系统；
+2. 数字信号处理；
+3. 统计信号分析；
+4. 概率与随机过程；
+5. 通信原理数字通信；
+6. 算法与数据结构；
+7. 数学分析线性代数；
+欢迎来信探讨难题。可建立mailing-list...
+电邮： loseminds@hotmail.com
+考清华电子系的朋友以及其他学校的朋友
+有兴趣可以过来交流。主要是找一个有效的形式交流解题。难题探讨等等。
+目标是考清华电子系90分。实际能考到80分就满意啦。
+怎样一个形式是最有效率的交流解题的形式，这个还要试验和探讨。
+QQ就算了，老挂在网上，网聊效率好像不太高。不利于专心做题。
+欢迎探讨各种题目以及对答案。
+ 
+ 
+

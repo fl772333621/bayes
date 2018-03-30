@@ -1,0 +1,19 @@
+Return-Path: <gu@124.com>
+Received: from 124.com ([60.180.166.227])
+	by home.ccert.edu.cn (MIMEDefang) with ESMTP id NOQUEUE
+	for <shen@ccert.edu.cn>; Wed, 01 Jun 2005 10:30:19 +0800 (CST)
+Message-ID: <200506011030.0.509709413627448@home.ccert.edu.cn>
+From: gu@124.com
+Subject: =?gb2312?B?V0VCvfjP+rTmyO28/g==?=
+To: shen@ccert.edu.cn
+Content-Type: text/plain;charset="GB2312"
+Content-Transfer-Encoding: 8bit
+Date: Wed, 1 Jun 2005 10:47:17 +0800
+X-Priority: 3
+X-Mailer: Foxmail 4.2 [cn]
+
+WEB进销存软件
+演示：http://chuanzhen.vicp.net/iduscm
+户名和密码索取QQ11088688
+现在购买价格优惠
+

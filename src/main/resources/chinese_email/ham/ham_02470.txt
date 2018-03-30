@@ -1,0 +1,39 @@
+Return-Path: <zeng@tsinghua.edu.cn>
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id i9PEp4s6015972
+	for <xiao@ccert.edu.cn>; Mon, 25 Oct 2004 22:51:04 +0800 (CST)
+Received: (eyou send program); Mon, 25 Oct 2004 22:36:29 +0800
+Message-ID: <298714989.06408@mail.tsinghua.edu.cn>
+Received: from unknown (HELO mail.tsinghua.edu.cn) (unknown@127.0.0.1)
+ by 127.0.0.1 with SMTP; Mon, 25 Oct 2004 22:36:29 +0800
+X-scanvirus: By Symantec Scan Engine
+X-scanresult: CLEAN
+Received: (eqmail ); 25 Oct 2004 14:36:26 -0000
+Received: from unknown (HELO sony) (duanhx@166.111.232.146)
+  by localhost with SMTP; 25 Oct 2004 14:36:26 -0000
+Message-ID: <005301c4baa2$082bc110$063270ca@sony>
+From: "zeng" <zeng@tsinghua.edu.cn>
+To: xiao@ccert.edu.cn
+References: <296440622.22437@mail.tsinghua.edu.cn> <298702987.09967@mail.tsinghua.edu.cn>
+Subject: =?gb2312?B?ofEgs8/GuM341b66zdPDu6e958Pmyei8xsqmo6i7ttOt06a97LHP0rXJ+tOmxrijqQ==?=
+Date: Mon, 25 Oct 2004 22:50:54 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0050_01C4BAE5.15719960"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2900.2180
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+X-UIDL: lMD!!^:f!!'p6!!,;l"!
+
+诚聘美术和现代IT技术的复合性人才
+对用户界面设计与技术发展趋势有浓厚的兴趣
+具有简捷流畅独具特色的设计风格及以人为本和以实用为主的设计理念
+能熟练运用相关的设计软件工具和HTML，DHTML，CSS，Flash，JavaScript等互联网应用开发技术
+希望有网站或软件的用户界面设计与开发的实际工作经验（请附作品网址）
+有创业的冲动、团队精神及独当一面的能力
+具有影视内容栏目策划和编辑经验的优先
+工业美术、工业设计等相关专业优先
+可以考虑有充足时间的（已修完课程的）研究生兼职
+有意者请发简历到：goodp2p@gmail.com（请勿回贴或回信给发贴者！），并请注目要求月薪。谢谢！
+

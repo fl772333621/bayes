@@ -1,0 +1,100 @@
+Return-Path: <chi@ns.6test.edu.cn>
+Received: from tsinghua.org.cn ([210.77.143.228])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id iAO0uclE013944
+	for <qian@ccert.edu.cn>; Wed, 24 Nov 2004 08:56:39 +0800
+Received: (eyou send program); Wed, 24 Nov 2004 09:09:21 +0800
+Received: (eyou send program); Wed, 24 Nov 2004 09:09:21 +0800
+X-EYOU-ORIGINAL-IP: 210.77.143.235
+X-EYOU-ENVELOPE-MAILFROM: toefl-bounces@server.cool-meeting.com
+Received: from unknown (HELO eyou.net) (unknown@210.77.143.235)
+ by 210.77.143.228 with SMTP; Wed, 24 Nov 2004 09:09:21 +0800
+Received: (eyou send program); Wed, 24 Nov 2004 09:04:49 +0800
+Message-ID: <301258289.25638@eyou.net>
+Received: from 202.38.99.65 by 210.77.143.235 with SMTP; Wed, 24 Nov 2004 09:04:48 +0800
+Received: from server.cool-meeting.com (localhost.localdomain [127.0.0.1])
+	by server.cool-meeting.com (8.12.8/8.12.8) with ESMTP id iAO1O8li027269
+	for <qian@ccert.edu.cn>; Wed, 24 Nov 2004 09:24:14 +0800
+Received: from ns.6test.edu.cn ([202.38.99.18])
+	by server.cool-meeting.com (8.12.8/8.12.8) with ESMTP id iAO1O2kr027265
+	for <qian@ccert.edu.cn>; Wed, 24 Nov 2004 09:24:02 +0800
+Received: from [202.112.3.118] (helo=IBM-E4AA49AF703)
+	by ns.6test.edu.cn with asmtp (Exim 4.12) id 1CWlzN-000HxZ-00
+	for Toefl@server.cool-meeting.com; Wed, 24 Nov 2004 09:30:33 +0800
+From: "chi" <chi@ns.6test.edu.cn>
+To: qian@ccert.edu.cn
+X-mailer: Foxmail 4.2 [cn]
+Mime-Version: 1.0
+Content-Type: text/plain;
+      charset="GB2312"
+Date: Wed, 24 Nov 2004 9:9:4 +0800
+Message-Id: <E1CWlzN-000HxZ-00@ns.6test.edu.cn>
+Content-Transfer-Encoding: 8bit
+X-MIME-Autoconverted: from quoted-printable to 8bit by server.cool-meeting.com
+	id iAO1O2kr027265
+Cc: 
+Subject: =?gb2312?B?ofEgyc+12Lmry77V0Ma4yO28/r+qt6LIy9SxIHp6?=
+X-BeenThere: toefl@server.cool-meeting.com
+X-Mailman-Version: 2.1.2
+Precedence: list
+List-Id: &#26446;&#26143;&#21644;&#20182;&#30340;&#23398;&#29983;&#20204;
+	<toefl.server.cool-meeting.com>
+List-Unsubscribe: <http://server.cool-meeting.com/mailman/listinfo/toefl>,
+	<mailto:toefl-request@server.cool-meeting.com?subject=unsubscribe>
+List-Archive: <http://server.cool-meeting.com/mailman/private/toefl>
+List-Post: <mailto:toefl@server.cool-meeting.com>
+List-Help: <mailto:toefl-request@server.cool-meeting.com?subject=help>
+List-Subscribe: <http://server.cool-meeting.com/mailman/listinfo/toefl>,
+	<mailto:toefl-request@server.cool-meeting.com?subject=subscribe>
+Sender: toefl-bounces@server.cool-meeting.com
+Errors-To: toefl-bounces@server.cool-meeting.com
+X-UIDL: iU5"!SoU"!8:_"!J3E"!
+
+发信人: zlp163 (远程集团电话), 信区: Career
+标  题: 上地公司招聘软件开发人员
+发信站: BBS 水木清华站 (Mon Jun 13 22:44:03 2005), 站内
+公司网址  http://www.wisartech.com/
+联系电话：010 82784175，82784177，
+zlp@tsinghua.edu.cn   jszhang@wisartech.com
+1、VoIP软件开发人员
+人数
+    2人
+工作地点
+    北京
+主要工作
+&amp;#61550;    VoIP软件开发；
+要求
+&amp;#61548;    通信、计算机及相关专业，本科以上学历，可以熟练阅读英语技术资料；
+&amp;#61548;    2年以服务器软件开发经验；
+&amp;#61548;    精通C/C++、汇编语言编程；
+&amp;#61548;    熟悉TCP/IP协议，了解VoIP相关的协议（如H.323、SIP、MGCP等）及服务器软
+件（如GK、Proxy Server），了解网络结构和路由原理；
+&amp;#61548;    能够熟练使用windows服务器版操作系统，有Linux下服务器软件开发经验者优
+先。
+2、TCP/IP 协议栈开发人员
+人数
+    3人
+工作地点
+    北京
+主要工作
+&amp;#61550;    负责TCP/IP通信协议栈的开发与移植。
+要求
+&amp;#61548;    计算机及相关专业，本科以上学历，可以熟练阅读英文技术资料；
+&amp;#61548;    2年以上TCP/IP协议开发经验，熟悉SNMP、RIP、HTTP、DNS、TLS等协议的应用
+开发；
+&amp;#61548;    熟练应用C/C++编程语言；
+&amp;#61548;    有嵌入式系统下TCP/IP开发经验者优先。
+3、VoIP产品售前支持
+人数
+    2人
+工作地点
+    深圳
+主要工作
+&amp;#61550;    负责VoIP产品的技术支持。
+要求
+&amp;#61548;    计算机、通信、电子工程及相关专业，本科以上学历；
+&amp;#61548;    2年以上通信系统或网络系统行业相关工作经验，有VoIP产品相关工作经验者
+优先；
+&amp;#61548;    熟练windows、linux等服务器版操作系统，熟悉常用的通信系统管理软件，了
+解路由、交换的工作原理，有相关资格认证或网络调试经验者优先；
+&amp;#61548;    能够适应长期出差，具有良好的客户技术交流能力。
+

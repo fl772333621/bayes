@@ -1,0 +1,32 @@
+Return-Path: <su@rbl.ccert.edu.cn>
+Received: from rbl.ccert.edu.cn (rbl.ccert.edu.cn [202.112.57.71])
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id i9H2tvsb005208
+	for <cen@ccert.edu.cn>; Sun, 17 Oct 2004 10:55:57 +0800 (CST)
+Received: from rbl.ccert.edu.cn (localhost.localdomain [127.0.0.1])
+	by rbl.ccert.edu.cn (8.12.11/8.12.11) with ESMTP id i9H31cdI005849
+	for <cen@ccert.edu.cn>; Sun, 17 Oct 2004 11:01:38 +0800
+Received: (from qa@localhost)
+	by rbl.ccert.edu.cn (8.12.11/8.12.11/Submit) id i9H31cBS005848;
+	Sun, 17 Oct 2004 11:01:38 +0800
+Date: Sun, 17 Oct 2004 11:01:38 +0800
+Message-Id: <200410170301.i9H31cBS005848@rbl.ccert.edu.cn>
+Subject: =?gb2312?B?UmU6ILK7y6zByw==?=
+To: cen@ccert.edu.cn
+From: Tran Quang Anh <su@cernet.edu.cn>
+Content-Type: multipart/mixed; boundary="----------=_1097982098-2811-170"
+MIME-Version: 1.0
+X-UIDL: 5o:!!j,H"!$PV!!+US!!
+
+卖西瓜的不卖给你是随机事件，没什么的。你的bf去买到了，是碰巧，
+不信你下次去再买，卖瓜的就能卖给你了。
+从经济的角度，卖瓜的不愿意为了因为1/4的利益而让3/4的瓜冒不新鲜的风险
+而卖不出去，不过，当生意很好的时候，切小了卖，一会就卖出去了。所以他
+就愿意切小了
+这个与个体没有关系，成长的历程都会有这样的心路历程，感谢你写出来
+我以前就在心里想今天那个女孩不错啊，就像唐伯虎看到回头对他笑的秋香姐
+想了又想，秋香她为什么回头对我笑啊！
+: 刚才去紫荆水果摊买西瓜。当时是10点左右，人不多，切成半个的西瓜放了一地。我挑了半个看起来比较好的，让卖水果的给我再切一刀。因为我和gg两个人吃不了半个。
+: 结果卖水果的说这半个太小了，不给切。
+: 我说这是我能挑的最大的了。
+: ...................
+

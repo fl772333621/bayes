@@ -1,0 +1,57 @@
+Return-Path: <ning@ccert.edu.cn>
+Received: from tsinghua.org.cn ([210.77.143.228])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id i9B6dEsa013597
+	for <ning@ccert.edu.cn>; Mon, 11 Oct 2004 14:39:16 +0800
+Received: (eyou send program); Mon, 11 Oct 2004 14:49:57 +0800
+Received: (eyou send program); Mon, 11 Oct 2004 14:47:05 +0800
+X-EYOU-ORIGINAL-IP: 166.111.8.16
+X-EYOU-ENVELOPE-MAILFROM: sunbin@ccert.edu.cn
+Received: from unknown (HELO mails.tsinghua.edu.cn) (unknown@166.111.8.16)
+ by 210.77.143.228 with SMTP; Mon, 11 Oct 2004 14:47:05 +0800
+Received: (eyou send program); Mon, 11 Oct 2004 14:40:58 +0800
+Message-ID: <297476858.03006@mails.tsinghua.edu.cn>
+Received: (eyou send program); Mon, 11 Oct 2004 14:40:50 +0800
+Message-ID: <297476849.21006@mails.tsinghua.edu.cn>
+Received: from unknown (HELO mails.tsinghua.edu.cn) (unknown@127.0.0.1)
+ by 127.0.0.1 with SMTP; Mon, 11 Oct 2004 14:40:50 +0800
+X-scanvirus: By Symantec Scan Engine
+X-scanresult: CLEAN
+Received: (eqmail ); 11 Oct 2004 06:39:59 -0000
+Received: from ccert.edu.cn (HELO home.ccert.edu.cn) (202.112.57.12)
+  by mails.tsinghua.edu.cn with SMTP; 11 Oct 2004 06:39:59 -0000
+Received: from home.ccert.edu.cn (localhost [127.0.0.1])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id i9B6PgIA013394;
+	Mon, 11 Oct 2004 14:25:42 +0800
+Received: (from majordomo@localhost)
+	by home.ccert.edu.cn (8.13.1/8.13.1/Submit) id i9B6PgA9013393;
+	Mon, 11 Oct 2004 14:25:42 +0800
+X-Authentication-Warning: home.ccert.edu.cn: majordomo set sender to owner-ccertstaff using -f
+Received: from sunbin ([202.112.50.201])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with SMTP id i9B6PROQ013385
+	for <ning@ccert.edu.cn>; Mon, 11 Oct 2004 14:25:27 +0800
+Message-Id: <200410110625.i9B6PROQ013385@home.ccert.edu.cn>
+Date: Mon, 11 Oct 2004 14:39:12 +0800
+From: "ning" <ning@ccert.edu.cn>
+Reply-To: ning@ccert.edu.cn
+To: ning@ccert.edu.cn
+Subject: =?gb2312?B?UmU6IM7SuMPU9cO0sOyjvw==?=
+Organization: CCERT
+X-mailer: Foxmail 5.0 beta2 [cn]
+Mime-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="=====001_Dragon314065361121_====="
+Sender: owner-ccertstaff@home.ccert.edu.cn
+Precedence: bulk
+X-UIDL: &pJ"!VlN!![@W"!6pn!!
+
+在感情上优柔寡断的男生 我很鄙视。
+在认识你之前，无论他怎么样都可以
+如果认识你之后，他还对从前念念不忘，那么就甩头就走。
+特别讨厌那种吃着碗里还想着锅里的
+好像跟他在一起他吃了多大亏似的。
+如果他特别爱你，他会考虑你的感受的。
+: 出现下面一段对话的原因是这样的：一个阳光明媚的周末，我一如既往的上水木时发现: 他突然把他的签名档改成大话西游中的那段经典表白，“曾经有一段…”，
+: 我说：为什么突然改了说明档？是怀念初恋了么？
+: 他说：突然想起来了就顺手改的。
+: ...................
+

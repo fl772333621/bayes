@@ -1,0 +1,74 @@
+Return-Path: <he@home.ccert.edu.cn>
+Received: from home.ccert.edu.cn (localhost [127.0.0.1])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id iBU0LO4j017218;
+	Thu, 30 Dec 2004 08:21:24 +0800
+Received: (from majordomo@localhost)
+	by home.ccert.edu.cn (8.13.1/8.13.1/Submit) id iBU0LOdX017217;
+	Thu, 30 Dec 2004 08:21:24 +0800
+X-Authentication-Warning: home.ccert.edu.cn: majordomo set sender to owner-ccertstaff using -f
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with SMTP id iBU0LLUb017185
+	for <zhou@ccert.edu.cn>; Thu, 30 Dec 2004 08:21:21 +0800
+Received: (eyou send program); Thu, 30 Dec 2004 08:20:03 +0800
+Message-ID: <304366003.23882@mail.tsinghua.edu.cn>
+Received: from unknown (HELO mail.tsinghua.edu.cn) (unknown@127.0.0.1)
+ by 127.0.0.1 with SMTP; Thu, 30 Dec 2004 08:20:03 +0800
+X-scanvirus: By Symantec Scan Engine
+X-scanresult: NOREP
+Received: (eqmail ); 30 Dec 2004 00:20:00 -0000
+Received: from unknown (HELO sony) (duanhx@166.111.232.127)
+  by localhost with SMTP; 30 Dec 2004 00:20:00 -0000
+Message-ID: <045c01c4ee07$755cbc10$bbcc6fa6@sony>
+From: "he" <he@tsinghua.edu.cn>
+To: zhou@ccert.edu.cn
+Cc: <wu@ccert.edu.cn>, <kong@ccert.edu.cn>,
+        =?gb2312?B?zuLWvr78?= <zhong@ccert.edu.cn>, <ni@ccert.edu.cn>
+Subject: =?gb2312?B?UmU6IMq1zrK1usrHztK/tLn9tcTX7sDDtcTV/tbOus3VvdX5tefTsA==?=
+Date: Thu, 30 Dec 2004 08:35:20 +0800
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2800.1106
+Disposition-Notification-To: "Duan Haixin" <duanhx@tsinghua.edu.cn>
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1106
+Content-Transfer-Encoding: 8bit
+X-MIME-Autoconverted: from base64 to 8bit by home.ccert.edu.cn id iBU0LMUb017212
+Sender: owner-ccertstaff@home.ccert.edu.cn
+Precedence: bulk
+X-UIDL: LXl"!h5[!!4Bn!!)O\"!
+
+你在水木的Movie这么整 也替人民宣传啊
+是啊，人民的功劳只有伟人评价一下才有被重视的可能。
+: 标  题: Re: 实尾岛是我看过的最烂的政治和战争电影
+: 发信站: 水木社区 (Sat Jun 11 23:01:19 2005), 站内
+: 
+: 淮海战役  中段时  有挺长一段对支前百姓的特写
+: 陈毅说：“淮海战役（或解放战争  ，记不清了）的胜利是小车推出来的”
+: 看完淮涨战役就记住了几个大官儿，啧啧。看完《解放》我可是记住好多生动的士官。
+: 
+: : 刻划得貌似不少吧。不过比以前进步多了。
+: : 不过大陆的战争片永远是否定人民群众的力量的，总是把胜利看成是领袖的胜利。没有人味
+: : ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~强烈建议你再看遍淮海战役 还有陈毅那句名言
+: : ...................
+: 
+: --
+: ……………………………………………………………………………………………………
+: 请大家在word中敲个“胡”字，或者“卞”、“莱”什么的，然后用鼠标选中，在“格
+: 式”中选择字体，然后选择“空心”效果，然后选择隶书或幼圆，字号放大至小初以上
+: ，你就会发现中国第一大贱人的手迹。
+: 
+: 
+: 
+: 
+: --
+: 佛说：
+: 一曰生苦，诞生之痛苦也； 二曰老苦，老年之痛苦也；
+: 三曰病苦，疾病之痛苦也； 四曰死苦，死亡之痛苦也；
+: 五曰怨憎会苦，“所不爱者而共聚集”也;
+: 六曰爱别离苦，不由己与所爱之人之事离别之痛苦也;
+: 七曰求不得苦，有所欲求而不得满足
+: 
+: 
+

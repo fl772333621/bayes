@@ -1,0 +1,28 @@
+Return-Path: <zhu@sina.com>
+Received: from sina.com (sina187-158.sina.com.cn [202.106.187.158] (may be forged))
+	by home.ccert.edu.cn (8.13.1/8.13.1) with SMTP id j2ECuWBC009473
+	for <hong@ccert.edu.cn>; Mon, 14 Mar 2005 20:56:47 +0800
+Message-Id: <200503141256.j2ECuWBC009473@home.ccert.edu.cn>
+Received: (qmail 53305 invoked from network); 14 Mar 2005 13:07:47 -0000
+Received: from unknown (HELO ibm-t23) (219.224.134.126)
+  by 202.106.187.158 with SMTP; 14 Mar 2005 13:07:47 -0000
+Received: from(cheriff@sina.com) to(qa@ccert.edu.cn)
+Date: Mon, 14 Mar 2005 20:50:02 +0800
+From: "zhu" <zhu@sina.com>
+To: hong@ccert.edu.cn
+Subject: =?gb2312?B?UmU6IMbFxsXJ+sb4wcujrLTzvNLLtcu1ztK4w9T1w7Sw7KO/?=
+X-mailer: Foxmail 5.0 [cn]
+Mime-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: 8bit
+X-MIME-Autoconverted: from base64 to 8bit by home.ccert.edu.cn id j2ECuWBC009473
+X-UIDL: 3L(#!SC`!!9TH"!%d4!!
+
+: 没看懂...不明白得问一个预产期7月2号的人还要去折腾排队排号买房子..半夜还要去干什么来着没看明白...她lg脑袋什干嘛用的..
+: btw,如果我是婆婆我也不让我儿子去伺候lp的什么同学的lg排队..
+生活，如果大家都不用排队买房子可以轻松购房的话，当然不会有这些事情
+但现实未必如愿， 帮不帮是孩子自己的事情，不要以自我为中心让孩子难堪
+对待朋友能帮的就尽些微薄之力嘛
+一辈子能卖几回， 何况又有多少这样肯丢下所有的尊严求你的人呢。
+

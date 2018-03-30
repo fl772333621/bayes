@@ -1,0 +1,37 @@
+Return-Path: <jiang@rbl.ccert.edu.cn>
+Received: from rbl.ccert.edu.cn (rbl.ccert.edu.cn [202.112.57.71])
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id i9699xEn001801
+	for <zhang@ccert.edu.cn>; Wed, 6 Oct 2004 17:09:59 +0800 (CST)
+Received: from rbl.ccert.edu.cn (localhost.localdomain [127.0.0.1])
+	by rbl.ccert.edu.cn (8.12.11/8.12.11) with ESMTP id i969Fshg028098
+	for <zhang@ccert.edu.cn>; Wed, 6 Oct 2004 17:15:55 +0800
+Received: (from qa@localhost)
+	by rbl.ccert.edu.cn (8.12.11/8.12.11/Submit) id i969FsCg028097;
+	Wed, 6 Oct 2004 17:15:54 +0800
+Date: Wed, 6 Oct 2004 17:15:54 +0800
+Message-Id: <200410060915.i969FsCg028097@rbl.ccert.edu.cn>
+Subject: =?gb2312?B?ofEgob6zz8a4ob+437y2yO28/r+qt6K5pLPMyqY=?=
+To: zhang@ccert.edu.cn
+From: Tran Quang Anh <jiang@cernet.edu.cn>
+Content-Type: multipart/mixed; boundary="----------=_1097054155-996-526"
+MIME-Version: 1.0
+X-UIDL: 0BM"!I,D"!c4o"!$Hi"!
+
+  北京硕人海泰能源科技有限公司位于具有“硅谷”之称的北京中关村德胜科技园，是由多名机电、节能行业的工程和软件专家共同发起创立的高新技术企业，致力于高压大功率电机调速装置、工业自动化控制系统、能源管理信息系统、智能流量仪表等领域的开发生产与推广，并提供企业合同能源管理、节能技术咨询服务。
+  公司现为中国节能协会节能服务产业委员会（EMCA）成员单位，EMCA是世界银行/全球环境基金中国节能促进项目二期EMCo服务子项目的执行机构。中国节能促进项目是国家发展和改革委员会、世界银行（WB）和全球环境基金（GEF）共同组织实施的大型国际合作项目，其目标是通过示范和推广“合同能源管理”节能新机制，促进我国节能机制转换，扩大节能投资，提高能源利用效率，减少温室气体排放，保护地区和全球环境。
+招聘职位：高级软件开发工程师
+招聘人数：2名
+任职条件：
+1.计算机或相关专业本科及其以上学历； 
+2.熟悉Oracle, SQL Server等数据库应用； 
+3.熟练掌握至少两种以上常用开发工具； 
+4. 2年以上软件开发经验； 
+5.了解软件体系结构设计原理，对多层结构等设计模式有较深的认识及一定的实践经验；参与过大型软件系统的设计开发工作，能够胜任大中型软件整体框架设计工作； 
+6.为人开朗正直，有较强的研发项目管理能力；有工作热情，好学，能吃苦。
+待遇：面议
+联系方式：
+程先生
+电　话： 010-62001102, 010-62001103 
+传　真： 010-62377108 
+Email : postmaster@shuorenenergy.com 
+

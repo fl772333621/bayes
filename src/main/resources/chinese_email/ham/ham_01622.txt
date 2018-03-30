@@ -1,0 +1,53 @@
+Return-Path: <rao@home.ccert.edu.cn>
+Received: from home.ccert.edu.cn (localhost [127.0.0.1])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id j0KCnin4000847;
+	Thu, 20 Jan 2005 20:49:44 +0800
+Received: (from majordomo@localhost)
+	by home.ccert.edu.cn (8.13.1/8.13.1/Submit) id j0KCnipL000846;
+	Thu, 20 Jan 2005 20:49:44 +0800
+X-Authentication-Warning: home.ccert.edu.cn: majordomo set sender to owner-ccertstaff using -f
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id j0KCnX4A000824
+	for <qian@ccert.edu.cn>; Thu, 20 Jan 2005 20:49:33 +0800
+Received: from WHITESNOW (tu203022.ip.tsinghua.edu.cn [166.111.203.22])
+	(authenticated bits=0)
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id j0KD1EUs002854
+	for <qian@ccert.edu.cn>; Thu, 20 Jan 2005 21:01:16 +0800 (CST)
+Message-ID: <000001c4fef0$2dc025f0$16cb6fa6@WHITESNOW>
+From: "rao" <rao@cernet.edu.cn>
+To: qian@ccert.edu.cn
+Subject: =?gb2312?B?UmU6INChx+y62NK7z8I=?=
+Date: Thu, 20 Jan 2005 20:23:14 +0800
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="----=_NextPart_000_000A_01C4FF2D.DE7A8880"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2900.2180
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+Sender: owner-ccertstaff@home.ccert.edu.cn
+Precedence: bulk
+X-UIDL: -6i"!H*n!!!lS!!EFP!!
+
+汗...这种上站数..能不是大一么
+: 标  题: Re: 小庆贺一下
+: 发信站: 水木社区 (Thu Jun  9 20:24:31 2005), 站内
+: 
+: wa
+: 居然大一阿
+: 有前途！！！！！！！！1
+: : 大一的孩子啊……
+: : 灌水真没追求...sigh
+: 
+: 
+: --
+: ※暑天该很好※※※※※
+: 你若尚在场            
+:   火一般的太阳在脸上  
+:     烧得肌肤如情      
+:       恨极又痒        
+: ※※滴着汗的一只笑着唱
+: 
+: 
+: ※ 来源:·水木社区 newsmth.net·[FROM: 211.151.90.*]
+

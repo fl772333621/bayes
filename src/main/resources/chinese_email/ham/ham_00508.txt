@@ -1,0 +1,52 @@
+Return-Path: <huang@home.ccert.edu.cn>
+Received: from home.ccert.edu.cn (localhost [127.0.0.1])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id iBU0LO4j017218;
+	Thu, 30 Dec 2004 08:21:24 +0800
+Received: (from majordomo@localhost)
+	by home.ccert.edu.cn (8.13.1/8.13.1/Submit) id iBU0LOdX017217;
+	Thu, 30 Dec 2004 08:21:24 +0800
+X-Authentication-Warning: home.ccert.edu.cn: majordomo set sender to owner-ccertstaff using -f
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with SMTP id iBU0LLUb017185
+	for <yan@ccert.edu.cn>; Thu, 30 Dec 2004 08:21:21 +0800
+Received: (eyou send program); Thu, 30 Dec 2004 08:20:03 +0800
+Message-ID: <304366003.23882@mail.tsinghua.edu.cn>
+Received: from unknown (HELO mail.tsinghua.edu.cn) (unknown@127.0.0.1)
+ by 127.0.0.1 with SMTP; Thu, 30 Dec 2004 08:20:03 +0800
+X-scanvirus: By Symantec Scan Engine
+X-scanresult: NOREP
+Received: (eqmail ); 30 Dec 2004 00:20:00 -0000
+Received: from unknown (HELO sony) (duanhx@166.111.232.127)
+  by localhost with SMTP; 30 Dec 2004 00:20:00 -0000
+Message-ID: <045c01c4ee07$755cbc10$bbcc6fa6@sony>
+From: "huang" <huang@tsinghua.edu.cn>
+To: yan@ccert.edu.cn
+Cc: <pan@ccert.edu.cn>, <wen@ccert.edu.cn>,
+        =?gb2312?B?zuLWvr78?= <lv@ccert.edu.cn>, <hu@ccert.edu.cn>
+Subject: =?gb2312?B?UmU6ILK7tq6woaO6IMWuuqLX08rHsrvKx7a8sci9z8O709CwssiruNCjrNKq1dLIy9LAv7+jvw==?=
+Date: Thu, 30 Dec 2004 08:35:20 +0800
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2800.1106
+Disposition-Notification-To: "Duan Haixin" <duanhx@tsinghua.edu.cn>
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1106
+Content-Transfer-Encoding: 8bit
+X-MIME-Autoconverted: from base64 to 8bit by home.ccert.edu.cn id iBU0LMUb017212
+Sender: owner-ccertstaff@home.ccert.edu.cn
+Precedence: bulk
+X-UIDL: LXl"!h5[!!4Bn!!)O\"!
+
+随便想一下,不一定对
+安全感就是:
+不被别人放弃
+能永远得到鼓历
+能永远得到支持
+能得到源源不断的自信
+不用担心自己的付出没有回报
+....
+:   一直没有意识到 女孩子会有这样的问题，昨天看了个 董洁的访谈（我十分喜欢她在 天上的恋人  里的感觉，呵呵）。她说，她也是个没有安全感的人。
+:     我狂抓啊，什么叫做没有安全感啊，没有找到BF时候不都是十几二十年都这么过的嘛？那到底是个什么样的感觉啊，sigh，真的beyond my imagination 啊，估计这就是偶二十好几了还光光的原因啊，唉。
+

@@ -1,0 +1,33 @@
+Return-Path: <wang@rbl.ccert.edu.cn>
+Received: from rbl.ccert.edu.cn (rbl.ccert.edu.cn [202.112.57.71])
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id i982fkFG000247
+	for <tao@ccert.edu.cn>; Fri, 8 Oct 2004 10:41:47 +0800 (CST)
+Received: from rbl.ccert.edu.cn (localhost.localdomain [127.0.0.1])
+	by rbl.ccert.edu.cn (8.12.11/8.12.11) with ESMTP id i982llBd013625
+	for <tao@ccert.edu.cn>; Fri, 8 Oct 2004 10:47:47 +0800
+Received: (from qa@localhost)
+	by rbl.ccert.edu.cn (8.12.11/8.12.11/Submit) id i982llLV013624;
+	Fri, 8 Oct 2004 10:47:47 +0800
+Date: Fri, 8 Oct 2004 10:47:47 +0800
+Message-Id: <200410080247.i982llLV013624@rbl.ccert.edu.cn>
+Subject: =?gb2312?B?ofEgtbWwuLG7uavLviC/28H0IKOs1PXDtLDso78gKNeq1Ngp?=
+To: tao@ccert.edu.cn
+From: Tran Quang Anh <wang@cernet.edu.cn>
+Content-Type: multipart/mixed; boundary="----------=_1097203667-1044-204"
+MIME-Version: 1.0
+X-UIDL: LX&!!;*&#!R+_"!~OT"!
+
+【 以下文字转载自 Law 讨论区 】
+发信人: fleeer (fleer), 信区: Law
+标  题: 档案被公司 扣留 ，怎么办？
+发信站: 水木社区 (Fri Jun 10 14:27:27 2005), 站内
+由于公司违约，已向仲裁机构及 法院 上诉，均已胜诉
+可是得到却是公司违约的赔偿和违约的认定，
+法官说不负责要求 公司归还档案，这种档案的事情不在法院管辖范围内！
+要公司归还档案，这是企业内部事情，需要与公司协商解决。
+由于公司把我们的档案存在海淀人才，我们就拿着法院的判决书去找海淀人才 ，可是海淀人才说只对公司负责，不对个人
+现在就很郁闷，劳动协议由于公司的违约已解除，公司不肯归还档案，
+法院也不管，这怎么办啊？？
+、
+有好人人能帮忙吗？必有重谢
+

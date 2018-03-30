@@ -1,0 +1,34 @@
+Return-Path: <hua@home.ccert.edu.cn>
+Received: from home.ccert.edu.cn (localhost [127.0.0.1])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id i9L8mH1v015704;
+	Thu, 21 Oct 2004 16:48:17 +0800
+Received: (from majordomo@localhost)
+	by home.ccert.edu.cn (8.13.1/8.13.1/Submit) id i9L8mH9G015703;
+	Thu, 21 Oct 2004 16:48:17 +0800
+X-Authentication-Warning: home.ccert.edu.cn: majordomo set sender to owner-ccertstaff using -f
+Received: from starry ([202.112.50.191])
+	(authenticated bits=0)
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id i9L8m9jr015698;
+	Thu, 21 Oct 2004 16:48:11 +0800
+Message-Id: <200410210848.i9L8m9jr015698@home.ccert.edu.cn>
+Date: Thu, 21 Oct 2004 16:59:09 +0800
+From: "hua" <hua@ccert.edu.cn>
+To: lv@ccert.edu.cn
+Cc: "ccertstaff" <tao@ccert.edu.cn>
+Subject: =?gb2312?B?UmU6ILret9/FraOs1PXDtLDso78=?=
+X-mailer: Foxmail 5.0 [cn]
+Mime-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: 8bit
+X-MIME-Autoconverted: from base64 to 8bit by home.ccert.edu.cn id i9L8mHjr015700
+Sender: owner-ccertstaff@home.ccert.edu.cn
+Precedence: bulk
+X-UIDL: #,"#!W0W"!ZbX!!aDM"!
+
+你家的防盗窗是已经装了，还是没有装呀？
+: 我家一楼，二楼是我们学校纪委书记，我家装防盗窗的时候他老婆吵吵嚷嚷说我们装了之后，小偷可以顺着我们家防盗窗爬上他家偷东西，不让我们状。
+: 现在半夜了，他们居然带了一伙人，装了一个很大的卫星电视接收器在窗子外面，顶着我家窗沿，还伸出去很多。
+: 我就没见过有这么大的卫星接收器的，就像一大口锅狠狠的把我家窗子上遮住了，真相打电话报告公安局啊，ft
+: ...................
+

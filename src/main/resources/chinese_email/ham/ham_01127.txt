@@ -1,0 +1,34 @@
+Return-Path: <lei@rbl.ccert.edu.cn>
+Received: from rbl.ccert.edu.cn (rbl.ccert.edu.cn [202.112.57.71])
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id i9H0Q3Pi003299
+	for <xue@ccert.edu.cn>; Sun, 17 Oct 2004 08:26:03 +0800 (CST)
+Received: from rbl.ccert.edu.cn (localhost.localdomain [127.0.0.1])
+	by rbl.ccert.edu.cn (8.12.11/8.12.11) with ESMTP id i9H0Vfrr018473
+	for <xue@ccert.edu.cn>; Sun, 17 Oct 2004 08:31:42 +0800
+Received: (from qa@localhost)
+	by rbl.ccert.edu.cn (8.12.11/8.12.11/Submit) id i9H0VfLI018472;
+	Sun, 17 Oct 2004 08:31:41 +0800
+Date: Sun, 17 Oct 2004 08:31:41 +0800
+Message-Id: <200410170031.i9H0VfLI018472@rbl.ccert.edu.cn>
+Subject: =?gb2312?B?ofEg1Nm3oqO6SUJN1tC5+ry8yvXWp7PW1tDQxNXQxrjK27rzvLzK9dans9a5pLPMyqY=?=
+To: xue@ccert.edu.cn
+From: Tran Quang Anh <lei@cernet.edu.cn>
+Content-Type: multipart/mixed; boundary="----------=_1097973102-2811-152"
+MIME-Version: 1.0
+X-UIDL: *c@!!-S9!!E6("!Fa,"!
+
+    前几天发过相关的信息，也收到很多很多的简历，先谢谢大家的支持，但没有找到合适的人选，所以老板宽限了几天，呵呵，大家又有机会了:) 
+    特别说明，这回可以招应届的学生，但希望你在操作系统或C语言编程方面有较多的经验，最好有AIX认证，否则即使过了我这关，也过不了老板那关啊。。。另外，请大家直接把简历写在邮件正文中，否则还得打开附件，效率太低了，先感谢合作！
+IBM中国技术支持中心招聘售后技术支持工程师
+职    位：Technical Support Engineer for IBM UNIX Servers
+工作性质：全职 
+截止日期：2005-6-10
+招聘人数：1名 
+月薪范围：面议（符合IBM薪资标准）
+工作经验：2年或2年以下
+学    历：本科或本科以上 
+工作地点：北京    
+要    求：
+    计算机及相关理工类专业本科或本科以上学历，具有较好的逻辑思维能力，有很好的英语沟通及表达能力。在UNIX系统管理方面有一定的经验，熟悉IBM AIX操作系统及相关软件，有IBM资格证书者优先。熟悉C语言，进行过相应的项目开发。因为此工作性质为远程电话技术支持，所以要求有突出的交流沟通能力（女性优先）。 
+请有意应聘此职位者在本周五（6月10日）之前将您的简历发送到：hu_cg@263.net,并附上近照一张。
+

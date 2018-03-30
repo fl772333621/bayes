@@ -1,0 +1,44 @@
+Return-Path: <weng@tsinghua.edu.cn>
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id i8TGQpus012984
+	for <lai@ccert.edu.cn>; Thu, 30 Sep 2004 00:26:51 +0800 (CST)
+Received: (eyou send program); Thu, 30 Sep 2004 00:12:36 +0800
+Message-ID: <296474356.05040@mail.tsinghua.edu.cn>
+Received: from unknown (HELO mail.tsinghua.edu.cn) (unknown@127.0.0.1)
+ by 127.0.0.1 with SMTP; Thu, 30 Sep 2004 00:12:36 +0800
+X-scanvirus: By Symantec Scan Engine
+X-scanresult: CLEAN
+Received: (eqmail ); 29 Sep 2004 16:12:34 -0000
+Received: from unknown (HELO huhoo) (duanhx@166.111.232.114)
+  by localhost with SMTP; 29 Sep 2004 16:12:34 -0000
+From: "weng" <weng@tsinghua.edu.cn>
+To: lai@ccert.edu.cn
+Subject: =?gb2312?B?UmU6ILnY09qwrsGi0MXR0Lei1tDQxKOsttSxyMW1u/nRx9HQt6LW0NDELS0t0rKyu7XDsrvLtQ==?=
+Date: Thu, 30 Sep 2004 00:24:09 +0800
+Message-ID: <001401c4a640$c087cea0$72e86fa6@huhoo>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0015_01C4A683.CEAB0EA0"
+X-Priority: 3 (Normal)
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook, Build 10.0.6626
+X-MIMEOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+Importance: Normal
+X-UIDL: d\e"!>U1"!/Xk!!ZU~!!
+
+同意！
+很不喜欢爱立信这个人，还有这个人组织的面试，根本不尊重别人！
+诺基亚是做技术的，他们也很忙，北电是做技术的，他们很忙，朗讯是做技术的，他们也很忙。
+但是，在这些公司里面，面试的人都是温文尔雅，谦逊待人，很有教养，可是，他们对人是充分尊重的！
+去年冬天一个好朋友，去诺基亚面试。本来是9月28日的面试，她记成了9月29日，把人家28日当天定的会议室放了鸽子，大家都知道在外企，定个会议室找个合适的时间也挺麻烦的。我这个朋友是个很守时的人，平日里和同学聚会什么的从来都是按时到，连看个房子都会告诉人家她会在9：20分左右到，她的生活是以10分钟为单位的；
+当秘书问她为什么没到时，她觉得很难受，这么好的机会就错过去了。后来和秘书说明了情况，秘书经过协调，居然在11月又一次给她安排了面试，同样的部门，同样的面试官；
+再去面试的前一天，天意弄人，她还和我们说明天3：30面试，实际上，秘书和她定的是3：00，也许是她不本就该去诺基亚，那天她3：20到的，诺基亚的manager早就在哪里等了，两轮面世，顺延了20分钟。
+我朋友郁闷死了，心想这下子完了，本来是个很守时的人，居然出了这样的乱子！！
+她回来说整个面世过程非常舒服，面试官非常博学、平和，她越发觉得不好意思浪费了这样的人的时间。面试结束她作了一套题就出来了。不过像她这样迟到两次还被尊重的情况，让她越来越像去Nokia了，可是给公司的印象肯定是大大的不好！
+接下来的几天，在我们都为她扼腕惋惜的时候，她居然收到了诺基亚人力的电话。前后不超过一周。
+这就是另一个公司的风格，他们也严谨，他们也很忙，他们从不缺人，可是，他们充分尊重每一个来面世的人。不会炒作，不会群殴，不会没有礼貌！
+: 先说说我得面试经历。
+: 首先，突然一天早上收到他们的电话，说下午6点面试，不要迟到。还
+: 必须自带简历和照片。口气很生硬。当然，为了找工作，我也就答应了。
+: ...................
+

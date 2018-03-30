@@ -1,0 +1,59 @@
+Return-Path: <wen@yahoo.com.cn>
+Received: from tsinghua.org.cn ([210.77.143.232])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with SMTP id j4J0wFnr027473
+	for <li@ccert.edu.cn>; Thu, 19 May 2005 08:58:25 +0800
+Received: (eyou send program); Thu, 19 May 2005 09:14:56 +0800
+Message-ID: <316465296.17898@tsinghua.org.cn>
+X-EYOU-AUTOFORWARD: tsinghua.org.cn
+Received: (eyou send program); Thu, 19 May 2005 09:14:25 +0800
+Message-ID: <316465265.16101@tsinghua.org.cn>
+Received: from unknown (HELO eyou.net) (210.77.143.235)
+ by 210.77.143.232 with SMTP; Thu, 19 May 2005 09:14:25 +0800
+X-EYOU-SPAMVALUE: 0
+Received: (eyou anti_spam gateway 3.0); Thu, 19 May 2005 09:03:23 +0800
+Message-ID: <316464603.16534@eyou.net>
+Received: from 202.112.49.111 by 210.77.143.235 with SMTP; Thu, 19 May 2005 09:03:23 +0800
+Received: from Garfield. (localhost [IPv6:::1])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with ESMTP id j4J18Q3B085331
+	for <li@ccert.edu.cn>; Thu, 19 May 2005 09:08:58 +0800 (CST)
+	(envelope-from toefl-bounces@gradinfo.net.edu.cn)
+Received: from web15405.mail.cnb.yahoo.com (web15405.mail.cnb.yahoo.com
+	[202.43.216.208])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with SMTP id j4J18Mqc085327
+	for <li@ccert.edu.cn>; Thu, 19 May 2005 09:08:23 +0800 (CST)
+	(envelope-from shaozhiye@yahoo.com.cn)
+Message-ID: <20050519011256.37130.qmail@web15405.mail.cnb.yahoo.com>
+Received: from [207.46.125.18] by web15405.mail.cnb.yahoo.com via HTTP;
+	Thu, 19 May 2005 09:12:55 CST
+Date: Thu, 19 May 2005 09:12:55 +0800 (CST)
+From: Shaozhi Ye <wen@yahoo.com.cn>
+Subject: =?gb2312?B?UmU6IM7StcS7p7/avq3A+qOsvfa5qb3ovPg=?=
+To: li@ccert.edu.cn
+In-Reply-To: 6667
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----------=_1116464305-20299-568"
+X-BeenThere: toefl@gradinfo.net.edu.cn
+X-Mailman-Version: 2.1.5
+Precedence: list
+List-Id: "&#26446; &#26143; &#21644; &#20182; &#30340; &#23398; &#29983;
+	&#20204; " <toefl.gradinfo.net.edu.cn>
+List-Unsubscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=unsubscribe>
+List-Archive: <http://gradinfo.net.edu.cn/mailman/private/toefl>
+List-Post: <mailto:toefl@gradinfo.net.edu.cn>
+List-Help: <mailto:toefl-request@gradinfo.net.edu.cn?subject=help>
+List-Subscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=subscribe>
+Sender: toefl-bounces@gradinfo.net.edu.cn
+Errors-To: toefl-bounces@gradinfo.net.edu.cn
+X-UIDL: U>$"!i#d"!=B`!!3iS!!
+
+这个很多人都知道把.......
+不是学校的规定，是人事局的规定，只给当年毕业的学生解决，而且有日期限制
+走人才引进的路线吧
+comft
+: 偶04年毕业，到一家规模还可以的公司工作，因为公司也是04年成立的，所以当时HR说，要给员工解决户口必须提前向北京市政府申请，我们今年申请，明年才有资格。户口不是可以在学校放两年吗？你先放着吧，到时候再看看有没有办法。偶就放在学校了，满以为今年有戏能办了呢
+: 前几天去学校问了一下，直接见的学生处处长，结果他说，要想留在北京，如果毕业当年的年底还找不到接收单位的话，就没戏了。偶就反问，那放两年有什么意义呢？他说，两年说的是外地，除了北京，两年期间哪儿都能落户。（但是去年签保存户口协议的时候没说，而且协议上也
+: 晕！没语言。
+: ...................
+

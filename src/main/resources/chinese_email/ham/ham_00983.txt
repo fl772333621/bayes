@@ -1,0 +1,55 @@
+Return-Path: <weng@ns.6test.edu.cn>
+Received: from tsinghua.org.cn ([210.77.143.228])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id iAS9Ut98004096
+	for <hu@ccert.edu.cn>; Sun, 28 Nov 2004 17:30:57 +0800
+Received: (eyou send program); Sat, 27 Nov 2004 09:50:24 +0800
+Received: (eyou send program); Sat, 27 Nov 2004 09:50:24 +0800
+X-EYOU-ORIGINAL-IP: 210.77.143.235
+X-EYOU-ENVELOPE-MAILFROM: toefl-bounces@server.cool-meeting.com
+Received: from unknown (HELO eyou.net) (unknown@210.77.143.235)
+ by 210.77.143.228 with SMTP; Sat, 27 Nov 2004 09:50:24 +0800
+Received: (eyou send program); Sat, 27 Nov 2004 09:45:44 +0800
+Message-ID: <301519944.00896@eyou.net>
+Received: from 202.38.99.65 by 210.77.143.235 with SMTP; Sat, 27 Nov 2004 09:45:42 +0800
+Received: from server.cool-meeting.com (localhost.localdomain [127.0.0.1])
+	by server.cool-meeting.com (8.12.8/8.12.8) with ESMTP id iAR25elZ031326
+	for <hu@ccert.edu.cn>; Sat, 27 Nov 2004 10:05:50 +0800
+Received: from ns.6test.edu.cn ([202.38.99.18])
+	by server.cool-meeting.com (8.12.8/8.12.8) with ESMTP id iAR25Xkr031322
+	for <hu@ccert.edu.cn>; Sat, 27 Nov 2004 10:05:33 +0800
+Received: from [202.112.3.118] (helo=IBM-E4AA49AF703)
+	by ns.6test.edu.cn with asmtp (Exim 4.12) id 1CXs4F-000CHk-00
+	for Toefl@server.cool-meeting.com; Sat, 27 Nov 2004 10:12:07 +0800
+From: "weng" <weng@ns.6test.edu.cn>
+To: hu@ccert.edu.cn
+X-mailer: Foxmail 4.2 [cn]
+Mime-Version: 1.0
+Content-Type: text/plain;
+      charset="GB2312"
+Content-Transfer-Encoding: 7bit
+Date: Sat, 27 Nov 2004 9:50:1 +0800
+Message-Id: <E1CXs4F-000CHk-00@ns.6test.edu.cn>
+Cc: 
+Subject: =?gb2312?B?UmU6IMTQxa7O87vho6jXqtWqo6k=?=
+X-BeenThere: toefl@server.cool-meeting.com
+X-Mailman-Version: 2.1.2
+Precedence: list
+List-Id: &#26446;&#26143;&#21644;&#20182;&#30340;&#23398;&#29983;&#20204;
+	<toefl.server.cool-meeting.com>
+List-Unsubscribe: <http://server.cool-meeting.com/mailman/listinfo/toefl>,
+	<mailto:toefl-request@server.cool-meeting.com?subject=unsubscribe>
+List-Archive: <http://server.cool-meeting.com/mailman/private/toefl>
+List-Post: <mailto:toefl@server.cool-meeting.com>
+List-Help: <mailto:toefl-request@server.cool-meeting.com?subject=help>
+List-Subscribe: <http://server.cool-meeting.com/mailman/listinfo/toefl>,
+	<mailto:toefl-request@server.cool-meeting.com?subject=subscribe>
+Sender: toefl-bounces@server.cool-meeting.com
+Errors-To: toefl-bounces@server.cool-meeting.com
+X-UIDL: P7g"!jYP!!,O""!N0o"!
+
+说不说的太多了,就真的是不了.
+: 1，男生常常不知道女生什么时候真正的说“不”，经常会把女生口中的“不”当真。当男生与女生触电的时候，女孩子说“不要这么急，不要这么快”。结果男生真的开始冷却了，而女生把他的冷却当成对自己没兴趣，于是一段可能 的恋情便不了了之。其实女生只是矜持而已。另一
+: 2，男生送花给女生，女生心里高兴，嘴上却说“好浪费钱喔”，男生听到后就不再，这是绝对错误的。其实送礼物不是送给她的，而是送给她的朋友看的。所以送花千万不要两人独处时送，而要送到公司，送到PARTY。女人要的礼物往往并不是礼物本身，而是一种决心。而男人却误会
+: 3，女人总以为男人为她做很多事才叫爱。比如为她戒烟，为她减肥，为她不再和狐朋狗友鬼混。男人却觉得女人少管一点少问一点就是爱。所以女人不用对男生做太多事，男人并不期望女人送礼物。要想这个男人享受你的爱并满怀感激，一要给他自由，二要给他面子，三要给他鼓励�
+: ...................
+

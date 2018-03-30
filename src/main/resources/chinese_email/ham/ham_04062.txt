@@ -1,0 +1,38 @@
+Return-Path: <ling@tsinghua.edu.cn>
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with SMTP id j2A6KN0t031800
+	for <han@ccert.edu.cn>; Thu, 10 Mar 2005 14:20:23 +0800
+Received: (eyou send program); Thu, 10 Mar 2005 14:17:26 +0800
+Message-ID: <310435446.02139@mail.tsinghua.edu.cn>
+Received: from unknown (HELO mail.tsinghua.edu.cn) (unknown@127.0.0.1)
+ by 127.0.0.1 with SMTP; Thu, 10 Mar 2005 14:17:26 +0800
+X-scanvirus: By Symantec Scan Engine
+X-scanresult: CLEAN
+Received: (eqmail ); 10 Mar 2005 06:17:21 -0000
+Received: from unknown (HELO sony) (duanhx@202.112.35.253)
+  by localhost with SMTP; 10 Mar 2005 06:17:21 -0000
+Message-ID: <00ee01c5253b$208962e0$0c01a8c0@sony>
+From: "ling" <ling@tsinghua.edu.cn>
+To: han@ccert.edu.cn
+Cc: <fu@ccert.edu.cn>, =?gb2312?B?zuLWvr78?= <mei@ccert.edu.cn>,
+        "Liu Wu \(Tsinghua CERNET\)" <zhang@ccert.edu.cn>,
+        <cai@ccert.edu.cn>, <zhu@ccert.edu.cn>
+Subject: =?gb2312?B?UmU6ILGnvfTO0rHw198=?=
+Date: Thu, 10 Mar 2005 14:33:50 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_00EB_01C5257E.2D85AF10"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2900.2180
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+X-UIDL: -[~"!o]4!!["D!!Cj)!!
+
+上次当来听了
+真的
+很有那么一种感觉～～～
+:       陈琳的《抱紧我别走》，听一次哭一次，听一百次流一百次泪。这首歌是陈琳献给因癌症去世的父亲的。曲子是韩国作曲家的作品，陈琳亲自填词。刚开始看歌名还以为是有关风月的主题，听了几遍才开始理解。
+:       翻来覆去的听这首歌，不自觉地想起好多关于爸爸的往事。
+:       “每当窗外吹过一丝丝的微风，我就感觉到你在我身边清唱”。我并没有一个会唱歌很浪漫很慈爱的父亲，但是我相信我有一个很朴实的默默的在心里爱护自己子女的父亲。从小到大，我受到老师褒奖并且被拿来做范文朗读的文章，无一例外，全都是关于父亲的主题。
+: ...................
+

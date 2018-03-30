@@ -1,0 +1,35 @@
+Return-Path: <wei@cernet.edu.cn>
+Received: from 8jmd55gawpz3tjh ([202.112.50.7])
+	(authenticated bits=0)
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id i9I3QnJx025282;
+	Mon, 18 Oct 2004 11:26:50 +0800 (CST)
+Message-ID: <005601c4b4c2$5abe90f0$073270ca@8jmd55gawpz3tjh>
+From: "wei" <wei@cernet.edu.cn>
+To: bi@ccert.edu.cn
+Subject: =?gb2312?B?ofEgyc+6o7uw1+7QwsH30NDT73p6?=
+Date: Mon, 18 Oct 2004 11:27:10 +0800
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="----=_NextPart_000_0054_01C4B505.682A67D0"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2800.1437
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1441
+X-UIDL: Ak,!!1<S"!_)B"!/RB"!
+
+上海话最新流行语
+　　粢饭糕：又痴又烦又搞的女孩。
+　　月抛型：隐形眼镜一种，又指每个月要换个恋爱对象的人。
+　　排骨美女：以瘦为美的女性。
+　 黑暗料理：路边食摊。
+　 Old three old four：老三老四。
+　3.72平方：十三点不三不四。
+　　根号3：尚嫌矮的男青年。
+　　跟包：跟在后面拎包。
+　跌停板：运气差到极点；绝对不受异性青睐。
+　　死机：一时呆住了，反应不过来。
+　　本草纲目：又笨又吵又戆又木。
+　　奥特曼：落伍的人（outman）。
+　　小花：花痴。
+　　免提听筒：经常自言自语，没人爱听。
+

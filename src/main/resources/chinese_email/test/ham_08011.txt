@@ -1,0 +1,40 @@
+Return-Path: <yun@rbl.ccert.edu.cn>
+Received: from rbl.ccert.edu.cn (rbl.ccert.edu.cn [202.112.57.71])
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id i98CHiRN009243
+	for <yuan@ccert.edu.cn>; Fri, 8 Oct 2004 20:17:45 +0800 (CST)
+Received: from rbl.ccert.edu.cn (localhost.localdomain [127.0.0.1])
+	by rbl.ccert.edu.cn (8.12.11/8.12.11) with ESMTP id i98CNk5E021703
+	for <yuan@ccert.edu.cn>; Fri, 8 Oct 2004 20:23:47 +0800
+Received: (from qa@localhost)
+	by rbl.ccert.edu.cn (8.12.11/8.12.11/Submit) id i98CNk0Q021702;
+	Fri, 8 Oct 2004 20:23:46 +0800
+Date: Fri, 8 Oct 2004 20:23:46 +0800
+Message-Id: <200410081223.i98CNk0Q021702@rbl.ccert.edu.cn>
+Subject: =?gb2312?B?UmU6IMyrv9aywMHLo6zOorKowq/W87ymtbCjoQ==?=
+To: yuan@ccert.edu.cn
+From: Tran Quang Anh <yun@cernet.edu.cn>
+Content-Type: multipart/mixed; boundary="----------=_1097238227-26230-42"
+MIME-Version: 1.0
+X-UIDL: B^b!!7^4!!*Q:"!/XF!!
+
+先煮豆腐，熟了就把水去掉，豆腥味可以去掉点。
+然后煮鸡蛋和金针菇，水再开了上豆腐青菜和泡在开水里得粉丝，然后上辣酱、榨菜、
+蒜泥，醋酱油香油就行了。基本只用洗一次的，俺都是直接用微波炉碗吃
+: 标  题: Re: 太恐怖了，微波炉煮鸡蛋！
+: 发信站: 水木社区 (Mon Jun 27 17:39:13 2005), 站内
+: 
+: 这个怎么做 貌似颇有些难度啊....
+: : 可以做水包蛋嘛，俺一般用微波炉做鸡蛋豆腐金针菇青菜粉丝汤
+: 
+: 
+: --
+: 雾起时 我就在你的怀里
+: 这林间 充满了湿润的芳香
+: 充满了 那不断要重现的少年时光
+: 雾散后 却已是一生
+: 山空湖静 只剩下那 
+: 在千人万人中 也绝不会错认的背影
+: 
+: 
+: ※ 来源:·水木社区 newsmth.net·[FROM: 220.234.8.*]
+

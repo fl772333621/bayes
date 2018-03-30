@@ -1,0 +1,30 @@
+Return-Path: <yuan@rbl.ccert.edu.cn>
+Received: from rbl.ccert.edu.cn (rbl.ccert.edu.cn [202.112.57.71])
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id i9BLslau011052
+	for <liu@ccert.edu.cn>; Tue, 12 Oct 2004 05:54:47 +0800 (CST)
+Received: from rbl.ccert.edu.cn (localhost.localdomain [127.0.0.1])
+	by rbl.ccert.edu.cn (8.12.11/8.12.11) with ESMTP id i9BM0CdL005612
+	for <liu@ccert.edu.cn>; Tue, 12 Oct 2004 06:00:12 +0800
+Received: (from qa@localhost)
+	by rbl.ccert.edu.cn (8.12.11/8.12.11/Submit) id i9BM0CQl005611;
+	Tue, 12 Oct 2004 06:00:12 +0800
+Date: Tue, 12 Oct 2004 06:00:12 +0800
+Message-Id: <200410112200.i9BM0CQl005611@rbl.ccert.edu.cn>
+Subject: =?gb2312?B?ofEg1unI/b3Htdi8trPHytC5q87x1LFvcrjb18rS+NDQxeDRtcn6?=
+To: liu@ccert.edu.cn
+From: Tran Quang Anh <yuan@cernet.edu.cn>
+Content-Type: multipart/mixed; boundary="----------=_1097532012-1014-138"
+MIME-Version: 1.0
+X-UIDL: n5;!!mC%#!IV*"!H6m!!
+
+1 公务员：
+家乡，珠三角地级城市，按经济在广东算是二类城市，环境优美，工作地点在市政府大院
+2 培训生
+香港一家中型银行，算上奖金月平均税前4k左右，不包吃住，工作地点在深圳罗湖区 
+本人女生，就读于北京一所重点文科学校，由于家人的坚持已经决定回广东发展。亲戚朋友都觉得在市政府的待遇可能要比银行还好，但具体是否就不得而知。
+补充一点：
+公务员录用后要下基层锻炼一年；
+银行则到香港总行培训半年。
+呵呵，颇有点天上人间
+想听听大家的意见。
+

@@ -1,0 +1,36 @@
+Return-Path: <qian@home.ccert.edu.cn>
+Received: from home.ccert.edu.cn (localhost [127.0.0.1])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id i9R6HJAj025156;
+	Wed, 27 Oct 2004 14:17:19 +0800
+Received: (from majordomo@localhost)
+	by home.ccert.edu.cn (8.13.1/8.13.1/Submit) id i9R6HJYv025155;
+	Wed, 27 Oct 2004 14:17:19 +0800
+X-Authentication-Warning: home.ccert.edu.cn: majordomo set sender to owner-ccertstaff using -f
+Received: from ns.6test.edu.cn (ns.6test.edu.cn [202.112.54.2])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id i9R6HDq1025149
+	for <pu@ccert.edu.cn>; Wed, 27 Oct 2004 14:17:14 +0800
+Received: from [210.25.128.109] (helo=tsinghua89o1rm)
+	by ns.6test.edu.cn with asmtp (Exim 4.12)
+	id 1CMhaw-00054K-00
+	for ccertstaff@ccert.edu.cn; Wed, 27 Oct 2004 14:47:42 +0800
+Message-ID: <001401c4bbee$2f26d0a0$6d8019d2@tsinghua89o1rm>
+From: "qian" <qian@ns.6test.edu.cn>
+To: pu@ccert.edu.cn
+Subject: =?gb2312?B?UmU6IMfrtPO80su1y7W/tLeoLg==?=
+Date: Wed, 27 Oct 2004 14:28:02 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0011_01C4BC31.2A9FC670"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2600.0000
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2600.0000
+Sender: owner-ccertstaff@home.ccert.edu.cn
+Precedence: bulk
+X-UIDL: G*2!!&';"!1J0"!*2="!
+
+刚才我同学发短信和他说,让他过来,费用我同学解决.这个男生说没时间.说要毕业了,有好多事情要处理.而且,希望我同学过去陪他度过最后的大学时光.
+大家觉得直接拒绝这个男生好吗??就让我同学说:我不过去了.那这个男生会非常非常生气.那男生以前往我们寝室打过电话,我们都觉得他还算可以.这么直接的拒绝，好象不太好.
+: 前几天我的一个女同学在网上认识一个男孩,她自认为是一个不错的男孩.他提出一个要求,要求我同学去看他,在这学期结束的时候.如果不去看他,就结束,再也不联系.我同学几次冲动要坐火车过去看他,不过,都被我阻拦了.原因是她心理还是有点障碍,她还是不能接受这个在网上认识的男孩,觉得有点像网恋.现在,那男孩对爱情提出唯一的一个要求就是让她在25号之前去看他,我也束手无策了,大家觉得我的这个善良的同学应该去看他吗??
+: 大家都出出主意吧,谢谢了
+

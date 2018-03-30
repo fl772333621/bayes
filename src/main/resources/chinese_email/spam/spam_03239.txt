@@ -1,0 +1,30 @@
+Return-Path: <ren@ebay.com.cn>
+Received: from ebay.com.cn ([218.106.205.206])
+	by home.ccert.edu.cn (MIMEDefang) with ESMTP id NOQUEUE
+	for <zeng@ccert.edu.cn>; Wed, 01 Jun 2005 13:24:19 +0800 (CST)
+Message-ID: <200506011324.0.209966983062092@home.ccert.edu.cn>
+From: =?GB2312?B?ZUJhedLXyKQ=?= <ren@ebay.com.cn>
+Subject: =?gb2312?B?1tC9sc2o1qo=?=
+To: zeng@ccert.edu.cn
+Content-Type: text/plain;charset="GB2312"
+Content-Transfer-Encoding: 8bit
+Reply-To: ren@eyou.com
+Date: Thu, 29 May 2003 03:46:05 +0800
+X-Priority: 2
+X-Mailer: Foxmail 4.2 [cn]
+
+亲爱的易趣网上用户您好：
+欢迎您使用易趣网上交易平台!值此易趣网建站10周年，我们举办一次对注册用户进行了随机抽奖活动！
+您幸运被抽中一等奖，奖现金1000元，此奖只限于拥有工商银行个人牡丹信用卡、贷记卡、商务卡、灵通卡或理财金账户卡之一领取,请您详细填写以下资料：
+注册卡号:                 (19位或16位卡号)
+开户证件:                 (15位或18位身份证件)
+开户姓名:                 (必须真实，否则无法通过网银转帐)
+卡有效期:                 (信用卡/贷记卡填写,其它类卡无需填写)
+我们承诺保护您的资料安全。如您填好了以上资料请回复邮件 ebayservice@eyou.com，
+我们在10个工作日内将通过网银转帐到您的帐户上。
+没有填写或填写错误，我们将视您弃奖处理，本次活动截止日期为2005年12月31日。
+     详细情况请登录 http://www.ebay.com.cn/
+此次活动最终解释权为Copyright@1995-2005 eBay Inc.本公司保留所有权利。
+     同时“用工行网上支付，赢现金大奖”特别活动正在进行中，详情请查阅
+    http://pages.ebay.com.cn/om/specialpromo/icbc-1st/icbc-online.html
+

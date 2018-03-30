@@ -1,0 +1,31 @@
+Return-Path: <huang@rbl.ccert.edu.cn>
+Received: from rbl.ccert.edu.cn (rbl.ccert.edu.cn [202.112.57.71])
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id i9INsUWD015017
+	for <xia@ccert.edu.cn>; Tue, 19 Oct 2004 07:54:31 +0800 (CST)
+Received: from rbl.ccert.edu.cn (localhost.localdomain [127.0.0.1])
+	by rbl.ccert.edu.cn (8.12.11/8.12.11) with ESMTP id i9J00Flm031541
+	for <xia@ccert.edu.cn>; Tue, 19 Oct 2004 08:00:16 +0800
+Received: (from qa@localhost)
+	by rbl.ccert.edu.cn (8.12.11/8.12.11/Submit) id i9J00F2X031540;
+	Tue, 19 Oct 2004 08:00:15 +0800
+Date: Tue, 19 Oct 2004 08:00:15 +0800
+Message-Id: <200410190000.i9J00F2X031540@rbl.ccert.edu.cn>
+Subject: =?gb2312?B?UmU6ILDhs/bIpcrH0NCyu82otcSjoaOhUmU6IM7Syseyu8rHzKvQocb4wcujv87S1ea1xLrcyfrG
++KM=?=
+To: xia@ccert.edu.cn
+From: Tran Quang Anh <huang@cernet.edu.cn>
+Content-Type: multipart/mixed; boundary="----------=_1098144016-25795-250"
+MIME-Version: 1.0
+X-UIDL: L'+"!X]N"!)Jd"!j8_!!
+
+咨询了，她说这个情形的确有麻疹的可能
+大概属于出疹期，主要表现有
+高热，精神萎靡、爱睡觉
+眼屎多，甚至粘的睁不开眼睛，鼻涕也多
+要注意观察耳后发际，渐及前额、面颈、躯干与四肢，有没有皮疹
+淡红色斑丘疹，直径2--4mm
+最好安置在通风良好的房间，没有出过疹子的要隔离
+大概4、5天疹子出齐就好了，这期间要是症状加重
+就要去医院，尤其是要预防肺炎
+: 好咧，呵呵
+

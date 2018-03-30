@@ -1,0 +1,30 @@
+Return-Path: <mei@rbl.ccert.edu.cn>
+Received: from rbl.ccert.edu.cn (rbl.ccert.edu.cn [202.112.57.71])
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id i923BdTu010649
+	for <yan@ccert.edu.cn>; Sat, 2 Oct 2004 11:11:39 +0800 (CST)
+Received: from rbl.ccert.edu.cn (localhost.localdomain [127.0.0.1])
+	by rbl.ccert.edu.cn (8.12.11/8.12.11) with ESMTP id i923HLcn015442
+	for <yan@ccert.edu.cn>; Sat, 2 Oct 2004 11:17:21 +0800
+Received: (from qa@localhost)
+	by rbl.ccert.edu.cn (8.12.11/8.12.11/Submit) id i923HLoD015441;
+	Sat, 2 Oct 2004 11:17:21 +0800
+Date: Sat, 2 Oct 2004 11:17:21 +0800
+Message-Id: <200410020317.i923HLoD015441@rbl.ccert.edu.cn>
+Subject: =?gb2312?B?UmU6IMXz09G1xM7KzOKjrLTzvNKw78Oms/az9tb30uJ+?=
+To: yan@ccert.edu.cn
+From: Tran Quang Anh <mei@cernet.edu.cn>
+Content-Type: multipart/mixed; boundary="----------=_1096687041-996-348"
+MIME-Version: 1.0
+X-UIDL: AI~"!1QE!!-8&#!9Z>!!
+
+她要是真善良
+你把自己想给B生孩子的打算拿出来跟A坦白了说
+A要是愿意的话就继续
+A要是选择离婚也给人家个选择的自由
+一声不响的瞒着人家去生别的男人的孩子
+她咋这么确信A宁愿戴一顶巨大无比的绿帽子也不愿离婚的呢?
+: 如果不善良，就跟A离婚了啊
+: 人太漂亮了，受的诱惑多，我觉得她已经是很好的了，对A和对婆婆都很好
+: 我不觉得她有太多错，只不过要孩子这个问题，太头脑发热，浪漫过头了
+: ...................
+

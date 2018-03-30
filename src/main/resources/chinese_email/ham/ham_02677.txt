@@ -1,0 +1,36 @@
+Return-Path: <zeng@home.ccert.edu.cn>
+Received: from home.ccert.edu.cn (localhost [127.0.0.1])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id j2N87OQO027698;
+	Wed, 23 Mar 2005 16:07:29 +0800
+Received: (from majordomo@localhost)
+	by home.ccert.edu.cn (8.13.1/8.13.1/Submit) id j2N87OqR027697;
+	Wed, 23 Mar 2005 16:07:24 +0800
+X-Authentication-Warning: home.ccert.edu.cn: majordomo set sender to owner-ccertstaff using -f
+Received: from CCERTDAWEI (tu203024.ip.tsinghua.edu.cn [166.111.203.24])
+	(authenticated bits=0)
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id j2N83Pn5027606;
+	Wed, 23 Mar 2005 16:03:59 +0800
+Message-ID: <00cd01c52f80$e8fde580$18cb6fa6@CCERTDAWEI>
+From: "zeng" <zeng@ccert.edu.cn>
+To: lv@ccert.edu.cn
+Cc: <kang@ccert.edu.cn>, "sundh" <zhan@ccert.edu.cn>,
+        "Duan Haixin\(Tsinghua\)" <gu@ccert.edu.cn>,
+        <xue@ccert.edu.cn>
+Subject: =?gb2312?B?UmU6INDEy8ChqqGqo6gzo6k=?=
+Date: Wed, 23 Mar 2005 16:17:27 +0800
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----------=_1111565058-27376-34"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2900.2180
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+Sender: owner-ccertstaff@home.ccert.edu.cn
+Precedence: bulk
+X-UIDL: F=g"!$_(!!$Gh"!Mg,"!
+
+也许短信是别人发来开玩笑的呢？
+: 今天早上我们吃完饭就去家旁边的俱乐部打球了。这是这么多年来他第一次陪我打乒乓球，在打球以前他手机响了，他和我说要接个电话就躲出去接了，当时我也没多心。
+: 我们玩儿得很开心，他边玩边和我讲以后的发展，因为最近一年公司派他到外地做区域经理了，他和我说打算做两年就回来。存点钱和我一起开公司或者做个小生意，然后过这种周末能一起运动放松的生活。
+: 打完球我们去吃饭，他和我说下午走，回家后让我帮他整理行李。我边干活他边和我聊天，这时候又接了一个电话，他去客厅接的，还开了电视。这时候我开始想昨天和今天网友的回帖，觉得这两个电话不大对头。
+: ...................
+

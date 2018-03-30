@@ -1,0 +1,29 @@
+Return-Path: <kong@rbl.ccert.edu.cn>
+Received: from rbl.ccert.edu.cn (rbl.ccert.edu.cn [202.112.57.71])
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id i9A7PPae012518
+	for <han@ccert.edu.cn>; Sun, 10 Oct 2004 15:25:26 +0800 (CST)
+Received: from rbl.ccert.edu.cn (localhost.localdomain [127.0.0.1])
+	by rbl.ccert.edu.cn (8.12.11/8.12.11) with ESMTP id i9A7Ui08002508
+	for <han@ccert.edu.cn>; Sun, 10 Oct 2004 15:30:45 +0800
+Received: (from qa@localhost)
+	by rbl.ccert.edu.cn (8.12.11/8.12.11/Submit) id i9A7Uib9002507;
+	Sun, 10 Oct 2004 15:30:44 +0800
+Date: Sun, 10 Oct 2004 15:30:44 +0800
+Message-Id: <200410100730.i9A7Uib9002507@rbl.ccert.edu.cn>
+Subject: =?gb2312?B?ofEgvLHOyqO61+69/MutwvK5/b/Vtfe78tXf1qq1wMTEwO+/1bX3sLLXsNX9uebKtbvdICjXqtTY
+KQ==?=
+To: han@ccert.edu.cn
+From: Tran Quang Anh <kong@cernet.edu.cn>
+Content-Type: multipart/mixed; boundary="----------=_1097393445-1014-4"
+MIME-Version: 1.0
+X-UIDL: mbB"!cmR!!;8%!!;fW"!
+
+【 以下文字转载自 Shopping 讨论区 】
+发信人: mk47 (死亡山丘骑士), 信区: Shopping
+标  题: 急问：最近谁买过空调或者知道哪里空调安装正规实惠
+发信站: 水木社区 (Sat Jun  4 23:06:22 2005), 站内
+我在正规商场问，安装空调100元，外面很多50元，又不太放心
+请问最近谁买过空调，有没有安装师父的联系方式
+看看接私活能不能优惠些，或者哪位朋友知道哪里有实惠有放心的空调安装
+告知一下，万分感激！
+

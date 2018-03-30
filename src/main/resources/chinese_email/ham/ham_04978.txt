@@ -1,0 +1,48 @@
+Return-Path: <zhao@mails.tsinghua.edu.cn>
+Received: from mails.tsinghua.edu.cn (mails.tsinghua.edu.cn [166.111.8.16])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j2F8iLvd019237
+	for <zhou@ccert.edu.cn>; Tue, 15 Mar 2005 16:44:21 +0800 (CST)
+Message-Id: <200503150844.j2F8iLvd019237@sea.net.edu.cn>
+X-scanvirus: By SOPHOS Scan Engine
+X-scanresult: CLEAN
+X-Received: unknown,166.111.203.43,20050315163657
+Received: from unknown (HELO wdq-tsinghua) (wdq03@166.111.203.43)
+  by localhost with SMTP; 15 Mar 2005 08:36:57 -0000
+Date: Tue, 15 Mar 2005 16:44:25 +0800
+From: "zhao" <zhao@mails.tsinghua.edu.cn>
+To: zhou@ccert.edu.cn
+Subject: =?gb2312?B?ofEg06LM2Lb71tC5+tHQvr/W0NDEyrXPsMn61dDGuA==?=
+X-mailer: Foxmail 5.0 [cn]
+Mime-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: 8bit
+X-MIME-Autoconverted: from base64 to 8bit by sea.net.edu.cn id j2F8iLvd019237
+X-UIDL: D^6"!XL("!V6##!?bl!!
+
+Internship Positions in ICRC
+ 
+SOFTWARE INTERN
+Department: Intel Software &amp; Solution Group / Parallel &amp; Distributed Solutions Division
+Work period: 2005 Q3 and Q4
+No. of Openings: 1
+Location: ICRC (Beijing)
+Job Description
+Software encapsulation and test
+Skill &amp; Background
+*1+ years work experience with Linux/Windows network applications.
+*Proficiency in IPC mechanism of UNIX/Windows OS.
+*Good familiarity with MPI and some with threaded applications.
+*Master installing, configuring, tuning of different file systems.
+*Excellent C/C++/Fortran skills
+*Basic understanding of Linux kernel and performance monitoring/tuning
+General requirements
+*MS candidate
+*Team work
+*Good technical writing skills
+*Good communication skills
+ 
+Email: icrc@intel.com 
+Please put the job title in the ‘objective’ of your resume. 
+Please indicate the job location as “Beijing, ICRC”. 
+

@@ -1,0 +1,31 @@
+Return-Path: <xin@rbl.ccert.edu.cn>
+Received: from rbl.ccert.edu.cn (rbl.ccert.edu.cn [202.112.57.71])
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id i9E4PjMR001484
+	for <kong@ccert.edu.cn>; Thu, 14 Oct 2004 12:25:45 +0800 (CST)
+Received: from rbl.ccert.edu.cn (localhost.localdomain [127.0.0.1])
+	by rbl.ccert.edu.cn (8.12.11/8.12.11) with ESMTP id i9E4VHGY022779
+	for <kong@ccert.edu.cn>; Thu, 14 Oct 2004 12:31:17 +0800
+Received: (from qa@localhost)
+	by rbl.ccert.edu.cn (8.12.11/8.12.11/Submit) id i9E4VHov022778;
+	Thu, 14 Oct 2004 12:31:17 +0800
+Date: Thu, 14 Oct 2004 12:31:17 +0800
+Message-Id: <200410140431.i9E4VHov022778@rbl.ccert.edu.cn>
+Subject: =?gb2312?B?UmU6ILnY09qwrsGi0MXR0Lei1tDQxKOsztKyu7XDsrvLtcG9vuQ=?=
+To: kong@ccert.edu.cn
+From: Tran Quang Anh <xin@cernet.edu.cn>
+Content-Type: multipart/mixed; boundary="----------=_1097728277-2811-28"
+MIME-Version: 1.0
+X-UIDL: [iI"!6@&!!;,I!!VKp!!
+
+我也去面过爱立信研发的职位
+爱立信研发这边的面试不是专职hr，而是产品经理来兼职的
+据说他们已经面了至少大几百了
+所以他们的一些情况，以及选择的时间，应该可以理解的
+感觉兼职做招聘
+在smth上也看到有半年了
+他们的压力也可想而知了
+: 是啊，起码的品德都不具备。。。
+: 不过偶去ibm北研面时过一次，那位hr大哥态度很诚恳，
+: 唉，只是偶技不如人，虽被pass，依然很感激那位大哥的激励。。。
+: ...................
+

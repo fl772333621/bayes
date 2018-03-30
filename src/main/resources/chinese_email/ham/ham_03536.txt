@@ -1,0 +1,28 @@
+Return-Path: <ren@ccert.edu.cn>
+Received: from ns2.ccert.edu.cn (ccert.edu.cn [202.112.57.12])
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id j6P37FTQ013957
+	(version=TLSv1/SSLv3 cipher=DES-CBC3-SHA bits=168 verify=NO)
+	for <mei@ccert.edu.cn>; Mon, 25 Jul 2005 11:07:15 +0800 (CST)
+Received: from [202.112.50.10] (helo=sunbin)
+	by ns2.ccert.edu.cn with esmtp (Exim 4.50)
+	id 1DwtUL-0008Ig-7S
+	for qa@cernet.edu.cn; Mon, 25 Jul 2005 11:18:45 +0800
+Date: Mon, 25 Jul 2005 11:07:25 +0800
+From: "ren" <ren@ccert.edu.cn>
+Reply-To: ren@ccert.edu.cn
+To: mei@ccert.edu.cn
+Subject: =?gb2312?B?UmU6ILDdzdC49867o6zO0rjD1PXDtLDsxNijvw==?=
+Organization: CCERT
+X-mailer: Foxmail 5.0 [cn]
+Mime-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: 8bit
+Message-Id: <E1DwtUL-0008Ig-7S@ns2.ccert.edu.cn>
+X-UIDL: T$6!!ES6"!be?"!W<W!!
+
+多和她沟通，表明你的态度～～～～
+: 和MM快2年了，这2年两人相处的很好，有时也会出现小争吵，但很快都解决了，不会拖到第2天。但MM是个非常不主动的人，她经常说的话就是：你想我我就想你，你爱我我就爱你。她说我将来要是不要她了，她会马上就走，不会挽回。有时候她说的话特别伤人，气我，但我不敢和她吵，因为你和她吵，她会说你小气，一个大男人没气度。从追她那天起，我好象就一直处于很低的位置，我不知道这样惯她以后我要稍微做的不好了，她会觉得我不喜欢她，不爱她了。
+: 月底就要去见她父母亲戚了，但我觉得我们现在观念上存在一些分歧，她可以说大女子主义很重的人，认为什么事男生都该让着女生。可我呢，过去我都是压抑着，能让就让了，但有时候觉得这样很累，起码不是自己真实的想法。男生让女生是应该的，但不该什么事都迁就吧，毕竟感情是两个人的事。
+: 大家帮帮我，我该怎么办，我不想谈分手，两个人走到一起真的很不容易，可以说我们最艰苦的时期度过来了，我们经过努力现在工作都定到了同一个城市，用我们的朋友话说我们将来肯定会结婚的，但是最近老因为一点小事情生气，我是心事很重的人，心理有点事情就吃不好睡不好。我是该继续迁就她呢，还是有什么其他办法，各位，拜托了！
+

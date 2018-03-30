@@ -1,0 +1,29 @@
+Return-Path: <qiu@rbl.ccert.edu.cn>
+Received: from rbl.ccert.edu.cn (rbl.ccert.edu.cn [202.112.57.71])
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id i91CBq23005026
+	for <bi@ccert.edu.cn>; Fri, 1 Oct 2004 20:11:52 +0800 (CST)
+Received: from rbl.ccert.edu.cn (localhost.localdomain [127.0.0.1])
+	by rbl.ccert.edu.cn (8.12.11/8.12.11) with ESMTP id i91CHWDt013449
+	for <bi@ccert.edu.cn>; Fri, 1 Oct 2004 20:17:33 +0800
+Received: (from qa@localhost)
+	by rbl.ccert.edu.cn (8.12.11/8.12.11/Submit) id i91CHW1M013448;
+	Fri, 1 Oct 2004 20:17:32 +0800
+Date: Fri, 1 Oct 2004 20:17:32 +0800
+Message-Id: <200410011217.i91CHW1M013448@rbl.ccert.edu.cn>
+Subject: =?gb2312?B?UmU6IMjLysK+1runv9rJ88X60snOyg==?=
+To: bi@ccert.edu.cn
+From: Tran Quang Anh <qiu@cernet.edu.cn>
+Content-Type: multipart/mixed; boundary="----------=_1096633053-996-290"
+MIME-Version: 1.0
+X-UIDL: 1-5!!P2X"!4l~!!3S>"!
+
+研究生往往是看专业是不是北京市紧缺的或是热门的专业
+如果是本科生，一般会严格参照北京市引进本科生的紧缺专业目录去执行
+对于很多同学提出的“我虽然是学什么什么的，但是我在计算机方面很强，
+去公司也是做计算机相关的工作”
+或是“我专业虽然是叫什么什么，但是我们实际学的就是计算机...”
+类似这样的说法，人事局都不接受，不认可
+: 北京市人事局依据什么审核专业和工作是否符合？ 
+: 难道是根据企业的性质和专业是否符合 
+: 还是按照招聘的具体岗位和专业是否符合来判断? 
+

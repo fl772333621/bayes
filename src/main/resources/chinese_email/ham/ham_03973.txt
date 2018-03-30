@@ -1,0 +1,29 @@
+Return-Path: <wu@cernet.edu.cn>
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id j2E7om2G005120
+	for <wei@ccert.edu.cn>; Mon, 14 Mar 2005 15:51:03 +0800
+Received: from ccert-dijg (tu203028.ip.tsinghua.edu.cn [166.111.203.28])
+	(authenticated bits=0)
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id j2E706cW003437
+	for <wei@ccert.edu.cn>; Mon, 14 Mar 2005 15:00:06 +0800 (CST)
+Message-Id: <200503140700.j2E706cW003437@sea.net.edu.cn>
+From: "wu" <wu@cernet.edu.cn>
+Reply-To: wu@cernet.edu.cn
+To: wei@ccert.edu.cn
+Subject: =?GB2312?Q?Fw: Fw: =B2=A9=CA=BF=B1=CF=D2=B5=D3=A6=C6=B8=C8=CB=D4=B1=B4=FA=B1=ED=D0=D4=D1=A7=CA=F5=B1=A8=B8=E6?=
+Organization: ccert
+X-mailer: Foxmail 4.2 [cn]
+Mime-Version: 1.0
+Content-Type: text/plain;
+      charset="GB2312"
+Date: Mon, 14 Mar 2005 15:1:0 +0800
+Content-Transfer-Encoding: 8bit
+X-MIME-Autoconverted: from quoted-printable to 8bit by home.ccert.edu.cn id j2E7om2G005120
+X-UIDL: X]:!!T]&#!Q~(#!NUp"!
+
+        你说的没错啊，肯定有点兴趣才投，但是人家为什么只能选择你们呢？你们就没从自己的角度出发考虑考虑问题，为什么三个本来对你们有兴趣的清华硕士，拿到了offer又没选择你们呢？待遇过低？发展前景不好？现在招聘和求职都是双向选择，只要没有违背诚信原则，人家这样做根本无可非议
+: 我觉得投我们单位的
+: 至少是对我们感兴趣的，比较认同的
+: 而不是来混面经的，做跳板的
+: ...................
+

@@ -1,0 +1,45 @@
+Return-Path: <yana@tsinghua.edu.cn>
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j2E7g6wn004184
+	for <zeng@ccert.edu.cn>; Mon, 14 Mar 2005 15:42:06 +0800 (CST)
+Received: (eyou send program); Mon, 14 Mar 2005 15:25:23 +0800
+Message-ID: <310785123.26930@mail.tsinghua.edu.cn>
+Received: from unknown (HELO mail.tsinghua.edu.cn) (unknown@127.0.0.1)
+ by 127.0.0.1 with SMTP; Mon, 14 Mar 2005 15:25:23 +0800
+X-scanvirus: By Symantec Scan Engine
+X-scanresult: CLEAN
+Received: (eqmail ); 14 Mar 2005 07:25:19 -0000
+Received: from unknown (HELO sony) (duanhx@166.111.204.189)
+  by localhost with SMTP; 14 Mar 2005 07:25:19 -0000
+Message-ID: <006e01c52869$4ac02270$bdcc6fa6@sony>
+From: "yana" <yana@tsinghua.edu.cn>
+To: zeng@ccert.edu.cn
+Cc: <fu@ccert.edu.cn>, =?gb2312?B?zuLWvr78?= <chi@ccert.edu.cn>,
+        <mo@ccert.edu.cn>,
+        "Liu wu \(Tsinghua CCERT\)" <cen@ccert.edu.cn>, <lu@ccert.edu.cn>
+Subject: =?gb2312?B?UmU6ILvYufrV0rmk1/ejrMX6xsDSu8/Cxby1xLzywPrU9cO00fmjvw==?=
+Date: Mon, 14 Mar 2005 15:41:52 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_006B_01C528AC.57AD5370"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2900.2180
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+X-UIDL: fiO!!X;j"!!4d"!PNI"!
+
+: 网上那么多简历流传，
+: 从前毕业的师兄师姐谁没有简历，
+: 呵呵，在career版这么久第一次见有人贴自己的简历，
+        ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+         这话一听就知道是假话，哈哈。包子皮太薄——露馅了吧。
+: 而且还说“我不是要大家说我多牛”，
+         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+           恩？我觉得从你回复的文章来看，无此话更胜于有此话啊
+: 呵呵，这句话的潜台词不就是“其实，我也知道我很牛”么？
+: 现在海龟没前几年好卖了，
+: 当然真正的牛海龟还是好多公司抢着要，
+: 这个小孩子是不了解行情啊
+  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+            恩，确实准备增开一个归国就业创业版，让大家多多了解行情。
+

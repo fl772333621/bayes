@@ -1,0 +1,33 @@
+Return-Path: <liao@tsinghua.edu.cn>
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id iARCQS99012906
+	for <ning@ccert.edu.cn>; Sat, 27 Nov 2004 20:26:28 +0800 (CST)
+Received: (eyou send program); Sat, 27 Nov 2004 20:11:14 +0800
+Message-ID: <301557473.18628@mail.tsinghua.edu.cn>
+Received: from unknown (HELO mail.tsinghua.edu.cn) (unknown@127.0.0.1)
+ by 127.0.0.1 with SMTP; Sat, 27 Nov 2004 20:11:14 +0800
+X-scanvirus: By Symantec Scan Engine
+X-scanresult: CLEAN
+Received: (eqmail ); 27 Nov 2004 12:11:13 -0000
+Received: from unknown (HELO sony) (duanhx@166.111.232.131)
+  by localhost with SMTP; 27 Nov 2004 12:11:13 -0000
+Message-ID: <00a101c4d47c$479fba60$56e86fa6@sony>
+From: "liao" <liao@tsinghua.edu.cn>
+To: ning@ccert.edu.cn
+Subject: =?gb2312?B?UmU6IL341bm747GoIFJlOiDQocb4tcTE0MXz09GjrM7SuMPU9cO0sOyjvw==?=
+Date: Sat, 27 Nov 2004 20:26:10 +0800
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="----=_NextPart_000_009D_01C4D4BF.54F32740"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2900.2180
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+X-UIDL: Gi;"!,pF!!b'o!!Z[["!
+
+你累不累啊
+: 昨天因为不开心，GG不主动分担旅行费用。 电话里跟GG说， 他只说要我对他有耐心。 我一个人思考了很久， 还是感觉不痛快。 其实旅行过程中他逃避付钱的现象很明显。:( 所以我跟他说， 我要一个人呆呆， 我们暂时还是不要见面了。 他问我这是你想要的么？ 我说是。 他说�
+: 今天我一个人， 洗澡，收拾房间， 洗车， 买东西， 还作了一点运动。 感觉生活很自在。 可是当一切收拾停当， 就忍不住地拼命的想他。 可是他始终没有来电话。 我也只好忍着。 
+: 终于， 电话响了。 是他。 第一次接起来， 对方一点声音也没有， 但是我确信电话接通了。 然后挂断了。 等了一下， 电话铃再次想起。 接起电话， 他问我：在哪里呢？做什么呢？ 我说在家里， 只是座着， 什么都没干。 他然后就说：他今天一直再做一个课业项目。 然后问�
+: ...................
+

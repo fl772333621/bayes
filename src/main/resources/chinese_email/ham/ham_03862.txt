@@ -1,0 +1,32 @@
+Return-Path: <zhong@tsinghua.edu.cn>
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with SMTP id i9L6CDpO012759
+	for <sun@ccert.edu.cn>; Thu, 21 Oct 2004 14:12:13 +0800
+Received: (eyou send program); Thu, 21 Oct 2004 14:09:00 +0800
+Message-ID: <298338940.09464@mail.tsinghua.edu.cn>
+Received: from unknown (HELO mail.tsinghua.edu.cn) (unknown@127.0.0.1)
+ by 127.0.0.1 with SMTP; Thu, 21 Oct 2004 14:09:00 +0800
+X-scanvirus: By Symantec Scan Engine
+X-scanresult: CLEAN
+Received: (eqmail ); 21 Oct 2004 06:08:59 -0000
+Received: from unknown (HELO sony) (duanhx@202.112.50.6)
+  by localhost with SMTP; 21 Oct 2004 06:08:59 -0000
+Message-ID: <00ce01c4b736$77eca150$063270ca@sony>
+From: "zhong" <zhong@tsinghua.edu.cn>
+To: sun@ccert.edu.cn
+Subject: =?gb2312?B?UmU6IMbFz7G52M+11ea1xNXiw7TE0bSmwvCjv9DEwO+6w7qmxcKwoQ==?=
+Date: Thu, 21 Oct 2004 14:23:22 +0800
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2900.2180
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+Content-Transfer-Encoding: 8bit
+X-MIME-Autoconverted: from base64 to 8bit by home.ccert.edu.cn id i9L6CDpO012759
+X-UIDL: ocK!!dXY!!f~="!NmG!!
+
+嗯，我刚结婚时也是这么大义凛然准备一辈子认了的，那时想起来就和lg闹，我必别人差在哪里，凭什么我就要和老人一起住？没想到问题那么快就解决了～～～
+: 寡母独子是没得选也就认了阿..好歹就光一个老太太没一捆亲戚不是~说道这个..其实也没啥可怕的我一个同学就是这样的~她lg那边就是寡母独子她一早就知道肯定要一起住肯定要一辈子一起住然后到现在也一直一起住着..好像挺好的反正从来没抱怨过也挺高兴的~
+

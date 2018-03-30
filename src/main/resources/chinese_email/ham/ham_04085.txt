@@ -1,0 +1,41 @@
+Return-Path: <li@cernet.edu.cn>
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id j2E7om2G005120
+	for <ning@ccert.edu.cn>; Mon, 14 Mar 2005 15:51:03 +0800
+Received: from ccert-dijg (tu203028.ip.tsinghua.edu.cn [166.111.203.28])
+	(authenticated bits=0)
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id j2E706cW003437
+	for <ning@ccert.edu.cn>; Mon, 14 Mar 2005 15:00:06 +0800 (CST)
+Message-Id: <200503140700.j2E706cW003437@sea.net.edu.cn>
+From: "li" <li@cernet.edu.cn>
+Reply-To: li@cernet.edu.cn
+To: ning@ccert.edu.cn
+Subject: =?GB2312?Q?Fw: Fw: =B2=A9=CA=BF=B1=CF=D2=B5=D3=A6=C6=B8=C8=CB=D4=B1=B4=FA=B1=ED=D0=D4=D1=A7=CA=F5=B1=A8=B8=E6?=
+Organization: ccert
+X-mailer: Foxmail 4.2 [cn]
+Mime-Version: 1.0
+Content-Type: text/plain;
+      charset="GB2312"
+Date: Mon, 14 Mar 2005 15:1:0 +0800
+Content-Transfer-Encoding: 8bit
+X-MIME-Autoconverted: from quoted-printable to 8bit by home.ccert.edu.cn id j2E7om2G005120
+X-UIDL: X]:!!T]&#!Q~(#!NUp"!
+
+博奥生物公司生物信息组招聘研发人员
+博奥生物公司暨生物芯片北京国家工程研究中心是国内目前最具
+发展潜力的生物公司，也是具有一定国际竞争力的唯一的国内生物
+公司。详细情况可见www.capitalbio.com.
+我们生物信息组主要从事生物表达谱芯片、SNP检测芯片、蛋白质
+芯片等技术相关的科研、产品开发和服务项目的生物信息学研发
+工作。目前组员由来自清华大学等高等院校毕业的博士和硕士组成。
+我们希望应聘人员具有一定的生物信息学科研或开发经历，了解生
+物学和生物芯片相关技术，具有一定的独立编程开发能力，熟练的
+计算机操作能力，熟练掌握Perl、Java、C/C++、中至少两门编程语
+言，至少精通一门面向对象的编程语言如Java等。
+熟悉国际通用的生物信息学软件、数据库、基本方法，具有较强的
+学习和独立研发能力，具有积极向上和团队合作的精神。具有较强
+的数学、统计学、模式识别背景最佳。
+我们欢迎来自海内外各大专院校的本科生和研究生参加我们的团队，
+共同面对机遇和挑战。
+如果感兴趣，请与ylzhuang@capitalbio.com联系
+

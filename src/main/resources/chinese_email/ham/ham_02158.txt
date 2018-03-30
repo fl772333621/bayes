@@ -1,0 +1,56 @@
+Return-Path: <yan@compass.net.edu.cn>
+Received: from tsinghua.org.cn ([210.77.143.228])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id iAB1N9h5005494
+	for <xu@ccert.edu.cn>; Thu, 11 Nov 2004 09:23:11 +0800
+Received: (eyou send program); Thu, 11 Nov 2004 09:35:12 +0800
+Received: (eyou send program); Thu, 11 Nov 2004 09:35:12 +0800
+X-EYOU-ORIGINAL-IP: 210.77.143.235
+X-EYOU-ENVELOPE-MAILFROM: toefl-bounces@server.cool-meeting.com
+Received: from unknown (HELO eyou.net) (unknown@210.77.143.235)
+ by 210.77.143.228 with SMTP; Thu, 11 Nov 2004 09:35:12 +0800
+Received: (eyou send program); Thu, 11 Nov 2004 09:31:17 +0800
+Message-ID: <300136677.29805@eyou.net>
+Received: from 202.38.99.65 by 210.77.143.235 with SMTP; Thu, 11 Nov 2004 09:31:16 +0800
+Received: from server.cool-meeting.com (localhost.localdomain [127.0.0.1])
+	by server.cool-meeting.com (8.12.8/8.12.8) with ESMTP id iAB1lalZ002538
+	for <xu@ccert.edu.cn>; Thu, 11 Nov 2004 09:47:43 +0800
+Received: from compass.net.edu.cn ([202.38.188.130])
+	by server.cool-meeting.com (8.12.8/8.12.8) with ESMTP id iAB1lTkr002534
+	for <xu@ccert.edu.cn>; Thu, 11 Nov 2004 09:47:29 +0800
+Received: from [210.25.128.113] ([210.25.128.113])
+	by compass.net.edu.cn (8.9.2/8.9.2) with ESMTP id JAA21416
+	for <xu@ccert.edu.cn>;
+	Thu, 11 Nov 2004 09:37:44 +0800 (CST)
+Message-ID: <4192C121.7020103@compass.net.edu.cn>
+Date: Thu, 11 Nov 2004 09:32:17 +0800
+From: Shaozhi Ye <yan@compass.net.edu.cn>
+User-Agent: Mozilla Thunderbird 0.9 (Windows/20041103)
+X-Accept-Language: en-us, en
+MIME-Version: 1.0
+To: xu@ccert.edu.cn
+Content-Type: text/plain; charset=GB2312
+Content-Transfer-Encoding: 8bit
+Cc: 
+Subject: =?gb2312?B?UmU6IMrHztK/tLTtwcvIy6Osu7nKx87StO3By6O/?=
+X-BeenThere: toefl@server.cool-meeting.com
+X-Mailman-Version: 2.1.2
+Precedence: list
+List-Id: &#26446;&#26143;&#21644;&#20182;&#30340;&#23398;&#29983;&#20204;
+	<toefl.server.cool-meeting.com>
+List-Unsubscribe: <http://server.cool-meeting.com/mailman/listinfo/toefl>,
+	<mailto:toefl-request@server.cool-meeting.com?subject=unsubscribe>
+List-Archive: <http://server.cool-meeting.com/mailman/private/toefl>
+List-Post: <mailto:toefl@server.cool-meeting.com>
+List-Help: <mailto:toefl-request@server.cool-meeting.com?subject=help>
+List-Subscribe: <http://server.cool-meeting.com/mailman/listinfo/toefl>,
+	<mailto:toefl-request@server.cool-meeting.com?subject=subscribe>
+Sender: toefl-bounces@server.cool-meeting.com
+Errors-To: toefl-bounces@server.cool-meeting.com
+X-UIDL: 8)+"!=L&#!S*D!!QVA"!
+
+有些人不在乎的，唉，有时候人自我一点好，狂妄一点好，别老委委屈屈的，自己觉得自己是受气包，肯定就快乐不起来
+: 今天过节，心里好凄凉啊。没有人说话，没有人倾诉。也许，有人可以陪伴，可那不是我要等得人。为什么，事情的变化比天气还要快，一周以前，我还是幸福的女孩。可是现在，他
+: 把我视为陌路，视为仇人。是我错了吗？呵呵。我的坦白，我的执着，反馈给我的却是猜疑
+: ，却是指责。心里好委屈啊。真的好委屈。为什么，难道男生都那么在意女孩子的感情经历吗？谁能告诉我该怎么办？哪一天我会幸福那？
+: ...................
+

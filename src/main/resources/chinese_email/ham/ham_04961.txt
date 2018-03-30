@@ -1,0 +1,25 @@
+Return-Path: <zhu@rbl.ccert.edu.cn>
+Received: from rbl.ccert.edu.cn (rbl.ccert.edu.cn [202.112.57.71])
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id i9IA4LTe002288
+	for <tian@ccert.edu.cn>; Mon, 18 Oct 2004 18:04:21 +0800 (CST)
+Received: from rbl.ccert.edu.cn (localhost.localdomain [127.0.0.1])
+	by rbl.ccert.edu.cn (8.12.11/8.12.11) with ESMTP id i9IAA7S8023837
+	for <tian@ccert.edu.cn>; Mon, 18 Oct 2004 18:10:07 +0800
+Received: (from qa@localhost)
+	by rbl.ccert.edu.cn (8.12.11/8.12.11/Submit) id i9IAA7qR023836;
+	Mon, 18 Oct 2004 18:10:07 +0800
+Date: Mon, 18 Oct 2004 18:10:07 +0800
+Message-Id: <200410181010.i9IAA7qR023836@rbl.ccert.edu.cn>
+Subject: =?gb2312?B?UmU6ILj4ztLToc/z1+7J7rXEyq6yv8PAufq159OwvLDLtcP3?=
+To: tian@ccert.edu.cn
+From: Tran Quang Anh <zhu@cernet.edu.cn>
+Content-Type: multipart/mixed; boundary="----------=_1098094207-5847-66"
+MIME-Version: 1.0
+X-UIDL: H;Q"!n[:!!?e*!!Zm+!!
+
+正交。
+: 排名不分先后：
+: 一、《阿甘正传》（1994）每看一次就感动一回，这部电影阐释了生命的意义，让我启发良多，也是我了解美国历史的窗口，汤姆.汉克斯从此成为我最喜爱的男演员之一。
+: 二、《美人计》（1946）我最喜爱的希区柯克作品，我心目中最美丽的女神、瑞典女郎--英格丽.褒曼主演，难忘的片段有：男女主人公两人在地下酒库里偷取证物，被女主人公的丈夫发现了，男主人公机智地拥吻了女主人公，声称对她余情未了、约她在地下室幽会…….假戏真做，加
+: ...................
+

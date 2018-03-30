@@ -1,0 +1,56 @@
+Return-Path: <wu@tsinghua.edu.cn>
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id iBL2PWNJ029599
+	for <guan@ccert.edu.cn>; Tue, 21 Dec 2004 10:25:32 +0800 (CST)
+Received: (eyou send program); Tue, 21 Dec 2004 10:10:02 +0800
+Message-ID: <303595001.00923@mail.tsinghua.edu.cn>
+Received: from unknown (HELO mail.tsinghua.edu.cn) (unknown@127.0.0.1)
+ by 127.0.0.1 with SMTP; Tue, 21 Dec 2004 10:10:02 +0800
+X-scanvirus: By Symantec Scan Engine
+X-scanresult: CLEAN
+Received: (eqmail ); 21 Dec 2004 02:09:57 -0000
+Received: from unknown (HELO sony) (duanhx@166.111.204.187)
+  by localhost with SMTP; 21 Dec 2004 02:09:57 -0000
+Message-ID: <005a01c4e704$4c922c70$bbcc6fa6@sony>
+From: "wu" <wu@tsinghua.edu.cn>
+To: guan@ccert.edu.cn
+Subject: =?gb2312?B?ofEgu7fH8ia4o7/Ly7nBqsrWu/G1w6G2ueLUzqG3tefTsLDmICjXqtTYKQ==?=
+Date: Tue, 21 Dec 2004 10:25:01 +0800
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2900.2180
+X-MIMEOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+Content-Transfer-Encoding: 8bit
+X-MIME-Autoconverted: from base64 to 8bit by sea.net.edu.cn id iBL2PWNJ029599
+X-UIDL: JjB"!h&j!!$E5"!=j&"!
+
+【 以下文字转载自 TVGame 讨论区 】
+发信人: lowy (坚持到底), 信区: TVGame
+标  题: 环球&amp;福克斯联手获得《光晕》电影版
+发信站: 水木社区 (Mon Jun 13 11:45:50 2005), 站内
+环球&amp;福克斯联手获得《光晕》电影版 
+http://gamezone.qq.com   2005年 06月 13日   腾讯游戏    
+    之前美国《综艺》杂志曾经报道由于微软对于《光晕》电影版的要求太高，导
+致很多好莱坞片商对其敬而远之，日前《综艺》又对此事进行了跟踪报道。
+    据《综艺》报道，目前环球影业目前已经决定与二十世纪福克斯合资拍摄《光
+晕》的电影版，目前版权购买事宜已经处于最后一轮谈判中。根据《综艺》、《纽
+约时报》等权威媒体的报道，微软向片商提出的条件是至少要有7500万美元的费用
+预算，并且微软要求获得1000万美元，并从总票房中抽取15％。微软要求对于影片
+的拍摄过程有完全控制监督的权力，确保电影符合游戏开发商Bungie Studios的预
+想。在这种苛刻条件下，新干线、梦工厂、派拉蒙、迪斯尼等都放弃了该片的版权，
+仅余下福克斯和环球。
+    微软的代言公司是Creative Artists Agency，这家公司由XBOX设计者之一
+Seamus Blackley成立，与福克斯和环球的合作就是由他一手促成的。由于多家片商
+都宣布放弃，无奈之下，微软的条件降为500万美元以及10％的票房总收入。环球将
+会负责美国国内的发行，而福克斯负责国外的发行。
+    除了大幅降低版权费之外，环球和福克斯还要求微软放宽电影制作过程的限制，
+不希望受到Bungie的指手画脚。目前Bungie已经为该片制定了一本详细的要求制片
+方严格遵循的要点，希望该片能够与目前开发中的续作相匹配。并且微软方面要求
+片商尽快开镜，最好在秋季之前投拍。而目前环球和福克斯仅答应“最晚2007年上
+映”，《光晕3》则是预计明年春季或者夏季上市。由于在这一方面还存在很大争议，
+因此本片能否顺利投拍目前还是说不准。 
+ 
+

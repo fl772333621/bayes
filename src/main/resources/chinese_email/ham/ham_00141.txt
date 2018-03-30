@@ -1,0 +1,24 @@
+Return-Path: <yang@rbl.ccert.edu.cn>
+Received: from rbl.ccert.edu.cn (rbl.ccert.edu.cn [202.112.57.71])
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id i98B12cw008442
+	for <ou@ccert.edu.cn>; Fri, 8 Oct 2004 19:01:02 +0800 (CST)
+Received: from rbl.ccert.edu.cn (localhost.localdomain [127.0.0.1])
+	by rbl.ccert.edu.cn (8.12.11/8.12.11) with ESMTP id i98B74rk019960
+	for <ou@ccert.edu.cn>; Fri, 8 Oct 2004 19:07:04 +0800
+Received: (from qa@localhost)
+	by rbl.ccert.edu.cn (8.12.11/8.12.11/Submit) id i98B74Rf019959;
+	Fri, 8 Oct 2004 19:07:04 +0800
+Date: Fri, 8 Oct 2004 19:07:04 +0800
+Message-Id: <200410081107.i98B74Rf019959@rbl.ccert.edu.cn>
+Subject: =?gb2312?B?UmU6INChxvi1xMTQxfPT0aOsztK4w9T1w7Sw7KO/?=
+To: ou@ccert.edu.cn
+From: Tran Quang Anh <yang@cernet.edu.cn>
+Content-Type: multipart/mixed; boundary="----------=_1097233624-26230-12"
+MIME-Version: 1.0
+X-UIDL: F,X"!W:`"!V;G"!b8F"!
+
+: 如果遇到一个很小气的男朋友，你们会怎么办呢？我和男朋友认识6个月，什么都很好，就是这钱地问题，引发了很多不愉快。
+: 这次是我们一起旅行，因为是我的主意，所以都是我在张罗。所以买机票，定车子，定旅店，都自然而然成了我的事情。 我一直忍着没有问他， 想他一定会主动提出和我分担。 但是他一直都没有提。我想大概他想负责旅行的时候其他费用吧，所以我还是忍着没有问他。 结果旅行的时候， 大部分的费用他是出了，但是最贵的一笔门票，临要买票， 他上厕所走开了，问我说，你排队买票行不行啊？我说行。 所以算下来， 这个旅行， 我比他多出了很多。 其实他的工资是我的2倍，虽然他在买房子， 经济可能压力大一点。 但是就算你不付我的也要付自己的一: 分吧？
+: ...................
+太小气的说，鄙视一下。
+

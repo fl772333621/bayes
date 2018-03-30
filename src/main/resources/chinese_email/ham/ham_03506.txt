@@ -1,0 +1,70 @@
+Return-Path: <feng@mails.tsinghua.edu.cn>
+Received: from tsinghua.org.cn ([210.77.143.231])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id j0L3DVHj009817
+	for <ren@ccert.edu.cn>; Fri, 21 Jan 2005 11:13:34 +0800
+Received: (eyou send program); Fri, 21 Jan 2005 11:04:07 +0800
+Received: (eyou send program); Fri, 21 Jan 2005 11:04:06 +0800
+X-EYOU-ORIGINAL-IP: 210.77.143.235
+X-EYOU-ENVELOPE-MAILFROM: toefl-bounces@server.cool-meeting.com
+Received: from unknown (HELO eyou.net) (unknown@210.77.143.235)
+ by 210.77.143.231 with SMTP; Fri, 21 Jan 2005 11:04:06 +0800
+Received: (eyou send program); Fri, 21 Jan 2005 11:17:56 +0800
+Message-ID: <306277476.25689@eyou.net>
+Received: from 202.38.99.65 by 210.77.143.235 with SMTP; Fri, 21 Jan 2005 11:17:55 +0800
+Received: from server.cool-meeting.com (localhost.localdomain [127.0.0.1])
+	by server.cool-meeting.com (8.12.8/8.12.8) with ESMTP id j0L1YhvA015110
+	for <ren@ccert.edu.cn>; Fri, 21 Jan 2005 09:34:48 +0800
+Received: from mails.tsinghua.edu.cn (mails.tsinghua.edu.cn [166.111.8.16])
+	by server.cool-meeting.com (8.12.8/8.12.8) with SMTP id j0L1YbuL015107
+	for <ren@ccert.edu.cn>; Fri, 21 Jan 2005 09:34:37 +0800
+Message-Id: <200501210134.j0L1YbuL015107@server.cool-meeting.com>
+X-scanvirus: By SOPHOS Scan Engine
+X-scanresult: CLEAN
+X-Received: unknown,166.111.203.82,20050121112247
+Received: from unknown (HELO zz) (zhuyangbo99@166.111.203.82)
+	by localhost with SMTP; 21 Jan 2005 03:22:47 -0000
+Date: Fri, 21 Jan 2005 11:27:33 +0800
+From: "feng" <feng@mails.tsinghua.edu.cn>
+To: ren@ccert.edu.cn
+Subject: Re: Re: [TOEFL] Email address changing
+X-mailer: Foxmail 5.0 [cn]
+Mime-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: 8bit
+X-MIME-Autoconverted: from base64 to 8bit by server.cool-meeting.com id
+	j0L1YbuL015107
+Cc: =?gb2312?B?zfjC59bQ0MRUb2VmbMzWwtvX6Q==?= <ni@ccert.edu.cn>
+X-BeenThere: toefl@server.cool-meeting.com
+X-Mailman-Version: 2.1.2
+Precedence: list
+List-Id: &#26446;&#26143;&#21644;&#20182;&#30340;&#23398;&#29983;&#20204;
+	<toefl.server.cool-meeting.com>
+List-Unsubscribe: <http://server.cool-meeting.com/mailman/listinfo/toefl>,
+	<mailto:toefl-request@server.cool-meeting.com?subject=unsubscribe>
+List-Archive: <http://server.cool-meeting.com/mailman/private/toefl>
+List-Post: <mailto:toefl@server.cool-meeting.com>
+List-Help: <mailto:toefl-request@server.cool-meeting.com?subject=help>
+List-Subscribe: <http://server.cool-meeting.com/mailman/listinfo/toefl>,
+	<mailto:toefl-request@server.cool-meeting.com?subject=subscribe>
+Sender: toefl-bounces@server.cool-meeting.com
+Errors-To: toefl-bounces@server.cool-meeting.com
+X-UIDL: EI"#!TXB"!f(M!!4*"#!
+
+你是否已经不满足于只做简单的家教？ 
+你是否已经厌倦了枯燥乏味的翻译工作？ 
+你是否渴望一份能给你带来挑战使你成长的兼职？ 
+你是否正在为怎样去寻找这样一份兼职而苦恼？ 
+那么… 
+琴 韵 女 性 时 尚 文 化 公 司 
+将给你提供这样的机会… 
+它将给你提供免费的学习机会： 
+——知识：服饰搭配、形象设计、色布诊断、护肤彩妆、丝巾系法… 
+——技巧：沟通技巧、谈判技巧、时间管理、市场营销、性格分析… 
+它将给你提供一个事业机会： 
+——让你成为专业的形象设计师，在学习中成长，在成长中变得美丽、自信并拥有属于自己的一份不菲的薪金。 
+——让你在工作中提升气质，提高表达、沟通能力。 
+——让你认识许多新的朋友，这使你的生活更加丰富多彩。 
+你是否有少许的动心？那么心动不如行动，抓住身边的机会去开创属于自己的一片天地吧！ 
+联系方式：freefly81@163.com，QQ：6603772（可留言留下联系方式）短信13810858788小灵通81888856 
+

@@ -1,0 +1,42 @@
+Return-Path: <zhong@home.ccert.edu.cn>
+Received: from home.ccert.edu.cn (localhost [127.0.0.1])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id j0M4f6EX026994;
+	Sat, 22 Jan 2005 12:41:06 +0800
+Received: (from majordomo@localhost)
+	by home.ccert.edu.cn (8.13.1/8.13.1/Submit) id j0M4f60Q026993;
+	Sat, 22 Jan 2005 12:41:06 +0800
+X-Authentication-Warning: home.ccert.edu.cn: majordomo set sender to owner-ccertstaff using -f
+Received: from ccertspark (tu203021.ip.tsinghua.edu.cn [166.111.203.21])
+	(authenticated bits=0)
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id j0M4f6vG026989
+	for <wang@ccert.edu.cn>; Sat, 22 Jan 2005 12:41:06 +0800
+Reply-To: <zhong@cernet.edu.cn>
+From: "zhong" <zhong@ccert.edu.cn>
+To: wang@ccert.edu.cn
+Subject: =?gb2312?B?ofEg0ru74cily6++9Q==?=
+Date: Sat, 22 Jan 2005 12:51:06 +0800
+Message-ID: <001901c5003d$fbf61260$15cb6fa6@ccertspark>
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+X-Priority: 3 (Normal)
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook, Build 10.0.6626
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.3790.181
+Importance: Normal
+Content-Transfer-Encoding: 8bit
+X-MIME-Autoconverted: from base64 to 8bit by home.ccert.edu.cn id j0M4f6vG026991
+Sender: owner-ccertstaff@home.ccert.edu.cn
+Precedence: bulk
+X-UIDL: /L-!!i_h"!%Rg!!pD2!!
+
+这两天生物钟乱了，总是白天迷糊犯困，到了晚上又来精神。
+今天早上挣扎着排起来，打了有二十分钟的排球，胳膊上火辣辣的疼，
+出了好多小血点子，体力真差劲:-(
+明早还要继续，所以从今晚开始要把生物钟调回正常状态。
+我一句话都懒得说了现在，不管将来会碰到什么样的困难，我都不想选择游戏人生的
+态度，不想放弃心中的希望，我坚信会有美好的生活在前头，所以必须得
+认认真真的把握现在得每一天。
+不用再叹气了，也不要总拿坏的事情吓自己，未来是什么样子就是什么样子，
+该来的总会来。
+

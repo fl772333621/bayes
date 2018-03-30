@@ -1,0 +1,35 @@
+Return-Path: <zhuang@tsinghua.edu.cn>
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id i9PEp4s6015972
+	for <weng@ccert.edu.cn>; Mon, 25 Oct 2004 22:51:04 +0800 (CST)
+Received: (eyou send program); Mon, 25 Oct 2004 22:36:29 +0800
+Message-ID: <298714989.06408@mail.tsinghua.edu.cn>
+Received: from unknown (HELO mail.tsinghua.edu.cn) (unknown@127.0.0.1)
+ by 127.0.0.1 with SMTP; Mon, 25 Oct 2004 22:36:29 +0800
+X-scanvirus: By Symantec Scan Engine
+X-scanresult: CLEAN
+Received: (eqmail ); 25 Oct 2004 14:36:26 -0000
+Received: from unknown (HELO sony) (duanhx@166.111.232.146)
+  by localhost with SMTP; 25 Oct 2004 14:36:26 -0000
+Message-ID: <005301c4baa2$082bc110$063270ca@sony>
+From: "zhuang" <zhuang@tsinghua.edu.cn>
+To: weng@ccert.edu.cn
+References: <296440622.22437@mail.tsinghua.edu.cn> <298702987.09967@mail.tsinghua.edu.cn>
+Subject: =?gb2312?B?UmU6IG9mZmVy0aHU8Q==?=
+Date: Mon, 25 Oct 2004 22:50:54 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0050_01C4BAE5.15719960"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2900.2180
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+X-UIDL: lMD!!^:f!!'p6!!,;l"!
+
+杂志社编辑！！！
+当初能去新华社当编辑，没有去，真傻
+:     前段时间是一个offer也没有，加上又要忙着写论文，心情极其郁闷，当时还在水木上发了一顿牢骚，得到了很多水友的安慰。感谢大家。
+:     现在，有offer了，麻烦又来，改选哪一个呢？一个是去北京的三流大学做学生工作，一个是去一个较好的杂志社做编辑，后者的待遇可能比前者好一些，但后者正在转向公司化管理，需要有不断创业的精神。对了，本人是女生、北京较好大学的硕士。
+:     我该选哪一个呢？犹豫中。。。大家给点建议好吗？谢谢。
+: ...................
+

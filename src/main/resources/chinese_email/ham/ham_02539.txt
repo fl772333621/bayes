@@ -1,0 +1,28 @@
+Return-Path: <liu@ccert.edu.cn>
+Received: from home.ccert.edu.cn (ccert.edu.cn [202.112.57.12])
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id iBF9WYIP001711;
+	Wed, 15 Dec 2004 17:32:34 +0800 (CST)
+Received: from sunbin_S ([202.112.50.201])
+	(authenticated bits=0)
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id iBF9ImcO022593;
+	Wed, 15 Dec 2004 17:18:49 +0800
+Message-Id: <200412150918.iBF9ImcO022593@home.ccert.edu.cn>
+Date: Wed, 15 Dec 2004 17:37:39 +0800
+From: "liu" <liu@ccert.edu.cn>
+Reply-To: liu@ccert.edu.cn
+To: zheng@ccert.edu.cn
+Subject: =?gb2312?B?UmU6INTZxsChttC0uPjSqszuuN+/vNa+1Li1xMjLw8ejrLzmzLi149DQ0rW/tLeoobc=?=
+Organization: CCERT
+X-mailer: Foxmail 5.0 beta2 [cn]
+Mime-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: 8bit
+X-MIME-Autoconverted: from base64 to 8bit by sea.net.edu.cn id iBF9WYIP001711
+X-UIDL: ;)~"!o'!"!jE'!!`Q##!
+
+: 电力系统研究生本来就少，他们又不搞什么技术，不过进去了
+: 以后，混个博士文凭还是有用的
+    不少，我们这里没硕士的都别想进来，如果放宽标准要进来的职工子女就太多了，招架不了。
+    进来了再混博士文凭实际上没什么用，工作都是以初次就业时的学历为准。而且领导也不希望手下太强。在领导眼里，手下最好是能干活的，学历越低越好，当然工资也越低越好。现在实行的单位工资总额控制，干活的工资低，领导就可以多吃多占。
+

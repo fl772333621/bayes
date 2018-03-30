@@ -1,0 +1,25 @@
+Return-Path: <ma@rbl.ccert.edu.cn>
+Received: from rbl.ccert.edu.cn (rbl.ccert.edu.cn [202.112.57.71])
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id i91BvTlp004976
+	for <long@ccert.edu.cn>; Fri, 1 Oct 2004 19:57:29 +0800 (CST)
+Received: from rbl.ccert.edu.cn (localhost.localdomain [127.0.0.1])
+	by rbl.ccert.edu.cn (8.12.11/8.12.11) with ESMTP id i91C394l003781
+	for <long@ccert.edu.cn>; Fri, 1 Oct 2004 20:03:09 +0800
+Received: (from qa@localhost)
+	by rbl.ccert.edu.cn (8.12.11/8.12.11/Submit) id i91C39gE003780;
+	Fri, 1 Oct 2004 20:03:09 +0800
+Date: Fri, 1 Oct 2004 20:03:09 +0800
+Message-Id: <200410011203.i91C39gE003780@rbl.ccert.edu.cn>
+Subject: =?gb2312?B?UmU6ILrcu9LQxKOsztK4w9T1w7TD5rbU?=
+To: long@ccert.edu.cn
+From: Tran Quang Anh <ma@cernet.edu.cn>
+Content-Type: multipart/mixed; boundary="----------=_1096632190-996-284"
+MIME-Version: 1.0
+X-UIDL: Q;Q"!:*W!!F59"!Q6-!!
+
+  尽量和家里沟通，明确告诉家人你的想法。不要放弃爱情，好好的经营你和哥哥的感情，一定不要因为工作的原因分开，坚持自己的做法。
+: 我去年认识哥哥，11月份开始谈恋爱，我俩感情很好，以后肯定要结婚，可能会在春节前后吧。哥哥对我真的很好，谈恋爱第一天，他就跟我说，以后咱俩的钱就不用分开了，一起花，他对我以后的生活负责。我俩都在读书，马上就要毕业了。
+: 他父母对我也很好，春节去他家，他父母给我买了条金项链，开学回来给我们带了6000块钱，一人3000，。因为这学期要毕业，忙着找工作，事情多，花了不少钱，6000块钱没够我俩花，他父母又给我们寄了2000。现在马上要毕业了，因为我欠学校21000学费，我家没钱给我，不交又不能毕业，所以他父母要给我21000，让我交学费。我实在是不想要这个钱，就是前面的生活费我也不想要，可是，我没办法，因为我家不给我生活费了。下面我就说说我家的情况。
+: 我有一个姐姐和弟弟，姐姐结婚了，但姐夫没有父母，没有自己的家，他俩在我姐单位有一个挺不错的家属院，但姐姐不太喜欢住在那里，姐夫在家他们就住那里，姐夫出去打工，姐姐就回家住，一年要在家住10月都不止。因为家里方便，妈妈可以伺候她。弟弟大学毕业工作了，单位也还不错。但是因为我们前几年读书，家里很困难，所以当时我学费没交。前年我弟弟工作后，我读研究生也没跟家里要多少钱，所以现在家里的日子还过得去。
+: ...................
+

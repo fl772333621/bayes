@@ -1,0 +1,50 @@
+Return-Path: <zhu@rbl.ccert.edu.cn>
+Received: from rbl.ccert.edu.cn (rbl.ccert.edu.cn [202.112.57.71])
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id i920sjRd009578
+	for <su@ccert.edu.cn>; Sat, 2 Oct 2004 08:54:45 +0800 (CST)
+Received: from rbl.ccert.edu.cn (localhost.localdomain [127.0.0.1])
+	by rbl.ccert.edu.cn (8.12.11/8.12.11) with ESMTP id i9210R4O000685
+	for <su@ccert.edu.cn>; Sat, 2 Oct 2004 09:00:27 +0800
+Received: (from qa@localhost)
+	by rbl.ccert.edu.cn (8.12.11/8.12.11/Submit) id i9210Rpw000684;
+	Sat, 2 Oct 2004 09:00:27 +0800
+Date: Sat, 2 Oct 2004 09:00:27 +0800
+Message-Id: <200410020100.i9210Rpw000684@rbl.ccert.edu.cn>
+Subject: =?gb2312?B?ofEgu7fH8sGqus+jqLGxvqmjqdfUvN3TztfK0bbT0M/euavLviDV0Ma4?=
+To: su@ccert.edu.cn
+From: Tran Quang Anh <zhu@cernet.edu.cn>
+Content-Type: multipart/mixed; boundary="----------=_1096678827-996-312"
+MIME-Version: 1.0
+X-UIDL: GA7!!7,O!!d6d"!gW\"!
+
+公司简介：
+   
+环球自驾游联盟(GSTA)是由人民摄影报社、环球联合（北京）自驾游资讯有限公司主办的专业从事自驾游资讯的非经营性网站，免费为广大读者、景区景点、汽车俱乐部、旅游企业、旅游用品公司和自驾游客搭建一个自驾游资讯发布和互相交流的平台。免费刊登自驾游业界动态、公路干线最新公告、自驾游线路、景区介绍、各汽车俱乐部和旅游公司的自驾游组团活动计划和活动花絮， 以及路况、风味美食、土特产品、旅游投诉、事故救援、医疗急救、自驾游保险、租车、户外用品介绍等自驾游资讯 。环球自驾游联盟(GSTA)从成立之初，就积极导入ISO9000质量管理体系，把联盟的管理纳入到国际标准的框架之中。环球自 驾游联盟(GSTA)将以自驾游客为关注焦点，为广大自驾游客和会员提供专业、高效、优质的服务。
+公司网址：www.chinazijiayou.com
+网络实名：自驾游联盟
+#############################################################
+招聘职位1：业务代表
+职位描述：负责公司区域业务开拓
+职位要求：1. 相貌端庄，普通话标准，有较好的沟通及交流能力；
+          2. 责任心强，有上进心；
+          3. 有较好的处理人际关系能力，可以单独工作，也适合团队合作；
+          4. 有较好的计划和组织能力；
+          5. 诚实可靠，值得信赖；
+          6. 可以出差；
+           
+#############################################################
+招聘职位2：前台
+职位描述：负责前台接听电话、接收信件、接待来访客户 
+职位要求：1. 身高：166cm以上
+          2.形象端正，气质大方，普通话标准
+          3.工作认真负责，细心周到
+#############################################################
+招聘职位3：网站工程师
+职位要求：1、熟练掌握Dreamweaver、Fireworks、Flash等网站制作软件，
+            具有一定的设计构思能力，有独立的网站设计作品
+          2、十分熟悉photoshop平面设计软件和CSS网页风格样式设计
+          3、会使用ASP/ASP.NET/PHP/JSP中的一种以上的WEB技术
+          4、会使用ACCESS和SQL SERVER数据库；并能够灵活运用JAVASCRIPT
+             或VBSCRTPT脚本语言
+          5、熟悉网站的管理、设计规划、前台制作、后台程序制作与数据库流程与技术
+

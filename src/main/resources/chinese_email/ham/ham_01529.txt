@@ -1,0 +1,31 @@
+Return-Path: <zhou@ns.6test.edu.cn>
+Received: from tsinghua.org.cn ([210.77.143.231])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id j07Bnb8W026683
+	for <fu@ccert.edu.cn>; Fri, 7 Jan 2005 19:49:42 +0800
+Received: (eyou send program); Fri, 07 Jan 2005 19:40:50 +0800
+Received: (eyou send program); Fri, 07 Jan 2005 19:40:50 +0800
+X-EYOU-ORIGINAL-IP: 210.77.143.235
+X-EYOU-ENVELOPE-MAILFROM: wangyi@ns.6test.edu.cn
+Received: from unknown (HELO eyou.net) (unknown@210.77.143.235)
+ by 210.77.143.231 with SMTP; Fri, 07 Jan 2005 19:40:50 +0800
+Received: (eyou send program); Fri, 07 Jan 2005 19:54:53 +0800
+Message-ID: <305098893.23786@eyou.net>
+Received: from 166.111.65.6 by 210.77.143.235 with SMTP; Fri, 07 Jan 2005 19:54:52 +0800
+Date: Fri, 7 Jan 2005 20:01:35 +0800
+From: "zhou" <zhou@ns.6test.edu.cn>
+To: fu@ccert.edu.cn
+Subject: =?gb2312?B?UmU6INK71rHU2uHd4eXW0A==?=
+X-mailer: Foxmail 5.0 [cn]
+Mime-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: 8bit
+X-MIME-Autoconverted: from base64 to 8bit by home.ccert.edu.cn id j07Bnb8W026683
+X-UIDL: Rbe"!/m&#!@a+"!EIo!!
+
+分了吧
+: 在一起都快两年了，有时还为很小的事生气，其实要是他哄哄我也就没事了，但是他总是转过身去，让我自己都觉得挺伤心的，后来肯定是要吵的，伤感情的话当时说完很解气只是后来只有自己伤心。在怄气的时候还是希望他能哄哄我的，但每次有这样的希望最后都会失望。
+: 他说从没想过我们以后会在一起，巨大打击（我们住一起快两年了）
+: 我觉得他根本不在乎我，觉得挺没意思的，他居然还说我在两个人的事情上花的心思太多了我无语了~~~~~~~~~~~
+: ...................
+

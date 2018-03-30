@@ -1,0 +1,54 @@
+Return-Path: <xin@cernet.edu.cn>
+Received: from tsinghua.org.cn ([210.77.143.228])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id i9Q8CObY008427
+	for <qian@ccert.edu.cn>; Tue, 26 Oct 2004 16:12:25 +0800
+Received: (eyou send program); Tue, 26 Oct 2004 16:23:47 +0800
+Received: (eyou send program); Tue, 26 Oct 2004 16:23:47 +0800
+X-EYOU-ORIGINAL-IP: 210.77.143.235
+X-EYOU-ENVELOPE-MAILFROM: sundh@cernet.edu.cn
+Received: from unknown (HELO eyou.net) (unknown@210.77.143.235)
+ by 210.77.143.228 with SMTP; Tue, 26 Oct 2004 16:23:47 +0800
+Received: (eyou send program); Tue, 26 Oct 2004 16:20:35 +0800
+Message-ID: <298778835.11967@eyou.net>
+Received: from 202.112.5.66 by 210.77.143.235 with SMTP; Tue, 26 Oct 2004 16:20:24 +0800
+Received: from 8jmd55gawpz3tjh ([202.112.50.7])
+	(authenticated bits=0)
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id i9Q8NVCN003539;
+	Tue, 26 Oct 2004 16:23:31 +0800 (CST)
+Message-ID: <001e01c4bb35$1482be30$073270ca@8jmd55gawpz3tjh>
+From: "xin" <xin@cernet.edu.cn>
+To: qian@ccert.edu.cn
+Subject: =?gb2312?B?UmU6IMfrzsrH5buqus3W0L/G1LrEx7j2usOjqL+8Q1OjqQ==?=
+Date: Tue, 26 Oct 2004 16:23:32 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_001B_01C4BB78.2285CC00"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2800.1437
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1441
+X-UIDL: U[8!!V#K!!TWF"!'/T!!
+
+: 标  题: Re: 请问清华和中科院那个好（考CS）
+: 发信站: 水木社区 (Mon Jun  6 12:56:49 2005), 站内
+: 
+: 中科院计算所待遇比清华好，项目不敢贸然说比清华多至少不会少，工作环境比清华好，
+: 优秀的导师不比清华少。计算所偏向于工作，清华偏向于学习。个人认为在计算所能力提高更快，能接触到真正的东西。
+: 提到待遇，我举一个例子。
+: 同学A保送清华计算机，同学B保送中科院计算所，大四下学期到各自学校做毕设。
+: A同学在大大的机房中用奔腾2的机器慢慢的上网，住在简易楼（500抵押金，300租金/月）。
+: B同学住在计算所招待所（不用交钱），3人间带卫生间。用奔腾4高速网（国内外无限制），实验室有空调，使用曙光巨型机节点做实验，毕设是863项目。每月有400－700的补助（根据研究室情况），报销来回车票。参加了2次春游。新楼盖好后据说更爽。
+: 
+: 不过清华是综合性的，可以接触到更多其他专业的情况。中科院各个所相对太独立了。当然清华的mm也比中科院多很多。
+清华比mm也有有优势的时候，汗-_-!
+: 
+: 
+: 
+: : 请了解情况的xdjm介绍一下
+: 
+: 
+: 
+: --
+: 
+: ※ 来源:·水木社区 http://newsmth.net·[FROM: 219.216.64.*]
+

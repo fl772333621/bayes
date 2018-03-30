@@ -1,0 +1,41 @@
+Return-Path: <cheng@mails.tsinghua.edu.cn>
+Received: from mails.tsinghua.edu.cn (mails.tsinghua.edu.cn [166.111.8.16])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j2F8iLvd019237
+	for <tian@ccert.edu.cn>; Tue, 15 Mar 2005 16:44:21 +0800 (CST)
+Message-Id: <200503150844.j2F8iLvd019237@sea.net.edu.cn>
+X-scanvirus: By SOPHOS Scan Engine
+X-scanresult: CLEAN
+X-Received: unknown,166.111.203.43,20050315163657
+Received: from unknown (HELO wdq-tsinghua) (wdq03@166.111.203.43)
+  by localhost with SMTP; 15 Mar 2005 08:36:57 -0000
+Date: Tue, 15 Mar 2005 16:44:25 +0800
+From: "cheng" <cheng@mails.tsinghua.edu.cn>
+To: tian@ccert.edu.cn
+Subject: =?gb2312?B?UmU6IMzWwtsszO7WvtS4tcTKsbzktb3ByyzH68zWwtvRp9S6wre1xLjf0KM=?=
+X-mailer: Foxmail 5.0 [cn]
+Mime-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: 8bit
+X-MIME-Autoconverted: from base64 to 8bit by sea.net.edu.cn id j2F8iLvd019237
+X-UIDL: D^6"!XL("!V6##!?bl!!
+
+现在啥最赶巧？
+: 标  题: Re: 讨论,填志愿的时间到了,请讨论学院路的高校
+: 发信站: 水木社区 (Sat Jun 11 13:57:57 2005), 站内
+: 
+: 现在有点晚了吧，00年那会很不错的
+: : 那学通信的现在应该是赶的巧了。
+: 
+: 
+: --
+: 最近看过的电影
+: Stage Beauty             舞台美人    7.5/10
+: Head-On                  勇往直前    7.5/10
+: Les Choristes          放牛班的春天   8+/10
+: The Phantom of the Opera 歌剧魅影    8.5/10
+: A Letter From An Unknown Woman 一个陌生女人的来信 7.5/10
+: 
+: 
+: ※ 来源:·水木社区 newsmth.net·[FROM: 202.205.10.*]
+

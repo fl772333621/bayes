@@ -1,0 +1,38 @@
+Return-Path: <wu@home.ccert.edu.cn>
+Received: from home.ccert.edu.cn (localhost [127.0.0.1])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id iA11Calr019221;
+	Mon, 1 Nov 2004 09:12:36 +0800
+Received: (from majordomo@localhost)
+	by home.ccert.edu.cn (8.13.1/8.13.1/Submit) id iA11Calj019220;
+	Mon, 1 Nov 2004 09:12:36 +0800
+X-Authentication-Warning: home.ccert.edu.cn: majordomo set sender to owner-ccertstaff using -f
+Received: from sunbin_S ([202.112.50.201])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with SMTP id iA11CZ4I019216
+	for <hong@ccert.edu.cn>; Mon, 1 Nov 2004 09:12:35 +0800
+Message-Id: <200411010112.iA11CZ4I019216@home.ccert.edu.cn>
+Date: Mon, 1 Nov 2004 09:28:01 +0800
+From: "wu" <wu@ccert.edu.cn>
+Reply-To: wu@ccert.edu.cn
+To: hong@ccert.edu.cn
+Subject: =?gb2312?B?UmU6INXiysfO0rz7uf3X7s+40MS1xMTQyMvBy6Oh?=
+Organization: CCERT
+X-mailer: Foxmail 5.0 beta2 [cn]
+Mime-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: 8bit
+X-MIME-Autoconverted: from base64 to 8bit by home.ccert.edu.cn id iA11Ca4I019218
+Sender: owner-ccertstaff@home.ccert.edu.cn
+Precedence: bulk
+X-UIDL: L=8!!\K%"!@cY"!c?H"!
+Status: RO
+
+农民伯伯更不容易啦
+反正我是瞧不起那些运动员啦、唱歌的、演戏的之类
+现在好多人还给这些古时候的“下九流” 戴上“明星”的帽子去崇拜
+当然我没有否定这些人的劳动 只不过觉得他们应该跟普通人一样 才合理
+:    ～～～～～～～～～～～～～～～～～～～～～～�
+: 我本来就是文学青年啊。。没否认过  哈哈 不过比你还是差了一点 没办法啊
+: 对了俺们家世代贫农。。。都是文盲。。
+: ...................
+

@@ -1,0 +1,34 @@
+Return-Path: <rao@tsinghua.edu.cn>
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id i9E8r8TJ006805
+	for <ning@ccert.edu.cn>; Thu, 14 Oct 2004 16:53:09 +0800 (CST)
+Received: (eyou send program); Thu, 14 Oct 2004 16:38:43 +0800
+Message-ID: <297743123.29546@mail.tsinghua.edu.cn>
+Received: from unknown (HELO mail.tsinghua.edu.cn) (unknown@127.0.0.1)
+ by 127.0.0.1 with SMTP; Thu, 14 Oct 2004 16:38:43 +0800
+X-scanvirus: By Symantec Scan Engine
+X-scanresult: CLEAN
+Received: (eqmail ); 14 Oct 2004 08:38:38 -0000
+Received: from unknown (HELO sony) (duanhx@202.112.50.6)
+  by localhost with SMTP; 14 Oct 2004 08:38:38 -0000
+Message-ID: <014201c4b1cb$323d1d80$a6e86fa6@sony>
+From: "rao" <rao@tsinghua.edu.cn>
+To: ning@ccert.edu.cn
+References: <297741042.28949@mail.tsinghua.edu.cn>
+Subject: =?gb2312?B?ofEgyrLDtLTmtbXQrdLpsKGjvw==?=
+Date: Thu, 14 Oct 2004 16:52:53 +0800
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2900.2180
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+Content-Transfer-Encoding: 8bit
+X-MIME-Autoconverted: from base64 to 8bit by sea.net.edu.cn id i9E8r8TJ006805
+X-UIDL: P@B!!Ro<"!%l$"!@LQ"!
+
+什么存档协议啊？
+公司上面的人才中心真是××，从当初生拉硬拽让我落户人才，存档人才（不用它们给我落户，我自己也可以解决的），签协议、交存档费，现在好不容易收到了档案，又要什么存档协议，我们公司都已经给人家n年的存档费了（我都替公司心疼这笔巨资，不过为户口我本人也没少化银子），应该不缺什么东西了，又生生冒出来一个从来没听说过的什么存档协议让我交！各位兄弟姐妹，你们知道存档协议是什么东西么？
+官僚主义害死人啊！！！！！！！！！
+

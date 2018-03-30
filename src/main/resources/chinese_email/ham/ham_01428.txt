@@ -1,0 +1,69 @@
+Return-Path: <cheng@ns.6test.edu.cn>
+Received: from tsinghua.org.cn ([210.77.143.231])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id iBF2kC41017286
+	for <kang@ccert.edu.cn>; Wed, 15 Dec 2004 10:46:14 +0800
+Received: (eyou send program); Wed, 15 Dec 2004 10:39:37 +0800
+Received: (eyou send program); Wed, 15 Dec 2004 10:39:37 +0800
+X-EYOU-ORIGINAL-IP: 210.77.143.235
+X-EYOU-ENVELOPE-MAILFROM: wanglanjia@ns.6test.edu.cn
+Received: from unknown (HELO eyou.net) (unknown@210.77.143.235)
+ by 210.77.143.231 with SMTP; Wed, 15 Dec 2004 10:39:37 +0800
+Received: (eyou send program); Wed, 15 Dec 2004 10:54:16 +0800
+Message-ID: <303079256.16677@eyou.net>
+Received: from 166.111.8.16 by 210.77.143.235 with SMTP; Wed, 15 Dec 2004 10:53:47 +0800
+Received: (eyou send program); Wed, 15 Dec 2004 10:53:54 +0800
+Message-ID: <303079233.11538@mails.tsinghua.edu.cn>
+Received: (eyou send program); Wed, 15 Dec 2004 10:53:52 +0800
+Message-ID: <303079232.72048@mails.tsinghua.edu.cn>
+Received: from unknown (HELO mails.tsinghua.edu.cn) (unknown@127.0.0.1)
+ by 127.0.0.1 with SMTP; Wed, 15 Dec 2004 10:53:52 +0800
+X-scanvirus: By Symantec Scan Engine
+X-scanresult: CLEAN
+X-Received: ccert.edu.cn,202.112.57.12,20041215105348
+Received: from ccert.edu.cn (HELO home.ccert.edu.cn) (202.112.57.12)
+  by localhost with SMTP; 15 Dec 2004 02:53:48 -0000
+Received: from home.ccert.edu.cn (localhost [127.0.0.1])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id iBF2imkD017253;
+	Wed, 15 Dec 2004 10:44:48 +0800
+Received: (from majordomo@localhost)
+	by home.ccert.edu.cn (8.13.1/8.13.1/Submit) id iBF2imql017252;
+	Wed, 15 Dec 2004 10:44:48 +0800
+X-Authentication-Warning: home.ccert.edu.cn: majordomo set sender to owner-ccertstaff using -f
+Received: from ns.6test.edu.cn (ns.6test.edu.cn [202.112.54.2])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id iBF2ilNs017248
+	for <kang@ccert.edu.cn>; Wed, 15 Dec 2004 10:44:48 +0800
+Received: from tu203047.tsinghua.edu.cn ([166.111.203.47] helo=wanglanjia)
+	by ns.6test.edu.cn with asmtp (Exim 4.12)
+	id 1CePlo-000BA7-00
+	for ccertstaff@ccert.edu.cn; Wed, 15 Dec 2004 11:24:08 +0800
+Message-ID: <00cb01c4e251$f7142f20$2fcb6fa6@wanglanjia>
+From: "cheng" <cheng@ns.6test.edu.cn>
+To: kang@ccert.edu.cn
+Subject: =?gb2312?B?UmU6ILunv9q1vbXXysfKssO0tqvO97Cho6zV4sO0tuDE6sHL0rvWsbjjsrvH5bP+o78=?=
+Date: Wed, 15 Dec 2004 10:58:32 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_00C8_01C4E295.049ED8A0"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2800.1437
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1441
+Sender: owner-ccertstaff@home.ccert.edu.cn
+Precedence: bulk
+X-UIDL: L(g!!Q'_!!Um7!!ULG!!
+
+ 没有户口会给自己带来麻烦,而不是拥有会有什么好处.这是基本的出发点.
+ 其实对于刚毕业的学生,心理因素是最关键的,因为整体来看,学生就业,根据专业,
+行业,以及个人的机遇不同,只有户口跟薪水是有相通可比性.
+  如果薪水很低,那就只能用户口来作为就业的"亮点",实际上传闻如何如何,
+并不见得真正有多重要.我几个在北京买房子的,都是没有户口,哦,有两博士是买了
+回龙观的房子.
+  另外,就业而言,不同的行业,学校氛围以及个人,可能就业的环境,甚至想法都
+很大不一样,比如我去一家事业单位,对方提出的"有一个优势是户口能解决",但是
+去另外一家单位,解决户口不过是顺带的事,一旦对户口太关心,他们做人事的反而
+会觉得奇怪.
+: 我觉得，在一个重视自己专业的公司，或者自己感兴趣的专业
+: 还有上司的大力支持会比较重要
+: 至于户口，感觉只要不是在农村就好
+: ...................
+
