@@ -74,7 +74,7 @@ public class BayesMailPredict2 {
 		for (Iterator<String> it = spamRates.keySet().iterator(); it.hasNext();) {
 			String key = (String) it.next();
 			double normalCount = normalRates.get(key) == null ? 0D : normalRates.get(key);
-			// 利用似然估计计算概率
+			// 利用似然估计计算概率，应用平滑处理解决零概率问题
 			double normalRate = (normalCount + 1) / (NORMAL_EMAIL_SIZE + 2);
 			double spamRate = (spamRates.get(key) + 1) / (SPAM_EMAIL_SIZE + 2);
 			// 将两个概率存储
@@ -97,16 +97,16 @@ public class BayesMailPredict2 {
 		}
 		for (File child : children) {
 			List<String> words = AnsjUtil.segment(FileUtils.readFileToString(child));
-			double normalRate = 1.0;
-			double spamRate = 1.0;
+			double normalRates = 1.0;
+			double spamRates = 1.0;
 			for (String word : words) {
 				if (preditRates.containsKey(word)) {
 					WordInfo predit = preditRates.get(word);
-					normalRate *= predit.getNormalRate();
-					spamRate *= predit.getSpamRate();
+					normalRates *= predit.getNormalRate();
+					spamRates *= predit.getSpamRate();
 				}
 			}
-			double probability = spamRate / (spamRate + normalRate);
+			double probability = spamRates * Consts.SPAM_RATE / (spamRates * Consts.SPAM_RATE + normalRates * (1 - Consts.SPAM_RATE));
 			if (probability > 0.5) {
 				System.err.println(child.getName() + "\t 这是垃圾邮件 \t" + probability);
 			} else {

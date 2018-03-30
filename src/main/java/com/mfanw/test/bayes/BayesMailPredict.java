@@ -72,7 +72,7 @@ public class BayesMailPredict {
 				normalRate = normalRates.get(key);
 			}
 			// 贝叶斯公式
-			double bayesRate = (Consts.SPAM_RATE * spamRate) / (Consts.SPAM_RATE * spamRate + (1 - Consts.SPAM_RATE) * normalRate);
+			double bayesRate = (spamRate * Consts.SPAM_RATE) / (spamRate * Consts.SPAM_RATE + normalRate * (1 - Consts.SPAM_RATE));
 			preditRates.put(key, bayesRate);
 		}
 		return preditRates;
