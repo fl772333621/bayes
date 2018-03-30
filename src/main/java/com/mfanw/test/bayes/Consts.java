@@ -4,7 +4,7 @@ public class Consts {
 	/**
 	 * 邮件存放的基准路径 "D:\\bayes\\src\\main\\resources\\chinese_email\\";
 	 */
-	public static final String BASE_PATH = "D:\\bayes\\src\\main\\resources\\chinese_email\\";
+	public static final String BASE_PATH = "D:\\bayes\\src\\main\\resources\\num_email\\";
 	/**
 	 * 正常邮件语料
 	 */
