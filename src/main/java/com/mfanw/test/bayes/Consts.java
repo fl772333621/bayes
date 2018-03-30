@@ -21,5 +21,5 @@ public class Consts {
 	/**
 	 * 垃圾邮件先验概率
 	 */
-	public static double SPAM_RATE = 0.1D;
+	public static double SPAM_RATE = 0.2D;
 }

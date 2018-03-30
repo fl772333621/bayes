@@ -12,19 +12,19 @@ public class WhiteNum {
 	public static void main(String[] args) throws Exception {
 		for (int i = 0; i < 10; i++) {
 			File child = new File("D:\\bayes\\src\\main\\resources\\num_email\\ham\\ham_0000" + i + ".txt");
-			FileUtils.writeStringToFile(child, auto());
+			FileUtils.writeStringToFile(child, writeEmail());
 		}
 		for (int i = 0; i < 10; i++) {
 			File child = new File("D:\\bayes\\src\\main\\resources\\num_email\\spam\\spam_0000" + i + ".txt");
-			FileUtils.writeStringToFile(child, auto());
+			FileUtils.writeStringToFile(child, writeEmail());
 		}
 		for (int i = 0; i < 10; i++) {
 			File child = new File("D:\\bayes\\src\\main\\resources\\num_email\\test\\test_0000" + i + ".txt");
-			FileUtils.writeStringToFile(child, auto());
+			FileUtils.writeStringToFile(child, writeEmail());
 		}
 	}
 
-	public static String auto() {
+	public static String writeEmail() {
 		StringBuilder sb = new StringBuilder();
 		for (int i = 0; i < 3; i++) {
 			sb.append(" 0" + random.nextInt(10));

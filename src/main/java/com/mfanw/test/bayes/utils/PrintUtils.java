@@ -9,8 +9,14 @@ public class PrintUtils {
 		if (datas == null || datas.isEmpty()) {
 			return;
 		}
+		int count = 0;
 		for (String key : datas.keySet()) {
 			System.out.println(key + "\t\t" + datas.get(key));
+			if (count++ > 100) {
+				System.out.println("总长度为" + datas.size() + "，仅输出Top100......");
+				break;
+			}
 		}
+		System.out.println("");
 	}
 }
