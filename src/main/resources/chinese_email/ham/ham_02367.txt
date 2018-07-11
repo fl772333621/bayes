@@ -1,0 +1,30 @@
+Return-Path: <cen@rbl.ccert.edu.cn>
+Received: from rbl.ccert.edu.cn (rbl.ccert.edu.cn [202.112.57.71])
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id i97H0Tqd022962
+	for <long@ccert.edu.cn>; Fri, 8 Oct 2004 01:00:30 +0800 (CST)
+Received: from rbl.ccert.edu.cn (localhost.localdomain [127.0.0.1])
+	by rbl.ccert.edu.cn (8.12.11/8.12.11) with ESMTP id i97H6UTb014958
+	for <long@ccert.edu.cn>; Fri, 8 Oct 2004 01:06:30 +0800
+Received: (from qa@localhost)
+	by rbl.ccert.edu.cn (8.12.11/8.12.11/Submit) id i97H6Upf014957;
+	Fri, 8 Oct 2004 01:06:30 +0800
+Date: Fri, 8 Oct 2004 01:06:30 +0800
+Message-Id: <200410071706.i97H6Upf014957@rbl.ccert.edu.cn>
+Subject: =?gb2312?B?UmU6INC0uPjSqszuuN+/vNa+1Li1xMjLw8ejrLzmzLi149DQ0rW/tLeooaM=?=
+To: long@ccert.edu.cn
+From: Tran Quang Anh <cen@cernet.edu.cn>
+Content-Type: multipart/mixed; boundary="----------=_1097168790-1044-44"
+MIME-Version: 1.0
+X-UIDL: S^B!!aJc!!\?+!!@(9"!
+
+通讯行业以前的利润点在构架，现在已经转移到服务上面了。
+增值服务的增加，还是有很多利润的。说人家6年完蛋，最悲观的分析师恐怕也不敢
+这样说。以前做过一个project,短信业务的，1毛钱一条的短信，unicom一年在短信
+上面收入是120亿,这里面可以和提供商共享的利益差不多是55开的.其中QQ从unico
+m分了2个亿...剩下的我就不说了吧...希望数据我没有记忆错....
+生物，现在利润点不清楚，谁不能保证能起来或者下去，也是赌博啊。
+:  这个不能以以前的发展来衡量
+:  2G时代，通讯的迅猛发展是在偿以前的债
+:  现在，行业慢慢成熟，ARPU不断下降，3G或许会带来一波新的增长
+: ...................
+

@@ -1,0 +1,43 @@
+Return-Path: <zhang@home.ccert.edu.cn>
+Received: from home.ccert.edu.cn (localhost [127.0.0.1])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id j0P5HhIs027923;
+	Tue, 25 Jan 2005 13:17:43 +0800
+Received: (from majordomo@localhost)
+	by home.ccert.edu.cn (8.13.1/8.13.1/Submit) id j0P5HhiO027922;
+	Tue, 25 Jan 2005 13:17:43 +0800
+X-Authentication-Warning: home.ccert.edu.cn: majordomo set sender to owner-ccertstaff using -f
+Received: from ccertspark (puma.ccert.edu.cn [202.112.50.50])
+	(authenticated bits=0)
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id j0P5Hhh3027918
+	for <yan@ccert.edu.cn>; Tue, 25 Jan 2005 13:17:43 +0800
+Reply-To: <zhang@cernet.edu.cn>
+From: "zhang" <zhang@ccert.edu.cn>
+To: yan@ccert.edu.cn
+Subject: =?gb2312?B?UmU6ILTzxaPAtL+0v7Sjury4uPbD5srUtcTOyszi1PXDtLTwtcS6w6O/?=
+Date: Tue, 25 Jan 2005 13:27:50 +0800
+Message-ID: <000801c5029e$9c872cc0$323270ca@ccertspark>
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+X-Priority: 3 (Normal)
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook, Build 10.0.6626
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.3790.181
+Importance: Normal
+Content-Transfer-Encoding: 8bit
+X-MIME-Autoconverted: from base64 to 8bit by home.ccert.edu.cn id j0P5Hhh3027920
+Sender: owner-ccertstaff@home.ccert.edu.cn
+Precedence: bulk
+X-UIDL: QBo!!pJk"!$C%"!l+4"!
+
+第一个问题取决于面试的职位
+既不要显得毫无上进心
+也不要显得野心勃勃
+当然，关键还是要与应聘的职位方向一致
+第二个问题其实很能看出你对这个职位到底有多重视
+想想吧
+如果你对这个职位和公司非常有兴趣
+那你肯定会有不少问题想问
+那就直接问好了，当然过于敏感的问题还是等人家确定要你了再说比较好
+: 难怪我被据了的，我觉得面试的时候好像没什么漏洞啊，况且硕士学位绰绰有余了，那一般他最后问还有什么要说的时候说点什么好呢？
+

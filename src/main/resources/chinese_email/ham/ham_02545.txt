@@ -1,0 +1,50 @@
+Return-Path: <cen@tsinghua.edu.cn>
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id iBL2PWNJ029599
+	for <wua@ccert.edu.cn>; Tue, 21 Dec 2004 10:25:32 +0800 (CST)
+Received: (eyou send program); Tue, 21 Dec 2004 10:10:02 +0800
+Message-ID: <303595001.00923@mail.tsinghua.edu.cn>
+Received: from unknown (HELO mail.tsinghua.edu.cn) (unknown@127.0.0.1)
+ by 127.0.0.1 with SMTP; Tue, 21 Dec 2004 10:10:02 +0800
+X-scanvirus: By Symantec Scan Engine
+X-scanresult: CLEAN
+Received: (eqmail ); 21 Dec 2004 02:09:57 -0000
+Received: from unknown (HELO sony) (duanhx@166.111.204.187)
+  by localhost with SMTP; 21 Dec 2004 02:09:57 -0000
+Message-ID: <005a01c4e704$4c922c70$bbcc6fa6@sony>
+From: "cen" <cen@tsinghua.edu.cn>
+To: wua@ccert.edu.cn
+Subject: =?gb2312?B?UmU6ILy4uPax58LbtcPA27K7wNuwoaOssrvI58z5cHCwyQ==?=
+Date: Tue, 21 Dec 2004 10:25:01 +0800
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2900.2180
+X-MIMEOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+Content-Transfer-Encoding: 8bit
+X-MIME-Autoconverted: from base64 to 8bit by sea.net.edu.cn id iBL2PWNJ029599
+X-UIDL: JjB"!h&j!!$E5"!=j&"!
+
+XP里可以用预览器直接另存为JPG
+: 标  题: Re: 几个辩论得累不累啊，不如贴pp吧
+: 发信站: 水木社区 (Sun Jun 12 14:30:46 2005), 站内
+: 
+: 直接贴到photoshop里头存成JPG
+: 
+: : 从游戏里面截图 粘贴到画图里面 就成了bmp了 
+: : 忘了转化一下 不好意思哈
+: 
+: 
+: --
+: 雾起时 我就在你的怀里
+: 这林间 充满了湿润的芳香
+: 充满了 那不断要重现的少年时光
+: 雾散后 却已是一生
+: 山空湖静 只剩下那 
+: 在千人万人中 也绝不会错认的背影
+: 
+: 
+: ※ 来源:·水木社区 newsmth.net·[FROM: 220.234.11.*]
+

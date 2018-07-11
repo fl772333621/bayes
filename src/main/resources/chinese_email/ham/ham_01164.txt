@@ -1,0 +1,44 @@
+Return-Path: <yu@compass.net.edu.cn>
+Received: from tsinghua.org.cn ([210.77.143.228])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id iAOEDcXH024070
+	for <yu@ccert.edu.cn>; Wed, 24 Nov 2004 22:13:39 +0800
+Received: (eyou send program); Wed, 24 Nov 2004 22:26:25 +0800
+Received: (eyou send program); Wed, 24 Nov 2004 22:26:25 +0800
+X-EYOU-ORIGINAL-IP: 210.77.143.235
+X-EYOU-ENVELOPE-MAILFROM: ys@compass.net.edu.cn
+Received: from unknown (HELO eyou.net) (unknown@210.77.143.235)
+ by 210.77.143.228 with SMTP; Wed, 24 Nov 2004 22:26:25 +0800
+Received: (eyou send program); Wed, 24 Nov 2004 22:21:53 +0800
+Message-ID: <301306113.15312@eyou.net>
+Received: from 202.38.188.130 by 210.77.143.235 with SMTP; Wed, 24 Nov 2004 22:21:51 +0800
+Received: from [210.25.128.113] ([210.25.128.113])
+	by compass.net.edu.cn (8.9.2/8.9.2) with ESMTP id WAA11929
+	for <yu@ccert.edu.cn>; Wed, 24 Nov 2004 22:29:20 +0800 (CST)
+Message-ID: <41A49962.6030004@compass.net.edu.cn>
+Date: Wed, 24 Nov 2004 22:23:30 +0800
+From: Shaozhi Ye <yu@compass.net.edu.cn>
+User-Agent: Mozilla Thunderbird 0.9 (Windows/20041103)
+X-Accept-Language: en-us, en
+MIME-Version: 1.0
+To: yu@ccert.edu.cn
+Subject: Re: =?GB2312?B?zsrSu8/Cu/rG9w==?=
+References: <301289476.11048@eyou.net> <004d01c4d22d$63a36370$7203510a@CCERTDAWEI> <301304963.17405@eyou.net> <008101c4d22f$f24b1800$7203510a@CCERTDAWEI> <301305530.17404@eyou.net> <00d301c4d231$3c98bdd0$7203510a@CCERTDAWEI>
+In-Reply-To: <00d301c4d231$3c98bdd0$7203510a@CCERTDAWEI>
+Content-Type: text/plain; charset=GB2312
+Content-Transfer-Encoding: 8bit
+X-UIDL: Q7a"!)<L!!gWb!!$C`!!
+
+总想要找个成熟的gg
+可是发现对成熟的标准越来越高
+gg比我大五岁
+偶并不觉得gg是个智商高的男孩儿
+可是毕竟因为工作经验，很多事情偶觉得考虑还是比较成熟的
+可是偶现在越来越觉得,gg只是“有城府”：处变不惊，把想法埋藏在心里，还是比较有社会经验的
+可是偶觉得gg并不成熟：gg不懂得珍惜，gg喜欢和我说谎，gg自私，喜欢我为他做一些事
+情，gg并不真心关心我得事情，我得感受
+gg对我冷漠，却又不完全放手……
+偶觉得真正得成熟，不仅仅是经历了现实得打磨，
+现实可以让一个人现实起来，
+可是我总是相信人性是善良得
+所以，我觉得成熟得男人应该会做事情，应该懂得珍惜……
+

@@ -1,0 +1,55 @@
+Return-Path: <ling@ns.6test.edu.cn>
+Received: from tsinghua.org.cn ([210.77.143.228])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id i8K3rCQj002714
+	for <mei@ccert.edu.cn>; Mon, 20 Sep 2004 11:53:13 +0800
+Received: (eyou send program); Mon, 20 Sep 2004 12:02:59 +0800
+Received: (eyou send program); Mon, 20 Sep 2004 12:02:55 +0800
+X-EYOU-ORIGINAL-IP: 202.38.99.65
+X-EYOU-ENVELOPE-MAILFROM: toefl-bounces@server.cool-meeting.com
+Received: from unknown (HELO server.cool-meeting.com) (unknown@202.38.99.65)
+ by 210.77.143.228 with SMTP; Mon, 20 Sep 2004 12:02:55 +0800
+Received: from server.cool-meeting.com (localhost.localdomain [127.0.0.1])
+	by server.cool-meeting.com (8.12.8/8.12.8) with ESMTP id i8K3qele008596
+	for <mei@ccert.edu.cn>; Mon, 20 Sep 2004 11:52:48 +0800
+Received: from ns.6test.edu.cn ([202.38.99.18])
+	by server.cool-meeting.com (8.12.8/8.12.8) with ESMTP id i8K3qbkr008592
+	for <mei@ccert.edu.cn>; Mon, 20 Sep 2004 11:52:37 +0800
+Received: from [202.112.3.177] (helo=[202.112.3.177])
+	by ns.6test.edu.cn with asmtp (Exim 4.12) id 1C9FSw-000IDV-00
+	for toefl@server.cool-meeting.com; Mon, 20 Sep 2004 12:07:50 +0800
+Mime-Version: 1.0 (Apple Message framework v619)
+Message-Id: <FEFD67E1-0AB7-11D9-AFFB-000D93AF6D96@ns.6test.edu.cn>
+Content-Type: text/plain; charset=EUC-CN; format=flowed
+To: mei@ccert.edu.cn
+From: CHEN Maoke <ling@ns.6test.edu.cn>
+Date: Mon, 20 Sep 2004 11:48:55 +0800
+X-Mailer: Apple Mail (2.619)
+Content-Transfer-Encoding: 8bit
+X-MIME-Autoconverted: from base64 to 8bit by server.cool-meeting.com id
+	i8K3qbkr008592
+Subject: =?gb2312?B?ofEgtPrT0beizsSjrMPAufpUUlcgQXV0b21vdGl2ZaOoyc+6o6OpuavLvtXQxrjTpr3sz/rK28Xg
+0bXJ+g==?=
+X-BeenThere: toefl@server.cool-meeting.com
+X-Mailman-Version: 2.1.2
+Precedence: list
+List-Id: &#26446;&#26143;&#21644;&#20182;&#30340;&#23398;&#29983;&#20204;
+	<toefl.server.cool-meeting.com>
+List-Unsubscribe: <http://server.cool-meeting.com/mailman/listinfo/toefl>,
+	<mailto:toefl-request@server.cool-meeting.com?subject=unsubscribe>
+List-Archive: <http://server.cool-meeting.com/mailman/private/toefl>
+List-Post: <mailto:toefl@server.cool-meeting.com>
+List-Help: <mailto:toefl-request@server.cool-meeting.com?subject=help>
+List-Subscribe: <http://server.cool-meeting.com/mailman/listinfo/toefl>,
+	<mailto:toefl-request@server.cool-meeting.com?subject=subscribe>
+Sender: toefl-bounces@server.cool-meeting.com
+Errors-To: toefl-bounces@server.cool-meeting.com
+X-UIDL: 'IG"!cQ%"!G;\!!iF8!!
+
+//代发文章,请勿回本人信箱
+美国TRW Automotive（上海）公司招聘应届销售培训生，录用后将获得半年在公司德国（或北美）总部的培训。培训期满，可根据培训的产品情况，相应加入TRW中国不同客户销售队伍，工作范围包括客户开发、提供产品报价、商务谈判等等。目前，公司第一批销售培训生（3名）正在海外培训，其中两名在德国，一名在美国Livonia总部，在那里将获得公司底盘及安全系统全系列产品及公司运作流程方面的系统培训。有志于在汽车行业发展并从事销售工作的汽车系及工业工程等系优秀毕业生欢迎投递简历。本人毕业于工业工程系，现正在德国培训，有兴趣的同学可以将中英文简历发到我的邮箱weihua2001◎tsinghua.org.cn，我将向公司推荐,有问题欢迎垂寻。
+美国TRW（天合）汽车集团是汽车安全系统的先驱和领导者。我们目前在22个国家有将近64,000名员工。
+TRW公司总部目前位于美国Michigan州的Livonia.我们的产品包括集成车辆控制、驾驶员辅助系统、制动系统、转向和悬挂系统）、乘员安全系统（安全气囊、安全带和方向盘、汽车电子和发动机气门、工程筋骨系统以及售后市场产品。
+目前TRW在中国共有6个工厂，2个办事处。随着TRW在华业务的飞速发展，我们诚邀优秀有志之士加盟TRW大家庭。 
+期待您的加盟！
+公司网址：www.trwauto.com
+

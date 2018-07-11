@@ -1,0 +1,39 @@
+Return-Path: <zeng@rbl.ccert.edu.cn>
+Received: from rbl.ccert.edu.cn (rbl.ccert.edu.cn [202.112.57.71])
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id i934DIjV020029
+	for <zheng@ccert.edu.cn>; Sun, 3 Oct 2004 12:13:18 +0800 (CST)
+Received: from rbl.ccert.edu.cn (localhost.localdomain [127.0.0.1])
+	by rbl.ccert.edu.cn (8.12.11/8.12.11) with ESMTP id i934J14g022508
+	for <zheng@ccert.edu.cn>; Sun, 3 Oct 2004 12:19:01 +0800
+Received: (from qa@localhost)
+	by rbl.ccert.edu.cn (8.12.11/8.12.11/Submit) id i934J1OM022507;
+	Sun, 3 Oct 2004 12:19:01 +0800
+Date: Sun, 3 Oct 2004 12:19:01 +0800
+Message-Id: <200410030419.i934J1OM022507@rbl.ccert.edu.cn>
+Subject: =?gb2312?B?ofEgx+vOys/W1NrK0MPmyc/T0Ly4vNLQxbrF0+vPtc2ztcTK08a118rBz6O/?=
+To: zheng@ccert.edu.cn
+From: Tran Quang Anh <zeng@cernet.edu.cn>
+Content-Type: multipart/mixed; boundary="----------=_1096777141-996-376"
+MIME-Version: 1.0
+X-UIDL: (OW!!,FL!!<IJ!!2$<!!
+
+请问现在市面上有几家信号与系统的视频资料？
+请大家归纳一下市面上有的视频资料：
+1. 信号与系统；
+我已知有北邮版的。还有了吗？ 
+完整的有几集？
+2. 数字信号处理；
+我所知的有同济版的。全72讲。还有了吗？
+3. 统计信号分析；
+未知。
+4. 概率与随机过程；
+未知。
+5. 通信原理数字通信；
+未知：
+6. 算法与数据结构；
+未知：
+7. 数学分析线性代数；
+有很多。国外的有麻省理工版的线性代数。
+请大家补充一下。。。 
+做题之前先看一遍录像是很重要的。
+

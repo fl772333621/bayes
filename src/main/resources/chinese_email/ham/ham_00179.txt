@@ -1,0 +1,22 @@
+Return-Path: <han@rbl.ccert.edu.cn>
+Received: from rbl.ccert.edu.cn (rbl.ccert.edu.cn [202.112.57.71])
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id i9FLccLH013563
+	for <che@ccert.edu.cn>; Sat, 16 Oct 2004 05:38:38 +0800 (CST)
+Received: from rbl.ccert.edu.cn (localhost.localdomain [127.0.0.1])
+	by rbl.ccert.edu.cn (8.12.11/8.12.11) with ESMTP id i9FLiDlp010288
+	for <che@ccert.edu.cn>; Sat, 16 Oct 2004 05:44:13 +0800
+Received: (from qa@localhost)
+	by rbl.ccert.edu.cn (8.12.11/8.12.11/Submit) id i9FLiDlZ010287;
+	Sat, 16 Oct 2004 05:44:13 +0800
+Date: Sat, 16 Oct 2004 05:44:13 +0800
+Message-Id: <200410152144.i9FLiDlZ010287@rbl.ccert.edu.cn>
+Subject: =?gb2312?B?UmU6INP0w8a1xMn6u+6jusDPuauyu9esx66jrMzszOzU2rzSwO+09NfF?=
+To: che@ccert.edu.cn
+From: Tran Quang Anh <han@cernet.edu.cn>
+Content-Type: multipart/mixed; boundary="----------=_1097876653-2811-66"
+MIME-Version: 1.0
+X-UIDL: nVd"!Q%<!!'_A!!S$5!!
+
+那也是呀，我只是觉得好可以呀，那么好的一段时间。那正是成都地区工资水平最高的时节，但现在成都地区提供的工作机会并不是很多，我也很理解这一点，所以我建议他出去看看，可是别人就心理不愿意。有时候我一想房子，孩子的事情，就很生气，我一生气，他就装的特讨好的样子，什么都做。看着心里特不舒服。
+ 现在天天还在弄他的破程序，我猜想如果真没人要他的程序，他到时候不知会成啥样，我有点害怕。
+

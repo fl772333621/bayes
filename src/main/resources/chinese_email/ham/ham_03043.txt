@@ -1,0 +1,53 @@
+Return-Path: <rao@compass.net.edu.cn>
+Received: from tsinghua.org.cn ([210.77.143.228])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id i8L5Y1H5029845
+	for <guan@ccert.edu.cn>; Tue, 21 Sep 2004 13:34:03 +0800
+Received: (eyou send program); Tue, 21 Sep 2004 13:43:58 +0800
+Received: (eyou send program); Tue, 21 Sep 2004 13:43:57 +0800
+X-EYOU-ORIGINAL-IP: 202.38.99.65
+X-EYOU-ENVELOPE-MAILFROM: toefl-bounces@server.cool-meeting.com
+Received: from unknown (HELO server.cool-meeting.com) (unknown@202.38.99.65)
+ by 210.77.143.228 with SMTP; Tue, 21 Sep 2004 13:43:57 +0800
+Received: from server.cool-meeting.com (localhost.localdomain [127.0.0.1])
+	by server.cool-meeting.com (8.12.8/8.12.8) with ESMTP id i8L5XqlV010765
+	for <guan@ccert.edu.cn>; Tue, 21 Sep 2004 13:34:00 +0800
+Received: from compass.net.edu.cn ([202.112.0.90])
+	by server.cool-meeting.com (8.12.8/8.12.8) with ESMTP id i8L5Xnkr010761
+	for <guan@ccert.edu.cn>; Tue, 21 Sep 2004 13:33:49 +0800
+Received: from [210.25.128.113] ([210.25.128.113])
+	by compass.net.edu.cn (8.9.2/8.9.2) with ESMTP id NAA25678
+	for <guan@ccert.edu.cn>;
+	Tue, 21 Sep 2004 13:32:41 +0800 (CST)
+Message-ID: <414FBC10.2010307@compass.net.edu.cn>
+Date: Tue, 21 Sep 2004 13:28:48 +0800
+From: Shaozhi Ye <rao@compass.net.edu.cn>
+User-Agent: Mozilla Thunderbird 0.8 (Windows/20040913)
+X-Accept-Language: en-us, en
+MIME-Version: 1.0
+To: guan@ccert.edu.cn
+Content-Type: text/plain; charset=GB2312
+Content-Transfer-Encoding: 8bit
+Cc: 
+Subject: =?gb2312?B?UmU6IMv9y7XI57n709DBy7e/19O+zb/J0tTWpMP3ztLDx7XEudjPtaGj?=
+X-BeenThere: toefl@server.cool-meeting.com
+X-Mailman-Version: 2.1.2
+Precedence: list
+List-Id: &#26446;&#26143;&#21644;&#20182;&#30340;&#23398;&#29983;&#20204;
+	<toefl.server.cool-meeting.com>
+List-Unsubscribe: <http://server.cool-meeting.com/mailman/listinfo/toefl>,
+	<mailto:toefl-request@server.cool-meeting.com?subject=unsubscribe>
+List-Archive: <http://server.cool-meeting.com/mailman/private/toefl>
+List-Post: <mailto:toefl@server.cool-meeting.com>
+List-Help: <mailto:toefl-request@server.cool-meeting.com?subject=help>
+List-Subscribe: <http://server.cool-meeting.com/mailman/listinfo/toefl>,
+	<mailto:toefl-request@server.cool-meeting.com?subject=subscribe>
+Sender: toefl-bounces@server.cool-meeting.com
+Errors-To: toefl-bounces@server.cool-meeting.com
+X-UIDL: )jo!!gc##!H!*"!-bc"!
+
+  同情～   我觉得谈恋爱的时候要低调一些，但是，如果对方不敢在家人或朋友面前承认你的存在，我估计她（他）可能对你不是很满意吧，也许他（她）一直在观望，一直在等候。我想这样的人是想找个现成的，不用付出很多。
+: 和她的关系已经快两年了。
+: 与她的关系也是非常接近了。
+: 但是当我问及她的时候我才知道，原来两年来她根本就没有让她的家人知道我的存在。换句话说，至今我还没有被她和她的家人谈论过。
+: ...................
+

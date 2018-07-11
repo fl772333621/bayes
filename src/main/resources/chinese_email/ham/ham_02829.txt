@@ -1,0 +1,33 @@
+Return-Path: <fu@rbl.ccert.edu.cn>
+Received: from rbl.ccert.edu.cn (rbl.ccert.edu.cn [202.112.57.71])
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id i983SPjb001113
+	for <cai@ccert.edu.cn>; Fri, 8 Oct 2004 11:28:26 +0800 (CST)
+Received: from rbl.ccert.edu.cn (localhost.localdomain [127.0.0.1])
+	by rbl.ccert.edu.cn (8.12.11/8.12.11) with ESMTP id i983YKeX001225
+	for <cai@ccert.edu.cn>; Fri, 8 Oct 2004 11:34:20 +0800
+Received: (from qa@localhost)
+	by rbl.ccert.edu.cn (8.12.11/8.12.11/Submit) id i983YKwu001224;
+	Fri, 8 Oct 2004 11:34:20 +0800
+Date: Fri, 8 Oct 2004 11:34:20 +0800
+Message-Id: <200410080334.i983YKwu001224@rbl.ccert.edu.cn>
+Subject: =?gb2312?B?UmU6IMuvvvXAz7vOxNS0/MrHyLG4xrXE1qLXtNau0rujrMrHwvCjvw==?=
+To: cai@ccert.edu.cn
+From: Tran Quang Anh <fu@cernet.edu.cn>
+Content-Type: multipart/mixed; boundary="----------=_1097206460-1044-246"
+MIME-Version: 1.0
+X-UIDL: ?KS"!H:(!!T6l!!@k%"!
+
+关键是：没有人知道小孩是不是缺钙。现在没有比较简便技术手段可以
+测定小孩的骨钙含量。通常给孩子做检查的时候检查的是血钙，同样的
+血钙检查结果，我带给北京两个医院的专家看，说的很不一样。在这种
+情况下，家长只能够盲目补钙。
+前段时间我们给孩子检查了血常规，同样的一张单子，海妇的大夫认为
+正常。儿童医院有两位大夫看了，一位认为轻微贫血，另外一位认为中
+度贫血。认为轻微贫血的那位要求补充铁剂，认为中度贫血的那位认为
+不需要服药，每天吃点菜叶子即可。
+That\'s the fact of our life. We know nothing about our child. 
+The doctors argue with each other. But, we need to keep our
+child growing.
+: 过犹不及
+: 听医生说，不分情况补钙过多对小孩没有好处
+

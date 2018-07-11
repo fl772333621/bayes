@@ -1,0 +1,27 @@
+Return-Path: <feng@tsinghua.edu.cn>
+Received: from huhoo ([202.112.50.11])
+	(authenticated bits=0)
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id i8L3UVbi014316;
+	Tue, 21 Sep 2004 11:30:31 +0800 (CST)
+From: "feng" <feng@tsinghua.edu.cn>
+To: zheng@ccert.edu.cn
+Subject: =?gb2312?B?UmU6ILn6xNq1xFBIRMLbzsQ=?=
+Date: Tue, 21 Sep 2004 11:27:56 +0800
+Message-ID: <018e01c49f8a$ffdca510$033270ca@huhoo>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_018F_01C49FCE.0DFFE510"
+X-Priority: 3 (Normal)
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook, Build 10.0.2627
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1441
+Importance: Normal
+X-UIDL: ma_!!P5@"!*OC!!$E?"!
+
+“大英帝国”的整体发展水平也大约是这个样子的，当然也不能指望它的教育科研水平超越国家整体发展水平太多。
+至于在什么地方写code，呵呵，个例；牛人也不少；一一举例子没啥意思。反正我既不是牛人，也没沦落到整天写code的那一步。
+: 老实说，就我接触过的英国的PhD平均水平是不太高的，不仅是和美国的PhD比，即使是欧洲其他国家的也比英国强一些，日本的貌似也要好一些。
+: 英国的PhD（出国前也是牛校）回来在华为写code拿6k得也不是没有
+: 英国得便宜主要还是它用英语，外国留学生语言上更容易适应一些。
+: ...................
+

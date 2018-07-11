@@ -1,0 +1,40 @@
+Return-Path: <ye@tsinghua.edu.cn>
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id iA17REv8009053
+	for <xu@ccert.edu.cn>; Mon, 1 Nov 2004 15:27:14 +0800 (CST)
+Received: (eyou send program); Mon, 01 Nov 2004 15:12:33 +0800
+Message-ID: <299293153.02047@mail.tsinghua.edu.cn>
+Received: from unknown (HELO mail.tsinghua.edu.cn) (unknown@127.0.0.1)
+ by 127.0.0.1 with SMTP; Mon, 01 Nov 2004 15:12:33 +0800
+X-scanvirus: By Symantec Scan Engine
+X-scanresult: CLEAN
+Received: (eqmail ); 1 Nov 2004 07:12:32 -0000
+Received: from unknown (HELO sony) (duanhx@202.112.50.214)
+  by localhost with SMTP; 1 Nov 2004 07:12:32 -0000
+Message-ID: <008701c4bfe4$30aed770$d63270ca@sony>
+From: "ye" <ye@tsinghua.edu.cn>
+To: xu@ccert.edu.cn
+Subject: =?gb2312?B?ofEg1ffH5buqzazRp7DvztK96LG+yum4tNOh?=
+Date: Mon, 1 Nov 2004 15:27:04 +0800
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2900.2180
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+Content-Transfer-Encoding: 8bit
+X-MIME-Autoconverted: from base64 to 8bit by sea.net.edu.cn id iA17REv8009053
+X-UIDL: 1&L!!pQ@!!dZB"!UmJ!!
+
+我是做核探测，测量方面工作的，想找本书《充气电离室》。多方寻找，终于查到清华图书馆有收藏。我想请一位清华的同学能帮我把书借出来让我复印一下，估计得一、两小时，主要看复印的时间长短。我可以请吃饭表示谢意。哪位热心的同学帮帮我吧。
+作者名 安继刚 An Ji Gang 著  
+题名 充气电离室 Chong Qi Dian Li Shi / 安继刚,卿上玉,邬海峰著  
+出版发行 北京 : 原子能出版社, 1997 
+ 
+馆藏地点  索书号  馆藏状态  
+  新馆二层中文科技区      TL811 A660        查找中 
+  新馆二层中文科技区      TL811 A660        到期 05-09-12 
+  新馆二层中文科技区      TL811 A660        在架上 
+ 
+

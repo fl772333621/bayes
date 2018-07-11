@@ -1,0 +1,61 @@
+Return-Path: <zhuang@home.ccert.edu.cn>
+Received: from home.ccert.edu.cn (localhost [127.0.0.1])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id j0L6PtD6021886;
+	Fri, 21 Jan 2005 14:25:55 +0800
+Received: (from majordomo@localhost)
+	by home.ccert.edu.cn (8.13.1/8.13.1/Submit) id j0L6PtNi021885;
+	Fri, 21 Jan 2005 14:25:55 +0800
+X-Authentication-Warning: home.ccert.edu.cn: majordomo set sender to owner-ccertstaff using -f
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id j0L6PtZ9021880
+	for <lin@ccert.edu.cn>; Fri, 21 Jan 2005 14:25:55 +0800
+Received: from WHITESNOW (magnate.ccert.edu.cn [202.112.50.8])
+	(authenticated bits=0)
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id j0L6bcIt019918
+	for <lin@ccert.edu.cn>; Fri, 21 Jan 2005 14:37:39 +0800 (CST)
+Message-ID: <00a301c4ff83$c1eefc40$c50370ca@WHITESNOW>
+From: "zhuang" <zhuang@cernet.edu.cn>
+To: lin@ccert.edu.cn
+Subject: =?gb2312?B?ofEg1dDGuLjfvLbK1rv606bTw7+qt6K5pLPMyqY=?=
+Date: Fri, 21 Jan 2005 14:37:57 +0800
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="multipart/alternative";
+	boundary="----=_NextPart_000_009F_01C4FFC6.CCE84C80"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2900.2180
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+Sender: owner-ccertstaff@home.ccert.edu.cn
+Precedence: bulk
+X-UIDL: U+J!!$`A"!+F2!!,e?!!
+
+北京掌中经纬技术有限公司是一家创业型软件公司，致力于先进的手机应用软件开发。因业务需要，招聘
+两名高级嵌入式开发工程师。相信在我们公司你可以看到轻松的工作氛围、优秀的开发员工、极具竞争力
+的薪酬待遇及无限的发展空间。
+必须具备如下基本条件
+1、通信、计算机或电子信息专业，本科或硕士；
+2、2年以上嵌入式系统开发经验；
+3、精通C++，了解STL，熟悉VC++开发环境或GCC编译调试环境，熟悉UML建模语言，熟悉掌握OOAD
+4、具有良好的文档写作和沟通技巧；
+5、具有良好的英文资料阅读能力，英语CET4级以上；
+6、良好的职业品德和团队合作精神及健康的身体。
+以下A、B、C、D四类条件必须满足其一或以上
+A
+浏览器开发经验
+熟悉XML协议族或有相关开发经验
+熟悉各种词法分析工具，语法分析工具优先
+B
+熟悉多种通信协议
+HTTP/TCPIP网络协议开发经验
+具备网络安全协议开发经验优先
+熟悉WAP协议栈优先
+C
+2D图形库或组件库开发经验
+具备深厚的图形/图像处理编程技术优先
+D
+多种手机平台软件开发经验
+具备MMS/SMIL/E-mail客户端开发经验优先
+简历请发至 hr@handscape.com.cn
+殷切盼望高手加盟，共创辉煌成就！
+

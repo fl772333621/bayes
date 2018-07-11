@@ -1,0 +1,36 @@
+Return-Path: <cai@infosec.pku.edu.cn>
+Received: from infosec.jadebird.pku.edu.cn (infosec.pku.edu.cn [162.105.202.100])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id iAOExL7S024521
+	for <rao@ccert.edu.cn>; Wed, 24 Nov 2004 22:59:21 +0800
+Received: from lxyyf-computer ([211.165.80.77])
+	(authenticated bits=0)
+	by infosec.jadebird.pku.edu.cn (8.12.11/8.12.11) with ESMTP id iAOFBtl8026706
+	for <rao@ccert.edu.cn>; Wed, 24 Nov 2004 23:12:00 +0800 (CST)
+	(envelope-from lixy@infosec.pku.edu.cn)
+Message-Id: <200411241512.iAOFBtl8026706@infosec.jadebird.pku.edu.cn>
+Date: Wed, 24 Nov 2004 23:10:44 +0800
+From: "cai" <cai@infosec.pku.edu.cn>
+To: rao@ccert.edu.cn
+Subject: =?gb2312?B?ofEgob7H68jDztLAtLDv1vrE46G/0evK08jLyfrJ6LzGvdrEv7PP1fe8zrH2?=
+X-mailer: Foxmail 5.0 [cn]
+Mime-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+X-Infosec-PKU-Scanner-Information: Information Security Lab. Peking University
+X-Infosec-PKU-Scanner: Clean
+X-Infosec-PKU-Scanner-SpamScore: ssss
+Content-Transfer-Encoding: 8bit
+X-MIME-Autoconverted: from base64 to 8bit by home.ccert.edu.cn id iAOExL7S024521
+X-UIDL: EI_"!5a9!!kDl!!b*W"!
+
+大家好！我是清华研究生，现同时在央视10套《选择》栏目做策划编导。
+《选择》是一个关于青年人生设计的谈话节目，最近刚刚录制完改版后的第一批，将于6月下旬播出。
+节目形式是：每一期找一个有抱负有理想但尚未成功、需要帮助的青年人或团队，找几个相关行业的顶尖专家，分析他/她目前存在的问题，为他/她的发展提供建议、拓宽思路，比较难得的是：我们可以根据他/她的谈话表现和个人综合素质的考察，现场提供一些实习/工作/创业的机会。（已录制好的几期中就有一位找工作考研出国统统受挫的大四女生得到去ORACLE做sales的机会，两位热爱音乐的大学生得到去专业录音棚实习的机会等等）
+总之，我们的节目口号是：相信选择，成就未来。我们会全心全力帮助你。如果你的事业发展遭遇了瓶颈：求职路上颇多坎坷……不知寻找第一桶金……有梦想有能力却觉得梦想遥不可及……请将你的个人简介和联系方式投递给我们，我们将无偿地为你提供央视这一最广阔的平台、各路专家最权威的建议、实现人生飞跃的捷径。
+如果你身边有需要帮助的朋友，不妨让他们和我们联系^_^
+我的联系方式是：
+1.站内信箱
+2.电子邮件：orlando666@126.com
+3.QQ:46732715(验证时请注明：《选择》)^_^
+        
+

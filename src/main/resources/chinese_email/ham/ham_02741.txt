@@ -1,0 +1,62 @@
+Return-Path: <chi@cernet.edu.cn>
+Received: from tsinghua.org.cn ([210.77.143.231])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id iB18XkrU021779
+	for <ling@ccert.edu.cn>; Wed, 1 Dec 2004 16:33:47 +0800
+Received: (eyou send program); Wed, 01 Dec 2004 16:26:49 +0800
+Received: (eyou send program); Wed, 01 Dec 2004 16:26:49 +0800
+X-EYOU-ORIGINAL-IP: 210.77.143.235
+X-EYOU-ENVELOPE-MAILFROM: sundh@cernet.edu.cn
+Received: from unknown (HELO eyou.net) (unknown@210.77.143.235)
+ by 210.77.143.231 with SMTP; Wed, 01 Dec 2004 16:26:49 +0800
+Received: (eyou send program); Wed, 01 Dec 2004 16:41:56 +0800
+Message-ID: <301890516.16485@eyou.net>
+Received: from 166.111.8.16 by 210.77.143.235 with SMTP; Wed, 01 Dec 2004 16:40:43 +0800
+Received: (eyou send program); Wed, 01 Dec 2004 16:40:17 +0800
+Message-ID: <301890417.15693@mails.tsinghua.edu.cn>
+Received: (eyou send program); Wed, 01 Dec 2004 16:40:16 +0800
+Message-ID: <301890416.04044@mails.tsinghua.edu.cn>
+Received: from unknown (HELO mails.tsinghua.edu.cn) (unknown@127.0.0.1)
+ by 127.0.0.1 with SMTP; Wed, 01 Dec 2004 16:40:16 +0800
+X-scanvirus: By Symantec Scan Engine
+X-scanresult: NOREP
+Received: (eqmail ); 1 Dec 2004 08:39:59 -0000
+Received: from ccert.edu.cn (HELO home.ccert.edu.cn) (202.112.57.12)
+  by mails.tsinghua.edu.cn with SMTP; 1 Dec 2004 08:39:59 -0000
+Received: from home.ccert.edu.cn (localhost [127.0.0.1])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id iB18VL5K021664;
+	Wed, 1 Dec 2004 16:31:21 +0800
+Received: (from majordomo@localhost)
+	by home.ccert.edu.cn (8.13.1/8.13.1/Submit) id iB18VL5D021663;
+	Wed, 1 Dec 2004 16:31:21 +0800
+X-Authentication-Warning: home.ccert.edu.cn: majordomo set sender to owner-ccertstaff using -f
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id iB18TQiA021624;
+	Wed, 1 Dec 2004 16:29:26 +0800
+Received: from WHITESNOW ([220.207.88.17])
+	(authenticated bits=0)
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id iB18gH8d010373;
+	Wed, 1 Dec 2004 16:42:22 +0800 (CST)
+Message-ID: <008101c4d781$ae4f1d70$df54cfdc@WHITESNOW>
+From: "chi" <chi@cernet.edu.cn>
+To: ling@ccert.edu.cn
+Cc: <qiu@ccert.edu.cn>
+References: <002101c4d77c$91024c60$15cb6fa6@ccertspark>
+Subject: =?gb2312?B?UmU6INXmtcS63NbY0qrC8KO/?=
+Date: Wed, 1 Dec 2004 16:42:15 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_007E_01C4D7C4.B6AB2D90"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2900.2180
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+Sender: owner-ccertstaff@home.ccert.edu.cn
+Precedence: bulk
+X-UIDL: ?[@"!Z?&#!DCR!!:Q""!
+
+不重要，但是心底里有特殊爱好的人有的是
+:        和喜欢的人见面后，一晚上没睡着，心里憧憬着，知道现在才知道原来只是一相情愿，跟他聊见面的感觉，他说：已经是过去的事情了。再三追问说，跟想象的不一样。再问怎么不一样。得到我这段时间最震惊的一句话：“偶喜欢。。喜欢。。DCUP"....
+:        是他拒绝我的借口，还是他真的那样在乎那个，我不知道？
+:        那样善良热心、向上、有内涵的人真的那样看重这个，我真的无法接受。。。。
+: ...................
+

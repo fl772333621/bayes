@@ -1,0 +1,44 @@
+Return-Path: <you@anti-spam.org.cn>
+Received: from autoforward.mail.sohu.com ([61.135.132.166])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id iBVF7QL1019529
+	for <gan@ccert.edu.cn>; Fri, 31 Dec 2004 23:07:27 +0800
+Received: from mx23.mail.sohu.com (unknown [192.168.41.141])
+	by autoforward.mail.sohu.com (Postfix) with ESMTP id 2B9968E9A4
+	for <gan@ccert.edu.cn>; Fri, 31 Dec 2004 23:21:43 +0800 (CST)
+Received: by mx23.mail.sohu.com (Postfix)
+	id 538EB14011; Fri, 31 Dec 2004 23:21:43 +0800 (CST)
+Delivered-To: chen741120@mx23.mail.sohu.com
+Received: from cngnu.org (unknown [211.157.2.95])
+	by sohumx04.sohu.com (Postfix) with ESMTP id B2E9D7397873
+	for <gan@ccert.edu.cn>; Fri, 31 Dec 2004 23:21:39 +0800 (CST)
+Received: from localhost (localhost [127.0.0.1])
+	by cngnu.org (Postfix) with ESMTP id 4D625CA02B
+	for <gan@ccert.edu.cn>; Fri, 31 Dec 2004 23:21:40 +0800 (CST)
+Received: from cngnu.org ([211.157.2.95])
+ by localhost (xia.cngnu.net [127.0.0.1]) (amavisd-new, port 10024) with ESMTP
+ id 29705-07 for <gan@ccert.edu.cn>; Fri, 31 Dec 2004 23:21:39 +0800 (CST)
+Received: from 127.0.0.1 (localhost [127.0.0.1])
+	by cngnu.org (Postfix) with SMTP id B4322CA023
+	for <gan@ccert.edu.cn>; Fri, 31 Dec 2004 23:21:39 +0800 (CST)
+From: "you" <you@anti-spam.org.cn>
+To: gan@ccert.edu.cn
+Subject: =?gb2312?B?UmU6IMTQyMu6zcv7w8e1xCK0psWux+m92iI=?=
+X-Priority: 3
+X-Mailer: CASA IPB PHP Mailer
+Message-Id: <20041231152139.B4322CA023@cngnu.org>
+Date: Fri, 31 Dec 2004 23:21:39 +0800 (CST)
+X-Virus-Scanned: by amavisd-new using ClamAV at cngnu.net
+X-Sohu-Antivirus: 0
+X-UIDL: hX9!!<$?"!Gf?"!UcK!!
+
+不想讨论这些问题了， 我已经老了
+其实处女并没有什么错，也许是能坚守，能忠贞
+也或许是没有魅力，缺乏生活乐趣。
+anyway 人各有志 处女情节的找处女 喜欢有经验的找
+experienced。
+只要不要以爱的名义互相伤害
+: 和好友聊着天，莫名其妙的聊到了男人和男人的“处女情结” 
+: 好友说男人都会有“处女情结”。对于每一个处女来说，这应该是一件引以为豪的事情。可是在我看来，所谓的“处女情结”只是男人们在为自己找的借口，来证明自己的“正直”和“清白”。 
+: 男人是嫉妒的魔鬼。他们喜欢把身边的事物拿出来和别人比较，炫耀。无论是地位，金钱，事业，家庭，老婆，孩子，情妇，汽车，别墅。。。概括地说就是男人可以把这个世界上的一切拿出来比较。不管比完了以后他们是不是真的觉得兴奋，或者是不是真的需要兴奋。 
+: ...................
+

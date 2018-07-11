@@ -1,0 +1,48 @@
+Return-Path: <cen@home.ccert.edu.cn>
+Received: from home.ccert.edu.cn (localhost [127.0.0.1])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id i9K1YYKo021692;
+	Wed, 20 Oct 2004 09:34:34 +0800
+Received: (from majordomo@localhost)
+	by home.ccert.edu.cn (8.13.1/8.13.1/Submit) id i9K1YYhT021691;
+	Wed, 20 Oct 2004 09:34:34 +0800
+X-Authentication-Warning: home.ccert.edu.cn: majordomo set sender to owner-ccertstaff using -f
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with SMTP id i9K1YSEX021686
+	for <li@ccert.edu.cn>; Wed, 20 Oct 2004 09:34:28 +0800
+Received: (eyou send program); Wed, 20 Oct 2004 09:31:13 +0800
+Message-ID: <298235873.27414@mail.tsinghua.edu.cn>
+Received: from unknown (HELO mail.tsinghua.edu.cn) (unknown@127.0.0.1)
+ by 127.0.0.1 with SMTP; Wed, 20 Oct 2004 09:31:13 +0800
+X-scanvirus: By Symantec Scan Engine
+X-scanresult: CLEAN
+Received: (eqmail ); 20 Oct 2004 01:31:12 -0000
+Received: from unknown (HELO sony) (duanhx@202.112.50.6)
+  by localhost with SMTP; 20 Oct 2004 01:31:12 -0000
+Message-ID: <01bb01c4b646$7ef2e4f0$cae86fa6@sony>
+From: "cen" <cen@tsinghua.edu.cn>
+To: li@ccert.edu.cn
+Subject: =?gb2312?B?UmU6INK7tqjSqr+0o6y458PHUmU6IM6qbW3X9rXE1+6689K7vP7KwqOhx+u087zSsO+w78Omo6E=?=
+Date: Wed, 20 Oct 2004 09:45:35 +0800
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2900.2180
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+Content-Transfer-Encoding: 8bit
+X-MIME-Autoconverted: from base64 to 8bit by home.ccert.edu.cn id i9K1YYEX021689
+Sender: owner-ccertstaff@home.ccert.edu.cn
+Precedence: bulk
+X-UIDL: $E""!5?\"!^&>!!l&g!!
+
+虽然在这个时候谈爱情很悲哀，但我还是赞成lz先不要放弃，帮那个MM一把
+那个女孩其实很可怜，她以前一定是众人呵护之下长大的人，怎么会想到有人这么对待她！
+她一夜之间遭遇天灾人祸，从公主的状态跌入愚蠢、可怜、可悲的境地，她的心理正在经受巨大的考验，不是每个女人都能从创伤中完全恢复，其中一部分不能再恢复健康。（例子我就不举了，社会阴暗面多谈无益）
+所以lz近期最好还是不要离开那位mm，这种事情她可能也不会对朋友说，我们都不认识她，只有你认识她，帮帮她吧，帮助她保持正常的自尊和心态。对于一个没有谈过恋爱的同学来说，确实比较困难，lz尽力而为～～～
+另外，建议lz和mm保持一定的联系，但是告诉她近期不会和她谈恋爱。
+: 我觉得你真正的机会来了
+: 不要悲哀
+: 耐心等待
+: ...................
+

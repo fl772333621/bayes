@@ -1,0 +1,29 @@
+Return-Path: <gu@rbl.ccert.edu.cn>
+Received: from rbl.ccert.edu.cn (rbl.ccert.edu.cn [202.112.57.71])
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id i984eU6J002412
+	for <sun@ccert.edu.cn>; Fri, 8 Oct 2004 12:40:30 +0800 (CST)
+Received: from rbl.ccert.edu.cn (localhost.localdomain [127.0.0.1])
+	by rbl.ccert.edu.cn (8.12.11/8.12.11) with ESMTP id i984kTir007891
+	for <sun@ccert.edu.cn>; Fri, 8 Oct 2004 12:46:31 +0800
+Received: (from qa@localhost)
+	by rbl.ccert.edu.cn (8.12.11/8.12.11/Submit) id i984kTdH007890;
+	Fri, 8 Oct 2004 12:46:29 +0800
+Date: Fri, 8 Oct 2004 12:46:29 +0800
+Message-Id: <200410080446.i984kTdH007890@rbl.ccert.edu.cn>
+Subject: =?gb2312?B?ofEgxMTOu7TvyMvWqrXAudjT2rjDxcm1xLnmtqijv7rcvLG63LyxtcTOyiAo16rU2Ck=?=
+To: sun@ccert.edu.cn
+From: Tran Quang Anh <gu@cernet.edu.cn>
+Content-Type: multipart/mixed; boundary="----------=_1097210791-1044-282"
+MIME-Version: 1.0
+X-UIDL: F6e!!28;!!@D$#!9oL!!
+
+【 以下文字转载自 Career_Offer 讨论区 】
+发信人: oath (轻水), 信区: Career_Offer
+标  题: 哪位达人知道关于该派的规定？很急很急的问
+发信站: 水木社区 (Wed Jun 15 16:35:38 2005), 站内
+哪位知道改派对落户北京的影响。
+我那个学校规定6月20号以后没有看到人事局的批文就只能把我们做改派处理。
+我理解的是改派不仅手续繁琐，还是非常严重的事情，是不能在落户北京的
+现在我该怎么努力，我们学校现在死活不肯同意缓期到8月派遣。
+公司不能保证户口在20号下得来。我该怎么办呢？
+

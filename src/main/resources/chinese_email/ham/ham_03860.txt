@@ -1,0 +1,26 @@
+Return-Path: <jiang@rbl.ccert.edu.cn>
+Received: from rbl.ccert.edu.cn (rbl.ccert.edu.cn [202.112.57.71])
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id i97HvGMX023649
+	for <cai@ccert.edu.cn>; Fri, 8 Oct 2004 01:57:16 +0800 (CST)
+Received: from rbl.ccert.edu.cn (localhost.localdomain [127.0.0.1])
+	by rbl.ccert.edu.cn (8.12.11/8.12.11) with ESMTP id i97I3GlN024945
+	for <cai@ccert.edu.cn>; Fri, 8 Oct 2004 02:03:17 +0800
+Received: (from qa@localhost)
+	by rbl.ccert.edu.cn (8.12.11/8.12.11/Submit) id i97I3Gku024944;
+	Fri, 8 Oct 2004 02:03:16 +0800
+Date: Fri, 8 Oct 2004 02:03:16 +0800
+Message-Id: <200410071803.i97I3Gku024944@rbl.ccert.edu.cn>
+Subject: =?gb2312?B?UmU6IMTQ09G6zcXz09HT0MHLudjPtaOsztK7udKqy/vC8KO/ob7XqtfUeWlyZ6G/?=
+To: cai@ccert.edu.cn
+From: Tran Quang Anh <jiang@cernet.edu.cn>
+Content-Type: multipart/mixed; boundary="----------=_1097172197-1044-56"
+MIME-Version: 1.0
+X-UIDL: O-&#!AMG!!a0$#!o8^"!
+
+   我醉过，但我想即使是和醉了，脑袋还是非常清醒的。有的人拿喝醉当借口，不值得原谅。  
+   我的个人观点。 但我想毕竟恋爱是两个人的事情，有些事情还是自己好好想清楚吧。  
+: 我和男朋友的关系一直很好，我们现在同在外地上大学，我以为我们就可以这样一直的走 
+: 下去，但这毕竟不是故事，就在上个周二我有事回了趟家，回来后就发现男朋友有很多的 
+: 不对劲，他的目光总是回避着我，我问的话他也有一句没一句的回答，他好像总是在问我 
+: ...................
+

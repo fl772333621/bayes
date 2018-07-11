@@ -1,0 +1,58 @@
+Return-Path: <lu@ccert.edu.cn>
+Received: from tsinghua.org.cn ([210.77.143.228])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id i9L7u2sB014816
+	for <xu@ccert.edu.cn>; Thu, 21 Oct 2004 15:56:04 +0800
+Received: (eyou send program); Thu, 21 Oct 2004 16:07:11 +0800
+Received: (eyou send program); Thu, 21 Oct 2004 16:07:10 +0800
+X-EYOU-ORIGINAL-IP: 166.111.8.16
+X-EYOU-ENVELOPE-MAILFROM: zhenghui@ccert.edu.cn
+Received: from unknown (HELO mails.tsinghua.edu.cn) (unknown@166.111.8.16)
+ by 210.77.143.228 with SMTP; Thu, 21 Oct 2004 16:07:10 +0800
+Received: (eyou send program); Thu, 21 Oct 2004 16:01:01 +0800
+Message-ID: <298345661.11204@mails.tsinghua.edu.cn>
+Received: (eyou send program); Thu, 21 Oct 2004 16:01:01 +0800
+Message-ID: <298345661.22326@mails.tsinghua.edu.cn>
+Received: from unknown (HELO mails.tsinghua.edu.cn) (unknown@127.0.0.1)
+ by 127.0.0.1 with SMTP; Thu, 21 Oct 2004 16:01:01 +0800
+X-scanvirus: By Symantec Scan Engine
+X-scanresult: CLEAN
+Received: (eqmail ); 21 Oct 2004 08:00:53 -0000
+Received: from ccert.edu.cn (HELO home.ccert.edu.cn) (202.112.57.12)
+  by mails.tsinghua.edu.cn with SMTP; 21 Oct 2004 08:00:53 -0000
+Received: from home.ccert.edu.cn (localhost [127.0.0.1])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id i9L7r6OI014755;
+	Thu, 21 Oct 2004 15:53:06 +0800
+Received: (from majordomo@localhost)
+	by home.ccert.edu.cn (8.13.1/8.13.1/Submit) id i9L7r6XH014754;
+	Thu, 21 Oct 2004 15:53:06 +0800
+X-Authentication-Warning: home.ccert.edu.cn: majordomo set sender to owner-ccertstaff using -f
+Received: from ccertspark (puma.ccert.edu.cn [202.112.50.50])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id i9L7r3pT014750
+	for <xu@ccert.edu.cn>; Thu, 21 Oct 2004 15:53:04 +0800
+Reply-To: <lu@ccert.edu.cn>
+From: "lu" <lu@ccert.edu.cn>
+To: xu@ccert.edu.cn
+Subject: =?gb2312?B?UmU6IM7S1dK5pNf3tcTSu7XjuNDP6w==?=
+Date: Thu, 21 Oct 2004 15:57:53 +0800
+Organization: CCERT
+Message-ID: <000001c4b743$ac855e90$323270ca@ccertspark>
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+X-Priority: 3 (Normal)
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook, Build 10.0.6626
+Importance: Normal
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+Content-Transfer-Encoding: 8bit
+X-MIME-Autoconverted: from base64 to 8bit by home.ccert.edu.cn id i9L7r6pT014752
+Sender: owner-ccertstaff@home.ccert.edu.cn
+Precedence: bulk
+X-UIDL: E0h"!6!M!!#Nf!!M,~"!
+
+不错
+:     去年找工作总的来说还算顺利，也像略微的写点东西。
+:     找工作之前其实自己也很多事情没有想清楚，比如自己适合做什么，但我这样告诉自己，就是清华的一个硕士，还算是不冷的专业，肯定会有地方落脚的。最终看我周围的人，也的确是这样。这么一想就放松了些。
+:     我自己投的简历并不算多，因为我觉得那种漫天的撒网的方式确实不适合我，再加上实验室的事情也比较紧张，不可能让我没完没了地到处跑着面试。所以找工作之前的很长一段时间，我都在分析自己，主要是两个方面，一个是自己的专业对应的公司有哪些，另外一个是自己的实
+: ...................
+

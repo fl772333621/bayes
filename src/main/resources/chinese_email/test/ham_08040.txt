@@ -1,0 +1,56 @@
+Return-Path: <zhou@cernet.edu.cn>
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id iBT2XfiR028732;
+	Wed, 29 Dec 2004 10:33:41 +0800
+Received: from sony (tu204113.tsinghua.edu.cn [166.111.204.113])
+	(authenticated bits=0)
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id iBT2lqsY015587;
+	Wed, 29 Dec 2004 10:47:55 +0800 (CST)
+Message-ID: <02f201c4ed50$cb5c7fe0$bbcc6fa6@sony>
+From: "zhou" <zhou@cernet.edu.cn>
+To: yi@ccert.edu.cn
+Subject: =?gb2312?B?ofEgob7V0Ma4ob9MaW51eCC/qreiuaSzzMqmvLBXaW5vZG93c7+qt6K5pLPMyqY=?=
+Date: Wed, 29 Dec 2004 10:47:44 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_02EE_01C4ED93.D3F5C010"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2800.1106
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1106
+X-UIDL: /9e!!MQk"!8d&!!o,E"!
+
+   Anchiva Systems, Inc.以开发和销售顶尖内容过滤网络安全系统与应用软件为主业。 公司由angel VCs 创立。angel VCs 同时也是 Netscreen的早期创始人，并将其引领至一个巨大成功的位置（在2001年成为IPO并在2004年以40亿美圆的价格被Juniper 收购）。 Anchiva 于2004年10月组立，坐落在加利福尼亚的Sunnyvale 。
+   我们拥有在安全,加密,反病毒,反垃圾邮件,内容过滤方面的专家经验，利用这些经验以及我们的软件,系统架构,技术,解决方案来使我们的客户网络免受大面积的网络安全威胁,无论是来自内部还是外部的. 这类保障在外围设备上提供如同内部网关一般达到最佳的性能。 在出色的技术能力，专业的操作以及可升级的标准化基础的平台的相互作用下，我们的产品性能远优于目前所指的同类产品或同行业中的其他产品。我们的解决方案着眼于市场的各个层面，从SMBs，中大型企业到服务提供商和供货商。 
+职位：Linux 开发工程师  （人数：5人） 
+基本素质要求：
+* 大学本科以上学力，计算机相关专业毕业；
+* 沟通能力强，有团队合作精神；
+* 学习及自学能力强；
+* 英语4级或以上水平，能够熟练阅读英文手册及文章。
+技术要求：
+1、2年以上Linux下C/C++语言开发经验； 
+2、熟悉互联网协议，有TCP/IP相关协议开发经验； 
+3、有1年以上安全产品开发经验，防火墙，SSL VPN等 
+4、精通SSL/TLS协议； 
+5、熟悉unix/linux/BSD操作系统； 
+6、熟悉Radis，LDAP，Active Directory协议； 
+7、有上述相关项目的开发经验，且担任过项目组织责任者优先； 
+职位：Winodows开发工程师  （人数：5人） 
+基本素质要求：
+* 大学本科以上学力，计算机相关专业毕业；
+* 沟通能力强，有团队合作精神；
+* 学习及自学能力强；
+* 英语4级或以上水平，能够熟练阅读英文手册及文章。
+技术要求：
+1、2年以上Windows下C/C++语言开发经验； 
+2、熟悉互联网协议，有TCP/IP相关协议开发经验； 
+3、有1年以上安全产品开发经验，如 SSL VPN等 
+4、熟悉SSL协议，RDP协议； 
+5、精通浏览器插件程序编写 
+6、有上述相关项目的开发经验，且担任过项目组织责任者优先；
+待遇从优，具体面议
+公司网站：www.anchiva.com
+公司地址：清华大学学研大厦
+有意者请将个人简历发送至heavy_cn@hotmail.com
+

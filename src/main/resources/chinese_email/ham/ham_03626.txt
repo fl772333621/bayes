@@ -1,0 +1,35 @@
+Return-Path: <xiao@ee.tsinghua.edu.cn>
+Received: from Unixmail5.21 (mail.ee.tsinghua.edu.cn [166.111.64.188])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j066RtIS015046
+	for <lei@ccert.edu.cn>; Thu, 6 Jan 2005 14:27:55 +0800 (CST)
+Received: (qmail 7905 invoked by alias); 6 Jan 2005 06:23:26 -0000
+Received: from unknown (HELO tsinghuad60c2e) (166.111.64.226)
+  by mail.ee.tsinghua.edu.cn with SMTP; 6 Jan 2005 14:23:26 +0800
+Message-ID: <001101c4f3b8$f9bcd290$e2406fa6@tsinghuad60c2e>
+From: "xiao" <xiao@ee.tsinghua.edu.cn>
+To: lei@ccert.edu.cn
+Subject: =?gb2312?B?UmU6IM7SyLfKtc/rxde8uLj2se/By7rcvsO1xM7KzOKz9sC0o6E=?=
+Date: Thu, 6 Jan 2005 14:28:44 +0800
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="----=_NextPart_000_000D_01C4F3FC.06B15690"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2800.1437
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1441
+X-Mozilla-Status2: 00000000
+
+本人刚刚重回水木，发第一篇文章吧。
+我觉得真实性的问题基本上还是有保证的吧。
+不一定时间要短，而且稍微要让对方觉得你是在思考。
+原则上讲，田忌赛马也是有要求的，不要把上马拿去跟下马比，个人认为没有必要，企业
+对于你本身可能也不敢有太高的信任度，但是适当降低到中马是可行的。
+我觉得就我去作为被面试者的经验和自己做面试官的经验来看，应当适当技术性的处理自
+己的真实面目，我是说，真实的自我总不是适合拿到工作中的，但是真实的自我也应该给
+面试官表现出来吧，面试官不是傻子，你的同事更不是傻子，为了今后着想，还是适当的
+用自己的优势来打动对方吧，还有你的团队意识。
+: 可能有人问过，再讨论讨论吧
+: 1. 现在出现在各种媒体上（正规渠道）的招聘信息，真实度究竟有多大？（平均而言）
+: 2. 一定要是在短时间内做出精确反应（或给出精确答案）的人才受面试官青睐吗？
+: ...................
+

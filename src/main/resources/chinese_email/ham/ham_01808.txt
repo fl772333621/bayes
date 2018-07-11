@@ -1,0 +1,33 @@
+Return-Path: <cai@tsinghua.edu.cn>
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with SMTP id j0B16nmn010958
+	for <wu@ccert.edu.cn>; Tue, 11 Jan 2005 09:07:04 +0800
+Received: (eyou send program); Tue, 11 Jan 2005 09:01:40 +0800
+Message-ID: <305405300.07556@mail.tsinghua.edu.cn>
+Received: from unknown (HELO mail.tsinghua.edu.cn) (unknown@127.0.0.1)
+ by 127.0.0.1 with SMTP; Tue, 11 Jan 2005 09:01:40 +0800
+X-scanvirus: By Symantec Scan Engine
+X-scanresult: CLEAN
+Received: (eqmail ); 11 Jan 2005 01:01:39 -0000
+Received: from unknown (HELO sony) (duanhx@166.111.204.189)
+  by localhost with SMTP; 11 Jan 2005 01:01:39 -0000
+Message-ID: <005301c4f77b$4ca275d0$bdcc6fa6@sony>
+From: "cai" <cai@tsinghua.edu.cn>
+To: wu@ccert.edu.cn
+Subject: =?gb2312?B?UmU6IOqh0afP1s/z0tGzycPAufqyqcq/yfq9zNP9tcTE0czi?=
+Date: Tue, 11 Jan 2005 09:17:19 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0050_01C4F7BE.59F76950"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2800.1106
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1106
+X-UIDL: RIM"!]fJ!!NI%#!<WZ!!
+
+国内博士我看也快了。
+: http://news.xinhuanet.com/overseas/2005-06/10/content_3067513.htm
+: 近年来，美国博士生辍学的比例越来越高。据统计，正常情况下，注册攻读博士的学生中有1/4中途辍学。在某些专业，博士生辍学的比例已经高达40%-50%。教育专家忧心忡忡地指出，辍学现象已成为美国博士生教育的难题。 
+:     传统观念认为，学生辍学一般都是因为学习能力不济，无法适应学业的要求。 
+: ...................
+

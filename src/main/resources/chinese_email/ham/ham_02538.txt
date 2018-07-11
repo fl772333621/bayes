@@ -1,0 +1,56 @@
+Return-Path: <su@yahoo.com.cn>
+Received: from tsinghua.org.cn ([210.77.143.232])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with SMTP id j4D0mJWi029480
+	for <mo@ccert.edu.cn>; Fri, 13 May 2005 08:48:30 +0800
+Received: (eyou send program); Fri, 13 May 2005 09:04:59 +0800
+Message-ID: <315946299.20748@tsinghua.org.cn>
+X-EYOU-AUTOFORWARD: tsinghua.org.cn
+Received: (eyou send program); Fri, 13 May 2005 09:04:59 +0800
+Message-ID: <315946299.18413@tsinghua.org.cn>
+Received: from unknown (HELO eyou.net) (210.77.143.235)
+ by 210.77.143.232 with SMTP; Fri, 13 May 2005 09:04:59 +0800
+X-EYOU-SPAMVALUE: 0
+Received: (eyou anti_spam gateway 3.0); Fri, 13 May 2005 08:54:13 +0800
+Message-ID: <315945653.24466@eyou.net>
+Received: from 202.112.49.111 by 210.77.143.235 with SMTP; Fri, 13 May 2005 08:54:13 +0800
+Received: from Garfield. (localhost [IPv6:::1])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with ESMTP id j4D0xWTq037830
+	for <mo@ccert.edu.cn>; Fri, 13 May 2005 09:00:13 +0800 (CST)
+	(envelope-from toefl-bounces@gradinfo.net.edu.cn)
+Received: from web15404.mail.cnb.yahoo.com (web15404.mail.cnb.yahoo.com
+	[202.43.216.207])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with SMTP id j4D0xReh037826
+	for <mo@ccert.edu.cn>; Fri, 13 May 2005 08:59:30 +0800 (CST)
+	(envelope-from shaozhiye@yahoo.com.cn)
+Message-ID: <20050513010329.16901.qmail@web15404.mail.cnb.yahoo.com>
+Received: from [207.46.50.74] by web15404.mail.cnb.yahoo.com via HTTP;
+	Fri, 13 May 2005 09:03:29 CST
+Date: Fri, 13 May 2005 09:03:29 +0800 (CST)
+From: Shaozhi Ye <su@yahoo.com.cn>
+To: mo@ccert.edu.cn
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----------=_1115945311-22747-408"
+Subject: =?gb2312?B?UmU6INXiysfO0rz7uf3X7s+40MS1xMTQyMvBy6Oh?=
+X-BeenThere: toefl@gradinfo.net.edu.cn
+X-Mailman-Version: 2.1.5
+Precedence: list
+List-Id: "&#26446; &#26143; &#21644; &#20182; &#30340; &#23398; &#29983;
+	&#20204; " <toefl.gradinfo.net.edu.cn>
+List-Unsubscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=unsubscribe>
+List-Archive: <http://gradinfo.net.edu.cn/mailman/private/toefl>
+List-Post: <mailto:toefl@gradinfo.net.edu.cn>
+List-Help: <mailto:toefl-request@gradinfo.net.edu.cn?subject=help>
+List-Subscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=subscribe>
+Sender: toefl-bounces@gradinfo.net.edu.cn
+Errors-To: toefl-bounces@gradinfo.net.edu.cn
+X-UIDL: 4Y=!!5d:!!A>"#!*(g!!
+
+呵呵，你也可以生活在自己的美好世界啊，这个世界所有人都因为你是男的而特别崇拜你，女人都觉得自己先天不足所以该伺候你
+不过说自己有逻辑不感性的时候一定要注意自己的逻辑性，否则被人笑话哦~~扣帽子的话也要少说，那是没有理由时候才用得，而且都是不讲理的女人用的，可别伤了你高贵的身份~~
+: 呵呵，我指出事实来而已
+: 你自然可以否认，无所谓
+: 生活在你自己铸造的美好世界中，也是一件快乐的事情
+: ...................
+

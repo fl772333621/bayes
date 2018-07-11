@@ -1,0 +1,39 @@
+Return-Path: <wang@home.ccert.edu.cn>
+Received: from home.ccert.edu.cn (localhost [127.0.0.1])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id j0KD4Zgw002378;
+	Thu, 20 Jan 2005 21:04:35 +0800
+Received: (from majordomo@localhost)
+	by home.ccert.edu.cn (8.13.1/8.13.1/Submit) id j0KD4Zjl002377;
+	Thu, 20 Jan 2005 21:04:35 +0800
+X-Authentication-Warning: home.ccert.edu.cn: majordomo set sender to owner-ccertstaff using -f
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id j0KD4Yjs002373
+	for <chen@ccert.edu.cn>; Thu, 20 Jan 2005 21:04:34 +0800
+Received: from WHITESNOW (tu203022.ip.tsinghua.edu.cn [166.111.203.22])
+	(authenticated bits=0)
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id j0KDGGCb003013
+	for <chen@ccert.edu.cn>; Thu, 20 Jan 2005 21:16:17 +0800 (CST)
+Message-ID: <001401c4fef2$4789cb10$16cb6fa6@WHITESNOW>
+From: "wang" <wang@cernet.edu.cn>
+To: chen@ccert.edu.cn
+Subject: =?gb2312?B?UmU6IMbkyrXFvNKyzaa99NXFyKW8+2JmuLjEuLXE?=
+Date: Thu, 20 Jan 2005 21:16:35 +0800
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="----=_NextPart_000_000F_01C4FF35.527D00D0"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2900.2180
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+Sender: owner-ccertstaff@home.ccert.edu.cn
+Precedence: bulk
+X-UIDL: HQl"!nm-!!>&B"!@UY"!
+
+父母就是如此，总觉得人家配不上自己的孩子
+你不要太介意就是了
+和他父母的关系也是如此，好就多来往，不好就少来往
+: 恩，这是早恋的产物带来的必然结果……
+: 高中毕业前班主任跟他家里说他在恋爱（其实那时候还真没什么，两个人都没明说过），从那时候开始他妈就超恨我了，感觉就像要跟她抢儿子似的，还跟我gg说：她成绩又没你好！只能影响你！
+: 结果我知道了一赌气叫我gg放弃保送自己考清华吧！现在想来还好他听了我的话，不然不知道他妈会不会把这个作为一个长久借口来#$%^&amp;*
+: ...................
+

@@ -1,0 +1,26 @@
+Return-Path: <kong@rbl.ccert.edu.cn>
+Received: from rbl.ccert.edu.cn (rbl.ccert.edu.cn [202.112.57.71])
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id i983buWK001366
+	for <hua@ccert.edu.cn>; Fri, 8 Oct 2004 11:37:57 +0800 (CST)
+Received: from rbl.ccert.edu.cn (localhost.localdomain [127.0.0.1])
+	by rbl.ccert.edu.cn (8.12.11/8.12.11) with ESMTP id i983hv4S013469
+	for <hua@ccert.edu.cn>; Fri, 8 Oct 2004 11:43:57 +0800
+Received: (from qa@localhost)
+	by rbl.ccert.edu.cn (8.12.11/8.12.11/Submit) id i983hvH9013468;
+	Fri, 8 Oct 2004 11:43:57 +0800
+Date: Fri, 8 Oct 2004 11:43:57 +0800
+Message-Id: <200410080343.i983hvH9013468@rbl.ccert.edu.cn>
+Subject: =?gb2312?B?UmU6INKyvbK9ss7StcS40Mfpvq3A+rDJLNDEy+m1xLjQvvU=?=
+To: hua@ccert.edu.cn
+From: Tran Quang Anh <kong@cernet.edu.cn>
+Content-Type: multipart/mixed; boundary="----------=_1097207037-1044-270"
+MIME-Version: 1.0
+X-UIDL: g#X"!i`j"!@R~"!oQW!!
+
+才牵手 就是流氓了哈...
+我还认识想跟俺上床也不打算把我当女朋友的人哪..
+: 和他是在网上认识的,开始相识也只是普通般的聊天,感觉他像个小弟弟似的，他也总叫我姐姐，后来一问才知道，那年他已经是清华研一的学生了,而我是离着不远一个高校大二的学生.
+: 我们在一起也讲起了感情的事情，他说他正追求一个有了GG的MM,还问我应该怎么办,我给他出了些主意,不过后来还是未果,他打趣的说想让我做他MM,哪怕只有一个星期也可以.我想那时也许他那时只是感情挫败，一时寂寞吧.
+: 后来我们互换了照片，然后又见了面,一起打球,吃饭,我们都觉得很开心,只是他总是有心事的样子。
+: ...................
+

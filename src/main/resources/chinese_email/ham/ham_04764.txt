@@ -1,0 +1,26 @@
+Return-Path: <yuan@rbl.ccert.edu.cn>
+Received: from rbl.ccert.edu.cn (rbl.ccert.edu.cn [202.112.57.71])
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id i91BvTlp004976
+	for <tian@ccert.edu.cn>; Fri, 1 Oct 2004 19:57:29 +0800 (CST)
+Received: from rbl.ccert.edu.cn (localhost.localdomain [127.0.0.1])
+	by rbl.ccert.edu.cn (8.12.11/8.12.11) with ESMTP id i91C394l003781
+	for <tian@ccert.edu.cn>; Fri, 1 Oct 2004 20:03:09 +0800
+Received: (from qa@localhost)
+	by rbl.ccert.edu.cn (8.12.11/8.12.11/Submit) id i91C39gE003780;
+	Fri, 1 Oct 2004 20:03:09 +0800
+Date: Fri, 1 Oct 2004 20:03:09 +0800
+Message-Id: <200410011203.i91C39gE003780@rbl.ccert.edu.cn>
+Subject: =?gb2312?B?UmU6IM7Syse49sWuyfqjrM/rv7zH5buqtcSyqcq/?=
+To: tian@ccert.edu.cn
+From: Tran Quang Anh <yuan@cernet.edu.cn>
+Content-Type: multipart/mixed; boundary="----------=_1096632190-996-284"
+MIME-Version: 1.0
+X-UIDL: Q;Q"!:*W!!F59"!Q6-!!
+
+读到硕士就打住，否则陪了青春，还不一定能毕业；
+如果能身心正常的毕业，那真是前辈子的造化；
+即使毕业了，工作远不如硕士好找；
+找老公就更麻烦了；
+听到女博就头大，嫁人都没有人要的
+: 今年刚考上研究生，但立了大志要考清华的博士。既然各位都是要毕业了，能不能介绍一下经验？有人对我说“世上有三种人”的论断，可是我还是铁了心要考。可是不知道考试的时间，以及如何准备等等。实在是投告无门，只好借此板块发个小贴。希望真心人能够帮一把！
+

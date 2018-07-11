@@ -1,0 +1,36 @@
+Return-Path: <ren@cernet.edu.cn>
+Received: from tsinghua.org.cn ([210.77.143.228])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id i9Q8CObY008427
+	for <chi@ccert.edu.cn>; Tue, 26 Oct 2004 16:12:25 +0800
+Received: (eyou send program); Tue, 26 Oct 2004 16:23:47 +0800
+Received: (eyou send program); Tue, 26 Oct 2004 16:23:47 +0800
+X-EYOU-ORIGINAL-IP: 210.77.143.235
+X-EYOU-ENVELOPE-MAILFROM: sundh@cernet.edu.cn
+Received: from unknown (HELO eyou.net) (unknown@210.77.143.235)
+ by 210.77.143.228 with SMTP; Tue, 26 Oct 2004 16:23:47 +0800
+Received: (eyou send program); Tue, 26 Oct 2004 16:20:35 +0800
+Message-ID: <298778835.11967@eyou.net>
+Received: from 202.112.5.66 by 210.77.143.235 with SMTP; Tue, 26 Oct 2004 16:20:24 +0800
+Received: from 8jmd55gawpz3tjh ([202.112.50.7])
+	(authenticated bits=0)
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id i9Q8NVCN003539;
+	Tue, 26 Oct 2004 16:23:31 +0800 (CST)
+Message-ID: <001e01c4bb35$1482be30$073270ca@8jmd55gawpz3tjh>
+From: "ren" <ren@cernet.edu.cn>
+To: chi@ccert.edu.cn
+Subject: =?gb2312?B?ofEgvfHM7MrHztK94bvpMsTqvM3E7sjVKDQp?=
+Date: Tue, 26 Oct 2004 16:23:32 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_001B_01C4BB78.2285CC00"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2800.1437
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1441
+X-UIDL: U[8!!V#K!!TWF"!'/T!!
+
+我这人坏毛病不少，最可恶的就是喜欢告状，芝麻绿豆大的都告的全世界都知道。每次总是夸大其词，而且我还有个特别的功夫，就是在完全陈述事实的同时，把舆论力量集中到我这边，到最后连gg的妈妈都觉得gg不对，每次我告完状，gg总是假装生气地说：“看看，又告状了，我都不和你计较”
+不过有一次见到我舅舅，舅舅私地下说：“你老欺负人家***”,俺回家就和gg说，gg乐了，说：“群众的眼光是雪亮的！”
+申请欠了很多钱，等了我们工作以后，我们俩就一分一分的攒钱还债，我最大的乐趣就是看着自己存折的钱一点一点往上涨，于是日常开销以gg的工资为主，俺的工资一点点往上涨，俺没事就拿出来看看，很满足的感觉，但谁都不能动我的存折，一动我就像被割肉一样，最记得公司发了奖金，gg帮我存了，回来一看，约，存折头一次突破1w！不太可能啊，我知道自己的钱有多少。gg乐了，说:"我知道你也就这点出息，就从我的存折取了点钱帮你凑满1W",heihei
+在北京时，每周末都出去，买很多很多菜，我们俩都喜欢吃海鲜，印象最深的就是皮皮虾，挑了几个月的皮皮虾，俺都是高手拉
+

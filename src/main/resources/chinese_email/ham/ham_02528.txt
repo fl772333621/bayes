@@ -1,0 +1,35 @@
+Return-Path: <zhuang@tsinghua.edu.cn>
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with SMTP id j051Y4Jg009451
+	for <yana@ccert.edu.cn>; Wed, 5 Jan 2005 09:34:05 +0800
+Received: (eyou send program); Wed, 05 Jan 2005 09:32:55 +0800
+Message-ID: <304888775.00042@mail.tsinghua.edu.cn>
+Received: from unknown (HELO mail.tsinghua.edu.cn) (unknown@127.0.0.1)
+ by 127.0.0.1 with SMTP; Wed, 05 Jan 2005 09:32:55 +0800
+X-scanvirus: By Symantec Scan Engine
+X-scanresult: CLEAN
+Received: (eqmail ); 5 Jan 2005 01:32:52 -0000
+Received: from unknown (HELO sony) (duanhx@166.111.204.189)
+  by localhost with SMTP; 5 Jan 2005 01:32:52 -0000
+Message-ID: <003901c4f2c8$a601e6e0$8ae86fa6@sony>
+From: "zhuang" <zhuang@tsinghua.edu.cn>
+To: yana@ccert.edu.cn
+Subject: =?gb2312?B?UmU6INDEwO+7sCE=?=
+Date: Wed, 5 Jan 2005 09:48:25 +0800
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2800.1106
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1106
+Content-Transfer-Encoding: 8bit
+X-MIME-Autoconverted: from base64 to 8bit by home.ccert.edu.cn id j051Y4Jg009451
+X-UIDL: +CD!!1AI!!bW3"!1@2"!
+
+没必要这么钻牛角尖，清华难道真的是非上不可？如果你这么想，会失望的。找个有把握的学校和专业，上完了出来好好工作，绝对比赌博考清华强
+: 本人是2006年将要考研的学生,从大学开始对清华就有了很深刻的接触,一直想利用考研这个机会圆自己的一个清华梦,但是对于自己水平的犹豫一直困扰着我.
+: 如果全身心投入到复习中去,应该能有一个不错的成绩,但是清华是国内数一数二的名牌大学,高手云集,如果考不进去,自己的研究生梦想也可能随即破灭.
+: 如果报一个层次相对较低的学校,把握无疑会比较大,但是心里一想起清华的种种自己又会十分不甘心,我该怎么办呢?
+: ...................
+

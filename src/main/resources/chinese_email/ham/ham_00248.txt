@@ -1,0 +1,45 @@
+Return-Path: <cao@home.ccert.edu.cn>
+Received: from home.ccert.edu.cn (localhost [127.0.0.1])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id iB18u693022122;
+	Wed, 1 Dec 2004 16:56:06 +0800
+Received: (from majordomo@localhost)
+	by home.ccert.edu.cn (8.13.1/8.13.1/Submit) id iB18u6ge022121;
+	Wed, 1 Dec 2004 16:56:06 +0800
+X-Authentication-Warning: home.ccert.edu.cn: majordomo set sender to owner-ccertstaff using -f
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id iB18u0sj022117
+	for <wang@ccert.edu.cn>; Wed, 1 Dec 2004 16:56:01 +0800
+Received: from GirlOfGod (tu203027.tsinghua.edu.cn [166.111.203.27])
+	(authenticated bits=0)
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id iB1994Gg010916
+	for <wang@ccert.edu.cn>; Wed, 1 Dec 2004 17:09:05 +0800 (CST)
+Message-Id: <200412010909.iB1994Gg010916@sea.net.edu.cn>
+Date: Wed, 1 Dec 2004 17:13:25 +0800
+From: "cao" <cao@cernet.edu.cn>
+To: wang@ccert.edu.cn
+Subject: =?gb2312?B?ofEguNW/tM3qt8XFo7DgtcS0uszs?=
+X-mailer: Foxmail 5.0 [cn]
+Mime-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: 8bit
+X-MIME-Autoconverted: from base64 to 8bit by home.ccert.edu.cn id iB18u6sj022119
+Sender: owner-ccertstaff@home.ccert.edu.cn
+Precedence: bulk
+X-UIDL: iUH"!k:Q"!l@]"!9L&#!
+
+刚刚看完放牛班的春天，这会还在听着原声大碟写这片文章
+这个片子很早就听说了，也很早就有了，一直没有看
+说实话，这个片名没有吸引力，最起码对我没有吸引力，介绍和一些影评我也看了，还是没有想看的冲动
+几天前，一天烦躁无事，就把找个放了好久的片子找了出来，只是看了一个开头
+不超过五分钟，一下子就让我心里颤了一下，我大概知道这个片子的重量了，可惜，友人拉着打cs就恋恋的放下，投入到血战当中
+没想到一放又是好几天，今天下午经历了又一个失败的几十分钟，最起码我自己是这样认为的，心情糟透了，低落，想起了找个片子，和第一次看它心里的颤动
+静静的坐下，给自己倒上水，开始看，沉静又回到我心里，让我不再沮丧和烦躁，诸此种种都离开自己，说实话，不是爽，但确实舒服，每天都想让自己爽，没想到这样的感觉是最舒服。
+不得不佩服雅克贝汉是个天才，见过他过往的种种精彩，其实不该再对这部片子的出色感到惊讶的，但还是不由得张大了嘴，合不拢来
+Christophe Barratier不可想象这是他的电影处女作，对于整个过程的调度，全局的把握，让人瞠目，以他十年音乐制作人的背景，对于音乐的把握更是令人称道
+BrunoCoulais担纲的电影音乐绝对是这个影片最出彩的地方，而莫安琦一张嘴就如天籁般的声音，让人怀疑导演是从哪找到他的。而Gerard Jugnot又让人见识了他深厚的功底
+记忆深刻的，克莱门特把莫安琦踢出合唱团后，给伯爵夫人演出之中又让他回归的那一场，说句不好意思的话，很就没有被这么感到过了，那一场真是排山倒海的感觉向你扑来，快了绷不住了
+从头到位一直都能抓住我的片子不多，这个就是
+好了，就到这
+哥几个，开始拍吧
+

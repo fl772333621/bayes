@@ -1,0 +1,41 @@
+Return-Path: <long@tsinghua.edu.cn>
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id iAH4NNF9020306
+	for <ke@ccert.edu.cn>; Wed, 17 Nov 2004 12:23:23 +0800 (CST)
+Received: (eyou send program); Wed, 17 Nov 2004 12:08:27 +0800
+Message-ID: <300664507.09413@mail.tsinghua.edu.cn>
+Received: from unknown (HELO mail.tsinghua.edu.cn) (unknown@127.0.0.1)
+ by 127.0.0.1 with SMTP; Wed, 17 Nov 2004 12:08:27 +0800
+X-scanvirus: By Symantec Scan Engine
+X-scanresult: CLEAN
+Received: (eqmail ); 17 Nov 2004 04:08:26 -0000
+Received: from unknown (HELO sony) (duanhx@166.111.204.105)
+  by localhost with SMTP; 17 Nov 2004 04:08:26 -0000
+Message-ID: <00bf01c4cc5d$297a1cf0$d63270ca@sony>
+From: "long" <long@tsinghua.edu.cn>
+To: ke@ccert.edu.cn
+References: <300658772.10576@mail.tsinghua.edu.cn>
+Subject: =?gb2312?B?UmU6INfUz7DF9rz709C40L71tcRNTbjD1aaw7KO/?=
+Date: Wed, 17 Nov 2004 12:23:15 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_00BC_01C4CCA0.36D6B190"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2900.2180
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+X-UIDL: _X`"!^S*#!^A,"!f1H!!
+
+借东西呼呼
+: 标  题: 自习碰见有感觉的MM该咋办？
+: 发信站: 水木社区 (Fri Jun 10 18:28:27 2005), 站内
+: 
+:     自习时老碰见一个mm，老在一个教室。虽然不是很漂亮，
+: 但是有感觉。可是周围没有人认识，不知道哪个系哪个
+: 年级，啥都不知道，该怎么认识呢？冒然搭话不好吧？
+: 希望各位能帮帮兄弟！！
+: --
+:  扼紧命运的喉咙！
+: 
+: ※ 来源:·水木社区 http://newsmth.net·[FROM: 222.28.174.*]
+

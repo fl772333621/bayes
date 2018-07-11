@@ -1,0 +1,37 @@
+Return-Path: <han@cernet.edu.cn>
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id iBT2XfiR028732;
+	Wed, 29 Dec 2004 10:33:41 +0800
+Received: from sony (tu204113.tsinghua.edu.cn [166.111.204.113])
+	(authenticated bits=0)
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id iBT2lqsY015587;
+	Wed, 29 Dec 2004 10:47:55 +0800 (CST)
+Message-ID: <02f201c4ed50$cb5c7fe0$bbcc6fa6@sony>
+From: "han" <han@cernet.edu.cn>
+To: xiao@ccert.edu.cn
+Subject: =?gb2312?B?UmU6ILCz1qq1wLXEw8C5+qOh?=
+Date: Wed, 29 Dec 2004 10:47:44 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_02EE_01C4ED93.D3F5C010"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2800.1106
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1106
+X-UIDL: /9e!!MQk"!8d&!!o,E"!
+
+谁告诉你的海外大陆的没人敢说top的？
+牛人多了去了，第一根光纤是中国人造的你知道吗？
+这算不算top? 呵呵
+:  老杨不是也回国了么？
+:  没成为tenure前当然要crazy 呵呵
+:  另外top是相对的，海外大陆的eecs的
+:  我觉得没人敢说top的，基础学科可能还行。
+:  也不是不交流 文化差异 顶多谈谈研究
+:  但是日子总这样会不会疯了.
+          别想当然，所谓文化差异，根本没那么大。
+          我有一半的亲戚在美国，比我大的同辈都是硕士以上。
+          长辈在中美做科研的都有。  
+          这方面我想我有一定的发言权。
+:  所以中国海外学术顾问团一般把他们请回来发挥余热
+

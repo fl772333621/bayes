@@ -1,0 +1,27 @@
+Return-Path: <zheng@ee.tsinghua.edu.cn>
+Received: from Unixmail5.21 (mail.ee.tsinghua.edu.cn [166.111.64.188])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j066RtIS015046
+	for <hong@ccert.edu.cn>; Thu, 6 Jan 2005 14:27:55 +0800 (CST)
+Received: (qmail 7905 invoked by alias); 6 Jan 2005 06:23:26 -0000
+Received: from unknown (HELO tsinghuad60c2e) (166.111.64.226)
+  by mail.ee.tsinghua.edu.cn with SMTP; 6 Jan 2005 14:23:26 +0800
+Message-ID: <001101c4f3b8$f9bcd290$e2406fa6@tsinghuad60c2e>
+From: "zheng" <zheng@ee.tsinghua.edu.cn>
+To: hong@ccert.edu.cn
+Subject: =?gb2312?B?UmU6ILj4ztLToc/z1+7J7rXEyq6yv8PAufq159OwvLDLtcP3?=
+Date: Thu, 6 Jan 2005 14:28:44 +0800
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="----=_NextPart_000_000D_01C4F3FC.06B15690"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2800.1437
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1441
+X-Mozilla-Status2: 00000000
+
+Jim Carrey的片子我还是比较喜欢The Truman Show
+: 排名不分先后：
+: 一、《阿甘正传》（1994）每看一次就感动一回，这部电影阐释了生命的意义，让我启发良多，也是我了解美国历史的窗口，汤姆.汉克斯从此成为我最喜爱的男演员之一。
+: 二、《美人计》（1946）我最喜爱的希区柯克作品，我心目中最美丽的女神、瑞典女郎--英格丽.褒曼主演，难忘的片段有：男女主人公两人在地下酒库里偷取证物，被女主人公的丈夫发现了，男主人公机智地拥吻了女主人公，声称对她余情未了、约她在地下室幽会…….假戏真做，加
+: ...................
+

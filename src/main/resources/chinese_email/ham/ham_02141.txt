@@ -1,0 +1,67 @@
+Return-Path: <ke@home.ccert.edu.cn>
+Received: from home.ccert.edu.cn (localhost [127.0.0.1])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id j0R28PhD024962;
+	Thu, 27 Jan 2005 10:08:25 +0800
+Received: (from majordomo@localhost)
+	by home.ccert.edu.cn (8.13.1/8.13.1/Submit) id j0R28PZs024961;
+	Thu, 27 Jan 2005 10:08:25 +0800
+X-Authentication-Warning: home.ccert.edu.cn: majordomo set sender to owner-ccertstaff using -f
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with SMTP id j0R28P3h024955
+	for <jian@ccert.edu.cn>; Thu, 27 Jan 2005 10:08:25 +0800
+Received: (eyou send program); Thu, 27 Jan 2005 10:04:19 +0800
+Message-ID: <306791459.08951@mail.tsinghua.edu.cn>
+Received: from unknown (HELO mail.tsinghua.edu.cn) (unknown@127.0.0.1)
+ by 127.0.0.1 with SMTP; Thu, 27 Jan 2005 10:04:19 +0800
+X-scanvirus: By Symantec Scan Engine
+X-scanresult: CLEAN
+Received: (eqmail ); 27 Jan 2005 02:04:18 -0000
+Received: from unknown (HELO sony) (duanhx@202.112.35.253)
+  by localhost with SMTP; 27 Jan 2005 02:04:18 -0000
+Message-ID: <004f01c50416$bebf8020$0301a8c0@sony>
+From: "ke" <ke@tsinghua.edu.cn>
+To: jian@ccert.edu.cn
+Subject: =?gb2312?B?UmU6INDFz6LQ0NK1wey1vMjLtcSxz9K11LrQow==?=
+Date: Thu, 27 Jan 2005 10:20:17 +0800
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2800.1106
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1106
+Content-Transfer-Encoding: 8bit
+X-MIME-Autoconverted: from base64 to 8bit by home.ccert.edu.cn id j0R28P3h024959
+Sender: owner-ccertstaff@home.ccert.edu.cn
+Precedence: bulk
+X-UIDL: Sef!!9Zk!!I)N"!hd=!!
+
+这个找工作能占很大便宜么？
+: 标  题: 信息行业领导人的毕业院校
+: 发信站: 水木社区 (Sat Jun 11 11:29:15 2005), 站内
+: 
+: 王旭东  天津科技进修学院
+: 王建宙  浙江大学
+: 常小兵  南京邮电 清华大学
+: 张立贵  北京邮电
+: 王晓初  北京邮电
+: 周德强  南京邮电
+: 奚国华  合肥工大 上海交大
+: 张春江  北京邮电
+: 田溯宁  辽宁大学
+: 周寰    哈军工
+: 张海南  西北工大
+: 魏少军  清华大学
+: 蒋耀平  复旦大学
+: 
+: 
+: 北邮这个方面是很强，但也无法一手遮天吧，呵呵。
+: : 看那么多人问，很想跟大家一起探讨一下，欢迎拍砖，当然，反对谩骂。
+: : 感觉这个东西跟job很有关系，好的学校加专业是找到一个好工作的开始，所以发在这，希望斑竹别珊。
+: : 读了四年，考了半年研，找了半年工作的一些感想。
+: : ...................
+: 
+: --
+: 
+: ※ 来源:·水木社区 newsmth.net·[FROM: 218.1.143.183]
+

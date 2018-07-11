@@ -1,0 +1,29 @@
+Return-Path: <lai@rbl.ccert.edu.cn>
+Received: from rbl.ccert.edu.cn (rbl.ccert.edu.cn [202.112.57.71])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id i9T3UHR3026523
+	for <hu@ccert.edu.cn>; Fri, 29 Oct 2004 11:30:17 +0800
+Received: from rbl.ccert.edu.cn (localhost.localdomain [127.0.0.1])
+	by rbl.ccert.edu.cn (8.12.11/8.12.11) with ESMTP id i9T3lNUO016398
+	for <hu@ccert.edu.cn>; Fri, 29 Oct 2004 11:47:40 +0800
+Received: (from qa@localhost)
+	by rbl.ccert.edu.cn (8.12.11/8.12.11/Submit) id i9T3lInc016393;
+	Fri, 29 Oct 2004 11:47:18 +0800
+Date: Fri, 29 Oct 2004 11:47:18 +0800
+Message-Id: <200410290347.i9T3lInc016393@rbl.ccert.edu.cn>
+Subject: =?gb2312?B?ofEgw/fM7MH50rvByw==?=
+To: hu@ccert.edu.cn
+From: lai@rbl.ccert.edu.cn
+Content-Type: multipart/mixed; boundary="----------=_1099021665-20866-160"
+MIME-Version: 1.0
+X-UIDL: ?h8!!PIL!!k+/!!l_;!!
+
+除了出去买早饭，一天都憋在屋子里头，窗帘没有拉开，光线很暗，
+一直对着显示器，不辨时间，把上午都当成了下午。
+同学这两天不在家，昨晚我一个人睡的时候，竟然无法控制的不能入睡，并不是因为
+另外的屋子里少了一个人而害怕，却是莫名的不踏实。住在她家里一个礼拜了，
+今天才发现其实自己从来都没有踏实下来过。我没着良心给老妈打电话，告诉她我
+这些天都很好，只是为了不想让家人担心；可是嘴里面偷偷的长了好几个泡，谁知道啊。
+从来没有后悔把好好的工作辞了，变成现在这种漂泊游离的样子，决定是我自己做的。
+既然要这么折腾，那就来吧，不怕。
+明天过节了，要开开心心；过完节，还要开开心心。
+

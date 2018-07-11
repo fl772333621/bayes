@@ -1,0 +1,25 @@
+Return-Path: <xing@rbl.ccert.edu.cn>
+Received: from rbl.ccert.edu.cn (rbl.ccert.edu.cn [202.112.57.71])
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id i9D32B6P001565
+	for <liao@ccert.edu.cn>; Wed, 13 Oct 2004 11:02:12 +0800 (CST)
+Received: from rbl.ccert.edu.cn (localhost.localdomain [127.0.0.1])
+	by rbl.ccert.edu.cn (8.12.11/8.12.11) with ESMTP id i9D37dor011661
+	for <liao@ccert.edu.cn>; Wed, 13 Oct 2004 11:07:40 +0800
+Received: (from qa@localhost)
+	by rbl.ccert.edu.cn (8.12.11/8.12.11/Submit) id i9D37drU011660;
+	Wed, 13 Oct 2004 11:07:39 +0800
+Date: Wed, 13 Oct 2004 11:07:39 +0800
+Message-Id: <200410130307.i9D37drU011660@rbl.ccert.edu.cn>
+Subject: =?gb2312?B?UmU6ILTzvNK2vMzYsfDU2rr1tP3T9sLwo78=?=
+To: liao@ccert.edu.cn
+From: Tran Quang Anh <xing@cernet.edu.cn>
+Content-Type: multipart/mixed; boundary="----------=_1097636860-20086-6"
+MIME-Version: 1.0
+X-UIDL: QGl"!H0N"!dT,#!4]O!!
+
+厚积薄发，现在诱惑太多了
+: 我不着急，呵呵，我又不找工作，我只是发表一下我的看法罢了。:)
+: btw：俺下下个月就28了，房子是有了，打算明年买车，媳妇也找了，呵呵
+: 想当年99年从清华出来的时候去上地一家外企，一个月就开3000多，住北大东门小平房，慢慢熬到现在第六年了，现在在一个60人的公司当技术副总，每年公司做几千万的项目，也算混的还行，温饱基本还是解决了，工作之余还能玩玩网络游戏，做做自己喜欢的技术研究，也挺不错。
+: ...................
+

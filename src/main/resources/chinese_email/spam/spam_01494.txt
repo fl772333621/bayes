@@ -1,0 +1,33 @@
+Return-Path: <yi@tom.com>
+Received: from 127.0.0.1 ([210.22.10.132])
+	by home.ccert.edu.cn (MIMEDefang) with ESMTP id NOQUEUE
+	for <weng@ccert.edu.cn>; Wed, 22 Jun 2005 12:06:27 +0800 (CST)
+Message-ID: <200506221206.0.214796098819203@home.ccert.edu.cn>
+Received: from unknown (HELO vlm924.net) (248.168.205.4)
+	by 127.0.0.1 with SMTP; 22 Jun 2005 04:24:20 -0000
+X-Originating-IP: [248.168.205.4]
+Date: Wed, 22 Jun 2005 12:24:19 +0800
+From: "yi" <yi@tom.com>
+To: weng@ccert.edu.cn
+Subject: =?gb2312?B?tPPQzdXQxrjGvcyoLS3V0Ma40tfN+KOsxvPStdeisuHD4rfRytTTw9K7uPbUwg==?=
+X-Mailer: Microsoft Outlook Express 6.00.2800.1158
+Mime-Version: 1.0
+X-Priority: 1
+Content-Type: text/plain;
+	charset="GB2312"
+Content-Transfer-Encoding: base64
+
+大型招聘平台--招聘易网，企业注册免费试用一个月
+
+
+人才好找、找好人才！
+工作好找、找好工作！
+
+3000多家中国最活跃的大型企业，每天超过1000多的职位；
+50000多份各种类型的人才简历，
+是企业招聘、人才求职的大型平台。
+
+个人用户免费注册
+企业用户现在注册免费使用一个月。
+
+http://www.zhaopine.com

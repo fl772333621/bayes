@@ -1,0 +1,53 @@
+Return-Path: <you@cernet.edu.cn>
+Received: from tsinghua.org.cn ([210.77.143.228])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id i9I3ODWU017206
+	for <qian@ccert.edu.cn>; Mon, 18 Oct 2004 11:24:15 +0800
+Received: (eyou send program); Mon, 18 Oct 2004 11:35:16 +0800
+Received: (eyou send program); Mon, 18 Oct 2004 11:34:23 +0800
+X-EYOU-ORIGINAL-IP: 202.112.5.66
+X-EYOU-ENVELOPE-MAILFROM: sundh@cernet.edu.cn
+Received: from unknown (HELO sea.net.edu.cn) (unknown@202.112.5.66)
+ by 210.77.143.228 with SMTP; Mon, 18 Oct 2004 11:34:23 +0800
+Received: from 8jmd55gawpz3tjh ([202.112.50.7])
+	(authenticated bits=0)
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id i9I3QnJx025282;
+	Mon, 18 Oct 2004 11:26:50 +0800 (CST)
+Message-ID: <005601c4b4c2$5abe90f0$073270ca@8jmd55gawpz3tjh>
+From: "you" <you@cernet.edu.cn>
+To: qian@ccert.edu.cn
+Subject: =?gb2312?B?UmU6IM6qyrLDtMTjw8e2vM+yu7bE6sHkscjX1Ly6tPO1xA==?=
+Date: Mon, 18 Oct 2004 11:27:10 +0800
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="----=_NextPart_000_0054_01C4B505.682A67D0"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2800.1437
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1441
+X-UIDL: 9~V"!W]Q!![/&!!+Rk"!
+
+RE，年轻有什么不好
+我就想找比我小的，嘿嘿
+: 标  题: 为什么你们都喜欢年龄比自己大的
+: 发信站: 水木社区 (Wed Jun  8 13:27:19 2005), 站内
+: 
+: 我就搞不明白，年轻有什么不好。
+: 
+: 我qq上年龄写的81，一个女孩子跟我聊得好热乎
+: 
+: 后来我告诉她，我的意思是81胜的。
+: 
+: 她立刻走了。
+: 
+: 无数的朋友也都说，要找个比自己大的
+: 
+: 我想知道为什么
+: 
+: 
+: --
+: 务必培养艰苦奋斗的作风
+: 务必培养谦虚谨慎不骄不躁的作风
+: 
+: 
+: ※ 来源:·水木社区 http://newsmth.net·[FROM: 159.226.41.*]
+

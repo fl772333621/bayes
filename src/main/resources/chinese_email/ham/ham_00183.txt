@@ -1,0 +1,31 @@
+Return-Path: <gan@rbl.ccert.edu.cn>
+Received: from rbl.ccert.edu.cn (rbl.ccert.edu.cn [202.112.57.71])
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id i984eQgW002409
+	for <ding@ccert.edu.cn>; Fri, 8 Oct 2004 12:40:26 +0800 (CST)
+Received: from rbl.ccert.edu.cn (localhost.localdomain [127.0.0.1])
+	by rbl.ccert.edu.cn (8.12.11/8.12.11) with ESMTP id i984kRWB007789
+	for <ding@ccert.edu.cn>; Fri, 8 Oct 2004 12:46:27 +0800
+Received: (from qa@localhost)
+	by rbl.ccert.edu.cn (8.12.11/8.12.11/Submit) id i984kR5f007788;
+	Fri, 8 Oct 2004 12:46:27 +0800
+Date: Fri, 8 Oct 2004 12:46:27 +0800
+Message-Id: <200410080446.i984kR5f007788@rbl.ccert.edu.cn>
+Subject: =?gb2312?B?UmU6INP0w8a1xMn6u+6jusDPuauyu9esx66jrMzszOzU2rzSwO+09NfF?=
+To: ding@ccert.edu.cn
+From: Tran Quang Anh <gan@cernet.edu.cn>
+Content-Type: multipart/mixed; boundary="----------=_1097210787-1044-276"
+MIME-Version: 1.0
+X-UIDL: +pi"!KFB"!&+`!!;e_!!
+
+我是男的。呵呵
+以前工作还好，收入也行，不过不喜欢
+这次辞职是想换行业，我也有优势，但是就是经验不足
+不过总算找到一个公司，愿意从头培养我，也是我喜欢的行业
+不过那段时间真挺让我不爽的，现在心里想想就不舒服
+她也是鼓励我，不过每次鼓励完过几分钟，就开始愁这愁那了
+:(
+: 你是男的女的？
+: 还好前段时间我老公换工作，我一直鼓励他
+: 每次都说没关系啊，我们有房子，花不了多少钱
+: ...................
+

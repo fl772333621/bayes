@@ -1,0 +1,30 @@
+Return-Path: <wen@tsinghua.edu.cn>
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j5S64Dn5008642
+	for <xing@ccert.edu.cn>; Tue, 28 Jun 2005 14:04:13 +0800 (CST)
+X-scanvirus: By Symantec Scan Engine
+X-scanresult: CLEAN
+Received: (eqmail ); 28 Jun 2005 05:45:31 -0000
+X-Received: unknown,59.66.24.86,20050628134531
+Received: from unknown (HELO sony) (duanhx@59.66.24.86)
+  by localhost with SMTP; 28 Jun 2005 05:45:31 -0000
+Message-ID: <003b01c57ba7$2f7a0d50$5618423b@sony>
+From: "wen" <wen@tsinghua.edu.cn>
+To: xing@ccert.edu.cn
+Subject: =?gb2312?B?UmU6IMjnus7C8rXDxvDX1Ly6tcS3v9fTo7+jvw==?=
+Date: Tue, 28 Jun 2005 14:04:03 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0038_01C57BEA.3D6DFFF0"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2900.2180
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+X-UIDL: %+-!!LEj"!AAY"!PmL!!
+
+在人生中最美好最该花钱的时候都花到不该花的地方去了，有啥好羡慕的？
+: 有个同事，当两人的上班的收入加起来8k左右的时候买了40-50万的房子；同时有个孩子，并且每年大概贴父母2万或者更多。人家用6-7年就还完了。据说除了接私活，最大的秘诀就是节俭！妻子自己讲，那些年从来只去早市给自己买衣服。
+: 我佩服的不得了！
+: 还有个朋友，月薪1万-1万二，房贷要还掉6000；维持车还要1000。不过她加班每天到10点以后，没时间逛街吃饭了。
+: ...................
+

@@ -1,0 +1,52 @@
+Return-Path: <lu@tsinghua.edu.cn>
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id iBN2fIDP016272
+	for <zeng@ccert.edu.cn>; Thu, 23 Dec 2004 10:41:19 +0800 (CST)
+Received: (eyou send program); Thu, 23 Dec 2004 10:25:50 +0800
+Message-ID: <303768750.01281@mail.tsinghua.edu.cn>
+Received: from unknown (HELO mail.tsinghua.edu.cn) (unknown@127.0.0.1)
+ by 127.0.0.1 with SMTP; Thu, 23 Dec 2004 10:25:50 +0800
+X-scanvirus: By Symantec Scan Engine
+X-scanresult: CLEAN
+Received: (eqmail ); 23 Dec 2004 02:25:48 -0000
+Received: from unknown (HELO sony) (duanhx@166.111.204.187)
+  by localhost with SMTP; 23 Dec 2004 02:25:48 -0000
+Message-ID: <012501c4e898$dca1c9c0$d53270ca@sony>
+From: "lu" <lu@tsinghua.edu.cn>
+To: zeng@ccert.edu.cn
+Subject: =?gb2312?B?ofEgz+7Ev7eisPyjrM3709DE3MGmtcS9+MC0?=
+Date: Thu, 23 Dec 2004 10:41:01 +0800
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2900.2180
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+Content-Transfer-Encoding: 8bit
+X-MIME-Autoconverted: from base64 to 8bit by sea.net.edu.cn id iBN2fIDP016272
+X-UIDL: _Bd"!_G'#!a%[!!W^e"!
+
+项目名称：
+   电视节目收视调查采样设备
+主要任务:
+   将用户收视情况反映到公网上的服务器.
+希望方式:
+   小组承包
+项目简单描述：
+   该设备支持8019以太网口和GPRS无线网口(选装)，能够通过这两个接口和服务器交换数据. 带有简单液晶显示屏, 可以显示服务器传来的天气预报,节目表等附加服务数据, 带有6个按钮,可以指定现在看电视的人员属性. 该设备从电视的视频输出端子得到视频信号，和服务器传下来的电视台图标匹配识别后,将电视台的信息发送到服务器.
+项目软硬件要求:
+   ARM7(44b0), uclinux. 
+项目接口:
+   服务器接口: tcp/ip, 按照已制定数据格式完成数据传输.
+   视频输入接口:标准
+项目时间:
+   合同签订后的两个月. 合同和某电视台签署, 保证不会有拖欠. 
+项目价格:
+    小组按照时间和自己的熟练程度自行报价, 我方评估. 双方协商后, 签署合同. 我方先行支付元器件和制作费用, 待项目完成大部分后, 支付50%开发费, 完成后付清.
+联系方式:
+    康先生: 010-68431362/64/67, 13901027896, email:alex@mx.cei.gov.cn
+    张先生: 13050000366
+msn:myzf@tom.com
+qq:287617039
+

@@ -1,0 +1,49 @@
+Return-Path: <wei@home.ccert.edu.cn>
+Received: from home.ccert.edu.cn (localhost [127.0.0.1])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id iBU8O8n6021178;
+	Thu, 30 Dec 2004 16:24:08 +0800
+Received: (from majordomo@localhost)
+	by home.ccert.edu.cn (8.13.1/8.13.1/Submit) id iBU8O88v021177;
+	Thu, 30 Dec 2004 16:24:08 +0800
+X-Authentication-Warning: home.ccert.edu.cn: majordomo set sender to owner-ccertstaff using -f
+Received: from ns.6test.edu.cn (ns.6test.edu.cn [202.112.54.2])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id iBU8O8G9021173
+	for <mo@ccert.edu.cn>; Thu, 30 Dec 2004 16:24:08 +0800
+Received: from tu203047.tsinghua.edu.cn ([166.111.203.47] helo=wanglanjia)
+	by ns.6test.edu.cn with asmtp (Exim 4.12)
+	id 1CjwGz-000G12-00
+	for ccertstaff@ccert.edu.cn; Thu, 30 Dec 2004 17:07:09 +0800
+Message-ID: <005c01c4ee4a$eca9ad30$2fcb6fa6@wanglanjia>
+From: "wei" <wei@ns.6test.edu.cn>
+To: mo@ccert.edu.cn
+Subject: =?gb2312?B?UmU6ILK7tq6woaO6IMWuuqLX08rHsrvKx7a8sci9z8O709CwssiruNCjrNKq1dLIy9LAv7+jvw==?=
+Date: Thu, 30 Dec 2004 16:38:23 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0059_01C4EE8D.FAC0DF40"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2800.1437
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1441
+Sender: owner-ccertstaff@home.ccert.edu.cn
+Precedence: bulk
+X-UIDL: EE"#!'<U"!%8O!!80+"!
+
+呵呵
+所以我现在每天看到我自己的样子就不喜欢
+: 标  题: Re: 不懂啊： 女孩子是不是都比较没有安全感，要找人依靠？
+: 发信站: 水木社区 (Mon Jun  6 23:30:08 2005), 站内
+: 
+: 葡萄酒适量的可以美容：）
+: 但是酗酒和抽烟，真的不赞同~~
+: 高中的时候一女生常抽烟和喝酒，弄得很颓的样子
+: 大家都不是很喜欢~~
+: 
+: : 喝酒比较多
+: : 抽烟……尝试过
+: 
+: 
+: --
+: 
+: ※ 来源:·水木社区 newsmth.net·[FROM: 202.205.10.*]
+

@@ -1,0 +1,42 @@
+Return-Path: <zhao@rbl.ccert.edu.cn>
+Received: from rbl.ccert.edu.cn (rbl.ccert.edu.cn [202.112.57.71])
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id i9G6QBWO020566
+	for <pu@ccert.edu.cn>; Sat, 16 Oct 2004 14:26:12 +0800 (CST)
+Received: from rbl.ccert.edu.cn (localhost.localdomain [127.0.0.1])
+	by rbl.ccert.edu.cn (8.12.11/8.12.11) with ESMTP id i9G6VnKh030793
+	for <pu@ccert.edu.cn>; Sat, 16 Oct 2004 14:31:50 +0800
+Received: (from qa@localhost)
+	by rbl.ccert.edu.cn (8.12.11/8.12.11/Submit) id i9G6VnKW030792;
+	Sat, 16 Oct 2004 14:31:49 +0800
+Date: Sat, 16 Oct 2004 14:31:49 +0800
+Message-Id: <200410160631.i9G6VnKW030792@rbl.ccert.edu.cn>
+Subject: =?gb2312?B?UmU6INXiwO/T0MTE0KnKx2ZyZXNobWFusKE/?=
+To: pu@ccert.edu.cn
+From: Tran Quang Anh <zhao@cernet.edu.cn>
+Content-Type: multipart/mixed; boundary="----------=_1097908310-2811-102"
+MIME-Version: 1.0
+X-UIDL: \j$"!g~F!!D~?"!eGU"!
+
+mein
+     8  ＋  &lt;目录&gt;  会议室
+   206  ◇  Arbitration       [仲裁]      仲裁
+  9586  ◇  ASCIIart          [娱乐]      ASCII艺术
+  5170  ◇  ASCIIStudio       [附属]      七彩水木
+  3264  ◇  BBSHelp           [系统]      新手上路
+   778  ◇  BoardManager      [站务]      版面管理
+  2212  ◇  CampusInfo        [信息]      校园信息
+    24  ＋  ChinaStyle        [信息]      中国风·神州各地
+   590  ◇  Complain          [站务]      投诉与举报
+  10883 ◇  EnglishTest       [信息]      英语教室
+   994  ◇  Freshman          [本校]      新生·年轻·起飞
+  1617  ◆  GaoKao            [临时]      高考·人生·选择
+  2202  ◇  Jiangsu           [地域]      江海天地·江苏
+  9274  ◆  Joke            V [休闲]      笑话连篇            
+  3181  ◇  LeslieCheung      [明星]      张国荣·传奇
+   781  ◆  MyPhoto           [附属]      个人Show
+&gt; 9927  ◆  NewExpress        [特快]      水木特快
+  3950  ◇  NorthEast         [地域]      东北老家
+  6762  ◇  PalSword          [游戏]      御剑江湖
+  9200  ◆  ParttimeJob     V [信息]      兼职工作信息        
+: 贴俩你经常去的吧 ：）
+

@@ -1,0 +1,31 @@
+Return-Path: <ning@rbl.ccert.edu.cn>
+Received: from rbl.ccert.edu.cn (rbl.ccert.edu.cn [202.112.57.71])
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id i97AwRuF018794
+	for <kong@ccert.edu.cn>; Thu, 7 Oct 2004 18:58:27 +0800 (CST)
+Received: from rbl.ccert.edu.cn (localhost.localdomain [127.0.0.1])
+	by rbl.ccert.edu.cn (8.12.11/8.12.11) with ESMTP id i97B4Ql1000983
+	for <kong@ccert.edu.cn>; Thu, 7 Oct 2004 19:04:26 +0800
+Received: (from qa@localhost)
+	by rbl.ccert.edu.cn (8.12.11/8.12.11/Submit) id i97B4Qod000982;
+	Thu, 7 Oct 2004 19:04:26 +0800
+Date: Thu, 7 Oct 2004 19:04:26 +0800
+Message-Id: <200410071104.i97B4Qod000982@rbl.ccert.edu.cn>
+Subject: =?gb2312?B?ofEgztK08svjveG76brz1eLR+bSmwO280s2lvq28w87KzOKjrE1Nw8e/tMjnus6jvyAo16rU2Ck=?=
+To: kong@ccert.edu.cn
+From: Tran Quang Anh <ning@cernet.edu.cn>
+Content-Type: multipart/mixed; boundary="----------=_1097147066-996-884"
+MIME-Version: 1.0
+X-UIDL: >]\"!gao!!8HX"!^N*"!
+
+【 以下文字转载自 Love 讨论区 】
+发信人: rudeman (一个粗线条的男人·富贵不淫威武不屈), 信区: Love
+标  题: 我打算结婚后这样处理家庭经济问题，MM们看如何？
+发信站: 水木社区 (Thu Jun  2 08:47:27 2005), 站内
+我管资产（能带来被动收入的各种投资组合），她管财产（消费）
+每个月我按照我的理财方案，把被动收入一定比例的金额打入她的消费帐户
+每年大家互相通报一次收支情况
+因为我是个投资天才，而我的她应该是个很懂生活的MM
+所以这样各施其长
+当然，我每个月挣的工资当然全部如数上缴，不留一分钱
+MM们看如何？
+

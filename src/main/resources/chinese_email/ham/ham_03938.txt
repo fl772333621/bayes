@@ -1,0 +1,44 @@
+Return-Path: <lian@home.ccert.edu.cn>
+Received: from home.ccert.edu.cn (localhost [127.0.0.1])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id j0L6PtD6021886;
+	Fri, 21 Jan 2005 14:25:55 +0800
+Received: (from majordomo@localhost)
+	by home.ccert.edu.cn (8.13.1/8.13.1/Submit) id j0L6PtNi021885;
+	Fri, 21 Jan 2005 14:25:55 +0800
+X-Authentication-Warning: home.ccert.edu.cn: majordomo set sender to owner-ccertstaff using -f
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id j0L6PtZ9021880
+	for <wu@ccert.edu.cn>; Fri, 21 Jan 2005 14:25:55 +0800
+Received: from WHITESNOW (magnate.ccert.edu.cn [202.112.50.8])
+	(authenticated bits=0)
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id j0L6bcIt019918
+	for <wu@ccert.edu.cn>; Fri, 21 Jan 2005 14:37:39 +0800 (CST)
+Message-ID: <00a301c4ff83$c1eefc40$c50370ca@WHITESNOW>
+From: "lian" <lian@cernet.edu.cn>
+To: wu@ccert.edu.cn
+Subject: =?gb2312?B?UmU6IDU1NTU1o6xHR7P2su67ubK7tb3Su7j21MKjrM7Svs2/7LHAwKPBy35+fg==?=
+Date: Fri, 21 Jan 2005 14:37:57 +0800
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="multipart/alternative";
+	boundary="----=_NextPart_000_009F_01C4FFC6.CCE84C80"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2900.2180
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+Sender: owner-ccertstaff@home.ccert.edu.cn
+Precedence: bulk
+X-UIDL: U+J!!$`A"!+F2!!,e?!!
+
+: 每天发10多条短信，两三天打一次电话，
+: 还是觉得难受，难过，生活看不到希望般
+: 我真tm没用啊，555555，现在一打电话就想哭，搞得GG成天很自责
+: 都说应该专心做点自己的事情，可是现在一堆烦心事，
+: 一做别的事我就心情不好，心情不好就更想GG了
+: 现在觉得那些异地恋的真是太不容易了。。。
+唉,你终于理解了吧....
+: GG还要好几个月才能回来，一想到这个就跟郁闷的跟要死了一样，ft
+: 心情不好，灌灌水
+: 大家还是尽量多多珍惜跟爱人在一起的时光吧
+: 单身的也好好珍惜这种无牵无挂的生活吧
+

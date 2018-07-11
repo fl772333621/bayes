@@ -1,0 +1,55 @@
+Return-Path: <yi@ccert.edu.cn>
+Received: from tsinghua.org.cn ([210.77.143.228])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id i9B7woTI014958
+	for <che@ccert.edu.cn>; Mon, 11 Oct 2004 15:58:52 +0800
+Received: (eyou send program); Mon, 11 Oct 2004 16:09:33 +0800
+Received: (eyou send program); Mon, 11 Oct 2004 16:09:31 +0800
+X-EYOU-ORIGINAL-IP: 166.111.8.16
+X-EYOU-ENVELOPE-MAILFROM: weike@ccert.edu.cn
+Received: from unknown (HELO mails.tsinghua.edu.cn) (unknown@166.111.8.16)
+ by 210.77.143.228 with SMTP; Mon, 11 Oct 2004 16:09:31 +0800
+Received: (eyou send program); Mon, 11 Oct 2004 16:03:25 +0800
+Message-ID: <297481804.23739@mails.tsinghua.edu.cn>
+Received: (eyou send program); Mon, 11 Oct 2004 16:03:24 +0800
+Message-ID: <297481803.07032@mails.tsinghua.edu.cn>
+Received: from unknown (HELO mails.tsinghua.edu.cn) (unknown@127.0.0.1)
+ by 127.0.0.1 with SMTP; Mon, 11 Oct 2004 16:03:24 +0800
+X-scanvirus: By Symantec Scan Engine
+X-scanresult: CLEAN
+Received: (eqmail ); 11 Oct 2004 08:03:21 -0000
+Received: from ccert.edu.cn (HELO home.ccert.edu.cn) (202.112.57.12)
+  by mails.tsinghua.edu.cn with SMTP; 11 Oct 2004 08:03:21 -0000
+Received: from home.ccert.edu.cn (localhost [127.0.0.1])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id i9B7v7Gg014921;
+	Mon, 11 Oct 2004 15:57:07 +0800
+Received: (from majordomo@localhost)
+	by home.ccert.edu.cn (8.13.1/8.13.1/Submit) id i9B7v7f1014920;
+	Mon, 11 Oct 2004 15:57:07 +0800
+X-Authentication-Warning: home.ccert.edu.cn: majordomo set sender to owner-ccertstaff using -f
+Received: from power001 ([202.112.50.103])
+	(authenticated bits=0)
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id i9B7v5wS014916
+	for <che@ccert.edu.cn>; Mon, 11 Oct 2004 15:57:06 +0800
+Message-ID: <00e001c4af69$6d7cd160$673270ca@Power001>
+From: "yi" <yi@ccert.edu.cn>
+To: che@ccert.edu.cn
+Subject: =?gb2312?B?UmU6ILDWsNbO5cquy+rByw==?=
+Date: Mon, 11 Oct 2004 16:07:59 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_00DD_01C4AFAC.7A885FD0"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.3790.181
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.3790.181
+Sender: owner-ccertstaff@home.ccert.edu.cn
+Precedence: bulk
+X-UIDL: (Uh!!eN$"!(m="!Gl3!!
+
+bless
+a happy family
+: 6月28日是爸爸的阳历生日，但是父辈人通常更习惯过阴历的生日。爸爸的生日也就是今天，五月初九。爸爸今天年满五十周岁。
+: 妈妈的五十岁是去年在美国度过的，她回来后给我看了那半个月的日记，包括她生日那天的感触。妈妈的气质比较中性，外表刚强的她其实有一颗期待浪漫而又过于敏感的心，我知道她经常幻想从爸爸手里接过鲜红欲滴的玫瑰。但爸爸实在是个实在的人，对于那种中看不中吃的东西他是绝对不会多投入的（除非是他看中的“古董”，比如花了两千大洋搬来的现在摆在我家电视柜上的那一对据说是光绪年间产的铜鹿）。所以即使我妈给了明示他也装糊涂搪塞过去，甚至开始标榜自己是个多么称职的好男人、好丈夫。
+: 我不知爸爸有什么期待，对于这个五十岁的生日。他只是前一天淡淡地笑着问我想不想第二天一家三口到门口新开的湘菜馆去尝尝口味。我说好哇，您省得下厨了。（注：因为今天爸爸要上一整天班，所以生日改在昨天晚上过了）
+: ...................
+

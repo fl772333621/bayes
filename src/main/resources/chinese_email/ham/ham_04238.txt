@@ -1,0 +1,34 @@
+Return-Path: <zhou@rbl.ccert.edu.cn>
+Received: from rbl.ccert.edu.cn (rbl.ccert.edu.cn [202.112.57.71])
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id i98Cj9wn009544
+	for <hua@ccert.edu.cn>; Fri, 8 Oct 2004 20:45:09 +0800 (CST)
+Received: from rbl.ccert.edu.cn (localhost.localdomain [127.0.0.1])
+	by rbl.ccert.edu.cn (8.12.11/8.12.11) with ESMTP id i98CpB8i026719
+	for <hua@ccert.edu.cn>; Fri, 8 Oct 2004 20:51:12 +0800
+Received: (from qa@localhost)
+	by rbl.ccert.edu.cn (8.12.11/8.12.11/Submit) id i98CpBft026718;
+	Fri, 8 Oct 2004 20:51:11 +0800
+Date: Fri, 8 Oct 2004 20:51:11 +0800
+Message-Id: <200410081251.i98CpBft026718@rbl.ccert.edu.cn>
+Subject: =?gb2312?B?ofEgW9eqyMNdx+W7qtfUtq+7r7rNtee7+tfKwc8=?=
+To: hua@ccert.edu.cn
+From: Tran Quang Anh <zhou@cernet.edu.cn>
+Content-Type: multipart/mixed; boundary="----------=_1097239872-26230-84"
+MIME-Version: 1.0
+X-UIDL: K(j!!TO%!!I&g!!-NW"!
+
+电路原理资料：   电路原理课本---就当送了
+     （自动化和电机）课件（内部本科用）----我花钱买的，有用呀，总结的好。
+                     笔记---以前考生清华辅导班记得，陆文娟老师主讲
+                     本科生用的习题集----我做了3遍，觉得出题思路好
+                     电路典型题解----我看了一下，主要看思路
+                     电路本科生期中期末考试题
+                     电路考研历年试题91年-2000年
+    自控原理资料（复式）：自控原理书---挺贵的，也难，清华本科用的
+                          自控原理习题集----清华自己的，主要做
+                          自控原理本科笔记----可以把握知识体系和范围
+                          自控原理考研近几年的试题
+    
+    以上资料都是我华心血收集买的，特别全。价钱350元，物有所值。
+    如有需要者，请邮箱联系。
+

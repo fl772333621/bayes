@@ -1,0 +1,31 @@
+Return-Path: <peng@mails.tsinghua.edu.cn>
+Received: from mails.tsinghua.edu.cn (mails.tsinghua.edu.cn [166.111.8.16])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id i9J1Qj8f016893
+	for <ke@ccert.edu.cn>; Tue, 19 Oct 2004 09:26:45 +0800 (CST)
+Received: (eyou send program); Tue, 19 Oct 2004 09:21:35 +0800
+Message-ID: <298148895.10563@mails.tsinghua.edu.cn>
+Received: from unknown (HELO mails.tsinghua.edu.cn) (unknown@127.0.0.1)
+ by 127.0.0.1 with SMTP; Tue, 19 Oct 2004 09:21:35 +0800
+X-scanvirus: By Symantec Scan Engine
+X-scanresult: CLEAN
+Received: (eqmail ); 19 Oct 2004 01:21:33 -0000
+Received: from unknown (HELO user-7bkbiq72wz) (dijg01@202.112.50.202)
+  by mails.tsinghua.edu.cn with SMTP; 19 Oct 2004 01:21:33 -0000
+From: "peng" <peng@mails.tsinghua.edu.cn>
+To: ke@ccert.edu.cn
+Subject: Re: 50.20
+X-mailer: Foxmail 4.2 [cn]
+Mime-Version: 1.0
+Content-Type: multipart/alternative;
+      boundary="=====002_Dragon650367105180_====="
+Date: Tue, 19 Oct 2004 9:23:24 +0800
+X-UIDL: V&5!!O[B"!0$6"!-]-"!
+
+不知道为啥，我就是一看这个人的贴就哪都不舒服……
+不知道她是哪个地方的超牛人物
+实在很是不舒服所以就提出来了，得罪了
+: 找工作这种事很难说..比如我是学中文的,毕业后到图书馆工作.什么都不懂现学
+: 后来到银行,简直就是科幻嘛我高考数学才几十分也能进银行.观摩了一个月...经济啊金融什么的一点都不懂
+: 总结就是,所有专业都素垃圾,反正换个文凭权做找工作的通行证.至于干什么，天知道
+: ...................
+

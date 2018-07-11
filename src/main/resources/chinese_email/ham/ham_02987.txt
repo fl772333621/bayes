@@ -1,0 +1,30 @@
+Return-Path: <kong@rbl.ccert.edu.cn>
+Received: from rbl.ccert.edu.cn (rbl.ccert.edu.cn [202.112.57.71])
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id i97Gwnw5022933
+	for <tao@ccert.edu.cn>; Fri, 8 Oct 2004 00:58:49 +0800 (CST)
+Received: from rbl.ccert.edu.cn (localhost.localdomain [127.0.0.1])
+	by rbl.ccert.edu.cn (8.12.11/8.12.11) with ESMTP id i97H4nXS008875
+	for <tao@ccert.edu.cn>; Fri, 8 Oct 2004 01:04:49 +0800
+Received: (from qa@localhost)
+	by rbl.ccert.edu.cn (8.12.11/8.12.11/Submit) id i97H4nVl008874;
+	Fri, 8 Oct 2004 01:04:49 +0800
+Date: Fri, 8 Oct 2004 01:04:49 +0800
+Message-Id: <200410071704.i97H4nVl008874@rbl.ccert.edu.cn>
+Subject: =?gb2312?B?UmU6INK7xqrK3NLmt8vHs7XEzPvX06OsxMPAtNPr1f3U2rfc1b21xMTQzayw+8PHt9bP7aGj?=
+To: tao@ccert.edu.cn
+From: Tran Quang Anh <kong@cernet.edu.cn>
+Content-Type: multipart/mixed; boundary="----------=_1097168689-1044-38"
+MIME-Version: 1.0
+X-UIDL: U/2!!J%A"!Rfo!!5)k"!
+
+ms
+和没看过一样
+里面的方法  
+ -+-
+  |
+-----
+:                     一个女生对男生追求自己喜欢的女生的建议！
+:         我是女生，看到有的男生想追自己喜欢的女孩子又不敢追，还想人家倒追她，我很反感. 
+: 　　    从一个女生的角度，我比较了解女孩子的心理。女孩子大多不会主动出击，去追求自己喜欢的男孩，除了确实太喜欢了或者是那种比较有个性的勇敢的女孩子。所以，如果你很喜欢一个女孩子，并且认为她对你也有点意思，那就主动点，别跟她搞拉锯战，自己难受，说不定你
+: ...................
+

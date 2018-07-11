@@ -1,0 +1,39 @@
+Return-Path: <ke@home.ccert.edu.cn>
+Received: from home.ccert.edu.cn (localhost [127.0.0.1])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id j0M4Vecr025846;
+	Sat, 22 Jan 2005 12:31:40 +0800
+Received: (from majordomo@localhost)
+	by home.ccert.edu.cn (8.13.1/8.13.1/Submit) id j0M4Veqt025845;
+	Sat, 22 Jan 2005 12:31:40 +0800
+X-Authentication-Warning: home.ccert.edu.cn: majordomo set sender to owner-ccertstaff using -f
+Received: from ccertspark (tu203021.ip.tsinghua.edu.cn [166.111.203.21])
+	(authenticated bits=0)
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id j0M4Vd7H025840
+	for <wu@ccert.edu.cn>; Sat, 22 Jan 2005 12:31:40 +0800
+Reply-To: <ke@cernet.edu.cn>
+From: "ke" <ke@ccert.edu.cn>
+To: wu@ccert.edu.cn
+Subject: =?gb2312?B?UmU6ILrDzt7BxM/rsNFtcDO/zLPJY2S48cq9?=
+Date: Sat, 22 Jan 2005 12:41:39 +0800
+Message-ID: <001801c5003c$aa7d3fe0$15cb6fa6@ccertspark>
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+X-Priority: 3 (Normal)
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook, Build 10.0.6626
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.3790.181
+Importance: Normal
+Content-Transfer-Encoding: 8bit
+X-MIME-Autoconverted: from base64 to 8bit by home.ccert.edu.cn id j0M4Ve7H025843
+Sender: owner-ccertstaff@home.ccert.edu.cn
+Precedence: bulk
+X-UIDL: cK'"!3,$"!!3Z!!"J^!!
+
+我打开nero看了看
+刻音频文件就可以将mp3加进去
+ms这样可以
+ps,没有cd没刻过
+: 高手？别寒碜我了，我把Mp3--&gt;CD，很多人都觉得我是怪物
+: 也许media player要检测声卡..... .?我说不清楚，没有用过这种方法.Nero肯定是可以的，还有那个，名字我忘记了，差不多和Nero齐名的东西。也许是media player要声卡？不过不应该啊，Mp3展开成Audio Wav应该不需要声卡的，我不清楚了，不过我想您保证，向党保证用Nero是�
+

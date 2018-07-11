@@ -1,0 +1,45 @@
+Return-Path: <xia@sina.com>
+Received: from sina.com ([219.133.231.199])
+	by home.ccert.edu.cn (MIMEDefang) with ESMTP id NOQUEUE
+	for <tao@ccert.edu.cn>; Fri, 24 Jun 2005 09:27:43 +0800 (CST)
+Message-ID: <200506240927.0.522580234439811@home.ccert.edu.cn>
+From: =?GB2312?B?wO693A==?= <xia@sina.com>
+Subject: =?gb2312?B?wKXC2MjwzahDaXNjb8Xg0bXK7sba7Ku359TCo6E=?=
+To: tao@ccert.edu.cn
+Content-Type: text/html;charset="GB2312"
+Content-Transfer-Encoding: 8bit
+Reply-To: xia@sina.com
+Date: Fri, 24 Jun 2005 09:47:40 +0800
+X-Priority: 3
+X-Mailer: Microsoft Outlook Express 5.00.2919.6700
+
+昆仑瑞通Cisco培训暑期飓风月！
+
+瑞通Cisco培训特色
+
+o	完美的实验设备和实验环境。
+o	一流的教师和教学管理体系。
+这是瑞通每年能够培养近千人次的CCNA学员和上百名CCNP学员的关键所在，超过70%的新学员都是经老学员推荐而来到瑞通学习。试验过程讲师全程陪同，出现问题立刻解决；学习完成后，有关技术和考试的问题讲师将继续答疑。
+o	获得充足的实验是掌握Cisco技术最佳方式
+瑞通Cisco每种课程教学时间均按Cisco标准大纲课时设置，保证学员完成每一个试验。 
+cisco培训夏季优惠活动（5月18日-8月31日期间报名）：
+o	CCNA培训课程
+培训价格：975元 (包含培训费，书费，资料光盘一张)。 
+在校学生价格：825元。
+o	CCNP培训课程
+培训价格：3990元；公费：4290（包含培训费，资料光盘一张，赠送D-link 无线课程）， 
+在校学生价格：3900元（包含培训费，资料光盘一张，赠送D-link 无线课程）。
+o	CCNA+CCNP 直通车
+培训价格：4599元；公费：4899元(包含ccna书费，培训费、资料光盘二张，赠送D-link无线课程)
+在校学生价格：4500元(包含ccna书费，培训费、资料光盘二张，赠送D-link无线课程)
+o	CCNA+D-link无线课程
+培训价格：在CCNA价格基础上+300元（价格包含培训费，2本书费，资料光盘一张）。
+o	CCNA+CCNP+PIX+Wireless+Voice课程
+培训价格：4899元；公费：5199元(包含ccna书费，培训费、资料光盘二张，赠送D-link无线课程)
+在校学生价格：4800元；
+o	PIX+Wireless+Voice 
+培训价格： 600元（包含培训费，资料费）
+
+咨询邮箱:training@easthome.com投诉邮箱：service@easthome.com 
+知春路教学区电话：010-62063330；108(考试) 传真：010-62062212
+

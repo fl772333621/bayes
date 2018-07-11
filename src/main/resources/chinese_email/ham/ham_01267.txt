@@ -1,0 +1,56 @@
+Return-Path: <luo@ns.6test.edu.cn>
+Received: from tsinghua.org.cn ([210.77.143.231])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id j049NH1i018586
+	for <long@ccert.edu.cn>; Tue, 4 Jan 2005 17:23:18 +0800
+Received: (eyou send program); Tue, 04 Jan 2005 17:17:03 +0800
+Received: (eyou send program); Tue, 04 Jan 2005 17:17:03 +0800
+X-EYOU-ORIGINAL-IP: 210.77.143.235
+X-EYOU-ENVELOPE-MAILFROM: toefl-bounces@server.cool-meeting.com
+Received: from unknown (HELO eyou.net) (unknown@210.77.143.235)
+ by 210.77.143.231 with SMTP; Tue, 04 Jan 2005 17:17:03 +0800
+Received: (eyou send program); Tue, 04 Jan 2005 17:31:13 +0800
+Message-ID: <304831073.08417@eyou.net>
+Received: from 202.38.99.65 by 210.77.143.235 with SMTP; Tue, 04 Jan 2005 17:31:09 +0800
+Received: from server.cool-meeting.com (localhost.localdomain [127.0.0.1])
+	by server.cool-meeting.com (8.12.8/8.12.8) with ESMTP id j049xklh031173
+	for <long@ccert.edu.cn>; Tue, 4 Jan 2005 18:00:06 +0800
+Received: from ns.6test.edu.cn ([202.38.99.18])
+	by server.cool-meeting.com (8.12.8/8.12.8) with ESMTP id j049xgkr031169
+	for <long@ccert.edu.cn>; Tue, 4 Jan 2005 17:59:43 +0800
+Received: from tu203096.ip.tsinghua.edu.cn ([166.111.203.96])
+	by ns.6test.edu.cn with asmtp (Exim 4.12) id 1CllaW-0001cQ-00
+	for toefl@server.cool-meeting.com; Tue, 04 Jan 2005 18:06:52 +0800
+Message-ID: <41DA63C2.4020702@ns.6test.edu.cn>
+Date: Tue, 04 Jan 2005 17:37:06 +0800
+From: CHEN Maoke <luo@ns.6test.edu.cn>
+User-Agent: Mozilla Thunderbird 0.9 (Macintosh/20041103)
+X-Accept-Language: en-us, en
+MIME-Version: 1.0
+To: long@ccert.edu.cn
+Content-Type: multipart/mixed; boundary="------------070007000000050107080605"
+Subject: [SPAM] [TOEFL] [Fwd: [Fwd: Fw: =?gb2312?b?0afK9bGouOZdXQ==?=
+X-BeenThere: toefl@server.cool-meeting.com
+X-Mailman-Version: 2.1.2
+Precedence: list
+List-Id: &#26446;&#26143;&#21644;&#20182;&#30340;&#23398;&#29983;&#20204;
+	<toefl.server.cool-meeting.com>
+List-Unsubscribe: <http://server.cool-meeting.com/mailman/listinfo/toefl>,
+	<mailto:toefl-request@server.cool-meeting.com?subject=unsubscribe>
+List-Archive: <http://server.cool-meeting.com/mailman/private/toefl>
+List-Post: <mailto:toefl@server.cool-meeting.com>
+List-Help: <mailto:toefl-request@server.cool-meeting.com?subject=help>
+List-Subscribe: <http://server.cool-meeting.com/mailman/listinfo/toefl>,
+	<mailto:toefl-request@server.cool-meeting.com?subject=subscribe>
+Sender: toefl-bounces@server.cool-meeting.com
+Errors-To: toefl-bounces@server.cool-meeting.com
+X-UIDL: J,Y"!%($"!m:N"!`9)"!
+
+看你们的感情了。如果你的收入还能维持家庭，不要太逼他
+我想他自己也不愿意就这么呆着
+我们一个同事，她LG已经不工作4年了。4年没有收入
+就靠我们同事挣钱。不过他们过得还蛮和谐的
+:  还大打出手，我实在受不了我老公在家里闲呆着，已经7，8个月了。他北京的一位同学不断的努力找工作，前不久工作辞了，现在又找了1份。我让我老公去找一份先干着，他编程能力不行,我就建议他去找一份销售的活干干，别人不同意，想想他93年毕业，到现在已经8个年头，什么
+: 他竟然还说我这样跟他吵伤了他的自尊心，如果他有一天咸鱼翻身，他会好好报复的。
+: 像这样的老公说出这样的话，已经不只一次了，其实我也不怕。我有固定的工作，我吁他做什么，但是他竟然有脸说出这样的话，想想从我研究生毕业到现在3年，我挣的钱都是我们俩花掉的，他这几年同朋友开了家破产公司，还是别个老板投资，每月连基本工资（1200）元都发不到�
+: ...................
+

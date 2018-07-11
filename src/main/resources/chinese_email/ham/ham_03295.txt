@@ -1,0 +1,36 @@
+Return-Path: <yang@mails.tsinghua.edu.cn>
+Received: from mails.tsinghua.edu.cn (mails.tsinghua.edu.cn [166.111.8.16])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id i9I7T8mL029486
+	for <ou@ccert.edu.cn>; Mon, 18 Oct 2004 15:29:08 +0800 (CST)
+Received: (eyou send program); Mon, 18 Oct 2004 15:23:58 +0800
+Message-ID: <298084238.25515@mails.tsinghua.edu.cn>
+Received: from unknown (HELO mails.tsinghua.edu.cn) (unknown@127.0.0.1)
+ by 127.0.0.1 with SMTP; Mon, 18 Oct 2004 15:23:58 +0800
+X-scanvirus: By Symantec Scan Engine
+X-scanresult: CLEAN
+Received: (eqmail ); 18 Oct 2004 07:23:56 -0000
+Received: from tu172241.tsinghua.edu.cn (HELO yfzy) (yang.feng00@166.111.172.241)
+  by mails.tsinghua.edu.cn with SMTP; 18 Oct 2004 07:23:56 -0000
+Message-ID: <000c01c4b4e3$e7186cd0$f1ac6fa6@yfzy>
+From: "yang" <yang@mails.tsinghua.edu.cn>
+To: ou@ccert.edu.cn
+References: <298081525.18815@mails.tsinghua.edu.cn>
+Subject: =?gb2312?B?UmU6INP0w8a1xNDE?=
+Date: Mon, 18 Oct 2004 15:27:18 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0009_01C4B526.F481D2B0"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2600.0000
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2600.0000
+X-UIDL: f>2!!9hg!!680!!_pO!!
+
+何必这样呢？
+单相思最苦了!
+给自己找点事，别去想这件事，心情也许会好一些!
+:       下班已经好久，还是不想回去，宁可在办公室呆着，在家里，没有人等我回去做饭，不喜欢黑漆漆的空空的房间，我害怕。虽然知道知道自己很孤独，很需要爱情，很需要一个可以给我温暖给我关怀的人，但是却没有寻找的激情。
+:       只是自己遇到了一个不该遇到的人，我喜欢上了他，但是他不喜欢我，呵呵，一个很老套的故事。既然不喜欢就算了吧，我安安静静地开始我崭新的生活，可是为什么又时不时地来招惹我呢？我没有抵抗力啊。而最生气的是，跟我在一起，当我提到美女朋友的时候，竟然跟我说把美女朋友介绍给他。真是郁闷。
+:       我很孤独，想开始新生活，可是我真的很烦，我无法开始新生活。
+: ...................
+

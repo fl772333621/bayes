@@ -1,0 +1,35 @@
+Return-Path: <che@tsinghua.edu.cn>
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id iB93VQgh002637
+	for <gao@ccert.edu.cn>; Thu, 9 Dec 2004 11:31:26 +0800 (CST)
+Received: (eyou send program); Thu, 09 Dec 2004 11:15:58 +0800
+Message-ID: <302562158.00953@mail.tsinghua.edu.cn>
+Received: from unknown (HELO mail.tsinghua.edu.cn) (unknown@127.0.0.1)
+ by 127.0.0.1 with SMTP; Thu, 09 Dec 2004 11:15:58 +0800
+X-scanvirus: By Symantec Scan Engine
+X-scanresult: CLEAN
+Received: (eqmail ); 9 Dec 2004 03:15:50 -0000
+Received: from unknown (HELO sony) (duanhx@166.111.204.124)
+  by localhost with SMTP; 9 Dec 2004 03:15:51 -0000
+Message-ID: <00ae01c4dd9f$7ffbe650$7ccc6fa6@sony>
+From: "che" <che@tsinghua.edu.cn>
+To: gao@ccert.edu.cn
+References: <300139677.11246@mail.tsinghua.edu.cn>
+Subject: =?gb2312?B?ofEg0qq0x9awo6y087zSsO/DprP2s/bW99Lio6zQu9C7o6E=?=
+Date: Thu, 9 Dec 2004 11:30:40 +0800
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2900.2180
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+Content-Transfer-Encoding: 8bit
+X-MIME-Autoconverted: from base64 to 8bit by sea.net.edu.cn id iB93VQgh002637
+X-UIDL: Qb=!!A'N"!ZcS"!2Ao"!
+
+    毕业快一年了，现在在一家事业单位（也可以算是国企）工作，做的不是很顺，想辞职。
+    按照三方协议的规定，如果我违约，需向学校交纳违约金6000元整，同时也要向单位交纳，但具体金额要双方协商确定；按照劳动合同的说法，违约金为从现在算起之前一年的工资，同时规定在实习期内可随时通知解除和约，在劳动法里也有这样的说法。
+    我现在的情况比较特殊，只在毕业的时候签了三方协议，本来在来这里之后还要签一份劳动合同，不过现在合同还都在我这里没有签。现在实际上我还处在实习期，不过没有在书面上体现出来。那天我去人事处向人事处副处长询问时，他说我现在要走需要交纳违约金，金额数目是将3万元平均在五年时间里（协议上的服务期为五年），越往后交的越少。
+    不知道各位同仁有没有人碰到过这种情况，请给个建议，谢谢！
+

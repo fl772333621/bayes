@@ -1,0 +1,35 @@
+Return-Path: <zhang@tsinghua.edu.cn>
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id iBMAI150002895
+	for <zheng@ccert.edu.cn>; Wed, 22 Dec 2004 18:18:01 +0800 (CST)
+Received: (eyou send program); Wed, 22 Dec 2004 18:02:35 +0800
+Message-ID: <303709754.11986@mail.tsinghua.edu.cn>
+Received: from unknown (HELO mail.tsinghua.edu.cn) (unknown@127.0.0.1)
+ by 127.0.0.1 with SMTP; Wed, 22 Dec 2004 18:02:35 +0800
+X-scanvirus: By Symantec Scan Engine
+X-scanresult: CLEAN
+Received: (eqmail ); 22 Dec 2004 10:02:33 -0000
+Received: from unknown (HELO sony) (duanhx@202.112.50.213)
+  by localhost with SMTP; 22 Dec 2004 10:02:33 -0000
+Message-ID: <006201c4e80f$8037cab0$d53270ca@sony>
+From: "zhang" <zhang@tsinghua.edu.cn>
+To: zheng@ccert.edu.cn
+Cc: <jin@ccert.edu.cn>
+References: <303684949.22757@mail.tsinghua.edu.cn>
+Subject: =?gb2312?B?UmU6INK7uPbN7cnPyuTBy9X7uPbKwL3no6h6eqOp?=
+Date: Wed, 22 Dec 2004 18:17:52 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_005F_01C4E852.8D851D10"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2900.2180
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+X-UIDL: @9&"!;oo!!02;"!fE#"!
+
+唉，有妻如此，夫复何求
+: 一个晚上我输了整个世界 
+: 我和我老婆，热恋很久以后结婚了。一天，我的要给老婆的买戒指。走进商厦，一看那些琳琅满目的金银首饰，她犹豫了很久，吞吞吐吐地说：“我不要这个，给我买个呼机吧。”    
+:  　那时候，传呼机还是比较新鲜的玩意，价格不比戒指便宜多少。我听了有点意外，因为我知道老婆是有向不赶时髦的。最后，在她的坚持下，我就用买结婚戒指的钱买了一只漂亮的汉显呼机。    
+: ...................
+

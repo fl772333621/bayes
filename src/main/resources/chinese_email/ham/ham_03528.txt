@@ -1,0 +1,46 @@
+Return-Path: <wu@tsinghua.edu.cn>
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id iB93VQgh002637
+	for <zheng@ccert.edu.cn>; Thu, 9 Dec 2004 11:31:26 +0800 (CST)
+Received: (eyou send program); Thu, 09 Dec 2004 11:15:58 +0800
+Message-ID: <302562158.00953@mail.tsinghua.edu.cn>
+Received: from unknown (HELO mail.tsinghua.edu.cn) (unknown@127.0.0.1)
+ by 127.0.0.1 with SMTP; Thu, 09 Dec 2004 11:15:58 +0800
+X-scanvirus: By Symantec Scan Engine
+X-scanresult: CLEAN
+Received: (eqmail ); 9 Dec 2004 03:15:50 -0000
+Received: from unknown (HELO sony) (duanhx@166.111.204.124)
+  by localhost with SMTP; 9 Dec 2004 03:15:51 -0000
+Message-ID: <00ae01c4dd9f$7ffbe650$7ccc6fa6@sony>
+From: "wu" <wu@tsinghua.edu.cn>
+To: zheng@ccert.edu.cn
+References: <300139677.11246@mail.tsinghua.edu.cn>
+Subject: =?gb2312?B?ofEg1tC/xtS619S2r7uvy/nW0Leowaq6z8q10enK0rPPxrjP7sS/w9jK6Q==?=
+Date: Thu, 9 Dec 2004 11:30:40 +0800
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2900.2180
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+Content-Transfer-Encoding: 8bit
+X-MIME-Autoconverted: from base64 to 8bit by sea.net.edu.cn id iB93VQgh002637
+X-UIDL: Qb=!!A'N"!ZcS"!2Ao"!
+
+中科院自动化所中法联合实验室诚聘项目秘书 
+中科院自动化所中法联合实验室为筹备国际学术会议，诚聘项目秘书一名。 
+主要工作为： 
+1.         处理日常英文电子邮件。 
+2.         编排会议论文。 
+3.         会议宣传资料的设计、宣传和发放。 
+4.         负责会议日程及其他具体组织工作。 
+工作时间为2005年7月~2006年11月。 
+要求： 
+1.         较强的英语读、写、听、说的能力。 
+2.         本科以上学历。 
+3.         工作热情主动，善于沟通。 
+专兼均可，薪酬面议。 
+联系人：张老师 
+电子邮件：xpzhang@nlpr.ia.ac.cn
+

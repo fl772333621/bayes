@@ -1,0 +1,32 @@
+Return-Path: <guan@cacs.gov.cn>
+Received: from tsinghua.org.cn ([210.77.143.228])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id i95GbvVg029851
+	for <yang@ccert.edu.cn>; Wed, 6 Oct 2004 00:38:03 +0800
+Date: Wed, 6 Oct 2004 00:37:57 +0800
+Received: (eyou send program); Wed, 06 Oct 2004 00:48:31 +0800
+Received: (eyou send program); Wed, 06 Oct 2004 00:47:30 +0800
+X-EYOU-ORIGINAL-IP: 200.47.79.38
+X-EYOU-ENVELOPE-MAILFROM: zheng954cuib@cacs.gov.cn
+Received: from unknown (HELO tzo-ppal.empresas-yv.com) (unknown@200.47.79.38)
+ by 210.77.143.228 with SMTP; Wed, 06 Oct 2004 00:47:30 +0800
+Received: from cacs.gov.cn ([218.165.110.20]) by tzo-ppal.empresas-yv.com  with Microsoft SMTPSVC(5.5.1877.197.19);
+	 Tue, 5 Oct 2004 02:52:07 -0400
+Received: from unknown (HELO science.net [210.196.74.21])
+          by cacs.gov.cn with SMTP;
+          Tue, 05 Oct 2004 06:39:01 GMT
+Message-Id: <1096958415-@science.net>
+From: "guan" <guan@cacs.gov.cn>
+To: yang@ccert.edu.cn
+Subject: =?gb2312?B?UmU6IHJ1bzIwMDW9473jx+PH6bfuz9ejrLnY09rJz9bc1ffIy8mxyMuzqrjotcS747Go?=
+Sender: zheng.lib
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="----=_NextPart_000_000B_01C4AA53.91190500"
+X-UIDL: +h7"!bAC"!d&G!!g]#"!
+
+: 同志们，朋友们：
+:     大家下午好！今天很高兴大家能欢聚一堂，听俺做这个征友汇报。上周日下午，俺在这里发贴子征集了一批孩子去同一首歌杀人唱歌，今天就给大家做个汇报。总的来说，这次聚会是个成功的聚会，团结的聚会，先进的聚会。在此，俺代表组织中央，代表全体组织人员，向大家发出号召，要将杀人唱歌进行到底，坚持不懈的进行k歌技能的提高教育和杀人心理的素质教育。
+:     我们八个革命同志，本着男女搭配干活不累的原则，精简了活动队伍，调整了男女配比，四男四女的性别比例是俺们活动成功的前提条件。在此后很长一段时间内，我们将坚持这个原则，一百天不变。
+: ...................
+提前报名　３０天后报到不知可否
+

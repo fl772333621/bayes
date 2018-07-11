@@ -1,0 +1,31 @@
+Return-Path: <lu@cernet.edu.cn>
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id i9S2kfXh008523
+	for <gong@ccert.edu.cn>; Thu, 28 Oct 2004 10:46:42 +0800
+Received: from user-7bkbiq72wz ([202.112.50.202])
+	(authenticated bits=0)
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id i9S2wGpu015351
+	for <gong@ccert.edu.cn>; Thu, 28 Oct 2004 10:58:17 +0800 (CST)
+Message-Id: <200410280258.i9S2wGpu015351@sea.net.edu.cn>
+From: "lu" <lu@cernet.edu.cn>
+To: gong@ccert.edu.cn
+Subject: =?GB2312?Q?Fw: =D6=A3=BB=D4=D0=C2=BB=E9=A3=AC=D3=DA=D6=DC=C1=F9=D1=E7=C7=EB=B8=F7=CE=BB=CD=AC=CA=C2=A3=AC=BB=B6=D3=AD=B9=E2=C1=D9?=
+X-mailer: Foxmail 4.2 [cn]
+Mime-Version: 1.0
+Content-Type: text/plain;
+      charset="GB2312"
+Date: Thu, 28 Oct 2004 10:54:54 +0800
+Content-Transfer-Encoding: 8bit
+X-MIME-Autoconverted: from quoted-printable to 8bit by home.ccert.edu.cn id i9S2kfXh008523
+X-UIDL: lF&#!GS6"!,LJ"!$U\"!
+
+没有人会每年都准的吧，我觉得把宝压在点题班上实在很不理智。
+如果确实觉得没底，完全不知道该怎么复习就去虽然上一个强化班，系统的跑一遍好了
+如果心里有数了，去找别人的讲义来对照着红宝书看就好了
+如果到最后也还是心里没底，就去上个冲刺班，实际作用很有限，也就是个心理作用
+罢了，不要太相信那些压题的就行了
+: 都差不多
+: 总感觉没一个政治班是物有所值的,对不起那么高的费用
+: 先自己看吧,实在想上就最后上可赵宇的点题班吧
+: ...................
+

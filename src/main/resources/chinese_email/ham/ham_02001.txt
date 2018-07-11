@@ -1,0 +1,61 @@
+Return-Path: <xin@ns.6test.edu.cn>
+Received: from tsinghua.org.cn ([210.77.143.231])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id iBU8Or8Y021247
+	for <pan@ccert.edu.cn>; Thu, 30 Dec 2004 16:24:55 +0800
+Received: (eyou send program); Thu, 30 Dec 2004 16:18:33 +0800
+Received: (eyou send program); Thu, 30 Dec 2004 16:18:33 +0800
+X-EYOU-ORIGINAL-IP: 210.77.143.235
+X-EYOU-ENVELOPE-MAILFROM: toefl-bounces@server.cool-meeting.com
+Received: from unknown (HELO eyou.net) (unknown@210.77.143.235)
+ by 210.77.143.231 with SMTP; Thu, 30 Dec 2004 16:18:33 +0800
+Received: (eyou send program); Thu, 30 Dec 2004 16:32:53 +0800
+Message-ID: <304395573.06171@eyou.net>
+Received: from 202.38.99.65 by 210.77.143.235 with SMTP; Thu, 30 Dec 2004 16:32:48 +0800
+Received: from server.cool-meeting.com (localhost.localdomain [127.0.0.1])
+	by server.cool-meeting.com (8.12.8/8.12.8) with ESMTP id iBU90TlY022770
+	for <pan@ccert.edu.cn>; Thu, 30 Dec 2004 17:00:35 +0800
+Received: from ns.6test.edu.cn ([202.38.99.18])
+	by server.cool-meeting.com (8.12.8/8.12.8) with ESMTP id iBU90Mkr022766
+	for <pan@ccert.edu.cn>; Thu, 30 Dec 2004 17:00:22 +0800
+Received: from tu066132.tsinghua.edu.cn ([166.111.66.132] helo=kaka)
+	by ns.6test.edu.cn with asmtp (Exim 4.12) id 1CjwHI-000G11-00
+	for Toefl@server.cool-meeting.com; Thu, 30 Dec 2004 17:07:28 +0800
+Date: Thu, 30 Dec 2004 16:38:46 +0800
+From: "xin" <xin@ns.6test.edu.cn>
+To: pan@ccert.edu.cn
+X-mailer: Foxmail 5.0 [cn]
+Mime-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Message-Id: <E1CjwHI-000G11-00@ns.6test.edu.cn>
+Content-Transfer-Encoding: 8bit
+X-MIME-Autoconverted: from base64 to 8bit by server.cool-meeting.com id
+	iBU90Mkr022766
+Cc: 
+Subject: =?gb2312?B?UmU6IMrHz7LKx9PHo78=?=
+X-BeenThere: toefl@server.cool-meeting.com
+X-Mailman-Version: 2.1.2
+Precedence: list
+List-Id: &#26446;&#26143;&#21644;&#20182;&#30340;&#23398;&#29983;&#20204;
+	<toefl.server.cool-meeting.com>
+List-Unsubscribe: <http://server.cool-meeting.com/mailman/listinfo/toefl>,
+	<mailto:toefl-request@server.cool-meeting.com?subject=unsubscribe>
+List-Archive: <http://server.cool-meeting.com/mailman/private/toefl>
+List-Post: <mailto:toefl@server.cool-meeting.com>
+List-Help: <mailto:toefl-request@server.cool-meeting.com?subject=help>
+List-Subscribe: <http://server.cool-meeting.com/mailman/listinfo/toefl>,
+	<mailto:toefl-request@server.cool-meeting.com?subject=subscribe>
+Sender: toefl-bounces@server.cool-meeting.com
+Errors-To: toefl-bounces@server.cool-meeting.com
+X-UIDL: m!$#!Z$\"!O8N"!#eE!!
+
+把翻译当作兼职还行
+你第一份工作已经做了化工研发
+第二份工作恐怕难跳别的方面
+不用想了，使劲投简历吧
+如果你想转行，那么也就投着试试
+: 最近觉得不太顺。
+:    去年3月硕士毕业，学的化学，由于考博等原因，直到6月份才工作，先在一家医药公司呆了一周，觉得工作环境太差，没签协议走人。接着过一周找到了后来的工作，是一环保设备公司，当时自己感觉很有前途。
+:    公司是新成立不久，后来由于领导层矛盾，变故迭出。不管怎样，后来户档都定了。5月份，公司的主要技术持有人，同时兼研发主管，在权利斗争中失败被开除，作为他重视的部门－－研发部，不到一个月后被撤销，同时，研发部人员被辞退，我也是其中之一。虽然在
+: ...................
+

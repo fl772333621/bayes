@@ -1,0 +1,34 @@
+Return-Path: <lei@cernet.edu.cn>
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id j090DOPn016153
+	for <ling@ccert.edu.cn>; Sun, 9 Jan 2005 08:13:39 +0800
+Received: from smart ([61.149.117.178])
+	(authenticated bits=0)
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id j090PIHi014233
+	for <ling@ccert.edu.cn>; Sun, 9 Jan 2005 08:25:18 +0800 (CST)
+From: "lei" <lei@cernet.edu.cn>
+To: ling@ccert.edu.cn
+Subject: =?gb2312?B?ofEgv+zA1rXEtqjS5Q==?=
+Date: Sun, 9 Jan 2005 08:28:16 +0800
+Message-ID: <NCEFLGKAPJDDOEBLPPNLOEJFCFAA.zhang@cernet.edu.cn>
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+X-Priority: 3 (Normal)
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook IMO, Build 9.0.6604 (9.0.2911.0)
+In-Reply-To: <000801c4f4b7$726f0f10$e800510a@CCERTDAWEI>
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1441
+Importance: Normal
+Content-Transfer-Encoding: 8bit
+X-MIME-Autoconverted: from base64 to 8bit by home.ccert.edu.cn id j090DOPn016153
+X-UIDL: /6:"!VkB!!n*0!!9`U"!
+
+早晨上班的路上，会看到许多忙忙碌碌的人，他们快乐吗？
+日落下班的路上，还是会有忙忙碌碌的人，他们快乐吗？
+在我的周围，我的身边，我的朋友们，都在忙碌着，他们快乐吗？
+我远在他乡的父母，在工作岗位上忙碌着，他们二老快乐吗？
+快乐是什么？也许是匆忙中不经意的一句对不起，又或许是一声轻柔的问候，或者是一个浅浅的微笑，和电话那头的倾诉……
+快乐，只要你心中有这个词的存在，只要你脑海中有这个词的定义，那么，快乐就在你的身边，在你不经意的一个时间，空间，调皮得出来造访你，让你在惊喜中体验着快乐的滋味，一个字，美，哈哈哈哈啊哈哈哈哈哈哈哈哈哈哈……
+何必想着不快乐？让我们都快乐起来吧，嘿嘿
+

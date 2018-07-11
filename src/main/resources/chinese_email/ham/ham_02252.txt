@@ -1,0 +1,39 @@
+Return-Path: <pan@rbl.ccert.edu.cn>
+Received: from rbl.ccert.edu.cn (rbl.ccert.edu.cn [202.112.57.71])
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id i98CHgrc009240
+	for <xu@ccert.edu.cn>; Fri, 8 Oct 2004 20:17:43 +0800 (CST)
+Received: from rbl.ccert.edu.cn (localhost.localdomain [127.0.0.1])
+	by rbl.ccert.edu.cn (8.12.11/8.12.11) with ESMTP id i98CNitF021680
+	for <xu@ccert.edu.cn>; Fri, 8 Oct 2004 20:23:45 +0800
+Received: (from qa@localhost)
+	by rbl.ccert.edu.cn (8.12.11/8.12.11/Submit) id i98CNijL021679;
+	Fri, 8 Oct 2004 20:23:44 +0800
+Date: Fri, 8 Oct 2004 20:23:44 +0800
+Message-Id: <200410081223.i98CNijL021679@rbl.ccert.edu.cn>
+Subject: =?gb2312?B?ofEg1PXDtLbByumjrLbByrLDtMrpus3XrMeuu/mxvsnPw7u52M+1?=
+To: xu@ccert.edu.cn
+From: Tran Quang Anh <pan@cernet.edu.cn>
+Content-Type: multipart/mixed; boundary="----------=_1097238225-26230-36"
+MIME-Version: 1.0
+X-UIDL: %Eh!!U0,!!8aS"!!Sn"!
+
+什么叫有钱？靠读书，靠学校，靠专业基本上不会成为有钱人。
+楼主认为应该去北邮读通信，那不用举盖茨的例子，就举国内通信行业的例子。华为老板重庆某二流大学，没毕业证。现在掌管年销售400多亿的公司。而北邮通信的学生去深圳也只是打工仔，在深圳可以供供楼，好点的养养车。其收入不见得比深圳本地农民多。
+赚钱是必须的，读书也是必须的。怎么读书，读什么书和赚钱基本上没关系。
+再举例：2004福布斯大陆富豪榜
+荣智健：天津大学 
+黄光裕：中国人民大学一分院（请人大兄弟解释一下） 
+陈天桥：复旦大学 经济系本科
+许荣茂：不祥，但个人简介中有这句话“选择了中医”
+鲁冠球：初中
+丁磊：  成都电子科技大学 
+刘永好：大专文化
+杜厦：　南京大学硕士
+朱孟依: 高中 
+刘永行: 大学(具体不祥) 
+至于其他娱乐界，体育界的例子就不举了。
+: 看那么多人问，很想跟大家一起探讨一下，欢迎拍砖，当然，反对谩骂。
+: 感觉这个东西跟job很有关系，好的学校加专业是找到一个好工作的开始，所以发在这，希望斑竹别珊。
+: 读了四年，考了半年研，找了半年工作的一些感想。
+: ...................
+

@@ -1,0 +1,39 @@
+Return-Path: <zeng@mail.tsinghua.edu.cn>
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id iB34mMwG021613
+	for <yi@ccert.edu.cn>; Fri, 3 Dec 2004 12:48:22 +0800 (CST)
+Received: (eyou send program); Fri, 03 Dec 2004 12:33:12 +0800
+Message-ID: <302048392.14203@mail.tsinghua.edu.cn>
+Received: from unknown (HELO mail.tsinghua.edu.cn) (unknown@127.0.0.1)
+ by 127.0.0.1 with SMTP; Fri, 03 Dec 2004 12:33:12 +0800
+X-scanvirus: By Symantec Scan Engine
+X-scanresult: CLEAN
+Received: (eqmail ); 3 Dec 2004 04:33:11 -0000
+Received: from unknown (HELO yinqi) (yinqi@166.111.12.243)
+  by localhost with SMTP; 3 Dec 2004 04:33:11 -0000
+Message-ID: <002b01c4d8f3$c58aff90$f30c6fa6@yinqi>
+From: "zeng" <zeng@mail.tsinghua.edu.cn>
+To: yi@ccert.edu.cn
+References: <302041587.17916@mail.tsinghua.edu.cn>
+Subject: =?gb2312?B?UmU6INbQw8DLsMLKsci9zw==?=
+Date: Fri, 3 Dec 2004 12:51:36 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0028_01C4D936.D2FB6A50"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 5.50.4927.1200
+X-MimeOLE: Produced By Microsoft MimeOLE V5.50.4927.1200
+X-UIDL: NA%#!/21"!>V)#!5Za"!
+
+但是可以退回大部分，在第二年file tax return之后。美国基本上也是由公司代为
+扣税，但是比中国多了很多可以返回的途径。文中所说基本是事实。
+我觉得比较合理的是
+1. 按dependents多少有不同减免，避免了一个人收入10000自己花和同样收入养2个孩子
+两个老人扣税一样的不合理。
+2. mortage，月供可以不计入taxable income,鼓励home ownship. 比如税前收入一万，供房2000，那么taxable income最多10000-2000.
+3. 慈善捐赠抵税，比如我捐了一辆自行车给福利院，我的年taxable income就要减去车价。
+不过中国什么假证明都能开，很怀疑能否在中国行的通，因为美国税务局IRS基本也是不核实的，只是抽查，否则行政成本太大。
+: 对美国的具体税制不了解
+: 但是我知道留学生每月1000多的奖学金也要交税,虽然不多
+

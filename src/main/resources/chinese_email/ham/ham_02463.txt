@@ -1,0 +1,29 @@
+Return-Path: <tu@rbl.ccert.edu.cn>
+Received: from rbl.ccert.edu.cn (rbl.ccert.edu.cn [202.112.57.71])
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id i9B7FL3k000990
+	for <shen@ccert.edu.cn>; Mon, 11 Oct 2004 15:15:21 +0800 (CST)
+Received: from rbl.ccert.edu.cn (localhost.localdomain [127.0.0.1])
+	by rbl.ccert.edu.cn (8.12.11/8.12.11) with ESMTP id i9B7KdVh000450
+	for <shen@ccert.edu.cn>; Mon, 11 Oct 2004 15:20:40 +0800
+Received: (from qa@localhost)
+	by rbl.ccert.edu.cn (8.12.11/8.12.11/Submit) id i9B7KdP6000449;
+	Mon, 11 Oct 2004 15:20:39 +0800
+Date: Mon, 11 Oct 2004 15:20:39 +0800
+Message-Id: <200410110720.i9B7KdP6000449@rbl.ccert.edu.cn>
+Subject: =?gb2312?B?ofEgvLHV0Ma4tPPRp7HP0rXFrsn6o6jX7rrDyse/vMnP0dC+v8n6tcSxz9K1yfqjqQ==?=
+To: shen@ccert.edu.cn
+From: Tran Quang Anh <tu@cernet.edu.cn>
+Content-Type: multipart/mixed; boundary="----------=_1097479240-1014-104"
+MIME-Version: 1.0
+X-UIDL: p2N!!\W*"!8'\"!fc-!!
+
+一房屋租赁公司即将成立，现急聘如下人员：
+（本公司原则：勤劳为本，诚信做人。出租房屋不收取任何中介费用）
+帐务及带人看房：2名，要求最好是大学毕业已经考上研究生的女生，时间充沛，诚实守信，形象端正，善于与人交流，爱好干净整洁，最好会骑自行车。
+工作内容：公司配一个小灵通，主要就是接电话，介绍房子情况，约个时间带人看房。工作时间，工作地点自己灵活安排，要求必须随时都能接电话，公司也提供办公场所，可以上网，有空调！
+工作地点：一般在北航，清华大学附近
+基本工资：500元/月＋提成（提成利润的20％到40％），
+联系电话：62311656  67431817
+对于已经毕业的学生，可以解决夏天的住宿，安排住带空调的宿舍！
+对于大学毕业到研究生开学这段时间没有什么事情可做的朋友，这对你是一个不错的选择，不但可以自己挣学费，还可以认识很多新的朋友。
+

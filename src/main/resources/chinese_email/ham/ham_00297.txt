@@ -1,0 +1,26 @@
+Return-Path: <zhong@rbl.ccert.edu.cn>
+Received: from rbl.ccert.edu.cn (rbl.ccert.edu.cn [202.112.57.71])
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id i98CHeIY009237
+	for <xin@ccert.edu.cn>; Fri, 8 Oct 2004 20:17:41 +0800 (CST)
+Received: from rbl.ccert.edu.cn (localhost.localdomain [127.0.0.1])
+	by rbl.ccert.edu.cn (8.12.11/8.12.11) with ESMTP id i98CNgjp021658
+	for <xin@ccert.edu.cn>; Fri, 8 Oct 2004 20:23:43 +0800
+Received: (from qa@localhost)
+	by rbl.ccert.edu.cn (8.12.11/8.12.11/Submit) id i98CNgm0021657;
+	Fri, 8 Oct 2004 20:23:42 +0800
+Date: Fri, 8 Oct 2004 20:23:42 +0800
+Message-Id: <200410081223.i98CNgm0021657@rbl.ccert.edu.cn>
+Subject: =?gb2312?B?UmU6IL3xzOzX9re5tcT03MrC?=
+To: xin@ccert.edu.cn
+From: Tran Quang Anh <zhong@cernet.edu.cn>
+Content-Type: multipart/mixed; boundary="----------=_1097238223-26230-30"
+MIME-Version: 1.0
+X-UIDL: 0Ei"!Q9A!!ko-"!~Q6!!
+
+要想不累，可以煮速冻水饺
+或者多做点米饭，炒个大份尖椒土豆丝或者什么下饭的
+: LG的三个同学过来玩，本来说是只吃中午饭的，就决定去外面吃。结果午饭吃完了，打牌到晚上，还得做晚饭，累阿
+: 冰箱里有冰冻虾仁，已经用过一次，做青椒炒虾仁，做得比较失败，因为冰虾仁毕竟不是鲜虾仁，有股腥味，而且包装上号称已经去了泥肠，拣出来一只只被上还是有黑色的线。为了避免腥味，决定做个味道重一点的。想起《贝太厨房》上看过的椒盐虾仁，貌似味道重重的样子，于是
+: 首先是去泥肠。一只只扒垃，弄了大半天。本来想晾干之后直接炸，想想这样晾不知道啥时候才会干，又没有厨房吸水纸用，干脆用鸡蛋清和淀粉拌了，放一边备用。
+: ...................
+

@@ -1,0 +1,64 @@
+Return-Path: <xie@ccert.edu.cn>
+Received: from tsinghua.org.cn ([210.77.143.231])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id iBSABAro021781
+	for <gong@ccert.edu.cn>; Tue, 28 Dec 2004 18:11:17 +0800
+Received: (eyou send program); Tue, 28 Dec 2004 18:04:42 +0800
+Received: (eyou send program); Tue, 28 Dec 2004 18:04:42 +0800
+X-EYOU-ORIGINAL-IP: 210.77.143.235
+X-EYOU-ENVELOPE-MAILFROM: zhenghui@ccert.edu.cn
+Received: from unknown (HELO eyou.net) (unknown@210.77.143.235)
+ by 210.77.143.231 with SMTP; Tue, 28 Dec 2004 18:04:42 +0800
+Received: (eyou send program); Tue, 28 Dec 2004 18:19:06 +0800
+Message-ID: <304229146.14300@eyou.net>
+Received: from 166.111.8.16 by 210.77.143.235 with SMTP; Tue, 28 Dec 2004 18:19:01 +0800
+Received: (eyou send program); Tue, 28 Dec 2004 18:19:42 +0800
+Message-ID: <304229182.17380@mails.tsinghua.edu.cn>
+Received: (eyou send program); Tue, 28 Dec 2004 18:19:42 +0800
+Message-ID: <304229182.09876@mails.tsinghua.edu.cn>
+Received: from unknown (HELO mails.tsinghua.edu.cn) (unknown@127.0.0.1)
+ by 127.0.0.1 with SMTP; Tue, 28 Dec 2004 18:19:42 +0800
+X-scanvirus: By Symantec Scan Engine
+X-scanresult: CLEAN
+X-Received: unknown,202.112.57.12,20041228181940
+Received: from unknown (HELO home.ccert.edu.cn) (202.112.57.12)
+  by localhost with SMTP; 28 Dec 2004 10:19:40 -0000
+Received: from home.ccert.edu.cn (localhost [127.0.0.1])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id iBSA2VS2021583;
+	Tue, 28 Dec 2004 18:02:36 +0800
+Received: (from majordomo@localhost)
+	by home.ccert.edu.cn (8.13.1/8.13.1/Submit) id iBSA2UgJ021582;
+	Tue, 28 Dec 2004 18:02:30 +0800
+X-Authentication-Warning: home.ccert.edu.cn: majordomo set sender to owner-ccertstaff using -f
+Received: from ccertspark (tu203021.tsinghua.edu.cn [166.111.203.21])
+	(authenticated bits=0)
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id iBSA2FKX021569
+	for <gong@ccert.edu.cn>; Tue, 28 Dec 2004 18:02:20 +0800
+Reply-To: <xie@cernet.edu.cn>
+From: "xie" <xie@ccert.edu.cn>
+To: gong@ccert.edu.cn
+Subject: =?gb2312?B?UmU6INC0uPjSqszuuN+/vNa+1Li1xMjLw8ejrLzmzLi149DQ0rW/tLeooaM=?=
+Date: Tue, 28 Dec 2004 18:14:39 +0800
+Message-ID: <000701c4ecc6$136125b0$15cb6fa6@ccertspark>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0008_01C4ED09.218465B0"
+X-Priority: 3 (Normal)
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook, Build 10.0.6626
+Importance: Normal
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.3790.181
+Sender: owner-ccertstaff@home.ccert.edu.cn
+Precedence: bulk
+X-UIDL: ,>*!!>;!#!nje!!nFZ"!
+
+你试的前提是什么？ 还不是看别人的评价，你的感觉来得信息啊
+回到你前面的话题就是，不要看起点，要看加速度，前提是，你能保证你能获得加
+速度。 很多人都把后面那句话藏起来了，用前面的话给自己做借口....
+试是要试的，但不是乱的。是有选择和有目标的。这里大多数根本就没有离开过学
+校，见过社会，他们拿什么去赌博？ 就拿他们的理想和激情？代价太大了。
+我一直希望能有个版面给工作过的人讨论选业问题的版面，不是worklife版，那里
+已经变成垃圾了。 在学校里的学生的思维和出来工作过的人的思维（不包括始终做
+研发工作的人）完全差别的可以放野猪了
+: 不去试怎么知道不可以：）人生那个选择不是在赌呢？
+: 要是不多下点赌注，可是赢不了多少的
+

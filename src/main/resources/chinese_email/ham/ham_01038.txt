@@ -1,0 +1,54 @@
+Return-Path: <pan@ccert.edu.cn>
+Received: from tsinghua.org.cn ([210.77.143.228])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id i9L8pXqV015743
+	for <bai@ccert.edu.cn>; Thu, 21 Oct 2004 16:51:56 +0800
+Received: (eyou send program); Thu, 21 Oct 2004 17:02:40 +0800
+Received: (eyou send program); Thu, 21 Oct 2004 17:02:33 +0800
+X-EYOU-ORIGINAL-IP: 166.111.8.16
+X-EYOU-ENVELOPE-MAILFROM: starry@ccert.edu.cn
+Received: from unknown (HELO mails.tsinghua.edu.cn) (unknown@166.111.8.16)
+ by 210.77.143.228 with SMTP; Thu, 21 Oct 2004 17:02:33 +0800
+Received: (eyou send program); Thu, 21 Oct 2004 16:56:24 +0800
+Message-ID: <298348984.08384@mails.tsinghua.edu.cn>
+Received: (eyou send program); Thu, 21 Oct 2004 16:56:23 +0800
+Message-ID: <298348983.21557@mails.tsinghua.edu.cn>
+Received: from unknown (HELO mails.tsinghua.edu.cn) (unknown@127.0.0.1)
+ by 127.0.0.1 with SMTP; Thu, 21 Oct 2004 16:56:23 +0800
+X-scanvirus: By Symantec Scan Engine
+X-scanresult: CLEAN
+Received: (eqmail ); 21 Oct 2004 08:56:13 -0000
+Received: from ccert.edu.cn (HELO home.ccert.edu.cn) (202.112.57.12)
+  by mails.tsinghua.edu.cn with SMTP; 21 Oct 2004 08:56:13 -0000
+Received: from home.ccert.edu.cn (localhost [127.0.0.1])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id i9L8mH1v015704;
+	Thu, 21 Oct 2004 16:48:17 +0800
+Received: (from majordomo@localhost)
+	by home.ccert.edu.cn (8.13.1/8.13.1/Submit) id i9L8mH9G015703;
+	Thu, 21 Oct 2004 16:48:17 +0800
+X-Authentication-Warning: home.ccert.edu.cn: majordomo set sender to owner-ccertstaff using -f
+Received: from starry ([202.112.50.191])
+	(authenticated bits=0)
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id i9L8m9jr015698;
+	Thu, 21 Oct 2004 16:48:11 +0800
+Message-Id: <200410210848.i9L8m9jr015698@home.ccert.edu.cn>
+Date: Thu, 21 Oct 2004 16:59:09 +0800
+From: "pan" <pan@ccert.edu.cn>
+To: bai@ccert.edu.cn
+Cc: "ccertstaff" <hong@ccert.edu.cn>
+Subject: =?gb2312?B?ofEgvLHGuL38xtrXqNawLm5ldL+qt6LIy9Sxo6y/yb3ivvaxsb6pu6e/2g==?=
+X-mailer: Foxmail 5.0 [cn]
+Mime-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: 8bit
+X-MIME-Autoconverted: from base64 to 8bit by home.ccert.edu.cn id i9L8mHjr015700
+Sender: owner-ccertstaff@home.ccert.edu.cn
+Precedence: bulk
+X-UIDL: fYW!!1[1"!TZk!!]-`!!
+
+需要.net熟手，有丰富的项目经验，至少独立做过万行以上的项目。项目要求c#+SQL server，C/s架构,要求熟悉.net remoting
+要求近期时间有保证,每周能保证50小时以上的开发时间,项目大约1.5个月左右.当然最好是专职,如果是应届硕士毕业生,可以解决北京户口.
+开发人员最好是海淀周边高校毕业生或在校生,外地如可以来北京开发,可以考虑.
+由于时间很紧,不欢迎项目经理和中介.
+直接谈13366662377 或者发个人简介litetech at 163.com
+

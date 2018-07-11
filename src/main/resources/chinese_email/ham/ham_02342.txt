@@ -1,0 +1,75 @@
+Return-Path: <ling@ccert.edu.cn>
+Received: from tsinghua.org.cn ([210.77.143.231])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id iBT9LrZ4024088
+	for <ke@ccert.edu.cn>; Wed, 29 Dec 2004 17:21:54 +0800
+Received: (eyou send program); Wed, 29 Dec 2004 17:15:31 +0800
+Received: (eyou send program); Wed, 29 Dec 2004 17:15:31 +0800
+X-EYOU-ORIGINAL-IP: 210.77.143.235
+X-EYOU-ENVELOPE-MAILFROM: zhenghui@ccert.edu.cn
+Received: from unknown (HELO eyou.net) (unknown@210.77.143.235)
+ by 210.77.143.231 with SMTP; Wed, 29 Dec 2004 17:15:31 +0800
+Received: (eyou send program); Wed, 29 Dec 2004 17:29:53 +0800
+Message-ID: <304312593.25397@eyou.net>
+Received: from 166.111.8.16 by 210.77.143.235 with SMTP; Wed, 29 Dec 2004 17:29:48 +0800
+Received: (eyou send program); Wed, 29 Dec 2004 17:30:35 +0800
+Message-ID: <304312635.14756@mails.tsinghua.edu.cn>
+Received: (eyou send program); Wed, 29 Dec 2004 17:30:34 +0800
+Message-ID: <304312634.94835@mails.tsinghua.edu.cn>
+Received: from unknown (HELO mails.tsinghua.edu.cn) (unknown@127.0.0.1)
+ by 127.0.0.1 with SMTP; Wed, 29 Dec 2004 17:30:34 +0800
+X-scanvirus: By Symantec Scan Engine
+X-scanresult: CLEAN
+X-Received: ccert.edu.cn,202.112.57.12,20041229173027
+Received: from ccert.edu.cn (HELO home.ccert.edu.cn) (202.112.57.12)
+  by localhost with SMTP; 29 Dec 2004 09:30:27 -0000
+Received: from home.ccert.edu.cn (localhost [127.0.0.1])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id iBT8ja0k023431;
+	Wed, 29 Dec 2004 16:45:36 +0800
+Received: (from majordomo@localhost)
+	by home.ccert.edu.cn (8.13.1/8.13.1/Submit) id iBT8jaKH023430;
+	Wed, 29 Dec 2004 16:45:36 +0800
+X-Authentication-Warning: home.ccert.edu.cn: majordomo set sender to owner-ccert_forum using -f
+Received: from ccertspark (tu203021.tsinghua.edu.cn [166.111.203.21])
+	(authenticated bits=0)
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id iBT8jZLV023426
+	for <ke@ccert.edu.cn>; Wed, 29 Dec 2004 16:45:35 +0800
+Reply-To: <ling@cernet.edu.cn>
+From: "ling" <ling@ccert.edu.cn>
+To: ke@ccert.edu.cn
+Subject: =?gb2312?B?ofEgttTT2s3BtrnRv9fTtcS2vtDUztK8x9Lkye6/zCAo16rU2Ck=?=
+Date: Wed, 29 Dec 2004 16:58:12 +0800
+Message-ID: <001d01c4ed84$86b26240$15cb6fa6@ccertspark>
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="----=_NextPart_000_001E_01C4EDC7.94D5A240"
+X-Priority: 3 (Normal)
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook, Build 10.0.6626
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.3790.181
+Importance: Normal
+Sender: owner-ccert_forum@home.ccert.edu.cn
+Precedence: bulk
+X-UIDL: nUE"!a\4!!Cn7"!C<1"!
+
+【 以下文字转载自 Food 讨论区 】
+发信人: mcbroom (一一~重塑健康生活方式), 信区: Food
+标  题: 对于土豆芽子的毒性我记忆深刻
+发信站: 水木社区 (Sat Jun 11 23:03:03 2005), 站内
+   在大连有句话叫：“苞米面肚子，料子裤子”，说的是一些人
+宁肯在吃的上面亏待自己，也要打扮的光鲜入时，也要把钱花在
+那些能让自己虚荣一把的地方。
+   我有个亲戚，娶了个老婆，人挺漂亮，爱打扮爱跳舞，就是喜
+欢把钱花在衣服上和打扮上，我那个亲戚也总是把有限工资花在了
+电器大件的置办上了。那位亲戚得过白血病，已经痊愈出院了，3年
+都没什么事了。有一天从外面回到家里，饿得不行，到处找东西吃，
+最后只在冰箱找到了两个长了芽子的土豆，蒸了就吃了。结果是白
+血病复发，半年后去世了。
+   这是发生在80年代末的事情，在工资总量不高的情况下，很多人
+不得不降低饮食支出，而我家里总是把有限的收入尽可能保证营养饮
+食的摄入。当然现在大家收入水平都比较高了，不至于为了料子裤子
+而苞米面肚子，但健康、美食是生活第一要事永不能变啊！
+: 我记得好像土豆发芽有毒
+: 不知道洋芋，蒜的芽也有毒
+: 请各位JJ大侠解惑
+: ...................
+

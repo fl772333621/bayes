@@ -1,0 +1,26 @@
+Return-Path: <han@rbl.ccert.edu.cn>
+Received: from rbl.ccert.edu.cn (rbl.ccert.edu.cn [202.112.57.71])
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id i96JdKfx009134
+	for <ma@ccert.edu.cn>; Thu, 7 Oct 2004 03:39:20 +0800 (CST)
+Received: from rbl.ccert.edu.cn (localhost.localdomain [127.0.0.1])
+	by rbl.ccert.edu.cn (8.12.11/8.12.11) with ESMTP id i96JjEA4005439
+	for <ma@ccert.edu.cn>; Thu, 7 Oct 2004 03:45:14 +0800
+Received: (from qa@localhost)
+	by rbl.ccert.edu.cn (8.12.11/8.12.11/Submit) id i96JjE1X005438;
+	Thu, 7 Oct 2004 03:45:14 +0800
+Date: Thu, 7 Oct 2004 03:45:14 +0800
+Message-Id: <200410061945.i96JjE1X005438@rbl.ccert.edu.cn>
+Subject: =?gb2312?B?UmU6ILvYuem80s2lo6zRp8+wyfq77qGqoarWo9Kyt/K9zMraMjAwNMTqMTHUwjfI1dTa1tC7qsWu
+19M=?=
+To: ma@ccert.edu.cn
+From: Tran Quang Anh <han@cernet.edu.cn>
+Content-Type: multipart/mixed; boundary="----------=_1097091914-996-706"
+MIME-Version: 1.0
+X-UIDL: \U:"!pfk!!,^O!!=>i"!
+
+老实讲。。太长了
+:                                 回归家庭，学习生活
+:                           ——2004年11月7日在中华女子学院的演讲   
+: 　　各位同学，各位朋友，晚上好！今天的演讲是专门为大家准备的，也就是说不打算重复我以前所做过的任何一场演讲。所以这么做，一个是我自己性格的原因，我觉得重复一件事情在智力上没有挑战性，没趣味，所以我的课程基本上教过三遍就不再教了，我要求自己不断迎接智力
+: ...................
+

@@ -1,0 +1,58 @@
+Return-Path: <zhong@mails.tsinghua.edu.cn>
+Received: from mails.tsinghua.edu.cn (mails.tsinghua.edu.cn [166.111.8.16])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id iAN38nvL025613
+	for <tao@ccert.edu.cn>; Tue, 23 Nov 2004 11:08:49 +0800 (CST)
+Received: (eyou send program); Tue, 23 Nov 2004 11:03:31 +0800
+Message-ID: <301179011.12246@mails.tsinghua.edu.cn>
+Received: from unknown (HELO mails.tsinghua.edu.cn) (unknown@127.0.0.1)
+ by 127.0.0.1 with SMTP; Tue, 23 Nov 2004 11:03:31 +0800
+X-scanvirus: By Symantec Scan Engine
+X-scanresult: CLEAN
+Received: (eqmail ); 23 Nov 2004 03:03:29 -0000
+Received: from tu203028.tsinghua.edu.cn (HELO ccert-dijg) (dijg01@166.111.203.28)
+  by mails.tsinghua.edu.cn with SMTP; 23 Nov 2004 03:03:29 -0000
+From: "zhong" <zhong@mails.tsinghua.edu.cn>
+To: tao@ccert.edu.cn
+Subject: =?GB2312?Q?Re: =D4=AD=C0=B4=CA=C7=B6=CE=C0=CF=B4=F3=C6=F0=B5=C4?=
+X-mailer: Foxmail 4.2 [cn]
+Mime-Version: 1.0
+Content-Type: multipart/alternative;
+      boundary="=====002_Dragon727768845240_====="
+Date: Tue, 23 Nov 2004 11:11:47 +0800
+X-UIDL: VkB"!,nP"!_];!!&Uo"!
+
+: 标  题: 宝宝的户口
+: 发信站: 水木社区 (Mon Jun  6 11:01:47 2005), 站内
+: 
+: 晴问：
+: 1。现在的宝宝的户口是可以跟爸爸了，
+: 但是，如果爸爸是集体户口还是不行的。
+: 是这样吗？
+不一定呀，见：
+父母双方或母亲一方是北京市常住户口的婴儿，在出生一个月内，由监护人到婴儿父
+亲或母亲户口所在地派出所申报出生登记。婴儿父母一方为本市集体户口，一方为本
+市家庭户口的，婴儿须随家庭户一方登记常住户口。婴儿母亲为本市集体户口，父亲
+为市外户口的，户口可随母亲登记为集体户口。婴儿母亲为本市农业户口的，可在其
+母亲或父亲户口所在地自愿登记为非农业户口或农业户口。
+: 2。妈妈有工作居住证的话，宝宝就可以跟妈妈上户口了吗？
+不行
+: 3。如果2成立，那么宝宝的户口上到哪里？
+见2的回答
+: 4。如果爸爸妈妈有了房子，但是产权不是爸爸，那1的问题可以解决吗？
+有房子跟有户口是两码事儿。对集体户口而言，不需要有房子，常住户口需要
+有房权（无论是分的房还是买的房）
+: 5。如果妈妈的亲戚有户口（非集体户口）宝宝户口可以上在那里吗？
+不行，理论是应该是先给宝宝上户口，之后投靠亲戚，前提也是需要符合有关条件
+: 6。如果5成立，是否影响亲戚家未来宝宝的上户口？
+不存在
+: 
+: 谢谢！
+: 
+: --
+: entity--architecture--component--process
+: rlogin--http://tracy_120102.photo.163.com
+: passwd--tracy120102--pwd--ls--vi--
+: 
+: 
+: ※ 来源:·水木社区 http://newsmth.net·[FROM: 210.76.112.*]
+

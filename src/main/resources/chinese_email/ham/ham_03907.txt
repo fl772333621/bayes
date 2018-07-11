@@ -1,0 +1,29 @@
+Return-Path: <xin@cernet.edu.cn>
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id j0A8wJF1014180
+	for <ning@ccert.edu.cn>; Mon, 10 Jan 2005 16:58:19 +0800
+Received: from WHITESNOW (tu203022.ip.tsinghua.edu.cn [166.111.203.22])
+	(authenticated bits=0)
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id j0A9AKQ9027217
+	for <ning@ccert.edu.cn>; Mon, 10 Jan 2005 17:10:25 +0800 (CST)
+Message-ID: <003901c4f6f4$3bc89230$16cb6fa6@WHITESNOW>
+From: "xin" <xin@cernet.edu.cn>
+To: ning@ccert.edu.cn
+Subject: =?gb2312?B?UmU6ILTzxaPAtL+0v7Sjury4uPbD5srUtcTOyszi1PXDtLTwtcS6w6O/?=
+Date: Mon, 10 Jan 2005 17:10:21 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0034_01C4F737.440F4590"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2900.2180
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+X-UIDL: d^m"!Pk7!!~1-!!Lk9"!
+
+软件行业不景气啊，呵呵，有中国特色的软件行业整个是一个扭曲和浮躁的世界，什么事情都变味了，都不按规律办事，都不遵守道德，所以经常觉得招充满激情的毕业生来俺们这样的小型外企很对不起人家，所以我经常会推荐应届生能进大型外企就尽量进，好处都在后面等着呢。:)
+btw:老板也不都是资本家，呵呵，只是如果在生存压力和与人为善之间选择的时候，通常会选择前者。
+又及：我不是老板，我也是打工的，我也看重收入，这年头，什么职位什么发展空间那都是GP，每月按时发钱，年底有点奖金才是真的，看开了不过也就如此，关键是自己得有货，遇见问题得能三下五除二搞定，学校里面学的那些根本就没啥用，不花几年时间在社会上摔打摔打没戏。
+再及：当年要找工作的时候俺老爸说过两句话，俺一直记得：1.人不能创造舞台，只能去适应舞台  2.不管你做什么，你得做到最好的，起码也是周围的人中间最好的那一个。
+没了。:)
+: 偶当老板了也说这个话，呵呵
+

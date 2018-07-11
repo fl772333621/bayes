@@ -1,0 +1,27 @@
+Return-Path: <lian@rbl.ccert.edu.cn>
+Received: from rbl.ccert.edu.cn (rbl.ccert.edu.cn [202.112.57.71])
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id i9A7X12L012969
+	for <zheng@ccert.edu.cn>; Sun, 10 Oct 2004 15:33:02 +0800 (CST)
+Received: from rbl.ccert.edu.cn (localhost.localdomain [127.0.0.1])
+	by rbl.ccert.edu.cn (8.12.11/8.12.11) with ESMTP id i9A7cKOE006350
+	for <zheng@ccert.edu.cn>; Sun, 10 Oct 2004 15:38:21 +0800
+Received: (from qa@localhost)
+	by rbl.ccert.edu.cn (8.12.11/8.12.11/Submit) id i9A7cKjK006349;
+	Sun, 10 Oct 2004 15:38:20 +0800
+Date: Sun, 10 Oct 2004 15:38:20 +0800
+Message-Id: <200410100738.i9A7cKjK006349@rbl.ccert.edu.cn>
+Subject: =?gb2312?B?UmU6IGhhaGEsIMruvNliZsXjztK72LzS?=
+To: zheng@ccert.edu.cn
+From: Tran Quang Anh <lian@cernet.edu.cn>
+Content-Type: multipart/mixed; boundary="----------=_1097393901-1014-16"
+MIME-Version: 1.0
+X-UIDL: ,k?!!W]+#!<=9!!@9f!!
+
+他一直都是留分头，却说他要在去我家之前理个平头，我还从来没有看过他理平头的样子呢，简直不能想象。
+他却很自信，说他平头好看
+呜，要是很难看的话就不让他见我父母了
+: 本来五一就要一起回去的，可是觉得时间太紧
+: 终于盼来了暑假，bf可以陪我回家了，哈哈，好高兴啊，
+: 一想到不久以后，夏日的晚上，洗完澡坐在沙发上看着电视吹着空调吃着冰冻西瓜，旁边老爸老妈还有bf陪我聊天，现在枯燥的自习与紧张的复习都变得不那么痛苦了~~~~~~
+: ...................
+

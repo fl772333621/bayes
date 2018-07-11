@@ -1,0 +1,46 @@
+Return-Path: <ning@hotmail.com>
+Received: from hotmail.com (bay18-f26.bay18.hotmail.com [65.54.187.76])
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id j6DA3J0J010793
+	for <zhao@ccert.edu.cn>; Wed, 13 Jul 2005 18:03:19 +0800 (CST)
+Received: from mail pickup service by hotmail.com with Microsoft SMTPSVC;
+	 Wed, 13 Jul 2005 03:03:13 -0700
+Message-ID: <BAY18-F263AD2EEE6E9D837C83BE4BEDE0@phx.gbl>
+Received: from 80.15.249.164 by by18fd.bay18.hotmail.msn.com with HTTP;
+	Wed, 13 Jul 2005 10:03:13 GMT
+X-Originating-IP: [221.229.244.194]
+X-Originating-Email: [nvthu@hotmail.com]
+X-Sender: nvthu@hotmail.com
+In-Reply-To: <005801c538db$5fc0a0a0$18cb6fa6@CCERTDAWEI>
+From: "ning" <ning@hotmail.com>
+To: zhao@ccert.edu.cn
+Subject: =?gb2312?B?ofEgob7V0Ma4ob/R0LeivObWsCAo16rU2Ck=?=
+Date: Wed, 13 Jul 2005 17:03:13 +0700
+Mime-Version: 1.0
+Content-Type: text/plain; format=flowed
+X-OriginalArrivalTime: 13 Jul 2005 10:03:13.0305 (UTC) FILETIME=[14C05090:01C58792]
+X-UIDL: Xf5"!n?1"!I1M!!J>%"!
+
+【 以下文字转载自 ParttimeJob 讨论区 】
+发信人: vivihou (belong), 信区: ParttimeJob
+标  题: 【招聘】研发兼职
+发信站: 水木社区 (Wed Jun  1 15:51:04 2005), 站内
+    我们是一家是从事计算机视觉技术研究与开发的高新技术企业，由在美大学
+教授创办。公司致力于将该领域的最新研究成果应用到实际产品中。
+    公司因业务扩展需要，招聘兼职两名，从事图像处理和计算机视觉算法的研
+究与开发工作。
+    公司将为你提供直接参与核心技术开发的机会、具有竞争力的待遇和广阔的
+发展空间。
+要求：
+(1). 为人诚恳踏实，有较强的学习能力。
+(2). 有较好的图像处理的知识和扎实的数学基础；如果在模式识别和计算机视觉
+     方面有较深的理解，或相关的实际项目经验，我们将优先考虑。
+(3). 对计算机视觉领域的应用研究具有浓厚兴趣，愿意从事研发工作。
+(4). 熟练使用C/C++编程，精通MATLAB。
+(5). 有较强的英文阅读能力，较好的沟通能力和团队合作精神。
+    在校研究生优先，暂不考虑应届毕业生。
+    如果合作愉快可转为正式员工并解决户口。
+工作地点：清华东门创业园
+工作时间：暑期最好能全职工作，平时每周至少24小时，可以周末工作。
+有意者请将个人简历发至parttimejob@standardvision.com
+来信注明“兼职算法工程师”，并详细说明您做过的工作。
+

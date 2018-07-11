@@ -1,0 +1,27 @@
+Return-Path: <wei@rbl.ccert.edu.cn>
+Received: from rbl.ccert.edu.cn (rbl.ccert.edu.cn [202.112.57.71])
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id i983E3UF000791
+	for <he@ccert.edu.cn>; Fri, 8 Oct 2004 11:14:05 +0800 (CST)
+Received: from rbl.ccert.edu.cn (localhost.localdomain [127.0.0.1])
+	by rbl.ccert.edu.cn (8.12.11/8.12.11) with ESMTP id i983K2ac022792
+	for <he@ccert.edu.cn>; Fri, 8 Oct 2004 11:20:04 +0800
+Received: (from qa@localhost)
+	by rbl.ccert.edu.cn (8.12.11/8.12.11/Submit) id i983K2iX022791;
+	Fri, 8 Oct 2004 11:20:02 +0800
+Date: Fri, 8 Oct 2004 11:20:02 +0800
+Message-Id: <200410080320.i983K2iX022791@rbl.ccert.edu.cn>
+Subject: =?gb2312?B?UmU6ICMjI7GxvqkyMDA1xOqjqMWp1bmjqc/EvL6089DNyMuyxdXQxri087vh?=
+To: he@ccert.edu.cn
+From: Tran Quang Anh <wei@cernet.edu.cn>
+Content-Type: multipart/mixed; boundary="----------=_1097205604-1044-234"
+MIME-Version: 1.0
+X-UIDL: DPC"!epK!!8N9"!A[2!!
+
+我没有去过招聘会
+这个招聘会需要两天都去吗 ? 
+呵呵
+:  经政府部门批准，由中国国际人才开发中心、国家建设部人才开发中心、国家信息产业部电子人才交流中心、中汽人才交流中心联合主办，,北京多家具有实力人才机构协办的“夏季大型人才招聘会“定于2005年6月4日——5日在全国农业展览馆举办。
+:    大会将通过《北京青年报》、《北京人才市场报》、《北京晚报》、《法制晚报》、《北京晨报》；公交车载显示屏；中国人才网、前程无忧网、搜狐招聘网、中华英才网、农展馆网站、北京大学毕业生网、好工作网、等媒体进行广泛宣传，热忱欢迎国际著名跨国公司的驻京办事�
+: 大会规模：全国农业展览馆1、2、3号馆，拟设展位500余个； 
+: ...................
+

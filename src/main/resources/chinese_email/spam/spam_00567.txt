@@ -1,0 +1,27 @@
+Return-Path: <xu@163.net>
+Received: from 163.net ([218.57.74.189])
+	by home.ccert.edu.cn (MIMEDefang) with ESMTP id NOQUEUE
+	for <xia@ccert.edu.cn>; Tue, 21 Jun 2005 03:18:42 +0800 (CST)
+Message-ID: <200506210318.0.12514845350232@home.ccert.edu.cn>
+From: "xu" <xu@163.net>
+Subject: =?gb2312?B?1LazzLzgv9hpY2Ftdmlldw==?=
+To: xia@ccert.edu.cn
+Content-Type: text/plain;charset="GB2312"
+Reply-To: xu@163.net
+Date: Tue, 21 Jun 2005 03:45:49 +0800
+X-Priority: 3
+X-Mailer: FoxMail 3.11 Release [cn]
+
+网络摄像机简称:ICAMView 
+ICAMView是一个具有网络服务特性的远程数码网络摄像机，无论身处何地，相隔多远，
+您都可以通过网络IE浏览器，输入IP地址、用户帐号和密码，成功的了解您想看到的
+终端图像信息。ICAMView可以同时接入两个USB-PC-CAMERA，终端不需要通过计算机
+支持的普通摄像头、红外夜视摄像头、旋转云台视频设备，基于网络之上，通过特定
+软件来实现音频和视频数据流的传输，从而通过计算机显示屏来动态跟踪终端信息。
+用户可以通过网络浏览器检测和ICAMView已经连接的网络数码摄像头，在任何地方输
+入网络的ICAMViewIP地址，简易地控制这些摄像头。例：用户虽然在澳大利亚，但可
+以监视他在中国工厂的生产车间和在新加坡的办公室的情景，所有这些以前难以想象
+的事情将会变的非常简单。现有大量ICAMVIEW出售，价格优惠!
+联系方式：13356890208 QQ:45360313 在线演示：http://icamview.3322.org用户名:888密码:888 
+http://www.icamview.cn
+

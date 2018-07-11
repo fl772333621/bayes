@@ -1,0 +1,24 @@
+Return-Path: <mo@rbl.ccert.edu.cn>
+Received: from rbl.ccert.edu.cn (rbl.ccert.edu.cn [202.112.57.71])
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id i96MdaT9011168
+	for <zheng@ccert.edu.cn>; Thu, 7 Oct 2004 06:39:36 +0800 (CST)
+Received: from rbl.ccert.edu.cn (localhost.localdomain [127.0.0.1])
+	by rbl.ccert.edu.cn (8.12.11/8.12.11) with ESMTP id i96MjXB7005688
+	for <zheng@ccert.edu.cn>; Thu, 7 Oct 2004 06:45:34 +0800
+Received: (from qa@localhost)
+	by rbl.ccert.edu.cn (8.12.11/8.12.11/Submit) id i96MjXqI005687;
+	Thu, 7 Oct 2004 06:45:33 +0800
+Date: Thu, 7 Oct 2004 06:45:33 +0800
+Message-Id: <200410062245.i96MjXqI005687@rbl.ccert.edu.cn>
+Subject: =?gb2312?B?UmU6ILzSzaWhorCux+m6zc/WyrWhqqGqztK6zUdH?=
+To: zheng@ccert.edu.cn
+From: Tran Quang Anh <mo@cernet.edu.cn>
+Content-Type: multipart/mixed; boundary="----------=_1097102734-996-728"
+MIME-Version: 1.0
+X-UIDL: W13"!9L6!!`K>"!B!^!!
+
+夸张，骑车，人大去清华哪要30分钟。
+:     我和GG在一起一年了。刚开始的时候因为临近暑假，回家的时候口风不紧，就告诉了家里面。刚开始没什么别的值得争吵的地方，于是我们的第一个矛盾就产生于他责怪我不应该这么着急就告诉家里；我怪他对家里故意把我遮遮掩掩的。之后有好几次机会都可以让我很自然地被他家里知道，但他每次都故意避开了。尽管如此，我们相处得很好，我从一开始就觉得我们将来会在一起的，还经常憧憬将来的生活，讨论毕业多久结婚，讨论给他生什么样子的宝宝，讨论每个月赚多少钱才够养家糊口……GG人品很好，正直、讲礼、关心人，可能是因为他比我大6岁的: 原因，一年里从来没对我发过一次火。GG是我的第二个男朋友，我也是GG的第二个女朋友，但是我们在一起的感觉就像初恋的感觉，我从来没有想过要和一个男人过一辈子，GG是第一个。
+:     GG在清华，我在人大，一起上研，同时毕业。冬天的时候，一到周末，我或者他，也不顾凛冽的寒风，骑车30分钟到对方的学校，一起看书，一起吃饭，一起讨论学习上的问题。我们的性格真的很合得来，GG长得不高，我穿高跟鞋和他差一点，圆圆的肚皮，在我面前还很会“撒娇”。自从和GG在一起之后，我对所有的同学朋友都宣称我喜欢胖一点的男生。
+: ...................
+

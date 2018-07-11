@@ -1,0 +1,27 @@
+Return-Path: <mei@rbl.ccert.edu.cn>
+Received: from rbl.ccert.edu.cn (rbl.ccert.edu.cn [202.112.57.71])
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id i923HEcn010679
+	for <lai@ccert.edu.cn>; Sat, 2 Oct 2004 11:17:15 +0800 (CST)
+Received: from rbl.ccert.edu.cn (localhost.localdomain [127.0.0.1])
+	by rbl.ccert.edu.cn (8.12.11/8.12.11) with ESMTP id i923Mt3V020727
+	for <lai@ccert.edu.cn>; Sat, 2 Oct 2004 11:22:57 +0800
+Received: (from qa@localhost)
+	by rbl.ccert.edu.cn (8.12.11/8.12.11/Submit) id i923Mtg7020726;
+	Sat, 2 Oct 2004 11:22:55 +0800
+Date: Sat, 2 Oct 2004 11:22:55 +0800
+Message-Id: <200410020322.i923Mtg7020726@rbl.ccert.edu.cn>
+Subject: =?gb2312?B?UmU6ILnY09pQSETV0rmk1/c=?=
+To: lai@ccert.edu.cn
+From: Tran Quang Anh <mei@cernet.edu.cn>
+Content-Type: multipart/mixed; boundary="----------=_1096687377-996-354"
+MIME-Version: 1.0
+X-UIDL: ,T="!:/B"!H#]!!ki*"!
+
+说道大学的比较特别是中国大学的入学考试我的话题就多了,也许一天一夜都说不完.去网上看一下这方面的文章,我想你有更加深刻的体会.以前我同学高考只是填写了北京大学金融专业,但是北大拒绝他了.但是UNIVERSITY OF UTAH录取了还是全奖包括机票.现在我同学在NYU读PHD IN FINANCE.这样的例子太多了.说道明年都说不完......
+确实如果在国外如果是COURSEWORK的学位,期末＆期终考试就很重要了,当然大学让你进来了,你自己不努力被退学那是你自己的问题呀.这点国外比国内大学要好.看一下国内大学本科生的生活,简直是浪费生命...
+如果是在MASTER＆PHD的RESEARCH学位,那只有英联邦国家大学才有.这个学位连美国都没有.在MASTER＆PHD阶段你必须要有文章在国际刊物上面发表........
+写了那么多.发泄一下我对中国大学的考试制度不满.哈哈
+: 考试就是落后吗？
+: 国外申请phd不用考试，但是通常是进去容易出来难，qualifying exam也是考试啊
+: finance或者accounting好不好找工作也要因人而异，呵呵，至少我周围读 finance或者accounting phd的同学都还很紧张的去考cfa,多点选择吧
+

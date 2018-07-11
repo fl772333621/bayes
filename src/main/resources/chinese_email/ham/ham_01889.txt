@@ -1,0 +1,68 @@
+Return-Path: <shi@rbl.ccert.edu.cn>
+Received: from rbl.ccert.edu.cn (rbl.ccert.edu.cn [202.112.57.71])
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id i97GtHHc022896
+	for <jiang@ccert.edu.cn>; Fri, 8 Oct 2004 00:55:17 +0800 (CST)
+Received: from rbl.ccert.edu.cn (localhost.localdomain [127.0.0.1])
+	by rbl.ccert.edu.cn (8.12.11/8.12.11) with ESMTP id i97H1ATB006326
+	for <jiang@ccert.edu.cn>; Fri, 8 Oct 2004 01:01:13 +0800
+Received: (from qa@localhost)
+	by rbl.ccert.edu.cn (8.12.11/8.12.11/Submit) id i97H1AN4006325;
+	Fri, 8 Oct 2004 01:01:10 +0800
+Date: Fri, 8 Oct 2004 01:01:10 +0800
+Message-Id: <200410071701.i97H1AN4006325@rbl.ccert.edu.cn>
+Subject: =?gb2312?B?ofEgob7V0Ma4ob+439DCxrjH68jtvP6/qreiyMvUsbrNvLzK9dfcvOA=?=
+To: jiang@ccert.edu.cn
+From: Tran Quang Anh <shi@cernet.edu.cn>
+Content-Type: multipart/mixed; boundary="----------=_1097168473-1044-32"
+MIME-Version: 1.0
+X-UIDL: fjo"!OfN!!`/5!!Qd&"!
+
+网站技术总监 1人
+工作性质：全职
+招聘人数：1人 月薪范围：8000~10000
+工作经验：5年 学历：本科以上
+工作地点：北京
+职位描述及要求
+工作职责：
+大型商业网站的总体技术架构设计，技术难点公关开发，对网站WEB开发部门的技术管理
+要求：
+1.计算机或相关专业，本科以上学历者工作经验不少于5年，硕士以上学历者工作经验不少
+于3年。
+2.四年以上网站后台编程经验，两年以上大型ICP网站整体设计、规划和制作以及管理经验
+3.精通html/jsp/vbscript/CSS/ASP/.net/JSP/java/J2EE/php/CGI等技术。
+4.精通IIS，apache等常用WEB服务器的配置
+5.熟悉http,https,ftp,telnet 协议
+3.熟悉各种网络安全漏洞以及攻击，熟悉网络病毒特征
+4.熟悉网络后台数据库安全优先考虑
+5.熟悉网络安全产品（防火墙，防病毒软件）的配置和优化
+6.精通IIS，apache等常用WEB服务器的配置
+7.自学能力强，能够跟进WEB开发新技术的发展
+8.根据个人的能力进行待遇判定分级，一经录用，待遇从优
+网站制作程序员 4人
+工作性质：全职
+招聘人数：4人 月薪范围：4000~6000
+工作经验：3年 学历：本科以上
+工作地点：北京
+职位描述及要求
+1.大学本科以上学历，计算机软件或者相关专业
+2.精通html/javascript/vbscript/CSS/ASP/.net/JSP/java/J2EE/php/CGI等技术；
+3.熟悉 http,https,ftp,telnet 等网络协议
+4.熟练掌握 C,C++,C#语言,熟悉ORACLE 数据库编程
+5.有大型ICP网站开发与维护经验，本科生工作经验至少3年，硕士生至少2年；
+6.精通网站开发中常见的安全漏洞及避免方法优先考虑
+7.根据个人的能力进行待遇判定分级，一经录用，待遇从优
+数据库程序员 4人
+工作性质：全职
+招聘人数：4人 月薪范围：6000~8000
+工作经验：3年 学历：本科以上
+工作地点：北京
+职位描述及要求
+1.重点大学本科以上学历，计算机软件或者相关专业
+2.有用oracle数据库进行软件项目开发2年以上工作经验；
+3.精通oracle数据库配置，优化，维护
+4.熟悉大型数据库的设计，熟悉如何提高WEB程序的运行效率
+5.精通SQL语句，存储过程、触发器等的编写
+6.根据个人的能力进行待遇判定分级，一经录用，待遇从优
+公司网址：  http://www.hxinfo.com.cn/
+投递简历请投到：  hr@hxinfo.com.cn
+

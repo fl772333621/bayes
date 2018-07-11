@@ -1,0 +1,41 @@
+Return-Path: <yi@chinatextile.net>
+Received: from tsinghua.org.cn ([210.77.143.231])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id j043Om7e024636
+	for <peng@ccert.edu.cn>; Tue, 4 Jan 2005 11:25:07 +0800
+Received: (eyou send program); Tue, 04 Jan 2005 11:17:24 +0800
+Received: (eyou send program); Tue, 04 Jan 2005 11:17:24 +0800
+X-EYOU-ORIGINAL-IP: 210.77.143.235
+X-EYOU-ENVELOPE-MAILFROM: beijing@chinatextile.net
+Received: from unknown (HELO eyou.net) (unknown@210.77.143.235)
+ by 210.77.143.231 with SMTP; Tue, 04 Jan 2005 11:17:24 +0800
+Received: (eyou send program); Tue, 04 Jan 2005 11:31:35 +0800
+Message-ID: <304809495.21290@eyou.net>
+Received: from 211.150.100.27 by 210.77.143.235 with SMTP; Tue, 04 Jan 2005 11:31:35 +0800
+Received: from wvooqwr5n4mdti (e-smtp2 [127.0.0.1])
+	by smtp.263xmail.com (Postfix) with ESMTP id EF28E22184
+	for <peng@ccert.edu.cn>; Tue,  4 Jan 2005 11:37:59 +0800 (CST)
+	(envelope-from beijing@chinatextile.net)
+Received: from wvooqwr5n4mdti (unknown [221.218.90.204])
+	by antispam-2 (Coremail:263(040326)) with SMTP id RUAEAJcP2kEyDlrM.1
+	for <peng@ccert.edu.cn>; Tue, 04 Jan 2005 11:38:00 +0800 (CST)
+X-TEBIE-Originating-IP: [221.218.90.204]
+Message-ID: <005001c4f20e$791093d0$4f00a8c0@wvooqwr5n4mdti>
+From: "yi" <yi@chinatextile.net>
+To: peng@ccert.edu.cn
+Subject: =?gb2312?B?UmU6IMbkyrXHo8rWscjX9rCuu7nE0SAoeik=?=
+Date: Tue, 4 Jan 2005 11:35:43 +0800
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----------=_1104809115-21636-164"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2800.1106
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1106
+X-UIDL: ?/,!!lZK"!HQX!!F*"#!
+
+en，我就喜欢我gg手心里面的温度。。。
+即使是现在
+: 有一个朋友告诉我，她与男友交往了一年，只牵过手，还没接过吻。我问她现在是公元几年，她告诉我是2004年。她不是处女，她交过男朋友，但是她愿意和一个男人牵了一年的手，还不急着接吻。
+: 有一个朋友写了一篇文章说男人在过马路的时候、在party的时候、在看鬼片的时候会牵着她的手，并告诉她牵不牵手，很重要。
+: 我想起了谈恋爱的过程里，许多真正让我心动的每一刻，都是与牵手相关。与初恋男人第一次牵手 ，我害羞的一直低着头，紧张的直冒手汗，那一刻仿佛正式宣告了：“我们在一起！”我的心脏差一点因为剧烈的跳动而兴奋窒息。
+: ...................
+

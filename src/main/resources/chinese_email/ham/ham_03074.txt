@@ -1,0 +1,26 @@
+Return-Path: <mo@rbl.ccert.edu.cn>
+Received: from rbl.ccert.edu.cn (rbl.ccert.edu.cn [202.112.57.71])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id i9T3SubI026458
+	for <huang@ccert.edu.cn>; Fri, 29 Oct 2004 11:28:56 +0800
+Received: from rbl.ccert.edu.cn (localhost.localdomain [127.0.0.1])
+	by rbl.ccert.edu.cn (8.12.11/8.12.11) with ESMTP id i9T3k452016344
+	for <huang@ccert.edu.cn>; Fri, 29 Oct 2004 11:46:20 +0800
+Received: (from qa@localhost)
+	by rbl.ccert.edu.cn (8.12.11/8.12.11/Submit) id i9T3jxtW016339;
+	Fri, 29 Oct 2004 11:45:59 +0800
+Date: Fri, 29 Oct 2004 11:45:59 +0800
+Message-Id: <200410290345.i9T3jxtW016339@rbl.ccert.edu.cn>
+Subject: =?gb2312?B?ofEgvfHM7M7StcTQofap9qnSssL6M7j21MLByw==?=
+To: huang@ccert.edu.cn
+From: mo@rbl.ccert.edu.cn
+Content-Type: multipart/mixed; boundary="----------=_1099021585-20866-140"
+MIME-Version: 1.0
+X-UIDL: R[0"!$[@!!4)]"!2+H"!
+
+其实按阴历算周六就满了三个月，周日满90天，呵呵。
+小雯雯属于苗条型选手，身长64cm，体重估计也就13斤，比她的小玉米姐姐小了一圈。
+奶奶每天抱她出去散步2个小时，她看见健身的、打乒乓球的都很感兴趣，特别是看打乒乓球，睁大眼睛看着小橙球晃头晃脑，到高兴处还手舞足蹈。有时坐在凳子上看着别人聊天，还咿咿呀呀地想“插话”。
+小雯雯还喜欢看“书法”，经常一个人吮着大拇指，盯着墙上的书法挂历乐，有时竟然能自娱自乐10几分钟，让爸爸妈妈轻闲轻闲。
+现在小雯雯长大了，也懂事多了。吃奶、睡觉都有规律了，还很少哭。这让我和她妈妈感到越来越满意和高兴了，慢慢地体会到为人父母的幸福感。
+快要下班了，可以回家抱娃了！
+

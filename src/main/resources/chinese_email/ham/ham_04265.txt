@@ -1,0 +1,32 @@
+Return-Path: <zhong@tsinghua.edu.cn>
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j5S64Dn5008642
+	for <mei@ccert.edu.cn>; Tue, 28 Jun 2005 14:04:13 +0800 (CST)
+X-scanvirus: By Symantec Scan Engine
+X-scanresult: CLEAN
+Received: (eqmail ); 28 Jun 2005 05:45:31 -0000
+X-Received: unknown,59.66.24.86,20050628134531
+Received: from unknown (HELO sony) (duanhx@59.66.24.86)
+  by localhost with SMTP; 28 Jun 2005 05:45:31 -0000
+Message-ID: <003b01c57ba7$2f7a0d50$5618423b@sony>
+From: "zhong" <zhong@tsinghua.edu.cn>
+To: mei@ccert.edu.cn
+Subject: =?gb2312?B?ofEg1qTIy7bUztK41bLFtcS+rcD61/ez9sbAwts=?=
+Date: Tue, 28 Jun 2005 14:04:03 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0038_01C57BEA.3D6DFFF0"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2900.2180
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+X-UIDL: %+-!!LEj"!AAY"!PmL!!
+
+我走着路，感觉手机在震动。刚拿出来，震动停止了。我一看，自动关机了。因为手机电不多了。
+我赶紧开机。发现没有未接来电。知道了，按拒绝接听算的。
+立刻有人打过来。找我，我说我就在门口呢，他说在走廊。
+我赶上前去，他还没开口，我就问，刚你打了？他说没。然后就是给我分配了任务。
+这个任务就把握明天的时间和今天晚上的所有打算都给毁了。可惜，它是领导。
+你说我郁闷不？征人安慰我，并对此事作出评论，并给出以后的补救办法。
+凡达到以上三点要求的，加为qq好友，并请他/她到清清喝杯可乐，并跟他/她打牌
+

@@ -1,0 +1,25 @@
+Return-Path: <xin@rbl.ccert.edu.cn>
+Received: from rbl.ccert.edu.cn (rbl.ccert.edu.cn [202.112.57.71])
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id i9D4Pq5D003189
+	for <yang@ccert.edu.cn>; Wed, 13 Oct 2004 12:25:56 +0800 (CST)
+Received: from rbl.ccert.edu.cn (localhost.localdomain [127.0.0.1])
+	by rbl.ccert.edu.cn (8.12.11/8.12.11) with ESMTP id i9D4VLR4017474
+	for <yang@ccert.edu.cn>; Wed, 13 Oct 2004 12:31:21 +0800
+Received: (from qa@localhost)
+	by rbl.ccert.edu.cn (8.12.11/8.12.11/Submit) id i9D4VLjR017473;
+	Wed, 13 Oct 2004 12:31:21 +0800
+Date: Wed, 13 Oct 2004 12:31:21 +0800
+Message-Id: <200410130431.i9D4VLjR017473@rbl.ccert.edu.cn>
+Subject: =?gb2312?B?UmU6IMjnufvE0MXz09HSu9DE0qqxyMTjx78=?=
+To: yang@ccert.edu.cn
+From: Tran Quang Anh <xin@cernet.edu.cn>
+Content-Type: multipart/mixed; boundary="----------=_1097641881-20086-12"
+MIME-Version: 1.0
+X-UIDL: iGF!!fFc!!?Nd!!"<9!!
+
+觉得他为人很好，很关心人。
+: 当时怎么走到一起的？
+:     我们都是学生，所谓的强，在他眼里就是学习好，社会工作能力强，不幸的是，我们一个大班，我成绩好而他成绩差，不是他不努力，大家都一起天天上自习，他学的还不刻苦那简直不知道什么叫刻苦了。研一时他调不出程序来，当时是在我们实验室（他那时还没分机器），冲我大发脾气，最后还是我一步步替他找到错误调试成功的。研究生时几门必修课理论性特别强，作业他总是做不出来，只能抄我的，但是考试就不行了，我90多，他老是60多。 
+:    他总是想找到一些方面要比我强，比如社会工作；研究生以后我虽挂着一个头衔，其实只想做学术，不想管政务；他乐此不疲于各种班级事务，他们班也被热心的他整治得红红火火，申请到不少活动经费，同学们也对他印象很好，于是他总是在我面前沾沾自喜：“我在班里威信很高的。”可我知道他喜欢当官，有时不免在别人面前摆架子指使人，他也没什么心计，就是一腔热情爱干这种活，乐意当干部而已。 
+: ...................
+

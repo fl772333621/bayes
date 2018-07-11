@@ -1,0 +1,34 @@
+Return-Path: <jin@tsinghua.org.cn>
+Received: from tsinghua.org.cn ([210.77.143.228])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id i8T36ObZ011578
+	for <che@ccert.edu.cn>; Wed, 29 Sep 2004 11:06:35 +0800
+Received: (eyou send program); Wed, 29 Sep 2004 11:15:08 +0800
+X-EYOU-ORIGINAL-IP: 202.112.50.4
+X-EYOU-ENVELOPE-MAILFROM: chenguangying@tsinghua.org.cn
+Received: from unknown (HELO ccertdawei) (unknown@202.112.50.4)
+ by 210.77.143.228 with SMTP; Wed, 29 Sep 2004 11:15:08 +0800
+Message-ID: <00e401c4a5d2$88765c70$043270ca@CCERTDAWEI>
+From: "jin" <jin@tsinghua.org.cn>
+To: che@ccert.edu.cn
+Subject: =?gb2312?B?UmU6INK7tPPU57G7s7PG8MC0?=
+Date: Wed, 29 Sep 2004 11:15:08 +0800
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2800.1437
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1441
+Content-Transfer-Encoding: 8bit
+X-MIME-Autoconverted: from base64 to 8bit by home.ccert.edu.cn id i8T36ObZ011578
+X-UIDL: Ka*#!?M@!!!j["!NR`!!
+
+人家都说了只有一两天了，你觉得为了这事折腾得自己心情也很恼火值得吗？
+不如出去玩上一天，晚上早点睡就好了
+不过如果是为了做生意敲的墙，只怕你以后难得消停了
+营业时人来人往挺热闹吧，你应该求上帝保佑他们不做餐饮什么的
+:         昨天也是这个时候, 楼下开始敲墙, 好像是为了做生意
+:         然后一天都没有停, 包括中午, 让我根本没法休息
+:         因为我周末休息的比较晚, 白天希望能多睡会, 但是根本没法休息
+: ...................
+

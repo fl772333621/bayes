@@ -1,0 +1,33 @@
+Return-Path: <guan@tsinghua.edu.cn>
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id iB84E5pv012774
+	for <zhu@ccert.edu.cn>; Wed, 8 Dec 2004 12:14:05 +0800 (CST)
+Received: (eyou send program); Wed, 08 Dec 2004 11:58:50 +0800
+Message-ID: <302478330.22735@mail.tsinghua.edu.cn>
+Received: from unknown (HELO mail.tsinghua.edu.cn) (unknown@127.0.0.1)
+ by 127.0.0.1 with SMTP; Wed, 08 Dec 2004 11:58:50 +0800
+X-scanvirus: By Symantec Scan Engine
+X-scanresult: CLEAN
+Received: (eqmail ); 8 Dec 2004 03:58:49 -0000
+Received: from unknown (HELO sony) (duanhx@166.111.204.106)
+  by localhost with SMTP; 8 Dec 2004 03:58:49 -0000
+Message-ID: <002301c4dcdc$570137f0$6acc6fa6@sony>
+From: "guan" <guan@tsinghua.edu.cn>
+To: zhu@ccert.edu.cn
+Subject: =?gb2312?B?ofEgz/K088/Aw8fH673Moaqhqs/rzqq/ycGvtcTX9rHPyei1xGdnsL7MwLK5srmhrQ==?=
+Date: Wed, 8 Dec 2004 12:13:56 +0800
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2900.2180
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+Content-Transfer-Encoding: 8bit
+X-MIME-Autoconverted: from base64 to 8bit by sea.net.edu.cn id iB84E5pv012774
+X-UIDL: [?#"!:'i"!*+^"!98a"!
+
+    蒙牛gg最近身体不太好，主要是做毕设还有为我做这做那累的。我想为他做点好吃的补补，熬个汤什么的，可是我除了西红柿超炒鸡蛋这类的简单菜，就没亲手做过什么难度大的菜啊汤啊，现在仍停留在观摩妈妈做饭的理论水平上。不好意思问朋友们（她们一定起哄说我太女人的），也不好问妈妈（妈妈可能会很感慨），只好向各位大侠讨教了。
+    我很菜，所以希望您考虑到我虽有国家十级厨师的潜质，但还是尽量少用太专业的术语跟我对话，应为我搞不清楚油着火了是不是就是油温达到10成了；我的工具器械也不是很全，毕竟自己的厨房还是在建工程。唯愿您不要对一穷二白的我丧失信心，因为我有强劲的学习动力（把蒙牛gg喂得壮撞的，当然以补冒鼻血为限）及还算聪颖的天资（老爸做饭很棒，虎父无犬女嘛）
+    请大家不吝赐教，拜谢各路英雄了（抱拳）！
+

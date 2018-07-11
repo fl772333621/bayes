@@ -1,0 +1,36 @@
+Return-Path: <wu@mails.tsinghua.edu.cn>
+Received: from tsinghua.org.cn ([210.77.143.232])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with SMTP id j231XjRO006939
+	for <zhu@ccert.edu.cn>; Thu, 3 Mar 2005 09:33:46 +0800
+Received: (eyou send program); Thu, 03 Mar 2005 09:44:50 +0800
+Message-ID: <309814290.25902@tsinghua.org.cn>
+X-EYOU-AUTOFORWARD: tsinghua.org.cn
+Received: (eyou send program); Thu, 03 Mar 2005 09:44:49 +0800
+Message-ID: <309814289.23400@tsinghua.org.cn>
+Received: from unknown (HELO mails.tsinghua.edu.cn) (166.111.8.16)
+ by 210.77.143.232 with SMTP; Thu, 03 Mar 2005 09:44:49 +0800
+Received: (eyou send program); Thu, 03 Mar 2005 09:35:09 +0800
+Message-ID: <309813709.13502@mails.tsinghua.edu.cn>
+Received: from 202.112.50.72 by mails.tsinghua.edu.cn with HTTP; Thu, 03 Mar 2005 09:35:09 +0800
+X-WebMAIL-MUA: [202.112.50.72]
+From: "wu" <wu@mails.tsinghua.edu.cn>
+To: zhu@ccert.edu.cn
+Date: Thu, 03 Mar 2005 09:35:09 +0800
+Reply-To: "wu" <wu@mails.tsinghua.edu.cn>
+X-Priority: 3
+Subject: =?gb2312?B?UmU6IMbFxsXJ+sb4wcujrLTzvNLLtcu1ztK4w9T1w7Sw7KO/?=
+Content-Type: text/plain
+X-UIDL: gBI!!"[O!!@1R!!5j<"!
+
+为了大多数人的幸福生活，让我们一起努力吧
+: sigh  今天我理发还和理发师聊了一会 感觉他们真是不容易 每天只有2天的假期 
+: 一直在地下一楼工作  见不到太阳   真是可怜  
+:  每次看到要饭的乞丐 那些年级大的 心里很痛 
+: 那次在清华东门等车 一个老头过来讨钱  我想起还剩下一个在清华永和的包子 就顺手
+: 给了他  可怜的老头拿着包子激动地对我说：“小姑娘，你这个包子比给我钱好多了，
+: 我到现在还没有吃饭呢 ”  
+: 我的眼睛有点湿润 你可以说我容易动感情 可是当时我就是这样难过的心情 
+: 我希望人类社会可以走向大同，走向幸福 就算只是一个梦想 我们还是应该朝着这个方向
+: 努力 。。。
+:   以牺牲他人为代价的幸福  不值得歌颂 
+

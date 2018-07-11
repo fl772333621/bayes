@@ -1,0 +1,60 @@
+Return-Path: <guan@compass.net.edu.cn>
+Received: from tsinghua.org.cn ([210.77.143.228])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id iAI2UON2004684
+	for <zeng@ccert.edu.cn>; Thu, 18 Nov 2004 10:30:26 +0800
+Received: (eyou send program); Thu, 18 Nov 2004 10:42:54 +0800
+Received: (eyou send program); Thu, 18 Nov 2004 10:42:51 +0800
+X-EYOU-ORIGINAL-IP: 210.77.143.235
+X-EYOU-ENVELOPE-MAILFROM: toefl-bounces@server.cool-meeting.com
+Received: from unknown (HELO eyou.net) (unknown@210.77.143.235)
+ by 210.77.143.228 with SMTP; Thu, 18 Nov 2004 10:42:51 +0800
+Received: (eyou send program); Thu, 18 Nov 2004 10:38:36 +0800
+Message-ID: <300745516.22057@eyou.net>
+Received: from 202.38.99.65 by 210.77.143.235 with SMTP; Thu, 18 Nov 2004 10:38:35 +0800
+Received: from server.cool-meeting.com (localhost.localdomain [127.0.0.1])
+	by server.cool-meeting.com (8.12.8/8.12.8) with ESMTP id iAHFlKlZ015179
+	for <zeng@ccert.edu.cn>; Wed, 17 Nov 2004 23:47:28 +0800
+Received: from compass.net.edu.cn ([202.38.188.130])
+	by server.cool-meeting.com (8.12.8/8.12.8) with ESMTP id iAHFlBkr015175
+	for <zeng@ccert.edu.cn>; Wed, 17 Nov 2004 23:47:12 +0800
+Received: from [166.111.166.150] (tu166150.tsinghua.edu.cn [166.111.166.150])
+	by compass.net.edu.cn (8.9.2/8.9.2) with ESMTP id XAA10678
+	for <zeng@ccert.edu.cn>;
+	Wed, 17 Nov 2004 23:36:20 +0800 (CST)
+Message-ID: <419B6F4B.5090509@compass.net.edu.cn>
+Date: Wed, 17 Nov 2004 23:33:31 +0800
+From: Shaozhi Ye <guan@compass.net.edu.cn>
+User-Agent: Mozilla Thunderbird 0.9 (Windows/20041103)
+X-Accept-Language: en-us, en
+MIME-Version: 1.0
+To: zeng@ccert.edu.cn
+Subject: Re: [TOEFL] =?GB2312?B?udjT2jMxNbrNOTIztcTPtc34zsrM4g==?=
+References: <200411171520.XAA13914@gradinfo.net.edu.cn>
+In-Reply-To: <200411171520.XAA13914@gradinfo.net.edu.cn>
+Content-Type: text/plain; charset=GB2312
+Content-Transfer-Encoding: 8bit
+X-MIME-Autoconverted: from quoted-printable to 8bit by server.cool-meeting.com
+	id iAHFlBkr015175
+X-BeenThere: toefl@server.cool-meeting.com
+X-Mailman-Version: 2.1.2
+Precedence: list
+List-Id: &#26446;&#26143;&#21644;&#20182;&#30340;&#23398;&#29983;&#20204;
+	<toefl.server.cool-meeting.com>
+List-Unsubscribe: <http://server.cool-meeting.com/mailman/listinfo/toefl>,
+	<mailto:toefl-request@server.cool-meeting.com?subject=unsubscribe>
+List-Archive: <http://server.cool-meeting.com/mailman/private/toefl>
+List-Post: <mailto:toefl@server.cool-meeting.com>
+List-Help: <mailto:toefl-request@server.cool-meeting.com?subject=help>
+List-Subscribe: <http://server.cool-meeting.com/mailman/listinfo/toefl>,
+	<mailto:toefl-request@server.cool-meeting.com?subject=subscribe>
+Sender: toefl-bounces@server.cool-meeting.com
+Errors-To: toefl-bounces@server.cool-meeting.com
+X-UIDL: eEJ!!neb"!WY-!!L#e"!
+
+这样的……只能算是一时冲动……
+怦然心动是个很简单的词，写起来很简单。
+第一次我读高中，见到我一个哥们的姐姐，美丽的让我怦然心动。我放学骑自行车从城东到城西，哥们的姐姐下班从城西骑到城东，所以有些时候就会在路上错身而过。其实哥们的姐姐也就是长相出色，其他都平平淡淡，但是怦然心动依旧翻涌不停息。多年后一次偶然的机会再遇到，她已经怀孕了，养的白白胖胖，我几乎都认不出来了……
+第二次我读大学，在图书馆上自习碰到一个学妹，我们只能做到普通的朋友，我一直想更进一步的举动导致最终连普通朋友都做不成。前些时日，我竟然用google搜索到了她的msn，连接上打声招呼不告诉她我是谁，她也不是甚关心我是谁，有时候也有一搭没一搭的聊两句，我在空闲的时候用心默默的关注……
+第三次我去北大面试，面试我的女孩可以说是我到现在见过的最让我心动的一个，可惜接触短暂，最后我远遁他乡，我只能凭着记忆回味，只是这短暂的相遇，让我的回味越来越模糊越来越模糊……
+弟兄们，你们有过多少次怦然心动？闲暇的时候就打开记忆的箱子翻一翻罢，是否还存在些些的感动，抑或是没有尽头的感慨？
+

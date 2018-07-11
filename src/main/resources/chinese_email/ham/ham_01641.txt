@@ -1,0 +1,27 @@
+Return-Path: <che@rbl.ccert.edu.cn>
+Received: from rbl.ccert.edu.cn (rbl.ccert.edu.cn [202.112.57.71])
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id i984eQgW002409
+	for <bai@ccert.edu.cn>; Fri, 8 Oct 2004 12:40:26 +0800 (CST)
+Received: from rbl.ccert.edu.cn (localhost.localdomain [127.0.0.1])
+	by rbl.ccert.edu.cn (8.12.11/8.12.11) with ESMTP id i984kRWB007789
+	for <bai@ccert.edu.cn>; Fri, 8 Oct 2004 12:46:27 +0800
+Received: (from qa@localhost)
+	by rbl.ccert.edu.cn (8.12.11/8.12.11/Submit) id i984kR5f007788;
+	Fri, 8 Oct 2004 12:46:27 +0800
+Date: Fri, 8 Oct 2004 12:46:27 +0800
+Message-Id: <200410080446.i984kR5f007788@rbl.ccert.edu.cn>
+Subject: =?gb2312?B?ofEgs/W0tLmry74g0bDEvMzYsfDQ0NX+1vrA7aOov8nPyLzm1rCjqQ==?=
+To: bai@ccert.edu.cn
+From: Tran Quang Anh <che@cernet.edu.cn>
+Content-Type: multipart/mixed; boundary="----------=_1097210787-1044-276"
+MIME-Version: 1.0
+X-UIDL: +pi"!KFB"!&+`!!;e_!!
+
+公司位于中关村北大、清华附近地区，为通讯终端设备（如手机）产业提供嵌入式软件，现处于初期创业阶段，初期切入的核心技术和产品，在大陆地区具有极为广阔的应用市场，并且具有拓展海外市场的巨大前景。
+如果你希望以自己的努力壮大我们的志同道合的团队力量，为未来多一个我们中国人自己的真正称得上拥有核心技术和产品的世界一流高科技跨国公司的共同目标，奉献青春、智慧和热血，那么欢迎你联系洽谈。
+具体要求：
+1、    初期兼职，愿以兼职收入换取股份方式参与相关工作，依据你的经验和能力和长期共同创业的志向，你将有机会获得相应的股份奖励。
+2、    女性、大专以上学历，擅长与人沟通，做事踏实细心，能做好技术研发等人力资源的物色、企业文化建设、行政财务等相关工作，有会计证等三证最好。
+3、    能踏实钻研，学习积极性高，不惧怕创业过程的本职工作相关的任何挑战。
+具体加盟方式面谈，请将你的简历和联系信息发送到：partner@iukey.com。
+

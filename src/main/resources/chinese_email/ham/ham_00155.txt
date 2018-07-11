@@ -1,0 +1,32 @@
+Return-Path: <chi@rbl.ccert.edu.cn>
+Received: from rbl.ccert.edu.cn (rbl.ccert.edu.cn [202.112.57.71])
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id i9699v4o001797
+	for <zhu@ccert.edu.cn>; Wed, 6 Oct 2004 17:09:58 +0800 (CST)
+Received: from rbl.ccert.edu.cn (localhost.localdomain [127.0.0.1])
+	by rbl.ccert.edu.cn (8.12.11/8.12.11) with ESMTP id i969FrVB028075
+	for <zhu@ccert.edu.cn>; Wed, 6 Oct 2004 17:15:53 +0800
+Received: (from qa@localhost)
+	by rbl.ccert.edu.cn (8.12.11/8.12.11/Submit) id i969Fro0028074;
+	Wed, 6 Oct 2004 17:15:53 +0800
+Date: Wed, 6 Oct 2004 17:15:53 +0800
+Message-Id: <200410060915.i969Fro0028074@rbl.ccert.edu.cn>
+Subject: =?gb2312?B?UmU6IM7SvvW1w9OmuMPV4tH5o6zDv9TCTEfJz727ucy2qMr9xL+1xLmk18o=?=
+To: zhu@ccert.edu.cn
+From: Tran Quang Anh <chi@cernet.edu.cn>
+Content-Type: multipart/mixed; boundary="----------=_1097054153-996-520"
+MIME-Version: 1.0
+X-UIDL: b?0!!_S\!![A^!!@gd!!
+
+我觉得就把存折都放家里
+各人的工资卡各人拿着
+小事儿自己随便花，谁也别管谁
+超过一定额度，比如2000块钱以上的大家商量决策
+还有一种情况就是性价比太低的，比如800块钱就买一纱巾之类的
+可以在消费事实出现后，召开家庭会议进行批判调整
+存折放家里的目的是
+钱是大家的钱，想用可以随时让第二个人能够取出来
+: 我准备上交固定收入的60％，或者定个死数，5000
+: 这些钱加上lp的挣钱，她爱怎么花怎么花，也不用她交乱七八糟的费用
+: 剩下的都是自己的，外快自由支配，什么吃饭住房旅游都我掏钱，她主动付不反对
+: ...................
+

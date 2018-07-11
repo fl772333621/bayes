@@ -1,0 +1,51 @@
+Return-Path: <ke@ccert.edu.cn>
+Received: from tsinghua.org.cn ([210.77.143.228])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id i9L8pXqV015743
+	for <wei@ccert.edu.cn>; Thu, 21 Oct 2004 16:51:56 +0800
+Received: (eyou send program); Thu, 21 Oct 2004 17:02:40 +0800
+Received: (eyou send program); Thu, 21 Oct 2004 17:02:33 +0800
+X-EYOU-ORIGINAL-IP: 166.111.8.16
+X-EYOU-ENVELOPE-MAILFROM: starry@ccert.edu.cn
+Received: from unknown (HELO mails.tsinghua.edu.cn) (unknown@166.111.8.16)
+ by 210.77.143.228 with SMTP; Thu, 21 Oct 2004 17:02:33 +0800
+Received: (eyou send program); Thu, 21 Oct 2004 16:56:24 +0800
+Message-ID: <298348984.08384@mails.tsinghua.edu.cn>
+Received: (eyou send program); Thu, 21 Oct 2004 16:56:23 +0800
+Message-ID: <298348983.21557@mails.tsinghua.edu.cn>
+Received: from unknown (HELO mails.tsinghua.edu.cn) (unknown@127.0.0.1)
+ by 127.0.0.1 with SMTP; Thu, 21 Oct 2004 16:56:23 +0800
+X-scanvirus: By Symantec Scan Engine
+X-scanresult: CLEAN
+Received: (eqmail ); 21 Oct 2004 08:56:13 -0000
+Received: from ccert.edu.cn (HELO home.ccert.edu.cn) (202.112.57.12)
+  by mails.tsinghua.edu.cn with SMTP; 21 Oct 2004 08:56:13 -0000
+Received: from home.ccert.edu.cn (localhost [127.0.0.1])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id i9L8mH1v015704;
+	Thu, 21 Oct 2004 16:48:17 +0800
+Received: (from majordomo@localhost)
+	by home.ccert.edu.cn (8.13.1/8.13.1/Submit) id i9L8mH9G015703;
+	Thu, 21 Oct 2004 16:48:17 +0800
+X-Authentication-Warning: home.ccert.edu.cn: majordomo set sender to owner-ccertstaff using -f
+Received: from starry ([202.112.50.191])
+	(authenticated bits=0)
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id i9L8m9jr015698;
+	Thu, 21 Oct 2004 16:48:11 +0800
+Message-Id: <200410210848.i9L8m9jr015698@home.ccert.edu.cn>
+Date: Thu, 21 Oct 2004 16:59:09 +0800
+From: "ke" <ke@ccert.edu.cn>
+To: wei@ccert.edu.cn
+Cc: "ccertstaff" <yana@ccert.edu.cn>
+Subject: =?gb2312?B?UmU6IMu1vuTAz8q1u7CjrGJlc3PE47u5yseyu9KqwOu76brDwcs=?=
+X-mailer: Foxmail 5.0 [cn]
+Mime-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: 8bit
+X-MIME-Autoconverted: from base64 to 8bit by home.ccert.edu.cn id i9L8mHjr015700
+Sender: owner-ccertstaff@home.ccert.edu.cn
+Precedence: bulk
+X-UIDL: fYW!!1[1"!TZk!!]-`!!
+
+是啊..我们那一个人 贪污了n多...一开始说判死刑来着...后来家人相近一切办法...请好的律师..最后只判了10年..包括后来作伪证...sigh....到那个分上...大义灭亲的真是少之又少的...
+: 我们来打个比方..如果..恩..我说了十比方没有任何针对性..如果她lg贪污可能会坐牢..她会不会想方设法退贿款好抱住lg的一条命?如果是她自己的父亲那?无数案例已经说明贪污的人出事以后家人都会想方设法筹钱保命....否则不会有退赔相应减轻处理这个说法..
+

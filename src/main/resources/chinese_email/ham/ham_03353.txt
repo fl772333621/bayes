@@ -1,0 +1,29 @@
+Return-Path: <guo@cernet.edu.cn>
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id j241hd7R026690
+	for <ni@ccert.edu.cn>; Fri, 4 Mar 2005 09:43:40 +0800
+Received: from ccert-dijg (tu203028.ip.tsinghua.edu.cn [166.111.203.28])
+	(authenticated bits=0)
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id j241v5qC027090
+	for <ni@ccert.edu.cn>; Fri, 4 Mar 2005 09:57:05 +0800 (CST)
+Message-Id: <200503040157.j241v5qC027090@sea.net.edu.cn>
+From: "guo" <guo@cernet.edu.cn>
+Reply-To: guo@cernet.edu.cn
+To: ni@ccert.edu.cn
+Subject: =?gb2312?B?UmU6IElzIHRoZXJlIGEgZ29vZCBqb2IgZm9yIGEgc3R1ZGVudCBsZWFyaW5nIGJpb2xvZ3k=?=
+Organization: ccert
+X-mailer: Foxmail 4.2 [cn]
+Mime-Version: 1.0
+Content-Type: text/plain;
+      charset="GB2312"
+Date: Fri, 4 Mar 2005 9:57:43 +0800
+Content-Transfer-Encoding: 8bit
+X-MIME-Autoconverted: from quoted-printable to 8bit by home.ccert.edu.cn id j241hd7R026690
+X-UIDL: o^S!!B9c!!p%"#!Y_4"!
+
+: 考研，读博，博士后（不论国内国外），一轮，又一轮。
+: 约10％的牛人能混到教职。
+: 这应该是绝大绝大多数bio的出路，当然转行的出外。
+Thank \' foolduck \'  very much  :)
+I am studying aborad now, but I don\'t want to do research in future. I hope I can find some biology-related jobs after I go back to China. Are there some suggestion or experience you can share with me about choosing other careers?   Thanks
+

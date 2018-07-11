@@ -1,0 +1,37 @@
+Return-Path: <chi@tsinghua.edu.cn>
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id iA17REv8009053
+	for <fan@ccert.edu.cn>; Mon, 1 Nov 2004 15:27:14 +0800 (CST)
+Received: (eyou send program); Mon, 01 Nov 2004 15:12:33 +0800
+Message-ID: <299293153.02047@mail.tsinghua.edu.cn>
+Received: from unknown (HELO mail.tsinghua.edu.cn) (unknown@127.0.0.1)
+ by 127.0.0.1 with SMTP; Mon, 01 Nov 2004 15:12:33 +0800
+X-scanvirus: By Symantec Scan Engine
+X-scanresult: CLEAN
+Received: (eqmail ); 1 Nov 2004 07:12:32 -0000
+Received: from unknown (HELO sony) (duanhx@202.112.50.214)
+  by localhost with SMTP; 1 Nov 2004 07:12:32 -0000
+Message-ID: <008701c4bfe4$30aed770$d63270ca@sony>
+From: "chi" <chi@tsinghua.edu.cn>
+To: fan@ccert.edu.cn
+Subject: =?gb2312?B?UmU6INC70Lu087zSwLJSZTogxNG5/WluZw==?=
+Date: Mon, 1 Nov 2004 15:27:04 +0800
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2900.2180
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+Content-Transfer-Encoding: 8bit
+X-MIME-Autoconverted: from base64 to 8bit by sea.net.edu.cn id iA17REv8009053
+X-UIDL: 1&L!!pQ@!!dZB"!UmJ!!
+
+让你老公好好跟老板谈谈，稍微强硬一些，不要显得特别好欺负，
+当然也不能闹的太僵，毕竟还是要在他手底下毕业。反正不太好办。。。
+你多回国看看他，今天有个新消息说以后F1签证一年多次入境，
+回国方便多了。
+: 一觉起来，发现有这么多热心的朋友，感激万分
+: 其实我们平常也都挺好的了，就是这次突然得知希望落空心理接收不了，加上这个变态老板我们实在忍了太久，新仇旧恨一起涌了出来，他的种种恶行三天三夜也说不完。
+: 再努力争取争取吧，还是尽量争取年底毕业。也祝版上两地分居的情侣们早日团聚！
+

@@ -1,0 +1,59 @@
+Return-Path: <yu@ns.6test.edu.cn>
+Received: from tsinghua.org.cn ([210.77.143.228])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id iAO0lZLd013734
+	for <ke@ccert.edu.cn>; Wed, 24 Nov 2004 08:47:36 +0800
+Received: (eyou send program); Wed, 24 Nov 2004 09:00:20 +0800
+Received: (eyou send program); Wed, 24 Nov 2004 09:00:18 +0800
+X-EYOU-ORIGINAL-IP: 210.77.143.235
+X-EYOU-ENVELOPE-MAILFROM: toefl-bounces@server.cool-meeting.com
+Received: from unknown (HELO eyou.net) (unknown@210.77.143.235)
+ by 210.77.143.228 with SMTP; Wed, 24 Nov 2004 09:00:18 +0800
+Received: (eyou send program); Wed, 24 Nov 2004 08:55:46 +0800
+Message-ID: <301257746.25640@eyou.net>
+Received: from 202.38.99.65 by 210.77.143.235 with SMTP; Wed, 24 Nov 2004 08:55:45 +0800
+Received: from server.cool-meeting.com (localhost.localdomain [127.0.0.1])
+	by server.cool-meeting.com (8.12.8/8.12.8) with ESMTP id iAO1F6lh027130
+	for <ke@ccert.edu.cn>; Wed, 24 Nov 2004 09:15:11 +0800
+Received: from ns.6test.edu.cn ([202.38.99.18])
+	by server.cool-meeting.com (8.12.8/8.12.8) with ESMTP id iAO1Epkr027102
+	for <ke@ccert.edu.cn>; Wed, 24 Nov 2004 09:14:51 +0800
+Received: from [202.112.3.118] (helo=IBM-E4AA49AF703)
+	by ns.6test.edu.cn with asmtp (Exim 4.12) id 1CWlqU-000HuA-00
+	for Toefl@server.cool-meeting.com; Wed, 24 Nov 2004 09:21:22 +0800
+From: "yu" <yu@ns.6test.edu.cn>
+To: ke@ccert.edu.cn
+X-mailer: Foxmail 4.2 [cn]
+Mime-Version: 1.0
+Content-Type: text/plain;
+      charset="GB2312"
+Date: Wed, 24 Nov 2004 8:59:53 +0800
+Message-Id: <E1CWlqU-000HuA-00@ns.6test.edu.cn>
+Content-Transfer-Encoding: 8bit
+X-MIME-Autoconverted: from quoted-printable to 8bit by server.cool-meeting.com
+	id iAO1Epkr027102
+Cc: 
+Subject: =?gb2312?B?UmU6INKyy7XKssO0yrG68tKqsaaxpg==?=
+X-BeenThere: toefl@server.cool-meeting.com
+X-Mailman-Version: 2.1.2
+Precedence: list
+List-Id: &#26446;&#26143;&#21644;&#20182;&#30340;&#23398;&#29983;&#20204;
+	<toefl.server.cool-meeting.com>
+List-Unsubscribe: <http://server.cool-meeting.com/mailman/listinfo/toefl>,
+	<mailto:toefl-request@server.cool-meeting.com?subject=unsubscribe>
+List-Archive: <http://server.cool-meeting.com/mailman/private/toefl>
+List-Post: <mailto:toefl@server.cool-meeting.com>
+List-Help: <mailto:toefl-request@server.cool-meeting.com?subject=help>
+List-Subscribe: <http://server.cool-meeting.com/mailman/listinfo/toefl>,
+	<mailto:toefl-request@server.cool-meeting.com?subject=subscribe>
+Sender: toefl-bounces@server.cool-meeting.com
+Errors-To: toefl-bounces@server.cool-meeting.com
+X-UIDL: 'kN!!V[X"!)8M"!*am"!
+
+你怎么知道你小时候没这么多事情
+女人啊，就是欠缺理性思维
+不仅如此，还埋汰理性思考的老公
+: 每次跟老公讨论起什么时候要宝宝的事情，我都莫名其妙地窝一堆火。我想主要原因就在于他总是很理性地跟我分析什么时候我们的经济基础会牢固，什么时候我的职业生涯会走得比较顺了，等等。其实最后总结出来的要孩子的时间，也就是很近很近了，但是我特别特别不喜欢用这种
+: 还有就是，他会把带孩子看得很严重，也许他是对的，因为现在姐有孩子了，姐姐姐夫和我公婆，加一个保姆整天围着那个孩子忙得团团转。但我也不想用这种方法带孩子，不想看顾得那么精细。我小时候也没这么多事情啊，不是照样长得好好的。
+: 但他说我这么想就没有责任心，不懂得当妈妈。
+: ...................
+

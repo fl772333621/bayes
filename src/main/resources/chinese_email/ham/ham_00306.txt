@@ -1,0 +1,26 @@
+Return-Path: <li@rbl.ccert.edu.cn>
+Received: from rbl.ccert.edu.cn (rbl.ccert.edu.cn [202.112.57.71])
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id i97AwPSN018791
+	for <xu@ccert.edu.cn>; Thu, 7 Oct 2004 18:58:25 +0800 (CST)
+Received: from rbl.ccert.edu.cn (localhost.localdomain [127.0.0.1])
+	by rbl.ccert.edu.cn (8.12.11/8.12.11) with ESMTP id i97B4Oor000960
+	for <xu@ccert.edu.cn>; Thu, 7 Oct 2004 19:04:25 +0800
+Received: (from qa@localhost)
+	by rbl.ccert.edu.cn (8.12.11/8.12.11/Submit) id i97B4OjD000959;
+	Thu, 7 Oct 2004 19:04:24 +0800
+Date: Thu, 7 Oct 2004 19:04:24 +0800
+Message-Id: <200410071104.i97B4OjD000959@rbl.ccert.edu.cn>
+Subject: =?gb2312?B?ofEgudjT2s7StcS5wLzbxsC826Osu7nT0NK7uPbOyszi?=
+To: xu@ccert.edu.cn
+From: Tran Quang Anh <li@cernet.edu.cn>
+Content-Type: multipart/mixed; boundary="----------=_1097147065-996-878"
+MIME-Version: 1.0
+X-UIDL: ~'H"!ZW]!!<+>"!_,h!!
+
+谢谢各位同人的提醒和评价。我还有个问题，经过近来级次的面试经历，我现在有一些offer了，但是很让我难以选择，请各位大虾给我处处注意。
+1、外企篇 lucent的高技术研发中心，月薪不超过9k，福利据说很好，作的是老本行，比较稳定；
+2、一个小外企，薪资应该计较高的，但是做的是不太喜欢的东东；
+3、外包到moto做手机测试的工作，我负责有关的专业部分的测试评价，薪水很高，到了d的上限了，但是工作相对简单，担心自己的提高不大；
+4、风险公司的项目，一个公司就三个开发人员，每个人任务很急，很重，待遇奇高到了e的上届了。但是我没有很大的信心，觉得自己的水平不够，而且压力太大了，不稳定。
+大家给我处处注意把，我真的很难选择，谢谢大家了。
+

@@ -1,0 +1,61 @@
+Return-Path: <fu@cernet.edu.cn>
+Received: from tsinghua.org.cn ([210.77.143.231])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id iB18MW3h021491
+	for <sun@ccert.edu.cn>; Wed, 1 Dec 2004 16:22:33 +0800
+Received: (eyou send program); Wed, 01 Dec 2004 16:15:36 +0800
+Received: (eyou send program); Wed, 01 Dec 2004 16:15:36 +0800
+X-EYOU-ORIGINAL-IP: 210.77.143.235
+X-EYOU-ENVELOPE-MAILFROM: qchen@cernet.edu.cn
+Received: from unknown (HELO eyou.net) (unknown@210.77.143.235)
+ by 210.77.143.231 with SMTP; Wed, 01 Dec 2004 16:15:36 +0800
+Received: (eyou send program); Wed, 01 Dec 2004 16:30:44 +0800
+Message-ID: <301889844.15610@eyou.net>
+Received: from 166.111.8.16 by 210.77.143.235 with SMTP; Wed, 01 Dec 2004 16:30:39 +0800
+Received: (eyou send program); Wed, 01 Dec 2004 16:30:12 +0800
+Message-ID: <301889812.05831@mails.tsinghua.edu.cn>
+Received: (eyou send program); Wed, 01 Dec 2004 16:30:11 +0800
+Message-ID: <301889811.04070@mails.tsinghua.edu.cn>
+Received: from unknown (HELO mails.tsinghua.edu.cn) (unknown@127.0.0.1)
+ by 127.0.0.1 with SMTP; Wed, 01 Dec 2004 16:30:11 +0800
+X-scanvirus: By Symantec Scan Engine
+X-scanresult: NOREP
+Received: (eqmail ); 1 Dec 2004 08:30:05 -0000
+Received: from ccert.edu.cn (HELO home.ccert.edu.cn) (202.112.57.12)
+  by mails.tsinghua.edu.cn with SMTP; 1 Dec 2004 08:30:05 -0000
+Received: from home.ccert.edu.cn (localhost [127.0.0.1])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id iB18LhcD021454;
+	Wed, 1 Dec 2004 16:21:43 +0800
+Received: (from majordomo@localhost)
+	by home.ccert.edu.cn (8.13.1/8.13.1/Submit) id iB18LhEX021453;
+	Wed, 1 Dec 2004 16:21:43 +0800
+X-Authentication-Warning: home.ccert.edu.cn: majordomo set sender to owner-ccertstaff using -f
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id iB18Lg54021449
+	for <sun@ccert.edu.cn>; Wed, 1 Dec 2004 16:21:42 +0800
+Received: from GirlOfGod (tu203027.tsinghua.edu.cn [166.111.203.27])
+	(authenticated bits=0)
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id iB18YgmO010222
+	for <sun@ccert.edu.cn>; Wed, 1 Dec 2004 16:34:48 +0800 (CST)
+Message-Id: <200412010834.iB18YgmO010222@sea.net.edu.cn>
+Date: Wed, 1 Dec 2004 16:39:03 +0800
+From: "fu" <fu@cernet.edu.cn>
+To: sun@ccert.edu.cn
+Subject: =?gb2312?B?UmU6ILK7y6zByw==?=
+X-mailer: Foxmail 5.0 [cn]
+Mime-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: 8bit
+X-MIME-Autoconverted: from base64 to 8bit by home.ccert.edu.cn id iB18Lh54021451
+Sender: owner-ccertstaff@home.ccert.edu.cn
+Precedence: bulk
+X-UIDL: S4!#!oo##!9U;"!Xk%!!
+
+呵呵，卖西瓜的不愿意给你切是为了他们自己的利益，何必跟他们理论呢？这个世界上不可以理论的地方太多了，等你工作以后你就慢慢知道了。
+你的gg我觉得做得很好啊，他买到了你想吃的西瓜还不够吗？你觉得一个大男人跟卖西瓜的为了能否切半个西瓜的问题理论你不觉得很可笑吗？:)
+呵呵，mm看来还是太小了，长大就好了
+: 刚才去紫荆水果摊买西瓜。当时是10点左右，人不多，切成半个的西瓜放了一地。我挑了半个看起来比较好的，让卖水果的给我再切一刀。因为我和gg两个人吃不了半个。
+: 结果卖水果的说这半个太小了，不给切。
+: 我说这是我能挑的最大的了。
+: ...................
+

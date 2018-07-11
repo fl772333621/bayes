@@ -1,0 +1,64 @@
+Return-Path: <liao@mails.tsinghua.edu.cn>
+Received: from tsinghua.org.cn ([210.77.143.228])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id i8M4oMvH020802
+	for <ding@ccert.edu.cn>; Wed, 22 Sep 2004 12:50:23 +0800
+Received: (eyou send program); Wed, 22 Sep 2004 13:00:17 +0800
+Received: (eyou send program); Wed, 22 Sep 2004 13:00:16 +0800
+X-EYOU-ORIGINAL-IP: 202.38.99.65
+X-EYOU-ENVELOPE-MAILFROM: toefl-bounces@server.cool-meeting.com
+Received: from unknown (HELO server.cool-meeting.com) (unknown@202.38.99.65)
+ by 210.77.143.228 with SMTP; Wed, 22 Sep 2004 13:00:16 +0800
+Received: from server.cool-meeting.com (localhost.localdomain [127.0.0.1])
+	by server.cool-meeting.com (8.12.8/8.12.8) with ESMTP id i8M4oOlV012440
+	for <ding@ccert.edu.cn>; Wed, 22 Sep 2004 12:50:30 +0800
+Received: from mails.tsinghua.edu.cn (mails.tsinghua.edu.cn [166.111.8.16])
+	by server.cool-meeting.com (8.12.8/8.12.8) with SMTP id i8M4oMkr012436
+	for <ding@ccert.edu.cn>; Wed, 22 Sep 2004 12:50:22 +0800
+Received: (eyou send program); Wed, 22 Sep 2004 12:41:53 +0800
+Message-ID: <295828113.18769@mails.tsinghua.edu.cn>
+Received: from 202.112.55.97 by mails.tsinghua.edu.cn with HTTP;
+	Wed, 22 Sep 2004 12:41:53 +0800
+X-WebMAIL-MUA: [202.112.55.97]
+From: "liao" <liao@mails.tsinghua.edu.cn>
+To: ding@ccert.edu.cn
+Date: Wed, 22 Sep 2004 12:41:53 +0800
+Content-Type: text/plain
+Cc: 
+Subject: =?gb2312?B?UmU6INXiN8zssru6w7n90b0=?=
+X-BeenThere: toefl@server.cool-meeting.com
+X-Mailman-Version: 2.1.2
+Precedence: list
+Reply-To: liao@mails.tsinghua.edu.cn
+List-Id: &#26446;&#26143;&#21644;&#20182;&#30340;&#23398;&#29983;&#20204;
+	<toefl.server.cool-meeting.com>
+List-Unsubscribe: <http://server.cool-meeting.com/mailman/listinfo/toefl>,
+	<mailto:toefl-request@server.cool-meeting.com?subject=unsubscribe>
+List-Archive: <http://server.cool-meeting.com/mailman/private/toefl>
+List-Post: <mailto:toefl@server.cool-meeting.com>
+List-Help: <mailto:toefl-request@server.cool-meeting.com?subject=help>
+List-Subscribe: <http://server.cool-meeting.com/mailman/listinfo/toefl>,
+	<mailto:toefl-request@server.cool-meeting.com?subject=subscribe>
+Sender: toefl-bounces@server.cool-meeting.com
+Errors-To: toefl-bounces@server.cool-meeting.com
+X-UIDL: mdc!!2bK!!WD6!!B%$"!
+
+除了在大洋两边，你能再给我一个更合理些的楼主不使用短信的理由吗？
+我们讨论的不是技术问题。。。
+: 标  题: Re: 这7天不好过呀
+: 发信站: 水木社区 (Mon Jun 13 02:35:14 2005), 站内
+: 
+: 大洋两边貌似也可以发短信吧……
+: : 你们是在大洋两边吧？
+: : 否则就无法理解为什么不发短消息了。。。。。
+: 
+: 
+: 
+: --
+: 有关大雁塔
+: 我们又能知道些什么？
+: 我们爬上去
+: 看看四周的风景
+: 然后再下来 
+: 
+: ※ 来源:·水木社区 http://newsmth.net·[FROM: 211.151.90.*]
+

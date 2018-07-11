@@ -1,0 +1,25 @@
+Return-Path: <fan@rbl.ccert.edu.cn>
+Received: from rbl.ccert.edu.cn (rbl.ccert.edu.cn [202.112.57.71])
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id i97BSFCa019209
+	for <xin@ccert.edu.cn>; Thu, 7 Oct 2004 19:28:15 +0800 (CST)
+Received: from rbl.ccert.edu.cn (localhost.localdomain [127.0.0.1])
+	by rbl.ccert.edu.cn (8.12.11/8.12.11) with ESMTP id i97BYFGf023118
+	for <xin@ccert.edu.cn>; Thu, 7 Oct 2004 19:34:15 +0800
+Received: (from qa@localhost)
+	by rbl.ccert.edu.cn (8.12.11/8.12.11/Submit) id i97BYFVQ023117;
+	Thu, 7 Oct 2004 19:34:15 +0800
+Date: Thu, 7 Oct 2004 19:34:15 +0800
+Message-Id: <200410071134.i97BYFVQ023117@rbl.ccert.edu.cn>
+Subject: =?gb2312?B?UmU6INTZxsChttC0uPjSqszuuN+/vNa+1Li1xMjLw8ejrLzmzLi149DQ0rW/tLeoobc=?=
+To: xin@ccert.edu.cn
+From: Tran Quang Anh <fan@cernet.edu.cn>
+Content-Type: multipart/mixed; boundary="----------=_1097148855-996-896"
+MIME-Version: 1.0
+X-UIDL: `'$"!cg/"!h8K!!SG0!!
+
+这个说的好
+: 北京人，甚至是全国群众，对清华“疯狂崇拜”的问题，是否可以换一个角度考虑：“清华”两字在中国老百姓眼中，知名度和美誉度非常之高。对普通人来说，这个招牌可以给他的原来不太可能有机会，例如换行业的时候，也包括找女朋友的时候。你的分析其实有个内部矛盾，一方
+: 而“赌注”问题，结论应该相反才是。现在北邮是很好，但是在父辈的眼中，他们看到更多的热门行业变迁。邮电也就这10年才兴起，之前热门的行业却在这段事情沉寂了。没有多少父母敢说自己一定能看清楚10年20年之后什么行业最热门，而大学是对孩子影响一辈子的事情。如果孩
+: 至于后面分析的“成本效用”问题，只是回头看的结果而已。真正在电信业高速成长中获得丰厚回报的人，恐怕也是资格很老的人了，他们当年面对的高考选择，并不是我们现在看到的这样的。而根据现在的美好形势去报考电信，回报并不会特别高的。这不是单指电信，对每个行业都
+: ...................
+

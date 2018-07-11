@@ -1,0 +1,29 @@
+Return-Path: <ke@color8th.com>
+Received: from color8th.com ([61.129.115.58])
+	by home.ccert.edu.cn (MIMEDefang) with ESMTP id NOQUEUE
+	for <yan@ccert.edu.cn>; Mon, 20 Jun 2005 15:44:07 +0800 (CST)
+Received: from webserver [61.129.115.58] by color8th.com with ESMTP
+  (SMTPD32-8.10) id A7EA12490216; Mon, 20 Jun 2005 16:01:46 +0800
+MIME-Version: 1.0
+X-Priority: 3
+X-MSMail-Priority: Normal
+From: =?GB2312?B?tdqwy8mrsso=?= <ke@color8th.com>
+Subject: =?gb2312?B?tdqwy8mrssq9u9PRyefH+KOs0MLG5qOs09DIpA==?=
+To: yan@ccert.edu.cn
+Content-Type: text/plain;
+	charset="GB2312"
+Sender: "第八色彩" <sendMail@color8th.com>
+Reply-To: ke@color8th.com
+Date: Mon, 20 Jun 2005 16:01:46 +0800
+X-Library: Indy 9.00.10
+Message-Id: <200506201601140.SM01788@webserver>
+
+网上互动 - 虚拟形象、设计小屋、自建俱乐部、人气论坛、缘分天使、吃喝玩乐、知识竞技场、跑马场、休闲世界、精彩文章、完善的个人控制后台...
+
+线下活动 - Speed Dating、神秘晚餐、各类派对、击剑笑人生、可米羽毛球、彩弹射击、美丽邂逅、双休旅游...
+
+还等什么，快来加入我们吧
+
+http://www.iam8.com
+http://www.color8th.com
+

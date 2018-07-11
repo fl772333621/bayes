@@ -1,0 +1,54 @@
+Return-Path: <peng@mails.tsinghua.edu.cn>
+Received: from tsinghua.org.cn ([210.77.143.228])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id iAS8BXDc002650
+	for <cai@ccert.edu.cn>; Sun, 28 Nov 2004 16:11:35 +0800
+Received: (eyou send program); Sun, 28 Nov 2004 14:48:34 +0800
+Received: (eyou send program); Sun, 28 Nov 2004 14:48:34 +0800
+X-EYOU-ORIGINAL-IP: 210.77.143.235
+X-EYOU-ENVELOPE-MAILFROM: toefl-bounces@server.cool-meeting.com
+Received: from unknown (HELO eyou.net) (unknown@210.77.143.235)
+ by 210.77.143.228 with SMTP; Sun, 28 Nov 2004 14:48:34 +0800
+Received: (eyou send program); Sun, 28 Nov 2004 14:43:51 +0800
+Message-ID: <301624231.21480@eyou.net>
+Received: from 202.38.99.65 by 210.77.143.235 with SMTP; Sun, 28 Nov 2004 14:43:39 +0800
+Received: from server.cool-meeting.com (localhost.localdomain [127.0.0.1])
+	by server.cool-meeting.com (8.12.8/8.12.8) with ESMTP id iAS73slY001818
+	for <cai@ccert.edu.cn>; Sun, 28 Nov 2004 15:04:01 +0800
+Received: from mails.tsinghua.edu.cn (mails.tsinghua.edu.cn [166.111.8.16])
+	by server.cool-meeting.com (8.12.8/8.12.8) with SMTP id iAS73lkr001814
+	for <cai@ccert.edu.cn>; Sun, 28 Nov 2004 15:03:47 +0800
+Received: (eyou send program); Sun, 28 Nov 2004 14:42:43 +0800
+Message-ID: <301624163.17095@mails.tsinghua.edu.cn>
+Received: from 219.224.139.41 by mails.tsinghua.edu.cn with HTTP;
+	Sun, 28 Nov 2004 14:42:43 +0800
+X-WebMAIL-MUA: [219.224.139.41]
+From: "peng" <peng@mails.tsinghua.edu.cn>
+To: cai@ccert.edu.cn
+Date: Sun, 28 Nov 2004 14:42:43 +0800
+Content-Type: text/plain
+Cc: 
+Subject: =?gb2312?B?ofEgyKXW0LuvvK/Nxc/C0ru49tfcuavLvtf2seC8rdPr18nRr7rNyKXLvdOqt7+12LL6uavLvtf2
+19yyw8M=?=
+X-BeenThere: toefl@server.cool-meeting.com
+X-Mailman-Version: 2.1.2
+Precedence: list
+Reply-To: peng@mails.tsinghua.edu.cn
+List-Id: &#26446;&#26143;&#21644;&#20182;&#30340;&#23398;&#29983;&#20204;
+	<toefl.server.cool-meeting.com>
+List-Unsubscribe: <http://server.cool-meeting.com/mailman/listinfo/toefl>,
+	<mailto:toefl-request@server.cool-meeting.com?subject=unsubscribe>
+List-Archive: <http://server.cool-meeting.com/mailman/private/toefl>
+List-Post: <mailto:toefl@server.cool-meeting.com>
+List-Help: <mailto:toefl-request@server.cool-meeting.com?subject=help>
+List-Subscribe: <http://server.cool-meeting.com/mailman/listinfo/toefl>,
+	<mailto:toefl-request@server.cool-meeting.com?subject=subscribe>
+Sender: toefl-bounces@server.cool-meeting.com
+Errors-To: toefl-bounces@server.cool-meeting.com
+X-UIDL: K]W"!l*>"!p25!!d~~!!
+
+去中化集团下一个总公司叫昊华化工总公司做化工刊物编辑外加下面的小化工公司企业管理咨询工作,解决户口,工资4500加咨询项目提成 
+和去房地产公司叫新恒基集团做总裁秘书(主要写报告,做市场分析)哪个好?那个总裁还是首富排行榜里原来中国18位,现在45位,是国美总裁(首富第一)那个的哥哥/,但是不解决户口 
+请大家支招,明天就要决定了 
+谢谢大家帮忙,我晕了, 从挣钱和将来的事业发展等角度我该怎么选啊,大家!谢谢!
+我是一个好大学研究生
+

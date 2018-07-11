@@ -1,0 +1,36 @@
+Return-Path: <wang@mails.tsinghua.edu.cn>
+Received: from mails.tsinghua.edu.cn (mails.tsinghua.edu.cn [166.111.8.16])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id iAM8iBJO009002
+	for <mei@ccert.edu.cn>; Mon, 22 Nov 2004 16:44:11 +0800 (CST)
+Received: (eyou send program); Mon, 22 Nov 2004 16:38:52 +0800
+Message-ID: <301112732.28167@mails.tsinghua.edu.cn>
+Received: from unknown (HELO mails.tsinghua.edu.cn) (unknown@127.0.0.1)
+ by 127.0.0.1 with SMTP; Mon, 22 Nov 2004 16:38:52 +0800
+X-scanvirus: By Symantec Scan Engine
+X-scanresult: CLEAN
+Received: (eqmail ); 22 Nov 2004 08:38:48 -0000
+Received: from tu203210.tsinghua.edu.cn (HELO xiner) (xwang03@166.111.203.210)
+  by mails.tsinghua.edu.cn with SMTP; 22 Nov 2004 08:38:48 -0000
+Message-ID: <002301c4d06f$66a122c0$d2cb6fa6@xiner>
+From: "wang" <wang@mails.tsinghua.edu.cn>
+To: mei@ccert.edu.cn
+Subject: =?gb2312?B?UmU6IL+80dDV5srHutqwtQ==?=
+Date: Mon, 22 Nov 2004 16:43:40 +0800
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="----=_NextPart_000_001F_01C4D0B2.6C70BBA0"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2900.2180
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+X-UIDL: k"N!!&*F"!XM=!!bPN!!
+Status: RO
+
+复旦经济学院今年复试线365，但是就有一个人340就参加复试了。
+有个学生去研招办查了一下复试名单的排名，好说歹说才给看，结果正好那学生看见最后一名是340分，研招办的人还想用手捂住没来得及。这个学生就问340分的怎么就参加复试。结果研招办的人只丢了一句：你管这么多干嘛，你参加复试了不就行了。
+呵呵，里面的黑暗面是人都可想而知啦。
+: 原来以为国家线都没过始终是不能读的
+: 可是北京交大竟然是可以招收
+: 既不是分数特高而且单科也没过线的学生
+: ...................
+

@@ -1,0 +1,40 @@
+Return-Path: <yi@tsinghua.edu.cn>
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by unknown (8.12.11/8.12.11) with SMTP id j5DG7iW9005737
+	for <xing@ccert.edu.cn>; Tue, 14 Jun 2005 00:07:48 +0800 (CST)
+Received: (eyou send program); Mon, 13 Jun 2005 23:49:23 +0800
+Message-ID: <318677763.00228@mail.tsinghua.edu.cn>
+Received: from unknown (HELO mail.tsinghua.edu.cn) (unknown@127.0.0.1)
+ by 127.0.0.1 with SMTP; Mon, 13 Jun 2005 23:49:23 +0800
+X-scanvirus: By Symantec Scan Engine
+X-scanresult: CLEAN
+Received: (eqmail ); 13 Jun 2005 15:49:23 -0000
+Received: from th042098.ip.tsinghua.edu.cn (HELO sony) (duanhx@59.66.42.98)
+  by localhost with SMTP; 13 Jun 2005 15:49:23 -0000
+Message-ID: <018e01c57032$0534cfb0$5618423b@sony>
+From: "yi" <yi@tsinghua.edu.cn>
+To: xing@ccert.edu.cn
+References: <318661778.20346@mail.tsinghua.edu.cn>
+Subject: =?gb2312?B?ofEgt6LOxMfs16Ojurunv9rJ88X6y7PA+82ouf0=?=
+Date: Tue, 14 Jun 2005 00:07:37 +0800
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2900.2180
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+Content-Transfer-Encoding: 8bit
+X-MIME-Autoconverted: from base64 to 8bit by unknown id j5DG7iW9005737
+X-UIDL: &Sm!!)(+"!UGl"!]?-"!
+
+昨天晚上在海淀人事局网站上查到的
+我办户口的过程比较曲折
+年前我就答应留在实习的公司，不用再面试、笔试
+HR说让我等offer，然后办户口，最后他们竟然疏忽忘了给我发offer
+等我4月底问的时候，告诉我第一批已经申报了
+我只好等第二批了，到5月份提交材料
+等了一个月，HR电话告诉我成绩单有问题，当时很急
+6月初又在次提交材料，这次办理特别快，10天后审批通过
+整个过程中HR一直跟我说，你就放心得等吧，虽然耽误了一些时间，但肯定能审批通过，呵呵，真是感谢公司HR jj
+

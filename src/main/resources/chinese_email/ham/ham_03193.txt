@@ -1,0 +1,37 @@
+Return-Path: <li@tsinghua.edu.cn>
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with SMTP id j051Y4Jg009451
+	for <peng@ccert.edu.cn>; Wed, 5 Jan 2005 09:34:05 +0800
+Received: (eyou send program); Wed, 05 Jan 2005 09:32:55 +0800
+Message-ID: <304888775.00042@mail.tsinghua.edu.cn>
+Received: from unknown (HELO mail.tsinghua.edu.cn) (unknown@127.0.0.1)
+ by 127.0.0.1 with SMTP; Wed, 05 Jan 2005 09:32:55 +0800
+X-scanvirus: By Symantec Scan Engine
+X-scanresult: CLEAN
+Received: (eqmail ); 5 Jan 2005 01:32:52 -0000
+Received: from unknown (HELO sony) (duanhx@166.111.204.189)
+  by localhost with SMTP; 5 Jan 2005 01:32:52 -0000
+Message-ID: <003901c4f2c8$a601e6e0$8ae86fa6@sony>
+From: "li" <li@tsinghua.edu.cn>
+To: peng@ccert.edu.cn
+Subject: =?gb2312?B?UmU6ILnY09qwrsGi0MXR0Lei1tDQxKOsztKyu7XDsrvLtcG9vuQ=?=
+Date: Wed, 5 Jan 2005 09:48:25 +0800
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2800.1106
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1106
+Content-Transfer-Encoding: 8bit
+X-MIME-Autoconverted: from base64 to 8bit by home.ccert.edu.cn id j051Y4Jg009451
+X-UIDL: +CD!!1AI!!bW3"!1@2"!
+
+兄弟，这叫压力面试，公司故意态度傲慢，不准时，刁难你－－考验你的承受能力。
+以后的工作中，除非你自己当老板或者做甲方， 否则总要遇到比这些更气人的事情。
+你要是实在觉的不爽，当时就应该豁出去，用流利的英语质问面试官，只要你把事实道理说清楚，对方一般作出解释，甚至道歉的。（当然要准备好，把你一棒子打出去。。)
+: 先说说我得面试经历。
+: 首先，突然一天早上收到他们的电话，说下午6点面试，不要迟到。还
+: 必须自带简历和照片。口气很生硬。当然，为了找工作，我也就答应了。
+: ...................
+

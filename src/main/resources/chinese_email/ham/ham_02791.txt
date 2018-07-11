@@ -1,0 +1,25 @@
+Return-Path: <yun@rbl.ccert.edu.cn>
+Received: from rbl.ccert.edu.cn (rbl.ccert.edu.cn [202.112.57.71])
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id i97Gwnw5022933
+	for <ma@ccert.edu.cn>; Fri, 8 Oct 2004 00:58:49 +0800 (CST)
+Received: from rbl.ccert.edu.cn (localhost.localdomain [127.0.0.1])
+	by rbl.ccert.edu.cn (8.12.11/8.12.11) with ESMTP id i97H4nXS008875
+	for <ma@ccert.edu.cn>; Fri, 8 Oct 2004 01:04:49 +0800
+Received: (from qa@localhost)
+	by rbl.ccert.edu.cn (8.12.11/8.12.11/Submit) id i97H4nVl008874;
+	Fri, 8 Oct 2004 01:04:49 +0800
+Date: Fri, 8 Oct 2004 01:04:49 +0800
+Message-Id: <200410071704.i97H4nVl008874@rbl.ccert.edu.cn>
+Subject: =?gb2312?B?UmU6INbQufqyxMHPzfjD5s/ywO25pMDgtcTN+MnPyMuyxcrQs6GjrLTzvNLIpb+0v7TRvQ==?=
+To: ma@ccert.edu.cn
+From: Tran Quang Anh <yun@cernet.edu.cn>
+Content-Type: multipart/mixed; boundary="----------=_1097168689-1044-38"
+MIME-Version: 1.0
+X-UIDL: U/2!!J%A"!Rfo!!5)k"!
+
+别发了，一点用都没有
+: 为了拓宽我国高等院校理工类特别是材料专业毕业生的就业渠道，促进学子们充分就业，发挥他们的知识和技能为我国材料企业和材料产业的发展做出更大的贡献，促进我国材料产业界产、学、研的良性发展，推动我国经济向可持续发展方向迈进，教育部科技委材料学部特开设直接面
+: 在此，中国材料网欢迎大家踊跃登陆中国材料网人才市场，免费注册并发布简历及招聘！网站地址为：http://www.materials.gov.cn/mat2005/rencai/index.asp 
+: 人才市场不仅面向材料学子及企业，更欢迎理工类的学子及企业共同参与进来，构筑我国理工类求职招聘的综合信息平台，开拓理工领域广阔的就业招聘空间。 
+: ...................
+

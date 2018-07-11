@@ -1,0 +1,30 @@
+Return-Path: <jian@rbl.ccert.edu.cn>
+Received: from rbl.ccert.edu.cn (rbl.ccert.edu.cn [202.112.57.71])
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id i91BhqHQ004919
+	for <luo@ccert.edu.cn>; Fri, 1 Oct 2004 19:43:53 +0800 (CST)
+Received: from rbl.ccert.edu.cn (localhost.localdomain [127.0.0.1])
+	by rbl.ccert.edu.cn (8.12.11/8.12.11) with ESMTP id i91BnRFl026666
+	for <luo@ccert.edu.cn>; Fri, 1 Oct 2004 19:49:27 +0800
+Received: (from qa@localhost)
+	by rbl.ccert.edu.cn (8.12.11/8.12.11/Submit) id i91BnRAn026665;
+	Fri, 1 Oct 2004 19:49:27 +0800
+Date: Fri, 1 Oct 2004 19:49:27 +0800
+Message-Id: <200410011149.i91BnRAn026665@rbl.ccert.edu.cn>
+Subject: =?gb2312?B?ofEg0ru089Tnsbuzs8bwwLQ=?=
+To: luo@ccert.edu.cn
+From: Tran Quang Anh <jian@cernet.edu.cn>
+Content-Type: multipart/mixed; boundary="----------=_1096631367-996-272"
+MIME-Version: 1.0
+X-UIDL: %%U!!X;@"!a-%#!Hc;!!
+
+        昨天也是这个时候, 楼下开始敲墙, 好像是为了做生意
+        然后一天都没有停, 包括中午, 让我根本没法休息
+        因为我周末休息的比较晚, 白天希望能多睡会, 但是根本没法休息
+        然后今天又是这样, 刚才就被吵起来了
+        我这住的虽然是农民房, 但也得守点基本的道德吧
+        然后我跑下去和他们理论, 说他们这样周末敲墙影响人休息,
+        他们却说只有一两天, 要我忍耐
+        我很不爽, 想打电话举报这样的情况可以么?
+        我也不知道打什么电话好, 有没有有经验的朋友指导一下阿?
+        多谢了
+

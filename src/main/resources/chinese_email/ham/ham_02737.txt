@@ -1,0 +1,41 @@
+Return-Path: <ling@rbl.ccert.edu.cn>
+Received: from rbl.ccert.edu.cn (rbl.ccert.edu.cn [202.112.57.71])
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id i9E48aMR001211
+	for <peng@ccert.edu.cn>; Thu, 14 Oct 2004 12:08:36 +0800 (CST)
+Received: from rbl.ccert.edu.cn (localhost.localdomain [127.0.0.1])
+	by rbl.ccert.edu.cn (8.12.11/8.12.11) with ESMTP id i9E4E7Bv005504
+	for <peng@ccert.edu.cn>; Thu, 14 Oct 2004 12:14:07 +0800
+Received: (from qa@localhost)
+	by rbl.ccert.edu.cn (8.12.11/8.12.11/Submit) id i9E4E74C005503;
+	Thu, 14 Oct 2004 12:14:07 +0800
+Date: Thu, 14 Oct 2004 12:14:07 +0800
+Message-Id: <200410140414.i9E4E74C005503@rbl.ccert.edu.cn>
+Subject: =?gb2312?B?UmU6IM/Q18XO3srCo7rM+dK7z8Kxvr/GsOC1xL7N0rXH6b/2KFpaKQ==?=
+To: peng@ccert.edu.cn
+From: Tran Quang Anh <ling@cernet.edu.cn>
+Content-Type: multipart/mixed; boundary="----------=_1097727247-2811-22"
+MIME-Version: 1.0
+X-UIDL: e!U!!M[W!!]EU"!1V~!!
+Status: U
+
+中国电信北京研究院 技术部
+招本科生?非常怀疑.
+: 发信人: whitetea (重拾目标), 信区: Career_Offer
+: 标  题: 闲着无事：贴一下本科班的就业情况
+: 发信站: BBS 水木清华站 (Sun Jun 12 13:03:25 2005), 站内
+: ...................
+北邮的，呵呵，同学们找的工作都还不错
+注：这是本科班的同学，其中有2/3读研。30人中，除一人继续在清华的学业，一人去香港读PHD，其他人均就业
+供大家参考，嘿嘿
+中国电信北京研究院 技术部
+珠海电信公司市场部
+京移通信设计院有限公司第四设计所
+华为北研所无线预研一部
+摩托罗拉（中国） GTSS部
+南昌联通移动部
+法国电信北京研发中心无线系统实验室
+香港城市大学电子工程系
+北京网通维护中心长途电信线路局
+青岛网通网管中心
+北京网通运营服务中心
+

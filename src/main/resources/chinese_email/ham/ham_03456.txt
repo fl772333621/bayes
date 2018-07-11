@@ -1,0 +1,23 @@
+Return-Path: <ke@rbl.ccert.edu.cn>
+Received: from rbl.ccert.edu.cn (rbl.ccert.edu.cn [202.112.57.71])
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id i96AxhSK003325
+	for <yana@ccert.edu.cn>; Wed, 6 Oct 2004 18:59:43 +0800 (CST)
+Received: from rbl.ccert.edu.cn (localhost.localdomain [127.0.0.1])
+	by rbl.ccert.edu.cn (8.12.11/8.12.11) with ESMTP id i96B5d4S016708
+	for <yana@ccert.edu.cn>; Wed, 6 Oct 2004 19:05:39 +0800
+Received: (from qa@localhost)
+	by rbl.ccert.edu.cn (8.12.11/8.12.11/Submit) id i96B5dr3016707;
+	Wed, 6 Oct 2004 19:05:39 +0800
+Date: Wed, 6 Oct 2004 19:05:39 +0800
+Message-Id: <200410061105.i96B5dr3016707@rbl.ccert.edu.cn>
+Subject: =?gb2312?B?UmU6ILK7tcOyu8frvcy087zSwcujrMv9zqrKssO0zbvIu8Dkta3Byz/NtL/gaW5n?=
+To: yana@ccert.edu.cn
+From: Tran Quang Anh <ke@cernet.edu.cn>
+Content-Type: multipart/mixed; boundary="----------=_1097060739-996-598"
+MIME-Version: 1.0
+X-UIDL: 2=R!!\:>"!I$9"!:!l"!
+
+你也冷淡点。别太当回事儿。即使你心里特在意。把女孩捧到一定高度不是追女孩的好办法。一定要让她自己觉得你好。从细微的事情上下手。
+:    认识了一个女生20多天,上周进展挺顺利的.上周她家教,她发短信问我有没有时间她家教完陪她走夜路.上周一、三她家教完我接的她，周末又在一起吃的饭看的电影。而且上周她还时不时给我发个短信。可是不知道为什么最近几天她突然冷淡了，也不找我了，也没有短信了，好象消失了一样。哎，这几天偶学也学不进去，睡也没睡好，请教各位DXJM了。
+:   BTW：她上周给我发过这样一短信：“不要对我太好，我能看出来你喜欢我，可是我无法对你做出回应。.....”。
+

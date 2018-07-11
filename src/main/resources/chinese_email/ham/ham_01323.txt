@@ -1,0 +1,23 @@
+Return-Path: <sun@cernet.edu.cn>
+Received: from WZJ (tu203030.ip.tsinghua.edu.cn [166.111.203.30])
+	(authenticated bits=0)
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id j3783MKA015783;
+	Thu, 7 Apr 2005 16:03:29 +0800 (CST)
+Message-Id: <200504070803.j3783MKA015783@sea.net.edu.cn>
+Date: Thu, 7 Apr 2005 16:03:18 +0800
+From: "sun" <sun@cernet.edu.cn>
+To: fu@ccert.edu.cn
+Subject: =?gb2312?B?UmU6IM7S1dK5pNf3tcTSu7XjuNDP6w==?=
+Organization: Tsinghua University
+X-mailer: Foxmail 5.0 [cn]
+Mime-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="=====001_Dragon666261423678_====="
+X-UIDL: I7o"!%1!"!m'J"!TFT"!
+
+好在没说是经验之谈，
+:     去年找工作总的来说还算顺利，也像略微的写点东西。
+:     找工作之前其实自己也很多事情没有想清楚，比如自己适合做什么，但我这样告诉自己，就是清华的一个硕士，还算是不冷的专业，肯定会有地方落脚的。最终看我周围的人，也的确是这样。这么一想就放松了些。
+:     我自己投的简历并不算多，因为我觉得那种漫天的撒网的方式确实不适合我，再加上实验室的事情也比较紧张，不可能让我没完没了地到处跑着面试。所以找工作之前的很长一段时间，我都在分析自己，主要是两个方面，一个是自己的专业对应的公司有哪些，另外一个是自己的实践和实习经历主要集中在哪个方面，然后最终的目标选择就集中在这两块了。因为这是我最有优势的两块，在别的方面去跟别人竞争，我确实没有很大的把握，因为我不是那种什么都牛的牛人。
+: ...................
+

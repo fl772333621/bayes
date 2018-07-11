@@ -1,0 +1,24 @@
+Return-Path: <gao@rbl.ccert.edu.cn>
+Received: from rbl.ccert.edu.cn (rbl.ccert.edu.cn [202.112.57.71])
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id i934DIjV020029
+	for <kang@ccert.edu.cn>; Sun, 3 Oct 2004 12:13:18 +0800 (CST)
+Received: from rbl.ccert.edu.cn (localhost.localdomain [127.0.0.1])
+	by rbl.ccert.edu.cn (8.12.11/8.12.11) with ESMTP id i934J14g022508
+	for <kang@ccert.edu.cn>; Sun, 3 Oct 2004 12:19:01 +0800
+Received: (from qa@localhost)
+	by rbl.ccert.edu.cn (8.12.11/8.12.11/Submit) id i934J1OM022507;
+	Sun, 3 Oct 2004 12:19:01 +0800
+Date: Sun, 3 Oct 2004 12:19:01 +0800
+Message-Id: <200410030419.i934J1OM022507@rbl.ccert.edu.cn>
+Subject: =?gb2312?B?UmU6IKH+xOO/vMnP0dC+v8n6o6zO0r7NvN64+MTjo6yjrMTj1LjS4te3x/PV4tH5tcTFrsjLwvCj
+vw==?=
+To: kang@ccert.edu.cn
+From: Tran Quang Anh <gao@cernet.edu.cn>
+Content-Type: multipart/mixed; boundary="----------=_1096777141-996-376"
+MIME-Version: 1.0
+X-UIDL: (OW!!,FL!!<IJ!!2$<!!
+
+她要是觉得读研究生可以改善你们俩的生活，她为什么自己不去考呢？现在不是提倡男女平等吗？她真的爱你就应该愿意为你吃苦啊。要不然，干脆别说什么你考不上研究生就怎么怎么样这种没出息的话，你考研她应该鼓励，但不应该拿你们的那点关系来威胁。
+: 我知道自己不优秀，成绩不好样子也不帅，我离你又很远。心离的比路还要远，
+: 你说你考上研究生会嫁给我，难到我是研究生我才会学会怎么爱你，怎么和你共度一生吗？
+

@@ -1,0 +1,34 @@
+Return-Path: <gan@rbl.ccert.edu.cn>
+Received: from rbl.ccert.edu.cn (rbl.ccert.edu.cn [202.112.57.71])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id i9T3S2hu026436
+	for <wu@ccert.edu.cn>; Fri, 29 Oct 2004 11:28:02 +0800
+Received: from rbl.ccert.edu.cn (localhost.localdomain [127.0.0.1])
+	by rbl.ccert.edu.cn (8.12.11/8.12.11) with ESMTP id i9T3jAL1016277
+	for <wu@ccert.edu.cn>; Fri, 29 Oct 2004 11:45:26 +0800
+Received: (from qa@localhost)
+	by rbl.ccert.edu.cn (8.12.11/8.12.11/Submit) id i9T3j5AT016272;
+	Fri, 29 Oct 2004 11:45:05 +0800
+Date: Fri, 29 Oct 2004 11:45:05 +0800
+Message-Id: <200410290345.i9T3j5AT016272@rbl.ccert.edu.cn>
+Subject: Re: 真搞笑，看看这个白痴的局长
+To: wu@ccert.edu.cn
+From: gan@rbl.ccert.edu.cn
+Content-Type: multipart/mixed; boundary="----------=_1099021531-20866-126"
+MIME-Version: 1.0
+X-UIDL: )E)"!![#"!9O'!!Dk*!!
+
+Who we are:
+We are a startup company founded by MIT (Massachusetts Institute of Technology) graduates targeting unexplored software and gaming markets in China.  We are currently conducting a search at China\'s best universities for two to three top notch programmers.  We offer a dynamic work environment, invaluable experience working with other bright and talented individuals, and a very competitive salary. 
+What we are looking for:
+"       Demonstrated experience and fluency in software design and programming
+"       Resourcefulness and good problem-solving abilities
+"       Energy and an entrepreneurial spirit
+"       Ability to work independently and in a team-environment
+"       Additionally, the following characteristics are a plus but not required:
+o       Participation in programming competitions (for example: International Collegiate Programming Contest (ICDC), Internet Problem Solving Contest, Topcoder) 
+o       You probably noticed we did not list any programming language.  Our experience is that if you are smart, hardworking, and passionate about programming, you should be able to pick up a programming language and become proficient in it very quickly.  
+How to apply:
+If you are interested in this unique opportunity, please email the following information to seabass@alum.mit.edu and johngu@alum.mit.edu:
+"       Resume in English and Chinese
+"       A description of the most challenging software project you worked on, whether individually or in a group.  If you worked in a group, please tell us the pieces of the software you worked on.  Please attach sample code to demonstrate your coding style and abilities.  We prefer people who have spent time developing software.  
+

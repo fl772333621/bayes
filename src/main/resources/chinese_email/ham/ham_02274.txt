@@ -1,0 +1,25 @@
+Return-Path: <lian@rbl.ccert.edu.cn>
+Received: from rbl.ccert.edu.cn (rbl.ccert.edu.cn [202.112.57.71])
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id i97KP72k025285
+	for <wang@ccert.edu.cn>; Fri, 8 Oct 2004 04:25:08 +0800 (CST)
+Received: from rbl.ccert.edu.cn (localhost.localdomain [127.0.0.1])
+	by rbl.ccert.edu.cn (8.12.11/8.12.11) with ESMTP id i97KV8iX028502
+	for <wang@ccert.edu.cn>; Fri, 8 Oct 2004 04:31:08 +0800
+Received: (from qa@localhost)
+	by rbl.ccert.edu.cn (8.12.11/8.12.11/Submit) id i97KV8U6028501;
+	Fri, 8 Oct 2004 04:31:08 +0800
+Date: Fri, 8 Oct 2004 04:31:08 +0800
+Message-Id: <200410072031.i97KV8U6028501@rbl.ccert.edu.cn>
+Subject: =?gb2312?B?UmU6INT1w7S2wcrpo6y2wcqyw7TK6brN16zHrrv5sb7Jz8O7udjPtQ==?=
+To: wang@ccert.edu.cn
+From: Tran Quang Anh <lian@cernet.edu.cn>
+Content-Type: multipart/mixed; boundary="----------=_1097181068-1044-90"
+MIME-Version: 1.0
+X-UIDL: MfL"!6Tk!!0=O"![gA!!
+
+多数人还是普通人，不要走极端
+: 什么叫有钱？靠读书，靠学校，靠专业基本上不会成为有钱人。
+: 楼主认为应该去北邮读通信，那不用举盖茨的例子，就举国内通信行业的例子。华为老板重庆某二流大学，没毕业证。现在掌管年销售400多亿的公司。而北邮通信的学生去深圳也只是打工仔，在深圳可以供供楼，好点的养养车。其收入不见得比深圳本地农民多。
+: 赚钱是必须的，读书也是必须的。怎么读书，读什么书和赚钱基本上没关系。
+: ...................
+

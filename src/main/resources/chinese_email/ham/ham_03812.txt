@@ -1,0 +1,29 @@
+Return-Path: <lei@cernet.edu.cn>
+Received: from ccertspark (tu203021.ip.tsinghua.edu.cn [166.111.203.21])
+	(authenticated bits=0)
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id j3E0wUPZ028816;
+	Thu, 14 Apr 2005 08:58:31 +0800 (CST)
+From: "lei" <lei@cernet.edu.cn>
+To: weng@ccert.edu.cn
+Subject: =?gb2312?B?UmU6ILTzvNK2vMzYsfDU2rr1tP3T9sLwo78=?=
+Date: Thu, 14 Apr 2005 08:56:51 +0800
+Message-ID: <003501c5408c$d8e1e850$15cb6fa6@ccertspark>
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+X-Priority: 3 (Normal)
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook, Build 10.0.6626
+Importance: Normal
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.3790.181
+In-Reply-To: <300049396.24600@mail.tsinghua.edu.cn>
+Content-Transfer-Encoding: 8bit
+X-MIME-Autoconverted: from quoted-printable to 8bit by sea.net.edu.cn id j3E0wUPZ028816
+X-UIDL: 6b-!!4(S"!~6Z!!CW'#!
+
+你本科开始工作吧
+: 我不着急，呵呵，我又不找工作，我只是发表一下我的看法罢了。:)
+: btw：俺下下个月就28了，房子是有了，打算明年买车，媳妇也找了，呵呵
+: 想当年99年从清华出来的时候去上地一家外企，一个月就开3000多，住北大东门小平房，慢慢熬到现在第六年了，现在在一个60人的公司当技术副总，每年公司做几千万的项目，也算混的还行，温饱基本还是解决了，工作之余还能玩玩网络游戏，做做自己喜欢的技术研究，也挺不错。
+: ...................
+

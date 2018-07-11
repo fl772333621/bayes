@@ -1,0 +1,33 @@
+Return-Path: <ma@mails.tsinghua.edu.cn>
+Received: from mails.tsinghua.edu.cn (mails.tsinghua.edu.cn [166.111.8.16])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id i8R9GJ0L004308
+	for <huang@ccert.edu.cn>; Mon, 27 Sep 2004 17:16:19 +0800 (CST)
+Received: (eyou send program); Mon, 27 Sep 2004 17:11:15 +0800
+Message-ID: <296276275.27033@mails.tsinghua.edu.cn>
+Received: from unknown (HELO mails.tsinghua.edu.cn) (unknown@127.0.0.1)
+ by 127.0.0.1 with SMTP; Mon, 27 Sep 2004 17:11:15 +0800
+X-scanvirus: By Symantec Scan Engine
+X-scanresult: CLEAN
+Received: (eqmail ); 27 Sep 2004 09:11:09 -0000
+Received: from unknown (HELO lulh) (xwang03@202.112.50.170)
+  by mails.tsinghua.edu.cn with SMTP; 27 Sep 2004 09:11:09 -0000
+Message-ID: <004401c4a473$49fb0b40$aa3270ca@lulh>
+From: "ma" <ma@mails.tsinghua.edu.cn>
+To: huang@ccert.edu.cn
+Subject: =?gb2312?B?UmU6ILTzvNKw77+0v7Qg1eK49rmry77SqrK70qrIpaO/?=
+Date: Mon, 27 Sep 2004 17:20:50 +0800
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="----=_NextPart_000_0040_01C4A4B6.564322A0"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2800.1437
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1441
+X-UIDL: 5Y<!!TWS!!B]_!!k8o"!
+
+偶碰到一个公司，网页都找不到，要我发照片和对目前项目的想法，还说什么副总经理（一个股东）住郊区，可能不能常来公司，需要一个贴身的助理（可以说秘书吧），这种工作，，，有点怕怕，所以就再没有email给他们。大家的话如何选择？
+: 我是在我们学校就业网站上看到招聘信息的，觉得其中有个岗位：国际部工作人员的要求条件我可以胜任就网投了简历，周四回我油箱说周六面试，具体时间让我打电话过去问他们（为什么他们不给我打？）
+: 面试在清华胜因院，接待人员素质一般，连谁都没给我们倒，其中一个的穿着实在不敢恭维，白衬衫都成黑的了......五个人一起面试，给我们三个同样的问题：为什么选择这个职位；如果通过，对公司具体要求是什么；以前求职中的个人原因有哪些。回答完问题后，就跟我们说下午一点后给他们电话问结果（又是我们打过去！！）
+: 我打去后，对方说让我周一下午带着学生证身份证毕业推荐表过去签实习协议。
+: ...................
+

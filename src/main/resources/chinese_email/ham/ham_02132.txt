@@ -1,0 +1,45 @@
+Return-Path: <tao@ebay.com.cn>
+Received: from autoforward.mail.sohu.com ([61.135.132.166])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id j05FET77015856
+	for <fan@ccert.edu.cn>; Wed, 5 Jan 2005 23:14:29 +0800
+Received: from mx23.mail.sohu.com (unknown [192.168.41.141])
+	by autoforward.mail.sohu.com (Postfix) with ESMTP id E99E78E409
+	for <fan@ccert.edu.cn>; Wed,  5 Jan 2005 23:28:58 +0800 (CST)
+Received: by mx23.mail.sohu.com (Postfix)
+	id AB52314018; Wed,  5 Jan 2005 23:28:57 +0800 (CST)
+Delivered-To: chen741120@mx23.mail.sohu.com
+Received: from mx20.sjc.ebay.com (unknown [66.135.197.16])
+	by admx.sohu.com (Postfix) with ESMTP id 24DCF122BC2
+	for <fan@ccert.edu.cn>; Wed,  5 Jan 2005 23:28:57 +0800 (CST)
+Received: from sj-v3bota03 (sj-v3bota03.sjc.ebay.com [10.6.173.212])
+	by mx20.sjc.ebay.com (8.12.3/8.12.3) with ESMTP id j05FQU5e008010
+	for <fan@ccert.edu.cn>; Wed, 5 Jan 2005 07:28:54 -0800
+Date: Wed, 5 Jan 2005 07:28:54 -0800
+Message-ID: <776232731.1104938934672.JavaMail.ebayapp@sj-v3bota03>
+From: tao@ebay.com.cn
+To: fan@ccert.edu.cn
+Subject: =?gb2312?B?ofEg0MXPotDQ0rXB7LW8yMu1xLHP0rXUutCj?=
+Mime-Version: 1.0
+Content-Type: multipart/mixed; boundary="----------=_1104938070-13540-2"
+X-eBay-MailTracker: 10081..223.0
+X-UIDL: JY&"!#9J!!*YE!!B>T"!
+
+王旭东  天津科技进修学院
+王建宙  浙江大学
+常小兵  南京邮电 清华大学
+张立贵  北京邮电
+王晓初  北京邮电
+周德强  南京邮电
+奚国华  合肥工大 上海交大
+张春江  北京邮电
+田溯宁  辽宁大学
+周寰    哈军工
+张海南  西北工大
+魏少军  清华大学
+蒋耀平  复旦大学
+北邮这个方面是很强，但也无法一手遮天吧，呵呵。
+: 看那么多人问，很想跟大家一起探讨一下，欢迎拍砖，当然，反对谩骂。
+: 感觉这个东西跟job很有关系，好的学校加专业是找到一个好工作的开始，所以发在这，希望斑竹别珊。
+: 读了四年，考了半年研，找了半年工作的一些感想。
+: ...................
+

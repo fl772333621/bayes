@@ -1,0 +1,27 @@
+Return-Path: <han@mails.tsinghua.edu.cn>
+Received: from mails.tsinghua.edu.cn (mails.tsinghua.edu.cn [166.111.8.16])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with SMTP id j5NNQpeb026561
+	for <chi@ccert.edu.cn>; Fri, 24 Jun 2005 07:27:01 +0800
+Message-Id: <200506232327.j5NNQpeb026561@home.ccert.edu.cn>
+X-scanvirus: By SOPHOS Scan Engine
+X-scanresult: CLEAN
+X-Received: unknown,166.111.248.15,20050624072710
+Received: from unknown (HELO tsinghua-5bcc83) (jwr2000@166.111.248.15)
+  by localhost with SMTP; 23 Jun 2005 23:27:10 -0000
+Date: Fri, 24 Jun 2005 07:46:50 +0800
+From: "han" <han@mails.tsinghua.edu.cn>
+To: chi@ccert.edu.cn
+Subject: =?gb2312?B?UmU6ILHP0rXSu8Tqo6y05sHL0rvN8ih6einSu7j2TU3QtLXEo6yyu7Tt?=
+X-mailer: Foxmail 5.0 [cn]
+Mime-Version: 1.0
+Content-Type: multipart/mixed; boundary="----------=_1119569222-21029-553"
+X-StampID: O697fbd202b06803d9aca4a09a741ab66
+X-UIDL: P##"!9dI"!=3?"!,SI"!
+
+我觉得这样的想法很阿Q
+赚钱的能力其实是对自己和亲人的一种保护。即使你觉得没有钱也可以过得快乐，那也可以把钱用来帮助别人。
+: 我希望自己能和最低层的劳动人民在一起生活，朋友给我说过：以我的工资可以在北京生活的很好的。
+: 但年轻人没有必要贪图享受吧，日子的乐趣有很多啊，看看书，和大家聊聊天，做自己喜欢的工作。
+:     100元是我自己给自己定的标准，有时会超支个100或者200，
+: ...................
+

@@ -1,0 +1,33 @@
+Return-Path: <wang@tsinghua.edu.cn>
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j1H2I67M013007
+	for <shi@ccert.edu.cn>; Thu, 17 Feb 2005 10:18:06 +0800 (CST)
+Received: (eyou send program); Thu, 17 Feb 2005 10:01:43 +0800
+Message-ID: <308605703.11041@mail.tsinghua.edu.cn>
+Received: from unknown (HELO mail.tsinghua.edu.cn) (unknown@127.0.0.1)
+ by 127.0.0.1 with SMTP; Thu, 17 Feb 2005 10:01:43 +0800
+X-scanvirus: By Symantec Scan Engine
+X-scanresult: CLEAN
+Received: (eqmail ); 17 Feb 2005 02:01:43 -0000
+Received: from unknown (HELO sony) (duanhx@202.112.35.253)
+  by localhost with SMTP; 17 Feb 2005 02:01:43 -0000
+Message-ID: <005701c51496$e72db730$0201a8c0@sony>
+From: "wang" <wang@tsinghua.edu.cn>
+To: shi@ccert.edu.cn
+Subject: =?gb2312?B?UmU6IL3xzOzKx87SveG76TLW3MTqvM3E7g==?=
+Date: Thu, 17 Feb 2005 10:17:58 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0054_01C514D9.F42A0360"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2900.2180
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+X-UIDL: M6F"!Q?(#!aED"!Q`D!!
+
+这个东西看着很难受啊
+: 其实纪念日这个东西，只是一个数字，看经历的两个人如何去看待罢了。细细想过我和我老公走过的日子，不是因为纪念日突然有感而发，而是从心底某种对生活的感动产生的情愫
+: 我和老公是4年前在一起谈恋爱的。那时的我，一如所有刚谈恋爱的小姑娘，会提出各种各样近乎不近人情的要求。老公是个典型的清华比较木讷的男生，老实的几乎可以用木头来形容。初恋的小姑娘总是希望自己的另一半懂得浪漫，于是我总是数落老公，可是我却没用自己的眼光去�
+: 看到别人的gg呼朋唤友的，我的gg只会在一旁静静的看着，我不免有点委屈，总是数落他，当然我不至于当着别人的面说他，可每次数落他都不太顾及到他的自尊，那时的我，总觉得自己是对的，却怎么都没想到，男人是有自尊的，他们有自己的办事方式，是不能强迫他们的。那时候
+: ...................
+

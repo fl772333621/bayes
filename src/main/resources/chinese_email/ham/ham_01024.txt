@@ -1,0 +1,68 @@
+Return-Path: <you@mails.tsinghua.edu.cn>
+Received: from tsinghua.org.cn ([210.77.143.232])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with SMTP id j3LCkSgu010878
+	for <gao@ccert.edu.cn>; Thu, 21 Apr 2005 20:46:40 +0800
+Received: (eyou send program); Thu, 21 Apr 2005 21:02:53 +0800
+Message-ID: <314088573.18410@tsinghua.org.cn>
+X-EYOU-AUTOFORWARD: tsinghua.org.cn
+Received: (eyou send program); Thu, 21 Apr 2005 21:02:53 +0800
+Message-ID: <314088573.08775@tsinghua.org.cn>
+Received: from unknown (HELO eyou.net) (210.77.143.235)
+ by 210.77.143.232 with SMTP; Thu, 21 Apr 2005 21:02:53 +0800
+X-EYOU-SPAMVALUE: 0
+Received: (eyou anti_spam gateway 3.0); Thu, 21 Apr 2005 20:52:29 +0800
+Message-ID: <314087949.03114@eyou.net>
+Received: from 202.112.49.111 by 210.77.143.235 with SMTP; Thu, 21 Apr 2005 20:52:28 +0800
+Received: from Garfield. (localhost [IPv6:::1])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with ESMTP id j3LCx8Su060974
+	for <gao@ccert.edu.cn>; Thu, 21 Apr 2005 20:59:20 +0800 (CST)
+	(envelope-from toefl-bounces@gradinfo.net.edu.cn)
+Received: from whisper.6test.edu.cn (SERVER.COOL-MEETING.COM [202.38.99.65])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with ESMTP id j3LCx44W060958
+	for <gao@ccert.edu.cn>; Thu, 21 Apr 2005 20:59:04 +0800 (CST)
+	(envelope-from sxx03@mails.tsinghua.edu.cn)
+Received: from mails.tsinghua.edu.cn ([166.111.8.16])
+	by whisper.6test.edu.cn with smtp (Exim 4.50) id 1DObJQ-0001C9-1o
+	for toefl@server.cool-meeting.com; Thu, 21 Apr 2005 21:01:44 +0800
+Received: (eyou send program); Thu, 21 Apr 2005 20:49:42 +0800
+Message-ID: <314087782.17290@mails.tsinghua.edu.cn>
+Received: from 202.38.188.130 by mails.tsinghua.edu.cn with HTTP;
+	Thu, 21 Apr 2005 20:49:42 +0800
+X-WebMAIL-MUA: [202.38.188.130]
+From: you@mails.tsinghua.edu.cn
+To: gao@ccert.edu.cn
+Date: Thu, 21 Apr 2005 20:49:42 +0800
+X-Priority: 3
+Content-Type: multipart/mixed; boundary="----------=_1114087608-987-697"
+Cc: 
+Subject: =?gb2312?B?UmU6IL3xzOy21EdH09DQqcqnzfuhraGt?=
+X-BeenThere: toefl@gradinfo.net.edu.cn
+X-Mailman-Version: 2.1.5
+Precedence: list
+Reply-To: you@mails.tsinghua.edu.cn
+List-Id: "&#26446; &#26143; &#21644; &#20182; &#30340; &#23398; &#29983;
+	&#20204; " <toefl.gradinfo.net.edu.cn>
+List-Unsubscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=unsubscribe>
+List-Archive: <http://gradinfo.net.edu.cn/mailman/private/toefl>
+List-Post: <mailto:toefl@gradinfo.net.edu.cn>
+List-Help: <mailto:toefl-request@gradinfo.net.edu.cn?subject=help>
+List-Subscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=subscribe>
+Sender: toefl-bounces@gradinfo.net.edu.cn
+Errors-To: toefl-bounces@gradinfo.net.edu.cn
+MIME-Version: 1.0
+X-UIDL: Go-"![lA"!6J1!!P<l"!
+
+靠!
+: 男人的朋友和做的事情，女人可以关心，但是不要干涉，不能用自己的想法来取代对方的处理办法。
+: 楼主mm怎么知道是不是因为gg的朋友欠gg的钱或者以前帮过忙答应要报告的？
+: 不是女人的事情，女人最好不要乱干涉。除非对背景了解的特别清楚。
+: 附上老笑话一个：
+: 周六早晨，门铃响了，丈夫在忙，于是妻子从卫生间出来裹上浴巾就去开门。
+: 门开了，是邻居约翰，约翰盯着女主人的身体看了半晌，突然说，“把浴巾解开，我就给你800块钱”
+: 女人想了想，于是就解开了，约翰盯着看，轻轻吹了一声口哨，然后就转身离开了。
+: 妻子关上门进了屋子。“谁呀？”丈夫问。
+: “是邻居约翰。”
+: “太好了，他是不是来还我借给他的800块钱的？”
+

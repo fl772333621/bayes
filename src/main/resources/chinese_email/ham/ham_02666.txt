@@ -1,0 +1,39 @@
+Return-Path: <bai@home.ccert.edu.cn>
+Received: from home.ccert.edu.cn (localhost [127.0.0.1])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id iBF6v0Pv020303;
+	Wed, 15 Dec 2004 14:57:00 +0800
+Received: (from majordomo@localhost)
+	by home.ccert.edu.cn (8.13.1/8.13.1/Submit) id iBF6v0uO020302;
+	Wed, 15 Dec 2004 14:57:00 +0800
+X-Authentication-Warning: home.ccert.edu.cn: majordomo set sender to owner-ccertstaff using -f
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id iBF6taaV020285;
+	Wed, 15 Dec 2004 14:55:36 +0800
+Received: from WHITESNOW (tu203022.tsinghua.edu.cn [166.111.203.22])
+	(authenticated bits=0)
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id iBF79Fcd029123;
+	Wed, 15 Dec 2004 15:09:16 +0800 (CST)
+Message-ID: <003501c4e275$050681a0$16cb6fa6@WHITESNOW>
+From: "bai" <bai@cernet.edu.cn>
+To: hu@ccert.edu.cn
+References: <002101c4d77c$91024c60$15cb6fa6@ccertspark>
+Subject: =?gb2312?B?UmU6IM7StcSzx8rQ?=
+Date: Wed, 15 Dec 2004 15:09:24 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0032_01C4E2B8.100C06E0"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2900.2180
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+Sender: owner-ccertstaff@home.ccert.edu.cn
+Precedence: bulk
+X-UIDL: hn:"!6h*#!P6_!!eUD!!
+
+我还是不喜欢北京..
+从我来这里,几乎就没遇到过什么真正能让我开心的事情..
+:     6月11号，天气晴朗。这是我在北京的第二个夏天。
+:     总是很喜欢夏天的，特别是北京的夏天。阳光直接而灿烂，空气干燥而爽朗。想想真是奇怪，两年前的我是那么的讨厌北京，心不甘情不愿的坐上了前往这座城市的火车，一路上都对我今后四年的大学生活报着忐忑不安的心情。可是，现在却完全适应了在一座陌生城市的生活，甚
+:     其实有的时候，对一座城市的心情和城市本身毫无关系，只是因为这个城市里的一些人，一些事。我的家乡，重庆，那里有我的童年和少年；而这里，北京，有我的现在，我成长轨迹的一部分。我在这里经历着我的爱情，我的蜕变，我的孤独的生活。这些故事将成为我生命里无法
+: ...................
+

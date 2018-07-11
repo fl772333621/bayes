@@ -1,0 +1,32 @@
+Return-Path: <zhao@tsinghua.org.cn>
+Received: from tsinghua.org.cn ([210.77.143.228])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id i8NFJF27026595
+	for <li@ccert.edu.cn>; Thu, 23 Sep 2004 23:19:16 +0800
+Received: (eyou send program); Thu, 23 Sep 2004 23:29:17 +0800
+X-EYOU-ORIGINAL-IP: 218.107.132.130
+X-EYOU-ENVELOPE-MAILFROM: chenguangying@tsinghua.org.cn
+Received: from unknown (HELO ccertdawei) (unknown@218.107.132.130)
+ by 210.77.143.228 with SMTP; Thu, 23 Sep 2004 23:29:17 +0800
+Message-ID: <00e201c4a182$14cebcd0$7e03510a@CCERTDAWEI>
+From: "zhao" <zhao@tsinghua.org.cn>
+To: li@ccert.edu.cn
+Cc: "sundh" <zhang@ccert.edu.cn>, "sundh" <xiao@ccert.edu.cn>,
+        <zhao@ccert.edu.cn>
+Subject: =?gb2312?B?UmU6IMfz1vqjus7StcS1tbC408PM2L/svMTU9cO0u7nDu8rVtb2hog==?=
+Date: Thu, 23 Sep 2004 23:29:13 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_00DF_01C4A1C5.22BB0E50"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2800.1437
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1441
+X-UIDL: +Z_"!-J/"!`]*"!=0$"!
+
+这还能自己寄?
+强
+:      我当时按调档函的要求寄给研究生办公室，用的特快专递。7号寄的，邮局查的8号到了北京，到了收发室（没说那的收发室）。今天打电话到系里说是没见我的档案，我去邮局查还是到了收发室（没说那的收发室）。
+:      那位和我一样也是特快的，你们怎么弄得。特快专递寄的时候，收件人和单位怎么写的。是不是特快专递要有人去取才行，不会直接送到。
+:      帮帮忙亚，我都急死了
+: ...................
+

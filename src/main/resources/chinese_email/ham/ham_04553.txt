@@ -1,0 +1,25 @@
+Return-Path: <hong@rbl.ccert.edu.cn>
+Received: from rbl.ccert.edu.cn (rbl.ccert.edu.cn [202.112.57.71])
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id i96Axg62003322
+	for <xie@ccert.edu.cn>; Wed, 6 Oct 2004 18:59:42 +0800 (CST)
+Received: from rbl.ccert.edu.cn (localhost.localdomain [127.0.0.1])
+	by rbl.ccert.edu.cn (8.12.11/8.12.11) with ESMTP id i96B5cNK016685
+	for <xie@ccert.edu.cn>; Wed, 6 Oct 2004 19:05:38 +0800
+Received: (from qa@localhost)
+	by rbl.ccert.edu.cn (8.12.11/8.12.11/Submit) id i96B5cPg016684;
+	Wed, 6 Oct 2004 19:05:38 +0800
+Date: Wed, 6 Oct 2004 19:05:38 +0800
+Message-Id: <200410061105.i96B5cPg016684@rbl.ccert.edu.cn>
+Subject: =?gb2312?B?UmU6IM/gsK61vbfWytY=?=
+To: xie@ccert.edu.cn
+From: Tran Quang Anh <hong@cernet.edu.cn>
+Content-Type: multipart/mixed; boundary="----------=_1097060738-996-592"
+MIME-Version: 1.0
+X-UIDL: EGE"!E#-"!;'>!!_]g!!
+
+超脱于世间
+:     终于到了这一天，我从爱恋的纠缠中冷静了下来---宛如从云端跌下，虽然直到此刻我仍不能否认自己对你的感情，但我们毕竟已经从相爱走到了分手......
+:     回忆中有许许多多你的影子，酸甜苦辣的爱的滋味，我们都那么的年轻那么的激动，那么深切的爱着彼此，那么的敏感和不宽容。其实从我和你在一起的第一天开始我就知道我一定会和你分开，心碎的一个人走......
+:     写这些文字，不过是想寻找一个载体让自己倾诉，再从倾诉中平静下来，一切都只是过程，生命是很长很远的路，但我最美好的青春年华的一段是和你一起度过的，我曾爱着你就象爱我自己，你是我心底深刻的烙印，直到我忘记所有温情，激情，深情，多情的思绪.......
+: ...................
+

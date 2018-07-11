@@ -1,0 +1,31 @@
+Return-Path: <yana@cernet.edu.cn>
+Received: from bbb-threeb (tu203030.tsinghua.edu.cn [166.111.203.30])
+	(authenticated bits=0)
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id iBN0NRHA013843;
+	Thu, 23 Dec 2004 08:23:27 +0800 (CST)
+Message-Id: <200412230023.iBN0NRHA013843@sea.net.edu.cn>
+Date: Thu, 23 Dec 2004 08:23:49 +0800
+From: "yana" <yana@cernet.edu.cn>
+To: gu@ccert.edu.cn
+Subject: =?gb2312?B?ofEgW9eqyMNdv7zR0Mz9v87WpCjK/dGnoaLTotPvKQ==?=
+Organization: Tsinghua University
+X-mailer: Foxmail 5.0 [cn]
+Mime-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: 8bit
+X-MIME-Autoconverted: from base64 to 8bit by sea.net.edu.cn id iBN0NRHA013843
+X-UIDL: ~=&"!LPd"!ZA)!!+\m"!
+
+（1）数学强化班（文登）
+时间：7.15-8.4 下午1:00-4:40
+教师：陈文灯（4）、曹显兵、殷先军（20次）
+地点：解放军老干部俱乐部礼堂
+价格：500元（数一、二、三、四同讲，同价）（含资料费）
+（2）英语暑期强化一期（含模考讲评班）
+时间：7.11-7.30 每天上午 8:00-11:40 + 模考班
+教师：朱泰祺（12），张洪兵（8），共计20次+模考班2次
+地点：国家气象局俱乐部礼堂（就在解放军老干部俱乐部礼堂旁边）
+价格：550元（含讲义）
+如需要，请短信联系13811995193。
+

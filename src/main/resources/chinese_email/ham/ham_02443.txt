@@ -1,0 +1,33 @@
+Return-Path: <su@tsinghua.edu.cn>
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id iBE5GKhn006119
+	for <zhuang@ccert.edu.cn>; Tue, 14 Dec 2004 13:16:20 +0800 (CST)
+Received: (eyou send program); Tue, 14 Dec 2004 13:00:58 +0800
+Message-ID: <303000458.12504@mail.tsinghua.edu.cn>
+Received: from unknown (HELO mail.tsinghua.edu.cn) (unknown@127.0.0.1)
+ by 127.0.0.1 with SMTP; Tue, 14 Dec 2004 13:00:58 +0800
+X-scanvirus: By Symantec Scan Engine
+X-scanresult: CLEAN
+Received: (eqmail ); 14 Dec 2004 05:00:41 -0000
+Received: from unknown (HELO sony) (duanhx@166.111.204.110)
+  by localhost with SMTP; 14 Dec 2004 05:00:41 -0000
+Message-ID: <02a301c4e19b$fbb489f0$0401a8c0@sony>
+From: "su" <su@tsinghua.edu.cn>
+To: zhuang@ccert.edu.cn
+Subject: =?gb2312?B?UmU6INC0uPjSqszuuN+/vNa+1Li1xMjLw8ejrLzmzLi149DQ0rW/tLeooaM=?=
+Date: Tue, 14 Dec 2004 13:15:48 +0800
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="----=_NextPart_000_02A1_01C4E1DF.07344840"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2900.2180
+X-MIMEOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+X-UIDL: 7')#!`e)"!-]M!!;PQ!!
+
+即使认为自己是不平凡的人，多数也是要经过这个阶段的，呵呵
+: 说实话，我觉得原作者写得很现实，可以说这是现实主义的价值观。
+: 这于普通人来讲，这确实是十分中肯的，有道理的。
+: 问题在于，太现实的价值观能给你一份稳定甚至高薪的工作，但不一定能让你成为一个很成功的人。（当然，每个人对成功的定义不同，我自己并不把稳定和高薪的工作作为成功）。我越来越发现真正的成功与你的学校或专业并没有太大的关系，而决定于你自己，决定于你是否能抓住
+: ...................
+

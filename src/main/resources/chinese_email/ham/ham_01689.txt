@@ -1,0 +1,36 @@
+Return-Path: <zhang@rbl.ccert.edu.cn>
+Received: from rbl.ccert.edu.cn (rbl.ccert.edu.cn [202.112.57.71])
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id i972Cse8013500
+	for <kong@ccert.edu.cn>; Thu, 7 Oct 2004 10:12:54 +0800 (CST)
+Received: from rbl.ccert.edu.cn (localhost.localdomain [127.0.0.1])
+	by rbl.ccert.edu.cn (8.12.11/8.12.11) with ESMTP id i972IqD5002183
+	for <kong@ccert.edu.cn>; Thu, 7 Oct 2004 10:18:52 +0800
+Received: (from qa@localhost)
+	by rbl.ccert.edu.cn (8.12.11/8.12.11/Submit) id i972IqOY002182;
+	Thu, 7 Oct 2004 10:18:52 +0800
+Date: Thu, 7 Oct 2004 10:18:52 +0800
+Message-Id: <200410070218.i972IqOY002182@rbl.ccert.edu.cn>
+Subject: =?gb2312?B?ofEgW7mruOZdIL+qyeggR2FvS2FvL7jfv7yhpMjLyfqhpNGh1PEguL3K9LDmw+YgKNeq1Ngp?=
+To: kong@ccert.edu.cn
+From: Tran Quang Anh <zhang@cernet.edu.cn>
+Content-Type: multipart/mixed; boundary="----------=_1097115532-996-794"
+MIME-Version: 1.0
+X-UIDL: XiJ!!lB=!!\9""!4ck"!
+
+【 以下文字转载自 Announce 讨论区 】
+发信人: SYSOP (System Operator), 信区: Announce
+标  题: [公告] 开设 GaoKao/高考·人生·选择 附属版面
+发信站: 水木社区 (Fri Jun 10 00:18:42 2005), 站内
+    经 NewExpress 正版主申请，开设附属版面 GaoKao/高考·人生·选择，
+    并任命 keepfit ninayoung 为初始版主。
+    新版面的属性如下
+    具体放置位置：1) 国内院校
+    是否计发文数：计
+    是否计入十大统计：计
+    是否直接提供附件功能：直接提供
+    新版面宗旨：提供高考相关信息并进行相关讨论，涉及信息和感性两方面。
+                信息主要涵盖最新高考动态、志愿填报建议、学校专业选择等等；
+                感性包括走过高三的总结回顾、经验心得、甜酸苦辣、高考结束
+                后的外出游记等
+    另外，版主需在一周内提交正式的治版方针。
+

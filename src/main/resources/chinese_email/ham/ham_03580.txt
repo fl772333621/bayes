@@ -1,0 +1,27 @@
+Return-Path: <he@sina.com>
+Received: from sina.com (sina187-156.sina.com.cn [202.106.187.156] (may be forged))
+	by home.ccert.edu.cn (8.13.1/8.13.1) with SMTP id j23BOwnl015880
+	for <bai@ccert.edu.cn>; Thu, 3 Mar 2005 19:24:59 +0800
+Message-Id: <200503031124.j23BOwnl015880@home.ccert.edu.cn>
+Received: (qmail 53493 invoked from network); 3 Mar 2005 11:38:09 -0000
+Received: from unknown (HELO amd2500plus) (219.224.134.126)
+  by 202.106.187.156 with SMTP; 3 Mar 2005 11:38:09 -0000
+Received: from(cheriff@sina.com) to(qa@ccert.edu.cn)
+From: "he" <he@sina.com>
+To: bai@ccert.edu.cn
+Subject: =?GB2312?Q?Re: Re: =C4=DC=B0=EF=CE=D2=D5=D2=D0=A9=CE=C4=CF=D7=C2=F0=A3=BF?=
+X-mailer: Foxmail 4.2 [cn]
+Mime-Version: 1.0
+Content-Type: text/plain;
+      charset="GB2312"
+Date: Thu, 3 Mar 2005 19:41:10 +0800
+Content-Transfer-Encoding: 8bit
+X-MIME-Autoconverted: from quoted-printable to 8bit by home.ccert.edu.cn id j23BOwnl015880
+X-UIDL: "[!#!,BR!!R'Y"!=@J"!
+
+interpretiert statt interpetiert
+: //代发文章,请勿回本人信箱
+: 美国TRW Automotive（上海）公司招聘应届销售培训生，录用后将获得半年在公司德国（或北美）总部的培训。培训期满，可根据培训的产品情况，相应加入TRW中国不同客户销售队伍，工作范围包括客户开发、提供产品报价、商务谈判等等。目前，公司第一批销售培训生（3名）正在
+: 美国TRW（天合）汽车集团是汽车安全系统的先驱和领导者。我们目前在22个国家有将近64,000名员工。
+: ...................
+

@@ -1,0 +1,48 @@
+Return-Path: <cai@home.ccert.edu.cn>
+Received: from home.ccert.edu.cn (localhost [127.0.0.1])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id i9B6PgIA013394;
+	Mon, 11 Oct 2004 14:25:42 +0800
+Received: (from majordomo@localhost)
+	by home.ccert.edu.cn (8.13.1/8.13.1/Submit) id i9B6PgA9013393;
+	Mon, 11 Oct 2004 14:25:42 +0800
+X-Authentication-Warning: home.ccert.edu.cn: majordomo set sender to owner-ccertstaff using -f
+Received: from sunbin ([202.112.50.201])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with SMTP id i9B6PROQ013385
+	for <xia@ccert.edu.cn>; Mon, 11 Oct 2004 14:25:27 +0800
+Message-Id: <200410110625.i9B6PROQ013385@home.ccert.edu.cn>
+Date: Mon, 11 Oct 2004 14:39:12 +0800
+From: "cai" <cai@ccert.edu.cn>
+Reply-To: cai@ccert.edu.cn
+To: xia@ccert.edu.cn
+Subject: =?gb2312?B?ofEg16rIw7Xnu/rPtbrN19S2r7uvz7W/vNHQs/W4tMrU18rBzyAo16rU2Ck=?=
+Organization: CCERT
+X-mailer: Foxmail 5.0 beta2 [cn]
+Mime-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="=====001_Dragon314065361121_====="
+Sender: owner-ccertstaff@home.ccert.edu.cn
+Precedence: bulk
+X-UIDL: oO^!!-8L!!&)*#!Oh]!!
+
+【 以下文字转载自 SecondBook 讨论区 】
+发信人: kunka (困啊!), 信区: SecondBook
+标  题: 转让电机系和自动化系考研初复试资料
+发信站: 水木社区 (Sat Jun 11 14:36:27 2005), 站内
+自动化系:
+1.90-2001共12年电路考研试卷
+2.电路历年考研真题分类解答
+3.电路原理讲义笔记（含课堂习题讲解）
+4.清华本科生内部电路习题集(含答案)
+5.电路本科生期中期末考试卷
+6.90-2000共11年自控考研试卷
+7.自动控制原理讲义(只有4章)
+8.自控本科生期中期末考试卷(6份)
+9.信号与系统8年考研真题及答案
+电机系:
+1.90-2001共12年电路历年考研试卷
+2.电路历年考研试题分类解答
+3.电路原理讲义笔记
+4.本科生内部电路习题集(有答案)
+5:本科生期中期末考试卷(4份)
+有意请回信箱联系.
+

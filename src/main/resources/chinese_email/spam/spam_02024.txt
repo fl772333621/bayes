@@ -1,0 +1,26 @@
+Return-Path: <ren@east.com>
+Received: from 222.78.25.98 ([220.161.51.179])
+	by home.ccert.edu.cn (MIMEDefang) with ESMTP id NOQUEUE
+	for <tu@ccert.edu.cn>; Thu, 23 Jun 2005 07:24:12 +0800 (CST)
+Message-ID: <200506230724.0.80138873105599@home.ccert.edu.cn>
+Received: from unknown (HELO vlm4938.net) (216.44.46.4)
+	by 222.78.25.98 with SMTP; 22 Jun 2005 23:42:15 -0000
+X-Originating-IP: [216.44.46.4]
+Date: Thu, 23 Jun 2005 07:42:14 +0800
+From: "ren" <ren@east.com>
+To: tu@ccert.edu.cn
+Reply-To: <ren@east.com>
+Disposition-Notification-To: "=?GB2312?B?w8DKs7zS?="<goodeast@east.com>
+Subject: =?gb2312?B?xOO98czss9TKssO0o78=?=
+X-Mailer: Foxmail 5.0 [cn]
+Mime-Version: 1.0
+Content-Type: text/plain;
+	charset="GB2312"
+Content-Transfer-Encoding: base64
+
+你今天吃什么？是不是还在重复着每天的食物？
+没有创意的胃口，是最无奈的人生．
+想知道现在好吃的是什么？想不想自己弄一点？
+美食论坛：www.foood.com.cn
+让你做个超级的家庭厨师，让你在你心爱的她（他）面前，大炫一把！
+

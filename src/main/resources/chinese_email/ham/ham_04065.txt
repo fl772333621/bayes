@@ -1,0 +1,27 @@
+Return-Path: <yu@sina.com>
+Received: from sina.com (sina187-158.sina.com.cn [202.106.187.158] (may be forged))
+	by home.ccert.edu.cn (8.13.1/8.13.1) with SMTP id j1IEkQbN004730
+	for <su@ccert.edu.cn>; Fri, 18 Feb 2005 22:46:26 +0800
+Message-Id: <200502181446.j1IEkQbN004730@home.ccert.edu.cn>
+Received: (qmail 79571 invoked from network); 18 Feb 2005 14:58:01 -0000
+Received: from unknown (HELO amd2500plus) (219.224.134.126)
+  by 202.106.187.158 with SMTP; 18 Feb 2005 14:58:01 -0000
+Received: from(cheriff@sina.com) to(qa@ccert.edu.cn)
+From: "yu" <yu@sina.com>
+To: su@ccert.edu.cn
+Subject: =?GB2312?Q?Re: Re: =CA=B2=C3=B4=CA=B1=BA=F2=BB=D8=C0=B4=A3=BF?=
+X-mailer: Foxmail 4.2 [cn]
+Mime-Version: 1.0
+Content-Type: text/plain;
+      charset="GB2312"
+Date: Fri, 18 Feb 2005 23:1:40 +0800
+Content-Transfer-Encoding: 8bit
+X-MIME-Autoconverted: from quoted-printable to 8bit by home.ccert.edu.cn id j1IEkQbN004730
+X-UIDL: PM"#!W?##!oRp"!T=a!!
+
+嗯,跟这些js打交道就是要讲究策略
+哼唧
+: 居家过日子，总要买东西，更得买点电器的大件儿，于是不顺心的事情会经常出现，这个时候就需要大家开动脑筋，去打赢维权战。我本人先后退过一台显示器，一台笔记本，一台电视，换过一台冰箱，攒了点经验，与大家共享。
+: 之前，先来个前提：在买了电器不爽后，一定要相信一点，所有的商家都是怕消费者认真打维权战的，现在市场竞争那么激烈，商家的神经绷得是很紧的。尤其大家要感谢internet的存在，这个东西让商家有前所未有的压力，老有人说干嘛把对JS诉苦的事情往BBS上贴，又没有什么用，呵呵，其实用处非常大，因为至少可以让浏览过的人群，哪怕只有几个呢，对产品有抵触，而且这些人又会去口头传播。只要因为你的贴子而让几个本来想买的人不想买了，JS就绝对老实了，尊重消费者的意见，以好的态度退换货，对商家来说要比和认真的消费者穷耗来得成本低。: 好了，先说第一步。在退换期内不爽了，赶快打售后电话。打之前，要编好腹语，要胸有成竹，一定要把产品的毛病做一个富于逻辑的总结，要有理有力！有节没节不用考虑。然后打电话，说毛病。第一句先别说产品的毛病，要说：你们要记录好了，这是我买了产品后第X天打的报损电话，不管多长时间解决问题，算退换期要以这个时间算。
+: ...................
+

@@ -1,0 +1,36 @@
+Return-Path: <fan@rbl.ccert.edu.cn>
+Received: from rbl.ccert.edu.cn (rbl.ccert.edu.cn [202.112.57.71])
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id i91CitXN005157
+	for <hong@ccert.edu.cn>; Fri, 1 Oct 2004 20:44:55 +0800 (CST)
+Received: from rbl.ccert.edu.cn (localhost.localdomain [127.0.0.1])
+	by rbl.ccert.edu.cn (8.12.11/8.12.11) with ESMTP id i91CoZ6w010097
+	for <hong@ccert.edu.cn>; Fri, 1 Oct 2004 20:50:35 +0800
+Received: (from qa@localhost)
+	by rbl.ccert.edu.cn (8.12.11/8.12.11/Submit) id i91CoZRt010096;
+	Fri, 1 Oct 2004 20:50:35 +0800
+Date: Fri, 1 Oct 2004 20:50:35 +0800
+Message-Id: <200410011250.i91CoZRt010096@rbl.ccert.edu.cn>
+Subject: =?gb2312?B?ofEgob7V0Ma4ob/N+MLnudzA7dSx?=
+To: hong@ccert.edu.cn
+From: Tran Quang Anh <fan@cernet.edu.cn>
+Content-Type: multipart/mixed; boundary="----------=_1096635035-996-296"
+MIME-Version: 1.0
+X-UIDL: P(%"!3'E!!~P@!!g*&!!
+
+岗位名称：网络管理员
+ 
+ 岗位职责： 
+1、负责北京及各地办公室网络问题的排解及维护，维护公司网络系统正常运转；
+2、负责公司运营系统数据备份；
+3、负责处理各类网络突发事件。
+ 岗位要求：
+1、计算机及相关专业本科以上学历；
+2、一年以上资讯或网络管理工作经验；
+3、熟练掌握微软主流操作系统（WIN2000、WINXP等），可以有效排除操作系统故障；
+4、熟练掌握Outlook、MSoffice、Adobe Reader、MSN及腾讯QQ等应用软件的使用及故障排除；
+5、具备一定反病毒及木马程序的能力，熟练使用Norton等主流杀毒软件产品；
+6、掌握数据备份及恢复的技能，能够有效建立及管理员工间的数据共享；
+7、具备较强的责任心及快速处理系统突发事件的能力，能迅速发现并解决问题;
+8、优秀的沟通技巧，能够有效地为外地员工提供电话
+有意者请把简历发至站内信箱，并注明期望月薪。
+

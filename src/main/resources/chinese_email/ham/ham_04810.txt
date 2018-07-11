@@ -1,0 +1,45 @@
+Return-Path: <ning@cernet.edu.cn>
+Received: from tsinghua.org.cn ([210.77.143.228])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id i8K2X4IE000748
+	for <hua@ccert.edu.cn>; Mon, 20 Sep 2004 10:33:06 +0800
+Received: (eyou send program); Mon, 20 Sep 2004 10:42:57 +0800
+Received: (eyou send program); Mon, 20 Sep 2004 10:42:44 +0800
+X-EYOU-ORIGINAL-IP: 202.112.5.66
+X-EYOU-ENVELOPE-MAILFROM: wlzxrs@cernet.edu.cn
+Received: from unknown (HELO sea.net.edu.cn) (unknown@202.112.5.66)
+ by 210.77.143.228 with SMTP; Mon, 20 Sep 2004 10:42:44 +0800
+Received: from 56ls81hgnjb0ggr ([202.112.4.6])
+	(authenticated bits=0)
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id i8K2YvYs026285;
+	Mon, 20 Sep 2004 10:34:59 +0800 (CST)
+Message-Id: <200409200234.i8K2YvYs026285@sea.net.edu.cn>
+From: "ning" <ning@cernet.edu.cn>
+Reply-To: ning@cernet.edu.cn
+To: hua@ccert.edu.cn
+Subject: =?gb2312?B?ofEgzsTLvLS00MLV0Ma4o7rOosjtTUJTsuLK1L+qt6K5pLPMyqY=?=
+X-mailer: Foxmail 4.2 [cn]
+Mime-Version: 1.0
+Content-Type: multipart/mixed;
+      boundary="=====000_Dragon436260130124_====="
+Date: Mon, 20 Sep 2004 10:34:45 +0800
+X-UIDL: B>k!!+cH!!,&3!!TAk"!
+
+在线提交简历：
+http://www.edeng.cn/data/china/job/software/28077.html
+文思创新软件技术(北京)有限公司是一家面向全球提供软件外包服务的外商独资企业。公司成立于1995年，目前拥有一支800余人专业的软件外包服务队伍，成为中国最大的软件外包服务公司和软件出口企业之一。
+您将会有机会加入到文思创新和 Microsoft Business Solution(MBS) 合作的项目中来，成为一名优秀的微软测试开发工程师, 一展您的才华！
+主要职责：
+测试MBS产品，编写开发测试代码(编写代码量将四倍于开发人员的程序代码)
+工作地点：北京微软研发中心
+资格要求：
+1、计算机相关专业本科学历以上，硕士优先；
+2、至少两年软件测试或开发经验；
+3、具备较强的C++或C#编程能力，熟悉数据结构；
+4、有过CRM实施经验者优先考虑（公司可做培训）；
+5、喜欢接受挑战，解决复杂问题；
+6、具备与项目组成员及其它项目组人员合作的能力；
+7、较强的英语交流表达能力（包括口语与写作）；You will be interviewed by Microsoft specialist in English;
+薪酬：7000月薪以上（面议，由个人能力而定）
+在线提交简历：
+http://www.edeng.cn/data/china/job/software/28077.html
+

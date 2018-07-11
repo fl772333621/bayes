@@ -1,0 +1,34 @@
+Return-Path: <cao@home.ccert.edu.cn>
+Received: from home.ccert.edu.cn (localhost [127.0.0.1])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id j2H1Jstl016811;
+	Thu, 17 Mar 2005 09:19:54 +0800
+Received: (from majordomo@localhost)
+	by home.ccert.edu.cn (8.13.1/8.13.1/Submit) id j2H1JsV9016810;
+	Thu, 17 Mar 2005 09:19:54 +0800
+X-Authentication-Warning: home.ccert.edu.cn: majordomo set sender to owner-ccertstaff using -f
+Received: from kill ([202.112.50.201])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with SMTP id j2H1JoV9016805
+	for <wua@ccert.edu.cn>; Thu, 17 Mar 2005 09:19:51 +0800
+Message-Id: <200503170119.j2H1JoV9016805@home.ccert.edu.cn>
+Date: Thu, 17 Mar 2005 09:30:09 +0800
+From: "cao" <cao@ccert.edu.cn>
+Reply-To: cao@ccert.edu.cn
+To: wua@ccert.edu.cn
+Subject: =?gb2312?B?ofEgx/PW+qO6ufq3wL/GtPO1xLzGy+O7+s+1xMS49teo0rWxyL3PusOjvw==?=
+Organization: CCERT
+X-mailer: Foxmail 5.0 beta2 [cn]
+Mime-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: 8bit
+X-MIME-Autoconverted: from base64 to 8bit by home.ccert.edu.cn id j2H1JsV9016808
+Sender: owner-ccertstaff@home.ccert.edu.cn
+Precedence: bulk
+X-UIDL: TW7!!1W;!!K#;"!#P#!!
+
+有个朋友今年要去国防科大读本科，录取通知书上是计算机学院的网络工程。
+我查了一下，国防科大的计算机学院院系设置是这样的：计算机学院下设计算机科学与技术系、计算机研究所、网络技术与信息安全研究所、“并行与分布处理”国家重点实验室和学员大队。
+不知道网络工程是计算机科学与技术系的一个专业呢，还是什么呢？
+还有，国防科大计算机学院本科比较好的专业是什么专业？
+谢谢回复。 
+

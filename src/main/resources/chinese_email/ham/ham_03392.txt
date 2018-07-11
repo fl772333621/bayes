@@ -1,0 +1,26 @@
+Return-Path: <lu@rbl.ccert.edu.cn>
+Received: from rbl.ccert.edu.cn (rbl.ccert.edu.cn [202.112.57.71])
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id i96B0awo003342
+	for <yang@ccert.edu.cn>; Wed, 6 Oct 2004 19:00:36 +0800 (CST)
+Received: from rbl.ccert.edu.cn (localhost.localdomain [127.0.0.1])
+	by rbl.ccert.edu.cn (8.12.11/8.12.11) with ESMTP id i96B6WNE019244
+	for <yang@ccert.edu.cn>; Wed, 6 Oct 2004 19:06:32 +0800
+Received: (from qa@localhost)
+	by rbl.ccert.edu.cn (8.12.11/8.12.11/Submit) id i96B6W9B019243;
+	Wed, 6 Oct 2004 19:06:32 +0800
+Date: Wed, 6 Oct 2004 19:06:32 +0800
+Message-Id: <200410061106.i96B6W9B019243@rbl.ccert.edu.cn>
+Subject: =?gb2312?B?UmU6ILO5tde21Ljxwaa/1bX3yqfN+8HLfr3xzOzT1tbY0MLC8sHLyP3B4tbYuaQ=?=
+To: yang@ccert.edu.cn
+From: Tran Quang Anh <lu@cernet.edu.cn>
+Content-Type: multipart/mixed; boundary="----------=_1097060792-996-604"
+MIME-Version: 1.0
+X-UIDL: S84!!BW%"!#c5!!nDS!!
+
+  我也不想支持日货，可是我想买3P的挂机，除了两个三菱，就没有其它牌子有
+  国货貌似n年前海信还是海尔有，可是又早停产了
+:      原来一直想选择格力,就是因为它是国货里面性价比还不错的.一开始还在occupier版组织过一次团购,后来发现格力的销售几乎没有给什么优惠,就取消了团购,打算自己买得了.
+:     前天在家乐福买了三台格力,两个菱格风的1p和1.5p,还有柜机风秀.将近8k,正好是我的预算.还挺满意的,结果今天早上兴冲冲的等着装空调,早上8点半,准时到了,还挺开心的.老公眼尖,发现两台挂机不是我们要的菱格风而是肯凉风.然后给厂家打电话,厂家说没货,还说销售跟我们�
+:     中午去大中买了三菱重工的两个挂机一个柜机,还参加了刮奖,老爸手气不错,刮出一个一百大洋的返现,我跟老妈各刮出两个50,(别说什么抵制日货,俺就是一家庭主妇,再说我原来也还想支持国货来着).多花了3k+,明天上门安装,也不知道怎么样呢.
+: ...................
+

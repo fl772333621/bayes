@@ -1,0 +1,37 @@
+Return-Path: <kang@home.ccert.edu.cn>
+Received: from home.ccert.edu.cn (localhost [127.0.0.1])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id j221mA1L024047;
+	Wed, 2 Mar 2005 09:48:10 +0800
+Received: (from majordomo@localhost)
+	by home.ccert.edu.cn (8.13.1/8.13.1/Submit) id j221mAOx024046;
+	Wed, 2 Mar 2005 09:48:10 +0800
+X-Authentication-Warning: home.ccert.edu.cn: majordomo set sender to owner-ccert_forum using -f
+Received: from sunbin_S ([202.112.50.201])
+	(authenticated bits=0)
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id j221m0eu024040;
+	Wed, 2 Mar 2005 09:48:01 +0800
+Message-Id: <200503020148.j221m0eu024040@home.ccert.edu.cn>
+Date: Wed, 2 Mar 2005 09:58:59 +0800
+From: "kang" <kang@ccert.edu.cn>
+Reply-To: kang@ccert.edu.cn
+To: zhuang@ccert.edu.cn
+Subject: =?gb2312?B?UmU6ILnY09rI/be90K3S6brNxcnHsrXEzsrM4g==?=
+Organization: CCERT
+X-mailer: Foxmail 5.0 beta2 [cn]
+Mime-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: 8bit
+X-MIME-Autoconverted: from base64 to 8bit by home.ccert.edu.cn id j221m2eu024043
+Sender: owner-ccert_forum@home.ccert.edu.cn
+Precedence: bulk
+X-UIDL: 6\;!!*ic"!h3&#!W+"#!
+
+不能解决户口的单位，是不能签三方的
+只能直接签合同
+你可以户口回原籍，或者找一家挂靠单位签三方，派遣
+:      三月份就面了一家公司,双方都比较满意,当时公司就想要我,但没有北京户口,且要求立即入职培训,由于我要完成毕设,没有时间参加培训,公司就说到6月份再说,可能有下轮培训,但不能保证要我,所以没有签协议.
+:     五月公司有和我联系,说安排6月10日入职,但一直没有和我签三方协议,学校老师也催问我怎么还没签,说是要派遣了,我就去催了一下公司,公司hrmm回话说,我们随时都可以签啊,但我们不给解决户口,签了也白签..
+:    求问:不给解决户口,三方协议就没有意义了吗?
+: ...................
+

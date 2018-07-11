@@ -1,0 +1,59 @@
+Return-Path: <long@iscas.ac.cn>
+Received: from tsinghua.org.cn ([210.77.143.231])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id iBTBFk3r029221
+	for <zhao@ccert.edu.cn>; Wed, 29 Dec 2004 19:15:50 +0800
+Received: (eyou send program); Wed, 29 Dec 2004 19:09:22 +0800
+Received: (eyou send program); Wed, 29 Dec 2004 19:09:21 +0800
+X-EYOU-ORIGINAL-IP: 210.77.143.235
+X-EYOU-ENVELOPE-MAILFROM: jos@iscas.ac.cn
+Received: from unknown (HELO eyou.net) (unknown@210.77.143.235)
+ by 210.77.143.231 with SMTP; Wed, 29 Dec 2004 19:09:21 +0800
+Received: (eyou send program); Wed, 29 Dec 2004 19:23:43 +0800
+Message-ID: <304319423.28971@eyou.net>
+Received: from 166.111.8.16 by 210.77.143.235 with SMTP; Wed, 29 Dec 2004 19:23:43 +0800
+Received: (eyou send program); Wed, 29 Dec 2004 19:24:30 +0800
+Message-ID: <304319470.09882@mails.tsinghua.edu.cn>
+Received: (eyou send program); Wed, 29 Dec 2004 19:24:30 +0800
+Message-ID: <304319470.26807@mails.tsinghua.edu.cn>
+Received: from unknown (HELO mails.tsinghua.edu.cn) (unknown@127.0.0.1)
+ by 127.0.0.1 with SMTP; Wed, 29 Dec 2004 19:24:30 +0800
+X-scanvirus: By Symantec Scan Engine
+X-scanresult: CLEAN
+X-Received: mail.iscas.ac.cn,159.226.5.56,20041229192428
+Received: from mail.iscas.ac.cn (159.226.5.56)
+  by localhost with SMTP; 29 Dec 2004 11:24:28 -0000
+Received: (qmail 8301 invoked by uid 503); 29 Dec 2004 11:21:42 -0000
+Received: from jos@iscas.ac.cn by mail.iscas.ac.cn by uid 0 with qmail-scanner-1.22 %=%=%=%=%(hbedv: 6.24.0.5/6.24.0.29. spamassassin: 2.60-cvs.  Clear:RC:0(159.226.4.93):SA:0(-98.9/9.0):. 
+ Processed in 1.128624 secs); 29 Dec 2004 11:21:42 -0000
+Received: from unknown (HELO fm) (jos@159.226.4.93)
+  by mail.iscas.ac.cn with SMTP; 29 Dec 2004 11:21:41 -0000
+Date: Wed, 29 Dec 2004 19:19:35 +0800
+From: "long" <long@iscas.ac.cn>
+Reply-To: long@iscas.ac.cn
+To: zhao@ccert.edu.cn
+Subject: =?gb2312?B?ofEgofOh86Hzyq7E6suuxL68zcTu1b7JwLGow/u/qsq8ofOh86HzKNeqvMQpICjXqtTYKQ==?=
+Organization: Journal of Software
+X-mailer: Foxmail 5.0 [cn]
+Mime-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+X-Qmail-Scanner-Message-ID: <11043193026728288@mail.iscas.ac.cn>
+Content-Transfer-Encoding: 8bit
+X-MIME-Autoconverted: from base64 to 8bit by home.ccert.edu.cn id iBTBFk3r029221
+X-UIDL: \<U!!E0k!!S)+!!'=;!!
+
+来  源: 211.151.90.88 
+【 以下文字转载自 wsn2002 的信箱 】
+发信人: diameter (大米·蜜月中的大米), 信区: T_shirt
+标  题: ◇◇◇十年水木纪念站衫报名开始◇◇◇
+发信站: 水木社区 (Sun Jun  5 19:54:43 2005), 站内
+报名方法：
+        1.请点击链接: newsmth.net/tshirt/并登录。
+        3.填写内容。
+报名须知：
+        1.由于站衫创意未定，您在报名时可以先忽略“大小”和”款式“
+          底衫规格和大小以及款式将另文附上。
+        2.请注意维护您的报名信息,此信息可以在报名和收费完毕前任意修改；
+          站衫发放时将以此信息为准!
+        3.需要邮寄的网友请务必填写您的详细邮寄地址。
+

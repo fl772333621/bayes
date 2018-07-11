@@ -1,0 +1,231 @@
+Return-Path: <yana@turbocrm.com>
+Received: from zhyx-8d96d98593 ([221.3.104.138])
+	by home.ccert.edu.cn (MIMEDefang) with ESMTP id NOQUEUE
+	for <hou@ccert.edu.cn>; Thu, 02 Jun 2005 05:01:53 +0800 (CST)
+Message-ID: <413234-22005631211741796@zhyx-8d96d98593>
+Organization: TurboCRM
+From: "yana" <yana@turbocrm.com>
+To: hou@ccert.edu.cn
+Subject: =?gb2312?B?0MXPoruv0rK/ydLUtNNDUk3G8LK9oaqhqkNSTSBQT0lOVCAyMDA1xOo21MK12jHG2g==?=
+Date: Thu, 2 Jun 2005 05:17:41 +0800
+MIME-Version: 1.0
+Content-Type: multipart/related; 
+	boundary="----=_NextPart_311091752512294211741876"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+TurboCRM
+
+
+
+CRM POINT
+
+.topband {
+	background-color: #335599;
+	height:66px;
+}
+.contentband {
+	background-color: white;
+	border-top: 1px solid black;	
+	border-bottom: 1px solid black;	
+	
+}
+.bottomband {
+	background-color: #303866;
+	font-size:10px;
+	color: white;
+	font-family: "Arial,宋体";
+}
+.subject {
+	font-family: "Arial,黑体";
+	font-size: 16px;
+	font-weight: bold;
+	color: #dd3344;
+	line-height: 28px;
+}
+.subtitle {
+	font-family: "Arial,黑体";
+	font-size: 12px;
+	font-weight: bold;
+	color: #dd3344;
+	line-height: 18px;
+	margin-right: 24px;
+}
+.abstract {
+	margin: 10px;
+	font-family: "Arial,宋体";
+	font-size: 12px;
+	color: black;
+	line-height: 20px;
+}
+.about {
+	font-family: "Arial,黑体";
+	font-size: 12px;
+	font-weight: bold;
+	color: #0022aa;
+	line-height: 18px;
+	margin-top: 10px;
+	margin-left: 10px;
+	margin-right: 24px;
+}
+
+
+
+
+
+
+
+
+
+
+
+客户的成功是我们生存的根本
+We thrive by the success of our customers
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+构建信息化系统的目的，是为了更好的为航空公司服务，在这样的情况下，首都机场就想到了CRM。 
+
+再有就是可以提高工作的效率，由于信息被充分共享，问题的监控和落实就得到了解决。以往这样的问题最快也要1周的时间反馈，但现在第2天就……
+
+——摘自《网络世界》2005年5月30日第19期
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+关于TurboCRM
+
+
+
+TurboCRM公司是专业从事CRM（客户关系管理）产品研发、咨询和服务的国际企业，基于领先的知识、方法、经验，为企业提供完整的CRM应用规划
+、软件产品及实施服务......
+
+
+
+联系TurboCRM
+
+
+
+
+
+
+
+
+
+
+TurboCRM信息科技有限公司版权所有 Copyright&copy;2000-2005 
+
+
+
+
+
+
+

@@ -1,0 +1,32 @@
+Return-Path: <lin@tsinghua.edu.cn>
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j051maHm002824
+	for <hou@ccert.edu.cn>; Wed, 5 Jan 2005 09:48:36 +0800 (CST)
+Received: (eyou send program); Wed, 05 Jan 2005 09:32:55 +0800
+Message-ID: <304888775.16802@mail.tsinghua.edu.cn>
+Received: from unknown (HELO mail.tsinghua.edu.cn) (unknown@127.0.0.1)
+ by 127.0.0.1 with SMTP; Wed, 05 Jan 2005 09:32:55 +0800
+X-scanvirus: By Symantec Scan Engine
+X-scanresult: CLEAN
+Received: (eqmail ); 5 Jan 2005 01:32:52 -0000
+Received: from unknown (HELO sony) (duanhx@166.111.204.189)
+  by localhost with SMTP; 5 Jan 2005 01:32:52 -0000
+Message-ID: <003901c4f2c8$a601e6e0$8ae86fa6@sony>
+From: "lin" <lin@tsinghua.edu.cn>
+To: hou@ccert.edu.cn
+Subject: =?gb2312?B?ofEgztLUvcC01L2yu7rxtcDByw==?=
+Date: Wed, 5 Jan 2005 09:48:25 +0800
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2800.1106
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1106
+Content-Transfer-Encoding: 8bit
+X-MIME-Autoconverted: from base64 to 8bit by sea.net.edu.cn id j051maHm002824
+X-UIDL: aQi"!'iH"!?U\!!!p^!!
+
+呵呵，昨天晚上从新西兰的kevin先生到了中国，今天早上，我的手机不停地叫，我一看陌生的号码，揣测了一下号码，估计是他的，就把手机关掉了。然后回了一封email给他，说我在上海，我和我的男朋友订婚了。我跟着我的未婚夫在上海，从6月9日到7月20日，在这期间，我将去北京、昆明和广州等地方。下午也实在怕他到我的单位找我，我就主动拨打他的电话，没有人接。没有几分钟，电话打过来了，我就告诉他如上的情况。后来，他问我，那工作呢？我说，工作我也辞掉了。他又问我新的工作呢？我说等我回来再找工作吧。
+发现自己现在越来越不厚道了，我怕见他也原因有很多，他一直很渴望见我，而我的心情不好，不想见任何人，就像当初我喜欢的人不愿意见我一样；二是莫名其妙他告诉我房间号做什么。三是也担心出什么乱子。虽然知道他也满绅士的，怕就怕我这样的小女子，万一有事打不过一个1米9的男子。四是英文也绝对差，听力尤其。和他说了几句英文完全就恨不得挂电话了。听不懂会说都是白搭。所以编了以上谎言，现在想想，我还真不厚道。
+

@@ -1,0 +1,59 @@
+Return-Path: <you@msn.com>
+Received: from bodawen ([60.26.36.6])
+	by home.ccert.edu.cn (MIMEDefang) with ESMTP id NOQUEUE
+	for <bai@ccert.edu.cn>; Tue, 21 Jun 2005 00:50:59 +0800 (CST)
+Message-ID: <200506210050.0.258550655599823@home.ccert.edu.cn>
+From: you@z"<9@z>
+Reply-To: you@msn.com"<Mb3d5r1k0@msn.com>
+To: bai@ccert.edu.cn
+Subject: =?gb2312?B?sO/E+sqhyrGhote8yLfQ1NPWuN+1xMjtvP4=?=
+Date: Tue, 21 Jun 05 01:08:56 +0800
+MIME-Version: 1.0
+Content-type: multipart/related;
+    type="multipart/alternative";
+    boundary="----=_NextPart_000_0004_14030040.3C0900C0"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2800.1158
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1441
+
+
+
+
+
+
+
+软件名称：信息发布专家
+软件版本： v5.2.6.313
+软件作者：天津市博达世通科技发展有限公司
+作者邮箱：service@boda366.com
+软件网站：http://www.boda366.com/software/xinxifabu.htm
+下载地址：http://www.boda366.com/soft/tjposter.exe   
+
+软件语言：简体中文
+授权形式：共享软件
+应用平台：NT/2000/XP
+
+软件介绍： 
+  
+ 企业电子商务离不开的软件－－－《信息发布专家》，短短三十分钟内即可把您的供求信息发布到全球数千家商贸网站，同时商贸新闻组同时通过百家搜索引擎帮您搜集求购信息, 助您降低成本,迅速提升利润，让您坐享全球商机。 
+  
+
+功能特点： 
+  
+
+1. 支持会员制商贸网站的发布,自动注册帐号，无须手工进行，使您的信息发布更省事、更有效。
+ 
+2. 商贸新闻组群发功能：国内外独有的支持商贸新闻组的群发。可将您的信息发送到国内外上千个商贸网站和新闻组。
+ 
+3. 商务网站分类详细：上千个国内外商贸网站被详细分为简体中文商贸网站，繁体中文商贸网站，英文商贸网站及商贸新闻组。
+ 
+4. 简繁体自动转换：如果目标网站的语言是繁体中文，简体中文广告信息将会自动转换为繁体中文并发布到该网站；反之，如果目标网站是简体中文，而输入的信息是繁体中文，则广告信息将会自动先转换为简体中文后再发布到该网站。
+ 
+5. 信息自动保存：软件将对您输入的当前信息进行自动保存，当您下次运行使用时，软件将自动调入上次的信息。
+ 
+6. 详细发布报告的生成：发布结束后，软件自动生成详尽的发布报告。
+ 
+7. 结果直接查看功能：用户可从软件内部直接进入商贸网站的供求信息页面直接查看发布结果。
+ 
+

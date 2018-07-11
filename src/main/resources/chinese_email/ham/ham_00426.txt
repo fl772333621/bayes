@@ -1,0 +1,31 @@
+Return-Path: <lv@cernet.edu.cn>
+Received: from bbbthreeb (tu203022.ip.tsinghua.edu.cn [166.111.203.22])
+	(authenticated bits=0)
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id j0C8HiNW011724
+	for <zeng@ccert.edu.cn>; Wed, 12 Jan 2005 16:17:45 +0800 (CST)
+Message-ID: <00b901c4f87f$47fb67d0$16cb6fa6@bbbthreeb>
+From: "lv" <lv@cernet.edu.cn>
+To: zeng@ccert.edu.cn
+Subject: =?gb2312?B?ofEg1dDGuNPF0OO1xEMrKy9WQ8+1zbO83Lm5yqY6M8jLLLTTysKzzNDyzOXPtb3hubnR0LeiLMir
+vObWsL4=?=
+Date: Wed, 12 Jan 2005 16:18:20 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_00B4_01C4F8C2.5534E410"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2800.1409
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1409
+X-UIDL: +nD!!_4<!!6%e!![6;!!
+
+招聘优秀的C++/VC系统架构师：  3人  从事程序体系结构研发    全兼职均可
+要求：
+    1．计算机专业硕士以上(含在读)，2年以上工作经验（含连续兼职工作时间）
+    2．对C++/VC编程有浓厚的兴趣，并具备钻研、团队合作等精神；
+    3．对C++和面向对象的思想和理念（如设计模式等思想）有过一定的研究，并有自己的理解，对程序体系结构有较深的理解，并能遵守严格、科学的编程规范；
+    4．有扎实的计算机专业知识和丰富的编程经验，精通STL，熟悉MFC；最好参与过图形图像、数据库、游戏和网络等多方面的项目或产品开发，尤以有丰富的Windows界面编程经验者为佳，
+兼职要求暑假期间全职，待遇同全职
+北京伟景行数字城市科技公司
+地址：北京西三环紫竹桥
+请发简历：    rd_hr@gvision.cn
+

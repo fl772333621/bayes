@@ -1,0 +1,36 @@
+Return-Path: <yun@home.ccert.edu.cn>
+Received: from home.ccert.edu.cn (localhost [127.0.0.1])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id iB17t3EI021043;
+	Wed, 1 Dec 2004 15:55:03 +0800
+Received: (from majordomo@localhost)
+	by home.ccert.edu.cn (8.13.1/8.13.1/Submit) id iB17t35o021042;
+	Wed, 1 Dec 2004 15:55:03 +0800
+X-Authentication-Warning: home.ccert.edu.cn: majordomo set sender to owner-ccertstaff using -f
+Received: from ccertspark (tu203021.tsinghua.edu.cn [166.111.203.21])
+	(authenticated bits=0)
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id iB17rqKa021013;
+	Wed, 1 Dec 2004 15:53:52 +0800
+From: "yun" <yun@ccert.edu.cn>
+To: lu@ccert.edu.cn
+Cc: <shen@ccert.edu.cn>
+Subject: =?gb2312?B?UmU6IM3GvPbBvbj2t/LG3ta1tcPN5rXE087Ptw==?=
+Date: Wed, 1 Dec 2004 16:05:48 +0800
+Message-ID: <002101c4d77c$91024c60$15cb6fa6@ccertspark>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0022_01C4D7BF.9F258C60"
+X-Priority: 3 (Normal)
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook, Build 10.0.6626
+X-MIMEOLE: Produced By Microsoft MimeOLE V6.00.3790.181
+In-Reply-To: <002301c4d779$cc07e2a0$df54cfdc@WHITESNOW>
+Importance: Normal
+Sender: owner-ccertstaff@home.ccert.edu.cn
+Precedence: bulk
+X-UIDL: ncQ!!W1!"!2\b!!f[N"!
+
+1 有一天我把情书都给烧了
+2 玩过几次这个，不过是和一个哥们-_-
+: 1.把他(她)以前给你写的情书,拿出来读.让他(她)回想起热恋时的感觉.你读的时候对方肯 定很不好意思的样子,特别逗.(昨天有同事MM告诉我,她用过这个方法,他LG表现得象才恋爱时那么害羞)缺点:不能重复使用
+: 2.在公园里,人少的地方.让对方闭着眼睛，你牵着他的手走一长段路。如果他一直闭着。说明他很信任你。同时说明他是一个特别真诚的人。我和老公玩过几次这个游戏。轮到我闭眼时，我总是悄悄睁开。过后总是觉得自己好卑鄙。
+

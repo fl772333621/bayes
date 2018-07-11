@@ -34,8 +34,10 @@ public class BayesMailPredict {
 		if (children == null || children.length == 0) {
 			return rates;
 		}
+		// 所有文档分词后的词的数目，该数会很大，有可能越界
+		long wordSize = 0;
+		// 统计词频
 		Map<String, Double> wordMaps = new HashMap<String, Double>();
-		int wordSize = 0;
 		for (File child : children) {
 			String contents = FileUtils.readFileToString(child, "UTF-8");
 			List<String> words = AnsjUtil.segment(contents);

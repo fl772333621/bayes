@@ -1,0 +1,25 @@
+Return-Path: <zhang@rbl.ccert.edu.cn>
+Received: from rbl.ccert.edu.cn (rbl.ccert.edu.cn [202.112.57.71])
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id i9B5gnRk029718
+	for <shi@ccert.edu.cn>; Mon, 11 Oct 2004 13:42:50 +0800 (CST)
+Received: from rbl.ccert.edu.cn (localhost.localdomain [127.0.0.1])
+	by rbl.ccert.edu.cn (8.12.11/8.12.11) with ESMTP id i9B5mBd5019863
+	for <shi@ccert.edu.cn>; Mon, 11 Oct 2004 13:48:12 +0800
+Received: (from qa@localhost)
+	by rbl.ccert.edu.cn (8.12.11/8.12.11/Submit) id i9B5mBOL019862;
+	Mon, 11 Oct 2004 13:48:11 +0800
+Date: Mon, 11 Oct 2004 13:48:11 +0800
+Message-Id: <200410110548.i9B5mBOL019862@rbl.ccert.edu.cn>
+Subject: =?gb2312?B?ofEgofKh8taj1t3Qwrart73Rp9Cjs8/GuNOi0++9zMqmofKh8g==?=
+To: shi@ccert.edu.cn
+From: Tran Quang Anh <zhang@cernet.edu.cn>
+Content-Type: multipart/mixed; boundary="----------=_1097473692-1014-98"
+MIME-Version: 1.0
+X-UIDL: :,W!!ZnQ!!aIA!!^Cg!!
+
+郑州新东方学校诚聘国外部（TOELF、GRE、IELTS）、国内部（四级、六级、考研）、中学部（高中、初中）、少儿部、综合部（口语、 听说、新概念）各科专、兼职英语教师。
+专职教师将与新东方教育科技集团签订劳动合同；兼职教师将与教育集团签订劳务合同，并利用双休日和寒暑假在郑州授课。
+请有意者将个人简历（Word格式）发送至donglanfeng@neworiental.org，并在信中注明应聘职位。
+我们将从应聘者中择优录用，并在6月末组织一次面试。
+新东方永远不缺少人才，但永远不拒绝更优秀的人才！
+

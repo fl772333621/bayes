@@ -1,0 +1,33 @@
+Return-Path: <qing@rbl.ccert.edu.cn>
+Received: from rbl.ccert.edu.cn (rbl.ccert.edu.cn [202.112.57.71])
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id i9INtCvX015038
+	for <zhan@ccert.edu.cn>; Tue, 19 Oct 2004 07:55:12 +0800 (CST)
+Received: from rbl.ccert.edu.cn (localhost.localdomain [127.0.0.1])
+	by rbl.ccert.edu.cn (8.12.11/8.12.11) with ESMTP id i9J00v9Q003431
+	for <zhan@ccert.edu.cn>; Tue, 19 Oct 2004 08:00:58 +0800
+Received: (from qa@localhost)
+	by rbl.ccert.edu.cn (8.12.11/8.12.11/Submit) id i9J00vuP003430;
+	Tue, 19 Oct 2004 08:00:57 +0800
+Date: Tue, 19 Oct 2004 08:00:57 +0800
+Message-Id: <200410190000.i9J00vuP003430@rbl.ccert.edu.cn>
+Subject: =?gb2312?B?UmU6ILfWytbEx8O0vsPByyzOqsqyw7S7ucrHudjXotfFy/su4MssyMvJ+sCy?=
+To: zhan@ccert.edu.cn
+From: Tran Quang Anh <qing@cernet.edu.cn>
+Content-Type: multipart/mixed; boundary="----------=_1098144058-25795-256"
+MIME-Version: 1.0
+X-UIDL: "RQ!!-0$#!Q]M"!:=G"!
+
+有了独处的消闲时光人就会
+从记忆里拾取片断来回味
+忙起来就不会想了
+人很奇怪，一些事本来是没有的，
+想多了却好象确实有那么回事
+就像如果你每天起床喊三声：我是帅哥（美女）
+我是帅哥，我是帅哥
+就会觉得我就是帅哥（美女），一天都会充满自信
+这可不是危言耸听，这是心理作用
+: 我和我前bf分手都三年多了,分手前我们谈了六年,后来因为他出国分手了.
+: 在国外他很快找了一位,现在快结婚了.
+: 我呢,也找了新的bf.
+: ...................
+

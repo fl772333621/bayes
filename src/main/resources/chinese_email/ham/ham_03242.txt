@@ -1,0 +1,34 @@
+Return-Path: <qiu@cernet.edu.cn>
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id j0DCH0QA010634
+	for <yan@ccert.edu.cn>; Thu, 13 Jan 2005 20:17:10 +0800
+Received: from ccert-dijg (tu203028.ip.tsinghua.edu.cn [166.111.203.28])
+	(authenticated bits=0)
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id j0DCSTbI010386;
+	Thu, 13 Jan 2005 20:28:39 +0800 (CST)
+Message-Id: <200501131228.j0DCSTbI010386@sea.net.edu.cn>
+From: "qiu" <qiu@cernet.edu.cn>
+Reply-To: qiu@cernet.edu.cn
+To: yan@ccert.edu.cn
+Subject: =?gb2312?B?ofEg1tDQvrn6vMqjqLPJtryjqca31sq5pLPMtKbV0Ma4?=
+Organization: ccert
+X-mailer: Foxmail 4.2 [cn]
+Mime-Version: 1.0
+Content-Type: multipart/mixed;
+      boundary="=====000_Dragon515603875778_====="
+Date: Thu, 13 Jan 2005 20:29:8 +0800
+X-UIDL: P#1"!2HJ!!DO^"!UnL!!
+
+中芯国际与新加坡联合科技合资于中国成都建立芯片封装及测试服务的公司。此芯片
+封装及测试服务厂(成都厂)位于成都高新区西部园区的出口加工区，占地约40,668 
+平方米， 目前已开始建设，完工后建筑面积约为 11,000平方米，预计将于2005年第
+四季开始量产. 该项目第一期投资为1.75亿美元。中芯国际作为中国最先进的半导体
+公司及全球领先的半导体制造商之一，将充分利用在中国市场的优势与经验，加速此
+合资公司的发展。联合科技作为全球领先芯片封装及测试服务公司之一，也将凭借其
+专业技术，帮助新公司成长。
+现因公司扩展需要,拟为品质工程处,可靠度分析处招聘如下人才:
+1.      电子,材料,物理,化学等相关专业本科及以上学历者(应届生优先);
+2.      求实敬业,有团队合作精神,较好的沟通能力;
+3.      较好的英文书写表达能力;
+有意者请将相关简历发送至 Frank_ling@smics.com or Elly_Zhao@smics.com 
+

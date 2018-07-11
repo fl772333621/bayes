@@ -1,0 +1,34 @@
+Return-Path: <sun@mails.tsinghua.edu.cn>
+Received: from mails.tsinghua.edu.cn (mails.tsinghua.edu.cn [166.111.8.16])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j092qdvj015953
+	for <zhong@ccert.edu.cn>; Sun, 9 Jan 2005 10:52:39 +0800 (CST)
+Received: (eyou send program); Sun, 09 Jan 2005 10:47:10 +0800
+Message-ID: <305238830.24162@mails.tsinghua.edu.cn>
+Received: from unknown (HELO mails.tsinghua.edu.cn) (unknown@127.0.0.1)
+ by 127.0.0.1 with SMTP; Sun, 09 Jan 2005 10:47:10 +0800
+X-scanvirus: By Symantec Scan Engine
+X-scanresult: CLEAN
+X-Received: tu172250.ip.tsinghua.edu.cn,166.111.172.250,20050109104706
+Received: from tu172250.ip.tsinghua.edu.cn (HELO yfzy) (yang.feng00@166.111.172.250)
+  by localhost with SMTP; 9 Jan 2005 02:47:06 -0000
+Message-ID: <001001c4f5f6$65afda80$faac6fa6@yfzy>
+From: "sun" <sun@mails.tsinghua.edu.cn>
+To: zhong@ccert.edu.cn
+References: <001e01c4f4a9$27d1ae80$15cb6fa6@ccertspark> <305192741.29836@mails.tsinghua.edu.cn>
+Subject: =?gb2312?B?ofEg0/TDxtG9o6y087zS1NLO0rDJ?=
+Date: Sun, 9 Jan 2005 10:53:26 +0800
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2600.0000
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2600.0000
+Content-Transfer-Encoding: 8bit
+X-MIME-Autoconverted: from base64 to 8bit by sea.net.edu.cn id j092qdvj015953
+X-UIDL: 6AZ"!SiW"!"O_"!lW+!!
+
+我从来没有认真的追过那个MM，除了不久前的那个，真的是很认真，很真心。最初和她交往的时候，觉得挺快乐，感觉她很适合我，我们也曾一起聊天到深夜（只是聊天，手都没有碰，因为她还不是我的女朋友），感觉她也挺高兴的。后来，我表达了我的感情，令我没有想到的是，她开始叹气，不断的叹气，这是以前的交往中从没有过的。在后，她对我说，我不是你的女朋友，但是允许我牵她的手。后来大概一个月的交往中，对我变冷了许多，但是还保持着联系，在此期间，我也不断的反省自己，最后得出的结论是，泰然处之，顺其自然吧，强扭的瓜儿也不会甜。想通了此节，我开始以一颗平常心去面对她了，不再急于求成，不再心烦意乱，如果这样下去也很好，虽然不知道结果如何吧。
+可是MM现在突然开始接纳我了，对我变得很重视，可是我有些不知所措了，我突然发现，我对她的感情随着平常心的到了消失的无影踪了，真的不知道该怎么办了。
+胡言乱语，只是发泄一下而已，大家砸我吧。
+

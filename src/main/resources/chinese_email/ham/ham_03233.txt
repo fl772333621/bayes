@@ -1,0 +1,23 @@
+Return-Path: <su@rbl.ccert.edu.cn>
+Received: from rbl.ccert.edu.cn (rbl.ccert.edu.cn [202.112.57.71])
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id i922CHnw010190
+	for <xu@ccert.edu.cn>; Sat, 2 Oct 2004 10:12:17 +0800 (CST)
+Received: from rbl.ccert.edu.cn (localhost.localdomain [127.0.0.1])
+	by rbl.ccert.edu.cn (8.12.11/8.12.11) with ESMTP id i922Hx5k005897
+	for <xu@ccert.edu.cn>; Sat, 2 Oct 2004 10:17:59 +0800
+Received: (from qa@localhost)
+	by rbl.ccert.edu.cn (8.12.11/8.12.11/Submit) id i922Hxt0005896;
+	Sat, 2 Oct 2004 10:17:59 +0800
+Date: Sat, 2 Oct 2004 10:17:59 +0800
+Message-Id: <200410020217.i922Hxt0005896@rbl.ccert.edu.cn>
+Subject: =?gb2312?B?UmU6IM7S1L3AtNS9sru68bXAwcs=?=
+To: xu@ccert.edu.cn
+From: Tran Quang Anh <su@cernet.edu.cn>
+Content-Type: multipart/mixed; boundary="----------=_1096683479-996-330"
+MIME-Version: 1.0
+X-UIDL: kcY!!?VE"!Y_1!!#:*"!
+
+我个人认为如果你的英语水平还不能达到喝他无障碍交流，而他却对你表现出异常的兴趣，那么这就要好好揣摩一下其本质的意图了，你说呢？
+: 呵呵，昨天晚上从新西兰的kevin先生到了中国，今天早上，我的手机不停地叫，我一看陌生的号码，揣测了一下号码，估计是他的，就把手机关掉了。然后回了一封email给他，说我在上海，我和我的男朋友订婚了。我跟着我的未婚夫在上海，从6月9日到7月20日，在这期间，我将去北京、昆明和广州等地方。下午也实在怕他到我的单位找我，我就主动拨打他的电话，没有人接。没有几分钟，电话打过来了，我就告诉他如上的情况。后来，他问我，那工作呢？我说，工作我也辞掉了。他又问我新的工作呢？我说等我回来再找工作吧。
+: 发现自己现在越来越不厚道了，我怕见他也原因有很多，他一直很渴望见我，而我的心情不好，不想见任何人，就像当初我喜欢的人不愿意见我一样；二是莫名其妙他告诉我房间号做什么。三是也担心出什么乱子。虽然知道他也满绅士的，怕就怕我这样的小女子，万一有事打不过一个1米9的男子。四是英文也绝对差，听力尤其。和他说了几句英文完全就恨不得挂电话了。听不懂会说都是白搭。所以编了以上谎言，现在想想，我还真不厚道。
+

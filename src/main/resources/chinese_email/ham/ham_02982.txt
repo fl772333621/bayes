@@ -1,0 +1,35 @@
+Return-Path: <lei@rbl.ccert.edu.cn>
+Received: from rbl.ccert.edu.cn (rbl.ccert.edu.cn [202.112.57.71])
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id i97NtpO6027340
+	for <ni@ccert.edu.cn>; Fri, 8 Oct 2004 07:55:51 +0800 (CST)
+Received: from rbl.ccert.edu.cn (localhost.localdomain [127.0.0.1])
+	by rbl.ccert.edu.cn (8.12.11/8.12.11) with ESMTP id i9801qlV014203
+	for <ni@ccert.edu.cn>; Fri, 8 Oct 2004 08:01:52 +0800
+Received: (from qa@localhost)
+	by rbl.ccert.edu.cn (8.12.11/8.12.11/Submit) id i9801qr4014202;
+	Fri, 8 Oct 2004 08:01:52 +0800
+Date: Fri, 8 Oct 2004 08:01:52 +0800
+Message-Id: <200410080001.i9801qr4014202@rbl.ccert.edu.cn>
+Subject: =?gb2312?B?ofEgztLFwg==?=
+To: ni@ccert.edu.cn
+From: Tran Quang Anh <lei@cernet.edu.cn>
+Content-Type: multipart/mixed; boundary="----------=_1097193712-1044-156"
+MIME-Version: 1.0
+X-UIDL: Gj^!!lM0"!l~)"!'A<!!
+
+幸福是不是因为短暂才那么美好？
+我孤单的在这里，对你说想说的话。不知道你在做什么——睡觉还是谈天。我不知道，我抓不住你的心。
+我像个傻子，在这里，说你永远看不到的话。喃喃自语，聊以自慰。
+如果因为幸福因为短暂才美好，我便选择轻易放弃。我承受不了大起大落，你带给我的幸福太昂贵。
+你曾经说要改变我。可是改变对我来说就是好吗？如果一直生活在一贯的冷漠中，我不至于夜不能寐。
+你曾经说不离不弃。虽然现在你离我渐远，我还是宁愿相信。
+还记得日晷前，你低头吻我。我不知道自己为何流泪，曾经以为自己找到了生命的依托，但付出太多代价。累了...
+那些相守的分分秒秒，铭刻在我脑中，挥之不去。曾经的幸福，是现在的枷锁，我挣脱不了。
+你在哪里？为什么我看得见你，却感觉不到你的心。
+为什么你选择这样折磨我？难道爱就是这样吗？想方设法让对方难过？
+我们都是普通人，我们的爱也那么普通。但不管多么平凡，都是我穷其一生珍藏的宝物。
+我怕，我怕就这样一松手，你就会从我的指尖滑落。
+我怕，我怕被痛冲昏了头脑，再也不会原谅你。
+我怕，我怕我们貌和神离。
+没有我，你会幸福吗？
+

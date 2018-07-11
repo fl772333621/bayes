@@ -1,0 +1,48 @@
+Return-Path: <lv@tsinghua.edu.cn>
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with SMTP id j0B16nmn010958
+	for <xia@ccert.edu.cn>; Tue, 11 Jan 2005 09:07:04 +0800
+Received: (eyou send program); Tue, 11 Jan 2005 09:01:40 +0800
+Message-ID: <305405300.07556@mail.tsinghua.edu.cn>
+Received: from unknown (HELO mail.tsinghua.edu.cn) (unknown@127.0.0.1)
+ by 127.0.0.1 with SMTP; Tue, 11 Jan 2005 09:01:40 +0800
+X-scanvirus: By Symantec Scan Engine
+X-scanresult: CLEAN
+Received: (eqmail ); 11 Jan 2005 01:01:39 -0000
+Received: from unknown (HELO sony) (duanhx@166.111.204.189)
+  by localhost with SMTP; 11 Jan 2005 01:01:39 -0000
+Message-ID: <005301c4f77b$4ca275d0$bdcc6fa6@sony>
+From: "lv" <lv@tsinghua.edu.cn>
+To: xia@ccert.edu.cn
+Subject: =?gb2312?B?ofEgs8/V0MruvNm85tawvbLKpiAo16rU2Ck=?=
+Date: Tue, 11 Jan 2005 09:17:19 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0050_01C4F7BE.59F76950"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2800.1106
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1106
+X-UIDL: RIM"!]fJ!!NI%#!<WZ!!
+
+【 以下文字转载自 JiaJiao 讨论区 】
+发信人: masaipeking (100%), 信区: JiaJiao
+标  题: 诚招暑假兼职讲师
+发信站: 水木社区 (Thu Jun  9 06:58:06 2005), 站内
+一家位于辽宁（请注意，上课地点不在北京）的教育培训学校招聘暑假兼职讲师，有关情
+况如下：
+1、讲授初高中课程，希望您至少擅长一门，当然了，the more, the better
+2、根据您自身情况，可以选择是小班上课（大概15人左右）；大班上课（大概50人）以
+及一对一的家教。
+3、学校提供食宿，交通费。
+4、课时费，根据您上课的班级的人数和类型的不同在30－60RMB/H，另有奖金。
+5、时间是暑假（7.5--8.31），您可以根据自己的情况和该机构协商，最少要保证有20天的授课时间。
+6、另外，如果您讲课的水平没有问题，会尽可能安排每天8小时左右的课（您也可
+以和该机构自行协商），请不用担心去了每天只有2小时的课，不会存在这种问题。
+7、有任何问题请随时询问：010－80946943
+期待您的加盟。
+请将您的简单个人情况和假期能够去辽宁上课的时间和科目信息发至masaipeking@126.com
+请务必留下电话，该机构会及时和您联系
+请勿回站内
+谢谢
+

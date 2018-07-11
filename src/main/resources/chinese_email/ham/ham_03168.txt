@@ -1,0 +1,68 @@
+Return-Path: <tan@mails.tsinghua.edu.cn>
+Received: from tsinghua.org.cn ([210.77.143.231])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id j0L2MwlB006137
+	for <zhan@ccert.edu.cn>; Fri, 21 Jan 2005 10:22:59 +0800
+Received: (eyou send program); Fri, 21 Jan 2005 10:13:35 +0800
+Received: (eyou send program); Fri, 21 Jan 2005 10:13:35 +0800
+X-EYOU-ORIGINAL-IP: 210.77.143.235
+X-EYOU-ENVELOPE-MAILFROM: toefl-bounces@server.cool-meeting.com
+Received: from unknown (HELO eyou.net) (unknown@210.77.143.235)
+ by 210.77.143.231 with SMTP; Fri, 21 Jan 2005 10:13:35 +0800
+Received: (eyou send program); Fri, 21 Jan 2005 10:27:25 +0800
+Message-ID: <306274445.23544@eyou.net>
+Received: from 202.38.99.65 by 210.77.143.235 with SMTP; Fri, 21 Jan 2005 10:27:22 +0800
+Received: from server.cool-meeting.com (localhost.localdomain [127.0.0.1])
+	by server.cool-meeting.com (8.12.8/8.12.8) with ESMTP id j0L0iAvA014943
+	for <zhan@ccert.edu.cn>; Fri, 21 Jan 2005 08:44:15 +0800
+Received: from mails.tsinghua.edu.cn (mails.tsinghua.edu.cn [166.111.8.16])
+	by server.cool-meeting.com (8.12.8/8.12.8) with SMTP id j0L0i4uL014940
+	for <zhan@ccert.edu.cn>; Fri, 21 Jan 2005 08:44:04 +0800
+Received: (eyou send program); Fri, 21 Jan 2005 10:32:15 +0800
+Message-ID: <306274735.18546@mails.tsinghua.edu.cn>
+Received: from 202.112.50.72 by mails.tsinghua.edu.cn with HTTP;
+	Fri, 21 Jan 2005 10:32:15 +0800
+X-WebMAIL-MUA: [202.112.50.72]
+From: "tan" <tan@mails.tsinghua.edu.cn>
+To: zhan@ccert.edu.cn
+Date: Fri, 21 Jan 2005 10:32:15 +0800
+X-Priority: 3
+Subject: Re: [TOEFL] Email address changing
+Content-Type: text/plain
+Cc: wua@ccert.edu.cn
+X-BeenThere: toefl@server.cool-meeting.com
+X-Mailman-Version: 2.1.2
+Precedence: list
+Reply-To: shaoxiaoxin <tan@mails.tsinghua.edu.cn>
+List-Id: &#26446;&#26143;&#21644;&#20182;&#30340;&#23398;&#29983;&#20204;
+	<toefl.server.cool-meeting.com>
+List-Unsubscribe: <http://server.cool-meeting.com/mailman/listinfo/toefl>,
+	<mailto:toefl-request@server.cool-meeting.com?subject=unsubscribe>
+List-Archive: <http://server.cool-meeting.com/mailman/private/toefl>
+List-Post: <mailto:toefl@server.cool-meeting.com>
+List-Help: <mailto:toefl-request@server.cool-meeting.com?subject=help>
+List-Subscribe: <http://server.cool-meeting.com/mailman/listinfo/toefl>,
+	<mailto:toefl-request@server.cool-meeting.com?subject=subscribe>
+Sender: toefl-bounces@server.cool-meeting.com
+Errors-To: toefl-bounces@server.cool-meeting.com
+X-UIDL: kan"!9#K!!PL/!!<^3"!
+
+执子之手
+与子偕老
+昨天陪我的gf过节 呵呵
+一起去爬山
+景色很美丽，下山的时候，有点下雨
+我们打着伞慢慢的走
+突然gf喊到 彩虹～～～～哇 真的是彩虹
+我们在山上看到那美丽的彩虹，好大的～～～～
+真的就是坐拱桥，太美丽
+慢慢的，彩虹上面又出现了 一道霓（不知道是不是这个），就是色彩排列正好和彩虹相反
+哇～～～～我真的第一次看见，还是和mm一起，很开心，可惜就是没有带数码，郁闷啊
+回来吃饭，mm的老板刚发钱了，说请偶吃点好的
+呵呵
+我觉得我们都还在读书 就点了点随便的菜
+吃完了，要去结帐，mm说：给。就把她的钱包给偶了，偶当时特别感动
+其实我的钱不能说多，但2个人一起吃饭 玩还是有的
+mm把钱包给了偶 跟在偶后面去结帐.....
+好感动，给了偶男人的.....
+偶要更加努力的学习 奋斗～～～～～
+

@@ -1,0 +1,26 @@
+Return-Path: <chi@cernet.edu.cn>
+Received: from RavProxy (tu203030.tsinghua.edu.cn [166.111.203.30])
+	(authenticated bits=0)
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id iAI2rYe9012853;
+	Thu, 18 Nov 2004 10:53:35 +0800 (CST)
+Message-Id: <200411180253.iAI2rYe9012853@sea.net.edu.cn>
+Date: Thu, 18 Nov 2004 10:53:39 +0800
+From: "chi" <chi@cernet.edu.cn>
+Reply-To: chi@cernet.edu.cn
+To: zhang@ccert.edu.cn
+Subject: =?gb2312?B?UmU6ILjVssXNtsvfwcs=?=
+Organization: Tsinghua University
+X-mailer: Foxmail 5.0 [cn]
+Mime-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: 8bit
+X-MIME-Autoconverted: from base64 to 8bit by sea.net.edu.cn id iAI2rYe9012853
+X-UIDL: &lO!!R-6"!PQ_!!)YC!!
+
+广州就这样了,深圳好一点.
+: 上周末进酒店的时候，刷了3500预授权，今天一查帐单，发现昨晚酒店又私自给我刷了2500，居然一点都没有通知我。刚刚打电话过去，他们还觉得这样做很对，气得我给他们骂了一顿。
+: 广州的服务真是太差了，上周和同事去超市，同事买了一个可以凉毛衣的那种能折起来的架子，结果收银员自己没见过这个货，居然怀疑里面有两个，还就把包装的很好的货品拆开了，然后又装不上去，同事气得当场就退货了
+: 还有上次大家去吃饭，我同事要了一个牛肉炒粉，我要了一个肉丝炒粉，小姐把东西送上来就摔桌子上了，我们问她这两个哪个是牛肉粉，结果她居然非常生气，说话的吐沫都溅到我身上了。
+: ...................
+

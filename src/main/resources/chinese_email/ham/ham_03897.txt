@@ -1,0 +1,36 @@
+Return-Path: <lin@tsinghua.edu.cn>
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id iB93VQgh002637
+	for <wang@ccert.edu.cn>; Thu, 9 Dec 2004 11:31:26 +0800 (CST)
+Received: (eyou send program); Thu, 09 Dec 2004 11:15:58 +0800
+Message-ID: <302562158.00953@mail.tsinghua.edu.cn>
+Received: from unknown (HELO mail.tsinghua.edu.cn) (unknown@127.0.0.1)
+ by 127.0.0.1 with SMTP; Thu, 09 Dec 2004 11:15:58 +0800
+X-scanvirus: By Symantec Scan Engine
+X-scanresult: CLEAN
+Received: (eqmail ); 9 Dec 2004 03:15:50 -0000
+Received: from unknown (HELO sony) (duanhx@166.111.204.124)
+  by localhost with SMTP; 9 Dec 2004 03:15:51 -0000
+Message-ID: <00ae01c4dd9f$7ffbe650$7ccc6fa6@sony>
+From: "lin" <lin@tsinghua.edu.cn>
+To: wang@ccert.edu.cn
+References: <300139677.11246@mail.tsinghua.edu.cn>
+Subject: =?gb2312?B?UmU6IL3hu+m688eu1PXDtLnco7+4+LXjvajS6bDJo6E=?=
+Date: Thu, 9 Dec 2004 11:30:40 +0800
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2900.2180
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+Content-Transfer-Encoding: 8bit
+X-MIME-Autoconverted: from base64 to 8bit by sea.net.edu.cn id iB93VQgh002637
+X-UIDL: Qb=!!A'N"!ZcS"!2Ao"!
+
+房子用他的名字贷款，房产证还没有办那，我早就说明要写两个人的名字了。
+关于给他家里钱，我的是我爸妈要求的，每月一定要给家里钱。他爸妈在北京的时候也是给他们1k，每个月，后来他父母回去了，就说要给他们钱就把该给的钱存起来，随时需要随时取就ok。其实我爸妈要我给钱也是怕我把工资花光，帮我攒着。
+买房子我们自己攒了一半首付，剩下的从他家借的，虽然他爸妈不让我们还，但是我们还是决定立个字据什么的一定要还。
+我们俩现在他每月税后6k-7k，我4k，一直想追上他，无奈刚开始工作经验不足无能为力。
+: 房子写谁的名字?还有你们俩的收入差的很多?如果确实差的很多那他抱怨的很有道理啊大钱确实都是他攒的:P
+

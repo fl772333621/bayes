@@ -1,0 +1,26 @@
+Return-Path: <he@rbl.ccert.edu.cn>
+Received: from rbl.ccert.edu.cn (rbl.ccert.edu.cn [202.112.57.71])
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id i98CHtbv009253
+	for <xiao@ccert.edu.cn>; Fri, 8 Oct 2004 20:17:56 +0800 (CST)
+Received: from rbl.ccert.edu.cn (localhost.localdomain [127.0.0.1])
+	by rbl.ccert.edu.cn (8.12.11/8.12.11) with ESMTP id i98CNt2x021894
+	for <xiao@ccert.edu.cn>; Fri, 8 Oct 2004 20:23:57 +0800
+Received: (from qa@localhost)
+	by rbl.ccert.edu.cn (8.12.11/8.12.11/Submit) id i98CNtKk021893;
+	Fri, 8 Oct 2004 20:23:55 +0800
+Date: Fri, 8 Oct 2004 20:23:55 +0800
+Message-Id: <200410081223.i98CNtKk021893@rbl.ccert.edu.cn>
+Subject: =?gb2312?B?UmU6IMvEtPPV5tPQ1eLDtMDbw7Sjv8qyw7TQ0NK1sci9z9estavT1rK71sHT2syrwNuwoQ==?=
+To: xiao@ccert.edu.cn
+From: Tran Quang Anh <he@cernet.edu.cn>
+Content-Type: multipart/mixed; boundary="----------=_1097238237-26230-60"
+MIME-Version: 1.0
+X-UIDL: 5lo"!V"a!!'VD"!%p2!!
+
+第一，人家的6k不算出差补助，加班补助奖金等等
+第二，知识就是金钱，什么样的人给什么样的钱做什么样的活。除了极个别行业，电力，国税地税烟草什么的，别的行业基本上都是你能拿什么样的钱你就得干什么样的活，不分文理
+: 我看到一哥们的辞职信里这么说：
+: “这两年，由于工作性质和作息时间，我的身体受到了极大的伤害，现在的体检报告简直和大学毕业进入D公司时的体检报告判若两人:
+: 脂肪肝，甘油三脂高，胆固醇高，血糖高，转氨酶高，视力从当时的1.5下降到现在的0.6，体重由130斤变成了现在的170斤。
+: ...................
+

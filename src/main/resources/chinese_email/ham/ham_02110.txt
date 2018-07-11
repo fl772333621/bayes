@@ -1,0 +1,39 @@
+Return-Path: <xing@tsinghua.edu.cn>
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id iBMAI150002895
+	for <liao@ccert.edu.cn>; Wed, 22 Dec 2004 18:18:01 +0800 (CST)
+Received: (eyou send program); Wed, 22 Dec 2004 18:02:35 +0800
+Message-ID: <303709754.11986@mail.tsinghua.edu.cn>
+Received: from unknown (HELO mail.tsinghua.edu.cn) (unknown@127.0.0.1)
+ by 127.0.0.1 with SMTP; Wed, 22 Dec 2004 18:02:35 +0800
+X-scanvirus: By Symantec Scan Engine
+X-scanresult: CLEAN
+Received: (eqmail ); 22 Dec 2004 10:02:33 -0000
+Received: from unknown (HELO sony) (duanhx@202.112.50.213)
+  by localhost with SMTP; 22 Dec 2004 10:02:33 -0000
+Message-ID: <006201c4e80f$8037cab0$d53270ca@sony>
+From: "xing" <xing@tsinghua.edu.cn>
+To: liao@ccert.edu.cn
+Cc: <zhu@ccert.edu.cn>
+References: <303684949.22757@mail.tsinghua.edu.cn>
+Subject: =?gb2312?B?ofEgtsvO573au9jS5A==?=
+Date: Wed, 22 Dec 2004 18:17:52 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_005F_01C4E852.8D851D10"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2900.2180
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+X-UIDL: @9&"!;oo!!02;"!fE#"!
+
+        2003年非典解封后，端午节，中午食堂好像没有粽子，或者我们去的时候卖光了！
+        和你约好了下午到超市买粽子，就在那个时候突然狂风大作，我在实验楼外面的路口等你，夏日的傍晚顷刻变得昏天黑地，天空像要塌下来一样。我没有带伞，站在那里有种很恐慌的感觉。
+        超市里的粽子也早已卖空了，所有来买粽子的同学不得不失望而归，包括我们俩。
+        豆大的雨点开始帕嗒帕嗒滴下来，我们匆匆忙忙跑去食堂，食堂集中了避雨的人。吃饭时我们听见了外面风在狂吼，而密集的雨水从上空滚滚倒下来，打在地上劈劈啪啪的乱响，我们俩听得心惊肉跳。
+        盘子里的菜吃完了，雨却丝毫没有停息的意思。那天你要到实验室忙，可是滂沱大雨你又如何走得出去？后来就在我的宿舍楼口，我拿了雨伞给你，自己回去了。那时我能为你做一件事，是多么开心！尤其是你也乐意接受的时候。
+        后来，我去你楼底下取伞了。雨水冲刷过的天空特别美，空气特别清新，我穿着紫色纱套群，凉丝丝的风吹过来时有一袭冷意，我们一起去散步了，在荷塘，抑或主楼，那个夜晚很清很凉很美。。。
+        去年的端午节我再也记不得如何度过，超市的粽子多得看不过来。在万人餐厅二层，我曾多次夹一块包着红枣的粽子，在不是端午的日子里。
+        
+        
+

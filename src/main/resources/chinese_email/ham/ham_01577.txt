@@ -1,0 +1,52 @@
+Return-Path: <xiao@home.ccert.edu.cn>
+Received: from home.ccert.edu.cn (localhost [127.0.0.1])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id iBF6v0Pv020303;
+	Wed, 15 Dec 2004 14:57:00 +0800
+Received: (from majordomo@localhost)
+	by home.ccert.edu.cn (8.13.1/8.13.1/Submit) id iBF6v0uO020302;
+	Wed, 15 Dec 2004 14:57:00 +0800
+X-Authentication-Warning: home.ccert.edu.cn: majordomo set sender to owner-ccertstaff using -f
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id iBF6taaV020285;
+	Wed, 15 Dec 2004 14:55:36 +0800
+Received: from WHITESNOW (tu203022.tsinghua.edu.cn [166.111.203.22])
+	(authenticated bits=0)
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id iBF79Fcd029123;
+	Wed, 15 Dec 2004 15:09:16 +0800 (CST)
+Message-ID: <003501c4e275$050681a0$16cb6fa6@WHITESNOW>
+From: "xiao" <xiao@cernet.edu.cn>
+To: cen@ccert.edu.cn
+References: <002101c4d77c$91024c60$15cb6fa6@ccertspark>
+Subject: =?gb2312?B?UmU6INbV09rD97DXwM/C6M6qybbLtbzeyMvIy8a3tdrSuw==?=
+Date: Wed, 15 Dec 2004 15:09:24 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0032_01C4E2B8.100C06E0"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2900.2180
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+Sender: owner-ccertstaff@home.ccert.edu.cn
+Precedence: bulk
+X-UIDL: hn:"!6h*#!P6_!!eUD!!
+
+智商狂高
+有啥不行?
+我就人品好
+不过身高158，体重158，智商158，月薪158，有人要不？
+rp真的狂好
+: 标  题: Re: 终于明白老妈为啥说嫁人人品第一
+: 发信站: 水木社区 (Thu Jun  9 13:07:49 2005), 站内
+: 
+: 现在才明白啊?
+: : 丑一点不是问题，笨一点也不是问题，穷一点就更不是问题了
+: : 关键是人品好
+: : 否则半路中杀出来一个离婚阿外遇阿二奶啊，不死也能耗掉我半条命
+: : ...................
+: 
+: --
+: 
+: 情深不寿，强极则辱，事由天定，未可强求，今生无缘，何妨来世
+: 
+: 
+

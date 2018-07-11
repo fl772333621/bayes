@@ -1,0 +1,34 @@
+Return-Path: <guan@home.ccert.edu.cn>
+Received: from home.ccert.edu.cn (localhost [127.0.0.1])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id j2H1Jstl016811;
+	Thu, 17 Mar 2005 09:19:54 +0800
+Received: (from majordomo@localhost)
+	by home.ccert.edu.cn (8.13.1/8.13.1/Submit) id j2H1JsV9016810;
+	Thu, 17 Mar 2005 09:19:54 +0800
+X-Authentication-Warning: home.ccert.edu.cn: majordomo set sender to owner-ccertstaff using -f
+Received: from kill ([202.112.50.201])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with SMTP id j2H1JoV9016805
+	for <ni@ccert.edu.cn>; Thu, 17 Mar 2005 09:19:51 +0800
+Message-Id: <200503170119.j2H1JoV9016805@home.ccert.edu.cn>
+Date: Thu, 17 Mar 2005 09:30:09 +0800
+From: "guan" <guan@ccert.edu.cn>
+Reply-To: guan@ccert.edu.cn
+To: ni@ccert.edu.cn
+Subject: =?gb2312?B?UmU6IL341bm747GoIFJlOiDQocb4tcTE0MXz09GjrM7SuMPU9cO0sOyjvw==?=
+Organization: CCERT
+X-mailer: Foxmail 5.0 beta2 [cn]
+Mime-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: 8bit
+X-MIME-Autoconverted: from base64 to 8bit by home.ccert.edu.cn id j2H1JsV9016808
+Sender: owner-ccertstaff@home.ccert.edu.cn
+Precedence: bulk
+X-UIDL: TW7!!1W;!!K#;"!#P#!!
+
+这么累，
+: 昨天因为不开心，GG不主动分担旅行费用。 电话里跟GG说， 他只说要我对他有耐心。 我一个人思考了很久， 还是感觉不痛快。 其实旅行过程中他逃避付钱的现象很明显。:( 所以我跟他说， 我要一个人呆呆， 我们暂时还是不要见面了。 他问我这是你想要的么？ 我说是。 他说�
+: 今天我一个人， 洗澡，收拾房间， 洗车， 买东西， 还作了一点运动。 感觉生活很自在。 可是当一切收拾停当， 就忍不住地拼命的想他。 可是他始终没有来电话。 我也只好忍着。 
+: 终于， 电话响了。 是他。 第一次接起来， 对方一点声音也没有， 但是我确信电话接通了。 然后挂断了。 等了一下， 电话铃再次想起。 接起电话， 他问我：在哪里呢？做什么呢？ 我说在家里， 只是座着， 什么都没干。 他然后就说：他今天一直再做一个课业项目。 然后问�
+: ...................
+

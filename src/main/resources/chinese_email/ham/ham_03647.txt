@@ -1,0 +1,92 @@
+Return-Path: <ren@ns.6test.edu.cn>
+Received: from tsinghua.org.cn ([210.77.143.231])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id iBU8OeMt021231
+	for <guo@ccert.edu.cn>; Thu, 30 Dec 2004 16:24:42 +0800
+Received: (eyou send program); Thu, 30 Dec 2004 16:18:19 +0800
+Received: (eyou send program); Thu, 30 Dec 2004 16:18:19 +0800
+X-EYOU-ORIGINAL-IP: 210.77.143.235
+X-EYOU-ENVELOPE-MAILFROM: wanglanjia@ns.6test.edu.cn
+Received: from unknown (HELO eyou.net) (unknown@210.77.143.235)
+ by 210.77.143.231 with SMTP; Thu, 30 Dec 2004 16:18:19 +0800
+Received: (eyou send program); Thu, 30 Dec 2004 16:32:39 +0800
+Message-ID: <304395559.04270@eyou.net>
+Received: from 166.111.8.16 by 210.77.143.235 with SMTP; Thu, 30 Dec 2004 16:32:37 +0800
+Received: (eyou send program); Thu, 30 Dec 2004 16:33:26 +0800
+Message-ID: <304395606.24283@mails.tsinghua.edu.cn>
+Received: (eyou send program); Thu, 30 Dec 2004 16:33:26 +0800
+Message-ID: <304395606.20912@mails.tsinghua.edu.cn>
+Received: from unknown (HELO mails.tsinghua.edu.cn) (unknown@127.0.0.1)
+ by 127.0.0.1 with SMTP; Thu, 30 Dec 2004 16:33:26 +0800
+X-scanvirus: By Symantec Scan Engine
+X-scanresult: NOREP
+X-Received: ccert.edu.cn,202.112.57.12,20041230163322
+Received: from ccert.edu.cn (HELO home.ccert.edu.cn) (202.112.57.12)
+  by localhost with SMTP; 30 Dec 2004 08:33:22 -0000
+Received: from home.ccert.edu.cn (localhost [127.0.0.1])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id iBU8O8n6021178;
+	Thu, 30 Dec 2004 16:24:08 +0800
+Received: (from majordomo@localhost)
+	by home.ccert.edu.cn (8.13.1/8.13.1/Submit) id iBU8O88v021177;
+	Thu, 30 Dec 2004 16:24:08 +0800
+X-Authentication-Warning: home.ccert.edu.cn: majordomo set sender to owner-ccertstaff using -f
+Received: from ns.6test.edu.cn (ns.6test.edu.cn [202.112.54.2])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id iBU8O8G9021173
+	for <guo@ccert.edu.cn>; Thu, 30 Dec 2004 16:24:08 +0800
+Received: from tu203047.tsinghua.edu.cn ([166.111.203.47] helo=wanglanjia)
+	by ns.6test.edu.cn with asmtp (Exim 4.12)
+	id 1CjwGz-000G12-00
+	for ccertstaff@ccert.edu.cn; Thu, 30 Dec 2004 17:07:09 +0800
+Message-ID: <005c01c4ee4a$eca9ad30$2fcb6fa6@wanglanjia>
+From: "ren" <ren@ns.6test.edu.cn>
+To: guo@ccert.edu.cn
+Subject: =?gb2312?B?ofEgveHK+MHL0ru2zsuuxL7Nr7uwoaOho6Gj?=
+Date: Thu, 30 Dec 2004 16:38:23 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0059_01C4EE8D.FAC0DF40"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2800.1437
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1441
+Sender: owner-ccertstaff@home.ccert.edu.cn
+Precedence: bulk
+X-UIDL: WHj"!B4o!!D,M!!U$]"!
+
+跟GG在水木pie相识。算了算概率，觉得的确好有缘分。便义无反顾的偏执得跟他在一起。因为我相信一见钟情。我们一度成为若干人羡慕的对象。我从此对水木也一往情深。
+我订了两件站衫。可是现在我打算留作纪念。
+在去年暖暖的夏日我们见了第一面。
+当时GG穿着黑t恤，站在校园门口等我。
+几经n次分分合合，吵吵闹闹。
+发现是我对GG一见钟情，他对我是什么呢？
+听说每个男人心里都有一个让他心动的女子，看到她，他就会想要永远跟她在一起。
+显然我感觉自己并不是GG心里那个人。
+不过我很怨，为什么他不告诉我。
+以爱的名义，却没有爱的实质！
+是自私还是寂寞？男人啊，你的名字是什么？
+刚才GG穿着同样的黑t恤，
+我送他到校门口。
+是不是从哪里开始，从哪里结束。
+我坚持送了他很久。
+青春最后的信仰，我坚持送了它很久……
+GG说真的要走了吗？
+我抬起头，匆匆扫过他含泪的双眼，
+无力的挥挥手。
+我走了，再没有回头。
+收起
+心底
+我的眼泪
+和
+我的。。。
+青春的花开花谢，
+让我疲惫却不后悔。
+四季的雨飞雪飞，
+让我心醉却不堪憔悴。
+轻轻的风轻轻的梦，
+轻轻的晨晨昏昏，
+淡淡的风淡淡的泪，
+淡淡的年年岁岁。。。
+从此珠儿不再思恋甘露。
+长风和甘露，珠儿与芝草，
+好像童话故事里，
+幸福和快乐是结局。
+

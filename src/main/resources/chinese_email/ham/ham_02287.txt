@@ -1,0 +1,82 @@
+Return-Path: <luo@ns.6test.edu.cn>
+Received: from tsinghua.org.cn ([210.77.143.228])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id iA23PVEC009328
+	for <cen@ccert.edu.cn>; Tue, 2 Nov 2004 11:25:43 +0800
+Received: (eyou send program); Tue, 02 Nov 2004 11:36:53 +0800
+Received: (eyou send program); Tue, 02 Nov 2004 11:36:53 +0800
+X-EYOU-ORIGINAL-IP: 210.77.143.235
+X-EYOU-ENVELOPE-MAILFROM: toefl-bounces@server.cool-meeting.com
+Received: from unknown (HELO eyou.net) (unknown@210.77.143.235)
+ by 210.77.143.228 with SMTP; Tue, 02 Nov 2004 11:36:53 +0800
+Received: (eyou send program); Tue, 02 Nov 2004 11:33:23 +0800
+Message-ID: <299366403.21887@eyou.net>
+Received: from 202.38.99.65 by 210.77.143.235 with SMTP; Tue, 02 Nov 2004 11:33:19 +0800
+Received: from server.cool-meeting.com (localhost.localdomain [127.0.0.1])
+	by server.cool-meeting.com (8.12.8/8.12.8) with ESMTP id iA23lYli017908
+	for <cen@ccert.edu.cn>; Tue, 2 Nov 2004 11:47:43 +0800
+Received: from ns.6test.edu.cn ([202.38.99.18])
+	by server.cool-meeting.com (8.12.8/8.12.8) with ESMTP id iA23lRkr017904
+	for <cen@ccert.edu.cn>; Tue, 2 Nov 2004 11:47:27 +0800
+Received: from [210.25.128.109] (helo=tsinghua89o1rm)
+	by ns.6test.edu.cn with asmtp (Exim 4.12) id 1COpmj-000Hqn-00
+	for Toefl@server.cool-meeting.com; Tue, 02 Nov 2004 11:56:41 +0800
+Message-ID: <00b901c4c08d$3da56df0$6d8019d2@tsinghua89o1rm>
+From: "luo" <luo@ns.6test.edu.cn>
+To: cen@ccert.edu.cn
+Date: Tue, 2 Nov 2004 11:36:42 +0800
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2600.0000
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2600.0000
+Content-Transfer-Encoding: 8bit
+X-MIME-Autoconverted: from base64 to 8bit by server.cool-meeting.com id
+	iA23lRkr017904
+Cc: 
+Subject: =?gb2312?B?ofEgtsvO573ao62jrdC0uPjH/NStus3O0g==?=
+X-BeenThere: toefl@server.cool-meeting.com
+X-Mailman-Version: 2.1.2
+Precedence: list
+List-Id: &#26446;&#26143;&#21644;&#20182;&#30340;&#23398;&#29983;&#20204;
+	<toefl.server.cool-meeting.com>
+List-Unsubscribe: <http://server.cool-meeting.com/mailman/listinfo/toefl>,
+	<mailto:toefl-request@server.cool-meeting.com?subject=unsubscribe>
+List-Archive: <http://server.cool-meeting.com/mailman/private/toefl>
+List-Post: <mailto:toefl@server.cool-meeting.com>
+List-Help: <mailto:toefl-request@server.cool-meeting.com?subject=help>
+List-Subscribe: <http://server.cool-meeting.com/mailman/listinfo/toefl>,
+	<mailto:toefl-request@server.cool-meeting.com?subject=subscribe>
+Sender: toefl-bounces@server.cool-meeting.com
+Errors-To: toefl-bounces@server.cool-meeting.com
+X-UIDL: XBJ"!V@@!!,cK"!pR5"!
+Status: RO
+
+两千两百多年前，一个峨冠博带、腰佩长剑的中年人，怀着满腔的悲愤、哀怨，自
+投汨罗江而死；
+两千两百多年后，一个上身赤裸、下身只穿一条内裤的年轻人，正聚精会神的盯着
+显示器屏幕，指尖在键盘上飞快的敲击着，试图写出自己端午节夜晚的感受。字句
+随思绪流淌，窗外大雨滂沱……
+几千年过去了，人类仍旧是那种脆弱、忙碌的动物，并没有跟随历史一起改变。人
+类从一诞生，就出在纷扰的环境中，开始咿呀学语、开始扶墙走路、开始尔虞我诈
+、开始衰老豁达……百年后，大家尘归尘、土归土，重新归于死寂。新的历史，却
+又随着新的生命而继续向前，永不停歇。问题是：作为渺小个人的我，又在短暂的
+生命中，起到了怎样微不足道的作用？又或者，自我的诞生，根本是造物主所开的
+一个玩笑？
+我们诞生、我们张大、我们跳舞、我们死亡，曾经的一切，只会留在自我的记忆中
+，伴随着尸体腐烂发臭而烟消云散。一切都未剩下，一切回到起点……作为局中人
+的我们，却始终无从超脱。舞动，伴随着命运的要求，我们只知道不停的舞动，既
+不知来自何处，又不知去向何方。
+做不到心如磐石，任凭溪水流淌而终无感觉，我们的棱角逐渐圆滑，心境却逐渐苍
+老。悲欢离合、喜怒哀乐，一点一点的情感，犹如魔障一般，牢牢的困住作为自我
+的存在，无从挣脱。纵使我们竭力将自己与历史上的伟人相权衡，却只能从伟人的
+影子中发现自己的渺小；而曾经的伟人，他们现在何处，是否会因为在别人的记忆
+中存在而感到自豪？－－或者，这就是生命本身？
+屈原终于选择了沉江，因为他抵挡不住亡国的强烈情感；我终于选择了上网，因为
+周末的我百无聊赖、无事可做。
+                                                                        
+                                                          巴陵
+                                                                        
+                                                      2005年端午节夜
+

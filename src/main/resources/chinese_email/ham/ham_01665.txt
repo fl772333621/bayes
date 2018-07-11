@@ -1,0 +1,26 @@
+Return-Path: <fan@rbl.ccert.edu.cn>
+Received: from rbl.ccert.edu.cn (rbl.ccert.edu.cn [202.112.57.71])
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id i96ARoVn002817
+	for <zhu@ccert.edu.cn>; Wed, 6 Oct 2004 18:27:51 +0800 (CST)
+Received: from rbl.ccert.edu.cn (localhost.localdomain [127.0.0.1])
+	by rbl.ccert.edu.cn (8.12.11/8.12.11) with ESMTP id i96AXkrb026489
+	for <zhu@ccert.edu.cn>; Wed, 6 Oct 2004 18:33:47 +0800
+Received: (from qa@localhost)
+	by rbl.ccert.edu.cn (8.12.11/8.12.11/Submit) id i96AXkCb026488;
+	Wed, 6 Oct 2004 18:33:46 +0800
+Date: Wed, 6 Oct 2004 18:33:46 +0800
+Message-Id: <200410061033.i96AXkCb026488@rbl.ccert.edu.cn>
+Subject: =?gb2312?B?UmU6ILbB0dC687Xa0ru0ztXSuaTX98qnsNyjqMzlvOy5/bnYuvOxu8Sz0Km52M+1tqXBy6OpuvO1
+xLc=?=
+To: zhu@ccert.edu.cn
+From: Tran Quang Anh <fan@cernet.edu.cn>
+Content-Type: multipart/mixed; boundary="----------=_1097058827-996-574"
+MIME-Version: 1.0
+X-UIDL: (V~!!T',"!oQK"!\^T!!
+
+我觉得你思考得比我清楚多了。。。
+: 夏天越来越近了，去年的这个季节在郁闷中渡过，上天总是把我安排这一个个尴尬的旋涡里，从小到而立之年，有N个夏天在混沌中渡过，难道这就是我的命运安排吗？
+: 命运由性格来决定，是不是该再次反省自己到底是何种性格，该做何种道路的规划呢，是不是幼稚的想法太多呢，是不是没有真正看清自己的处境呢……一连串的问题在我脑海里盘绕，路在何方？
+: 想想那些急功尽力的指导原则下，囫囵吞枣地读书，结果是一无所获，留下下一次失败的隐患，想起那些取得一点成绩后的沾沾自喜，心里有很多懊悔，难道年轻的生命就要在这些“软货币”似的投入中消耗吗？
+: ...................
+

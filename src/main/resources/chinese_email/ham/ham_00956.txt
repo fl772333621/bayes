@@ -1,0 +1,38 @@
+Return-Path: <gu@tsinghua.edu.cn>
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id iAA1VXYs023616
+	for <zhou@ccert.edu.cn>; Wed, 10 Nov 2004 09:31:33 +0800 (CST)
+Received: (eyou send program); Wed, 10 Nov 2004 09:16:38 +0800
+Message-ID: <300049398.24600@mail.tsinghua.edu.cn>
+Received: from unknown (HELO mail.tsinghua.edu.cn) (unknown@127.0.0.1)
+ by 127.0.0.1 with SMTP; Wed, 10 Nov 2004 09:16:38 +0800
+X-scanvirus: By Symantec Scan Engine
+X-scanresult: NOREP
+Received: (eqmail ); 10 Nov 2004 01:16:30 -0000
+Received: from unknown (HELO sony) (duanhx@202.112.50.214)
+  by localhost with SMTP; 10 Nov 2004 01:16:30 -0000
+Message-ID: <012f01c4c6c4$f7599770$c60370ca@sony>
+From: "gu" <gu@tsinghua.edu.cn>
+To: zhou@ccert.edu.cn
+References: <299636717.19631@mail.tsinghua.edu.cn>
+Subject: =?gb2312?B?ofEgy8S089Xm09DV4sO0wNvDtKO/yrLDtNDQ0rWxyL3P16y1q9PWsrvWwdPazKvA27Ch?=
+Date: Wed, 10 Nov 2004 09:30:49 +0800
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2900.2180
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+Content-Transfer-Encoding: 8bit
+X-MIME-Autoconverted: from base64 to 8bit by sea.net.edu.cn id iAA1VXYs023616
+X-UIDL: H:9!!X[I!!eRO"!JPG"!
+
+我看到一哥们的辞职信里这么说：
+“这两年，由于工作性质和作息时间，我的身体受到了极大的伤害，现在的体检报告简直和大学毕业进入D公司时的体检报告判若两人:
+脂肪肝，甘油三脂高，胆固醇高，血糖高，转氨酶高，视力从当时的1.5下降到现在的0.6，体重由130斤变成了现在的170斤。
+我还清楚的记得当时大夫说: 少吃，尤其是晚餐，8点以后不要进食；多运动；尽量减少眼睛对这电脑的时间。当时我听了一乐，对他说:我每天要工作到深夜甚至凌晨，8点以后不进食是不可能的，很长时间就只睡5~6个小时，每天抽出1个小时运动也是不可能的;我每天要面对电脑16个小时，否则我就要失业。大夫听了，无语。 ”
+真有这么恐怖么？
+四大看起来也不是太赚啊，6k左右,要在长安街一线租房，刨去吃的穿的和打车费，还能剩多少?资本家真是可恶啊？剩余价值剥夺的忒狠了吧？
+前几天看到一哥们说市场化媒体的记者也很累，难道学文科出身的就天生苦禄命?
+

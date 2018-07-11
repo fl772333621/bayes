@@ -1,0 +1,42 @@
+Return-Path: <chen@91free.net>
+Received: from 91free.net ([202.91.186.200])
+	by home.ccert.edu.cn (MIMEDefang) with ESMTP id NOQUEUE
+	for <wei@ccert.edu.cn>; Sat, 04 Jun 2005 06:15:26 +0800 (CST)
+Message-ID: <200506040615.0.240228066646246@home.ccert.edu.cn>
+Received: from unknown (HELO vlm10046.net) (56.75.91.23)
+	by 219.240.37.28 with SMTP; 3 Jun 2005 22:31:33 -0000
+X-Originating-IP: [56.75.91.23]
+Date: Sat, 4 Jun 2005 06:31:32 +0800
+From: "chen" <chen@91free.net>
+To: wei@ccert.edu.cn
+Subject: =?gb2312?B?zfjVvsn9vLbN6rPJo6y4+MT61OyzybK7seOx7cq+x7jS4iE=?=
+X-Mailer: VolleyMail.net 5.7[cn]
+Mime-Version: 1.0
+X-Priority: 3
+X-MSMail-Priority: Normal
+Content-Type: text/html;
+	charset="GB2312"
+Content-Transfer-Encoding: base64
+
+
+
+
+
+91FREE升级完成.
+
+
+
+
+   
+    前段时间由于本站遭到黑客攻击千万两周时间无法访问，现在我们已经修复了网站并将系统升级到动易2005，新的网站全部生成HTML，速度更快，更新也会更快，希望能为您提供帮助。
+      本站主要提供包括免费空间，免费QQ，网站建设及推广等免费服务，欢迎您的访问，网址是：http://www.91free.net
+      如果您以前在本站提交过友情链接，请到本站检查您的链接是否正常，如果发觉您的链接有错误，请及时向我说明，我会在第一时间更正。
+      再次对为您造成的不便表示歉意！
+       
+  
+
+
+
+
+---------------------- 『艺泰』软件工作室 ---------------------
+以上内容由VolleyMail免费软件发送，但内容与VolleyMail无关，特此声明！

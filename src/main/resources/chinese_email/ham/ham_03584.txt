@@ -1,0 +1,37 @@
+Return-Path: <tian@telus.net>
+Received: from tsinghua.org.cn ([210.77.143.228])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id i8LGmg5k010068
+	for <jian@ccert.edu.cn>; Wed, 22 Sep 2004 00:48:48 +0800
+Received: (eyou send program); Wed, 22 Sep 2004 00:58:41 +0800
+Received: (eyou send program); Wed, 22 Sep 2004 00:58:40 +0800
+X-EYOU-ORIGINAL-IP: 199.185.220.220
+X-EYOU-ENVELOPE-MAILFROM: adamwang@telus.net
+Received: from unknown (HELO priv-edtnes57.telusplanet.net) (unknown@199.185.220.220)
+ by 210.77.143.228 with SMTP; Wed, 22 Sep 2004 00:58:40 +0800
+Received: from cindy ([142.59.15.189]) by priv-edtnes57.telusplanet.net
+          (InterMail vM.6.01.03.02 201-2131-111-104-20040324) with SMTP
+          id <20040921165447.SPRH2397.priv-edtnes57.telusplanet.net@cindy>
+          for <jian@ccert.edu.cn>;
+          Tue, 21 Sep 2004 10:54:47 -0600
+Message-ID: <000901c4a181$372548e0$6501a8c0@cindy>
+From: "tian" <tian@telus.net>
+To: jian@ccert.edu.cn
+Subject: =?gb2312?B?UmU6IMbkyrXHo8rWscjX9rCuu7nE0SAoeik=?=
+Date: Thu, 23 Sep 2004 09:23:01 -0600
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 5.50.4942.400
+X-MimeOLE: Produced By Microsoft MimeOLE V5.50.4942.400
+Content-Transfer-Encoding: 8bit
+X-MIME-Autoconverted: from base64 to 8bit by home.ccert.edu.cn id i8LGmg5k010068
+X-UIDL: *N3"!Nk,#!]WV!!GLl!!
+
+555
+: 有一个朋友告诉我，她与男友交往了一年，只牵过手，还没接过吻。我问她现在是公元几年，她告诉我是2004年。她不是处女，她交过男朋友，但是她愿意和一个男人牵了一年的手，还不急着接吻。
+: 有一个朋友写了一篇文章说男人在过马路的时候、在party的时候、在看鬼片的时候会牵着她的手，并告诉她牵不牵手，很重要。
+: 我想起了谈恋爱的过程里，许多真正让我心动的每一刻，都是与牵手相关。与初恋男人第一次牵手 ，我害羞的一直低着头，紧张的直冒手汗，那一刻仿佛正式宣告了：“我们在一起！”我的心脏差一点因为剧烈的跳动而兴奋窒息。
+: ...................
+

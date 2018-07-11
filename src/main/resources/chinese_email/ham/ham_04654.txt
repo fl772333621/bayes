@@ -1,0 +1,63 @@
+Return-Path: <zhan@ns.6test.edu.cn>
+Received: from tsinghua.org.cn ([210.77.143.228])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id i9J1owG1003193
+	for <qian@ccert.edu.cn>; Tue, 19 Oct 2004 09:50:59 +0800
+Received: (eyou send program); Tue, 19 Oct 2004 10:02:04 +0800
+Received: (eyou send program); Tue, 19 Oct 2004 10:02:02 +0800
+X-EYOU-ORIGINAL-IP: 202.38.99.65
+X-EYOU-ENVELOPE-MAILFROM: toefl-bounces@server.cool-meeting.com
+Received: from unknown (HELO server.cool-meeting.com) (unknown@202.38.99.65)
+ by 210.77.143.228 with SMTP; Tue, 19 Oct 2004 10:02:02 +0800
+Received: from server.cool-meeting.com (localhost.localdomain [127.0.0.1])
+	by server.cool-meeting.com (8.12.8/8.12.8) with ESMTP id i9J1v6lZ027013
+	for <qian@ccert.edu.cn>; Tue, 19 Oct 2004 09:57:13 +0800
+Received: from ns.6test.edu.cn ([202.38.99.18])
+	by server.cool-meeting.com (8.12.8/8.12.8) with ESMTP id i9J1v4kr027009
+	for <qian@ccert.edu.cn>; Tue, 19 Oct 2004 09:57:04 +0800
+Received: from [210.25.128.109] (helo=tsinghua89o1rm)
+	by ns.6test.edu.cn with asmtp (Exim 4.12) id 1CJjO2-0004rn-00
+	for Toefl@server.cool-meeting.com; Tue, 19 Oct 2004 10:06:06 +0800
+Message-ID: <004901c4b57d$d2bae660$6d8019d2@tsinghua89o1rm>
+From: "zhan" <zhan@ns.6test.edu.cn>
+To: qian@ccert.edu.cn
+Date: Tue, 19 Oct 2004 09:48:38 +0800
+MIME-Version: 1.0
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2600.0000
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2600.0000
+Cc: 
+Subject: =?gb2312?B?UmU6INKyvbK9ss7StcS40Mfpvq3A+rDJLNDEy+m1xLjQvvU=?=
+X-BeenThere: toefl@server.cool-meeting.com
+X-Mailman-Version: 2.1.2
+Precedence: list
+List-Id: &#26446;&#26143;&#21644;&#20182;&#30340;&#23398;&#29983;&#20204;
+	<toefl.server.cool-meeting.com>
+List-Unsubscribe: <http://server.cool-meeting.com/mailman/listinfo/toefl>,
+	<mailto:toefl-request@server.cool-meeting.com?subject=unsubscribe>
+List-Archive: <http://server.cool-meeting.com/mailman/private/toefl>
+List-Post: <mailto:toefl@server.cool-meeting.com>
+List-Help: <mailto:toefl-request@server.cool-meeting.com?subject=help>
+List-Subscribe: <http://server.cool-meeting.com/mailman/listinfo/toefl>,
+	<mailto:toefl-request@server.cool-meeting.com?subject=subscribe>
+Content-Type: multipart/mixed; boundary="===============050978969085838099=="
+Sender: toefl-bounces@server.cool-meeting.com
+Errors-To: toefl-bounces@server.cool-meeting.com
+X-UIDL: T;:!!%l+#!PRG"!Z',!!
+
+没事 你就被牵牵手 一点不算馅进去 呵呵
+找个好gg
+和他是在网上认识的,开始相识也只是普通般的聊天,感觉他像个小弟弟似的，他也总叫我姐姐，后来一问才知道，那年他已经是清华研一的学生了,而我是离着不远一个高校大二的学生.
+我们在一起也讲起了感情的事情，他说他正追求一个有了GG的MM,还问我应该怎么办,我给他出了些主意,不过后来还是未果,他打趣的说想让我做他MM,哪怕只有一个星期也可以.我想那时也许他那时只是感情挫败，一时寂寞吧.
+后来我们互换了照片，然后又见了面,一起打球,吃饭,我们都觉得很开心,只是他总是有心事的样子。
+今年春天的某日，我说要去西单买书,让他帮我挑一些计算机方面的书，他很高兴的陪我挑书，殷勤地帮我拎包，帮我拿衣服,帮我拿着沉沉的书..
+一起吃过晚饭，我说我要走了，他说要送我,沿着长安街,华灯把街照的很美,那天风很温暖。我说包和衣服我来拿吧,你的手里都拿不下了.我拎着包，和他漫步在华美的街道上，慢慢地，他的手和我的手碰到了一起,然后，他又抓住了我握着包的手,就那么一直抓着..后来他又把包拿了过去，然后一直握着我的手.
+坦白地说，我从未有过恋爱，我以为是爱情来临了，感觉很幸福,可他始终什么也没有说。
+当晚，我们在MSN上又相遇了,我们常常在这里碰到,他好象并不是特别兴奋似的，我问他怎么了,他便开始摊牌了，他问我知道为什么上MSN么,我说不知道,他说以为我知道.我说也许是你一直通过这种方式和你追求的MM联系?他说不是，他说就在去年底,他有了女朋友。
+天啊，原来是这样，可是他为什么还要牵我的手,为什么不早点告诉我，我质问他，他只是说不知道如何开口，还说自己也不知道为什么会发展的那么快云云..还说觉得如果我们发展,他没有信心,还说我比他MM优秀云云..
+在我看来，一切不过是借口，一直追问他为什么有女朋友了还要牵我的手，他说，一时冲动，犯了个错误，他说我很美...
+流氓，在我心里,他的美好形象全没了，不过是个流氓!
+也许只能哀叹命运吧,我已不知道何去何从了，也许需要一个人，慢慢舔食自己的伤口吧.
+记得看过一个小说"女孩子的花",里面有一句话:"这世界上可以做许多错事,但千万不要做伤害女孩子的事"如果你是男孩,请善待你身边的MM吧,她们是需要真诚和爱的.
+我现在对爱情心有余悸了,曾经怀揣着对爱的美好憧憬,被无情的现实击碎了...
+

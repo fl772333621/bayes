@@ -1,0 +1,29 @@
+Return-Path: <gong@ccert.edu.cn>
+Received: from home.ccert.edu.cn (ccert.edu.cn [202.112.57.12])
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id iBF9WYIP001711;
+	Wed, 15 Dec 2004 17:32:34 +0800 (CST)
+Received: from sunbin_S ([202.112.50.201])
+	(authenticated bits=0)
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id iBF9ImcO022593;
+	Wed, 15 Dec 2004 17:18:49 +0800
+Message-Id: <200412150918.iBF9ImcO022593@home.ccert.edu.cn>
+Date: Wed, 15 Dec 2004 17:37:39 +0800
+From: "gong" <gong@ccert.edu.cn>
+Reply-To: gong@ccert.edu.cn
+To: lv@ccert.edu.cn
+Subject: =?gb2312?B?UmU6ILTzvNK2vMzYsfDU2rr1tP3T9sLwo78=?=
+Organization: CCERT
+X-mailer: Foxmail 5.0 beta2 [cn]
+Mime-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: 8bit
+X-MIME-Autoconverted: from base64 to 8bit by sea.net.edu.cn id iBF9WYIP001711
+X-UIDL: ;)~"!o'!"!jE'!!`Q##!
+
+谢谢攻略或者经历心得什么的启发一下
+: 我不着急，呵呵，我又不找工作，我只是发表一下我的看法罢了。:)
+: btw：俺下下个月就28了，房子是有了，打算明年买车，媳妇也找了，呵呵
+: 想当年99年从清华出来的时候去上地一家外企，一个月就开3000多，住北大东门小平房，慢慢熬到现在第六年了，现在在一个60人的公司当技术副总，每年公司做几千万的项目，也算混的还行，温饱基本还是解决了，工作之余还能玩玩网络游戏，做做自己喜欢的技术研究，也挺不错。
+: ...................
+

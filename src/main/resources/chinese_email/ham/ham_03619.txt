@@ -1,0 +1,33 @@
+Return-Path: <pan@sina.com>
+Received: from sina.com (sina187-158.sina.com.cn [202.106.187.158] (may be forged))
+	by home.ccert.edu.cn (8.13.1/8.13.1) with SMTP id j0R1mbZd024543
+	for <zeng@ccert.edu.cn>; Thu, 27 Jan 2005 09:48:37 +0800
+Message-Id: <200501270148.j0R1mbZd024543@home.ccert.edu.cn>
+Received: (qmail 29272 invoked from network); 27 Jan 2005 01:58:54 -0000
+Received: from unknown (HELO amd2500plus) (219.224.134.126)
+  by 202.106.187.158 with SMTP; 27 Jan 2005 01:58:54 -0000
+Received: from(cheriff@sina.com) to(qa@ccert.edu.cn)
+From: "pan" <pan@sina.com>
+To: zeng@ccert.edu.cn
+Subject: =?GB2312?Q?Re: Re: =BD=F1=CC=EC=CA=D4=C1=CB=D2=BB=CF=C2?=
+X-mailer: Foxmail 4.2 [cn]
+Mime-Version: 1.0
+Content-Type: text/plain;
+      charset="GB2312"
+Date: Thu, 27 Jan 2005 10:2:18 +0800
+Content-Transfer-Encoding: 8bit
+X-MIME-Autoconverted: from quoted-printable to 8bit by home.ccert.edu.cn id j0R1mbZd024543
+X-UIDL: jiV!!_!d!!*@4!!`F;"!
+
+: 看裁判们的表现
+: 我只是深刻的领会到一点
+: 找工作只是互相对胃口而已。
+: 尤其是要对雇主的胃口就可以了。
+   介个没错阿，特别是第一轮那个本来已经带队获胜取得豁免权的小子，非要站出来犯贱，就被咔咔拿下了。
+: 有时候他们评论人的标准也不是特别客观的
+   我感觉这个就跟招聘一样。从18人中选1个，和从几万人选30几个是一样的道理。
+   18个人选一个，我只要保证最后剩下的这个人是最好的就行了，其他17个人先后出局的顺序根本不重要。几万人选30个人也是一样的，我只要保证通过4-5轮的笔试面试能把最好的30个人筛选出来就行，至于其他人是第几轮出局没有什么区别。
+: 看他们互相踩，我就觉得挺奇怪的
+: 要是换在中国群殴的话，会不会大家海互相给个面子，至少表面上有些团队精神
+   这个事情就看是否大家心照不宣，一团和气了，只要有一个跳出来搅和，大家自然就会拉帮结伙，互相攻击了。只不过在中国，出来搅和好像大家都不太习惯。
+

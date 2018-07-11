@@ -1,0 +1,72 @@
+Return-Path: <xiao@mail.tsinghua.edu.cn>
+Received: from tsinghua.org.cn ([210.77.143.228])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id i8M8VUqY026126
+	for <bai@ccert.edu.cn>; Wed, 22 Sep 2004 16:31:31 +0800
+Received: (eyou send program); Wed, 22 Sep 2004 16:41:29 +0800
+Received: (eyou send program); Wed, 22 Sep 2004 16:41:27 +0800
+X-EYOU-ORIGINAL-IP: 202.38.99.65
+X-EYOU-ENVELOPE-MAILFROM: toefl-bounces@server.cool-meeting.com
+Received: from unknown (HELO server.cool-meeting.com) (unknown@202.38.99.65)
+ by 210.77.143.228 with SMTP; Wed, 22 Sep 2004 16:41:27 +0800
+Received: from server.cool-meeting.com (localhost.localdomain [127.0.0.1])
+	by server.cool-meeting.com (8.12.8/8.12.8) with ESMTP id i8M8VZlf012735
+	for <bai@ccert.edu.cn>; Wed, 22 Sep 2004 16:31:44 +0800
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by server.cool-meeting.com (8.12.8/8.12.8) with SMTP id i8M8VWkr012731
+	for <bai@ccert.edu.cn>; Wed, 22 Sep 2004 16:31:32 +0800
+Received: (eyou send program); Wed, 22 Sep 2004 16:13:55 +0800
+Message-ID: <295840835.03386@mail.tsinghua.edu.cn>
+Received: from unknown (HELO mail.tsinghua.edu.cn) (unknown@127.0.0.1)
+	by 127.0.0.1 with SMTP; Wed, 22 Sep 2004 16:13:55 +0800
+X-scanvirus: By Symantec Scan Engine
+X-scanresult: CLEAN
+Received: (eqmail ); 22 Sep 2004 08:13:54 -0000
+Received: from unknown (HELO dbx) (dengbx@210.25.128.116)
+	by localhost with SMTP; 22 Sep 2004 08:13:54 -0000
+Date: Wed, 22 Sep 2004 16:36:19 +0800
+From: "xiao" <xiao@mail.tsinghua.edu.cn>
+To: bai@ccert.edu.cn
+X-mailer: Foxmail 4.1 [cn]
+Mime-Version: 1.0
+Content-Type: text/plain;
+      charset="GB2312"
+Content-Transfer-Encoding: 8bit
+X-MIME-Autoconverted: from quoted-printable to 8bit by server.cool-meeting.com
+	id i8M8VWkr012731
+Cc: 
+Subject: =?gb2312?B?UmU6ILa8srvI3dLXsKE=?=
+X-BeenThere: toefl@server.cool-meeting.com
+X-Mailman-Version: 2.1.2
+Precedence: list
+List-Id: &#26446;&#26143;&#21644;&#20182;&#30340;&#23398;&#29983;&#20204;
+	<toefl.server.cool-meeting.com>
+List-Unsubscribe: <http://server.cool-meeting.com/mailman/listinfo/toefl>,
+	<mailto:toefl-request@server.cool-meeting.com?subject=unsubscribe>
+List-Archive: <http://server.cool-meeting.com/mailman/private/toefl>
+List-Post: <mailto:toefl@server.cool-meeting.com>
+List-Help: <mailto:toefl-request@server.cool-meeting.com?subject=help>
+List-Subscribe: <http://server.cool-meeting.com/mailman/listinfo/toefl>,
+	<mailto:toefl-request@server.cool-meeting.com?subject=subscribe>
+Sender: toefl-bounces@server.cool-meeting.com
+Errors-To: toefl-bounces@server.cool-meeting.com
+X-UIDL: oV+"!MY0"!@Sj!!C~o"!
+
+我的意思是要ss的持久..不然老了就没人包了...
+: 标  题: Re: 都不容易啊
+: 发信站: 水木社区 (Sun Jun  5 16:10:25 2005), 站内
+: 
+: 
+: : 要足够ss的，而且要持久。。。
+:                     ~~~~~x
+: 
+: --
+: Cerberus  Lv 23  HP 1490
+: 天堂的大门打开了，Cerberus狂奔而出，在距离敌人0.1cm处戛然而止，仰天长啸。从三个
+: 头的口中射出无比绚烂夺目的光芒。光芒附体，魔力倍增，赋予味方全体"Double"(双次) 
+: + "Triple"(连击)状态。
+: 由于施加的全体效果，所以作用非常大。特别是需要大量使用魔法的战斗，召唤Cerberus
+: 是十分必要的。它的自动加速(Auto-Haste)和警戒(Alert)能力对于速攻会有很大作用。
+: 
+: 
+: ※ 来源:·水木社区 newsmth.net·[FROM: 211.151.90.*]
+

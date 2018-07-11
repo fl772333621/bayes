@@ -1,0 +1,34 @@
+Return-Path: <xia@cernet.edu.cn>
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id j37ACI0w022969;
+	Thu, 7 Apr 2005 18:12:38 +0800
+Received: from WHITESNOW (tu203025.ip.tsinghua.edu.cn [166.111.203.25])
+	(authenticated bits=0)
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id j37AR3Nl018457;
+	Thu, 7 Apr 2005 18:27:03 +0800 (CST)
+Message-ID: <010b01c53b5c$9bcde840$19cb6fa6@WHITESNOW>
+From: "xia" <xia@cernet.edu.cn>
+To: hou@ccert.edu.cn
+Cc: "Duan Haixin\(Tsinghua\)" <zhou@ccert.edu.cn>
+References: <001d01c518b0$3a20b560$1bcb6fa6@WHITESNOW> <011401c529d9$d50cb8f0$18cb6fa6@CCERTDAWEI>
+Subject: =?gb2312?B?ofEgyc+12MjtvP65q8u+w+bP8tOmveyxz9K1yfrV0MrVLm5ldLPM0PK/qreivLDOosjtzfi53Lmk
+s8zKpg==?=
+Date: Thu, 7 Apr 2005 18:28:52 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0108_01C53B9F.A68A2F80"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2900.2180
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+X-UIDL: X]c!!'[9!!8gH!!<UL"!
+
+领航科技（www.huatechinfo.com)作为微软金牌合作伙伴，基于Exchange,SPS,Office2003,win2003开发OA与EIP系统。由于与微软的合作战略得当，所以最近业务处于快速上升阶段，目前公司海淀上地开发部正招收.net 程序设计人员及微软网管工程师
+要求：
+熟悉微软.net编程方法，有基于微软平台B/S结构3年以上行业软件编程经验。
+2、计算机相关专业本科以上学历，由实际程序开发工作经验，编程习惯严谨，规范。
+3、有责任心，善于交流协作，可以独立承担任务，有较强的英文文档学习能力
+4、有基于微软Exchange2000,SPS开发经验或OA，KM项目开发经验(1年以上）优先
+5、应届毕业生如有较高素质，也可先培养后工作
+有意者速将简历放在邮件正文 发到hrhuatech@163.com,并在标题注明“应届毕业生” 
+

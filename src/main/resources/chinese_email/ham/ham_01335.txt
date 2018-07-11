@@ -1,0 +1,38 @@
+Return-Path: <lian@tsinghua.edu.cn>
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id iBJFUYM7028195
+	for <yang@ccert.edu.cn>; Sun, 19 Dec 2004 23:30:34 +0800 (CST)
+Received: (eyou send program); Sun, 19 Dec 2004 23:15:11 +0800
+Message-ID: <303469311.23420@mail.tsinghua.edu.cn>
+Received: from unknown (HELO mail.tsinghua.edu.cn) (unknown@127.0.0.1)
+ by 127.0.0.1 with SMTP; Sun, 19 Dec 2004 23:15:11 +0800
+X-scanvirus: By Symantec Scan Engine
+X-scanresult: CLEAN
+Received: (eqmail ); 19 Dec 2004 15:15:11 -0000
+Received: from unknown (HELO sony) (duanhx@166.111.233.6)
+  by localhost with SMTP; 19 Dec 2004 15:15:11 -0000
+Message-ID: <00db01c4e5df$a8da19f0$06e96fa6@sony>
+From: "lian" <lian@tsinghua.edu.cn>
+To: yang@ccert.edu.cn
+Subject: =?gb2312?B?UmU6ILj4ztLSu7j2u+7XxbXEwO3TyQ==?=
+Date: Sun, 19 Dec 2004 23:30:23 +0800
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2900.2180
+X-MIMEOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+Content-Transfer-Encoding: 8bit
+X-MIME-Autoconverted: from base64 to 8bit by sea.net.edu.cn id iBJFUYM7028195
+X-UIDL: *bH!!T;-"!XoE!!_iZ!!
+
+我曾经不断寻找这个答案，找啊找啊，找了10年了，终于，现在我开始有点明白了，活着就是活着，我不知道为什么，但我知道我会知道为什么的
+并不是每件事都要知道其目的与意义才去做的，如果你已经知道活着是为了什么了，那你生活不过是为了强迫自己去完成这样一个目的罢了，这又有什么好处呢？
+活着，就是去寻找活着的意义，去赋予自己生命以意义，去为自己的存活找一个理由，为自己的存活刻画一个理由。爱因斯坦在很长的一段生命里必定不知道其生命会有为人类划时代的意义，希特勒也肯定不明白其存活的意义在于让人类认识到人可以有多丑陋。活着的理由不一定是与生俱有的，很多时候是自己赋予的。
+去寻找自己未知的活着的理由就象一个游戏，一个认真不可重来的游戏，你可以快点game over，也可以慢点；你可以开心点game over，也可以痛苦一点game over；你可以孤单地game over，也可以幸福地game over……一切一切，都在自己的手中
+: 我是个好人，无论发生过什么，我都还这样相信着，但不知为什么，伤害总是接二连三不容人喘息，又都那么残酷，有很多人说过我坚强，但我总是会有强烈的自杀的念头，只是想到父母，不管他们如何，总归养了我这么多年，我不能让他们白浪费了这么多精力和钱，我总归要给他们养老？每一次，都是这样的想法把我拉回现实。然而活着，那么痛苦。 
+: 我曾经有那样的多的梦，曾经那么开朗，曾经努力追求美好，我从来不怕任何坎坷，因为我已经习惯了。但是，世上最大的奢侈品是希望，如果没有了，也许一辈子都不再买得起。 
+: 我也总是安慰自己，世上还有好多人吃不饱饭，你有什么资格痛苦，可是，我怎样努力，也无法欺骗自己的内心。 
+: ...................
+

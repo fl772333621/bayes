@@ -1,0 +1,81 @@
+Return-Path: <xiao@mails.tsinghua.edu.cn>
+Received: from tsinghua.org.cn ([210.77.143.232])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with SMTP id j3LCkSgu010878
+	for <lei@ccert.edu.cn>; Thu, 21 Apr 2005 20:46:40 +0800
+Received: (eyou send program); Thu, 21 Apr 2005 21:02:53 +0800
+Message-ID: <314088573.18410@tsinghua.org.cn>
+X-EYOU-AUTOFORWARD: tsinghua.org.cn
+Received: (eyou send program); Thu, 21 Apr 2005 21:02:53 +0800
+Message-ID: <314088573.08775@tsinghua.org.cn>
+Received: from unknown (HELO eyou.net) (210.77.143.235)
+ by 210.77.143.232 with SMTP; Thu, 21 Apr 2005 21:02:53 +0800
+X-EYOU-SPAMVALUE: 0
+Received: (eyou anti_spam gateway 3.0); Thu, 21 Apr 2005 20:52:29 +0800
+Message-ID: <314087949.03114@eyou.net>
+Received: from 202.112.49.111 by 210.77.143.235 with SMTP; Thu, 21 Apr 2005 20:52:28 +0800
+Received: from Garfield. (localhost [IPv6:::1])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with ESMTP id j3LCx8Su060974
+	for <lei@ccert.edu.cn>; Thu, 21 Apr 2005 20:59:20 +0800 (CST)
+	(envelope-from toefl-bounces@gradinfo.net.edu.cn)
+Received: from whisper.6test.edu.cn (SERVER.COOL-MEETING.COM [202.38.99.65])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with ESMTP id j3LCx44W060958
+	for <lei@ccert.edu.cn>; Thu, 21 Apr 2005 20:59:04 +0800 (CST)
+	(envelope-from sxx03@mails.tsinghua.edu.cn)
+Received: from mails.tsinghua.edu.cn ([166.111.8.16])
+	by whisper.6test.edu.cn with smtp (Exim 4.50) id 1DObJQ-0001C9-1o
+	for toefl@server.cool-meeting.com; Thu, 21 Apr 2005 21:01:44 +0800
+Received: (eyou send program); Thu, 21 Apr 2005 20:49:42 +0800
+Message-ID: <314087782.17290@mails.tsinghua.edu.cn>
+Received: from 202.38.188.130 by mails.tsinghua.edu.cn with HTTP;
+	Thu, 21 Apr 2005 20:49:42 +0800
+X-WebMAIL-MUA: [202.38.188.130]
+From: xiao@mails.tsinghua.edu.cn
+To: lei@ccert.edu.cn
+Date: Thu, 21 Apr 2005 20:49:42 +0800
+X-Priority: 3
+Content-Type: multipart/mixed; boundary="----------=_1114087608-987-697"
+Cc: 
+Subject: =?gb2312?B?ofEg0rLAtMu1y7W76cm01dWjuqOpKDMpICjXqtTYKQ==?=
+X-BeenThere: toefl@gradinfo.net.edu.cn
+X-Mailman-Version: 2.1.5
+Precedence: list
+Reply-To: xiao@mails.tsinghua.edu.cn
+List-Id: "&#26446; &#26143; &#21644; &#20182; &#30340; &#23398; &#29983;
+	&#20204; " <toefl.gradinfo.net.edu.cn>
+List-Unsubscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=unsubscribe>
+List-Archive: <http://gradinfo.net.edu.cn/mailman/private/toefl>
+List-Post: <mailto:toefl@gradinfo.net.edu.cn>
+List-Help: <mailto:toefl-request@gradinfo.net.edu.cn?subject=help>
+List-Subscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=subscribe>
+Sender: toefl-bounces@gradinfo.net.edu.cn
+Errors-To: toefl-bounces@gradinfo.net.edu.cn
+MIME-Version: 1.0
+X-UIDL: Go-"![lA"!6J1!!P<l"!
+
+【 以下文字转载自 Beauty 讨论区 】
+发信人: dididog (等我到了23，谁问我年龄我都不说了), 信区: Beauty
+标  题: 也来说说婚纱照：）(3)
+发信站: 水木社区 (Mon Jun  6 13:04:37 2005), 站内
+时尚情缘
+好像在平安大街一带，应该是中低档婚纱影楼的代表
+两年前生日的时候收到的优惠卡可以去照，就去照着玩
+化妆真是ft的不行，一点都看不出来是自己
+一个50左右的大妈吧，好像也是收到了一样的卡
+化完妆我们俩看上去皮肤差不多，郁闷到死掉
+最后的照片我同学说跟蔡卓妍一模一样，ft，可以体会有多么不像本人了吧
+服装也不太好，稍微顺眼一点的都要加钱，而且衣服有点脏兮兮的
+维纳斯
+好像是用哪个使馆做外景，具体想不起来在哪里了
+但是好像不多人去照，总结很少，那个jj当时也考虑过那里
+但是她一个同事照过，她觉得化妆化的不太好
+发现婚纱照真的是全民动员的一件事情，嘿嘿
+而且后期服务一般，只有交钱之前拿顾客当回事
+我也怕生这种闲气，久放弃了
+汉城之约
+好像ol上面推荐过，据说效果不错
+但是lg死活不去，ft死了，本来就没有几家可选的，他还那么事多
+他说他很讨厌日本人，看韩国人也不太爽，ft，都哪跟哪啊
+不去就不去吧，不然他忍着去了，不好好配合也是白搭：（
+

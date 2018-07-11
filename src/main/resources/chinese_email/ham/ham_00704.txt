@@ -1,0 +1,44 @@
+Return-Path: <long@cernet.edu.cn>
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id iBT2XfiR028732;
+	Wed, 29 Dec 2004 10:33:41 +0800
+Received: from sony (tu204113.tsinghua.edu.cn [166.111.204.113])
+	(authenticated bits=0)
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id iBT2lqsY015587;
+	Wed, 29 Dec 2004 10:47:55 +0800 (CST)
+Message-ID: <02f201c4ed50$cb5c7fe0$bbcc6fa6@sony>
+From: "long" <long@cernet.edu.cn>
+To: cheng@ccert.edu.cn
+Subject: =?gb2312?B?UmU6ILXa0rvE6r/GtPO1xMn6u+4=?=
+Date: Wed, 29 Dec 2004 10:47:44 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_02EE_01C4ED93.D3F5C010"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2800.1106
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1106
+X-UIDL: /9e!!MQk"!8d&!!o,E"!
+
+: 标  题: 第一年科大的生活
+: 发信站: 水木社区 (Mon Jun  6 23:56:46 2005), 站内
+: 
+: 哈哈
+: 
+: 发信人: MrJiang (米斯特.姜), 信区: SIMIT
+: 标  题: Re: 刚注册了帐号，来报到
+: 发信站: 生命玄机 BBS (Sun Jun  5 19:20:07 2005)，WWW信件
+: 
+: 
+: 很无聊的
+: 适合泡mm
+~~~~~~~~~~~~~貌似不错呀
+: 
+: 这里4个人一间，水电不要钱
+: 人品好的话能洗上热水澡
+: 还不错
+: 
+: --
+: 
+: ※ 来源:·水木社区 newsmth.net·[FROM: 211.151.90.*]
+

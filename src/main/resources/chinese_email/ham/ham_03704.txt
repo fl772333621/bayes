@@ -1,0 +1,57 @@
+Return-Path: <ma@ns.6test.edu.cn>
+Received: from tsinghua.org.cn ([210.77.143.228])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id i9R6Okg4025261
+	for <tao@ccert.edu.cn>; Wed, 27 Oct 2004 14:24:48 +0800
+Received: (eyou send program); Wed, 27 Oct 2004 14:36:09 +0800
+Received: (eyou send program); Wed, 27 Oct 2004 14:36:09 +0800
+X-EYOU-ORIGINAL-IP: 210.77.143.235
+X-EYOU-ENVELOPE-MAILFROM: wanglanjia@ns.6test.edu.cn
+Received: from unknown (HELO eyou.net) (unknown@210.77.143.235)
+ by 210.77.143.228 with SMTP; Wed, 27 Oct 2004 14:36:09 +0800
+Received: (eyou send program); Wed, 27 Oct 2004 14:32:54 +0800
+Message-ID: <298858774.08406@eyou.net>
+Received: from 166.111.8.16 by 210.77.143.235 with SMTP; Wed, 27 Oct 2004 14:32:49 +0800
+Received: (eyou send program); Wed, 27 Oct 2004 14:30:52 +0800
+Message-ID: <298858652.07151@mails.tsinghua.edu.cn>
+Received: (eyou send program); Wed, 27 Oct 2004 14:30:51 +0800
+Message-ID: <298858650.22634@mails.tsinghua.edu.cn>
+Received: from unknown (HELO mails.tsinghua.edu.cn) (unknown@127.0.0.1)
+ by 127.0.0.1 with SMTP; Wed, 27 Oct 2004 14:30:51 +0800
+X-scanvirus: By Symantec Scan Engine
+X-scanresult: CLEAN
+Received: (eqmail ); 27 Oct 2004 06:30:38 -0000
+Received: from ccert.edu.cn (HELO home.ccert.edu.cn) (202.112.57.12)
+  by mails.tsinghua.edu.cn with SMTP; 27 Oct 2004 06:30:38 -0000
+Received: from home.ccert.edu.cn (localhost [127.0.0.1])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id i9R6HJAj025156;
+	Wed, 27 Oct 2004 14:17:19 +0800
+Received: (from majordomo@localhost)
+	by home.ccert.edu.cn (8.13.1/8.13.1/Submit) id i9R6HJYv025155;
+	Wed, 27 Oct 2004 14:17:19 +0800
+X-Authentication-Warning: home.ccert.edu.cn: majordomo set sender to owner-ccertstaff using -f
+Received: from ns.6test.edu.cn (ns.6test.edu.cn [202.112.54.2])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id i9R6HDq1025149
+	for <tao@ccert.edu.cn>; Wed, 27 Oct 2004 14:17:14 +0800
+Received: from [210.25.128.109] (helo=tsinghua89o1rm)
+	by ns.6test.edu.cn with asmtp (Exim 4.12)
+	id 1CMhaw-00054K-00
+	for ccertstaff@ccert.edu.cn; Wed, 27 Oct 2004 14:47:42 +0800
+Message-ID: <001401c4bbee$2f26d0a0$6d8019d2@tsinghua89o1rm>
+From: "ma" <ma@ns.6test.edu.cn>
+To: tao@ccert.edu.cn
+Subject: =?gb2312?B?UmU6IL3hu+m688eu1PXDtLnco7+4+LXjvajS6bDJo6E=?=
+Date: Wed, 27 Oct 2004 14:28:02 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0011_01C4BC31.2A9FC670"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2600.0000
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2600.0000
+Sender: owner-ccertstaff@home.ccert.edu.cn
+Precedence: bulk
+X-UIDL: +Jl"!lV'"!6"""!A^"#!
+
+你给人家家钱了吗？
+: 其实我还没有结婚，已经结婚的同事一休完婚假回来就兴奋的说他们家的财政大权已经被她掌控了！我们俩现在基本上共产主义，他的钱用来还房子贷款和存钱，我的钱1/3给他做生活费，1/3给我家，剩下的自己的。结果买房子的时候他抱怨大钱都是他攒的。我很郁闷，虽然自己的工作也和财务有关，但是也知道自己花钱有些无度，看到自己喜欢的东西很有冲动也很舍得花钱。但是以后结婚后，总觉得应该明明白白的过日子。我不想自己独揽财政大权，因为自己基本上攒不下来钱，但是又不希望他操纵一切，觉得很危险。不知道已经结婚了的xdjm们家里是怎么? 霾普?
+

@@ -1,0 +1,53 @@
+Return-Path: <you@home.ccert.edu.cn>
+Received: from home.ccert.edu.cn (localhost [127.0.0.1])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id iB21UJ9E000519;
+	Thu, 2 Dec 2004 09:30:19 +0800
+Received: (from majordomo@localhost)
+	by home.ccert.edu.cn (8.13.1/8.13.1/Submit) id iB21UJUH000518;
+	Thu, 2 Dec 2004 09:30:19 +0800
+X-Authentication-Warning: home.ccert.edu.cn: majordomo set sender to owner-ccertstaff using -f
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id iB21TDTX000490;
+	Thu, 2 Dec 2004 09:29:13 +0800
+Received: from WHITESNOW ([220.207.85.19])
+	(authenticated bits=0)
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id iB21gDjs025535;
+	Thu, 2 Dec 2004 09:42:17 +0800 (CST)
+Message-ID: <004601c4d810$2a46dce0$1355cfdc@WHITESNOW>
+From: "you" <you@cernet.edu.cn>
+To: ou@ccert.edu.cn
+Cc: <bi@ccert.edu.cn>
+References: <001801c4d808$d33af190$15cb6fa6@ccertspark>
+Subject: =?gb2312?B?UmU6ILuou6jV5r/JsK4=?=
+Date: Thu, 2 Dec 2004 09:42:12 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0043_01C4D853.32E944D0"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2900.2180
+X-Mimeole: Produced By Microsoft MimeOLE V6.00.2900.2180
+Sender: owner-ccertstaff@home.ccert.edu.cn
+Precedence: bulk
+X-UIDL: EGG!!/&?!!M\h"!!9""!
+
+re
+: 标  题: Re: 花花真可爱
+: 发信站: 水木社区 (Sat Jun 18 01:19:34 2005), 站内
+: 
+: 描写生动啊@_@
+: : 昨天来缴款，我问她：为啥大家都叫你花花呢？
+: : 花花低下头，很青涩的半天挤出一句：因为她们说我是freshman的版花啊...^_^
+: ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+: 
+: --
+:  ┌┐  ┌┐ fifty        ●        ┌──┐                       /      \\      
+:  │ ╲╱ │┐┌┐╭─┐╭─╮╭─╮│┌─┤╭─╮╭  ╮╭─╮    |╱\\/\\/╲|     
+:  │ ╲╱ │╰╯│╰─╮ ││ ││  │  │││─││∨│├─       │··│      
+:  └┘  └┘──╯╰─╯╰─╯╰─╯└─┴┘└  ┘└  ┘╰─╯     ╰──╯      
+:      在高高低低的键盘上，                              @smth     (㎜)  (㎝)     
+:                           演绎起起伏伏的人生......              /︼︼︼︼︼\\   
+: 
+: 
+: ※ 来源:·水木社区 newsmth.net·[FROM: 211.151.90.87]
+

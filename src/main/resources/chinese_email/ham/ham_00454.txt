@@ -1,0 +1,48 @@
+Return-Path: <pu@ns.6test.edu.cn>
+Received: from tsinghua.org.cn ([210.77.143.228])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id i9JEi6Xb015464
+	for <weng@ccert.edu.cn>; Tue, 19 Oct 2004 22:44:08 +0800
+Received: (eyou send program); Tue, 19 Oct 2004 22:55:10 +0800
+Received: (eyou send program); Tue, 19 Oct 2004 22:55:02 +0800
+X-EYOU-ORIGINAL-IP: 202.38.99.65
+X-EYOU-ENVELOPE-MAILFROM: toefl-bounces@server.cool-meeting.com
+Received: from unknown (HELO server.cool-meeting.com) (unknown@202.38.99.65)
+ by 210.77.143.228 with SMTP; Tue, 19 Oct 2004 22:55:02 +0800
+Received: from server.cool-meeting.com (localhost.localdomain [127.0.0.1])
+	by server.cool-meeting.com (8.12.8/8.12.8) with ESMTP id i9JEoAlZ027962
+	for <weng@ccert.edu.cn>; Tue, 19 Oct 2004 22:50:18 +0800
+Received: from ns.6test.edu.cn ([202.38.99.18])
+	by server.cool-meeting.com (8.12.8/8.12.8) with ESMTP id i9JEo8kr027958
+	for <weng@ccert.edu.cn>; Tue, 19 Oct 2004 22:50:08 +0800
+Received: from [61.149.251.39] (helo=[192.168.0.235])
+	by ns.6test.edu.cn with asmtp (Exim 4.12) id 1CJvS9-0008G5-00
+	for toefl@server.cool-meeting.com; Tue, 19 Oct 2004 22:59:10 +0800
+Mime-Version: 1.0 (Apple Message framework v619)
+To: weng@ccert.edu.cn
+Message-Id: <DF34B7A6-21DC-11D9-AA54-000D93AF6D96@ns.6test.edu.cn>
+From: CHEN Maoke <pu@ns.6test.edu.cn>
+Date: Tue, 19 Oct 2004 22:40:50 +0800
+X-Mailer: Apple Mail (2.619)
+Subject: [TOEFL] Fwd: pls forward to toelf
+X-BeenThere: toefl@server.cool-meeting.com
+X-Mailman-Version: 2.1.2
+Precedence: list
+List-Id: &#26446;&#26143;&#21644;&#20182;&#30340;&#23398;&#29983;&#20204;
+	<toefl.server.cool-meeting.com>
+List-Unsubscribe: <http://server.cool-meeting.com/mailman/listinfo/toefl>,
+	<mailto:toefl-request@server.cool-meeting.com?subject=unsubscribe>
+List-Archive: <http://server.cool-meeting.com/mailman/private/toefl>
+List-Post: <mailto:toefl@server.cool-meeting.com>
+List-Help: <mailto:toefl-request@server.cool-meeting.com?subject=help>
+List-Subscribe: <http://server.cool-meeting.com/mailman/listinfo/toefl>,
+	<mailto:toefl-request@server.cool-meeting.com?subject=subscribe>
+Content-Type: multipart/mixed; boundary="===============65759890509970442=="
+Sender: toefl-bounces@server.cool-meeting.com
+Errors-To: toefl-bounces@server.cool-meeting.com
+X-UIDL: ],?!!eAp!!c-/!!91C"!
+
+没看完。。。
+谁给个abstrct?
+: 总上这个版，看很多人在这里诉苦，有时候真是钻进牛角尖的感觉。不过我觉得上这里也好，让大家骂一骂也就清醒了。我现在有点想不通的地方，希望这里各位大侠帮我指点指点，骂骂我也行，让我清醒清醒。
+: 事情是这样的，熊是我exbf，他比我早一年毕业，去国外读研，以前我们也是分分合合的，熊这个人比较自我中心，脾气也不太好，吵架的时候一般都是我让步。到后来都很疲了，就觉得他走了以后我们自然分开就散了。他走后的一年中，有时在网上联系，关系时好时坏。后来我也申请出国，最后去了和他一所的大学。我决定去那所学校以后，他就告诉我，其实他本可以帮我，那样申请就比较容易，但是他故意不帮我，就是想让老天决定我们是不是还要在一起，如果我能去的话就结婚，我去不了的话就分手。我当时就ft。。。后来一阵他就一直狂给我打电话，? 凳裁匆嫠咚瑁院笥Ω镁徒峄榱嗽圃啤Ｈ缓笪椅逡怀鋈ネ媪艘惶耍乩匆院笏蝗惶群芾涞乙簿兔辉倮硭罄此嫠呶宜⑾肿约夯瓜不兑郧暗囊桓雠Ｎ揖臀仕嵌晕沂鞘裁锤芯酰蛋桑宜的嵌运兀蹈桑襢t。。。后来我说那你就去追她吧，我们分手，他说要给他一些时间让我等着他%^$R$&amp;我没同意，但是我想分手也不需要老死不相往来，就还是会打招呼什么的。他有时就对我很暧昧，意思好像是还想继续。比如我说要买个数码相机，他就说你买了我就不买耍愕木褪俏业?^&amp;%$^&amp;这次querry是因为，前几天我在我的blog? ...................
+

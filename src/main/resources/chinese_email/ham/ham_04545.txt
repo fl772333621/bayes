@@ -1,0 +1,38 @@
+Return-Path: <wua@mails.tsinghua.edu.cn>
+Received: from mails.tsinghua.edu.cn (mails.tsinghua.edu.cn [166.111.8.16])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j092qdvj015953
+	for <zhao@ccert.edu.cn>; Sun, 9 Jan 2005 10:52:39 +0800 (CST)
+Received: (eyou send program); Sun, 09 Jan 2005 10:47:10 +0800
+Message-ID: <305238830.24162@mails.tsinghua.edu.cn>
+Received: from unknown (HELO mails.tsinghua.edu.cn) (unknown@127.0.0.1)
+ by 127.0.0.1 with SMTP; Sun, 09 Jan 2005 10:47:10 +0800
+X-scanvirus: By Symantec Scan Engine
+X-scanresult: CLEAN
+X-Received: tu172250.ip.tsinghua.edu.cn,166.111.172.250,20050109104706
+Received: from tu172250.ip.tsinghua.edu.cn (HELO yfzy) (yang.feng00@166.111.172.250)
+  by localhost with SMTP; 9 Jan 2005 02:47:06 -0000
+Message-ID: <001001c4f5f6$65afda80$faac6fa6@yfzy>
+From: "wua" <wua@mails.tsinghua.edu.cn>
+To: zhao@ccert.edu.cn
+References: <001e01c4f4a9$27d1ae80$15cb6fa6@ccertspark> <305192741.29836@mails.tsinghua.edu.cn>
+Subject: =?gb2312?B?UmU6IM/gsK61vbfWytY=?=
+Date: Sun, 9 Jan 2005 10:53:26 +0800
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2600.0000
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2600.0000
+Content-Transfer-Encoding: 8bit
+X-MIME-Autoconverted: from base64 to 8bit by sea.net.edu.cn id j092qdvj015953
+X-UIDL: 6AZ"!SiW"!"O_"!lW+!!
+
+什么原因呢？
+如果说是因为不爱了，或者继续下去已经超出了双方努力的极限，那么应该很释然
+如果还能努力寻找办法，又何必放手呢？
+:     终于到了这一天，我从爱恋的纠缠中冷静了下来---宛如从云端跌下，虽然直到此刻我仍不能否认自己对你的感情，但我们毕竟已经从相爱走到了分手......
+:     回忆中有许许多多你的影子，酸甜苦辣的爱的滋味，我们都那么的年轻那么的激动，那么深切的爱着彼此，那么的敏感和不宽容。其实从我和你在一起的第一天开始我就知道我一定会和你分开，心碎的一个人走......
+:     写这些文字，不过是想寻找一个载体让自己倾诉，再从倾诉中平静下来，一切都只是过程，生命是很长很远的路，但我最美好的青春年华的一段是和你一起度过的，我曾爱着你就象爱我自己，你是我心底深刻的烙印，直到我忘记所有温情，激情，深情，多情的思绪.......
+: ...................
+

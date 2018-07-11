@@ -1,0 +1,29 @@
+Return-Path: <gan@mails.tsinghua.edu.cn>
+Received: from mails.tsinghua.edu.cn (mails.tsinghua.edu.cn [166.111.8.16])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j3L7WduA003224
+	for <su@ccert.edu.cn>; Thu, 21 Apr 2005 15:32:39 +0800 (CST)
+X-scanvirus: By SOPHOS Scan Engine
+X-scanresult: CLEAN
+X-Received: unknown,166.111.203.216,20050421152131
+Received: from unknown (HELO xiner) (xwang03@166.111.203.216)
+  by localhost with SMTP; 21 Apr 2005 07:21:31 -0000
+Message-ID: <002b01c54644$b5590e00$d8cb6fa6@xiner>
+From: "gan" <gan@mails.tsinghua.edu.cn>
+To: su@ccert.edu.cn
+Subject: =?gb2312?B?UmU6IM+jzfu4+NXSuaTX99bQtcTI9crGyLrM5b+quPa4vcr0sOahow==?=
+Date: Thu, 21 Apr 2005 15:35:30 +0800
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="----=_NextPart_000_0029_01C54687.C030CC80"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2900.2180
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+X-UIDL: S"]"!,h0!!g6@"!*'Q!!
+
+我一直想建议把应届和有工作经验的分开..
+: 在这里看到了很多各式各样的大公司大外企招聘的启事，大都要很好的英语、计算机或者通信背景，还要有工作经验，项目经验等等，总之都是对那些热门专业的优秀学生来说的。
+: 我想除了这些大牛、小牛们，应该也有一些象我这样的能力不是很强的人吧？我们在找工作的时候压力更大，也希望找一个尽可能好的工作。而往往在这里得不到很好的建议和信息。
+: 不知道有没有可能开一个针对求职弱势群体的版面？
+: ...................
+

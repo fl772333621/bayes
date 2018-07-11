@@ -1,0 +1,31 @@
+Return-Path: <hu@rbl.ccert.edu.cn>
+Received: from rbl.ccert.edu.cn (rbl.ccert.edu.cn [202.112.57.71])
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id i91BsjNU004970
+	for <guo@ccert.edu.cn>; Fri, 1 Oct 2004 19:54:45 +0800 (CST)
+Received: from rbl.ccert.edu.cn (localhost.localdomain [127.0.0.1])
+	by rbl.ccert.edu.cn (8.12.11/8.12.11) with ESMTP id i91C0PlC030406
+	for <guo@ccert.edu.cn>; Fri, 1 Oct 2004 20:00:25 +0800
+Received: (from qa@localhost)
+	by rbl.ccert.edu.cn (8.12.11/8.12.11/Submit) id i91C0PiO030405;
+	Fri, 1 Oct 2004 20:00:25 +0800
+Date: Fri, 1 Oct 2004 20:00:25 +0800
+Message-Id: <200410011200.i91C0PiO030405@rbl.ccert.edu.cn>
+Subject: =?gb2312?B?UmU6IMDPsOXS0b6tsbszzrvH5buqtcRtYXN0ZXK3xbn9uOvX08HL?=
+To: guo@ccert.edu.cn
+From: Tran Quang Anh <hu@cernet.edu.cn>
+Content-Type: multipart/mixed; boundary="----------=_1096632025-996-278"
+MIME-Version: 1.0
+X-UIDL: )$Y"!A^$"!;,H!!*U/"!
+
+其实GE我个人接触还行
+上次zhang mm,清华的美女啊,来面试我的,很nice的一个人.
+其实,拒掉offer没什么大不了,少了几个清华的,自然有其他清华的疯拥而来,没什么
+吧. 比GE垃圾的公司,如ms,sun,hp,ibm,mk,bcg,morgen等比ge牛的公司,如walmart
+,exxon mobil,mitsubishi,toyota等,被拒的人多了去了. 很自然的.
+要是在我看来,上面的那些公司,恐怕还不如去某些国企呢..
+  
+: 欧那年，清华硕，专业绝对对口，问他要6k居然被拒，
+: 后来听说GE的人给欧老板打了个电话问了问GT成绩...
+: 过了一个月GE的人跑到系版去发文招和我方向一样的人...
+: ...................
+

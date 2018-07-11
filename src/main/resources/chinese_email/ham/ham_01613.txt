@@ -1,0 +1,31 @@
+Return-Path: <chi@rbl.ccert.edu.cn>
+Received: from rbl.ccert.edu.cn (rbl.ccert.edu.cn [202.112.57.71])
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id i97AwDZf018784
+	for <han@ccert.edu.cn>; Thu, 7 Oct 2004 18:58:13 +0800 (CST)
+Received: from rbl.ccert.edu.cn (localhost.localdomain [127.0.0.1])
+	by rbl.ccert.edu.cn (8.12.11/8.12.11) with ESMTP id i97B4C5P032402
+	for <han@ccert.edu.cn>; Thu, 7 Oct 2004 19:04:13 +0800
+Received: (from qa@localhost)
+	by rbl.ccert.edu.cn (8.12.11/8.12.11/Submit) id i97B4CW3032401;
+	Thu, 7 Oct 2004 19:04:12 +0800
+Date: Thu, 7 Oct 2004 19:04:12 +0800
+Message-Id: <200410071104.i97B4CW3032401@rbl.ccert.edu.cn>
+Subject: =?gb2312?B?ofEg1eLW1tLSuM7BvbbUsOu1xLzs0em94bn7taXOu7vhvvW1w7K7usPC8KO/?=
+To: han@ccert.edu.cn
+From: Tran Quang Anh <chi@cernet.edu.cn>
+Content-Type: multipart/mixed; boundary="----------=_1097147053-996-872"
+MIME-Version: 1.0
+X-UIDL: -?("!ol$#!Xh-!!J^K"!
+
+【 以下文字转载自 Medicine 讨论区 】
+发信人: pig101 (pig101), 信区: Medicine
+标  题: 帮忙看看乙肝两对半的检验结果
+发信站: 水木社区 (Thu Jun  2 10:37:36 2005), 站内
+   项目名称          结果                参考值          单位
+1，乙肝表面抗原      0.492  阴性         0-5
+2，乙肝表面抗体      1000.00             0-10
+3，乙肝e抗原         0.023  阴性         0-1
+4，乙肝e抗体         0.007  阳性         〉1
+5，乙肝核心抗体      0.006  阳性         〉1
+这个一般有问题吗？因为是入职体检。单位是一个国企。我问医生第2项是什么意思。为什么没打上阳性。他说，你那超过10就是阳性，不用打了。后面两项一般单位会觉得不好吗？
+

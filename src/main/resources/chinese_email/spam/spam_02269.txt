@@ -1,0 +1,32 @@
+Return-Path: <shen@163.com>
+Received: from hb ([222.50.242.174])
+	by home.ccert.edu.cn (MIMEDefang) with ESMTP id NOQUEUE
+	for <mo@ccert.edu.cn>; Thu, 23 Jun 2005 16:14:07 +0800 (CST)
+Message-ID: <200506231614.0.314964409705464@home.ccert.edu.cn>
+To: mo@ccert.edu.cn
+From: shen@163.com
+Subject: =?gb2312?B?INDLvqe437/GuavLvs3Gs/a5q7my0+nA1rOhy/m089DNxt+yykxFRNL0wNbP1A==?=
+
+ =?GB2312?B?yr7GwbL6xrc=?=
+To: report@ccert.edu.cn
+Content-Type: multipart/alternative; boundary="=_NextPart_000_0018_01C1A1B3.E2C7FE20"
+MIME-Version: 1.0
+Date: Thu, 23 Jun 2005 16:36:59 +0800
+X-Priority: 3
+X-Mailer: CSM2.8
+
+This is a multi-part message in MIME format
+
+--=_NextPart_000_0018_01C1A1B3.E2C7FE20
+Content-Type: text/plain
+Content-Transfer-Encoding: quoted-printable
+
+
+--=_NextPart_000_0018_01C1A1B3.E2C7FE20
+Content-Type: text/html
+Content-Transfer-Encoding: quoted-printable
+
+Mail
+
+--=_NextPart_000_0018_01C1A1B3.E2C7FE20--
+

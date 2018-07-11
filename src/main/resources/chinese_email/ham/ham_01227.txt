@@ -1,0 +1,37 @@
+Return-Path: <su@home.ccert.edu.cn>
+Received: from home.ccert.edu.cn (localhost [127.0.0.1])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id i8R9614b011667;
+	Mon, 27 Sep 2004 17:06:01 +0800
+Received: (from majordomo@localhost)
+	by home.ccert.edu.cn (8.13.1/8.13.1/Submit) id i8R9611a011666;
+	Mon, 27 Sep 2004 17:06:01 +0800
+X-Authentication-Warning: home.ccert.edu.cn: majordomo set sender to owner-ccertstaff using -f
+Received: from ccertspark ([202.112.50.4])
+	(authenticated bits=0)
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id i8R95bQp011657
+	for <wua@ccert.edu.cn>; Mon, 27 Sep 2004 17:05:38 +0800
+From: "su" <su@ccert.edu.cn>
+To: wua@ccert.edu.cn
+Subject: =?gb2312?B?UmU6IMj9uPbIy7XEtefTsKOswb249sjLtcTKwL3no6zSu7j2yMu1xLCux+k=?=
+Date: Mon, 27 Sep 2004 17:19:13 +0800
+Message-ID: <002e01c4a473$0f592030$043270ca@ccertspark>
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	boundary="----=_NextPart_000_002F_01C4A4B6.1D7C6030"
+X-Priority: 3 (Normal)
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook, Build 10.0.6626
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.3790.181
+Importance: Normal
+Sender: owner-ccertstaff@home.ccert.edu.cn
+Precedence: bulk
+X-UIDL: YPe!!Pp*#!:Nd!!31R"!
+
+喜欢听的一首歌是这一刻我是真心的，在感情面前人容易变得盲目，往往发现不了什么是最适合自己的，也许在过后觉得或庆幸或万幸，就当浮云而已了，偶尔拿出来品味一下，也只是告诉自己：
+我幻想中的心上人，有一天会批着金甲圣衣，脚踏七彩祥云。。。而不是那个人。
+浮云而已，曾经拥有也是一笔财富了。
+:                     给你的爱一直很安静
+:                       来交换偶尔你给的关心
+:                     明明是三个人的电影
+: ...................
+

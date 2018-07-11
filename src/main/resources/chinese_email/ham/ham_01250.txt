@@ -1,0 +1,27 @@
+Return-Path: <wei@rbl.ccert.edu.cn>
+Received: from rbl.ccert.edu.cn (rbl.ccert.edu.cn [202.112.57.71])
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id i9K7eY2Y017367
+	for <qian@ccert.edu.cn>; Wed, 20 Oct 2004 15:40:35 +0800 (CST)
+Received: from rbl.ccert.edu.cn (localhost.localdomain [127.0.0.1])
+	by rbl.ccert.edu.cn (8.12.11/8.12.11) with ESMTP id i9K7kN27032462
+	for <qian@ccert.edu.cn>; Wed, 20 Oct 2004 15:46:27 +0800
+Received: (from qa@localhost)
+	by rbl.ccert.edu.cn (8.12.11/8.12.11/Submit) id i9K7kNTC032461;
+	Wed, 20 Oct 2004 15:46:23 +0800
+Date: Wed, 20 Oct 2004 15:46:23 +0800
+Message-Id: <200410200746.i9K7kNTC032461@rbl.ccert.edu.cn>
+Subject: =?gb2312?B?UmU6ILvwufg=?=
+To: qian@ccert.edu.cn
+From: Tran Quang Anh <wei@cernet.edu.cn>
+Content-Type: multipart/mixed; boundary="----------=_1098258387-20725-10"
+MIME-Version: 1.0
+X-UIDL: N]W!!Gf`!!4]+"!~,l!!
+
+在学校时,校外的火锅和同学一起吃，两个人20多块吃的很好.
+毕业后在北京经常打完球和同学去吃重庆金山城,尤其是蓟门桥那家分店,冬天很火暴,经常排队.
+现在在南方,天气太热,吃火锅已达不到原来的那种感觉了......
+: 夜里突然想起北方的火锅，很想很想再品尝一次，感受一番。
+: 有时候很奇怪食物竟会这样左右我的心情，在香港病重的日子里，虽然bf的妈妈精心调配各
+: 种营养丰富的饭菜给我，然而我却一天比一天难以下咽，那种特有的海鲜味还有说不清的怪
+: ...................
+

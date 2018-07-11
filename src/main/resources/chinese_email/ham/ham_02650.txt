@@ -1,0 +1,35 @@
+Return-Path: <peng@cernet.edu.cn>
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id i8L4JdxY015168
+	for <zeng@ccert.edu.cn>; Tue, 21 Sep 2004 12:19:39 +0800 (CST)
+Received: (eyou send program); Tue, 21 Sep 2004 12:05:33 +0800
+Message-ID: <295739533.22004@mail.tsinghua.edu.cn>
+Received: from unknown (HELO mail.tsinghua.edu.cn) (unknown@127.0.0.1)
+ by 127.0.0.1 with SMTP; Tue, 21 Sep 2004 12:05:33 +0800
+X-scanvirus: By Symantec Scan Engine
+X-scanresult: CLEAN
+Received: (eqmail ); 21 Sep 2004 04:05:29 -0000
+Received: from unknown (HELO huhoo) (duanhx@202.112.50.11)
+  by localhost with SMTP; 21 Sep 2004 04:05:29 -0000
+From: "peng" <peng@cernet.edu.cn>
+To: zeng@ccert.edu.cn
+Subject: =?gb2312?B?UmU6IM7StcSzx8rQ?=
+Date: Tue, 21 Sep 2004 12:16:58 +0800
+Message-ID: <01a101c49f91$d77d8ba0$033270ca@huhoo>
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="----=_NextPart_000_01A2_01C49FD4.E5A0CBA0"
+X-Priority: 3 (Normal)
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook, Build 10.0.2627
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1441
+Importance: Normal
+In-Reply-To: <000901c49f8b$267e52e0$0a3270ca@CCERTDAWEI>
+X-UIDL: `)9"!"F(#!j`]"!*S("!
+
+这是一个很有意思的地方，希望你会越来越喜欢这里。
+:     6月11号，天气晴朗。这是我在北京的第二个夏天。
+:     总是很喜欢夏天的，特别是北京的夏天。阳光直接而灿烂，空气干燥而爽朗。想想真是奇怪，两年前的我是那么的讨厌北京，心不甘情不愿的坐上了前往这座城市的火车，一路上都对我今后四年的大学生活报着忐忑不安的心情。可是，现在却完全适应了在一座陌生城市的生活，甚
+:     其实有的时候，对一座城市的心情和城市本身毫无关系，只是因为这个城市里的一些人，一些事。我的家乡，重庆，那里有我的童年和少年；而这里，北京，有我的现在，我成长轨迹的一部分。我在这里经历着我的爱情，我的蜕变，我的孤独的生活。这些故事将成为我生命里无法
+: ...................
+

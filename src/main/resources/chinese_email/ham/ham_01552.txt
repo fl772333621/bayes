@@ -1,0 +1,54 @@
+Return-Path: <ren@rbl.ccert.edu.cn>
+Received: from rbl.ccert.edu.cn (rbl.ccert.edu.cn [202.112.57.71])
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id i9B5gnRk029718
+	for <xie@ccert.edu.cn>; Mon, 11 Oct 2004 13:42:50 +0800 (CST)
+Received: from rbl.ccert.edu.cn (localhost.localdomain [127.0.0.1])
+	by rbl.ccert.edu.cn (8.12.11/8.12.11) with ESMTP id i9B5mBd5019863
+	for <xie@ccert.edu.cn>; Mon, 11 Oct 2004 13:48:12 +0800
+Received: (from qa@localhost)
+	by rbl.ccert.edu.cn (8.12.11/8.12.11/Submit) id i9B5mBOL019862;
+	Mon, 11 Oct 2004 13:48:11 +0800
+Date: Mon, 11 Oct 2004 13:48:11 +0800
+Message-Id: <200410110548.i9B5mBOL019862@rbl.ccert.edu.cn>
+Subject: =?gb2312?B?ofEgs8/GuMjtvP683Lm5yqa6zbjfvLa/qreiuaSzzMqm?=
+To: xie@ccert.edu.cn
+From: Tran Quang Anh <ren@cernet.edu.cn>
+Content-Type: multipart/mixed; boundary="----------=_1097473692-1014-98"
+MIME-Version: 1.0
+X-UIDL: :,W!!ZnQ!!aIA!!^Cg!!
+
+    随着公司的业务拓展、扩大，为满足复杂的建设工程全过程管理的需要，公司近期将开发项目管理信息系统，具体包括项目管理＋项目协同工作＋项目信息库这三个组成部分。在遵循国家/地方/行业的法律/法规/条文，以及各类有关技术标准的前提下，在系统中融入公司在工程项目管理中的规范化操作，以成为具有可操作性、对项目管理人员有指导性的项目管理信息系统。
+    公司网址：http://www.bgccn.com/
+    联系方式：010－62239353－57 转 872
+    Email：   zhu.lj89@gmail.com
+    (请注明应聘职位及薪水要求）
+01－软件架构师
+职位描述：
+1）负责产品体系结构的规划和设计
+2）配合项目负责人跟踪、监控和控制在项目过程中所有阶段的质量状况。
+3）负责相关方面的开发培训
+具体要求：
+1）四年以上软件研发经验和研发管理经验，两年以上系统分析经验；
+2）精通软件工程思想，熟练应用流行的软件工程工具进行系统分析设计
+3）熟悉 C# 、Asp、Asp.Net、WebService和.NET开发环境，至少二年以上.NET实际工作经验
+4）熟悉 SQL Server、Oracle 数据库，熟悉IIS、Apache等Web服务器
+5）较强的架构设计能力，熟悉.NET Framework、ADO.NET，以及多层和分布式开发
+6）精通OOD、OOP及架构设计模式
+7）计算机或软件工程等相关专业本科以上学历，良好的英语读写能力。
+8）优秀的团队协作意识及较强的沟通能力,良好的文字表达能力，善于编写软件开发规范文档
+9）有信息化或项目管理软件研发经验者优先
+其他要求
+1）思路开阔，善于接受新的思想和事物
+2）能够吃苦耐劳，适应高强度的工作要求
+3）善于团结，适应协同工作需要。
+02－高级开发工程师
+具体要求：
+1）熟练掌握 C# 、Asp.Net和.NET开发环境；至少一年以上.NET实际工作经验
+2）精通 SQL Server、Oracle 数据库；
+3）至少一年以上信息化或电子商务网研发经验，有项目管理软件研发经验优先
+5）熟悉软件工程知识，熟练掌握面向对象系统设计及开发方法
+7）计算机及相关专业本科以上学历，良好的英语读写能力
+其它：
+1）工作踏实细致、认真负责、主动学习，有良好的团队合作精神，能够承受一定的工作压力
+2）具有较强的学习及领悟能力、有较好的独立解决问题能力、良好的沟通能力。
+

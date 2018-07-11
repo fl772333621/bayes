@@ -1,0 +1,36 @@
+Return-Path: <pu@home.ccert.edu.cn>
+Received: from home.ccert.edu.cn (localhost [127.0.0.1])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id j0K6cDCa025936;
+	Thu, 20 Jan 2005 14:38:13 +0800
+Received: (from majordomo@localhost)
+	by home.ccert.edu.cn (8.13.1/8.13.1/Submit) id j0K6cDGD025935;
+	Thu, 20 Jan 2005 14:38:13 +0800
+X-Authentication-Warning: home.ccert.edu.cn: majordomo set sender to owner-ccertstaff using -f
+Received: from ccertspark ([202.112.3.121])
+	(authenticated bits=0)
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id j0K6bg2S025863;
+	Thu, 20 Jan 2005 14:37:42 +0800
+Reply-To: <pu@cernet.edu.cn>
+From: "pu" <pu@ccert.edu.cn>
+To: cai@ccert.edu.cn
+Cc: <guan@ccert.edu.cn>
+Subject: =?gb2312?B?ofEg373T7y3H68ej18XO0rXEyta6w8Lwo78=?=
+Date: Thu, 20 Jan 2005 14:47:39 +0800
+Message-ID: <000401c4febb$eefbb7f0$2903a8c0@ccertspark>
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+X-Priority: 3 (Normal)
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook, Build 10.0.6626
+Importance: Normal
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.3790.181
+Content-Transfer-Encoding: 8bit
+X-MIME-Autoconverted: from base64 to 8bit by home.ccert.edu.cn id j0K6bl2S025865
+Sender: owner-ccertstaff@home.ccert.edu.cn
+Precedence: bulk
+X-UIDL: U:M"!++*#!)LV"!S$'#!
+
+     请牵着我的手好吗？我的爱人，我就走在你后面，虽然我没有叫你，可你感觉到的，我就在你后面。我们就这样有一前一后，一直这么走吗？要到什么时候？你回过头吗？你看见了我吗？你看见我眼里有泪吗？我怕黑，你是知道的，可是为什么你总是丢下我一个，为什么你总是留我一个人在黑暗里，我找不到，看不到尽头。我哭了，没有眼泪，你看见了吗？你怎么就一点都不难过，你不会因为我放慢脚步，是吗？我是知道的，我知道你表情淡然，泰然自若地在前面。
+     我的爱人，请牵着我的手好吗？我好累，我走不动了——要撑下去。我的爱人，牵我的手好吗，可以到的，不管我们会去哪儿？
+

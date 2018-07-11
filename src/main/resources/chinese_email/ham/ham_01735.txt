@@ -1,0 +1,43 @@
+Return-Path: <hong@rbl.ccert.edu.cn>
+Received: from rbl.ccert.edu.cn (rbl.ccert.edu.cn [202.112.57.71])
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id i9GGUXjq027103
+	for <hou@ccert.edu.cn>; Sun, 17 Oct 2004 00:30:33 +0800 (CST)
+Received: from rbl.ccert.edu.cn (localhost.localdomain [127.0.0.1])
+	by rbl.ccert.edu.cn (8.12.11/8.12.11) with ESMTP id i9GGa96R008064
+	for <hou@ccert.edu.cn>; Sun, 17 Oct 2004 00:36:09 +0800
+Received: (from qa@localhost)
+	by rbl.ccert.edu.cn (8.12.11/8.12.11/Submit) id i9GGa8Oo008063;
+	Sun, 17 Oct 2004 00:36:08 +0800
+Date: Sun, 17 Oct 2004 00:36:08 +0800
+Message-Id: <200410161636.i9GGa8Oo008063@rbl.ccert.edu.cn>
+Subject: =?gb2312?B?ofEgs8/GuM+1zbO31s721LE=?=
+To: hou@ccert.edu.cn
+From: Tran Quang Anh <hong@cernet.edu.cn>
+Content-Type: multipart/mixed; boundary="----------=_1097944569-2811-126"
+MIME-Version: 1.0
+X-UIDL: +>["!^\;"!l/["!Vo-!!
+
+公司：北京慧图信息科技有限公司
+网址：www.huitu.com.cn
+Email:hthr@huitu.com.cn
+职位：研究发展部 系统分析师
+工作职责：
+1）负责软件产品应用体系结构的研究和规划，规范产品的技术开发体系和开发流程
+2）负责软件产品的具体设计，带领开发人员进行开发实现
+3）负责相关方面的开发培训
+要求
+1）计算机或者软件工程专业硕士以上学历
+2）具备4年以上软件工程开发经验和研发管理经验
+3）精通软件工程思想，熟练应用流行的软件工程工具进行系统分析设计
+4）深入理解面向对象的编程思想，精通j2ee、.net技术，具备以上技术的深入应用经验
+5）熟悉多种大型数据库的开发，能够开发性能优良的数据库系统
+6）具备系统统筹观念，系统组织几逻辑能力墙，能够建立并带领团队进行开发实施
+7）熟悉GIS系统开发者更佳
+其他
+1）思路开阔，善于接受新的思想和事物
+2）善于交流和表达
+3）协作工作能力墙，适应在不同环境下的工作开展
+4）能够吃苦耐劳，适应高强度的工作要求
+5）善于团结同时，适应协同工作需要。
+欢迎有能力，致力于良好反展的优秀人士加盟！有意者可将简历发至公司信箱。
+

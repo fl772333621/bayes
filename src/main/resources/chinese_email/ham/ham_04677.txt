@@ -1,0 +1,28 @@
+Return-Path: <li@sina.com>
+Received: from sina.com (sina187-156.sina.com.cn [202.106.187.156] (may be forged))
+	by home.ccert.edu.cn (8.13.1/8.13.1) with SMTP id j2B67QC9014808
+	for <luo@ccert.edu.cn>; Fri, 11 Mar 2005 14:07:27 +0800
+Message-Id: <200503110607.j2B67QC9014808@home.ccert.edu.cn>
+Received: (qmail 59791 invoked from network); 11 Mar 2005 06:21:01 -0000
+Received: from unknown (HELO ibm-t23) (219.224.108.38)
+  by 202.106.187.156 with SMTP; 11 Mar 2005 06:21:01 -0000
+Received: from(cheriff@sina.com) to(qa@ccert.edu.cn)
+Date: Fri, 11 Mar 2005 14:04:33 +0800
+From: "li" <li@sina.com>
+To: luo@ccert.edu.cn
+Subject: =?gb2312?B?UmU6INPWtb3J+sjVo6y78tDtsrvTprjDzKvJy7jQo7qjqQ==?=
+X-mailer: Foxmail 5.0 [cn]
+Mime-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: 8bit
+X-MIME-Autoconverted: from base64 to 8bit by home.ccert.edu.cn id j2B67QC9014808
+X-UIDL: a;;!!:+(#!@6N!!=bH!!
+
+re
+要快乐！
+: 忽然有点害怕过生日，不是怕变老，只是觉得孤独。
+: 去年的这个时候，我在糊涂上发帖子祝自己生日快乐，今年还是自己祝自己生日快乐，也相信生日那天会收到家人朋友的祝福，可是这句“生日快乐”是不是客套的都失去了它自己的意义了呢。
+: 今年算是真正的整二十岁生日了吧，在外地上学，没法和爸爸妈妈一起，现在真的好怀念在家的日子，想想真的就泪流满面，想爸爸妈妈烧的好吃的，和他们一起聊天的时光。从小偶就是一个话比较多的人，每天放学回家从吃饭前一直扯到洗完碗，有时还坐在客厅靠在爸爸或妈妈怀里
+: ...................
+

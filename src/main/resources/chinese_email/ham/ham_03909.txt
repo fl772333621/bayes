@@ -1,0 +1,41 @@
+Return-Path: <ma@ebay.com.cn>
+Received: from autoforward.mail.sohu.com ([61.135.132.166])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id j05FETPO015857
+	for <feng@ccert.edu.cn>; Wed, 5 Jan 2005 23:14:30 +0800
+Received: from mx23.mail.sohu.com (unknown [192.168.41.141])
+	by autoforward.mail.sohu.com (Postfix) with ESMTP id 5AB488E40E
+	for <feng@ccert.edu.cn>; Wed,  5 Jan 2005 23:28:59 +0800 (CST)
+Received: by mx23.mail.sohu.com (Postfix)
+	id 6DB1C14011; Wed,  5 Jan 2005 23:28:58 +0800 (CST)
+Delivered-To: chen741120@mx23.mail.sohu.com
+Received: from mx47.sjc.ebay.com (unknown [66.135.197.29])
+	by admx.sohu.com (Postfix) with ESMTP id 07C7F122B92
+	for <feng@ccert.edu.cn>; Wed,  5 Jan 2005 23:28:57 +0800 (CST)
+Received: from sj-v3bota03 (sj-v3bota03.sjc.ebay.com [10.6.173.212])
+	by mx47.sjc.ebay.com (8.12.3/8.12.3) with ESMTP id j05FNpAv003411
+	for <feng@ccert.edu.cn>; Wed, 5 Jan 2005 07:28:54 -0800
+Date: Wed, 5 Jan 2005 07:28:54 -0800
+Message-ID: <1261870874.1104938934657.JavaMail.ebayapp@sj-v3bota03>
+From: eBay <ma@ebay.com.cn>
+To: feng@ccert.edu.cn
+Subject: =?gb2312?B?UmU6ILXawfm40MDvw+bEx7j20r3J+sz9tMW0+LXEyrG68sz9tb3By8qyw7Q/?=
+Mime-Version: 1.0
+Content-Type: multipart/mixed; boundary="----------=_1104938071-13540-3"
+X-eBay-MailTracker: 10096.377.223.0
+X-UIDL: P,Z"!>,\"!j=X!!Qab!!
+
+请问怎么不能比？
+你觉得谁弱的太厉害？
+我从来没有否认过bruce willis的演技和努力
+能看出来他表演很用心的，要不然也不会有那么多影迷了
+但是和张曼玉一样，我就是不喜欢看他们的表演
+我总是进入不了角色，觉得他们在卖力的表演
+有一种被愚弄的不快的感觉
+但是不可否认他们都接拍了不少好片子
+可是梁朝伟就不一样，我很少进入不了角色的
+哪怕是《超时空要塞》这种搞笑科幻电影
+还有《暗花》《无间道》等等
+他能够沉下心来，不耍花样的表演，我就是喜欢
+: bruce willis和梁潮伟的演技，有可比性么？别瞎联系
+: waterworld是costner的，8mm是cage的，尽瞎说
+

@@ -1,0 +1,37 @@
+Return-Path: <xue@tsinghua.edu.cn>
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id iA17nAwS009607
+	for <zhu@ccert.edu.cn>; Mon, 1 Nov 2004 15:49:10 +0800 (CST)
+Received: (eyou send program); Mon, 01 Nov 2004 15:34:29 +0800
+Message-ID: <299294469.11357@mail.tsinghua.edu.cn>
+Received: from unknown (HELO mail.tsinghua.edu.cn) (unknown@127.0.0.1)
+ by 127.0.0.1 with SMTP; Mon, 01 Nov 2004 15:34:29 +0800
+X-scanvirus: By Symantec Scan Engine
+X-scanresult: CLEAN
+Received: (eqmail ); 1 Nov 2004 07:34:27 -0000
+Received: from unknown (HELO sony) (duanhx@202.112.50.214)
+  by localhost with SMTP; 1 Nov 2004 07:34:27 -0000
+Message-ID: <009a01c4bfe7$40a6cb80$d63270ca@sony>
+From: "xue" <xue@tsinghua.edu.cn>
+To: zhu@ccert.edu.cn
+Subject: =?gb2312?B?UmU6INK71rHS1M6qztLDx8rH1+7H18PctcQg1NrSu8bwvsXE6iC7ucrH0qq31g==?=
+Date: Mon, 1 Nov 2004 15:49:00 +0800
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2900.2180
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+Content-Transfer-Encoding: 8bit
+X-MIME-Autoconverted: from base64 to 8bit by sea.net.edu.cn id iA17nAwS009607
+X-UIDL: WH*"!\h6!!=Wl!!klT"!
+
+这样分手的理由在很多人当中，都可能找到映像，不管是结婚没有。
+也许必须承认，生活的方向还是会超过爱情所能推动相依相随的动力。
+越来越对爱情没信心了，是否真诚去做便有如期望的长久相随？
+: 潜水很久了,觉得虽然是很多人在心烦时写些家庭琐事,写的人貌似心乱，而文不乱；评的人中肯而有逻辑,觉得很有水平的是。我一直不敢贸然灌水，今天确实很需要倾诉，不想说给亲人，怕他们担心，不想说给熟人，怕他们正忙，如果你今天正好有空，看到了，就随意写几句话，多谢。不好意思了。
+: 我和他在一起亲密无间整整九年了，结婚也4年了吧，其中还有一年人在两地，每晚他睡前都必须给我打一两个小时的长途电话，最长的一次分离也只有一个多月我们没有到对方的地方去探望。那时候我们钱不多，几千块钱月入基本上就在电话费和车票里了。后来我们终于在一起了，在清华西门附近租了一套房子一住就是几年，猫猫都养大了。幸福甜蜜，熟识的朋友都觉得我们是难得要好的一对，家里人也都认为我们可能是下一代中最稳定的了，好放心。
+: 我们是那么了解对方，经过一夜的坦诚交谈、抱头痛哭，我们就要分手了，就在这样的清晨，朦胧睡去，他还习惯性的要抓住我的胳膊，把脚压在我身上，仿佛怕我乘他睡着跑了。今天我就去找房子，打算尽快搬出去，尽早结束彷徨中的痛苦，好重新开始。
+: ...................
+

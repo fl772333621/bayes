@@ -1,0 +1,63 @@
+Return-Path: <zeng@compass.net.edu.cn>
+Received: from tsinghua.org.cn ([210.77.143.232])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with SMTP id j3L8Y6cr007340
+	for <jian@ccert.edu.cn>; Thu, 21 Apr 2005 16:34:17 +0800
+Received: (eyou send program); Thu, 21 Apr 2005 16:50:06 +0800
+Message-ID: <314073406.01231@tsinghua.org.cn>
+X-EYOU-AUTOFORWARD: tsinghua.org.cn
+Received: (eyou send program); Thu, 21 Apr 2005 16:50:06 +0800
+Message-ID: <314073406.32744@tsinghua.org.cn>
+Received: from unknown (HELO eyou.net) (210.77.143.235)
+ by 210.77.143.232 with SMTP; Thu, 21 Apr 2005 16:50:06 +0800
+X-EYOU-SPAMVALUE: 0
+Received: (eyou anti_spam gateway 3.0); Thu, 21 Apr 2005 16:39:43 +0800
+Message-ID: <314072783.27512@eyou.net>
+Received: from 202.112.49.111 by 210.77.143.235 with SMTP; Thu, 21 Apr 2005 16:39:42 +0800
+Received: from Garfield. (localhost [IPv6:::1])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with ESMTP id j3L8jcsr059608
+	for <jian@ccert.edu.cn>; Thu, 21 Apr 2005 16:46:34 +0800 (CST)
+	(envelope-from toefl-bounces@gradinfo.net.edu.cn)
+Received: from compass.net.edu.cn (compass.net.edu.cn [202.38.188.130])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with ESMTP id j3L8jaHF059604
+	for <jian@ccert.edu.cn>; Thu, 21 Apr 2005 16:45:36 +0800 (CST)
+	(envelope-from jiaming@compass.net.edu.cn)
+Received: from tu203080.ip.tsinghua.edu.cn ([166.111.203.80] helo=jm-work)
+	by compass.net.edu.cn with asmtp (Exim 3.36 #1 (Debian))
+	id 1DOXNh-00047I-00
+	for <jian@ccert.edu.cn>; Thu, 21 Apr 2005 16:49:53 +0800
+Date: Thu, 21 Apr 2005 16:48:54 +0800
+From: "zeng" <zeng@compass.net.edu.cn>
+To: jian@ccert.edu.cn
+X-mailer: Foxmail 5.0 [cn]
+Mime-Version: 1.0
+Content-Type: multipart/mixed; boundary="----------=_1114072459-987-156"
+Message-Id: <E1DOXNh-00047I-00@compass.net.edu.cn>
+X-MIME-Autoconverted: from base64 to 8bit by gradinfo.net.edu.cn id
+	j3L8jaHF059604
+Cc: 
+Subject: =?gb2312?B?UmU6ILO5tde21Ljxwaa/1bX3yqfN+8HLfr3xzOzT1tbY0MLC8sHLyP3B4tbYuaQ=?=
+X-BeenThere: toefl@gradinfo.net.edu.cn
+X-Mailman-Version: 2.1.5
+Precedence: list
+List-Id: "&#26446; &#26143; &#21644; &#20182; &#30340; &#23398; &#29983;
+	&#20204; " <toefl.gradinfo.net.edu.cn>
+List-Unsubscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=unsubscribe>
+List-Archive: <http://gradinfo.net.edu.cn/mailman/private/toefl>
+List-Post: <mailto:toefl@gradinfo.net.edu.cn>
+List-Help: <mailto:toefl-request@gradinfo.net.edu.cn?subject=help>
+List-Subscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=subscribe>
+Sender: toefl-bounces@gradinfo.net.edu.cn
+Errors-To: toefl-bounces@gradinfo.net.edu.cn
+X-UIDL: 1:8"!nF3"!9NG"!JK]!!
+
+这个不是科技的问题
+建筑行业不是高科技吧？
+中国的公寓质量怎么比国外的差那么多呢？
+日本有这么多豆腐渣楼么
+: 过激了，国货也有很多不错的。
+: 咱们国家的科技能力还相对落后，一些高技术产品确实还没法和外国货比，但很多技术成熟的产品国货可是绝对的物美价廉。
+: 比方说电视，传统显象管的电视，比如说29寸34寸大屏幕纯平彩电啥的，国货的质量就一点不比外国货差，其实外国品牌的很可能就是国内的山寨厂代工的，这样的话还不如国内品牌呢。要是谁家现在客厅里还摆一个松下或者菲利普的34寸电视，就是不说崇洋媚外这么难听，至少也是
+: ...................
+

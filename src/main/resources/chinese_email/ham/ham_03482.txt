@@ -1,0 +1,29 @@
+Return-Path: <chen@rbl.ccert.edu.cn>
+Received: from rbl.ccert.edu.cn (rbl.ccert.edu.cn [202.112.57.71])
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id i9B3Fx2g027856
+	for <shi@ccert.edu.cn>; Mon, 11 Oct 2004 11:15:59 +0800 (CST)
+Received: from rbl.ccert.edu.cn (localhost.localdomain [127.0.0.1])
+	by rbl.ccert.edu.cn (8.12.11/8.12.11) with ESMTP id i9B3LLEA014688
+	for <shi@ccert.edu.cn>; Mon, 11 Oct 2004 11:21:22 +0800
+Received: (from qa@localhost)
+	by rbl.ccert.edu.cn (8.12.11/8.12.11/Submit) id i9B3LLD7014687;
+	Mon, 11 Oct 2004 11:21:21 +0800
+Date: Mon, 11 Oct 2004 11:21:21 +0800
+Message-Id: <200410110321.i9B3LLD7014687@rbl.ccert.edu.cn>
+Subject: =?gb2312?B?ofEgxuTKtda7ysfP67CysLK+sr6ytcTJ+rvu?=
+To: shi@ccert.edu.cn
+From: Tran Quang Anh <chen@cernet.edu.cn>
+Content-Type: multipart/mixed; boundary="----------=_1097464882-1014-86"
+MIME-Version: 1.0
+X-UIDL: 7'##!OFd!!@L>"!clQ!!
+
+        就是想和我爱的人，也是爱我的人，安安静静的生活，怎么就这么难
+        或许是遇到的时间不对，或许根本是错误的人？
+        可是两个人都付出了那么多，尤其是我，从来没有这样疯狂过，为了爱
+        虐待自己，以及被虐待，都默默承受了。
+        看来，人和人总是不同的，即使你付出的再多，别人也不一定会按照你
+        期望的，同样的去爱护你。爱情本身就不存在公平。
+        谁让我，爱上一个爱自己太多的男人，为了自我保护，牺牲我也无所谓。
+        这种自私，也是正常的吧。还是怨我，偏偏要爱这样的一个人。
+        好烦
+

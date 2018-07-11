@@ -1,0 +1,47 @@
+Return-Path: <xie@tsinghua.edu.cn>
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with SMTP id j3S6AL1F005033
+	for <jian@ccert.edu.cn>; Thu, 28 Apr 2005 14:10:37 +0800
+Received: (eyou send program); Thu, 28 Apr 2005 14:08:17 +0800
+Message-ID: <314668497.02711@mail.tsinghua.edu.cn>
+Received: from unknown (HELO mail.tsinghua.edu.cn) (unknown@127.0.0.1)
+ by 127.0.0.1 with SMTP; Thu, 28 Apr 2005 14:08:17 +0800
+X-scanvirus: By Symantec Scan Engine
+X-scanresult: CLEAN
+Received: (eqmail ); 28 Apr 2005 06:08:16 -0000
+Received: from th024064.ip.tsinghua.edu.cn (HELO sony) (duanhx@59.66.24.64)
+  by localhost with SMTP; 28 Apr 2005 06:08:16 -0000
+Message-ID: <006f01c54bbb$1ac542b0$c4c5fea9@sony>
+From: "xie" <xie@tsinghua.edu.cn>
+To: jian@ccert.edu.cn
+Subject: =?gb2312?B?ofEgW822xrFdyq7E6suuxL68zcTu1b7JwMnovMbNtsaxv6rG9CAo16rU2Ck=?=
+Date: Thu, 28 Apr 2005 14:25:41 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_006C_01C54BFE.27D0D120"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2900.2180
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+X-UIDL: A+)"!54\"!<Rh!![:V"!
+
+【 以下文字转载自 Love 讨论区 】
+发信人: yanxiaoxing (水木水木~), 信区: Love
+标  题: [投票]十年水木纪念站衫设计投票开启
+发信站: 水木社区 (Thu Jun  9 00:41:26 2005), 站内
+发信人: diameter (大米·蜜月中的大米), 信区: T_shirt
+标  题: [投票]十年水木纪念站衫设计投票开启
+发信站: 水木社区 (Thu Jun  9 00:32:34 2005), 站内
+版面按V进入投票
+十年水木纪念站衫设计投票分为两部分
+  1 diameter     Jun  9 十年水木纪念站衫设计投票(白色款W1-W32)  
+  2 diameter     Jun  9 十年水木纪念站衫设计投票(白(W33,34)/黑/其他)
+投票说明:
+1. 每人8票,投票结束于6.10号18:30
+2. 作品链接:
+   白色: http://www.newsmth.net/tshirt/vote/white.html
+   黑色: http://www.newsmth.net/tshirt/vote/black.html
+   其他: http://www.newsmth.net/tshirt/vote/other.html
+   所有: http://www.newsmth.net/tshirt/vote/index.html
+   作品详细链接请查阅版面文摘区,以编号(eg, W23, B11)为关键字搜索.
+

@@ -1,0 +1,50 @@
+Return-Path: <yun@rbl.ccert.edu.cn>
+Received: from rbl.ccert.edu.cn (rbl.ccert.edu.cn [202.112.57.71])
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id i934DIjV020029
+	for <guan@ccert.edu.cn>; Sun, 3 Oct 2004 12:13:18 +0800 (CST)
+Received: from rbl.ccert.edu.cn (localhost.localdomain [127.0.0.1])
+	by rbl.ccert.edu.cn (8.12.11/8.12.11) with ESMTP id i934J14g022508
+	for <guan@ccert.edu.cn>; Sun, 3 Oct 2004 12:19:01 +0800
+Received: (from qa@localhost)
+	by rbl.ccert.edu.cn (8.12.11/8.12.11/Submit) id i934J1OM022507;
+	Sun, 3 Oct 2004 12:19:01 +0800
+Date: Sun, 3 Oct 2004 12:19:01 +0800
+Message-Id: <200410030419.i934J1OM022507@rbl.ccert.edu.cn>
+Subject: =?gb2312?B?ofEgob7V0Ma4ob9OZXS/qreiuaSzzMqmus1FQU253MDtyO28/r+qt6K5pLPMyqY=?=
+To: guan@ccert.edu.cn
+From: Tran Quang Anh <yun@cernet.edu.cn>
+Content-Type: multipart/mixed; boundary="----------=_1096777141-996-376"
+MIME-Version: 1.0
+X-UIDL: (OW!!,FL!!<IJ!!2$<!!
+
+代我一同学发贴。
+招聘需求：
+ 
+一、.Net开发工程师(1人)
+ 
+职责要求：
+1、有两年以上微软Windows平台的商业化软件开发经验；
+2、熟悉.NET开发技术，熟悉.NET Framework，具有一定C#、ASP.NET、XML开发的经验；
+3、熟悉微软BizTalk企业集成平台，有在BizTalk平台上开发工作流业务流程的经验；
+4、熟悉微软InfoPath和SharePoints产品；
+5、具有SQL Server数据库设计和开发的经验；
+5、较强的解决问题能力和coding技巧；
+6、主动性强，有敬业精神，勇于面对困难和接受挑战；
+7、有良好的团队协作能力和沟通能力；
+ 
+ 
+二、发电EAM管理软件开发工程师(1人)
+ 
+职责要求：
+1、计算机、电厂热能、电力系统自动化或相关专业本科以上学历，有电力行业工作经验者优先考虑。
+2、了解电厂运行、电力系统以及电力企业信息化建设，熟悉电力系统业务；
+3、具有一定的电厂EAM或信息化系统开发和实施经验。
+4、有较深厚的编程语言功底，精通一种以上面向对象开发工具，熟悉CS，BS架构。
+4、较强的解决问题能力；
+6、主动性强，有敬业精神，勇于面对困难和接受挑战；
+7、有良好的团队协作能力和沟通能力；
+招聘单位：
+北京中电普华信息技术有限公司。http://www.chinapower-it.com/
+面谈。
+联系方式：huanhy@epri.ac.cn。
+

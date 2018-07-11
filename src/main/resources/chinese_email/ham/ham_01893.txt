@@ -1,0 +1,42 @@
+Return-Path: <sun@ccert.edu.cn>
+Received: from ccert.edu.cn ([202.112.57.8])
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id i88ANYTn024284
+	for <hu@ccert.edu.cn>; Wed, 8 Sep 2004 18:23:34 +0800 (CST)
+Received: from 8jmd55gawpz3tjh ([202.112.50.5])
+	by ccert.edu.cn (8.12.11/8.12.11) with ESMTP id i88AqlQe027752
+	for <hu@ccert.edu.cn>; Wed, 8 Sep 2004 18:52:48 +0800 (CST)
+Message-ID: <001001c4958d$ebcf1140$053270ca@8jmd55gawpz3tjh>
+From: "sun" <sun@ccert.edu.cn>
+To: hu@ccert.edu.cn
+References: <002501c49572$ad6ae250$0e3270ca@CCERTDAWEI>
+Subject: =?gb2312?B?ofEgs8/GuM34wue5pLPMyqYtLbT609G3os7Eo6zO8LvYsb7Iy9DFz+Q=?=
+Date: Wed, 8 Sep 2004 18:23:44 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_000D_01C495D0.F9CD8B30"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2800.1437
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1441
+X-UIDL: %*%"!Rm%"!F$`!!1&b!!
+
+原文已经删除
+诚聘网络工程师--代友发文，勿回本人信箱
+工作地点：北京
+工作描述：
+  网络管理平台建设及维护
+  网络管理平台上的基于SNMP的相关开发
+  在需要时完成其他相关工作 
+要求：
+  团结合作，专业精神，富有责任心(*)
+  熟悉网络管理平台（OpenView,CiscoWorks,Optivity等）
+  熟悉linux/unix/FreeBSD环境下的系统脚本语言Perl,shell及PHP、C等语言
+  熟练使用mysql，RRD等常用数据库编程
+  熟悉SNMP网络管理协议及其上的开发
+  熟悉路由器、交换机等网络设备的运维，了解其MIB库
+  流利的英文/中文书面表达，阅读，写作水平
+证书和经验要求：
+  大学本科毕业，CET-4
+  相关工作经验 
+有意者请发简历和联系到jianbinxiao@sohu.com。
+

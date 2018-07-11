@@ -1,0 +1,59 @@
+Return-Path: <guo@cernet.edu.cn>
+Received: from tsinghua.org.cn ([210.77.143.231])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id iB16VEAS019611
+	for <kong@ccert.edu.cn>; Wed, 1 Dec 2004 14:31:16 +0800
+Received: (eyou send program); Wed, 01 Dec 2004 14:24:16 +0800
+Received: (eyou send program); Wed, 01 Dec 2004 14:24:16 +0800
+X-EYOU-ORIGINAL-IP: 210.77.143.235
+X-EYOU-ENVELOPE-MAILFROM: qchen@cernet.edu.cn
+Received: from unknown (HELO eyou.net) (unknown@210.77.143.235)
+ by 210.77.143.231 with SMTP; Wed, 01 Dec 2004 14:24:16 +0800
+Received: (eyou send program); Wed, 01 Dec 2004 14:39:24 +0800
+Message-ID: <301883164.11748@eyou.net>
+Received: from 166.111.8.16 by 210.77.143.235 with SMTP; Wed, 01 Dec 2004 14:39:19 +0800
+Received: (eyou send program); Wed, 01 Dec 2004 14:38:52 +0800
+Message-ID: <301883132.12748@mails.tsinghua.edu.cn>
+Received: (eyou send program); Wed, 01 Dec 2004 14:38:52 +0800
+Message-ID: <301883132.00336@mails.tsinghua.edu.cn>
+Received: from unknown (HELO mails.tsinghua.edu.cn) (unknown@127.0.0.1)
+ by 127.0.0.1 with SMTP; Wed, 01 Dec 2004 14:38:52 +0800
+X-scanvirus: By Symantec Scan Engine
+X-scanresult: NOREP
+Received: (eqmail ); 1 Dec 2004 06:38:49 -0000
+Received: from ccert.edu.cn (HELO home.ccert.edu.cn) (202.112.57.12)
+  by mails.tsinghua.edu.cn with SMTP; 1 Dec 2004 06:38:49 -0000
+Received: from home.ccert.edu.cn (localhost [127.0.0.1])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id iB16UWbt019588;
+	Wed, 1 Dec 2004 14:30:32 +0800
+Received: (from majordomo@localhost)
+	by home.ccert.edu.cn (8.13.1/8.13.1/Submit) id iB16UW8I019587;
+	Wed, 1 Dec 2004 14:30:32 +0800
+X-Authentication-Warning: home.ccert.edu.cn: majordomo set sender to owner-ccertstaff using -f
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id iB16UVUd019583
+	for <kong@ccert.edu.cn>; Wed, 1 Dec 2004 14:30:31 +0800
+Received: from GirlOfGod (tu203027.tsinghua.edu.cn [166.111.203.27])
+	(authenticated bits=0)
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id iB16hauK007966
+	for <kong@ccert.edu.cn>; Wed, 1 Dec 2004 14:43:37 +0800 (CST)
+Message-Id: <200412010643.iB16hauK007966@sea.net.edu.cn>
+Date: Wed, 1 Dec 2004 14:47:57 +0800
+From: "guo" <guo@cernet.edu.cn>
+To: kong@ccert.edu.cn
+Subject: =?gb2312?B?UmU6ILXItP2xz9K1yf3Rp9bQo6xwaWXSu7j2zeaw6Q==?=
+X-mailer: Foxmail 5.0 [cn]
+Mime-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: 8bit
+X-MIME-Autoconverted: from base64 to 8bit by home.ccert.edu.cn id iB16UVUd019585
+Sender: owner-ccertstaff@home.ccert.edu.cn
+Precedence: bulk
+X-UIDL: EAm"!CZb!!3k]"!c@k"!
+
+不错不错，可惜没要工作，周末无聊联系我吧。
+不过，看行情是没有机会了。
+: 女生，等待毕业升学中，也处于无聊中，本想回家，但未来老板时不常地召唤，搞得有家回不得。以前学习太忙碌，以后又会很忙碌，所以一定要抓住这段时间好好玩玩了，但又想不出去哪里玩，也想不出和谁一起，好朋友不是实习工作，就是准备gre，所以来这里pie一个玩伴，只要一个，对他/她没什么特别要求，不限性别，不限年龄，最好是和我处境相似，否则我会有影响你学习或者工作的内疚感，另外，长得最好可以，否则也比较影响心情（原谅我说得比较直白^_^），我的长相肯定没问题的了，呵呵。另外一点要说的是，一切费用AA。
+: 有意者请回站内信箱，我们可以交换照片认识一下，再face to face地制定一个功略。
+: btw：不是piebf~
+

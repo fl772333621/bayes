@@ -1,0 +1,36 @@
+Return-Path: <rao@sohu.com>
+Received: from cngnu.org ([211.157.2.95])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id iAP6V4RB001761
+	for <kang@ccert.edu.cn>; Thu, 25 Nov 2004 14:31:09 +0800
+Received: from localhost (localhost.localdomain [127.0.0.1])
+	by cngnu.org (Postfix) with ESMTP id C5A46CA029
+	for <kang@ccert.edu.cn>; Thu, 25 Nov 2004 14:43:53 +0800 (CST)
+Received: from cngnu.org ([211.157.2.95])
+ by localhost (xia.cngnu.net [127.0.0.1]) (amavisd-new, port 10024) with ESMTP
+ id 09291-08 for <kang@ccert.edu.cn>; Thu, 25 Nov 2004 14:43:53 +0800 (CST)
+Received: from 127.0.0.1 (localhost.localdomain [127.0.0.1])
+	by cngnu.org (Postfix) with SMTP id 0D06ACA023
+	for <kang@ccert.edu.cn>; Thu, 25 Nov 2004 14:43:53 +0800 (CST)
+From: "rao" <rao@sohu.com>
+To: kang@ccert.edu.cn
+Subject: =?gb2312?B?ofEg1/LM7Gxny7WjrMTju7nKx7K70qq5pNf3wct+?=
+X-Priority: 3
+X-Mailer: CASA IPB PHP Mailer
+Message-Id: <20041125064353.0D06ACA023@cngnu.org>
+Date: Thu, 25 Nov 2004 14:43:53 +0800 (CST)
+X-Virus-Scanned: by amavisd-new using ClamAV at cngnu.org
+X-UIDL: )1C"!,=["!<~>"!9e8"!
+
+原因是在一起到现在，我一直宠着他，没让他干过家务活。
+现在上班了，路上就折腾很久时间，还要回来买菜做饭
+吃完饭就累趴下~
+但是总得拖地啊，整理房间啊，洗衣服啊。
+于是昨天我又开始唠叨，说家里脏的不象话。
+晚上12点了还要洗衣服，整理房间。明天又要早起，下班回来又要干活，补觉~
+老公乖乖起来，帮着拖了我指责很脏的地方。但心里很不爽。
+就建议我辞职回家，他养我算了~
+老公的嘴很刁，拒绝吃盒饭、米线、面条~
+一定要吃“老婆做的饭”，那才叫吃饭~
+我都动摇了辞职的念头了，就是在家呆着太无聊，倒是真的~
+可怜挣得太少，请不起全职保姆，在家伺候着，唉~
+

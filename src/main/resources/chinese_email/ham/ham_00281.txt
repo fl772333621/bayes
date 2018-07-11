@@ -1,0 +1,57 @@
+Return-Path: <yu@ns.6test.edu.cn>
+Received: from tsinghua.org.cn ([210.77.143.228])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id i9Q3945v004849
+	for <liu@ccert.edu.cn>; Tue, 26 Oct 2004 11:09:16 +0800
+Received: (eyou send program); Tue, 26 Oct 2004 10:51:54 +0800
+Received: (eyou send program); Tue, 26 Oct 2004 09:35:47 +0800
+X-EYOU-ORIGINAL-IP: 202.38.99.65
+X-EYOU-ENVELOPE-MAILFROM: toefl-bounces@server.cool-meeting.com
+Received: from unknown (HELO server.cool-meeting.com) (unknown@202.38.99.65)
+ by 210.77.143.228 with SMTP; Tue, 26 Oct 2004 09:35:47 +0800
+Received: from server.cool-meeting.com (localhost.localdomain [127.0.0.1])
+	by server.cool-meeting.com (8.12.8/8.12.8) with ESMTP id i9Q1VflZ005210
+	for <liu@ccert.edu.cn>; Tue, 26 Oct 2004 09:32:01 +0800
+Received: from ns.6test.edu.cn ([202.38.99.18])
+	by server.cool-meeting.com (8.12.8/8.12.8) with ESMTP id i9Q1VZkr005206
+	for <liu@ccert.edu.cn>; Tue, 26 Oct 2004 09:31:35 +0800
+Received: from [210.25.128.109] (helo=tsinghua89o1rm)
+	by ns.6test.edu.cn with asmtp (Exim 4.12) id 1CMGKI-000Nb2-00
+	for Toefl@server.cool-meeting.com; Tue, 26 Oct 2004 09:40:42 +0800
+Message-ID: <000a01c4bafa$2c7e46c0$6d8019d2@tsinghua89o1rm>
+From: "yu" <yu@ns.6test.edu.cn>
+To: liu@ccert.edu.cn
+Date: Tue, 26 Oct 2004 09:21:22 +0800
+MIME-Version: 1.0
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2600.0000
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2600.0000
+Cc: 
+Subject: =?gb2312?B?ofEgvfHM7Nf2t7m1xPTcysI=?=
+X-BeenThere: toefl@server.cool-meeting.com
+X-Mailman-Version: 2.1.2
+Precedence: list
+List-Id: &#26446;&#26143;&#21644;&#20182;&#30340;&#23398;&#29983;&#20204;
+	<toefl.server.cool-meeting.com>
+List-Unsubscribe: <http://server.cool-meeting.com/mailman/listinfo/toefl>,
+	<mailto:toefl-request@server.cool-meeting.com?subject=unsubscribe>
+List-Archive: <http://server.cool-meeting.com/mailman/private/toefl>
+List-Post: <mailto:toefl@server.cool-meeting.com>
+List-Help: <mailto:toefl-request@server.cool-meeting.com?subject=help>
+List-Subscribe: <http://server.cool-meeting.com/mailman/listinfo/toefl>,
+	<mailto:toefl-request@server.cool-meeting.com?subject=subscribe>
+Content-Type: multipart/mixed; boundary="===============72366002788021455=="
+Sender: toefl-bounces@server.cool-meeting.com
+Errors-To: toefl-bounces@server.cool-meeting.com
+X-UIDL: iJQ!!Yn9!!Sb$#!::/"!
+Status: RO
+
+LG的三个同学过来玩，本来说是只吃中午饭的，就决定去外面吃。结果午饭吃完了，打牌到晚上，还得做晚饭，累阿
+冰箱里有冰冻虾仁，已经用过一次，做青椒炒虾仁，做得比较失败，因为冰虾仁毕竟不是鲜虾仁，有股腥味，而且包装上号称已经去了泥肠，拣出来一只只被上还是有黑色的线。为了避免腥味，决定做个味道重一点的。想起《贝太厨房》上看过的椒盐虾仁，貌似味道重重的样子，于是决定实践这个。
+首先是去泥肠。一只只扒垃，弄了大半天。本来想晾干之后直接炸，想想这样晾不知道啥时候才会干，又没有厨房吸水纸用，干脆用鸡蛋清和淀粉拌了，放一边备用。
+锅里放油。顺便说，因为今天把锅干烧了好久，锅底黑黑的怎么洗也洗不掉，看着就很郁闷。不知道要多热的油，估摸着差不多了就扔虾仁下去，结果有点粘锅。幸好虾仁不需久炸，变色之后即捞出。油倒进油壶里，刷干净锅。
+然后按照《贝太厨房》的做法，放海盐开小火炒。因为不知道要放多少盐，颇踌躇了一会子。最后放了大约是调味需要的量的两倍的盐，炒阿炒。炒了几分钟，放花椒粉进去，继续炒。
+然后按照菜谱的做法，应该是放青椒和虾下去关火借盐的余热闷熟了，看着锅里少少的盐，感觉有点怪怪的。先放炸好的虾进去，翻炒，所谓椒盐开始挂上虾仁。拣了一个来尝，好咸。这时我突然想到：原来椒盐虾，可能是非用带壳的虾不可的。椒盐粘在壳上，不似在去壳的虾仁上那样味道直入肉中。所以用盐虽多，不觉过咸。现在我用去壳的虾仁，用盐虽少，还是太咸了。
+分特，马上觉得自己特别蠢，补救的办法是立刻用水冲洗虾仁，洗锅之后用少许油炒青椒丝，放盐，然后放虾仁进去炒炒起锅。做不成椒盐虾仁，变青椒炒虾仁了。
+补救的结果还不算坏。这菜上桌之后居然颇受欢迎，被大家吃了个底朝天。
+

@@ -1,0 +1,55 @@
+Return-Path: <pu@ns.6test.edu.cn>
+Received: from tsinghua.org.cn ([210.77.143.228])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id iAO74BkN019326
+	for <wu@ccert.edu.cn>; Wed, 24 Nov 2004 15:04:13 +0800
+Received: (eyou send program); Wed, 24 Nov 2004 15:16:57 +0800
+Received: (eyou send program); Wed, 24 Nov 2004 15:16:57 +0800
+X-EYOU-ORIGINAL-IP: 210.77.143.235
+X-EYOU-ENVELOPE-MAILFROM: toefl-bounces@server.cool-meeting.com
+Received: from unknown (HELO eyou.net) (unknown@210.77.143.235)
+ by 210.77.143.228 with SMTP; Wed, 24 Nov 2004 15:16:57 +0800
+Received: (eyou send program); Wed, 24 Nov 2004 15:12:25 +0800
+Message-ID: <301280345.05809@eyou.net>
+Received: from 202.38.99.65 by 210.77.143.235 with SMTP; Wed, 24 Nov 2004 15:12:04 +0800
+Received: from server.cool-meeting.com (localhost.localdomain [127.0.0.1])
+	by server.cool-meeting.com (8.12.8/8.12.8) with ESMTP id iAO7VJlZ027710
+	for <wu@ccert.edu.cn>; Wed, 24 Nov 2004 15:31:30 +0800
+Received: from ns.6test.edu.cn ([202.38.99.18])
+	by server.cool-meeting.com (8.12.8/8.12.8) with ESMTP id iAO7VCkr027706
+	for <wu@ccert.edu.cn>; Wed, 24 Nov 2004 15:31:12 +0800
+Received: from [210.25.128.109] (helo=tsinghua89o1rm)
+	by ns.6test.edu.cn with asmtp (Exim 4.12) id 1CWrii-000JTX-00
+	for Toefl@server.cool-meeting.com; Wed, 24 Nov 2004 15:37:44 +0800
+Message-ID: <006f01c4d1f5$89d69270$6d8019d2@tsinghua89o1rm>
+From: "pu" <pu@ns.6test.edu.cn>
+To: wu@ccert.edu.cn
+Date: Wed, 24 Nov 2004 15:16:07 +0800
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="----=_NextPart_000_006B_01C4D238.85C09990"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2600.0000
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2600.0000
+Cc: 
+Subject: =?gb2312?B?UmU6IMfrzspNTcPHLMeu1ea1xMTHw7TW2NKqwvA/?=
+X-BeenThere: toefl@server.cool-meeting.com
+X-Mailman-Version: 2.1.2
+Precedence: list
+List-Id: &#26446;&#26143;&#21644;&#20182;&#30340;&#23398;&#29983;&#20204;
+	<toefl.server.cool-meeting.com>
+List-Unsubscribe: <http://server.cool-meeting.com/mailman/listinfo/toefl>,
+	<mailto:toefl-request@server.cool-meeting.com?subject=unsubscribe>
+List-Archive: <http://server.cool-meeting.com/mailman/private/toefl>
+List-Post: <mailto:toefl@server.cool-meeting.com>
+List-Help: <mailto:toefl-request@server.cool-meeting.com?subject=help>
+List-Subscribe: <http://server.cool-meeting.com/mailman/listinfo/toefl>,
+	<mailto:toefl-request@server.cool-meeting.com?subject=subscribe>
+Sender: toefl-bounces@server.cool-meeting.com
+Errors-To: toefl-bounces@server.cool-meeting.com
+X-UIDL: 5II!!aAp"!/fD!!\=F"!
+
+:  
+:  我毕业于北京一所名牌大学,获文学硕士学位,毕业后在某著名文学刊物工作,我MM和我是大学同学,我们恋爱一年多了,但MM现在抛弃我了,她现在跟了别人,她的新BF是北京一家娱乐场所的老板,他因为没有考上大学,所以只有高中学历(大家想想,在湖北,山东,广东考不上大学可以理解,在北京考不上大学,那是多么不可理喻的事情啊!),他无论外表,还是言行举止,就一个字:俗!MM也是名牌大学的硕士毕业生,我难以想象她竟然喜欢上这样一个人,唯一可解释的原因就是他有钱,他已经有上百万资产,有名牌汽车,我想请问一下这里的MM,钱难道真的那么重要吗??钱的威力真: 的那么大,能让一个粗俗不堪的人获得如此美好的女朋友吗?
+  呵呵   没钱也高尚不起来
+

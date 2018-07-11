@@ -1,0 +1,25 @@
+Return-Path: <hong@rbl.ccert.edu.cn>
+Received: from rbl.ccert.edu.cn (rbl.ccert.edu.cn [202.112.57.71])
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id i91CitXN005157
+	for <sun@ccert.edu.cn>; Fri, 1 Oct 2004 20:44:55 +0800 (CST)
+Received: from rbl.ccert.edu.cn (localhost.localdomain [127.0.0.1])
+	by rbl.ccert.edu.cn (8.12.11/8.12.11) with ESMTP id i91CoZ6w010097
+	for <sun@ccert.edu.cn>; Fri, 1 Oct 2004 20:50:35 +0800
+Received: (from qa@localhost)
+	by rbl.ccert.edu.cn (8.12.11/8.12.11/Submit) id i91CoZRt010096;
+	Fri, 1 Oct 2004 20:50:35 +0800
+Date: Fri, 1 Oct 2004 20:50:35 +0800
+Message-Id: <200410011250.i91CoZRt010096@rbl.ccert.edu.cn>
+Subject: =?gb2312?B?ofEg1/LM7L+0wcs80MK40LnZysC95z4s1fC6syE=?=
+To: sun@ccert.edu.cn
+From: Tran Quang Anh <hong@cernet.edu.cn>
+Content-Type: multipart/mixed; boundary="----------=_1096635035-996-296"
+MIME-Version: 1.0
+X-UIDL: P(%"!3'E!!~P@!!g*&!!
+
+想用一个字来表达所有的感受——美！
+唯美！凄美！醇美！
+唯美：片中各个部分的处理都非常精巧和含蓄，不需要担心看到让人无法忍受的场面，即使是最令人无法忍受的被强暴的场面或最后杀害情人的场面。我们甚至无暇顾及那些残忍不堪的场面，而更多地只是关注女主角的心态变化起伏。她的率真执着和天真在那样的时刻仍然存在，而且是还那么纯真。
+凄美：如果说人生无奈，感情可贵的话，那与她的救命恩人那段短暂而动人的感情是最最动人的，而且还贯穿于她生命的始终。（当然这个情节是第二版篡改的最美的一点。）他就像是生命中的一个支撑和力量的象征，而没有他的真实存在，他的多纳圈始终陪伴在她的左右。她对于情人龙藏的依恋也就是因为失去了与他重聚的可能才变得无以复加。需要安全的本能、死的本能交错在一起，都通过龙藏的仪式般的死亡表现得那么淋漓尽致，她最终都希望自己与他同去，生的本能让她还弥留在人世，通过与议员的最后仪式表达了感激。然后静静等待死亡。当看到最后一张真实的被捕照片时每个人都会疑惑，为什么她和周围的警察都那么春风化雨一般的微笑呢？她得到了解脱，被捕是殉情的另外一种表达方式。
+醇美：对于童年的追忆，田间生活的画面让人无尽地遐想。没有太多的虚伪掩盖，爱就是爱，即使是沦为艺妓，她仍然享受她的生活。
+

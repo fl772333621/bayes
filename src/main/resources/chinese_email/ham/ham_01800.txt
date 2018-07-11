@@ -1,0 +1,47 @@
+Return-Path: <zeng@mails.tsinghua.edu.cn>
+Received: from mails.tsinghua.edu.cn (mails.tsinghua.edu.cn [166.111.8.16])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id i8R3L8HU028234
+	for <sun@ccert.edu.cn>; Mon, 27 Sep 2004 11:21:08 +0800 (CST)
+Received: (eyou send program); Mon, 27 Sep 2004 11:16:04 +0800
+Message-ID: <296254964.09244@mails.tsinghua.edu.cn>
+Received: from unknown (HELO mails.tsinghua.edu.cn) (unknown@127.0.0.1)
+ by 127.0.0.1 with SMTP; Mon, 27 Sep 2004 11:16:04 +0800
+X-scanvirus: By Symantec Scan Engine
+X-scanresult: CLEAN
+Received: (eqmail ); 27 Sep 2004 03:16:00 -0000
+Received: from unknown (HELO lulh) (xwang03@202.112.50.170)
+  by mails.tsinghua.edu.cn with SMTP; 27 Sep 2004 03:16:00 -0000
+Message-ID: <006201c4a441$ad5d2a10$aa3270ca@lulh>
+From: "zeng" <zeng@mails.tsinghua.edu.cn>
+To: sun@ccert.edu.cn
+Subject: =?gb2312?B?UmU6IKG2yq7D5sLxt/yht9PQ0P67+iChsM/JyMvWuMK3obG3x9XC19Pi+cv5zPggeno=?=
+Date: Mon, 27 Sep 2004 11:25:44 +0800
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="----=_NextPart_000_005E_01C4A484.BA611760"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2800.1437
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1441
+X-UIDL: ((k"!,Wf"!^Qj"!<L,"!
+
+是不算新闻，我唯一感到奇怪的是，为什么当时批判十面埋伏的时候，没人把
+这条新闻捅出来。
+看来二张的保密工作做的还不错。
+: 标  题: Re: 《十面埋伏》有玄机 “仙人指路”非章子怡所跳  zz
+: 发信站: 水木社区 (Fri Jun 10 09:44:44 2005), 站内
+: 
+: 演员用替身，这算什么新闻啊？
+: 
+: : 在这个事件上，张艺谋属于被利用的，最大的受益者是王海珍。
+: : 而楼主说的那个事件，好处已经都被章子仪占光了，这位王小姐现在出来披露真相，
+: : 有点晚了。
+: : ...................
+: 
+: --
+: 俩人做了又说，说了又做。
+: 
+: 
+※ 修改:·forgauss 于 Jun 10 12:46:49 修改本文·[FROM: 159.226.47.*]
+: ※ 来源:·水木社区 newsmth.net·[FROM: 219.239.97.*]
+

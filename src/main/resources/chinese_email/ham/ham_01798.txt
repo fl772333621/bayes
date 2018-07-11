@@ -1,0 +1,26 @@
+Return-Path: <wang@cernet.edu.cn>
+Received: from WHITESNOW (tu203022.tsinghua.edu.cn [166.111.203.22])
+	(authenticated bits=0)
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id iAI1WvlL010737
+	for <xia@ccert.edu.cn>; Thu, 18 Nov 2004 09:32:57 +0800 (CST)
+Message-ID: <003001c4cd0e$8e171490$16cb6fa6@WHITESNOW>
+From: "wang" <wang@cernet.edu.cn>
+To: xia@ccert.edu.cn
+References: <002c01c4cbb5$bad61d50$18cb6fa6@CCERTDAWEI>
+Subject: =?gb2312?B?UmU6IMSmzdDC3sCtxM++qdHQt6LW0NDEvfS8sdXQxrjI7bz+0dC3ormks8zKpg==?=
+Date: Thu, 18 Nov 2004 09:33:01 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_002D_01C4CD51.992F1060"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2900.2180
+X-MIMEOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+X-UIDL: N%>"!VW\"!+3+"!5)X"!
+
+是要到南京去工作吗？
+: 刚得到另外一个offer，所以据掉了摩托罗拉南京研发中心的offer，为了弥补给对方招
+: 聘带来的影响，所以希望代收一些简历以弥补这个职位空缺。至于软件工程师的要求我
+: 想大家在其它一些招聘帖子中都见过了，这里就不说了。希望最好是硕士，当然也期望很自信的本科生。待遇我不便具体讲，只能说比华为和中兴高不少。请感兴趣的同学发到lsdong@mail.ustc.edu.cn，为方便我整理，请用附件发送简历，标题注明：应聘南京
+: ...................
+

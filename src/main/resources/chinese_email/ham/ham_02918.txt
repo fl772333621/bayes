@@ -1,0 +1,60 @@
+Return-Path: <zhan@compass.net.edu.cn>
+Received: from tsinghua.org.cn ([210.77.143.228])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id iAJBxw5u028789
+	for <shen@ccert.edu.cn>; Fri, 19 Nov 2004 20:00:00 +0800
+Received: (eyou send program); Fri, 19 Nov 2004 20:12:29 +0800
+Received: (eyou send program); Fri, 19 Nov 2004 20:12:29 +0800
+X-EYOU-ORIGINAL-IP: 210.77.143.235
+X-EYOU-ENVELOPE-MAILFROM: toefl-bounces@server.cool-meeting.com
+Received: from unknown (HELO eyou.net) (unknown@210.77.143.235)
+ by 210.77.143.228 with SMTP; Fri, 19 Nov 2004 20:12:29 +0800
+Received: (eyou send program); Fri, 19 Nov 2004 20:08:11 +0800
+Message-ID: <300866091.12832@eyou.net>
+Received: from 202.38.99.65 by 210.77.143.235 with SMTP; Fri, 19 Nov 2004 20:08:07 +0800
+Received: from server.cool-meeting.com (localhost.localdomain [127.0.0.1])
+	by server.cool-meeting.com (8.12.8/8.12.8) with ESMTP id iAJCQ2li018713
+	for <shen@ccert.edu.cn>; Fri, 19 Nov 2004 20:26:28 +0800
+Received: from compass.net.edu.cn ([202.38.188.130])
+	by server.cool-meeting.com (8.12.8/8.12.8) with ESMTP id iAJCPtkr018709
+	for <shen@ccert.edu.cn>; Fri, 19 Nov 2004 20:25:55 +0800
+Received: from [210.25.128.113] ([210.25.128.113])
+	by compass.net.edu.cn (8.9.2/8.9.2) with ESMTP id UAA27665
+	for <shen@ccert.edu.cn>;
+	Fri, 19 Nov 2004 20:14:44 +0800 (CST)
+Message-ID: <419DE25D.60206@compass.net.edu.cn>
+Date: Fri, 19 Nov 2004 20:09:01 +0800
+From: Shaozhi Ye <zhan@compass.net.edu.cn>
+User-Agent: Mozilla Thunderbird 0.9 (Windows/20041103)
+X-Accept-Language: en-us, en
+MIME-Version: 1.0
+To: shen@ccert.edu.cn
+Content-Type: text/plain; charset=GB2312
+Content-Transfer-Encoding: 8bit
+Cc: 
+Subject: =?gb2312?B?UmU6ILn6xNq1xFBIRMLbzsQ=?=
+X-BeenThere: toefl@server.cool-meeting.com
+X-Mailman-Version: 2.1.2
+Precedence: list
+List-Id: &#26446;&#26143;&#21644;&#20182;&#30340;&#23398;&#29983;&#20204;
+	<toefl.server.cool-meeting.com>
+List-Unsubscribe: <http://server.cool-meeting.com/mailman/listinfo/toefl>,
+	<mailto:toefl-request@server.cool-meeting.com?subject=unsubscribe>
+List-Archive: <http://server.cool-meeting.com/mailman/private/toefl>
+List-Post: <mailto:toefl@server.cool-meeting.com>
+List-Help: <mailto:toefl-request@server.cool-meeting.com?subject=help>
+List-Subscribe: <http://server.cool-meeting.com/mailman/listinfo/toefl>,
+	<mailto:toefl-request@server.cool-meeting.com?subject=subscribe>
+Sender: toefl-bounces@server.cool-meeting.com
+Errors-To: toefl-bounces@server.cool-meeting.com
+X-UIDL: bAk"!f(!#!UF0!![`-!!
+
+个人觉得不能这么讲，因为国内的教育体制、学术环境等等外在因素在那摆着，
+如果在国内能做出和国外一样的成绩，那一般来说要付出好几倍甚至10倍的energy。
+当然，实际上，国外的博士生已经很辛苦了，国内的再努力，也只能付出差不多的
+energy，包括时间、精力等，所以他的学术水平就必然比不上国外的phd student了。
+正如70年代末的一部分从穷山恶水考出来的大学生，一般来说比条件优越的城市地区
+要多付出很多很多。付出的很大一部分用来弥补或者说克服先天的不足与环境的制约了，
+然后才能和条件比较好的其他人在同一条起跑线上竞争。
+: 你才知道啊
+: 国内phd要比国外好混多了,相对
+

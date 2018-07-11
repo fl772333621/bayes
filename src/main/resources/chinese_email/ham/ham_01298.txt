@@ -1,0 +1,76 @@
+Return-Path: <lian@ns.6test.edu.cn>
+Received: from tsinghua.org.cn ([210.77.143.228])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id iAO0lZLd013734
+	for <tan@ccert.edu.cn>; Wed, 24 Nov 2004 08:47:36 +0800
+Received: (eyou send program); Wed, 24 Nov 2004 09:00:20 +0800
+Received: (eyou send program); Wed, 24 Nov 2004 09:00:18 +0800
+X-EYOU-ORIGINAL-IP: 210.77.143.235
+X-EYOU-ENVELOPE-MAILFROM: toefl-bounces@server.cool-meeting.com
+Received: from unknown (HELO eyou.net) (unknown@210.77.143.235)
+ by 210.77.143.228 with SMTP; Wed, 24 Nov 2004 09:00:18 +0800
+Received: (eyou send program); Wed, 24 Nov 2004 08:55:46 +0800
+Message-ID: <301257746.25640@eyou.net>
+Received: from 202.38.99.65 by 210.77.143.235 with SMTP; Wed, 24 Nov 2004 08:55:45 +0800
+Received: from server.cool-meeting.com (localhost.localdomain [127.0.0.1])
+	by server.cool-meeting.com (8.12.8/8.12.8) with ESMTP id iAO1F6lh027130
+	for <tan@ccert.edu.cn>; Wed, 24 Nov 2004 09:15:11 +0800
+Received: from ns.6test.edu.cn ([202.38.99.18])
+	by server.cool-meeting.com (8.12.8/8.12.8) with ESMTP id iAO1Epkr027102
+	for <tan@ccert.edu.cn>; Wed, 24 Nov 2004 09:14:51 +0800
+Received: from [202.112.3.118] (helo=IBM-E4AA49AF703)
+	by ns.6test.edu.cn with asmtp (Exim 4.12) id 1CWlqU-000HuA-00
+	for Toefl@server.cool-meeting.com; Wed, 24 Nov 2004 09:21:22 +0800
+From: "lian" <lian@ns.6test.edu.cn>
+To: tan@ccert.edu.cn
+X-mailer: Foxmail 4.2 [cn]
+Mime-Version: 1.0
+Content-Type: text/plain;
+      charset="GB2312"
+Date: Wed, 24 Nov 2004 8:59:53 +0800
+Message-Id: <E1CWlqU-000HuA-00@ns.6test.edu.cn>
+Content-Transfer-Encoding: 8bit
+X-MIME-Autoconverted: from quoted-printable to 8bit by server.cool-meeting.com
+	id iAO1Epkr027102
+Cc: 
+Subject: =?gb2312?B?ofEgvfC2ptD5uekgXl9eICjXqtTYKQ==?=
+X-BeenThere: toefl@server.cool-meeting.com
+X-Mailman-Version: 2.1.2
+Precedence: list
+List-Id: &#26446;&#26143;&#21644;&#20182;&#30340;&#23398;&#29983;&#20204;
+	<toefl.server.cool-meeting.com>
+List-Unsubscribe: <http://server.cool-meeting.com/mailman/listinfo/toefl>,
+	<mailto:toefl-request@server.cool-meeting.com?subject=unsubscribe>
+List-Archive: <http://server.cool-meeting.com/mailman/private/toefl>
+List-Post: <mailto:toefl@server.cool-meeting.com>
+List-Help: <mailto:toefl-request@server.cool-meeting.com?subject=help>
+List-Subscribe: <http://server.cool-meeting.com/mailman/listinfo/toefl>,
+	<mailto:toefl-request@server.cool-meeting.com?subject=subscribe>
+Sender: toefl-bounces@server.cool-meeting.com
+Errors-To: toefl-bounces@server.cool-meeting.com
+X-UIDL: 'kN!!V[X"!)8M"!*am"!
+
+【 以下文字转载自 Food 讨论区 】
+发信人: ninayoung (Nina), 信区: Food
+标  题: 金鼎轩归 ^_^
+发信站: 水木社区 (Sun Jun  5 17:37:49 2005), 站内
+总算是如愿去了...想了好几星期了都因为各种原因没去成，刚才1点多从清华出发，差不多正好两点杀到金鼎轩。
+虽然是下午、虽然天气不怎么样，但是店里人还是不少。评点一下下点的东东吧：
+1. 葡式蛋挞
+先是点了两份四个，后来又忍不住加了两个。酥皮很香很美味，里边的东东甜而不腻，非常不错哦~唯一美中不足的是凉的，要是是热的估计就该忍不住要第四份、第五份了 - -
+2. 上海生煎
+北京做的生煎的通病：太大且汤汁太少，底也不够脆~不过还算挺香的，大致上可以算是味道不错的包子，里边还有大大的一个虾仁
+3. 皮蛋瘦肉粥
+上边飘着的脆脆的东西不错~~粥的味道也比较鲜美，但比较稀，感觉还是自己在宿舍煮的好吃...（啊，好久没有自己煮皮蛋瘦肉粥了...）
+4.什么什么牛肉面（名字忘了 不是我点的）
+反正就是一种辣的面，汤好辣啊，我远远的就闻到了，花椒放的不少，优点是量比较小，所以不怎么影响吃其他的好吃的~
+5. 蛋黄酥
+最后要的...已经不怎么吃的下了，外边的酥皮还不错，里边的蛋黄有点偏甜了~~我吃了一个，gg吃了两个的外边的酥皮，把甜的蛋黄都放我碟子里边 - -b 最后一个实在吃不了了，太甜了，就是类似月饼陷的那种
+6. 糯米鸡
+我觉得很香啊~~虽然没有吃到鸡肉的味道，但是很喜欢糯米的说~~~
+7.鲍汁blabla卷（ft我的记性）
+不错哦~~尤其是在吃了一堆甜的东东之后，很鲜，里边有木耳、笋、肉等等一些个东西，咬上去还脆脆的
+好像还有其他什么..忘了 = =
+总的来说真的很不错啦，价格便宜种类又多。最大的遗憾忘了要双皮奶了 &gt;_&lt;~ 想了好久了但因为在菜单上没瞧见就忘点了！！要是家里住那边附近肯定就胖死了，每天大半夜都会想去夜宵的说~~嗯 下回找个机会去夜宵
+要说有什么缺点，最大的缺点就是居然不提供免费停车的地方，边上那个停车的半个小时一块钱，真不合理
+ 
+

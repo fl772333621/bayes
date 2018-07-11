@@ -1,0 +1,34 @@
+Return-Path: <ni@rbl.ccert.edu.cn>
+Received: from rbl.ccert.edu.cn (rbl.ccert.edu.cn [202.112.57.71])
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id i8T6rbds006440
+	for <jin@ccert.edu.cn>; Wed, 29 Sep 2004 14:53:39 +0800 (CST)
+Received: from rbl.ccert.edu.cn (localhost.localdomain [127.0.0.1])
+	by rbl.ccert.edu.cn (8.12.11/8.12.11) with ESMTP id i8T51Nw1025084
+	for <jin@ccert.edu.cn>; Wed, 29 Sep 2004 13:01:23 +0800
+Received: (from qa@localhost)
+	by rbl.ccert.edu.cn (8.12.11/8.12.11/Submit) id i8T51Nix025083;
+	Wed, 29 Sep 2004 13:01:23 +0800
+Date: Wed, 29 Sep 2004 13:01:23 +0800
+Message-Id: <200409290501.i8T51Nix025083@rbl.ccert.edu.cn>
+Subject: =?gb2312?B?UmU6INDF08PJ57HI0vjQ0Lu5t8qwoaO/?=
+To: jin@ccert.edu.cn
+From: Tran Quang Anh <ni@cernet.edu.cn>
+Content-Type: multipart/mixed; boundary="----------=_1096434083-996-136"
+MIME-Version: 1.0
+X-UIDL: Hgg"!DKb"!_a,!!cTG!!
+
+介个不知道，反正你能拉到存款，就有钱发呗。
+但是从政策面上来看，国家要解决农村农业的资金扶持问题，
+加强农村金融体系建设，信用社肯定是关键一环。
+以前对信用社缺乏重视，很多偏远地区，存款额上不去去的信用社都关闭了，
+而且地下钱庄的发展也抢了很多生意。
+现在国家重视农业，也必然重视农村信贷，融资支农问题，
+信用社肯定还是要发展的，支持“三农”么。
+但总体来看，农信还是不如商业银行。
+当然了，农信因为缺乏全国统一的管理机构，基本上是各个地区各自为政，
+所以管理漏洞也大得多。
+: 不是吧，北京银行不是北商改过来的，
+: 当时全国各地成立城市商业银行，都是当地政府注资的吧。
+: 再说了，我怎么记得，北京银行旁边就是北京市农村信用社那
+: ...................
+

@@ -1,0 +1,26 @@
+Return-Path: <lu@rbl.ccert.edu.cn>
+Received: from rbl.ccert.edu.cn (rbl.ccert.edu.cn [202.112.57.71])
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id i964l2uO028882
+	for <ye@ccert.edu.cn>; Wed, 6 Oct 2004 12:47:02 +0800 (CST)
+Received: from rbl.ccert.edu.cn (localhost.localdomain [127.0.0.1])
+	by rbl.ccert.edu.cn (8.12.11/8.12.11) with ESMTP id i964qvt7020307
+	for <ye@ccert.edu.cn>; Wed, 6 Oct 2004 12:52:58 +0800
+Received: (from qa@localhost)
+	by rbl.ccert.edu.cn (8.12.11/8.12.11/Submit) id i964qvmh020306;
+	Wed, 6 Oct 2004 12:52:57 +0800
+Date: Wed, 6 Oct 2004 12:52:57 +0800
+Message-Id: <200410060452.i964qvmh020306@rbl.ccert.edu.cn>
+Subject: =?gb2312?B?UmU6IL3x0rmjrLCux+nLwM32oaqhqs7StcSwrsfptb/OxA==?=
+To: ye@ccert.edu.cn
+From: Tran Quang Anh <lu@cernet.edu.cn>
+Content-Type: multipart/mixed; boundary="----------=_1097038378-996-496"
+MIME-Version: 1.0
+X-UIDL: =cT!!*PK"!'aZ!!aEb!!
+
+写的好
+鄙视这样的男人
+: 刚刚回到宿舍，轻轻地放下大包小包，镇静地微笑，和宿舍的MM们聊了几句，极力装做什么事也没有……
+:     脱掉凉鞋，爬上床，拉上帘子，终于，把自己甩在了被子上，天昏地暗……
+:     今夜，我的爱情死了……她就像我的一个孩子，一个小baby,我是那么精心的呵护，全力的付出，可是，她一直在生病，各种各样的病，大大小小的病，直到，病入膏肓……今夜，她终于死去了，除了我身上一身的伤痛外，什么也没留下。
+: ...................
+

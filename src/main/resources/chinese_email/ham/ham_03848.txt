@@ -1,0 +1,38 @@
+Return-Path: <ke@smth.edu.cn>
+Received: from tsinghua.org.cn ([210.77.143.228])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id iANFcQ2u008011
+	for <wei@ccert.edu.cn>; Tue, 23 Nov 2004 23:38:27 +0800
+Received: (eyou send program); Tue, 23 Nov 2004 23:51:12 +0800
+Received: (eyou send program); Tue, 23 Nov 2004 23:51:11 +0800
+X-EYOU-ORIGINAL-IP: 210.77.143.235
+X-EYOU-ENVELOPE-MAILFROM: svm@smth.edu.cn
+Received: from unknown (HELO eyou.net) (unknown@210.77.143.235)
+ by 210.77.143.228 with SMTP; Tue, 23 Nov 2004 23:51:11 +0800
+Received: (eyou send program); Tue, 23 Nov 2004 23:46:42 +0800
+Message-ID: <301224802.15161@eyou.net>
+Received: from 211.68.16.32 by 210.77.143.235 with SMTP; Tue, 23 Nov 2004 23:46:40 +0800
+Received: from smth.edu.cn (bbs.tsinghua.edu.cn [166.111.8.238])
+	by alpha.linux.edu.cn (8.11.6/8.11.6) with ESMTP id iANGKT607872
+	for <wei@ccert.edu.cn>; Wed, 24 Nov 2004 00:20:30 +0800
+MIME-Version: 1.0
+Content-Type: text/plain; charset=gb2312
+Content-Transfer-Encoding: 8bit
+From: "ke" <ke@smth.edu.cn>
+To: wei@ccert.edu.cn
+Date: Tue, 23 Nov 2004 23:51:07 +0800
+Message-Id: <1101225067.0@smth.edu.cn>
+Subject: =?gb2312?B?UmU6IMDPsOXS0b6tsbszzrvH5buqtcRtYXN0ZXK3xbn9uOvX08HL?=
+X-UIDL: \G7"!,Z)!!$&4"!&`Y"!
+
+双向选择意味着你发offer只能代表你愿意
+人家来面试=\\同意接受你的offer
+企业在这里的地位和面试者是相当的
+也需要承担风险
+既然发文者自报家门，评论一句就是：你们这个老板完全没有市场意识:P
+连带影响了你^o^
+不过我觉得你老板也许没这么天真，只是发发牢骚罢了，主要有情绪不平衡的还是发文ID自己:&gt;
+: 以前两位，最近一位。。拿到offer后不来了
+: 感叹，清华的master怎么这样子。。以后不敢要了。。
+: BTW： 俺是GE的。
+: ...................
+

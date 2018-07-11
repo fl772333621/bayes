@@ -1,0 +1,56 @@
+Return-Path: <yun@ns.6test.edu.cn>
+Received: from tsinghua.org.cn ([210.77.143.231])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id j09HAI2Y019431
+	for <cai@ccert.edu.cn>; Mon, 10 Jan 2005 01:10:28 +0800
+Received: (eyou send program); Mon, 10 Jan 2005 01:00:25 +0800
+Received: (eyou send program); Mon, 10 Jan 2005 01:00:25 +0800
+X-EYOU-ORIGINAL-IP: 210.77.143.235
+X-EYOU-ENVELOPE-MAILFROM: toefl-bounces@server.cool-meeting.com
+Received: from unknown (HELO eyou.net) (unknown@210.77.143.235)
+ by 210.77.143.231 with SMTP; Mon, 10 Jan 2005 01:00:25 +0800
+Received: (eyou send program); Mon, 10 Jan 2005 01:14:24 +0800
+Message-ID: <305290864.01432@eyou.net>
+Received: from 202.38.99.65 by 210.77.143.235 with SMTP; Mon, 10 Jan 2005 01:14:24 +0800
+Received: from server.cool-meeting.com (localhost.localdomain [127.0.0.1])
+	by server.cool-meeting.com (8.12.8/8.12.8) with ESMTP id j09HiLlg008232
+	for <cai@ccert.edu.cn>; Mon, 10 Jan 2005 01:44:38 +0800
+Received: from ns.6test.edu.cn ([202.38.99.18])
+	by server.cool-meeting.com (8.12.8/8.12.8) with ESMTP id j09HiKkr008228
+	for <cai@ccert.edu.cn>; Mon, 10 Jan 2005 01:44:20 +0800
+Received: from [221.216.21.89] (helo=[192.168.0.39])
+	by ns.6test.edu.cn with asmtp (Exim 4.12) id 1CnhDz-000GZh-00
+	for toefl@server.cool-meeting.com; Mon, 10 Jan 2005 01:51:35 +0800
+Message-ID: <41E167D0.1000102@ns.6test.edu.cn>
+Date: Mon, 10 Jan 2005 01:20:16 +0800
+From: CHEN Maoke <yun@ns.6test.edu.cn>
+User-Agent: Mozilla Thunderbird 0.9 (Macintosh/20041103)
+X-Accept-Language: en-us, en
+MIME-Version: 1.0
+To: cai@ccert.edu.cn
+Content-Type: text/plain; charset=GB2312
+Content-Transfer-Encoding: 8bit
+X-MIME-Autoconverted: from base64 to 8bit by server.cool-meeting.com id
+	j09HiKkr008228
+Subject: =?gb2312?B?ofEgzca89tK7sr+6q7n6xqyjusLtwK3LyQ==?=
+X-BeenThere: toefl@server.cool-meeting.com
+X-Mailman-Version: 2.1.2
+Precedence: list
+List-Id: &#26446;&#26143;&#21644;&#20182;&#30340;&#23398;&#29983;&#20204;
+	<toefl.server.cool-meeting.com>
+List-Unsubscribe: <http://server.cool-meeting.com/mailman/listinfo/toefl>,
+	<mailto:toefl-request@server.cool-meeting.com?subject=unsubscribe>
+List-Archive: <http://server.cool-meeting.com/mailman/private/toefl>
+List-Post: <mailto:toefl@server.cool-meeting.com>
+List-Help: <mailto:toefl-request@server.cool-meeting.com?subject=help>
+List-Subscribe: <http://server.cool-meeting.com/mailman/listinfo/toefl>,
+	<mailto:toefl-request@server.cool-meeting.com?subject=subscribe>
+Sender: toefl-bounces@server.cool-meeting.com
+Errors-To: toefl-bounces@server.cool-meeting.com
+X-UIDL: #kj!!m~/"![Sn"!Qig"!
+
+韩国版的“阿甘”，情真意切，看得我眼泪不知不觉就下来了。
+转一段评论：
+由《假如爱有天意》男星曹承佑主演的新片《Running Boy》(马拉松)，在口碑载道下，上映八星期观众人数已超过500万人次。《马拉松》是继《JSA安全地带》、《实尾岛》、《太极旗飘扬：生死有情》等影片後，成为历年来第九齣入场人次逾500万的电影。 
+在《马拉松》这个有笑有泪的故事中，曹承佑饰演患有自闭症的残疾青年Cho Won，讲述他如何跑完马拉松全程。同时该片亦成为话题，引起各界更加关心自闭症人士。他的演出令人激赏，与片中饰演他母亲的Kim Mi Sook及教练Lee Ki Young的合作更是相得益彰，难怪当地的影评人将此片媲美为韩国版《阿甘正传》及《手足情未了》，是一部令人洋溢著温情、会心微笑的电影佳作。 
+影片中20岁青年Cho Won一生中有两位重要人物，Cho Won良母及马拉松恩师Jeon Wook。在母亲(Kim Mi Sook饰)的鼓励下，Cho Won开始了跑马拉松，经一番自己的努力，他又参加了本地的小型赛事；然而，Cho Won的最终目标是全国马拉松大赛！因此，Cho Won母亲唯有拜访前全国马拉松冠军Jeon Wook训练儿子…… 
+

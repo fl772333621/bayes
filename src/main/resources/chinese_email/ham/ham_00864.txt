@@ -1,0 +1,24 @@
+Return-Path: <gao@rbl.ccert.edu.cn>
+Received: from rbl.ccert.edu.cn (rbl.ccert.edu.cn [202.112.57.71])
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id i9GJA4Hw029251
+	for <hong@ccert.edu.cn>; Sun, 17 Oct 2004 03:10:04 +0800 (CST)
+Received: from rbl.ccert.edu.cn (localhost.localdomain [127.0.0.1])
+	by rbl.ccert.edu.cn (8.12.11/8.12.11) with ESMTP id i9GJFgsG017585
+	for <hong@ccert.edu.cn>; Sun, 17 Oct 2004 03:15:42 +0800
+Received: (from qa@localhost)
+	by rbl.ccert.edu.cn (8.12.11/8.12.11/Submit) id i9GJFg3P017584;
+	Sun, 17 Oct 2004 03:15:42 +0800
+Date: Sun, 17 Oct 2004 03:15:42 +0800
+Message-Id: <200410161915.i9GJFg3P017584@rbl.ccert.edu.cn>
+Subject: =?gb2312?B?UmU6ILTzvNK2vMu1tsGyqdP0w8ajrLW9tdfT0LbgydnW0M2+zcuz9rXEo78=?=
+To: hong@ccert.edu.cn
+From: Tran Quang Anh <gao@cernet.edu.cn>
+Content-Type: multipart/mixed; boundary="----------=_1097954142-2811-132"
+MIME-Version: 1.0
+X-UIDL: ;`C!!,gI!!'gV!!V\d"!
+
+我也听到过很多人抱怨读博，但是确实是抱怨的人多，退学的人少
+我觉得有很大一个原因是政策限制。你已经进入博士阶段的学习，再肄业找工作的话，有很多麻烦，比如户口问题等等。能找的工作也很有限，一般说来，还不如自己硕士正常毕业联系的工作好。所以，很多人读博以后明明后悔了，但是也还是硬着头皮读下去。因为退出需要更大的勇气。
+我有个师妹才读了半年发现不喜欢，就退学找工作了，很敬佩她的勇气。
+: 读了一年，还没有进入论文就狠郁闷。。。
+

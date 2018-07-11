@@ -1,0 +1,58 @@
+Return-Path: <peng@ns.6test.edu.cn>
+Received: from tsinghua.org.cn ([210.77.143.228])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id i9L2a5Hv009228
+	for <yuan@ccert.edu.cn>; Thu, 21 Oct 2004 10:36:08 +0800
+Received: (eyou send program); Thu, 21 Oct 2004 10:47:11 +0800
+Received: (eyou send program); Thu, 21 Oct 2004 10:47:10 +0800
+X-EYOU-ORIGINAL-IP: 166.111.8.16
+X-EYOU-ENVELOPE-MAILFROM: wanglanjia@ns.6test.edu.cn
+Received: from unknown (HELO mails.tsinghua.edu.cn) (unknown@166.111.8.16)
+ by 210.77.143.228 with SMTP; Thu, 21 Oct 2004 10:47:10 +0800
+Received: (eyou send program); Thu, 21 Oct 2004 10:41:01 +0800
+Message-ID: <298326461.24348@mails.tsinghua.edu.cn>
+Received: (eyou send program); Thu, 21 Oct 2004 10:41:00 +0800
+Message-ID: <298326460.22836@mails.tsinghua.edu.cn>
+Received: from unknown (HELO mails.tsinghua.edu.cn) (unknown@127.0.0.1)
+ by 127.0.0.1 with SMTP; Thu, 21 Oct 2004 10:41:00 +0800
+X-scanvirus: By Symantec Scan Engine
+X-scanresult: CLEAN
+Received: (eqmail ); 21 Oct 2004 02:40:57 -0000
+Received: from ccert.edu.cn (HELO home.ccert.edu.cn) (202.112.57.12)
+  by mails.tsinghua.edu.cn with SMTP; 21 Oct 2004 02:40:57 -0000
+Received: from home.ccert.edu.cn (localhost [127.0.0.1])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id i9L2Y65R009181;
+	Thu, 21 Oct 2004 10:34:06 +0800
+Received: (from majordomo@localhost)
+	by home.ccert.edu.cn (8.13.1/8.13.1/Submit) id i9L2Y6Ud009180;
+	Thu, 21 Oct 2004 10:34:06 +0800
+X-Authentication-Warning: home.ccert.edu.cn: majordomo set sender to owner-ccertstaff using -f
+Received: from ns.6test.edu.cn (ns.6test.edu.cn [202.112.54.2])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id i9L2Y5CR009176
+	for <yuan@ccert.edu.cn>; Thu, 21 Oct 2004 10:34:06 +0800
+Received: from [210.25.128.109] (helo=tsinghua89o1rm)
+	by ns.6test.edu.cn with asmtp (Exim 4.12)
+	id 1CKTES-000Hzc-00
+	for ccertstaff@ccert.edu.cn; Thu, 21 Oct 2004 11:03:16 +0800
+Message-ID: <004401c4b718$22120180$6d8019d2@tsinghua89o1rm>
+From: "peng" <peng@ns.6test.edu.cn>
+To: yuan@ccert.edu.cn
+Subject: =?gb2312?B?UmU6INP0w8a1xNDE?=
+Date: Thu, 21 Oct 2004 10:45:45 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_003F_01C4B75B.1E456DB0"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2600.0000
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2600.0000
+Sender: owner-ccertstaff@home.ccert.edu.cn
+Precedence: bulk
+X-UIDL: kVd"!TA5"!JB'"!\*\"!
+
+cft
+艾
+:       下班已经好久，还是不想回去，宁可在办公室呆着，在家里，没有人等我回去做饭，不喜欢黑漆漆的空空的房间，我害怕。虽然知道知道自己很孤独，很需要爱情，很需要一个可以给我温暖给我关怀的人，但是却没有寻找的激情。
+:       只是自己遇到了一个不该遇到的人，我喜欢上了他，但是他不喜欢我，呵呵，一个很老套的故事。既然不喜欢就算了吧，我安安静静地开始我崭新的生活，可是为什么又时不时地来招惹我呢？我没有抵抗力啊。而最生气的是，跟我在一起，当我提到美女朋友的时候，竟然跟我说
+:       我很孤独，想开始新生活，可是我真的很烦，我无法开始新生活。
+: ...................
+

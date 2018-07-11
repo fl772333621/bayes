@@ -1,0 +1,25 @@
+Return-Path: <hong@rbl.ccert.edu.cn>
+Received: from rbl.ccert.edu.cn (rbl.ccert.edu.cn [202.112.57.71])
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id i98FhtLv011504
+	for <huang@ccert.edu.cn>; Fri, 8 Oct 2004 23:43:55 +0800 (CST)
+Received: from rbl.ccert.edu.cn (localhost.localdomain [127.0.0.1])
+	by rbl.ccert.edu.cn (8.12.11/8.12.11) with ESMTP id i98FntM2031833
+	for <huang@ccert.edu.cn>; Fri, 8 Oct 2004 23:49:56 +0800
+Received: (from qa@localhost)
+	by rbl.ccert.edu.cn (8.12.11/8.12.11/Submit) id i98Fntbf031832;
+	Fri, 8 Oct 2004 23:49:55 +0800
+Date: Fri, 8 Oct 2004 23:49:55 +0800
+Message-Id: <200410081549.i98Fntbf031832@rbl.ccert.edu.cn>
+Subject: =?gb2312?B?UmU6ILSrytq087zSteO2+dXmuaa38qO6yOe6zrTy06680rXnzqzIqNW9?=
+To: huang@ccert.edu.cn
+From: Tran Quang Anh <hong@cernet.edu.cn>
+Content-Type: multipart/mixed; boundary="----------=_1097250596-26230-108"
+MIME-Version: 1.0
+X-UIDL: C:<!!-H/"!JTQ!!A['#!
+
+有意思，嘿嘿
+: 居家过日子，总要买东西，更得买点电器的大件儿，于是不顺心的事情会经常出现，这个时候就需要大家开动脑筋，去打赢维权战。我本人先后退过一台显示器，一台笔记本，一台电视，换过一台冰箱，攒了点经验，与大家共享。
+: 之前，先来个前提：在买了电器不爽后，一定要相信一点，所有的商家都是怕消费者认真打维权战的，现在市场竞争那么激烈，商家的神经绷得是很紧的。尤其大家要感谢internet的存在，这个东西让商家有前所未有的压力，老有人说干嘛把对JS诉苦的事情往BBS上贴，又没有什么用�
+: 好了，先说第一步。在退换期内不爽了，赶快打售后电话。打之前，要编好腹语，要胸有成竹，一定要把产品的毛病做一个富于逻辑的总结，要有理有力！有节没节不用考虑。然后打电话，说毛病。第一句先别说产品的毛病，要说：你们要记录好了，这是我买了产品后第X天打的报损�
+: ...................
+

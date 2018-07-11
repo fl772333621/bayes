@@ -1,0 +1,55 @@
+Return-Path: <jiang@mails.tsinghua.edu.cn>
+Received: from tsinghua.org.cn ([210.77.143.228])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id iA51amji027476
+	for <rao@ccert.edu.cn>; Fri, 5 Nov 2004 09:36:54 +0800
+Received: (eyou send program); Fri, 05 Nov 2004 09:48:33 +0800
+Received: (eyou send program); Fri, 05 Nov 2004 09:48:33 +0800
+X-EYOU-ORIGINAL-IP: 210.77.143.235
+X-EYOU-ENVELOPE-MAILFROM: malb03@mails.tsinghua.edu.cn
+Received: from unknown (HELO eyou.net) (unknown@210.77.143.235)
+ by 210.77.143.228 with SMTP; Fri, 05 Nov 2004 09:48:33 +0800
+Received: (eyou send program); Fri, 05 Nov 2004 09:44:54 +0800
+Message-ID: <299619094.08728@eyou.net>
+Received: from 166.111.8.16 by 210.77.143.235 with SMTP; Fri, 05 Nov 2004 09:44:49 +0800
+Received: (eyou send program); Fri, 05 Nov 2004 09:43:17 +0800
+Message-ID: <299618996.29410@mails.tsinghua.edu.cn>
+Received: (eyou send program); Fri, 05 Nov 2004 09:43:16 +0800
+Message-ID: <299618996.09367@mails.tsinghua.edu.cn>
+Received: from unknown (HELO mails.tsinghua.edu.cn) (unknown@127.0.0.1)
+ by 127.0.0.1 with SMTP; Fri, 05 Nov 2004 09:43:16 +0800
+X-scanvirus: By Symantec Scan Engine
+X-scanresult: CLEAN
+Received: (eqmail ); 5 Nov 2004 01:43:15 -0000
+Received: from ccert.edu.cn (HELO home.ccert.edu.cn) (202.112.57.12)
+  by mails.tsinghua.edu.cn with SMTP; 5 Nov 2004 01:43:14 -0000
+Received: from home.ccert.edu.cn (localhost [127.0.0.1])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id iA51ZrJr027427;
+	Fri, 5 Nov 2004 09:35:53 +0800
+Received: (from majordomo@localhost)
+	by home.ccert.edu.cn (8.13.1/8.13.1/Submit) id iA51ZrlA027426;
+	Fri, 5 Nov 2004 09:35:53 +0800
+X-Authentication-Warning: home.ccert.edu.cn: majordomo set sender to owner-ccertstaff using -f
+Received: from mails.tsinghua.edu.cn (mails.tsinghua.edu.cn [166.111.8.16])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with SMTP id iA51ZqgC027418
+	for <rao@ccert.edu.cn>; Fri, 5 Nov 2004 09:35:53 +0800
+Received: (eyou send program); Fri, 05 Nov 2004 09:42:37 +0800
+Message-ID: <299618957.28785@mails.tsinghua.edu.cn>
+Received: from 202.112.50.13 by mails.tsinghua.edu.cn with HTTP; Fri, 05 Nov 2004 09:42:37 +0800
+X-WebMAIL-MUA: [202.112.50.13]
+From: "jiang" <jiang@mails.tsinghua.edu.cn>
+To: rao@ccert.edu.cn
+Date: Fri, 05 Nov 2004 09:42:37 +0800
+Reply-To: "jiang" <jiang@mails.tsinghua.edu.cn>
+Subject: =?gb2312?B?ofEgvs21scv7w8fKx7qi19OwyaOh?=
+Content-Type: text/plain
+Sender: owner-ccertstaff@home.ccert.edu.cn
+Precedence: bulk
+X-UIDL: BE)!!l#J!!_NR"!_YQ"!
+
+    今天是六一，我回家了。邻居们都开心地问：今天怎么回来了？不上课吗？我笑着回答：回来过节日呀。一个阿姨不解了，你都这么大了，还过这个节呀？
+    其实，我是回家给家里的两个老人过节来了。
+    爸爸五十三，妈妈明天也就该满五十了。但是在我眼中，他们却真的是一对孩子。爸爸是一个拼搏了一辈子，却最终也没实现他心中的梦想的人。所以现在也不像年轻的时候能跑能走了，干脆一年多赖在家里了。每次回去，爸爸就拿些东西给我显示，一会儿是一本新书，一会儿是一个什么高科技的小玩艺，活像一个孩子在别人面前炫耀自己的宝贝。
+    而另一方面，爸爸不工作了，妈妈就开始生气。虽然说没什么经济上的困难，可是她就看不惯爸爸一副小懒虫的样子，所以我一久了不回家，妈妈的电话就来了：你还是什么时候回来看看我吧。那种感觉就像是撒娇，或者是其它的什么感觉呢？
+    所以每次回家都得带很多讨他们喜欢的小东西，不值钱，却也逗得他们两乐呵呵的。一转眼，却感觉自己蛮累的。有点小时候妈妈哄我的感觉了。唉，有点得意了：）
+    这篇贴子是我注册新水木的第一篇。不知道发得适当不，不过希望大家支持我！就当他们是孩子吧，也祝所有的“孩子”们都节日快乐！天天快乐！
+

@@ -1,0 +1,30 @@
+Return-Path: <liao@cernet.edu.cn>
+Received: from lisa ([202.112.4.28])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id iBA129JB020155
+	for <ma@ccert.edu.cn>; Fri, 10 Dec 2004 09:02:11 +0800 (CST)
+Message-Id: <200412100102.iBA129JB020155@sea.net.edu.cn>
+From: "liao" <liao@cernet.edu.cn>
+To: ma@ccert.edu.cn
+Subject: =?gb2312?B?ofEg1dDGuM7ez9+8vMr1uaSzzMqm?=
+X-mailer: Foxmail 4.2 [cn]
+Mime-Version: 1.0
+Content-Type: text/plain;
+      charset="GB2312"
+Date: Fri, 10 Dec 2004 9:8:26 +0800
+Content-Transfer-Encoding: 8bit
+X-MIME-Autoconverted: from quoted-printable to 8bit by sea.net.edu.cn id iBA129JB020155
+X-UIDL: f1d!!\ei!!_hP!!;'M!!
+
+多来米中文网创立于1999年7月，成立后即以通过对国内著名网站收购、整合、包装、推广、整体发展的模式迅速发展，成立至今一直稳固占据前10大中文网站群中的地位。
+多来米中文网一直致力于向中国广大互联网用户提供最佳的互联网体验，通过提供丰富的内容与极具吸引力的各种特色服务，每日固定吸引数百万网络用户访问。自2004年起，全新的多来米中文网将在门户+无线的最佳业务模式基础上发展，并将侧重于提供娱乐性的产品与服务，让广大中国网民享受最佳的互联网娱悦体验。
+现招聘无线技术工程师,诚邀您的加盟
+1、熟悉软件开发的流程和项目实施的过程，有实际项目的开发和实施经验，能够独立承担项目模块的开发工作； 
+2、精通Java语言和面向对象设计方法，熟练掌握JSP、Servlet、JavaBean、Jdbc等编程，有一年以上Java开发经验, 拥有SMS，MMS等无线产品或者网关技术经验者优先;
+3. 熟悉Linux系统及其上的shell编程 
+3、熟练使用SQL语句，熟练掌握Oracle8i/9i、MySQL等关系数据库的开发； 
+4、至少熟练使用一种Java集成开发工具，以及Rose等UML建模工具； 
+5、熟悉J2EE架构和开发模式，熟悉MVC设计模式
+6、熟悉JavaScript、XML技术及相关技术； 
+7、熟悉应用服务器软件apache,resin,Tomcat等的配置和部署；
+简历请发至mikeliu@china.myrice.com
+

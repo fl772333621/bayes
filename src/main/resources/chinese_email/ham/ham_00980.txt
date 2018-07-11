@@ -1,0 +1,35 @@
+Return-Path: <zeng@tsinghua.edu.cn>
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id iBMDaTXH005746
+	for <fu@ccert.edu.cn>; Wed, 22 Dec 2004 21:36:29 +0800 (CST)
+Received: (eyou send program); Wed, 22 Dec 2004 21:21:02 +0800
+Message-ID: <303721662.18238@mail.tsinghua.edu.cn>
+Received: from unknown (HELO mail.tsinghua.edu.cn) (unknown@127.0.0.1)
+ by 127.0.0.1 with SMTP; Wed, 22 Dec 2004 21:21:02 +0800
+X-scanvirus: By Symantec Scan Engine
+X-scanresult: CLEAN
+Received: (eqmail ); 22 Dec 2004 13:21:00 -0000
+Received: from unknown (HELO sony) (duanhx@166.111.232.152)
+  by localhost with SMTP; 22 Dec 2004 13:21:00 -0000
+Message-ID: <008f01c4e82b$39ac56d0$d53270ca@sony>
+From: "zeng" <zeng@tsinghua.edu.cn>
+To: fu@ccert.edu.cn
+References: <303713739.12402@mail.tsinghua.edu.cn>
+Subject: Re: Updated:  CustomRulesets
+Date: Wed, 22 Dec 2004 21:36:20 +0800
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2900.2180
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+Content-Transfer-Encoding: 8bit
+X-MIME-Autoconverted: from base64 to 8bit by sea.net.edu.cn id iBMDaTXH005746
+X-UIDL: =,d!!~#o"!_a7"!nc]!!
+
+觉得你的生活多多少少和我是相似的，在父母、亲戚朋友眼中我是何其幸运，一路顺风的考上了高中大学研究生，表面看来我还算得上风光，在别人面前我也是一个自信，开朗的女孩子。可是很多时候我觉得越来越压抑了，因为我发现我已经不会表达自己的真实感情了，我已经习惯于倾听，而不善于倾诉了，也许这就是天秤座女孩的共性把。
+   以前同学都说我是一个特别有热情的女孩，什么新奇新鲜的事情都感兴趣的不得了。可是不知道为什自从上了研究生之后，我就忽然觉得做什么事情都比较无聊，对未来充满了困惑、迷茫，有时候莫名其妙的就不想过这样的生活了，可是又不知道自己要什么样的生活，埃。真的不想学计算机了！！！
+: 其实当你意识到这些的时候，你就不再是个没有目标的人了，至少你开始反思自己的人生，希望可以做出选择，应该高兴才对！
+: 相信你以后度过的每一天都是有意义的，因为是在思考中度过。
+

@@ -1,0 +1,35 @@
+Return-Path: <zhao@withub.org>
+Received: from autoforward.mail.sohu.com ([61.135.132.166])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id j0R1CjZu023959
+	for <weng@ccert.edu.cn>; Thu, 27 Jan 2005 09:12:45 +0800
+Received: from mx23.mail.sohu.com (unknown [192.168.41.141])
+	by autoforward.mail.sohu.com (Postfix) with ESMTP id 281518EA77
+	for <weng@ccert.edu.cn>; Thu, 27 Jan 2005 09:24:39 +0800 (CST)
+Received: by mx23.mail.sohu.com (Postfix)
+	id CED9414016; Thu, 27 Jan 2005 09:24:38 +0800 (CST)
+Delivered-To: chen741120@mx23.mail.sohu.com
+Received: from withub.org (unknown [218.80.208.20])
+	by sohumx13.sohu.com (Postfix) with SMTP id D44EA05BE35
+	for <weng@ccert.edu.cn>; Thu, 27 Jan 2005 09:24:33 +0800 (CST)
+Received: (qmail 46827 invoked by uid 1009); 27 Jan 2005 01:16:49 -0000
+Message-ID: <20050127011649.46826.qmail@withub.org>
+To: weng@ccert.edu.cn
+Subject: =?gb2312?B?UmU6ILrNwM/GxbOzvNzByw==?=
+From: "zhao" <zhao@withub.org>
+Date: Thu, 27 Jan 2005 9:16:49 +0800
+X-Priority: 3
+X-Mailer: iGENUS webmail 3.0 beta powered by wuqiong@igenus.org
+X-Originating-IP: [192.168.1.254]
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----0973427521165f310c2805ed7b8ab6fb"
+X-Sohu-Antivirus: 0
+X-UIDL: c`[!!(;B"!:@g"!1F*#!
+
+虽然没什么，不过她担心也没啥不对的，要体谅她的想法啊，这种事情上要考虑双方
+想法的，不要想当然认为自己有理就不顾lp感受了。呵呵
+: 前几天我说了，租了一个四室两厅的房子，我和一个男同事一块住。后来公司里一个小mm
+: 听说了，表示想和我们合住，而且帮我们打扫卫生和做饭。我想这也是互惠互利的事情，
+: 而且小mm工资也不高，房租对她也是大负担，就答应了。况且还有一个同事在一起。
+: ...................
+

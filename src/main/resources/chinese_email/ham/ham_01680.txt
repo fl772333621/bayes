@@ -1,0 +1,77 @@
+Return-Path: <he@yahoo.com>
+Received: from tsinghua.org.cn ([210.77.143.228])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id i928ErTG002630
+	for <cao@ccert.edu.cn>; Sat, 2 Oct 2004 16:14:54 +0800
+Received: (eyou send program); Sat, 02 Oct 2004 16:25:14 +0800
+Received: (eyou send program); Sat, 02 Oct 2004 16:25:06 +0800
+X-EYOU-ORIGINAL-IP: 66.163.169.225
+X-EYOU-ENVELOPE-MAILFROM: vinhbd@yahoo.com
+Received: from unknown (HELO smtp105.mail.sc5.yahoo.com) (unknown@66.163.169.225)
+ by 210.77.143.228 with SMTP; Sat, 02 Oct 2004 16:25:06 +0800
+Received: from unknown (HELO bachvinh) (vinhbd@203.210.137.178 with login)
+  by smtp105.mail.sc5.yahoo.com with SMTP; 2 Oct 2004 08:23:42 -0000
+Message-ID: <012401c4a900$623a5260$0100007f@bachvinh>
+From: "he" <he@yahoo.com>
+To: cao@ccert.edu.cn
+Cc: "Do Thi Thanh" <pu@ccert.edu.cn>, "Bui Nam Xuan - K36" <ren@ccert.edu.cn>,
+        "Dang Anh Phuong" <lv@ccert.edu.cn>,
+        "Dinh Viet Hung" <hou@ccert.edu.cn>, "Do Le Khoa" <liao@ccert.edu.cn>,
+        "Do Nam Thanh" <wen@ccert.edu.cn>, "Do Ngoc Minh" <ke@ccert.edu.cn>,
+        "Huu Duc Nguyen" <zhu@ccert.edu.cn>,
+        "K 36" <qiu@ccert.edu.cn>, "Le Hong Ha" <tu@ccert.edu.cn>,
+        "Le Hong Thang" <cheng@ccert.edu.cn>,
+        "Le Thanh Ha" <xin@ccert.edu.cn>,
+        "Le Viet Dung" <wua@ccert.edu.cn>,
+        "Luc Dinh Vinh" <kang@ccert.edu.cn>,
+        "Nguyen Duc Quynh" <ling@ccert.edu.cn>,
+        "Nguyen Nam Hung" <qiu@ccert.edu.cn>,
+        "Nguyen Nga My" <wu@ccert.edu.cn>,
+        "Nguyen Quang Anh" <luo@ccert.edu.cn>,
+        "Pham Kim Long" <jin@ccert.edu.cn>,
+        "Pham Van Thuong" <cen@ccert.edu.cn>,
+        "Pham Viet Thang" <yana@ccert.edu.cn>,
+        "Thanh Loan vo Trung Hung" <ke@ccert.edu.cn>,
+        "Tuan Ha" <ling@ccert.edu.cn>,
+        "Nguyen Quang Hoa" <tian@ccert.edu.cn>,
+        "Pham Thi Quynh Huong" <zhou@ccert.edu.cn>,
+        "Vu Minh Tuan" <mei@ccert.edu.cn>,
+        "Vuong Hoai Nam" <xue@ccert.edu.cn>,
+        "Phan Quang Minh" <peng@ccert.edu.cn>,
+        "nguyet nguyen minh" <jian@ccert.edu.cn>,
+        "Nguyen Van Dung" <sun@ccert.edu.cn>,
+        "NGUYEN THI HANG" <gao@ccert.edu.cn>,
+        "Nguyen Thi Hang" <he@ccert.edu.cn>,
+        "Nguyen Ngoc Quynh" <huang@ccert.edu.cn>,
+        "Nguyen Huy Quang" <yan@ccert.edu.cn>,
+        "Nguyen Duc Long" <ning@ccert.edu.cn>,
+        "Mai Thi Thanh" <tang@ccert.edu.cn>,
+        "Le Xuan Hung" <tang@ccert.edu.cn>,
+        "Le Phuong Thao" <lin@ccert.edu.cn>,
+        "K42" <gu@ccert.edu.cn>,
+        "Huynh Tuan Anh" <zhou@ccert.edu.cn>,
+        "Ha Huong Giang" <bi@ccert.edu.cn>,
+        "Giang beo" <hong@ccert.edu.cn>,
+        "Do Viet Trung" <xu@ccert.edu.cn>,
+        "Duong Vu Hung" <che@ccert.edu.cn>,
+        "Duong Hai Duong" <xin@ccert.edu.cn>,
+        "Doan Trung Tung" <kang@ccert.edu.cn>,
+        "Cao Duy Hung - K42" <pu@ccert.edu.cn>,
+        "Dang Cong Kien" <kong@ccert.edu.cn>,
+        "Dang Cong Kien" <zhang@ccert.edu.cn>,
+        "Nguyen Thu Thuy" <xie@ccert.edu.cn>
+Subject: =?gb2312?B?UmU6IM/W1NrV5rXEsrvWqrXAuMPU9cO0sOzByw==?=
+Date: Sun, 3 Oct 2004 11:02:46 +0700
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="multipart/alternative";
+	boundary="----=_NextPart_000_00E4_01C4A938.867B3260"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 5.00.2615.200
+X-MimeOLE: Produced By Microsoft MimeOLE V5.00.2615.200
+X-UIDL: Bk$#!jV="!ebi"!~DC"!
+
+考研没什么好的吧,我怎么认识好多所谓大专毕业的(而且是"五大"类得)...都混得不错呢??
+时间和机会比研究生重要多多了!
+: 我一般本科毕业,于03,04,05年参加了研究生入学考试,报考的清华大学建设管理系项目管理专业,第一年没怎么复习考的不是很理想,接着没有找工作义无反顾的再一次报考,这次还没达线考试成绩不上不下,我下定了决心再考一年,于是又辛辛苦苦的准备重头再来,折腾了大半年后还是没考取,心想找工作吧,但是本科又很烂,找了几个工作都不太理想,简历中工作经验也没多少,没什么单位要,现在就是呆着,做什么的都没心情,也不想上班,也不想重考,哎愁啊,怎么办啊~~~有没有人跟我一样的情况.你们又是怎么处理的呢?真是没办法了.
+

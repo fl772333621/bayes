@@ -1,0 +1,30 @@
+Return-Path: <zhong@rbl.ccert.edu.cn>
+Received: from rbl.ccert.edu.cn (rbl.ccert.edu.cn [202.112.57.71])
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id i9AArbgf017334
+	for <tao@ccert.edu.cn>; Sun, 10 Oct 2004 18:53:37 +0800 (CST)
+Received: from rbl.ccert.edu.cn (localhost.localdomain [127.0.0.1])
+	by rbl.ccert.edu.cn (8.12.11/8.12.11) with ESMTP id i9AAwv9Y025887
+	for <tao@ccert.edu.cn>; Sun, 10 Oct 2004 18:58:58 +0800
+Received: (from qa@localhost)
+	by rbl.ccert.edu.cn (8.12.11/8.12.11/Submit) id i9AAwv48025886;
+	Sun, 10 Oct 2004 18:58:57 +0800
+Date: Sun, 10 Oct 2004 18:58:57 +0800
+Message-Id: <200410101058.i9AAwv48025886@rbl.ccert.edu.cn>
+Subject: =?gb2312?B?ofEg1dDK7sbayKvWsM340rPWxtf3K0pTULPM0PK/qreiyMvUsQ==?=
+To: tao@ccert.edu.cn
+From: Tran Quang Anh <zhong@cernet.edu.cn>
+Content-Type: multipart/mixed; boundary="----------=_1097405938-1014-52"
+MIME-Version: 1.0
+X-UIDL: ?%m!!FK<"!@iV!!>N3"!
+
+职责：负责网站页面和管理平台页面的开发、测试和维护工作。
+要求：
+1、    热爱程序开发工作。
+2、    熟悉网站开发的流程，熟悉Dreamweaver MX。
+3、    熟练掌握HTML，ASP，JSP的开发技术，能够灵活运用MVC架构进行页面开发。
+4、    了解MS SQL SERVER、等数据库程序开发；
+5、    学习能力强，对新技术反应快，工作认真负责。
+6、    有过中、大型网站开发经验优先。
+电话联系：01081736369  陈经理
+MSN：daibingfeng@hotmail.com   jiahongxie@hotmail.com
+

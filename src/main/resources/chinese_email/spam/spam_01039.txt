@@ -1,0 +1,101 @@
+Return-Path: <hong@wusee.com>
+Received: from wusee.com ([211.141.67.2])
+	by home.ccert.edu.cn (MIMEDefang) with ESMTP id NOQUEUE
+	for <ma@ccert.edu.cn>; Tue, 21 Jun 2005 17:47:31 +0800 (CST)
+Message-ID: <200506211747.0.785513264660896@home.ccert.edu.cn>
+From: =?GB2312?B?x+W7qs2st70=?= <hong@wusee.com>
+Subject: =?gb2312?B?x+W7qs2st70=?=
+To: ma@ccert.edu.cn
+Content-Type: text/html;charset="GB2312"
+Date: Tue, 21 Jun 2005 18:05:59 +0800
+X-Priority: 3
+X-Mailer: FoxMail 3.11 Release [cn]
+
+
+
+清华同方中小企业信息化事业部
+
+TD {
+	FONT-SIZE: 9pt; LINE-HEIGHT: 160%
+}
+BODY {
+	FONT-SIZE: 9pt
+}
+SELECT {
+	FONT-SIZE: 9pt
+}
+A {
+	FONT-SIZE: 9pt; COLOR: #000000; TEXT-DECORATION: none
+}
+A:hover {
+	FONT-SIZE: 9pt; COLOR: #ff0000; TEXT-DECORATION: underline
+}
+
+
+
+
+
+
+
+  
+  
+    
+      
+      
+                                              
+      
+  
+    
+      　
+      产品大赠送  
+      机会别错过　
+      详情请进入：产品赠送
+      　
+  
+    
+  
+    
+      
+        
+        
+          
+          
+            
+              
+              
+                　 中国北车集团
+                　 
+长春高新技术产业开发区
+              
+                　 中国南车集团
+                　 
+              长春市人口和计划生育委员会
+              
+                　 中国民族民间文艺发展中心 
+                　 山东省总工会
+              
+                　 宣武区政府  
+                　 山东省植保总站
+              
+                　 北京市公安局消防局
+                　 
+              德州市地税局
+  
+    
+  
+    
+  
+                     
+  
+                                         
+      清华同方中小企业信息化事业部　　版权所有　2005 
+                                           
+      联系地址：北京市海淀区王庄路一号清华同方科技广场A座19层  
+      邮编：100083                                     
+      电话：010-82399208 
+      82399209                                     
+      电子邮箱： 
+      chenlei01@thtf.com.cn                                                
+      gaohaitao@thtf.com.cn                                     
+      网址： http://www.ccthtf.com.cn/
+

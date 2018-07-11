@@ -1,0 +1,32 @@
+Return-Path: <zhuang@tsinghua.edu.cn>
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id iAU7gOcV015953
+	for <wen@ccert.edu.cn>; Tue, 30 Nov 2004 15:42:24 +0800 (CST)
+Received: (eyou send program); Tue, 30 Nov 2004 15:27:18 +0800
+Message-ID: <301799638.04809@mail.tsinghua.edu.cn>
+Received: from unknown (HELO mail.tsinghua.edu.cn) (unknown@127.0.0.1)
+ by 127.0.0.1 with SMTP; Tue, 30 Nov 2004 15:27:18 +0800
+X-scanvirus: By Symantec Scan Engine
+X-scanresult: CLEAN
+Received: (eqmail ); 30 Nov 2004 07:27:17 -0000
+Received: from unknown (HELO sony) (duanhx@166.111.204.112)
+  by localhost with SMTP; 30 Nov 2004 07:27:17 -0000
+Message-ID: <015b01c4d6b0$1cc8db10$70cc6fa6@sony>
+From: "zhuang" <zhuang@tsinghua.edu.cn>
+To: wen@ccert.edu.cn
+Subject: =?gb2312?B?ofEgwfnSu73atb3By6Os0KG16tbV09rTrcC0wcu12tK7zru5y7/NwLKjrLeizsTH7Nejo6GjoQ==?=
+Date: Tue, 30 Nov 2004 15:42:14 +0800
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2900.2180
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+Content-Transfer-Encoding: 8bit
+X-MIME-Autoconverted: from base64 to 8bit by sea.net.edu.cn id iAU7gOcV015953
+X-UIDL: P'k"!U(:!!>/7"!=c-!!
+
+今天是六一节，我的小店也终于迎来了第一笔生意，自从半个月前开始在淘宝上开了一家名叫“田蜜蜜”的毛绒公仔店，虽然也卖了不少玩具，但是一分钱没挣到，全是同学买走的，不仅一分钱没挣，连邮费也是自己掏的，555，网上挂着的东东，一件也没有卖掉，（有拍下来又消失不见的买家），原以为，自己可能会赔死，结果昨天晚上一个DD一下子订了四件东东送女友，我颠颠的跑到朝阳门送货，一共96元，DD很高兴，非要给我100元，我很不好意思，又送了他一个公仔（批发还8元呢），呵呵，虽然只挣了十块钱，可是很高兴，而且觉得这十块钱好珍贵，嘻嘻。祝贺我吧，
+虽然开店很难，可是我觉得很快乐，因为又可以做自己喜欢的事了，祝大家六一节快乐！！！！
+

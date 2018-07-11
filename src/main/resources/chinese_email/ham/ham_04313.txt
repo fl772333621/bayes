@@ -1,0 +1,30 @@
+Return-Path: <zhan@rbl.ccert.edu.cn>
+Received: from rbl.ccert.edu.cn (rbl.ccert.edu.cn [202.112.57.71])
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id i946gwbP002617
+	for <gong@ccert.edu.cn>; Mon, 4 Oct 2004 14:42:58 +0800 (CST)
+Received: from rbl.ccert.edu.cn (localhost.localdomain [127.0.0.1])
+	by rbl.ccert.edu.cn (8.12.11/8.12.11) with ESMTP id i946mdQ4011040
+	for <gong@ccert.edu.cn>; Mon, 4 Oct 2004 14:48:40 +0800
+Received: (from qa@localhost)
+	by rbl.ccert.edu.cn (8.12.11/8.12.11/Submit) id i946md7R011039;
+	Mon, 4 Oct 2004 14:48:39 +0800
+Date: Mon, 4 Oct 2004 14:48:39 +0800
+Message-Id: <200410040648.i946md7R011039@rbl.ccert.edu.cn>
+Subject: =?gb2312?B?UmU6IM/uxL+3orD8o6xtc27U2s/ftcijoQ==?=
+To: gong@ccert.edu.cn
+From: Tran Quang Anh <zhan@cernet.edu.cn>
+Content-Type: multipart/mixed; boundary="----------=_1096872520-996-404"
+MIME-Version: 1.0
+X-UIDL: )]a!!9>b!!Pk<!!AnO"!
+
+其实还是团队比较麻烦。
+硬件设计倒不是很困难，比较麻烦的是软件问题。
+如果有咨询费用的话，可以提些参考意见。
+btw
+可能我是做硬件的，认为硬件容易点。软件就不好控制了。
+不过最重要的是，这个团队的事情比较麻烦的。不可能都做兼职的。
+: 看你发了好多次了，给点我的建议吧：
+: 你这个项目应该比较大，设计的方面很多：软件、硬件、算法，不是简单的几个人就可以做的。
+: 建议你去找相关大学或者中科院的一些实验室做，例如自动化所有一些图像识别的实验室等。
+: ...................
+

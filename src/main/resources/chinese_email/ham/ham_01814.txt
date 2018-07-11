@@ -1,0 +1,76 @@
+Return-Path: <jin@cernet.edu.cn>
+Received: from tsinghua.org.cn ([210.77.143.231])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id iBT7TnEW018242
+	for <qiu@ccert.edu.cn>; Wed, 29 Dec 2004 15:29:50 +0800
+Received: (eyou send program); Wed, 29 Dec 2004 15:23:24 +0800
+Received: (eyou send program); Wed, 29 Dec 2004 15:23:24 +0800
+X-EYOU-ORIGINAL-IP: 210.77.143.235
+X-EYOU-ENVELOPE-MAILFROM: dhx@cernet.edu.cn
+Received: from unknown (HELO eyou.net) (unknown@210.77.143.235)
+ by 210.77.143.231 with SMTP; Wed, 29 Dec 2004 15:23:24 +0800
+Received: (eyou send program); Wed, 29 Dec 2004 15:37:46 +0800
+Message-ID: <304305866.22193@eyou.net>
+Received: from 166.111.8.16 by 210.77.143.235 with SMTP; Wed, 29 Dec 2004 15:37:44 +0800
+Received: (eyou send program); Wed, 29 Dec 2004 15:38:27 +0800
+Message-ID: <304305907.26841@mails.tsinghua.edu.cn>
+Received: (eyou send program); Wed, 29 Dec 2004 15:38:27 +0800
+Message-ID: <304305906.54416@mails.tsinghua.edu.cn>
+Received: from unknown (HELO mails.tsinghua.edu.cn) (unknown@127.0.0.1)
+ by 127.0.0.1 with SMTP; Wed, 29 Dec 2004 15:38:27 +0800
+X-scanvirus: By Symantec Scan Engine
+X-scanresult: CLEAN
+X-Received: ccert.edu.cn,202.112.57.12,20041229153825
+Received: from ccert.edu.cn (HELO home.ccert.edu.cn) (202.112.57.12)
+  by localhost with SMTP; 29 Dec 2004 07:38:25 -0000
+Received: from home.ccert.edu.cn (localhost [127.0.0.1])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id iBT70sen015684;
+	Wed, 29 Dec 2004 15:00:54 +0800
+Received: (from majordomo@localhost)
+	by home.ccert.edu.cn (8.13.1/8.13.1/Submit) id iBT70sOW015683;
+	Wed, 29 Dec 2004 15:00:54 +0800
+X-Authentication-Warning: home.ccert.edu.cn: majordomo set sender to owner-ccert_forum using -f
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id iBT70mQx015667
+	for <qiu@ccert.edu.cn>; Wed, 29 Dec 2004 15:00:53 +0800
+Received: from sony (tu204113.tsinghua.edu.cn [166.111.204.113])
+	(authenticated bits=0)
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id iBT7F398020574
+	for <qiu@ccert.edu.cn>; Wed, 29 Dec 2004 15:15:03 +0800 (CST)
+Message-ID: <037901c4ed76$1c9c84c0$bbcc6fa6@sony>
+From: "jin" <jin@cernet.edu.cn>
+To: qiu@ccert.edu.cn
+Subject: =?gb2312?B?ofEgv7S1vdK7ts67sA==?=
+Date: Wed, 29 Dec 2004 15:15:01 +0800
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2800.1106
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1106
+Content-Transfer-Encoding: 8bit
+X-MIME-Autoconverted: from base64 to 8bit by home.ccert.edu.cn id iBT70sQx015679
+Sender: owner-ccert_forum@home.ccert.edu.cn
+Precedence: bulk
+X-UIDL: #-k"!1b-!!+7d"!]T@"!
+
+其实每个女孩，本来都是感情专一的好女人的；
+其实每个女孩，本来找男朋友都是靠感觉而不是看金钱的；
+其实每个女孩，本来都是不会那么容易和男人上床的，尤其第一次；
+其实每个女孩，本来都是渴望和自己的爱人相爱到永远的。
+只是，没有任何男孩来爱这样的女孩，他们觉得这样的女孩太幼稚，太傻气，玩玩而已，
+骗骗而已。
+于是女孩开始改变，变成不被男孩伤害的那种
+眼睛开始放出微微的电流
+放纵感情或者游戏人间
+开始学会对自己不爱的男人撒娇，其实心里甚至不愿意靠近这个人
+开始学会假装顺从，学会妩媚来讨好他
+学会如何现实，如何留住爱情。
+或者看破红尘，玩弄感情，成为男人憎恨的那种女人，要他们永远只能看到却得不到她
+她们可以很容易接受男人
+但是她们却在无人的时候望着镜子里化好妆的她流着泪，心里想着她爱的那个人
+心里有爱的时候，被男孩伤透了心
+身边有一堆男孩时，却再也不敢去爱，不敢，是不敢那
+再听到男人抱怨好女孩越来越少，处女越来越少的时候
+她们不会再努力去做个好女孩，只是微笑着，忍着眼泪，心里痛着，鄙视而过。
+

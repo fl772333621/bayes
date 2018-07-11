@@ -1,0 +1,68 @@
+Return-Path: <chen@cernet.edu.cn>
+Received: from tsinghua.org.cn ([210.77.143.231])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id iB18SwtB021619
+	for <guo@ccert.edu.cn>; Wed, 1 Dec 2004 16:28:59 +0800
+Received: (eyou send program); Wed, 01 Dec 2004 16:22:04 +0800
+Received: (eyou send program); Wed, 01 Dec 2004 16:22:04 +0800
+X-EYOU-ORIGINAL-IP: 210.77.143.235
+X-EYOU-ENVELOPE-MAILFROM: sundh@cernet.edu.cn
+Received: from unknown (HELO eyou.net) (unknown@210.77.143.235)
+ by 210.77.143.231 with SMTP; Wed, 01 Dec 2004 16:22:04 +0800
+Received: (eyou send program); Wed, 01 Dec 2004 16:37:11 +0800
+Message-ID: <301890231.16479@eyou.net>
+Received: from 166.111.8.16 by 210.77.143.235 with SMTP; Wed, 01 Dec 2004 16:36:29 +0800
+Received: (eyou send program); Wed, 01 Dec 2004 16:36:03 +0800
+Message-ID: <301890162.11745@mails.tsinghua.edu.cn>
+Received: (eyou send program); Wed, 01 Dec 2004 16:36:02 +0800
+Message-ID: <301890160.04070@mails.tsinghua.edu.cn>
+Received: from unknown (HELO mails.tsinghua.edu.cn) (unknown@127.0.0.1)
+ by 127.0.0.1 with SMTP; Wed, 01 Dec 2004 16:36:02 +0800
+X-scanvirus: By Symantec Scan Engine
+X-scanresult: NOREP
+Received: (eqmail ); 1 Dec 2004 08:35:50 -0000
+Received: from ccert.edu.cn (HELO home.ccert.edu.cn) (202.112.57.12)
+  by mails.tsinghua.edu.cn with SMTP; 1 Dec 2004 08:35:50 -0000
+Received: from home.ccert.edu.cn (localhost [127.0.0.1])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id iB18RHQk021573;
+	Wed, 1 Dec 2004 16:27:17 +0800
+Received: (from majordomo@localhost)
+	by home.ccert.edu.cn (8.13.1/8.13.1/Submit) id iB18RHlO021572;
+	Wed, 1 Dec 2004 16:27:17 +0800
+X-Authentication-Warning: home.ccert.edu.cn: majordomo set sender to owner-ccertstaff using -f
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id iB18Pqrl021547;
+	Wed, 1 Dec 2004 16:25:52 +0800
+Received: from WHITESNOW ([220.207.88.17])
+	(authenticated bits=0)
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id iB18ch8t010293;
+	Wed, 1 Dec 2004 16:38:49 +0800 (CST)
+Message-ID: <007a01c4d781$2f3d5c40$df54cfdc@WHITESNOW>
+From: "chen" <chen@cernet.edu.cn>
+To: guo@ccert.edu.cn
+Cc: <shen@ccert.edu.cn>
+References: <002101c4d77c$91024c60$15cb6fa6@ccertspark>
+Subject: =?gb2312?B?UmU6IM7Sus2hsLihxL6hsbXEucrKwg==?=
+Date: Wed, 1 Dec 2004 16:38:41 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0077_01C4D7C4.376BA5A0"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2900.2180
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+Sender: owner-ccertstaff@home.ccert.edu.cn
+Precedence: bulk
+X-UIDL: kDX!!$2m"!+(G!!HBF"!
+
+浮木本无根
+因此不是可以依靠可以信赖的东西
+mm啊
+祝你早日能够回到岸边
+踏上坚实的土地
+开心的跑着跳着
+那样你的脚步才会去寻找那实实在在的依靠
+: 对爱情的追寻，就像是在茫茫大海中找寻一条适合自己的船，搭载自己一生一世
+: 我曾经拥有一条船，是我拥有的第一条船，却不适合我，当我想下船的时候，船主苦苦的哀求，我一次又一次的忽略了过程中的颠簸和不适，留了下来。直到有一天，船主遇到了或许更合适这条船的人，于是毫不留情的让我离开了。离开前，我陈述了所有的利害关系，给了他最后一个
+: 于是我一个人在大海上漂流，茫茫然等待适合我的那条船的出现。漂泊的日子，我坚强勇敢却也孤单，生活依旧，笑容依旧，唯独内心多了一片大大的空白
+: ...................
+

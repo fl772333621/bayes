@@ -1,0 +1,56 @@
+Return-Path: <gu@mails.tsinghua.edu.cn>
+Received: from tsinghua.org.cn ([210.77.143.232])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with SMTP id j3P361SF017241
+	for <wang@ccert.edu.cn>; Mon, 25 Apr 2005 11:06:12 +0800
+Received: (eyou send program); Mon, 25 Apr 2005 11:22:24 +0800
+Message-ID: <314399344.22259@tsinghua.org.cn>
+X-EYOU-AUTOFORWARD: tsinghua.org.cn
+Received: (eyou send program); Mon, 25 Apr 2005 11:22:24 +0800
+Message-ID: <314399344.20090@tsinghua.org.cn>
+Received: from unknown (HELO eyou.net) (210.77.143.235)
+ by 210.77.143.232 with SMTP; Mon, 25 Apr 2005 11:22:24 +0800
+X-EYOU-SPAMVALUE: 0
+Received: (eyou anti_spam gateway 3.0); Mon, 25 Apr 2005 11:11:57 +0800
+Message-ID: <314398717.03087@eyou.net>
+Received: from 202.112.49.111 by 210.77.143.235 with SMTP; Mon, 25 Apr 2005 11:11:56 +0800
+Received: from Garfield. (localhost [IPv6:::1])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with ESMTP id j3P3IWbF089855
+	for <wang@ccert.edu.cn>; Mon, 25 Apr 2005 11:18:41 +0800 (CST)
+	(envelope-from toefl-bounces@gradinfo.net.edu.cn)
+Received: from [202.112.49.111] (Garfield [202.112.49.111])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with ESMTP id j3P3ITj5089851
+	for <wang@ccert.edu.cn>; Mon, 25 Apr 2005 11:18:30 +0800 (CST)
+	(envelope-from lguohan00@mails.tsinghua.edu.cn)
+Message-ID: <426C634D.5060106@mails.tsinghua.edu.cn>
+Date: Mon, 25 Apr 2005 11:26:05 +0800
+From: Guohan Lu <gu@mails.tsinghua.edu.cn>
+Organization: Tsinghua University
+User-Agent: Mozilla Thunderbird 1.0 (Windows/20041206)
+X-Accept-Language: en-us, en
+MIME-Version: 1.0
+To: wang@ccert.edu.cn
+Content-Type: multipart/mixed; boundary="----------=_1114398373-9980-318"
+Subject: =?gb2312?B?UmU6INKyy7XKssO0yrG68tKqsaaxpg==?=
+X-BeenThere: toefl@gradinfo.net.edu.cn
+X-Mailman-Version: 2.1.5
+Precedence: list
+Reply-To: gu@mails.tsinghua.edu.cn
+List-Id: "&#26446; &#26143; &#21644; &#20182; &#30340; &#23398; &#29983;
+	&#20204; " <toefl.gradinfo.net.edu.cn>
+List-Unsubscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=unsubscribe>
+List-Archive: <http://gradinfo.net.edu.cn/mailman/private/toefl>
+List-Post: <mailto:toefl@gradinfo.net.edu.cn>
+List-Help: <mailto:toefl-request@gradinfo.net.edu.cn?subject=help>
+List-Subscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=subscribe>
+Sender: toefl-bounces@gradinfo.net.edu.cn
+Errors-To: toefl-bounces@gradinfo.net.edu.cn
+X-UIDL: IGd"!kY#"!ME!#!Gbn"!
+
+换尿布洗尿布，做饭，家里也要收拾，
+你奶奶一个人多辛苦啊，要是两三个人一起，不就能轻松很多 :)
+你喂奶抱孩子，妈妈过来帮忙，还是再找个保姆打下手比较轻松，不然老人家身体吃不消
+: 我小的时候，我妈妈也上班的，我爸爸在部队，我奶奶基本上算一个人带我了。
+: 但现在的孩子，4、5个人都转不过来，我追问他们都忙些什么，说来说去也就说出换尿布，喂奶之类。喂奶基本上是妈妈的责任，这没得说，我想我能胜任，可是这换尿布，我就纳闷，会是那么大的事情吗？
+

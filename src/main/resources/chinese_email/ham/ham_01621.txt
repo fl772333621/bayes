@@ -1,0 +1,39 @@
+Return-Path: <yana@tsinghua.edu.cn>
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id i9PEp4s6015972
+	for <mo@ccert.edu.cn>; Mon, 25 Oct 2004 22:51:04 +0800 (CST)
+Received: (eyou send program); Mon, 25 Oct 2004 22:36:29 +0800
+Message-ID: <298714989.06408@mail.tsinghua.edu.cn>
+Received: from unknown (HELO mail.tsinghua.edu.cn) (unknown@127.0.0.1)
+ by 127.0.0.1 with SMTP; Mon, 25 Oct 2004 22:36:29 +0800
+X-scanvirus: By Symantec Scan Engine
+X-scanresult: CLEAN
+Received: (eqmail ); 25 Oct 2004 14:36:26 -0000
+Received: from unknown (HELO sony) (duanhx@166.111.232.146)
+  by localhost with SMTP; 25 Oct 2004 14:36:26 -0000
+Message-ID: <005301c4baa2$082bc110$063270ca@sony>
+From: "yana" <yana@tsinghua.edu.cn>
+To: mo@ccert.edu.cn
+References: <296440622.22437@mail.tsinghua.edu.cn> <298702987.09967@mail.tsinghua.edu.cn>
+Subject: =?gb2312?B?UmU6IL3xzOzIpbL6vOyjrMzl1tjDu9T2t7S2+L21wcs=?=
+Date: Mon, 25 Oct 2004 22:50:54 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0050_01C4BAE5.15719960"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2900.2180
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+X-UIDL: lMD!!^:f!!'p6!!,;l"!
+
+ 我这个人就是闲不住，不想看书在家只能劳动劳动，累的又干不了
+ 所以就只能做饭，每次晚上自己在家都做不少，等我回了学校老公
+ 都不用做了。。。。，就这点活动还觉得比较开心
+ 但是到了学校一到晚上就觉得时间好漫长啊，看着时间，就等着到了点就回去睡觉
+ 我如果早早躺在床上不睡觉，比如8点多就躺下但是不睡觉，等躺到11点就觉得全身
+ 热热的很不舒服。。。
+ 看来需要挖掘一些自己特别喜欢看的书了，其实需要看的学习的书很多，只是没有心情看了
+: 不看电视也不看电脑好象就只能看看书什么的...
+: 我觉得没有必要啊...
+: 最好是让自己觉得过得比较舒服，要不天天郁闷对孩子也不好啊
+

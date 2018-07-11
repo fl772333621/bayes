@@ -1,0 +1,62 @@
+Return-Path: <cao@ccert.edu.cn>
+Received: from tsinghua.org.cn ([210.77.143.228])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id i9L7u2sB014816
+	for <ling@ccert.edu.cn>; Thu, 21 Oct 2004 15:56:04 +0800
+Received: (eyou send program); Thu, 21 Oct 2004 16:07:11 +0800
+Received: (eyou send program); Thu, 21 Oct 2004 16:07:10 +0800
+X-EYOU-ORIGINAL-IP: 166.111.8.16
+X-EYOU-ENVELOPE-MAILFROM: zhenghui@ccert.edu.cn
+Received: from unknown (HELO mails.tsinghua.edu.cn) (unknown@166.111.8.16)
+ by 210.77.143.228 with SMTP; Thu, 21 Oct 2004 16:07:10 +0800
+Received: (eyou send program); Thu, 21 Oct 2004 16:01:01 +0800
+Message-ID: <298345661.11204@mails.tsinghua.edu.cn>
+Received: (eyou send program); Thu, 21 Oct 2004 16:01:01 +0800
+Message-ID: <298345661.22326@mails.tsinghua.edu.cn>
+Received: from unknown (HELO mails.tsinghua.edu.cn) (unknown@127.0.0.1)
+ by 127.0.0.1 with SMTP; Thu, 21 Oct 2004 16:01:01 +0800
+X-scanvirus: By Symantec Scan Engine
+X-scanresult: CLEAN
+Received: (eqmail ); 21 Oct 2004 08:00:53 -0000
+Received: from ccert.edu.cn (HELO home.ccert.edu.cn) (202.112.57.12)
+  by mails.tsinghua.edu.cn with SMTP; 21 Oct 2004 08:00:53 -0000
+Received: from home.ccert.edu.cn (localhost [127.0.0.1])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id i9L7r6OI014755;
+	Thu, 21 Oct 2004 15:53:06 +0800
+Received: (from majordomo@localhost)
+	by home.ccert.edu.cn (8.13.1/8.13.1/Submit) id i9L7r6XH014754;
+	Thu, 21 Oct 2004 15:53:06 +0800
+X-Authentication-Warning: home.ccert.edu.cn: majordomo set sender to owner-ccertstaff using -f
+Received: from ccertspark (puma.ccert.edu.cn [202.112.50.50])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id i9L7r3pT014750
+	for <ling@ccert.edu.cn>; Thu, 21 Oct 2004 15:53:04 +0800
+Reply-To: <cao@ccert.edu.cn>
+From: "cao" <cao@ccert.edu.cn>
+To: ling@ccert.edu.cn
+Subject: =?gb2312?B?ofEgvfHN7bXE1OLT9g==?=
+Date: Thu, 21 Oct 2004 15:57:53 +0800
+Organization: CCERT
+Message-ID: <000001c4b743$ac855e90$323270ca@ccertspark>
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+X-Priority: 3 (Normal)
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook, Build 10.0.6626
+Importance: Normal
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+Content-Transfer-Encoding: 8bit
+X-MIME-Autoconverted: from base64 to 8bit by home.ccert.edu.cn id i9L7r6pT014752
+Sender: owner-ccertstaff@home.ccert.edu.cn
+Precedence: bulk
+X-UIDL: E0h"!6!M!!#Nf!!M,~"!
+
+下午没有吃饭，晚上家教时还喝了好多茶水，结果一路骑车回来，饿得晕晕乎乎。
+翻开书包，翻开钱包，摸出唯一的硬币，发现只有1元4角5分钱，喜滋滋地准备去买个烧饼来吃。
+原卖烧饼的地方却突然不见了，我唯一的希望泡灭。左看看，又瞅瞅，确实没了。
+猛地想起了饭卡还带在身边，庆幸终于英明了一次。骑车飞奔回学校，十四食堂里面亮着灯，一阵惊喜，走进去发现只有食堂师傅在打扫地板。又一次失望。
+给朋友发短信询问校内食堂哪里可以吃夜宵，无回复。
+站在食堂门口，强烈郁闷中。。。饿得有点发颤。。。
+大脑开始快速搜寻，终于想起陶园背后那个小院子，多少个清凉夜晚我们曾抱着西瓜在那里谈天，宿舍mm曾经用过自己的卡买了一碟轻轻的毛豆。
+这里已经什么都没了，米饭剩了盆地，冷冷地堆积在那儿，菜没了，只是几块绝望的大概没人光顾的肉，我要了一份面条，很快出来了，居然是老早出来的，面条真的面面的，但这都不算什么了，我竟然不费吹灰之力三下五除二吃了个干净。
+跑回宿舍的时候很累很累，吃的太快了，此刻只有喘气的份。
+

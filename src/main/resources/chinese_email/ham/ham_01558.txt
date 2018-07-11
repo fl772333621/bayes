@@ -1,0 +1,64 @@
+Return-Path: <liu@compass.net.edu.cn>
+Received: from tsinghua.org.cn ([210.77.143.232])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with SMTP id j3L8Y6cr007340
+	for <tao@ccert.edu.cn>; Thu, 21 Apr 2005 16:34:17 +0800
+Received: (eyou send program); Thu, 21 Apr 2005 16:50:06 +0800
+Message-ID: <314073406.01231@tsinghua.org.cn>
+X-EYOU-AUTOFORWARD: tsinghua.org.cn
+Received: (eyou send program); Thu, 21 Apr 2005 16:50:06 +0800
+Message-ID: <314073406.32744@tsinghua.org.cn>
+Received: from unknown (HELO eyou.net) (210.77.143.235)
+ by 210.77.143.232 with SMTP; Thu, 21 Apr 2005 16:50:06 +0800
+X-EYOU-SPAMVALUE: 0
+Received: (eyou anti_spam gateway 3.0); Thu, 21 Apr 2005 16:39:43 +0800
+Message-ID: <314072783.27512@eyou.net>
+Received: from 202.112.49.111 by 210.77.143.235 with SMTP; Thu, 21 Apr 2005 16:39:42 +0800
+Received: from Garfield. (localhost [IPv6:::1])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with ESMTP id j3L8jcsr059608
+	for <tao@ccert.edu.cn>; Thu, 21 Apr 2005 16:46:34 +0800 (CST)
+	(envelope-from toefl-bounces@gradinfo.net.edu.cn)
+Received: from compass.net.edu.cn (compass.net.edu.cn [202.38.188.130])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with ESMTP id j3L8jaHF059604
+	for <tao@ccert.edu.cn>; Thu, 21 Apr 2005 16:45:36 +0800 (CST)
+	(envelope-from jiaming@compass.net.edu.cn)
+Received: from tu203080.ip.tsinghua.edu.cn ([166.111.203.80] helo=jm-work)
+	by compass.net.edu.cn with asmtp (Exim 3.36 #1 (Debian))
+	id 1DOXNh-00047I-00
+	for <tao@ccert.edu.cn>; Thu, 21 Apr 2005 16:49:53 +0800
+Date: Thu, 21 Apr 2005 16:48:54 +0800
+From: "liu" <liu@compass.net.edu.cn>
+To: tao@ccert.edu.cn
+X-mailer: Foxmail 5.0 [cn]
+Mime-Version: 1.0
+Content-Type: multipart/mixed; boundary="----------=_1114072459-987-156"
+Message-Id: <E1DOXNh-00047I-00@compass.net.edu.cn>
+X-MIME-Autoconverted: from base64 to 8bit by gradinfo.net.edu.cn id
+	j3L8jaHF059604
+Cc: 
+Subject: =?gb2312?B?UmU6IM6oxa7Iy9Pr0KHIy8TR0fg=?=
+X-BeenThere: toefl@gradinfo.net.edu.cn
+X-Mailman-Version: 2.1.5
+Precedence: list
+List-Id: "&#26446; &#26143; &#21644; &#20182; &#30340; &#23398; &#29983;
+	&#20204; " <toefl.gradinfo.net.edu.cn>
+List-Unsubscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=unsubscribe>
+List-Archive: <http://gradinfo.net.edu.cn/mailman/private/toefl>
+List-Post: <mailto:toefl@gradinfo.net.edu.cn>
+List-Help: <mailto:toefl-request@gradinfo.net.edu.cn?subject=help>
+List-Subscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=subscribe>
+Sender: toefl-bounces@gradinfo.net.edu.cn
+Errors-To: toefl-bounces@gradinfo.net.edu.cn
+X-UIDL: 1:8"!nF3"!9NG"!JK]!!
+
+断章取义
+子曰：......,近之则不逊，远之则怨
+孔子抱怨的是和这种人（小人、女子）相处，你跟ta太亲近、太密切呢，ta就会搞出
+种种事情烦你、糟践你，对你不敬，令你rp下降，焦头烂额；你跟ta疏远一些呢，ta又抱怨你不关心、不照顾ta,然后就要搞哭诉、自虐，甚至搞劈腿、找垫背...反正让你左右不爽。
+而你说的这个毛病呢，属于自私男女都会有的通病，不是女性独有的...嘿嘿
+: 因为他们有一点共同之处,从来不懂得自己应该对对方负有责任.
+: 太多的女人做事只是靠感觉,跟别人处不来了,分手后又抱怨别人怎么怎么对不起自己.
+: 可她们从来没有想过,感情是需要两个人共同维系和经营的.
+: ...................
+

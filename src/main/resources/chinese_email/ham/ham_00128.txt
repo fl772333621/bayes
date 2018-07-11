@@ -1,0 +1,41 @@
+Return-Path: <wei@home.ccert.edu.cn>
+Received: from home.ccert.edu.cn (localhost [127.0.0.1])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id j0B2evp8023586;
+	Tue, 11 Jan 2005 10:41:02 +0800
+Received: (from majordomo@localhost)
+	by home.ccert.edu.cn (8.13.1/8.13.1/Submit) id j0B2evvl023585;
+	Tue, 11 Jan 2005 10:40:57 +0800
+X-Authentication-Warning: home.ccert.edu.cn: majordomo set sender to owner-ccertstaff using -f
+Received: from ccertspark (tu203021.ip.tsinghua.edu.cn [166.111.203.21])
+	(authenticated bits=0)
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id j0B2edQg023531
+	for <zhu@ccert.edu.cn>; Tue, 11 Jan 2005 10:40:47 +0800
+Reply-To: <wei@cernet.edu.cn>
+From: "wei" <wei@ccert.edu.cn>
+To: zhu@ccert.edu.cn
+Subject: =?gb2312?B?UmU6IMWuyMu1xNaws6HJ+tHEvr++ubbgs6Q=?=
+Date: Tue, 11 Jan 2005 10:50:51 +0800
+Message-ID: <000e01c4f788$69515f90$15cb6fa6@ccertspark>
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+X-Priority: 3 (Normal)
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook, Build 10.0.6626
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.3790.181
+Importance: Normal
+Content-Transfer-Encoding: 8bit
+X-MIME-Autoconverted: from quoted-printable to 8bit by home.ccert.edu.cn id j0B2elQg023569
+Sender: owner-ccertstaff@home.ccert.edu.cn
+Precedence: bulk
+X-UIDL: mk*!!Tal"!kc"#!;iU!!
+
+世事难料。
+作技术自然有作技术的烦劳，贸然转行也不一定会有更好的回报。
+我觉得还是一个小马过河的道理，不管作什么都有很成功的人，同时也会有更多不那么成功的人，只不过我们在进行选择的时候总认为自己会成为成功的那一小部分。
+所以还是找个自己喜欢的，以后的事情以后再说。
+: hehei,要是我有黄金1w,我就不需要一技了
+: 这些银子找一个私幕就能帮我打理了. 多财善贾,长袖善舞啊
+: 你做技术才会面临年级大了做什么的困惑.不是所有的人都能按照那些说得好听的技
+: ...................
+

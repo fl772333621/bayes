@@ -1,0 +1,26 @@
+Return-Path: <ling@rbl.ccert.edu.cn>
+Received: from rbl.ccert.edu.cn (rbl.ccert.edu.cn [202.112.57.71])
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id i97BTUqK019220
+	for <lv@ccert.edu.cn>; Thu, 7 Oct 2004 19:29:30 +0800 (CST)
+Received: from rbl.ccert.edu.cn (localhost.localdomain [127.0.0.1])
+	by rbl.ccert.edu.cn (8.12.11/8.12.11) with ESMTP id i97BZT0r026644
+	for <lv@ccert.edu.cn>; Thu, 7 Oct 2004 19:35:29 +0800
+Received: (from qa@localhost)
+	by rbl.ccert.edu.cn (8.12.11/8.12.11/Submit) id i97BZTuE026643;
+	Thu, 7 Oct 2004 19:35:29 +0800
+Date: Thu, 7 Oct 2004 19:35:29 +0800
+Message-Id: <200410071135.i97BZTuE026643@rbl.ccert.edu.cn>
+Subject: =?gb2312?B?UmU6ILDR19S8us+yu7a1xMWuuqLX073pydy4+MHLxfPT0aOho6E=?=
+To: lv@ccert.edu.cn
+From: Tran Quang Anh <ling@cernet.edu.cn>
+Content-Type: multipart/mixed; boundary="----------=_1097148929-996-902"
+MIME-Version: 1.0
+X-UIDL: UfO"!&47!!34$"!:!f"!
+
+读完你的故事，就是难过，说不清为什么。
+和你的性格有关吧。
+: 话不能这么说。他的遭遇和我很相似
+: 我11年前认识一个mm，很喜欢，这11年我们基本上天天在一起，我对她很好她也知道，不过只是亲密的朋友关系没有什么过分的举动，我经常去她家里玩,她爸爸做饭很好吃,我很喜欢,她也经常来我家玩.后来我上了thu她上了bit。有一天她来thu找我玩，晚上我送她回去的时候，我们�
+: 我当时鼻子一酸,眼泪都快流出来了,什么都没说,默默地陪她走完了最后的200米送她上了运通105.希望她没有看到我当时失态的样子.2年前她有了自己的男友,一个成熟,高大,阳光有思想前途一片光明的boy,他们性格很合得来,祝福他们.不过我和她之间的感情还是像原来一样亲密无间.
+: ...................
+

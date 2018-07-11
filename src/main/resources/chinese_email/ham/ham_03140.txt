@@ -1,0 +1,34 @@
+Return-Path: <ye@home.ccert.edu.cn>
+Received: from home.ccert.edu.cn (localhost [127.0.0.1])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id iB16UWbt019588;
+	Wed, 1 Dec 2004 14:30:32 +0800
+Received: (from majordomo@localhost)
+	by home.ccert.edu.cn (8.13.1/8.13.1/Submit) id iB16UW8I019587;
+	Wed, 1 Dec 2004 14:30:32 +0800
+X-Authentication-Warning: home.ccert.edu.cn: majordomo set sender to owner-ccertstaff using -f
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id iB16UVUd019583
+	for <gong@ccert.edu.cn>; Wed, 1 Dec 2004 14:30:31 +0800
+Received: from GirlOfGod (tu203027.tsinghua.edu.cn [166.111.203.27])
+	(authenticated bits=0)
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id iB16hauK007966
+	for <gong@ccert.edu.cn>; Wed, 1 Dec 2004 14:43:37 +0800 (CST)
+Message-Id: <200412010643.iB16hauK007966@sea.net.edu.cn>
+Date: Wed, 1 Dec 2004 14:47:57 +0800
+From: "ye" <ye@cernet.edu.cn>
+To: gong@ccert.edu.cn
+Subject: =?gb2312?B?UmU6ILn6w7Ojv1JlOiDV4tH5sMkgUmU6IMfrtPO80su1y7W/tLeoLg==?=
+X-mailer: Foxmail 5.0 [cn]
+Mime-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: 8bit
+X-MIME-Autoconverted: from base64 to 8bit by home.ccert.edu.cn id iB16UVUd019585
+Sender: owner-ccertstaff@home.ccert.edu.cn
+Precedence: bulk
+X-UIDL: j(e"!CHV!!P"k!!NPf!!
+
+她经常走秀,虽然168不算高,不过她身材比例真的让我们寝室的女孩羡慕得要死,本来只有172以上的女孩才能走秀,她因为身材比例好,腿部完美,所以去走秀.在我们这的国贸.不是北京国贸.前几天法文箱子的牛仔裤在国贸有一场秀,我同学走的是第三个位置,我们在台下看,真的很羡慕她,太完美了.那牛仔裤是好俏系列,她走秀时把设计师在牛仔裤上要表达的意味表达得淋漓尽致.
+: ...不是说那个男生在北京么？
+: 你朋友又是在哪个国贸走秀？
+

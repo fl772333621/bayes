@@ -1,0 +1,25 @@
+Return-Path: <jiang@rbl.ccert.edu.cn>
+Received: from rbl.ccert.edu.cn (rbl.ccert.edu.cn [202.112.57.71])
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id i96ERvbJ005413
+	for <wang@ccert.edu.cn>; Wed, 6 Oct 2004 22:27:57 +0800 (CST)
+Received: from rbl.ccert.edu.cn (localhost.localdomain [127.0.0.1])
+	by rbl.ccert.edu.cn (8.12.11/8.12.11) with ESMTP id i96EXsIH015372
+	for <wang@ccert.edu.cn>; Wed, 6 Oct 2004 22:33:54 +0800
+Received: (from qa@localhost)
+	by rbl.ccert.edu.cn (8.12.11/8.12.11/Submit) id i96EXsi9015371;
+	Wed, 6 Oct 2004 22:33:54 +0800
+Date: Wed, 6 Oct 2004 22:33:54 +0800
+Message-Id: <200410061433.i96EXsi9015371@rbl.ccert.edu.cn>
+Subject: =?gb2312?B?UmU6ILn9wLTIy8frsO/Dpr+0v7Q=?=
+To: wang@ccert.edu.cn
+From: Tran Quang Anh <jiang@cernet.edu.cn>
+Content-Type: multipart/mixed; boundary="----------=_1097073234-996-676"
+MIME-Version: 1.0
+X-UIDL: !Nc!!'b>"!&<-!!UPU"!
+
+没什么大不了吧，打个电话聊聊天
+: 是我做的不对还是不要想太多？很想知道作为mm这时候应该做什么？3X~~~~~~
+: gg上周六发信告诉我说他接下来的一周要出外工作，他刚开始创业事情上有点障碍，我一直给他打气这也是他最需要的，不过我周六关机睡觉时才发觉忘了回信（我这段时间牙痛不舒服加上忙着赶论文心情不怎样，但不想让他知道），周日想着论文的事烦闷惰性想着迟一天回信也可以
+: 我想他周日没看到我回信也不高兴吧，原本是想周末临出发前抓紧时间和我写信聊聊的，没想到却没看到信。他也习惯了我的当日回信（上次因为误会我没按时回信他也说有些纳闷不高兴），我担心他以为我知道他现在创业上的障碍不紧张他了所以没及时回信，其实我一直都很紧张他
+: ...................
+

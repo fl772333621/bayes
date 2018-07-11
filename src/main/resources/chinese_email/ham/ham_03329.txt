@@ -1,0 +1,68 @@
+Return-Path: <yun@ns.6test.edu.cn>
+Received: from tsinghua.org.cn ([210.77.143.228])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id iAS9Ut98004096
+	for <tian@ccert.edu.cn>; Sun, 28 Nov 2004 17:30:57 +0800
+Received: (eyou send program); Sat, 27 Nov 2004 09:50:24 +0800
+Received: (eyou send program); Sat, 27 Nov 2004 09:50:24 +0800
+X-EYOU-ORIGINAL-IP: 210.77.143.235
+X-EYOU-ENVELOPE-MAILFROM: toefl-bounces@server.cool-meeting.com
+Received: from unknown (HELO eyou.net) (unknown@210.77.143.235)
+ by 210.77.143.228 with SMTP; Sat, 27 Nov 2004 09:50:24 +0800
+Received: (eyou send program); Sat, 27 Nov 2004 09:45:44 +0800
+Message-ID: <301519944.00896@eyou.net>
+Received: from 202.38.99.65 by 210.77.143.235 with SMTP; Sat, 27 Nov 2004 09:45:42 +0800
+Received: from server.cool-meeting.com (localhost.localdomain [127.0.0.1])
+	by server.cool-meeting.com (8.12.8/8.12.8) with ESMTP id iAR25elZ031326
+	for <tian@ccert.edu.cn>; Sat, 27 Nov 2004 10:05:50 +0800
+Received: from ns.6test.edu.cn ([202.38.99.18])
+	by server.cool-meeting.com (8.12.8/8.12.8) with ESMTP id iAR25Xkr031322
+	for <tian@ccert.edu.cn>; Sat, 27 Nov 2004 10:05:33 +0800
+Received: from [202.112.3.118] (helo=IBM-E4AA49AF703)
+	by ns.6test.edu.cn with asmtp (Exim 4.12) id 1CXs4F-000CHk-00
+	for Toefl@server.cool-meeting.com; Sat, 27 Nov 2004 10:12:07 +0800
+From: "yun" <yun@ns.6test.edu.cn>
+To: tian@ccert.edu.cn
+X-mailer: Foxmail 4.2 [cn]
+Mime-Version: 1.0
+Content-Type: text/plain;
+      charset="GB2312"
+Content-Transfer-Encoding: 7bit
+Date: Sat, 27 Nov 2004 9:50:1 +0800
+Message-Id: <E1CXs4F-000CHk-00@ns.6test.edu.cn>
+Cc: 
+Subject: =?gb2312?B?UmU6IL3hu+m1xNbuzrvU9cO0v7TV4r7ku7CjusTQyMu1xLvR0dS/ycatxa7Iy7XE0rvSuQ==?=
+X-BeenThere: toefl@server.cool-meeting.com
+X-Mailman-Version: 2.1.2
+Precedence: list
+List-Id: &#26446;&#26143;&#21644;&#20182;&#30340;&#23398;&#29983;&#20204;
+	<toefl.server.cool-meeting.com>
+List-Unsubscribe: <http://server.cool-meeting.com/mailman/listinfo/toefl>,
+	<mailto:toefl-request@server.cool-meeting.com?subject=unsubscribe>
+List-Archive: <http://server.cool-meeting.com/mailman/private/toefl>
+List-Post: <mailto:toefl@server.cool-meeting.com>
+List-Help: <mailto:toefl-request@server.cool-meeting.com?subject=help>
+List-Subscribe: <http://server.cool-meeting.com/mailman/listinfo/toefl>,
+	<mailto:toefl-request@server.cool-meeting.com?subject=subscribe>
+Sender: toefl-bounces@server.cool-meeting.com
+Errors-To: toefl-bounces@server.cool-meeting.com
+X-UIDL: P7g"!jYP!!,O""!N0o"!
+
+这话说得倒是
+: 标  题: Re: 结婚的诸位怎么看这句话：男人的谎言可骗女人的一夜
+: 发信站: 水木社区 (Tue Jun 14 23:34:22 2005), 站内
+: 
+: 无所谓了，只要成功欺骗一生，别半途而废就好。
+: 
+: : 女人的谎言可以欺骗男人的一生，想知道大家怎么看呢？
+: 
+: 
+: --
+:                               ★    ★
+:           ★             ★
+:                     ★
+:           ★
+:                 ★
+: 
+: 
+: ※ 来源:·水木社区 newsmth.net·[FROM: 202.207.177.*]
+

@@ -1,0 +1,28 @@
+Return-Path: <yuan@ee.tsinghua.edu.cn>
+Received: from Unixmail5.21 (mail.ee.tsinghua.edu.cn [166.111.64.188])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j066RtIS015046
+	for <cai@ccert.edu.cn>; Thu, 6 Jan 2005 14:27:55 +0800 (CST)
+Received: (qmail 7905 invoked by alias); 6 Jan 2005 06:23:26 -0000
+Received: from unknown (HELO tsinghuad60c2e) (166.111.64.226)
+  by mail.ee.tsinghua.edu.cn with SMTP; 6 Jan 2005 14:23:26 +0800
+Message-ID: <001101c4f3b8$f9bcd290$e2406fa6@tsinghuad60c2e>
+From: "yuan" <yuan@ee.tsinghua.edu.cn>
+To: cai@ccert.edu.cn
+Subject: =?gb2312?B?ofEg0rbX07XEwOu/qsrH0vLOqsr3tcSyu83swfQsu7nKx9Lyzqq357XE17fW8D8=?=
+Date: Thu, 6 Jan 2005 14:28:44 +0800
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="----=_NextPart_000_000D_01C4F3FC.06B15690"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2800.1437
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1441
+X-Mozilla-Status2: 00000000
+
+   叶子的离开是因为树的不挽留,还是因为风的追逐?
+   一个男孩树爱着一个女孩叶子.深爱着却始终伤害着她,故意搂着另一个女孩走过她的桌前.树知道他伤害了她,但是却否认自己的动心.树痛苦的看着叶子噙着眼泪安静的走开.
+   风带着歌声走进了叶子的生活,他执着的追求着叶子.叶子固执的拒绝着他.因为她爱树.知道有一天叶子和那个被树搂过得女孩发生了争执.树跑了过来,他知道叶子不是爱挑事的人,但是却维护了那个女孩.叶子落寞的哭着跑开了.树后悔了,一个月没上课,他恨自己为什么伤害叶子.他决定向叶子表白.
+   那天晚上,风进行了他的第25次表白.叶子没有说话,沉默了!风追问你在干吗?叶子说:我在点头啊!风欢喜雀跃.
+   第二天,当树站在叶子的桌前时,叶子给了他一张卡片.树打开卡片,上面写着:
+叶子的离开是因为树的不挽留,还是因为风的追逐?
+

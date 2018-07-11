@@ -1,0 +1,40 @@
+Return-Path: <qian@tsinghua.edu.cn>
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with SMTP id i9S1aCPt007420
+	for <lin@ccert.edu.cn>; Thu, 28 Oct 2004 09:36:12 +0800
+Received: (eyou send program); Thu, 28 Oct 2004 09:33:01 +0800
+Message-ID: <298927181.07940@mail.tsinghua.edu.cn>
+Received: from unknown (HELO mail.tsinghua.edu.cn) (unknown@127.0.0.1)
+ by 127.0.0.1 with SMTP; Thu, 28 Oct 2004 09:33:01 +0800
+X-scanvirus: By Symantec Scan Engine
+X-scanresult: CLEAN
+Received: (eqmail ); 28 Oct 2004 01:32:52 -0000
+Received: from unknown (HELO sony) (duanhx@202.112.50.6)
+  by localhost with SMTP; 28 Oct 2004 01:32:52 -0000
+Message-ID: <009f01c4bc90$12b41200$c63270ca@sony>
+From: "qian" <qian@tsinghua.edu.cn>
+To: lin@ccert.edu.cn
+Subject: =?gb2312?B?UmU6INX3yMvM1sLbvPW3yrXEzsrM4g==?=
+Date: Thu, 28 Oct 2004 09:47:18 +0800
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2900.2180
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+Content-Transfer-Encoding: 8bit
+X-MIME-Autoconverted: from base64 to 8bit by home.ccert.edu.cn id i9S1aCPt007420
+X-UIDL: 0~p"!(4g!!K0I!!][`!!
+
+ 我也178/70
+ 没觉得自己多胖.
+ 一个月前开始健身,坚持仰卧起坐(一般100个,一口气50个分两次做完),有时间就去游泳.
+  
+ 变化就是感觉到了吃饭时间就超饿,不过胳膊,胸部和腹部肌肉感觉明显收紧,胸肌比较明显,现在正为腹肌努力.
+ 
+: 由于经常开车缺乏锻炼，体重已经上升到70公斤了
+: 尤其令人 ft 的是，腰部出现了肉褶，腹部也有了脂肪堆积
+: 希望找人一起探讨减肥问题，包括可行的方案，以及具体实行的操作
+: ...................
+

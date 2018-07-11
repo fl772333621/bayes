@@ -1,0 +1,35 @@
+Return-Path: <zhou@ebay.com.cn>
+Received: from autoforward.mail.sohu.com ([61.135.132.166])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id j05FET77015856
+	for <rao@ccert.edu.cn>; Wed, 5 Jan 2005 23:14:29 +0800
+Received: from mx23.mail.sohu.com (unknown [192.168.41.141])
+	by autoforward.mail.sohu.com (Postfix) with ESMTP id E99E78E409
+	for <rao@ccert.edu.cn>; Wed,  5 Jan 2005 23:28:58 +0800 (CST)
+Received: by mx23.mail.sohu.com (Postfix)
+	id AB52314018; Wed,  5 Jan 2005 23:28:57 +0800 (CST)
+Delivered-To: chen741120@mx23.mail.sohu.com
+Received: from mx20.sjc.ebay.com (unknown [66.135.197.16])
+	by admx.sohu.com (Postfix) with ESMTP id 24DCF122BC2
+	for <rao@ccert.edu.cn>; Wed,  5 Jan 2005 23:28:57 +0800 (CST)
+Received: from sj-v3bota03 (sj-v3bota03.sjc.ebay.com [10.6.173.212])
+	by mx20.sjc.ebay.com (8.12.3/8.12.3) with ESMTP id j05FQU5e008010
+	for <rao@ccert.edu.cn>; Wed, 5 Jan 2005 07:28:54 -0800
+Date: Wed, 5 Jan 2005 07:28:54 -0800
+Message-ID: <776232731.1104938934672.JavaMail.ebayapp@sj-v3bota03>
+From: zhou@ebay.com.cn
+To: rao@ccert.edu.cn
+Subject: =?gb2312?B?UmU6ILj4ztLSu7j2u+7XxbXEwO3TyQ==?=
+Mime-Version: 1.0
+Content-Type: multipart/mixed; boundary="----------=_1104938070-13540-2"
+X-eBay-MailTracker: 10081..223.0
+X-UIDL: JY&"!#9J!!*YE!!B>T"!
+
+如果要听冠冕堂皇的话，你的生命已经不属于你了，你要把你有限的生命投入到无限的为人民服务当中去，你的生命是国家的财产，你活着就是为了建设社会主义，早日实现伟大的共产主义。
+我也经常的问自己，生命究竟为了什么？
+从小就经历了种种的坎坷，生在一个不幸的家庭，一直到现在大学毕业参加工作，命运总是让我吃尽苦头，但我还是要活着。还是要给自己树立一个追求的目标吧，每天都在向这个目标努力，这样日子会好过一些。
+“情多恨亦多，此乃千古不移的至理；释迦教人四大皆空，就是深明陷身世情之苦，要离苦得乐，唯有忘情一途；然情因肉身而来，唯有连肉身亦舍弃才成。”--黄易《覆雨翻云》
+: 我是个好人，无论发生过什么，我都还这样相信着，但不知为什么，伤害总是接二连三不容人喘息，又都那么残酷，有很多人说过我坚强，但我总是会有强烈的自杀的念头，只是想到父母，不管他们如何，总归养了我这么多年，我不能让他们白浪费了这么多精力和钱，我总归要给他们养老？每一次，都是这样的想法把我拉回现实。然而活着，那么痛苦。 
+: 我曾经有那样的多的梦，曾经那么开朗，曾经努力追求美好，我从来不怕任何坎坷，因为我已经习惯了。但是，世上最大的奢侈品是希望，如果没有了，也许一辈子都不再买得起。 
+: 我也总是安慰自己，世上还有好多人吃不饱饭，你有什么资格痛苦，可是，我怎样努力，也无法欺骗自己的内心。 
+: ...................
+

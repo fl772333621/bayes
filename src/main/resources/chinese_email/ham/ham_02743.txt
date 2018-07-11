@@ -1,0 +1,34 @@
+Return-Path: <pan@tsinghua.edu.cn>
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id iA17REv8009053
+	for <yi@ccert.edu.cn>; Mon, 1 Nov 2004 15:27:14 +0800 (CST)
+Received: (eyou send program); Mon, 01 Nov 2004 15:12:33 +0800
+Message-ID: <299293153.02047@mail.tsinghua.edu.cn>
+Received: from unknown (HELO mail.tsinghua.edu.cn) (unknown@127.0.0.1)
+ by 127.0.0.1 with SMTP; Mon, 01 Nov 2004 15:12:33 +0800
+X-scanvirus: By Symantec Scan Engine
+X-scanresult: CLEAN
+Received: (eqmail ); 1 Nov 2004 07:12:32 -0000
+Received: from unknown (HELO sony) (duanhx@202.112.50.214)
+  by localhost with SMTP; 1 Nov 2004 07:12:32 -0000
+Message-ID: <008701c4bfe4$30aed770$d63270ca@sony>
+From: "pan" <pan@tsinghua.edu.cn>
+To: yi@ccert.edu.cn
+Subject: =?gb2312?B?ofEgx+u9zNK7z8LO0rjD1PXDtLDsxNiho6Gj?=
+Date: Mon, 1 Nov 2004 15:27:04 +0800
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2900.2180
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+Content-Transfer-Encoding: 8bit
+X-MIME-Autoconverted: from base64 to 8bit by sea.net.edu.cn id iA17REv8009053
+X-UIDL: 1&L!!pQ@!!dZB"!UmJ!!
+
+本科，女生。。。现在有3个选择
+第一是一家做通信业缴费平台的公司，去做业务项目助理，以数据分析为主，一个月1850(说因为偶是应届生-_-|||)三险什么都有
+第二是一家做监理的公司，基本工资1400，补助500多，然后跟项目的话一个项目500，大概每月2300－2400，也给交三险，但是说交的是最低的那种，按照工资是600来交
+第三个还在等，是一家国资委下面的直属国企，做文职类工作，基本工资2k多吧，其他的就是国企的一些补贴啥的，具体多钱不知道，已经面完了，在等消息，总共2个人去面的，另外一个mm已经据了他们，可是打电话去问hr说老总最近太忙没时间开会讨论啥的，国企的效率。。唉：（都已经过了一个礼拜了，不知道该不该继续等下去55555那2个单位都催呢
+

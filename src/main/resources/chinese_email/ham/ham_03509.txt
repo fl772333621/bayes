@@ -1,0 +1,49 @@
+Return-Path: <bi@yahoo.com>
+Received: from tsinghua.org.cn ([210.77.143.228])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id i9G2oG5b006104
+	for <zhong@ccert.edu.cn>; Sat, 16 Oct 2004 10:50:18 +0800
+Received: (eyou send program); Sat, 16 Oct 2004 11:01:09 +0800
+Received: (eyou send program); Sat, 16 Oct 2004 11:01:08 +0800
+X-EYOU-ORIGINAL-IP: 66.94.237.43
+X-EYOU-ENVELOPE-MAILFROM: sentto-1550022-2382-1097895592-chenguangying=tsinghua.org.cn@returns.groups.yahoo.com
+Received: from unknown (HELO n9a.bulk.scd.yahoo.com) (unknown@66.94.237.43)
+ by 210.77.143.228 with SMTP; Sat, 16 Oct 2004 11:01:08 +0800
+Received: from [66.218.69.5] by n9.bulk.scd.yahoo.com with NNFMP; 16 Oct 2004 02:59:52 -0000
+Received: from [66.218.66.157] by mailer5.bulk.scd.yahoo.com with NNFMP; 16 Oct 2004 02:59:52 -0000
+X-Yahoo-Newman-Property: groups-email
+X-Sender: vinhbd@yahoo.com
+X-Apparently-To: e3d@yahoogroups.com
+Received: (qmail 14442 invoked from network); 16 Oct 2004 02:59:51 -0000
+Received: from unknown (66.218.66.216)
+  by m17.grp.scd.yahoo.com with QMQP; 16 Oct 2004 02:59:51 -0000
+Received: from unknown (HELO smtp102.mail.sc5.yahoo.com) (216.136.174.140)
+  by mta1.grp.scd.yahoo.com with SMTP; 16 Oct 2004 02:59:50 -0000
+Received: from unknown (HELO bachvinh) (vinhbd@203.210.138.126 with login)
+  by smtp102.mail.sc5.yahoo.com with SMTP; 16 Oct 2004 02:59:48 -0000
+Message-ID: <005901c4b38f$34a46220$7e8ad2cb@bachvinh>
+To: zhong@ccert.edu.cn
+References: <000001c4a11d$542a5340$d800000a@abc.microsoft>
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 5.00.2615.200
+X-MimeOLE: Produced By Microsoft MimeOLE V5.00.2615.200
+X-eGroups-Remote-IP: 216.136.174.140
+From: "bi" <bi@yahoo.com>
+MIME-Version: 1.0
+Mailing-List: list e3d@yahoogroups.com; contact e3d-owner@yahoogroups.com
+Delivered-To: mailing list e3d@yahoogroups.com
+Precedence: bulk
+List-Unsubscribe: <mailto:e3d-unsubscribe@yahoogroups.com>
+Date: Sat, 16 Oct 2004 21:32:35 +0700
+Subject: [SPAM-TEST] Re: [e3d] Moi xem anh cuoi
+Reply-To: bi@yahoogroups.com
+Content-Type: multipart/alternative;
+ boundary="----=_NextPart_000_002B_01C4B3C7.A6FA45A0"
+X-UIDL: 7H~"!Khp!!D?+"!8CT"!
+
+:    认识了一个女生20多天,上周进展挺顺利的.上周她家教,她发短信问我有没有时间她家教完陪她走夜路.上周一、三她家教完我接的她，周末又在一起吃的饭看的电影。而且上周她还时不时给我发个短信。可是不知道为什么最近几天她突然冷淡了，也不找我了，也没有短信了，好象消失了一样。哎，这几天偶学也学不进去，睡也没睡好。
+:   请教各位DXJM，我现在该怎么做呢？
+:   BTW：她上周给我发过这样一短信：“不要对我太好，我能看出来你喜欢我，可是我无法对你做出回应。.....”。
+爱她，要给她自由
+慢慢来吧，兄弟
+

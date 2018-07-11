@@ -1,0 +1,52 @@
+Return-Path: <you@compass.net.edu.cn>
+Received: from tsinghua.org.cn ([210.77.143.228])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id i8L5Y1H5029845
+	for <gu@ccert.edu.cn>; Tue, 21 Sep 2004 13:34:03 +0800
+Received: (eyou send program); Tue, 21 Sep 2004 13:43:58 +0800
+Received: (eyou send program); Tue, 21 Sep 2004 13:43:57 +0800
+X-EYOU-ORIGINAL-IP: 202.38.99.65
+X-EYOU-ENVELOPE-MAILFROM: toefl-bounces@server.cool-meeting.com
+Received: from unknown (HELO server.cool-meeting.com) (unknown@202.38.99.65)
+ by 210.77.143.228 with SMTP; Tue, 21 Sep 2004 13:43:57 +0800
+Received: from server.cool-meeting.com (localhost.localdomain [127.0.0.1])
+	by server.cool-meeting.com (8.12.8/8.12.8) with ESMTP id i8L5XqlV010765
+	for <gu@ccert.edu.cn>; Tue, 21 Sep 2004 13:34:00 +0800
+Received: from compass.net.edu.cn ([202.112.0.90])
+	by server.cool-meeting.com (8.12.8/8.12.8) with ESMTP id i8L5Xnkr010761
+	for <gu@ccert.edu.cn>; Tue, 21 Sep 2004 13:33:49 +0800
+Received: from [210.25.128.113] ([210.25.128.113])
+	by compass.net.edu.cn (8.9.2/8.9.2) with ESMTP id NAA25678
+	for <gu@ccert.edu.cn>;
+	Tue, 21 Sep 2004 13:32:41 +0800 (CST)
+Message-ID: <414FBC10.2010307@compass.net.edu.cn>
+Date: Tue, 21 Sep 2004 13:28:48 +0800
+From: Shaozhi Ye <you@compass.net.edu.cn>
+User-Agent: Mozilla Thunderbird 0.8 (Windows/20040913)
+X-Accept-Language: en-us, en
+MIME-Version: 1.0
+To: gu@ccert.edu.cn
+Content-Type: text/plain; charset=GB2312
+Content-Transfer-Encoding: 8bit
+Cc: 
+Subject: =?gb2312?B?UmU6IM7Syseyu8rHzKvQocb4wcujv87S1ea1xLrcyfrG+KOh?=
+X-BeenThere: toefl@server.cool-meeting.com
+X-Mailman-Version: 2.1.2
+Precedence: list
+List-Id: &#26446;&#26143;&#21644;&#20182;&#30340;&#23398;&#29983;&#20204;
+	<toefl.server.cool-meeting.com>
+List-Unsubscribe: <http://server.cool-meeting.com/mailman/listinfo/toefl>,
+	<mailto:toefl-request@server.cool-meeting.com?subject=unsubscribe>
+List-Archive: <http://server.cool-meeting.com/mailman/private/toefl>
+List-Post: <mailto:toefl@server.cool-meeting.com>
+List-Help: <mailto:toefl-request@server.cool-meeting.com?subject=help>
+List-Subscribe: <http://server.cool-meeting.com/mailman/listinfo/toefl>,
+	<mailto:toefl-request@server.cool-meeting.com?subject=subscribe>
+Sender: toefl-bounces@server.cool-meeting.com
+Errors-To: toefl-bounces@server.cool-meeting.com
+X-UIDL: )jo!!gc##!H!*"!-bc"!
+
+好贫的一头蒜...
+: 那没啥不一样的阿...本来应该在垃圾桶里呆着结果变成了再白糖次脸盆里..貌似差不多..
+: 要不然..恩...
+: 我是一头蒜?我是一头快乐的大蒜天天依偎在厨房的窗台上白天在小鸟的歌声里醒来夜晚在蟋蟀的琴声里睡去白天无忧无虑的晒着太阳~我的孩子们偎依在我的身边偶尔那个小姑娘会轻柔的说"来,乖,姐姐带你去锅里玩"..只是..被她带走的孩子再也没有回来过..不过生活不如意之事十之八九我也认了谁让咱生就就是一头蒜那..我只想在我有生之年轻松而安静的活着哪怕死的时候听听那个小姑娘的谎话也能安慰些阿..可使忽然一天生活就变了.有一个大姑娘出现了..从此厨房充满了硝烟而我...再也不能安静的偎依在窗台晒太阳了.我的孩子一个接一个的被带走.野蛮? ...................
+

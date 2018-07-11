@@ -1,0 +1,53 @@
+Return-Path: <xing@vip.sohu.com>
+Received: from relay.vip.sohu.com (relay.vip.sohu.net [61.135.132.71])
+	by home.ccert.edu.cn (MIMEDefang) with ESMTP id NOQUEUE
+	for <xu@ccert.edu.cn>; Wed, 22 Jun 2005 07:07:30 +0800 (CST)
+Received: from setiap.com (unknown [221.218.150.92])
+	by relay.vip.sohu.com (Postfix) with ESMTP
+	id 16EDB045226A; Wed, 22 Jun 2005 07:24:59 +0800 (CST)
+From: =?gb2312?B?anVuaGVuZw==?= <xing@vip.sohu.com>
+To: xu@ccert.edu.cn
+Subject: =?gb2312?B?w87CtsqxydAgw+K30dT5v6gg1rG908/7t9GjoSV7UkVDRUlWRVJfQUREUkVTfQ==?=
+Date: Wed, 22 Jun 2005 07:24:57 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_001_0039_01C9F1B3.CBE498F2"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2800.1478
+X-MimeOLE: Produced By Microsoft MimeOLE 6.00.2800.1478
+Message-Id: <20050621232500.16EDB045226A@relay.vip.sohu.com>
+X-Sohu-Antivirus: 0
+
+ 梦露网夏日新款到货啦！赠免费购物卡！卡号：zisui0410 密码：H8U69R 如果浏览出现问题请点
+
+
+
+ 免费购物卡，无需兑换，可等值消费！云集众多国际国内知名时尚品牌，时尚精品，一览无余
+05-6-227:24:57 
+梦露时尚 免费赠卡 直接消费！%{RECEIVER_ADDRES}
+
+
+
+
+
+
+
+
+
+
+ 
+梦露网夏日新款到货啦！赠免费购物卡！卡号：zisui0410 密码：H8U69R 如果浏览出现问题请点&lt;这里 &gt;
+
+
+
+
+
+
+
+
+
+
+
+ 
+免费购物卡，无需兑换，可等值消费！云集众多国际国内知名时尚品牌，时尚精品，一览无余05-6-227:24:57 

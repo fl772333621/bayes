@@ -1,0 +1,72 @@
+Return-Path: <su@mails.tsinghua.edu.cn>
+Received: from tsinghua.org.cn ([210.77.143.228])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id iA51amji027476
+	for <lian@ccert.edu.cn>; Fri, 5 Nov 2004 09:36:54 +0800
+Received: (eyou send program); Fri, 05 Nov 2004 09:48:33 +0800
+Received: (eyou send program); Fri, 05 Nov 2004 09:48:33 +0800
+X-EYOU-ORIGINAL-IP: 210.77.143.235
+X-EYOU-ENVELOPE-MAILFROM: malb03@mails.tsinghua.edu.cn
+Received: from unknown (HELO eyou.net) (unknown@210.77.143.235)
+ by 210.77.143.228 with SMTP; Fri, 05 Nov 2004 09:48:33 +0800
+Received: (eyou send program); Fri, 05 Nov 2004 09:44:54 +0800
+Message-ID: <299619094.08728@eyou.net>
+Received: from 166.111.8.16 by 210.77.143.235 with SMTP; Fri, 05 Nov 2004 09:44:49 +0800
+Received: (eyou send program); Fri, 05 Nov 2004 09:43:17 +0800
+Message-ID: <299618996.29410@mails.tsinghua.edu.cn>
+Received: (eyou send program); Fri, 05 Nov 2004 09:43:16 +0800
+Message-ID: <299618996.09367@mails.tsinghua.edu.cn>
+Received: from unknown (HELO mails.tsinghua.edu.cn) (unknown@127.0.0.1)
+ by 127.0.0.1 with SMTP; Fri, 05 Nov 2004 09:43:16 +0800
+X-scanvirus: By Symantec Scan Engine
+X-scanresult: CLEAN
+Received: (eqmail ); 5 Nov 2004 01:43:15 -0000
+Received: from ccert.edu.cn (HELO home.ccert.edu.cn) (202.112.57.12)
+  by mails.tsinghua.edu.cn with SMTP; 5 Nov 2004 01:43:14 -0000
+Received: from home.ccert.edu.cn (localhost [127.0.0.1])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id iA51ZrJr027427;
+	Fri, 5 Nov 2004 09:35:53 +0800
+Received: (from majordomo@localhost)
+	by home.ccert.edu.cn (8.13.1/8.13.1/Submit) id iA51ZrlA027426;
+	Fri, 5 Nov 2004 09:35:53 +0800
+X-Authentication-Warning: home.ccert.edu.cn: majordomo set sender to owner-ccertstaff using -f
+Received: from mails.tsinghua.edu.cn (mails.tsinghua.edu.cn [166.111.8.16])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with SMTP id iA51ZqgC027418
+	for <lian@ccert.edu.cn>; Fri, 5 Nov 2004 09:35:53 +0800
+Received: (eyou send program); Fri, 05 Nov 2004 09:42:37 +0800
+Message-ID: <299618957.28785@mails.tsinghua.edu.cn>
+Received: from 202.112.50.13 by mails.tsinghua.edu.cn with HTTP; Fri, 05 Nov 2004 09:42:37 +0800
+X-WebMAIL-MUA: [202.112.50.13]
+From: "su" <su@mails.tsinghua.edu.cn>
+To: lian@ccert.edu.cn
+Date: Fri, 05 Nov 2004 09:42:37 +0800
+Reply-To: "su" <su@mails.tsinghua.edu.cn>
+Subject: =?gb2312?B?ofEg1eLR+bXExtrN+9a1u+Gyu7vhzKu436O/?=
+Content-Type: text/plain
+Sender: owner-ccertstaff@home.ccert.edu.cn
+Precedence: bulk
+X-UIDL: BE)!!l#J!!_NR"!_YQ"!
+
+女生，
+北大法学院本硕，研究生阶段的专业一般热门。
+成绩平平，没拿过奖学金；
+社团经历少，且属虾兵蟹将阶层；
+有法院、国家部委实习经历，对律所、企业均不了解。
+各种英语考试成绩都还可以，但口语不算突出。
+今年参加司法考试，应该能通过。
+非党员。
+粗劣分析了一下，
+觉得自己在就业市场上属于弱势群体。
+顶级律所、跨国公司就不抱希望了，
+法院呢，外地的基层法院不想去，中高级进不了，
+北京的法院一个个牛气烘烘，也不敢指望。
+剩下的路不多，考公务员、进一般企业或律所。
+请教大家：
+我这样的情况，期待税后2500，会不会太高了？
+其实我也明白，背景相似的两个人，
+性格不同、求职时投入的时间精力不同，
+结果也许就天差地别。
+我也就是想有个大概的预期而已。
+大家给点意见吧，我不怕挨砖的：P
+btw：我06年毕业，
+不幸遇到北大的法学院、经院、光华等院系两届研究生同时毕业。
+

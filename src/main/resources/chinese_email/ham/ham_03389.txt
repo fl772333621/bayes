@@ -1,0 +1,35 @@
+Return-Path: <ding@rbl.ccert.edu.cn>
+Received: from rbl.ccert.edu.cn (rbl.ccert.edu.cn [202.112.57.71])
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id i96JdKfx009134
+	for <ye@ccert.edu.cn>; Thu, 7 Oct 2004 03:39:20 +0800 (CST)
+Received: from rbl.ccert.edu.cn (localhost.localdomain [127.0.0.1])
+	by rbl.ccert.edu.cn (8.12.11/8.12.11) with ESMTP id i96JjEA4005439
+	for <ye@ccert.edu.cn>; Thu, 7 Oct 2004 03:45:14 +0800
+Received: (from qa@localhost)
+	by rbl.ccert.edu.cn (8.12.11/8.12.11/Submit) id i96JjE1X005438;
+	Thu, 7 Oct 2004 03:45:14 +0800
+Date: Thu, 7 Oct 2004 03:45:14 +0800
+Message-Id: <200410061945.i96JjE1X005438@rbl.ccert.edu.cn>
+Subject: =?gb2312?B?ofEg1dDGuMr9vt20psDt1LG6zcK80vTUsQ==?=
+To: ye@ccert.edu.cn
+From: Tran Quang Anh <ding@cernet.edu.cn>
+Content-Type: multipart/mixed; boundary="----------=_1097091914-996-706"
+MIME-Version: 1.0
+X-UIDL: \U:"!pfk!!,^O!!=>i"!
+
+天籁数据处理中心
+位于北京市海淀区五道口的天籁数据处理中心成立于2005年3月，专门从事语音数据的整理和加工工作，长期为各大国际、国内的科研机构提供高级数据加工服务，本中心长期聘任中科院声学所、北大等单位的语音语言学专家为顾问，长期提供技术指导。
+现由于项目不断扩大，招聘数据处理员3名，要求如下：
+1）要求女性，身体健康
+2）电脑操作熟练，普通话流利，能正确书写汉字拼音，打字速度快
+3）熟练使用办公软件和办公设备。
+4）工作认真负责，学习能力强，有团队精神，有敬业精神，能接受较大压力下的工作。
+5）能熟练使用英语或者会简单编程者优先。
+招聘录音员3名，要求如下：
+1）学历大专以上，中文普通话标准，身体健康，有一定外语能力，会英语以外的语种优先。
+2）电脑操作熟练，愿意学习各类设备操作，有相关录音知识优先。
+3）做事认真负责，有很强的协调和组织能力，能协调组织大型录音项目（有人员渠道者优先）。
+4）有快速理解、反应能力，有良好的沟通能力。
+5）愿意长期稳定的工作。
+有意者请发简历至：ruirui168@sina.com
+

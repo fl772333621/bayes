@@ -1,0 +1,34 @@
+Return-Path: <xia@mails.tsinghua.edu.cn>
+Received: from mails.tsinghua.edu.cn (mails.tsinghua.edu.cn [166.111.8.16])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j2814kdU005401
+	for <jian@ccert.edu.cn>; Tue, 8 Mar 2005 09:04:46 +0800 (CST)
+X-scanvirus: By SOPHOS Scan Engine
+X-scanresult: CLEAN
+X-Received: unknown,166.111.203.216,20050308085807
+Received: from unknown (HELO xiner) (xwang03@166.111.203.216)
+  by localhost with SMTP; 8 Mar 2005 00:58:07 -0000
+Message-ID: <001301c5237b$1d20de10$d8cb6fa6@xiner>
+From: "xia" <xia@mails.tsinghua.edu.cn>
+To: jian@ccert.edu.cn
+References: <309919310.26424@mails.tsinghua.edu.cn> <001c01c52092$40cbf6b0$d8cb6fa6@xiner> <309951706.04191@mails.tsinghua.edu.cn> <001501c52124$aaa6e210$d29a6fa6@xiner> <310027632.23739@mails.tsinghua.edu.cn> <001901c522e0$c86a3730$d8cb6fa6@xiner> <310177387.16489@mails.tsinghua.edu.cn> <002201c522e6$925e4040$d8cb6fa6@xiner> <310180062.17711@mails.tsinghua.edu.cn> <003901c522f7$ffe10290$d8cb6fa6@xiner> <310210669.14224@mails.tsinghua.edu.cn>
+Subject: =?gb2312?B?UmU6ILbURXJpY3Nzb261xNK70Km40Mrc?=
+Date: Tue, 8 Mar 2005 09:06:46 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0010_01C523BE.275CD1C0"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2900.2180
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+X-UIDL: M2+"!dQm!!"P'#!:#R"!
+
+        几乎所有的公司都是这样做的。
+        例如Cisco，当年不就是因为很多人无论转成Employee而跳槽的。
+        IBM你也可以去问问。
+        大的外企的head count管的很严，正式工的数目是按照今年能够
+        完成的销售额和所预计的quota、Budget等综合决定的分。分为
+        正式、非正式只是一种管理手段而已，我反倒是觉得，在大外企，
+        应该学的就是资本主义的这种管理手段，日后创业，肯定会遇到
+        一样多的问题。
+: 而且我的一个朋友在ERICSSON工作，为了节约成本，ERI的合同分两种，正式和非正式，很不厚道！！
+

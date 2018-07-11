@@ -1,0 +1,36 @@
+Return-Path: <mo@tsinghua.edu.cn>
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id iBG509Si018987
+	for <kong@ccert.edu.cn>; Thu, 16 Dec 2004 13:00:09 +0800 (CST)
+Received: (eyou send program); Thu, 16 Dec 2004 12:44:47 +0800
+Message-ID: <303172286.15946@mail.tsinghua.edu.cn>
+Received: from unknown (HELO mail.tsinghua.edu.cn) (unknown@127.0.0.1)
+ by 127.0.0.1 with SMTP; Thu, 16 Dec 2004 12:44:47 +0800
+X-scanvirus: By Symantec Scan Engine
+X-scanresult: CLEAN
+Received: (eqmail ); 16 Dec 2004 04:18:03 -0000
+Received: from unknown (HELO sony) (duanhx@166.111.204.106)
+  by localhost with SMTP; 16 Dec 2004 04:18:03 -0000
+Message-ID: <006601c4e328$5d4a6490$6acc6fa6@sony>
+From: "mo" <mo@tsinghua.edu.cn>
+To: kong@ccert.edu.cn
+Cc: <che@ccert.edu.cn>, <cai@ccert.edu.cn>, <shi@ccert.edu.cn>,
+        <qiu@ccert.edu.cn>, <sun@ccert.edu.cn>, <ding@ccert.edu.cn>,
+        <yuan@ccert.edu.cn>, <lai@ccert.edu.cn>
+Subject: =?gb2312?B?UmU6INXi0fm1xMDPuau7udKqsrvSqqO/?=
+Date: Thu, 16 Dec 2004 12:33:15 +0800
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="----=_NextPart_000_0064_01C4E36B.6A66E2F0"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2900.2180
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+X-UIDL: ?4?"!E%/"!<hV"!\>G!!
+
+这不是前几天发过的么？生病还有莫名其妙的说法啊
+:  还大打出手，我实在受不了我老公在家里闲呆着，已经7，8个月了。他北京的一位同学不断的努力找工作，前不久工作辞了，现在又找了1份。我让我老公去找一份先干着，他编程能力不行,我就建议他去找一份销售的活干干，别人不同意，想想他93年毕业，到现在已经8个年头，什么
+: 他竟然还说我这样跟他吵伤了他的自尊心，如果他有一天咸鱼翻身，他会好好报复的。
+: 像这样的老公说出这样的话，已经不只一次了，其实我也不怕。我有固定的工作，我吁他做什么，但是他竟然有脸说出这样的话，想想从我研究生毕业到现在3年，我挣的钱都是我们俩花掉的，他这几年同朋友开了家破产公司，还是别个老板投资，每月连基本工资（1200）元都发不到�
+: ...................
+

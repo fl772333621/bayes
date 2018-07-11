@@ -1,0 +1,34 @@
+Return-Path: <pu@rbl.ccert.edu.cn>
+Received: from rbl.ccert.edu.cn (rbl.ccert.edu.cn [202.112.57.71])
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id i98CI013009256
+	for <mo@ccert.edu.cn>; Fri, 8 Oct 2004 20:18:01 +0800 (CST)
+Received: from rbl.ccert.edu.cn (localhost.localdomain [127.0.0.1])
+	by rbl.ccert.edu.cn (8.12.11/8.12.11) with ESMTP id i98CO20d021950
+	for <mo@ccert.edu.cn>; Fri, 8 Oct 2004 20:24:03 +0800
+Received: (from qa@localhost)
+	by rbl.ccert.edu.cn (8.12.11/8.12.11/Submit) id i98CO2oA021949;
+	Fri, 8 Oct 2004 20:24:02 +0800
+Date: Fri, 8 Oct 2004 20:24:02 +0800
+Message-Id: <200410081224.i98CO2oA021949@rbl.ccert.edu.cn>
+Subject: =?gb2312?B?UmU6IMfrsO/O0rnAucC82w==?=
+To: mo@ccert.edu.cn
+From: Tran Quang Anh <pu@cernet.edu.cn>
+Content-Type: multipart/mixed; boundary="----------=_1097238243-26230-72"
+MIME-Version: 1.0
+X-UIDL: +>b!!M,2!!Gme!!e39"!
+
+按照你的实力,绝对能拿到e,千万不要把自己贱卖了,bcd之类的offer考虑都不用考虑！
+: 标  题: 请帮我估估价
+: 发信站: 水木社区 (Sun Jun  5 13:15:06 2005), 站内
+: 
+: 本人国防科大计算机本科毕业，后在通信领域工作3年，进入清华某通信专业学习，明年硕士毕业，不知道如今行情如何，请各位大虾给各参考，一般是多少价位呢？
+: a 7k--9k
+: b 9k--11k
+: c 11--13k
+: d 13k--15k
+: e 15k--18k
+: 请大家给各经验参考值吧，谢谢了 
+: --
+: 
+: ※ 来源:·水木社区 http://newsmth.net·[FROM: 61.49.118.*]
+

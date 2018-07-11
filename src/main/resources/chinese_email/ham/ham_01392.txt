@@ -1,0 +1,47 @@
+Return-Path: <cao@home.ccert.edu.cn>
+Received: from home.ccert.edu.cn (localhost [127.0.0.1])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id i8M3CwYL018917;
+	Wed, 22 Sep 2004 11:12:58 +0800
+Received: (from majordomo@localhost)
+	by home.ccert.edu.cn (8.13.1/8.13.1/Submit) id i8M3CwNu018916;
+	Wed, 22 Sep 2004 11:12:58 +0800
+X-Authentication-Warning: home.ccert.edu.cn: majordomo set sender to owner-ccertstaff using -f
+Received: from ccertspark (puma.ccert.edu.cn [202.112.50.50])
+	(authenticated bits=0)
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id i8M3AW5w018861;
+	Wed, 22 Sep 2004 11:10:32 +0800
+From: "cao" <cao@ccert.edu.cn>
+To: ou@ccert.edu.cn
+Cc: <xue@ccert.edu.cn>
+Subject: =?gb2312?B?UmU6IDUwtuDL6rXEyMu7udPQz6PN+9GntefE1MO0Pw==?=
+Date: Wed, 22 Sep 2004 11:23:56 +0800
+Message-ID: <000a01c4a053$988c2e70$323270ca@ccertspark>
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="----=_NextPart_000_000B_01C4A096.A6AF6E70"
+X-Priority: 3 (Normal)
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook, Build 10.0.6626
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.3790.181
+Importance: Normal
+Sender: owner-ccertstaff@home.ccert.edu.cn
+Precedence: bulk
+X-UIDL: FDd!!''g!!Ua("!*n3!!
+
+hehe.. 我奶奶 83 了,刚过生日
+学电脑确实不行了, 不过每天还坚持学英语
+: 标  题: 50多岁的人还有希望学电脑么?
+: 发信站: 水木社区 (Thu Jun  9 00:14:00 2005), 站内
+: 
+: 想让家人用电脑和我联络
+: 大家有经验么？
+: --
+: 如果我仅仅是因为生理原因才去找女友的话，一定会有女生受到伤害。
+: 事实上大多数女生受伤害都是这个原因。因此我想在我没有想好之前，不能草率的去谈情做爱。
+: 这是对别人负责，也是对自己负责。
+: 
+: ※ 来源:·BBS 水木清华站 smth.org·[FROM: 111.111.111.*]
+: 
+: 
+: ※ 来源:·水木社区 http://newsmth.net·[FROM: 202.30.106.*]
+

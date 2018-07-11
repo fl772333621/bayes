@@ -1,0 +1,61 @@
+Return-Path: <ni@mails.tsinghua.edu.cn>
+Received: from tsinghua.org.cn ([210.77.143.228])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id i9M2OBh1026692
+	for <yi@ccert.edu.cn>; Fri, 22 Oct 2004 10:24:12 +0800
+Received: (eyou send program); Fri, 22 Oct 2004 10:35:15 +0800
+Received: (eyou send program); Fri, 22 Oct 2004 10:35:12 +0800
+X-EYOU-ORIGINAL-IP: 202.38.99.65
+X-EYOU-ENVELOPE-MAILFROM: toefl-bounces@server.cool-meeting.com
+Received: from unknown (HELO server.cool-meeting.com) (unknown@202.38.99.65)
+ by 210.77.143.228 with SMTP; Fri, 22 Oct 2004 10:35:12 +0800
+Received: from server.cool-meeting.com (localhost.localdomain [127.0.0.1])
+	by server.cool-meeting.com (8.12.8/8.12.8) with ESMTP id i9M2UnlY031563
+	for <yi@ccert.edu.cn>; Fri, 22 Oct 2004 10:30:56 +0800
+Received: from mails.tsinghua.edu.cn (mails.tsinghua.edu.cn [166.111.8.16])
+	by server.cool-meeting.com (8.12.8/8.12.8) with SMTP id i9M2Ulkr031559
+	for <yi@ccert.edu.cn>; Fri, 22 Oct 2004 10:30:47 +0800
+Received: (eyou send program); Fri, 22 Oct 2004 10:16:40 +0800
+Message-ID: <298411400.03709@mails.tsinghua.edu.cn>
+Received: from 202.112.0.90 by mails.tsinghua.edu.cn with HTTP;
+	Fri, 22 Oct 2004 10:16:40 +0800
+X-WebMAIL-MUA: [202.112.0.90]
+From: "ni" <ni@mails.tsinghua.edu.cn>
+To: yi@ccert.edu.cn
+Date: Fri, 22 Oct 2004 10:16:40 +0800
+Content-Type: text/plain
+Subject: =?gb2312?B?UmU6IMfrvcy087zSo7rO0s/r0KPV/dK7z8LRwLPdo6wyM8vqoaO358/VtPOyu6O/?=
+X-BeenThere: toefl@server.cool-meeting.com
+X-Mailman-Version: 2.1.2
+Precedence: list
+Reply-To: 邵筱昕 <ni@mails.tsinghua.edu.cn>
+List-Id: &#26446;&#26143;&#21644;&#20182;&#30340;&#23398;&#29983;&#20204;
+	<toefl.server.cool-meeting.com>
+List-Unsubscribe: <http://server.cool-meeting.com/mailman/listinfo/toefl>,
+	<mailto:toefl-request@server.cool-meeting.com?subject=unsubscribe>
+List-Archive: <http://server.cool-meeting.com/mailman/private/toefl>
+List-Post: <mailto:toefl@server.cool-meeting.com>
+List-Help: <mailto:toefl-request@server.cool-meeting.com?subject=help>
+List-Subscribe: <http://server.cool-meeting.com/mailman/listinfo/toefl>,
+	<mailto:toefl-request@server.cool-meeting.com?subject=subscribe>
+Sender: toefl-bounces@server.cool-meeting.com
+Errors-To: toefl-bounces@server.cool-meeting.com
+X-UIDL: ~Hc!!9H*"!@4<!!JOD"!
+
+我是特例，不方便说
+在口腔医院做的
+作得前后，一定要小心爱护牙齿，我就是因为打篮球，差点门牙就彻底掉了
+: 标  题: Re: 请教大家：我想校正一下牙齿，23岁。风险大不？
+: 发信站: 水木社区 (Mon Jun  6 14:31:37 2005), 站内
+: 
+: 那在问一声，你在哪校正的？
+: 大概要多少银子？
+: 多长时间能校正过来啊？
+: 
+: : 不大，现在校正牙齿技术比较成熟了
+: : 我就是22的时候校正的
+: 
+: 
+: --
+: 
+: ※ 来源:·水木社区 newsmth.net·[FROM: 202.112.174.*]
+

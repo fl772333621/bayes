@@ -1,0 +1,35 @@
+Return-Path: <zhao@rbl.ccert.edu.cn>
+Received: from rbl.ccert.edu.cn (rbl.ccert.edu.cn [202.112.57.71])
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id i97BGCi8018961
+	for <he@ccert.edu.cn>; Thu, 7 Oct 2004 19:16:12 +0800 (CST)
+Received: from rbl.ccert.edu.cn (localhost.localdomain [127.0.0.1])
+	by rbl.ccert.edu.cn (8.12.11/8.12.11) with ESMTP id i97BMB3t014180
+	for <he@ccert.edu.cn>; Thu, 7 Oct 2004 19:22:12 +0800
+Received: (from qa@localhost)
+	by rbl.ccert.edu.cn (8.12.11/8.12.11/Submit) id i97BMBMi014179;
+	Thu, 7 Oct 2004 19:22:11 +0800
+Date: Thu, 7 Oct 2004 19:22:11 +0800
+Message-Id: <200410071122.i97BMBMi014179@rbl.ccert.edu.cn>
+Subject: =?gb2312?B?ofEgztLV4tH5z97Wxsv7u+G63Ln9t93C8KO/?=
+To: he@ccert.edu.cn
+From: Tran Quang Anh <zhao@cernet.edu.cn>
+Content-Type: multipart/mixed; boundary="----------=_1097148132-996-890"
+MIME-Version: 1.0
+X-UIDL: Ql3"!BN`!!Fk<"!c^H"!
+
+  今天跟猪头宝讲电话，他一直咳嗽
+  我就问他，是不是又抽烟了，要他坦白，他说是。
+  猪头宝本身是"自发性气胸"的好发体质 (高、瘦、年轻的男性)
+  工作也是整天接触化学药品的危险性工作，身体搞得很糟糕
+  前阵子才因气胸而住院，肺部整个都积水了，还一度休克
+  常常跟我讲话讲到一半就呼吸困难。
+  于是我希望他戒烟，他答应了
+  但我自己心里明白，抽烟成瘾的人，是很难戒烟成功的
+  我也不想强人所难，要他放弃他的嗜好
+  只是他身体已经很不好，再抽烟更会影响他的病情。
+  我很矛盾，一方面不想限制他(想让他做他自己)
+  一方面为了他的身体著想，不得不扮黑脸
+  看他烟瘾犯的样子，我也很难过
+  我这样限制他，是不是太过份了呢？
+ 
+

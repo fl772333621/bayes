@@ -1,0 +1,40 @@
+Return-Path: <shi@home.ccert.edu.cn>
+Received: from home.ccert.edu.cn (localhost [127.0.0.1])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id i9B7v7Gg014921;
+	Mon, 11 Oct 2004 15:57:07 +0800
+Received: (from majordomo@localhost)
+	by home.ccert.edu.cn (8.13.1/8.13.1/Submit) id i9B7v7f1014920;
+	Mon, 11 Oct 2004 15:57:07 +0800
+X-Authentication-Warning: home.ccert.edu.cn: majordomo set sender to owner-ccertstaff using -f
+Received: from power001 ([202.112.50.103])
+	(authenticated bits=0)
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id i9B7v5wS014916
+	for <fu@ccert.edu.cn>; Mon, 11 Oct 2004 15:57:06 +0800
+Message-ID: <00e001c4af69$6d7cd160$673270ca@Power001>
+From: "shi" <shi@ccert.edu.cn>
+To: fu@ccert.edu.cn
+Subject: =?gb2312?B?UmU6ILClLLW91eLLtcu1sMku?=
+Date: Mon, 11 Oct 2004 16:07:59 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_00DD_01C4AFAC.7A885FD0"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.3790.181
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.3790.181
+Sender: owner-ccertstaff@home.ccert.edu.cn
+Precedence: bulk
+X-UIDL: A,'!!)HQ"!0$J"!ej6"!
+
+你可知现在校内N+1的哥们找不到mm
+: 标  题: 哎,到这说说吧.
+: 发信站: 水木社区 (Sun Jun 12 18:26:46 2005), 站内
+: 
+:      昨天有一女的知道我LG是清华的,那个吃惊呀!问我是怎么"搞"到他的.她就是说的"搞"这个字.
+:     我也很吃惊呀!要说起来也算是他自动送上门的吧.我干嘛要去"搞"一个清华的呀.
+: 接着问我是哪个学校毕业的的,什么文凭,家是哪的.他家是哪的.我回答也不好不回答也不好.
+:    哇!这清华男生受欢迎的程度远远超过了我的想象.我应该高兴吗?
+: --
+: 
+: ※ 来源:·水木社区 http://newsmth.net·[FROM: 218.109.196.*]
+

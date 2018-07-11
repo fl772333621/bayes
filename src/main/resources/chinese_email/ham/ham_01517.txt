@@ -1,0 +1,40 @@
+Return-Path: <che@home.ccert.edu.cn>
+Received: from home.ccert.edu.cn (localhost [127.0.0.1])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id j0KCnin4000847;
+	Thu, 20 Jan 2005 20:49:44 +0800
+Received: (from majordomo@localhost)
+	by home.ccert.edu.cn (8.13.1/8.13.1/Submit) id j0KCnipL000846;
+	Thu, 20 Jan 2005 20:49:44 +0800
+X-Authentication-Warning: home.ccert.edu.cn: majordomo set sender to owner-ccertstaff using -f
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id j0KCnX4A000824
+	for <shen@ccert.edu.cn>; Thu, 20 Jan 2005 20:49:33 +0800
+Received: from WHITESNOW (tu203022.ip.tsinghua.edu.cn [166.111.203.22])
+	(authenticated bits=0)
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id j0KD1EUs002854
+	for <shen@ccert.edu.cn>; Thu, 20 Jan 2005 21:01:16 +0800 (CST)
+Message-ID: <000001c4fef0$2dc025f0$16cb6fa6@WHITESNOW>
+From: "che" <che@cernet.edu.cn>
+To: shen@ccert.edu.cn
+Subject: =?gb2312?B?UmU6IMjL0qq21NfUvLq1xNDSuKO4utTw?=
+Date: Thu, 20 Jan 2005 20:23:14 +0800
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="----=_NextPart_000_000A_01C4FF2D.DE7A8880"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2900.2180
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+Sender: owner-ccertstaff@home.ccert.edu.cn
+Precedence: bulk
+X-UIDL: -6i"!H*n!!!lS!!EFP!!
+
+女人啊，就是狠容易迷失自己，
+旁观者的时候想的狠清楚，自己一定不能怎样怎样。。
+一旦险了进去，往往就全身心投入了，
+没办法，天性使然
+:     经常看到现代陈世美的故事,每次仍然会有痛心的感觉.人生是很漫长的过程,但有时小小的一个瞬间就能决定未来的命运.
+:     作为一个成年人,每个人都有自己的判别能力,也都应该有保护自己的意识,尤其是在婚姻这种大事上,尤其是女人.
+:     任何悲剧在发生之前都有或多或少的征兆,任何伪君子在露出真面目之前也都会露些许的马脚.
+: ...................
+

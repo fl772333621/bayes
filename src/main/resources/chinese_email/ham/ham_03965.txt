@@ -1,0 +1,33 @@
+Return-Path: <kang@mails.tsinghua.edu.cn>
+Received: from mails.tsinghua.edu.cn (mails.tsinghua.edu.cn [166.111.8.16])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id i8R9GJ0L004308
+	for <long@ccert.edu.cn>; Mon, 27 Sep 2004 17:16:19 +0800 (CST)
+Received: (eyou send program); Mon, 27 Sep 2004 17:11:15 +0800
+Message-ID: <296276275.27033@mails.tsinghua.edu.cn>
+Received: from unknown (HELO mails.tsinghua.edu.cn) (unknown@127.0.0.1)
+ by 127.0.0.1 with SMTP; Mon, 27 Sep 2004 17:11:15 +0800
+X-scanvirus: By Symantec Scan Engine
+X-scanresult: CLEAN
+Received: (eqmail ); 27 Sep 2004 09:11:09 -0000
+Received: from unknown (HELO lulh) (xwang03@202.112.50.170)
+  by mails.tsinghua.edu.cn with SMTP; 27 Sep 2004 09:11:09 -0000
+Message-ID: <004401c4a473$49fb0b40$aa3270ca@lulh>
+From: "kang" <kang@mails.tsinghua.edu.cn>
+To: long@ccert.edu.cn
+Subject: =?gb2312?B?UmU6IM7Sz+vP66Osuse6xw==?=
+Date: Mon, 27 Sep 2004 17:20:50 +0800
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="----=_NextPart_000_0040_01C4A4B6.564322A0"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2800.1437
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1441
+X-UIDL: 5Y<!!TWS!!B]_!!k8o"!
+
+工作以后再去充电很正常阿，不影响结婚的。到时你也可以做一些兼差。
+: 心里乱乱的，很多问题需要我自己来想明白，需要我来面对，但是只有我自己知道我什么都没想好
+: 首先我不喜欢现在的工作，我觉得枯燥，所以我告诉妈妈，告诉男友，我要去上学，只为摆脱现在这样的环境
+: 然后所有人都同意我去上学，去读三年的书，专业学校我都没想好，我需要为男友考虑，也需要为我们的将来考虑，因为男友支持我上学
+: ...................
+

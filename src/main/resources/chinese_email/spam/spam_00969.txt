@@ -1,0 +1,30 @@
+Return-Path: <jian@sina.com>
+Received: from sina.com ([61.147.255.39])
+	by home.ccert.edu.cn (MIMEDefang) with ESMTP id NOQUEUE
+	for <hu@ccert.edu.cn>; Thu, 02 Jun 2005 23:57:02 +0800 (CST)
+Message-ID: <200506022357.0.806547347006738@home.ccert.edu.cn>
+From: =?GB2312?B?1tDJzNTaz98=?= <jian@sina.com>
+Subject: =?gb2312?B?QXNwLm5ldL/VvOSjqDUwTaOp1MK4tjE11KqjoQ==?=
+To: hu@ccert.edu.cn
+Content-Type: text/html;charset="GB2312"
+Content-Transfer-Encoding: 8bit
+Reply-To: jian@sina.com
+Date: Fri, 3 Jun 2005 00:14:08 +0800
+X-Priority: 3
+X-Mailer: Microsoft Outlook Express 5.50.4133.2400
+
+
+
+月付主机，15元/月，一次付一年只要150元，配置如下： 
+
+支持脚本：asp、asp.net;  
+空间大小：50M；  
+数据库：Access；  
+FTP自主管理；  
+免费送一个二级域名（可自主开设无限三级域名）；  
+
+增加网站空间：2元/M
+
+
+ 
+

@@ -1,0 +1,38 @@
+Return-Path: <chen@home.ccert.edu.cn>
+Received: from home.ccert.edu.cn (localhost [127.0.0.1])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id iB21UJ9E000519;
+	Thu, 2 Dec 2004 09:30:19 +0800
+Received: (from majordomo@localhost)
+	by home.ccert.edu.cn (8.13.1/8.13.1/Submit) id iB21UJUH000518;
+	Thu, 2 Dec 2004 09:30:19 +0800
+X-Authentication-Warning: home.ccert.edu.cn: majordomo set sender to owner-ccertstaff using -f
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id iB21TDTX000490;
+	Thu, 2 Dec 2004 09:29:13 +0800
+Received: from WHITESNOW ([220.207.85.19])
+	(authenticated bits=0)
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id iB21gDjs025535;
+	Thu, 2 Dec 2004 09:42:17 +0800 (CST)
+Message-ID: <004601c4d810$2a46dce0$1355cfdc@WHITESNOW>
+From: "chen" <chen@cernet.edu.cn>
+To: hong@ccert.edu.cn
+Cc: <xu@ccert.edu.cn>
+References: <001801c4d808$d33af190$15cb6fa6@ccertspark>
+Subject: =?gb2312?B?UmU6IM/W1NrV5rXEsrvWqrXAuMPU9cO0sOzByw==?=
+Date: Thu, 2 Dec 2004 09:42:12 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0043_01C4D853.32E944D0"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2900.2180
+X-Mimeole: Produced By Microsoft MimeOLE V6.00.2900.2180
+Sender: owner-ccertstaff@home.ccert.edu.cn
+Precedence: bulk
+X-UIDL: EGG!!/&?!!M\h"!!9""!
+
+哈哈，这么好的条件，有人出钱供你生活复习，不利用空余时间学习/复习真是亏了
+: 唉其实也不一定……
+: 我也考了两年了，第一年本科毕业就没有过危机感也没怎么复习，这次又考的可是一向数学比较差的我这次把大多数时间都给了它可是还没有及格……而且差的还不是10分，8分的。但是其他课程都和不错，那大家说我该怎么办呢？我虽然已经有一份工作了，国企，很稳定，虽然钱不多可是福利待遇很好，可是每当看到人浮于事的这个地方每天早上9点前、下午3点前基本没人上班，而中午11点以后、下午4点半以后整个楼里空无一人的时候，我也很不甘心，如果我不再考，父母是绝对不会同意我一个女孩子跑到外面打工的。
+: 有时候事情真的不是我们所想那么简单的……
+

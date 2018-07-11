@@ -1,0 +1,76 @@
+Return-Path: <xin@tsinghua.edu.cn>
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with SMTP id j0J8FhLU015952
+	for <yu@ccert.edu.cn>; Wed, 19 Jan 2005 16:15:44 +0800
+Received: (eyou send program); Wed, 19 Jan 2005 16:11:25 +0800
+Message-ID: <306122285.03068@mail.tsinghua.edu.cn>
+Received: from unknown (HELO mail.tsinghua.edu.cn) (unknown@127.0.0.1)
+ by 127.0.0.1 with SMTP; Wed, 19 Jan 2005 16:11:25 +0800
+X-scanvirus: By Symantec Scan Engine
+X-scanresult: CLEAN
+Received: (eqmail ); 19 Jan 2005 08:11:23 -0000
+Received: from unknown (HELO sony) (duanhx@202.112.35.253)
+  by localhost with SMTP; 19 Jan 2005 08:11:23 -0000
+Message-ID: <026601c4fe00$adcbb480$0301a8c0@sony>
+From: "xin" <xin@tsinghua.edu.cn>
+To: yu@ccert.edu.cn
+Subject: =?gb2312?B?ofEgofG12tK7vezLrsS+yefH+M3409HMqMfyyPyh8aHxICjXqtTYKQ==?=
+Date: Wed, 19 Jan 2005 16:27:12 +0800
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="----=_NextPart_000_0262_01C4FE43.BB178040"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2800.1106
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1106
+X-UIDL: 1Nj"!P)%!!/fi!!#^:"!
+
+【 以下文字转载自 Billiards 讨论区 】
+发信人: quartz (水晶|当我想你的时候), 信区: Billiards
+标  题: ●第一届水木社区网友台球赛●●
+发信站: 水木社区 (Thu Jun  2 23:30:08 2005), 站内
+*赛事名称：第一届水木社区网友台球赛正式开始报名
+欢迎网友踊跃报名参加比赛~
+可re此帖报名或站内信箱，也可现场报名
+*竞赛规程：
+1、签到时间：2005年6月4日（周六）上午8：35-9:00
+   如果您愿意，希望您能留下联系方式以便今后版聚或其他活动的联系。
+   比赛时间：上午9:00-下午5:30
+   比赛地点：北京东恒台球厅清华分部
+2、赛事分为两个阶段进行；先分小组进行组内循环赛，然后进行淘汰赛.
+小组赛阶段说明:
+a)每位选手签到后进行抽签，将拿到写有“X组-X台-X号”的卡片，请保存好，直接去所在的球台与本组的其他对手对阵。小组赛分两大组进行，需共16张球台。每位选手抽签后前48号选手先进行第一
+大组的比赛；
+b)每组3人，组内单循环，3局2胜。（遇mm由mm自由决定让后二或后一或不让，男选手必须无条件遵守）
+c)各组选手比赛完后请填写好成绩单交到赛事检录处。
+d)为使比赛更有悬念，每组的第二场比赛由上一场输的选手对阵未比赛的选手。请选手和裁判互相提醒。（
+防止同一选手连赢两场即直接出线，第三场比赛成为垃圾比赛）
+e)如组内出现积分相同情况，则加赛罚黑八。
+方法如下：将黑八放于置球点，母球位于开球线后任意位置，每人轮流罚三次，进球多者出线。
+淘汰赛阶段说明：
+a)16进8，8进4，均为5局3胜。
+b)半决赛和决赛均为7局4胜。
+*参赛资格
+水木社区网友
+*参赛办法
+请于版面报名，注明id和性别。
+或者于赛事举办当天现场报名。
+本次比赛为免费参加，除台费外一切费用自理
+*其他：
+a)比赛规则详情请见版内文章;
+b)小组赛阶段为组内球员自己裁决，决赛阶段地比赛由专人负责裁决，如有争议或疑问请找本次赛事仲裁。
+c)选手需自备饮食，球厅同时有偿提供。
+d)打球期间请选手们注意保护台泥，如有意外请自行赔付
+               
+奖励：
+第一名：25小时免费球卡
+第二名：20小时
+第三名：15小时
+4-8名：5小时
+此免费球卡可以东升免费营业期后使用
+使用时段为周日凌晨1点到周五下午7点
+（周五7点以后到周日凌晨1点间不能使用）
+感谢东恒台球厅清华园店（即原东升台球厅）友情提供比赛场地及赞助奖品
+欢迎网友踊跃报名参加比赛~
+可re此帖报名或站内信箱，也可现场报名
+

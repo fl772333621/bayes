@@ -1,0 +1,31 @@
+Return-Path: <kang@mails.tsinghua.edu.cn>
+Received: from mails.tsinghua.edu.cn (mails.tsinghua.edu.cn [166.111.8.16])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id i9J1Qj8f016893
+	for <ning@ccert.edu.cn>; Tue, 19 Oct 2004 09:26:45 +0800 (CST)
+Received: (eyou send program); Tue, 19 Oct 2004 09:21:35 +0800
+Message-ID: <298148895.10563@mails.tsinghua.edu.cn>
+Received: from unknown (HELO mails.tsinghua.edu.cn) (unknown@127.0.0.1)
+ by 127.0.0.1 with SMTP; Tue, 19 Oct 2004 09:21:35 +0800
+X-scanvirus: By Symantec Scan Engine
+X-scanresult: CLEAN
+Received: (eqmail ); 19 Oct 2004 01:21:33 -0000
+Received: from unknown (HELO user-7bkbiq72wz) (dijg01@202.112.50.202)
+  by mails.tsinghua.edu.cn with SMTP; 19 Oct 2004 01:21:33 -0000
+From: "kang" <kang@mails.tsinghua.edu.cn>
+To: ning@ccert.edu.cn
+Subject: Re: 50.20
+X-mailer: Foxmail 4.2 [cn]
+Mime-Version: 1.0
+Content-Type: multipart/alternative;
+      boundary="=====002_Dragon650367105180_====="
+Date: Tue, 19 Oct 2004 9:23:24 +0800
+X-UIDL: V&5!!O[B"!0$6"!-]-"!
+
+ ................
+ ...............
+ 好伟大得事业!.....
+: 同志们，朋友们：
+:     大家下午好！今天很高兴大家能欢聚一堂，听俺做这个征友汇报。上周日下午，俺在这里发贴子征集了一批孩子去同一首歌杀人唱歌，今天就给大家做个汇报。总的来说，这次聚会是个成功的聚会，团结的聚会，先进的聚会。在此，俺代表组织中央，代表全体组织人员，向大家发
+:     我们八个革命同志，本着男女搭配干活不累的原则，精简了活动队伍，调整了男女配比，四男四女的性别比例是俺们活动成功的前提条件。在此后很长一段时间内，我们将坚持这个原则，一百天不变。
+: ...................
+

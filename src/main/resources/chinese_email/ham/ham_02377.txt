@@ -1,0 +1,35 @@
+Return-Path: <zhou@mails.tsinghua.edu.cn>
+Received: from mails.tsinghua.edu.cn (mails.tsinghua.edu.cn [166.111.8.16])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id i8R9GJ0L004308
+	for <rao@ccert.edu.cn>; Mon, 27 Sep 2004 17:16:19 +0800 (CST)
+Received: (eyou send program); Mon, 27 Sep 2004 17:11:15 +0800
+Message-ID: <296276275.27033@mails.tsinghua.edu.cn>
+Received: from unknown (HELO mails.tsinghua.edu.cn) (unknown@127.0.0.1)
+ by 127.0.0.1 with SMTP; Mon, 27 Sep 2004 17:11:15 +0800
+X-scanvirus: By Symantec Scan Engine
+X-scanresult: CLEAN
+Received: (eqmail ); 27 Sep 2004 09:11:09 -0000
+Received: from unknown (HELO lulh) (xwang03@202.112.50.170)
+  by mails.tsinghua.edu.cn with SMTP; 27 Sep 2004 09:11:09 -0000
+Message-ID: <004401c4a473$49fb0b40$aa3270ca@lulh>
+From: "zhou" <zhou@mails.tsinghua.edu.cn>
+To: rao@ccert.edu.cn
+Subject: =?gb2312?B?UmU6IM3GvPYgw8C5+tW9ttM=?=
+Date: Mon, 27 Sep 2004 17:20:50 +0800
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="----=_NextPart_000_0040_01C4A4B6.564322A0"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2800.1437
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1441
+X-UIDL: 5Y<!!TWS!!B]_!!k8o"!
+
+这个见仁见智吧.比如男主人公的成长史,本来是个对战争冷漠的嘻皮士人物,最后成为team的英雄,而且是作为一个正面角色. 还有男主人公的童年噩梦( 因为自己的过失哥哥被猩猩吃了) ,按我理解, 这个噩梦中的我恐怕是暗喻着team,而吃人的猩猩是比喻着金正日之类的
+力量. 也就是说,team即使有过失,在猩猩面前也是正义的.这个逻辑正好和dick-asshole的逻辑是前后对应的.
+如果基调是anti team的,电影为啥要丑化那些反战人士呢. 
+: 这个我承认  
+: 但整个片子的基调绝对是anti team America的
+: 最后一段：
+: ...................
+

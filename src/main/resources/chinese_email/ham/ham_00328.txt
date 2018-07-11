@@ -1,0 +1,63 @@
+Return-Path: <ma@ccert.edu.cn>
+Received: from tsinghua.org.cn ([210.77.143.231])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id iBSABAro021781
+	for <yun@ccert.edu.cn>; Tue, 28 Dec 2004 18:11:17 +0800
+Received: (eyou send program); Tue, 28 Dec 2004 18:04:42 +0800
+Received: (eyou send program); Tue, 28 Dec 2004 18:04:42 +0800
+X-EYOU-ORIGINAL-IP: 210.77.143.235
+X-EYOU-ENVELOPE-MAILFROM: zhenghui@ccert.edu.cn
+Received: from unknown (HELO eyou.net) (unknown@210.77.143.235)
+ by 210.77.143.231 with SMTP; Tue, 28 Dec 2004 18:04:42 +0800
+Received: (eyou send program); Tue, 28 Dec 2004 18:19:06 +0800
+Message-ID: <304229146.14300@eyou.net>
+Received: from 166.111.8.16 by 210.77.143.235 with SMTP; Tue, 28 Dec 2004 18:19:01 +0800
+Received: (eyou send program); Tue, 28 Dec 2004 18:19:42 +0800
+Message-ID: <304229182.17380@mails.tsinghua.edu.cn>
+Received: (eyou send program); Tue, 28 Dec 2004 18:19:42 +0800
+Message-ID: <304229182.09876@mails.tsinghua.edu.cn>
+Received: from unknown (HELO mails.tsinghua.edu.cn) (unknown@127.0.0.1)
+ by 127.0.0.1 with SMTP; Tue, 28 Dec 2004 18:19:42 +0800
+X-scanvirus: By Symantec Scan Engine
+X-scanresult: CLEAN
+X-Received: unknown,202.112.57.12,20041228181940
+Received: from unknown (HELO home.ccert.edu.cn) (202.112.57.12)
+  by localhost with SMTP; 28 Dec 2004 10:19:40 -0000
+Received: from home.ccert.edu.cn (localhost [127.0.0.1])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id iBSA2VS2021583;
+	Tue, 28 Dec 2004 18:02:36 +0800
+Received: (from majordomo@localhost)
+	by home.ccert.edu.cn (8.13.1/8.13.1/Submit) id iBSA2UgJ021582;
+	Tue, 28 Dec 2004 18:02:30 +0800
+X-Authentication-Warning: home.ccert.edu.cn: majordomo set sender to owner-ccertstaff using -f
+Received: from ccertspark (tu203021.tsinghua.edu.cn [166.111.203.21])
+	(authenticated bits=0)
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id iBSA2FKX021569
+	for <yun@ccert.edu.cn>; Tue, 28 Dec 2004 18:02:20 +0800
+Reply-To: <ma@cernet.edu.cn>
+From: "ma" <ma@ccert.edu.cn>
+To: yun@ccert.edu.cn
+Subject: =?gb2312?B?UmU6IEdHy7XL+8Lowuiz9seusO/O0ru51vrRp7T7v+6jrNXi0fm6z8rKwvCjvw==?=
+Date: Tue, 28 Dec 2004 18:14:39 +0800
+Message-ID: <000701c4ecc6$136125b0$15cb6fa6@ccertspark>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0008_01C4ED09.218465B0"
+X-Priority: 3 (Normal)
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook, Build 10.0.6626
+Importance: Normal
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.3790.181
+Sender: owner-ccertstaff@home.ccert.edu.cn
+Precedence: bulk
+X-UIDL: ,>*!!>;!#!nje!!nFZ"!
+
+建议不要
+还没过门就要人家的钱总之不太好...
+何必呢
+也没多少钱
+BTW:你GG为啥不帮你还?
+: 我现在刚毕业，要还款，GG说让他妈妈出钱还，以后我存了钱再还他妈妈就可以了，不用付利息。
+: 我现在的工作一年还清贷款比较有希望，但可能还要还2000左右的利息（总共3万左右），GG觉得把利息付银行挺亏的。
+: 我和GG还没结婚，但感情挺好，只是觉得还没嫁给他就和他们家扯上钱的关系，感觉不太舒服，欠了他妈妈人情似的，这样合适吗？
+: ...................
+

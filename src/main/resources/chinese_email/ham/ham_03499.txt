@@ -1,0 +1,34 @@
+Return-Path: <bi@mails.tsinghua.edu.cn>
+Received: from mails.tsinghua.edu.cn (mails.tsinghua.edu.cn [166.111.8.16])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id i9I7T8mL029486
+	for <zhuang@ccert.edu.cn>; Mon, 18 Oct 2004 15:29:08 +0800 (CST)
+Received: (eyou send program); Mon, 18 Oct 2004 15:23:58 +0800
+Message-ID: <298084238.25515@mails.tsinghua.edu.cn>
+Received: from unknown (HELO mails.tsinghua.edu.cn) (unknown@127.0.0.1)
+ by 127.0.0.1 with SMTP; Mon, 18 Oct 2004 15:23:58 +0800
+X-scanvirus: By Symantec Scan Engine
+X-scanresult: CLEAN
+Received: (eqmail ); 18 Oct 2004 07:23:56 -0000
+Received: from tu172241.tsinghua.edu.cn (HELO yfzy) (yang.feng00@166.111.172.241)
+  by mails.tsinghua.edu.cn with SMTP; 18 Oct 2004 07:23:56 -0000
+Message-ID: <000c01c4b4e3$e7186cd0$f1ac6fa6@yfzy>
+From: "bi" <bi@mails.tsinghua.edu.cn>
+To: zhuang@ccert.edu.cn
+References: <298081525.18815@mails.tsinghua.edu.cn>
+Subject: =?gb2312?B?UmU6IMfXsK61xKOsztLWu7rDz8i3xcb6xOM=?=
+Date: Mon, 18 Oct 2004 15:27:18 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0009_01C4B526.F481D2B0"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2600.0000
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2600.0000
+X-UIDL: f>2!!9hg!!680!!_pO!!
+
+好像看到了我的影子。女人真的是爱的动物。如果你们真的相爱，那就要有个人牺牲一下，去对方那里。如果觉得做不到，还是分手吧。不要浪费彼此的青春了。去再找一个对你好的人。要知道谁也不是谁的唯一。也许会痛一阵子，但长痛不如短痛！ 
+: 2   000年4月25日
+: 　　季明朗，你知道自己有多迟钝吗？虽然学姐都说理科生木讷冥顽不解风情，但我改造你半年，你怎么能仍然是磐石一块？想想就觉得委屈，从认识开始，老是我在不停地努力靠近你。
+: 　　11月，宿舍的长廊开始飘进零星的黄叶，南门口的小街上溢出烤番薯的浓香。难道你没有觉得奇怪，为什么总会在那个大铁桶前看到一个长头发小个儿认真挑着番薯的女孩？图书馆第9排左边靠窗的位置，下午2点，最最温暖。难道你也没有发现，坐在对面的总是那个女孩？
+: ...................
+

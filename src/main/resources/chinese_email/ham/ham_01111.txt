@@ -1,0 +1,45 @@
+Return-Path: <kong@home.ccert.edu.cn>
+Received: from home.ccert.edu.cn (localhost [127.0.0.1])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id iAU4t47g000934;
+	Tue, 30 Nov 2004 12:55:04 +0800
+Received: (from majordomo@localhost)
+	by home.ccert.edu.cn (8.13.1/8.13.1/Submit) id iAU4t34S000933;
+	Tue, 30 Nov 2004 12:55:03 +0800
+X-Authentication-Warning: home.ccert.edu.cn: majordomo set sender to owner-ccertstaff using -f
+Received: from ccertspark (tu203021.tsinghua.edu.cn [166.111.203.21])
+	(authenticated bits=0)
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id iAU4suwt000922
+	for <luo@ccert.edu.cn>; Tue, 30 Nov 2004 12:54:56 +0800
+From: "kong" <kong@ccert.edu.cn>
+To: luo@ccert.edu.cn
+Subject: =?gb2312?B?UmU6ILCz1qq1wLXEw8C5+qOh?=
+Date: Tue, 30 Nov 2004 13:06:50 +0800
+Message-ID: <001001c4d69a$665f0f30$15cb6fa6@ccertspark>
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="----=_NextPart_000_0011_01C4D6DD.74824F30"
+X-Priority: 3 (Normal)
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook, Build 10.0.6626
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.3790.181
+Importance: Normal
+Sender: owner-ccertstaff@home.ccert.edu.cn
+Precedence: bulk
+X-UIDL: ,,V!!fBl!!,62!!^3Y"!
+
+主要是在座这帮年轻有为月薪以7000rmb来衡量的人群，
+在国内属于相对富裕，有剥削者性质的人群。
+当然在国内舒服了，
+比如每天都可以去吃成都小吃。
+但是到了人家美国就属于下层社会了，
+束手束脚，
+遭人可怜，
+就不舒服了。
+但横向比较起来，
+能蹭上资本主义的富裕光，
+绝对物质享受到似乎比国内强。
+: 7000的话交税865元，离20％差很远呐……
+: 如果月薪7000的话，要扣除10％左右的住房公积金、8％的养老保险、2％的医疗保险、0.5％的失业保险……再交税的话是584.5元，也就8％
+: 如果自己的父母是工薪阶层，别人的父母是小资家庭，那么就要说自己的父母不好，认别家作父母去？我不会出国，我要看这自己的家强大起来。
+: ...................
+

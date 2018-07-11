@@ -1,0 +1,26 @@
+Return-Path: <yan@rbl.ccert.edu.cn>
+Received: from rbl.ccert.edu.cn (rbl.ccert.edu.cn [202.112.57.71])
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id i9J9Tnab026599
+	for <kong@ccert.edu.cn>; Tue, 19 Oct 2004 17:29:50 +0800 (CST)
+Received: from rbl.ccert.edu.cn (localhost.localdomain [127.0.0.1])
+	by rbl.ccert.edu.cn (8.12.11/8.12.11) with ESMTP id i9J994Zt021331
+	for <kong@ccert.edu.cn>; Tue, 19 Oct 2004 17:09:06 +0800
+Received: (from qa@localhost)
+	by rbl.ccert.edu.cn (8.12.11/8.12.11/Submit) id i9J994j0021330;
+	Tue, 19 Oct 2004 17:09:04 +0800
+Date: Tue, 19 Oct 2004 17:09:04 +0800
+Message-Id: <200410190909.i9J994j0021330@rbl.ccert.edu.cn>
+Subject: =?gb2312?B?UmU6ILnY09rNy9GnzsrM4g==?=
+To: kong@ccert.edu.cn
+From: Tran Quang Anh <yan@cernet.edu.cn>
+Content-Type: multipart/mixed; boundary="----------=_1098176946-17653-6"
+MIME-Version: 1.0
+X-UIDL: W00"!k5l"!Lih"!R?5!!
+
+大姐，你知足吧，我也是读四年那种，你还别说导师指导你们0.1%  我都来了一年了，从头到尾见了3次导师：一次是刚进来请我们吃饭，一是在路上不小心碰倒，一次是他让我帮他代课叫我过去交待事情。
+不过俺们还有一点较让我欣慰，这一年光学硕士的课程，丁点别的事情都没有做，天天玩，但是该给我们的钱一分都没有少，好像有时候还跟哥们多给，哈哈，这一点还是比较爽！
+: 嗯，原来对导师很敬仰，后来觉得他现在整天就想着怎么啦项目赚钱
+: 用学生做廉价劳动力，对我们的指导可以说0.1%，我认识的人大部分都在自己导自己
+: 其实还有一个原因，多少博导是一个合格的导师，付出了时间，你学到了什么
+: ...................
+

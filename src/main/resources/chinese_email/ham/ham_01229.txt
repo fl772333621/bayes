@@ -1,0 +1,33 @@
+Return-Path: <han@tsinghua.edu.cn>
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id iAU7gOcV015953
+	for <guo@ccert.edu.cn>; Tue, 30 Nov 2004 15:42:24 +0800 (CST)
+Received: (eyou send program); Tue, 30 Nov 2004 15:27:18 +0800
+Message-ID: <301799638.04809@mail.tsinghua.edu.cn>
+Received: from unknown (HELO mail.tsinghua.edu.cn) (unknown@127.0.0.1)
+ by 127.0.0.1 with SMTP; Tue, 30 Nov 2004 15:27:18 +0800
+X-scanvirus: By Symantec Scan Engine
+X-scanresult: CLEAN
+Received: (eqmail ); 30 Nov 2004 07:27:17 -0000
+Received: from unknown (HELO sony) (duanhx@166.111.204.112)
+  by localhost with SMTP; 30 Nov 2004 07:27:17 -0000
+Message-ID: <015b01c4d6b0$1cc8db10$70cc6fa6@sony>
+From: "han" <han@tsinghua.edu.cn>
+To: guo@ccert.edu.cn
+Subject: =?gb2312?B?UmU6IMfz1vqjus+yu7bL/ci0w7vT0NDF0MTLtQ==?=
+Date: Tue, 30 Nov 2004 15:42:14 +0800
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2900.2180
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+Content-Transfer-Encoding: 8bit
+X-MIME-Autoconverted: from base64 to 8bit by sea.net.edu.cn id iAU7gOcV015953
+X-UIDL: P'k"!U(:!!>/7"!=c-!!
+
+怕被拒绝就别表白，另外，如果男人没什么能力，追上也得再分，麻烦~
+: 小时候我们是一个村的，我们一起上小学直到小学4年级，后来我转外地求学了,从那时起就没有见过面,但是我对她的印象一直很深,可能是她很聪明又长得比较秀气吧,反正我是一直都记得她的.去年回老家过年,我们见面了!13年后又相见了,我好高兴!只是我比较害羞,话语比较少,大多
+: 我准备在她离校前送花给她。如果不是玫瑰花，那应该是什么花呢？
+

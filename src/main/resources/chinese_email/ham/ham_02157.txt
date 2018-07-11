@@ -1,0 +1,23 @@
+Return-Path: <tan@rbl.ccert.edu.cn>
+Received: from rbl.ccert.edu.cn (rbl.ccert.edu.cn [202.112.57.71])
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id i96BCvST003505
+	for <yuan@ccert.edu.cn>; Wed, 6 Oct 2004 19:12:57 +0800 (CST)
+Received: from rbl.ccert.edu.cn (localhost.localdomain [127.0.0.1])
+	by rbl.ccert.edu.cn (8.12.11/8.12.11) with ESMTP id i96BIpat028073
+	for <yuan@ccert.edu.cn>; Wed, 6 Oct 2004 19:18:53 +0800
+Received: (from qa@localhost)
+	by rbl.ccert.edu.cn (8.12.11/8.12.11/Submit) id i96BIpdY028072;
+	Wed, 6 Oct 2004 19:18:51 +0800
+Date: Wed, 6 Oct 2004 19:18:51 +0800
+Message-Id: <200410061118.i96BIpdY028072@rbl.ccert.edu.cn>
+Subject: =?gb2312?B?UmU6IL3xzOzT0LXjyfpnZ7XExvg=?=
+To: yuan@ccert.edu.cn
+From: Tran Quang Anh <tan@cernet.edu.cn>
+Content-Type: multipart/mixed; boundary="----------=_1097061533-996-616"
+MIME-Version: 1.0
+X-UIDL: `A+"!b%*!!3J""!T/9!!
+
+到现在去过三次沃尔玛了，蔬果区唯一有印象的就是荔枝，因为zt爱吃荔枝，所以每次都会在那站一会。而我喜欢吃的水果我从来都来不及看一眼，虽然名义上逛了两遍，除了荔枝和西瓜，对沃尔玛的蔬果区没有任何印象！
+: 有点饿了，找了一遍抽屉，什么零食也没有。最后一点小饼干zt刚才来邀我吃饭的时候都给吃光了。zt总是不晓得我喜欢手边有点零食，不记得留心给我买，陪我逛超市也总是走的很快，搞得我樟脑球很久了都一直没有机会买，上回眼睁睁的看着它们赫然挂在沃尔玛的端架上，愣是为了追赶推车飞奔的zt没顾上拿。
+: 为什么没有bf以前，偶的零食从来都不会没的吃呢。
+

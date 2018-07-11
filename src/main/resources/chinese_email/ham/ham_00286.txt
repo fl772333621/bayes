@@ -1,0 +1,26 @@
+Return-Path: <hou@rbl.ccert.edu.cn>
+Received: from rbl.ccert.edu.cn (rbl.ccert.edu.cn [202.112.57.71])
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id i96MdaT9011168
+	for <cao@ccert.edu.cn>; Thu, 7 Oct 2004 06:39:36 +0800 (CST)
+Received: from rbl.ccert.edu.cn (localhost.localdomain [127.0.0.1])
+	by rbl.ccert.edu.cn (8.12.11/8.12.11) with ESMTP id i96MjXB7005688
+	for <cao@ccert.edu.cn>; Thu, 7 Oct 2004 06:45:34 +0800
+Received: (from qa@localhost)
+	by rbl.ccert.edu.cn (8.12.11/8.12.11/Submit) id i96MjXqI005687;
+	Thu, 7 Oct 2004 06:45:33 +0800
+Date: Thu, 7 Oct 2004 06:45:33 +0800
+Message-Id: <200410062245.i96MjXqI005687@rbl.ccert.edu.cn>
+Subject: =?gb2312?B?UmU6ILK7zcKyu7/so6zSssu1y7W52NPax661xMrC?=
+To: cao@ccert.edu.cn
+From: Tran Quang Anh <hou@cernet.edu.cn>
+Content-Type: multipart/mixed; boundary="----------=_1097102734-996-728"
+MIME-Version: 1.0
+X-UIDL: W13"!9L6!!`K>"!B!^!!
+
+结婚之前就应改把这些事情理清楚了
+不然真的狠麻烦
+:     昨天早上BF回家了。
+:     BF家有一兄一姐，均已成家，但未立业，在我看来，属于大钱挣不来，小钱不爱挣的那种，没有技术，不屑于出苦力，父母随其兄生活，BF平时给的钱对付生病和平时的生活绰绰有余。BF爸爸身体不好，基本不能挣钱，他哥哥比BF大四岁，结婚、彩礼、房子、生孩子的花了不少钱
+:     家里一半人已来待过一段时间北京，他妈妈这两年每到冬天就来住着。BF工作挺辛苦的，但是家里有事就要给他打电话，比如，去年他姐姐得了妇科病，接二连三的来电话，好像我们是医生似的，还说北京的医生多，想来这里治病。看样子以后父母的养老送终，三个小孩上学，万
+: ...................
+

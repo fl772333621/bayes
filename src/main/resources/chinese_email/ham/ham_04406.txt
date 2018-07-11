@@ -1,0 +1,25 @@
+Return-Path: <ke@rbl.ccert.edu.cn>
+Received: from rbl.ccert.edu.cn (rbl.ccert.edu.cn [202.112.57.71])
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id i91BvTlp004976
+	for <peng@ccert.edu.cn>; Fri, 1 Oct 2004 19:57:29 +0800 (CST)
+Received: from rbl.ccert.edu.cn (localhost.localdomain [127.0.0.1])
+	by rbl.ccert.edu.cn (8.12.11/8.12.11) with ESMTP id i91C394l003781
+	for <peng@ccert.edu.cn>; Fri, 1 Oct 2004 20:03:09 +0800
+Received: (from qa@localhost)
+	by rbl.ccert.edu.cn (8.12.11/8.12.11/Submit) id i91C39gE003780;
+	Fri, 1 Oct 2004 20:03:09 +0800
+Date: Fri, 1 Oct 2004 20:03:09 +0800
+Message-Id: <200410011203.i91C39gE003780@rbl.ccert.edu.cn>
+Subject: =?gb2312?B?UmU6ILrDycvQxA==?=
+To: peng@ccert.edu.cn
+From: Tran Quang Anh <ke@cernet.edu.cn>
+Content-Type: multipart/mixed; boundary="----------=_1096632190-996-284"
+MIME-Version: 1.0
+X-UIDL: Q;Q"!:*W!!F59"!Q6-!!
+
+x....
+: 以为终于找到最后的那个人了，可以一心一意的依偎在他的身边。可是他却对我说，我不是他喜欢的那类女孩儿。他对我的感情是亲情，我好像一只在他的身边小动物。我很可爱，但对他来说我没有吸引力。
+: 我为他了改变了头发的颜色，因为他说他喜欢那种具有吸引力的女生。可是我发现我大概只能改变头发的颜色了，因为我就是我啊，我怎么可能变成另外一个人呢？
+: 我不敢对他说我好像有点开始爱上他了，因为我怕他会感到内疚的，我也怕我再也走不出来。可是现在我满脑子回响的都是我们说过的话。
+: ...................
+

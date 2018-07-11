@@ -1,0 +1,57 @@
+Return-Path: <xu@rbl.ccert.edu.cn>
+Received: from rbl.ccert.edu.cn (rbl.ccert.edu.cn [202.112.57.71])
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id i971BovD012860
+	for <kong@ccert.edu.cn>; Thu, 7 Oct 2004 09:11:50 +0800 (CST)
+Received: from rbl.ccert.edu.cn (localhost.localdomain [127.0.0.1])
+	by rbl.ccert.edu.cn (8.12.11/8.12.11) with ESMTP id i971HmPc026337
+	for <kong@ccert.edu.cn>; Thu, 7 Oct 2004 09:17:48 +0800
+Received: (from qa@localhost)
+	by rbl.ccert.edu.cn (8.12.11/8.12.11/Submit) id i971Hmg1026336;
+	Thu, 7 Oct 2004 09:17:48 +0800
+Date: Thu, 7 Oct 2004 09:17:48 +0800
+Message-Id: <200410070117.i971Hmg1026336@rbl.ccert.edu.cn>
+Subject: =?gb2312?B?UmU6IMfzzsq8uLj21rDO8cjnus63rdLro78zeA==?=
+To: kong@ccert.edu.cn
+From: Tran Quang Anh <xu@cernet.edu.cn>
+Content-Type: multipart/mixed; boundary="----------=_1097111868-996-776"
+MIME-Version: 1.0
+X-UIDL: =`_"!;_p!!Kd]!!T'F"!
+
+: 标  题: Re: 求问几个职务如何翻译？3x
+: 发信站: 水木社区 (Wed Jun 15 21:50:32 2005), 站内
+: 
+: 有错误大家多多指教。
+: 
+: : gong
+: : 工程部经理
+:     Engineering Manager
+:     
+: : 市场产品经理
+: 
+:    Product Manager
+: : 咨询服务经理
+: 
+:    Consulting Service Manager
+:      
+:    
+: : 销售总监
+:    CMO- Central Marketing Officer
+销售部和市场部是两个部门
+: : 市场销售助理总监
+:    介个说错了吧，总监助理倒是有，助理总监没有听说过。
+:    
+: : 呵呵,还有
+: : 办事处
+:    Office
+: : 分公司 
+:    Branch 
+: : 总公司
+:    Headquarters
+: : 编写英文简历急求. 多谢.
+: 
+: 
+: --
+: 
+: ※ 修改:·bernadin 于 Jun 15 21:54:33 修改本文·[FROM: 211.151.90.*]
+: ※ 来源:·水木社区 newsmth.net·[FROM: 211.151.90.*]
+

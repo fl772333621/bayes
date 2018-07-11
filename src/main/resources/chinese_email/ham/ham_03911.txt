@@ -1,0 +1,25 @@
+Return-Path: <zhang@rbl.ccert.edu.cn>
+Received: from rbl.ccert.edu.cn (rbl.ccert.edu.cn [202.112.57.71])
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id i9A7bMka013050
+	for <yi@ccert.edu.cn>; Sun, 10 Oct 2004 15:37:22 +0800 (CST)
+Received: from rbl.ccert.edu.cn (localhost.localdomain [127.0.0.1])
+	by rbl.ccert.edu.cn (8.12.11/8.12.11) with ESMTP id i9A7gYgT010641
+	for <yi@ccert.edu.cn>; Sun, 10 Oct 2004 15:42:39 +0800
+Received: (from qa@localhost)
+	by rbl.ccert.edu.cn (8.12.11/8.12.11/Submit) id i9A7gYoN010640;
+	Sun, 10 Oct 2004 15:42:34 +0800
+Date: Sun, 10 Oct 2004 15:42:34 +0800
+Message-Id: <200410100742.i9A7gYoN010640@rbl.ccert.edu.cn>
+Subject: =?gb2312?B?UmU6ILnY09qwrsGi0MXR0Lei1tDQxKOsztKyu7XDsrvLtcG9vuQ=?=
+To: yi@ccert.edu.cn
+From: Tran Quang Anh <zhang@cernet.edu.cn>
+Content-Type: multipart/mixed; boundary="----------=_1097394159-1014-34"
+MIME-Version: 1.0
+X-UIDL: X23!!K!n!!!fU"!bBl!!
+
+同意这位的话。没有工作不知道工作的累，尤其是做技术的，天天让项目压得喘不过起来，经常加班到晚上8、9点，并且现在的IT的公司一般都没有加班费，让技术人员来面试，都得抽时间来了。其它的一些小节可能就鼓励不到了。再说面试还要吃饭，我没有遇到过这样的情况，因为招聘自己人都没有时间去吃饭呢。
+: 我是一名前几个月应聘到这个部门的员工，看见这么多人对这个话题在争论，想说几句。
+: 这次招聘是我们部门发起的，当时的面试组织者都是部门的员工，不是HR。这是因为部门员工对岗位工作和岗位需要什么类型的人最了解。
+: 作为我们部门的一名员工，如果我们让面试者在应聘过程中感到没有受到足够尊重，我表示深深的歉意，当时的面试官也会非常诚恳地道歉，因为我们的本意绝对尊重每一位来应聘的面试者。如果有些地方我们疏忽了，希望大家能够谅解，也非常感谢大家在这里指出来，我们以后才能更加注意和改进。
+: ...................
+

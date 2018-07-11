@@ -1,0 +1,34 @@
+Return-Path: <sun@mail.tsinghua.edu.cn>
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id iB34mMwG021613
+	for <wen@ccert.edu.cn>; Fri, 3 Dec 2004 12:48:22 +0800 (CST)
+Received: (eyou send program); Fri, 03 Dec 2004 12:33:12 +0800
+Message-ID: <302048392.14203@mail.tsinghua.edu.cn>
+Received: from unknown (HELO mail.tsinghua.edu.cn) (unknown@127.0.0.1)
+ by 127.0.0.1 with SMTP; Fri, 03 Dec 2004 12:33:12 +0800
+X-scanvirus: By Symantec Scan Engine
+X-scanresult: CLEAN
+Received: (eqmail ); 3 Dec 2004 04:33:11 -0000
+Received: from unknown (HELO yinqi) (yinqi@166.111.12.243)
+  by localhost with SMTP; 3 Dec 2004 04:33:11 -0000
+Message-ID: <002b01c4d8f3$c58aff90$f30c6fa6@yinqi>
+From: "sun" <sun@mail.tsinghua.edu.cn>
+To: wen@ccert.edu.cn
+References: <302041587.17916@mail.tsinghua.edu.cn>
+Subject: =?gb2312?B?UmU6IM7S1/bBy8ir1rDMq8yrw7u40rj6ztKw1sLoy7U=?=
+Date: Fri, 3 Dec 2004 12:51:36 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0028_01C4D936.D2FB6A50"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 5.50.4927.1200
+X-MimeOLE: Produced By Microsoft MimeOLE V5.50.4927.1200
+X-UIDL: NA%#!/21"!>V)#!5Za"!
+
+赫赫，差不多了，我以前说我不工作，我爸妈就说，怎么能不干活呢？好像我啥时都不干，做懒媳妇斯的。老工也说不能告诉她父母，要不肯定担心！！估计是担心他辛苦了。
+: 最近搬了新家，老婆经过半年多全职装修，感觉全职在家非常适合她，就不打算
+: 找工作了。结果我老婆被她父母训斥了一顿，说她不思进取，没有危机意识；我
+: 也被我父母训斥了一顿，说我们不会过日子，不上班人会没有精神的，说是我纵
+: ...................
+

@@ -1,0 +1,52 @@
+Return-Path: <su@ns.6test.edu.cn>
+Received: from tsinghua.org.cn ([210.77.143.228])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id i9BBOrlO017728
+	for <gu@ccert.edu.cn>; Mon, 11 Oct 2004 19:24:57 +0800
+Received: (eyou send program); Mon, 11 Oct 2004 19:35:37 +0800
+Received: (eyou send program); Mon, 11 Oct 2004 19:35:35 +0800
+X-EYOU-ORIGINAL-IP: 202.38.99.65
+X-EYOU-ENVELOPE-MAILFROM: toefl-bounces@server.cool-meeting.com
+Received: from unknown (HELO server.cool-meeting.com) (unknown@202.38.99.65)
+ by 210.77.143.228 with SMTP; Mon, 11 Oct 2004 19:35:35 +0800
+Received: from server.cool-meeting.com (localhost.localdomain [127.0.0.1])
+	by server.cool-meeting.com (8.12.8/8.12.8) with ESMTP id i9BBStlg013288
+	for <gu@ccert.edu.cn>; Mon, 11 Oct 2004 19:29:11 +0800
+Received: from ns.6test.edu.cn ([202.38.99.18])
+	by server.cool-meeting.com (8.12.8/8.12.8) with ESMTP id i9BBSrkr013284
+	for <gu@ccert.edu.cn>; Mon, 11 Oct 2004 19:28:53 +0800
+Received: from [202.38.99.73] (helo=[202.38.99.73])
+	by ns.6test.edu.cn with asmtp (Exim 4.12) id 1CGybM-000NEw-00
+	for toefl@server.cool-meeting.com; Mon, 11 Oct 2004 19:44:28 +0800
+Mime-Version: 1.0 (Apple Message framework v619)
+Message-Id: <A9E2CFDA-1B77-11D9-98D8-000D93AF6D96@ns.6test.edu.cn>
+Content-Type: text/plain; charset=EUC-CN; format=flowed
+To: gu@ccert.edu.cn
+From: CHEN Maoke <su@ns.6test.edu.cn>
+Date: Mon, 11 Oct 2004 19:21:14 +0800
+X-Mailer: Apple Mail (2.619)
+Content-Transfer-Encoding: 8bit
+X-MIME-Autoconverted: from base64 to 8bit by server.cool-meeting.com id
+	i9BBSrkr013284
+Subject: =?gb2312?B?UmU6INXi0ru0ztXmtcS3xcrWwvCjvw==?=
+X-BeenThere: toefl@server.cool-meeting.com
+X-Mailman-Version: 2.1.2
+Precedence: list
+List-Id: &#26446;&#26143;&#21644;&#20182;&#30340;&#23398;&#29983;&#20204;
+	<toefl.server.cool-meeting.com>
+List-Unsubscribe: <http://server.cool-meeting.com/mailman/listinfo/toefl>,
+	<mailto:toefl-request@server.cool-meeting.com?subject=unsubscribe>
+List-Archive: <http://server.cool-meeting.com/mailman/private/toefl>
+List-Post: <mailto:toefl@server.cool-meeting.com>
+List-Help: <mailto:toefl-request@server.cool-meeting.com?subject=help>
+List-Subscribe: <http://server.cool-meeting.com/mailman/listinfo/toefl>,
+	<mailto:toefl-request@server.cool-meeting.com?subject=subscribe>
+Sender: toefl-bounces@server.cool-meeting.com
+Errors-To: toefl-bounces@server.cool-meeting.com
+X-UIDL: hO(#!YBM!!"ln"!Sio!!
+
+其实你一直在自恋和单相思,
+用四年的时间证明出一段不可靠的恋情,够了
+解放自己吧
+感情不是用时间来定义的,别说是四年,就是十年,二十年,感情没了,说断也该断
+: 和他是高中同学，从93年就相识了，01年开始相恋，不过一直分隔两地，现在我在广州读书，而他今年就要毕业了。四年的异地恋情，让我们有很多的争吵，期间也曾几次说到分手每次都是他提出，可每次都被我挽回，我实在是舍不得，这么多年的感情啊，哪能说断就断？我一直在等
+

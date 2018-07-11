@@ -1,0 +1,32 @@
+Return-Path: <sun@mails.tsinghua.edu.cn>
+Received: from mails.tsinghua.edu.cn (mails.tsinghua.edu.cn [166.111.8.16])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id i8IESNhF005731
+	for <yun@ccert.edu.cn>; Sat, 18 Sep 2004 22:28:23 +0800 (CST)
+Received: (eyou send program); Sat, 18 Sep 2004 22:23:21 +0800
+Message-ID: <295517401.20300@mails.tsinghua.edu.cn>
+Received: from unknown (HELO mails.tsinghua.edu.cn) (unknown@127.0.0.1)
+ by 127.0.0.1 with SMTP; Sat, 18 Sep 2004 22:23:21 +0800
+X-scanvirus: By Symantec Scan Engine
+X-scanresult: NOREP
+Received: (eqmail ); 18 Sep 2004 14:23:16 -0000
+Received: from tu154210.tsinghua.edu.cn (HELO xiner) (xwang03@166.111.154.210)
+  by mails.tsinghua.edu.cn with SMTP; 18 Sep 2004 14:23:16 -0000
+Message-ID: <01dc01c49d8c$469049e0$d29a6fa6@xiner>
+From: "sun" <sun@mails.tsinghua.edu.cn>
+To: yun@ccert.edu.cn
+References: <295425058.08406@mails.tsinghua.edu.cn> <295434670.16120@mails.tsinghua.edu.cn> <295442911.00979@mails.tsinghua.edu.cn> <295516555.28704@mails.tsinghua.edu.cn>
+Subject: =?gb2312?B?UmU6INK71rHS1M6qztLDx8rH1+7H18PctcQg1NrSu8bwvsXE6iC7ucrH0qq31g==?=
+Date: Sat, 18 Sep 2004 22:32:06 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_01D9_01C49DCF.53F2F900"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2800.1437
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1441
+X-UIDL: m2C"!g]""!)G$#!jh4"!
+
+婚姻就是一场双方妥协的赌博，这话有点矛盾，其实就是这样的，唉，同情你，其实这是70年代后和80年代出生的大多数人的一种无赖，谁让我们遇到中国这个急变得社会呢，这个急变对我们来说是幸运也是不幸。整个社会的论理道德的冲击，还有各种新思潮的崛起，也许这就是社会发展过程中所必须付出的镇痛吧，唉，俺也面对这个难题。
+: 蚂蚁--怎么样才算完美呢?
+: 我觉的,改变不了对方就改变自己,能过得下去就算成功
+

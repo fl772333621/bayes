@@ -1,0 +1,38 @@
+Return-Path: <qing@home.ccert.edu.cn>
+Received: from home.ccert.edu.cn (localhost [127.0.0.1])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id iB18LhcD021454;
+	Wed, 1 Dec 2004 16:21:43 +0800
+Received: (from majordomo@localhost)
+	by home.ccert.edu.cn (8.13.1/8.13.1/Submit) id iB18LhEX021453;
+	Wed, 1 Dec 2004 16:21:43 +0800
+X-Authentication-Warning: home.ccert.edu.cn: majordomo set sender to owner-ccertstaff using -f
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id iB18Lg54021449
+	for <xu@ccert.edu.cn>; Wed, 1 Dec 2004 16:21:42 +0800
+Received: from GirlOfGod (tu203027.tsinghua.edu.cn [166.111.203.27])
+	(authenticated bits=0)
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id iB18YgmO010222
+	for <xu@ccert.edu.cn>; Wed, 1 Dec 2004 16:34:48 +0800 (CST)
+Message-Id: <200412010834.iB18YgmO010222@sea.net.edu.cn>
+Date: Wed, 1 Dec 2004 16:39:03 +0800
+From: "qing" <qing@cernet.edu.cn>
+To: xu@ccert.edu.cn
+Subject: =?gb2312?B?UmU6INC0uPjSqszuuN+/vNa+1Li1xMjLw8ejrLzmzLi149DQ0rW/tLeooaM=?=
+X-mailer: Foxmail 5.0 [cn]
+Mime-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: 8bit
+X-MIME-Autoconverted: from base64 to 8bit by home.ccert.edu.cn id iB18Lh54021451
+Sender: owner-ccertstaff@home.ccert.edu.cn
+Precedence: bulk
+X-UIDL: \F1!!X7-"!FO+"!F$p"!
+
+这个说一下，还有几个帖子也说了，我想可能误解了我的意思。
+不是说清华通信不如北邮。但是电子系才几个人？每年多少分？基本上是清华最高了吧？
+好考吗？今年电子的考验分数大家都知道，390本校都不一定能上。性价比的问题。
+另外，在这个行业里轮势力，清华能跟北邮在这个行业比？虽然清华的口碑肯定要比北邮高。
+但那是分数阿。
+: 俺只知道每年从北邮往清华电子系考的一群一群的
+: 不知道楼主说北邮比清华电子混的好的结论怎么出来的
+

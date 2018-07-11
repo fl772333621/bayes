@@ -1,0 +1,26 @@
+Return-Path: <you@rbl.ccert.edu.cn>
+Received: from rbl.ccert.edu.cn (rbl.ccert.edu.cn [202.112.57.71])
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id i971BovD012860
+	for <tan@ccert.edu.cn>; Thu, 7 Oct 2004 09:11:50 +0800 (CST)
+Received: from rbl.ccert.edu.cn (localhost.localdomain [127.0.0.1])
+	by rbl.ccert.edu.cn (8.12.11/8.12.11) with ESMTP id i971HmPc026337
+	for <tan@ccert.edu.cn>; Thu, 7 Oct 2004 09:17:48 +0800
+Received: (from qa@localhost)
+	by rbl.ccert.edu.cn (8.12.11/8.12.11/Submit) id i971Hmg1026336;
+	Thu, 7 Oct 2004 09:17:48 +0800
+Date: Thu, 7 Oct 2004 09:17:48 +0800
+Message-Id: <200410070117.i971Hmg1026336@rbl.ccert.edu.cn>
+Subject: =?gb2312?B?ofEgycvKxVJlOiDSu9ax0tTOqs7Sw8fKx9fux9fD3LXEINTa0rvG8L7FxOogu7nKx9Kqt9Y=?=
+To: tan@ccert.edu.cn
+From: Tran Quang Anh <you@cernet.edu.cn>
+Content-Type: multipart/mixed; boundary="----------=_1097111868-996-776"
+MIME-Version: 1.0
+X-UIDL: =`_"!;_p!!Kd]!!T'F"!
+
+小时候看鲁迅的文章&lt;伤逝&gt;, 里面分手的理由就是一个人或者独自前行, 或者两人一起奋斗, 而一个拖累另一个, 只有一块陷下去(大意如此). 当时觉得莫名其妙. 后来长大一点乐, 觉得有点道理. 毕竟现实蛮残酷的, 儿女情长要不得. 但现在又觉得这是狗屁理由! 一个大男人, 连责任感都没有, 还能干什么. 他凭什么把自己的理想建立在别人的痛苦上. 
+当然你们的情况也许不是这样, 但希望你们慎重一下, 找到事业与家庭的平衡点, 把眼前的心结走过去. 
+: 潜水很久了,觉得虽然是很多人在心烦时写些家庭琐事,写的人貌似心乱，而文不乱；评的人中肯而有逻辑,觉得很有水平的是。我一直不敢贸然灌水，今天确实很需要倾诉，不想说给亲人，怕他们担心，不想说给熟人，怕他们正忙，如果你今天正好有空，看到了，就随意写几句话，多谢。不好意思了。
+: 我和他在一起亲密无间整整九年了，结婚也4年了吧，其中还有一年人在两地，每晚他睡前都必须给我打一两个小时的长途电话，最长的一次分离也只有一个多月我们没有到对方的地方去探望。那时候我们钱不多，几千块钱月入基本上就在电话费和车票里了。后来我们终于在一起了，在清华西门附近租了一套房子一住就是几年，猫猫都养大了。幸福甜蜜，熟识的朋友都觉得我们是难得要好的一对，家里人也都认为我们可能是下一代中最稳定的了，好放心。
+: 我们是那么了解对方，经过一夜的坦诚交谈、抱头痛哭，我们就要分手了，就在这样的清晨，朦胧睡去，他还习惯性的要抓住我的胳膊，把脚压在我身上，仿佛怕我乘他睡着跑了。今天我就去找房子，打算尽快搬出去，尽早结束彷徨中的痛苦，好重新开始。
+: ...................
+

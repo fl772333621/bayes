@@ -1,0 +1,29 @@
+Return-Path: <chen@rbl.ccert.edu.cn>
+Received: from rbl.ccert.edu.cn (rbl.ccert.edu.cn [202.112.57.71])
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id i980Af4U027534
+	for <cen@ccert.edu.cn>; Fri, 8 Oct 2004 08:10:41 +0800 (CST)
+Received: from rbl.ccert.edu.cn (localhost.localdomain [127.0.0.1])
+	by rbl.ccert.edu.cn (8.12.11/8.12.11) with ESMTP id i980Ggie027485
+	for <cen@ccert.edu.cn>; Fri, 8 Oct 2004 08:16:42 +0800
+Received: (from qa@localhost)
+	by rbl.ccert.edu.cn (8.12.11/8.12.11/Submit) id i980Gg9O027484;
+	Fri, 8 Oct 2004 08:16:42 +0800
+Date: Fri, 8 Oct 2004 08:16:42 +0800
+Message-Id: <200410080016.i980Gg9O027484@rbl.ccert.edu.cn>
+Subject: =?gb2312?B?ofEgsbG+qcrQuauwsr7Wuauwsr27zai53MDtvtbI57rOo7+jvw==?=
+To: cen@ccert.edu.cn
+From: Tran Quang Anh <chen@cernet.edu.cn>
+Content-Type: multipart/mixed; boundary="----------=_1097194602-1044-168"
+MIME-Version: 1.0
+X-UIDL: O]O"!)=`"!9Q]"!4'9!!
+
+ 最近基本能去北京交通管理局做公务员，本人计算机硕士，30岁，工作已经定在了北京一个很不起眼的高校做教学工作（北化工附近）。
+  现在面临选择。
+第一，我内心还是喜欢老师这个职业，感觉比做警察高尚，呵呵。当然钱少！
+第二，北京那个高校收取了我5000的押金作为防止违约的保证，报道后才可以归还。而且北京户口已经申办下来了。
+第三，感觉学校里面招聘的人明显比那些警察大爷们整体素质高。
+第四，我本人也担心自己是否能搞学术有前途，我目前在的高校就一般，本人也在学术上一无是处，将来还要读博士。。。。我这样的人能毕业么，呵呵。
+第五，如果现在违约，后果是什么？？
+ 有人了解交通管理局的么？请发表一下看法。
+谢谢。
+

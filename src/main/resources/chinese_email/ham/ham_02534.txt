@@ -1,0 +1,78 @@
+Return-Path: <wei@ccert.edu.cn>
+Received: from tsinghua.org.cn ([210.77.143.228])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id i9L7u2sB014816
+	for <ou@ccert.edu.cn>; Thu, 21 Oct 2004 15:56:04 +0800
+Received: (eyou send program); Thu, 21 Oct 2004 16:07:11 +0800
+Received: (eyou send program); Thu, 21 Oct 2004 16:07:10 +0800
+X-EYOU-ORIGINAL-IP: 166.111.8.16
+X-EYOU-ENVELOPE-MAILFROM: zhenghui@ccert.edu.cn
+Received: from unknown (HELO mails.tsinghua.edu.cn) (unknown@166.111.8.16)
+ by 210.77.143.228 with SMTP; Thu, 21 Oct 2004 16:07:10 +0800
+Received: (eyou send program); Thu, 21 Oct 2004 16:01:01 +0800
+Message-ID: <298345661.11204@mails.tsinghua.edu.cn>
+Received: (eyou send program); Thu, 21 Oct 2004 16:01:01 +0800
+Message-ID: <298345661.22326@mails.tsinghua.edu.cn>
+Received: from unknown (HELO mails.tsinghua.edu.cn) (unknown@127.0.0.1)
+ by 127.0.0.1 with SMTP; Thu, 21 Oct 2004 16:01:01 +0800
+X-scanvirus: By Symantec Scan Engine
+X-scanresult: CLEAN
+Received: (eqmail ); 21 Oct 2004 08:00:53 -0000
+Received: from ccert.edu.cn (HELO home.ccert.edu.cn) (202.112.57.12)
+  by mails.tsinghua.edu.cn with SMTP; 21 Oct 2004 08:00:53 -0000
+Received: from home.ccert.edu.cn (localhost [127.0.0.1])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id i9L7r6OI014755;
+	Thu, 21 Oct 2004 15:53:06 +0800
+Received: (from majordomo@localhost)
+	by home.ccert.edu.cn (8.13.1/8.13.1/Submit) id i9L7r6XH014754;
+	Thu, 21 Oct 2004 15:53:06 +0800
+X-Authentication-Warning: home.ccert.edu.cn: majordomo set sender to owner-ccertstaff using -f
+Received: from ccertspark (puma.ccert.edu.cn [202.112.50.50])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id i9L7r3pT014750
+	for <ou@ccert.edu.cn>; Thu, 21 Oct 2004 15:53:04 +0800
+Reply-To: <wei@ccert.edu.cn>
+From: "wei" <wei@ccert.edu.cn>
+To: ou@ccert.edu.cn
+Subject: =?gb2312?B?ofEgW1N1biBKdW4gMTIgMTM6MzA6MTEgMjAwNV0gxsHEu7zHwrwgLSBtaXdhbmcgKNeq1Ngp?=
+Date: Thu, 21 Oct 2004 15:57:53 +0800
+Organization: CCERT
+Message-ID: <000001c4b743$ac855e90$323270ca@ccertspark>
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+X-Priority: 3 (Normal)
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook, Build 10.0.6626
+Importance: Normal
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+Content-Transfer-Encoding: 8bit
+X-MIME-Autoconverted: from base64 to 8bit by home.ccert.edu.cn id i9L7r6pT014752
+Sender: owner-ccertstaff@home.ccert.edu.cn
+Precedence: bulk
+X-UIDL: E0h"!6!M!!#Nf!!M,~"!
+
+来  源: 220.113.12.197 
+【 以下文字转载自 miwang 的信箱 】
+发信人: lists@cn-bbs.org (cn.bbs.*自动发信系统), 信区: Weather
+标  题: [Sat Jun 11] 国内城市24小时天气预报
+发信站: Happy News (Sat Jun 11 20:35:00 2005)
+转信站: NEWSMTH!news.newsmth.org!news.happynet.org!not-for-mail
+出  处: localhost
+        中央气象台国内城市48小时天气预报:06月12日20时 至 06月13日20时
+┏━━━━━━┳━━━━━━━━━┳━━━━━━┳━━━━━━━━━━━┓
+┃ 城      市 ┃   天 气 现 象    ┃ 温 度（C） ┃     风 向 风 力      ┃
+┣━━━━━━╋━━━━┳━━━━╋━━━┳━━╋━━━━━┳━━━━━┫
+┃            ┃ 夜 间  ┃ 白 天  ┃最 低 ┃最高┃  夜  间  ┃  白  天  ┃
+┣━━━━━━╋━━━━╋━━━━╋━━━╋━━╋━━━━━╋━━━━━┫
+┃北京        ┃雷阵雨  ┃雷阵雨  ┃22    ┃28  ┃&lt;3        ┃&lt;3        ┃
+┣━━━━━━╋━━━━╋━━━━╋━━━╋━━╋━━━━━╋━━━━━┫
+┃哈尔滨      ┃阵雨    ┃晴      ┃16    ┃26  ┃南 &lt;3     ┃南 3-4    ┃
+┣━━━━━━╋━━━━╋━━━━╋━━━╋━━╋━━━━━╋━━━━━┫
+┃长春        ┃阵雨    ┃多云    ┃18    ┃25  ┃&lt;3        ┃&lt;3        ┃
+┣━━━━━━╋━━━━╋━━━━╋━━━╋━━╋━━━━━╋━━━━━┫
+┃沈阳        ┃雷阵雨  ┃多云    ┃18    ┃25  ┃西南&lt;3    ┃西南3-4   ┃
+┣━━━━━━╋━━━━╋━━━━╋━━━╋━━╋━━━━━╋━━━━━┫
+┃大连        ┃多云    ┃晴      ┃17    ┃25  ┃南 5-6    ┃南 5-6    ┃
+┣━━━━━━╋━━━━╋━━━━╋━━━╋━━╋━━━━━╋━━━━━┫
+┃秦皇岛      ┃雷阵雨  ┃多云    ┃20    ┃25  ┃&lt;3        ┃&lt;3        ┃
+下面还有喔 (10%) 第(1-23)行 | g 跳转 | l n 上下篇 | / ? 搜索 | s e 开头末尾|
+

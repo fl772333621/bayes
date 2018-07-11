@@ -1,0 +1,57 @@
+Return-Path: <sun@ccert.edu.cn>
+Received: from tsinghua.org.cn ([210.77.143.228])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id i8L3vMBx027231
+	for <xiao@ccert.edu.cn>; Tue, 21 Sep 2004 11:57:24 +0800
+Received: (eyou send program); Tue, 21 Sep 2004 12:07:18 +0800
+Received: (eyou send program); Tue, 21 Sep 2004 12:06:52 +0800
+X-EYOU-ORIGINAL-IP: 166.111.8.16
+X-EYOU-ENVELOPE-MAILFROM: zhenghui@ccert.edu.cn
+Received: from unknown (HELO mails.tsinghua.edu.cn) (unknown@166.111.8.16)
+ by 210.77.143.228 with SMTP; Tue, 21 Sep 2004 12:06:52 +0800
+Received: (eyou send program); Tue, 21 Sep 2004 12:00:52 +0800
+Message-ID: <295739252.23590@mails.tsinghua.edu.cn>
+Received: (eyou send program); Tue, 21 Sep 2004 12:00:51 +0800
+Message-ID: <295739251.01366@mails.tsinghua.edu.cn>
+Received: from unknown (HELO mails.tsinghua.edu.cn) (unknown@127.0.0.1)
+ by 127.0.0.1 with SMTP; Tue, 21 Sep 2004 12:00:51 +0800
+X-scanvirus: By Symantec Scan Engine
+X-scanresult: CLEAN
+Received: (eqmail ); 21 Sep 2004 04:00:39 -0000
+Received: from ccert.edu.cn (HELO home.ccert.edu.cn) (202.112.57.12)
+  by mails.tsinghua.edu.cn with SMTP; 21 Sep 2004 04:00:39 -0000
+Received: from home.ccert.edu.cn (localhost [127.0.0.1])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id i8L3sOO4027132;
+	Tue, 21 Sep 2004 11:54:24 +0800
+Received: (from majordomo@localhost)
+	by home.ccert.edu.cn (8.13.1/8.13.1/Submit) id i8L3sOmv027131;
+	Tue, 21 Sep 2004 11:54:24 +0800
+X-Authentication-Warning: home.ccert.edu.cn: majordomo set sender to owner-ccertstaff using -f
+Received: from ccertspark (puma.ccert.edu.cn [202.112.50.50])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id i8L3sKJr027125
+	for <xiao@ccert.edu.cn>; Tue, 21 Sep 2004 11:54:21 +0800
+From: "sun" <sun@ccert.edu.cn>
+To: xiao@ccert.edu.cn
+Subject: =?gb2312?B?UmU6IMrUwtu08sLuoaK/3sTWtciyu8Dt1sfQ0M6qttSwrsfptcS6w7Smo6y6x7rH?=
+Date: Tue, 21 Sep 2004 12:07:50 +0800
+Message-ID: <001801c49f90$9314afd0$323270ca@ccertspark>
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+X-Priority: 3 (Normal)
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook, Build 10.0.6626
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.3790.181
+Importance: Normal
+Content-Transfer-Encoding: 8bit
+X-MIME-Autoconverted: from base64 to 8bit by home.ccert.edu.cn id i8L3sOJr027128
+Sender: owner-ccertstaff@home.ccert.edu.cn
+Precedence: bulk
+X-UIDL: CA\"!abj"!&Ka"!"bF!!
+
+结构似乎在哪里见过
+中央电视台的某个新闻里
+: 我想你要是碰到这种情况和你gg分手的话，那么不仅是分手，还得是平静、理智地分手，不哭不闹，就当什么也没发生过一样，是吧？？？
+: 男人都能找到这样冷静的lp就好了，大家尽管去外面花天酒地吧，反正大不了就是安静地分开而已，别的什么“危险”也没有
+: 所以说，你这种看似冷静、理智的态度，实际上恰恰会助长不忠贞情况的出现，就跟社会上只有黑帮、没有警察一样，表面上看上去少了很多警匪枪战的火爆场面，实际上吃亏的还是社会治安——换到爱情当中，没有了对爱情不忠贞可能带来的种种严重后果的制约，真正吃亏的还将是
+: ...................
+

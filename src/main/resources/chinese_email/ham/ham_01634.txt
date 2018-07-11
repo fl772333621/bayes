@@ -1,0 +1,35 @@
+Return-Path: <cheng@mails.tsinghua.edu.cn>
+Received: from mails.tsinghua.edu.cn (mails.tsinghua.edu.cn [166.111.8.16])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id i9A3REet008949
+	for <he@ccert.edu.cn>; Sun, 10 Oct 2004 11:27:14 +0800 (CST)
+Received: (eyou send program); Sun, 10 Oct 2004 11:22:06 +0800
+Message-ID: <297378526.22300@mails.tsinghua.edu.cn>
+Received: from unknown (HELO mails.tsinghua.edu.cn) (unknown@127.0.0.1)
+ by 127.0.0.1 with SMTP; Sun, 10 Oct 2004 11:22:06 +0800
+X-scanvirus: By Symantec Scan Engine
+X-scanresult: CLEAN
+Received: (eqmail ); 10 Oct 2004 03:22:04 -0000
+Received: from tu154210.tsinghua.edu.cn (HELO xiner) (xwang03@166.111.154.210)
+  by mails.tsinghua.edu.cn with SMTP; 10 Oct 2004 03:22:04 -0000
+Message-ID: <001701c4ae79$bff225d0$d29a6fa6@xiner>
+From: "cheng" <cheng@mails.tsinghua.edu.cn>
+To: he@ccert.edu.cn
+References: <293855079.15518@mails.tsinghua.edu.cn> <297370700.08272@mails.tsinghua.edu.cn>
+Subject: =?gb2312?B?UmU6INXi0rvE6rXEx/PWsMDhyrejrM+jzfu21GRkbW3T0Mv5vei8+A==?=
+Date: Sun, 10 Oct 2004 11:32:19 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0014_01C4AEBC.CD334330"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2800.1437
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1441
+X-UIDL: B^?"!e'l!!M2d!!C%D"!
+
+好文
+人最难的就是把握住现在
+: 这一年的工作历程真的很辛苦，我在这一年成熟了那么多，自己都没有想到。虽然现在的心态还算不错，但这是几经波折才得来的，其中的滋味有时连自己都体会不清楚。
+: 我不知道现在是麻木期，还是自己想的很开了，抑或是因为有了其他的精神寄托所以精神转移，也不知道当一段时间之后遇到同班同学后会是什么样的心理，不想去想，因为这不过是庸人自扰罢了。
+: 曾以为怎么这一阵子总是走霉运，但慢慢想过来其实满是自己的错，怨不得别人。也许一直走的太顺了，该是老天给我点警告的时候了，也许是他要安排我去做另外的一些事情。
+: ...................
+

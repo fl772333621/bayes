@@ -1,0 +1,64 @@
+Return-Path: <ren@compass.net.edu.cn>
+Received: from tsinghua.org.cn ([210.77.143.228])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id iBL7Xtku015461
+	for <cao@ccert.edu.cn>; Tue, 21 Dec 2004 15:33:57 +0800
+Received: (eyou send program); Tue, 21 Dec 2004 15:47:36 +0800
+Received: (eyou send program); Tue, 21 Dec 2004 15:47:36 +0800
+X-EYOU-ORIGINAL-IP: 210.77.143.235
+X-EYOU-ENVELOPE-MAILFROM: toefl-bounces@server.cool-meeting.com
+Received: from unknown (HELO eyou.net) (unknown@210.77.143.235)
+ by 210.77.143.228 with SMTP; Tue, 21 Dec 2004 15:47:36 +0800
+Received: (eyou send program); Tue, 21 Dec 2004 15:41:49 +0800
+Message-ID: <303614909.28979@eyou.net>
+Received: from 202.38.99.65 by 210.77.143.235 with SMTP; Tue, 21 Dec 2004 15:41:46 +0800
+Received: from server.cool-meeting.com (localhost.localdomain [127.0.0.1])
+	by server.cool-meeting.com (8.12.8/8.12.8) with ESMTP id iBL86ilZ008512
+	for <cao@ccert.edu.cn>; Tue, 21 Dec 2004 16:07:25 +0800
+Received: from sun.com ([202.38.188.130])
+	by server.cool-meeting.com (8.12.8/8.12.8) with ESMTP id iBL86Ykr008508
+	for <cao@ccert.edu.cn>; Tue, 21 Dec 2004 16:06:35 +0800
+Received: from [210.25.128.113] ([210.25.128.113])
+	by sun.com (8.9.2/8.9.2) with ESMTP id PAA23167
+	for <cao@ccert.edu.cn>;
+	Tue, 21 Dec 2004 15:49:56 +0800 (CST)
+Message-ID: <41C7D3FC.3030102@compass.net.edu.cn>
+Date: Tue, 21 Dec 2004 15:42:52 +0800
+From: Shaozhi Ye <ren@compass.net.edu.cn>
+User-Agent: Mozilla Thunderbird 1.0 (Windows/20041206)
+X-Accept-Language: en-us, en
+MIME-Version: 1.0
+To: cao@ccert.edu.cn
+Content-Type: text/plain; charset=GB2312
+Content-Transfer-Encoding: 8bit
+Cc: 
+Subject: =?gb2312?B?UmU6INK7uPa15NDNxNDIy7XEyfq77rnsvKN6eijP8cTjwvCjvyk=?=
+X-BeenThere: toefl@server.cool-meeting.com
+X-Mailman-Version: 2.1.2
+Precedence: list
+List-Id: &#26446;&#26143;&#21644;&#20182;&#30340;&#23398;&#29983;&#20204;
+	<toefl.server.cool-meeting.com>
+List-Unsubscribe: <http://server.cool-meeting.com/mailman/listinfo/toefl>,
+	<mailto:toefl-request@server.cool-meeting.com?subject=unsubscribe>
+List-Archive: <http://server.cool-meeting.com/mailman/private/toefl>
+List-Post: <mailto:toefl@server.cool-meeting.com>
+List-Help: <mailto:toefl-request@server.cool-meeting.com?subject=help>
+List-Subscribe: <http://server.cool-meeting.com/mailman/listinfo/toefl>,
+	<mailto:toefl-request@server.cool-meeting.com?subject=subscribe>
+Sender: toefl-bounces@server.cool-meeting.com
+Errors-To: toefl-bounces@server.cool-meeting.com
+X-UIDL: +Jb"!3e:!!`-;!!&!d!!
+
+: 发信人: badapple (聪明的笨蛋), 信区: joke 
+: 标  题:  一个典型男人的生活轨迹zz 
+: 发信站: 两全其美 BBS (Sun Jun  5 00:46:01 2005), 本站(lqqm.net) 
+: 十岁以前，就不说了，无非是淘气和不懂事。 
+: 十三、四岁的时候，开始对女孩有好感，但是那时候他离女孩远远的，并且以讨厌女孩 
+: 自居，生怕被同伴嘲笑。 
+: 十七岁的时候，有个女孩喜欢上了他，但是他离她很远，他心里面只有自己那个女孩， 
+: 他觉得看别的女孩都是对她的不忠。 
+: 十八岁的时候，看了一个MTV，感动得想哭，他想，如果自己的女孩失去了双眼，他一定 
+: 男主角会毫不犹豫的把自己的眼睛给她，让她能看到光明。 
+这个mtv我也看了，不过我非常纳闷，为什么男主角不捐出一只角膜
+这样双方都还能看，如果男左女右的话还能互补
+最后整的女的都能看见，自己都看不见了，这是何苦
+

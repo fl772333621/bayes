@@ -1,0 +1,100 @@
+Return-Path: <>
+Received: from ig4.lenovo.com (lenovo.com [211.100.14.38])
+	by home.ccert.edu.cn (MIMEDefang) with ESMTP id NOQUEUE
+	for <lin@ccert.edu.cn>; Wed, 01 Jun 2005 23:52:37 +0800 (CST)
+Return-Path: <>
+Received: from [10.99.20.40] by 10.99.20.37 with StormMail ESMTP id 82887.476486953;
+	Thu, 2 Jun 2005 00:14:02 +0800 (CST)
+Received: from 10.99.20.52 ([10.99.20.52])
+          by bjcs1.legend.com.cn (Lotus Domino Release 5.0.8)
+          with SMTP id 2005060200110174:35807 ;
+          Thu, 2 Jun 2005 00:11:01 +0800 
+Return-Path: <chi@home.ccert.edu.cn>
+Received: from [202.112.57.12] by 10.99.20.52 with StormMail ESMTP id 18931.836858065;
+	Thu, 2 Jun 2005 00:04:28 +0800 (CST)
+Received: from home.ccert.edu.cn (localhost [127.0.0.1])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id j51EECHo024451;
+	Wed, 1 Jun 2005 22:14:12 +0800
+Received: (from majordomo@localhost)
+	by home.ccert.edu.cn (8.13.1/8.13.1/Submit) id j51EECIr024450;
+	Wed, 1 Jun 2005 22:14:12 +0800
+From: chi@home.ccert.edu.cn
+X-Authentication-Warning: home.ccert.edu.cn: majordomo set sender to owner-cissp using -f
+Received: from 216747 ([222.78.89.14])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with SMTP id j51EDusZ024446
+	for <lin@ccert.edu.cn>; Wed, 1 Jun 2005 22:14:04 +0800
+Message-Id: <200506011414.j51EDusZ024446@home.ccert.edu.cn>
+To: lin@ccert.edu.cn
+Subject: =?gb2312?B?vbu4tsqnsNw6IFVzZXIgemhhbmdzc2EgKHpoYW5nc3NhQGxlbm92by5jb20gbGlzdGVkIGluIHB1
+YmxpYyBOYW1lICYgQWRkcmVzcyBCb29r?=
+Mime-Version: 1.0
+Date: Wed, 1 Jun 2005 22:31:12 +0800
+From: chi@legend.com.cn
+Precedence: bulk
+X-MIMETrack: Itemize by SMTP Server on bjcs1/Legend(Release 5.0.8 |June 18, 2001) at
+ 2005-06-02 00:11:01,
+	Serialize by Router on bjcs1/Legend(Release 5.0.8 |June 18, 2001) at 2005-06-02
+ 00:11:18,
+	Serialize complete at 2005-06-02 00:11:18
+Content-Type: multipart/report; report-type=delivery-status; boundary="==IFJRGLKFGIR57167UHRUHIHD"
+
+信息
+
+  主题: [SPAM] [CISSP:85] 庆六一
+
+没有交付:
+
+  zhangssa@lenovo.com
+
+因为:
+
+  User zhangssa (zhangssa@lenovo.com) not listed in public Name & Address Book
+
+
+Final-Recipient: rfc822;zhangssa@lenovo.com
+Action: failed
+Status: 5.1.1
+Diagnostic-Code: X-Notes; User zhangssa (zhangssa@lenovo.com) not listed in public Name & Address Book
+
+你是爸爸和妈妈最甜蜜的负担，最美丽的期待。
+就让我们慢慢的看着你成长，纪录下你的一颦一笑。
+拍下你柔软的发，明亮的眼。
+如此珍贵，是我们用一辈子的爱送给你的礼物！ 
+
+六月——是宝宝们一年中最期待的时刻，网易祝天下所有的宝宝们节日快乐、健康成长。
+
+为了让大家认识更多的快乐宝宝，我们特别举办本次宝宝秀活动，欢迎各位爸爸妈妈踊跃参与，用图片和文字来刻画宝宝最聪明可爱的特质。让我们共同分享宝宝成长的快乐和感动吧～ 
+
+详情请登录：上杭电子商务网
+http://www.shdzsww.com.cn
+
+
+点击妈妈宝宝齐参与！
+
+
+
+
+
+
+
+-----
+该邮件被判为正常邮件,如果判断有误,请点击下面的反馈链接:
+http://202.112.57.79/cgi-bin/t.pl?a=%E68%7C%9D%1CTT%E2&b=6&c=%20K%DD%E7%C5%E5%0FN%3E%13%2C%E4%D8%C8%DEZ
+
+
+-----
+该邮件被判为垃圾邮件,如果判断有误,请点击下面的反馈链接:
+http://202.112.57.79/cgi-bin/t.pl?a=%FAg%C1%C0%29%DC%00r&b=6&c=N%2F%17%F2%FA%CB%88%F4%10%1C%E8%20%EB%5B2%E5
+
+该邮件被识别为垃圾邮件（分值：5.7，门限值：5.0）
+
+ pts rule name              description
+---- ---------------------- --------------------------------------------------
+ 1.0 CN_BODY_37             BODY: Body contains "欢迎"
+ 1.0 CN_BODY_222            BODY: Body contains "商务"
+ 0.8 CN_BODY_55             BODY: Body contains "邮件"
+ 2.0 CN_BODY_27             BODY: Body contains "详情"
+ 1.0 CN_BODY_338            BODY: Body contains "点击"
+
+
+

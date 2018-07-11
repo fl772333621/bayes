@@ -1,0 +1,42 @@
+Return-Path: <liu@tsinghua.org.cn>
+Received: from tsinghua.org.cn ([210.77.143.228])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id i9H7ehDD004536
+	for <qiu@ccert.edu.cn>; Sun, 17 Oct 2004 15:40:45 +0800
+Received: (eyou send program); Sun, 17 Oct 2004 15:51:44 +0800
+X-EYOU-ORIGINAL-IP: 218.107.132.130
+X-EYOU-ENVELOPE-MAILFROM: chenguangying@tsinghua.org.cn
+Received: from unknown (HELO ccertdawei) (unknown@218.107.132.130)
+ by 210.77.143.228 with SMTP; Sun, 17 Oct 2004 15:51:44 +0800
+Message-ID: <03a701c4b41e$237d9db0$9f01510a@CCERTDAWEI>
+From: "liu" <liu@tsinghua.org.cn>
+To: qiu@ccert.edu.cn
+Subject: =?gb2312?B?UmU6INDUuPG+9raow/zUyy4uLi4uLi4u?=
+Date: Sun, 17 Oct 2004 15:51:36 +0800
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2800.1437
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1441
+Content-Transfer-Encoding: 8bit
+X-MIME-Autoconverted: from base64 to 8bit by home.ccert.edu.cn id i9H7ehDD004536
+X-UIDL: R,#!!8BT"!4<?!!]4m"!
+
+这是我刚才发给fengyun的信
+我不排除有些细节我记得不是很清楚了，从而有偏差
+但是基本的情节我发誓没有任何问题
+刚才试了试想把原来的文章查到
+后来才发现二手分版以后很多东西都没有了......
+: 拿着完全不能用的东西两个人合伙蒙人
+: 事主反复联系他们，他们拒不认帐
+: 事主无奈之下去二手揭发，结果两人一起在版上和事主吵架
+: 全版的人没有一个站在bess他们这边的——因为事情太清楚了
+: 但是他们还非常非常的强横和无耻......
+: 大体是这么回事吧，具体卖啥，事主叫啥，我也忘了
+: 但是这个事情应该还有很多人记得，你可以去二手版问问吧。
+: 你要么就将事情给8G出来
+: 要么就不要说一句不说一句的
+: 我吊大家瘾呐
+: ...................
+

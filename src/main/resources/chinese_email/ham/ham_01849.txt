@@ -1,0 +1,58 @@
+Return-Path: <cheng@ns.6test.edu.cn>
+Received: from tsinghua.org.cn ([210.77.143.232])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with SMTP id j2BFAuiG021429
+	for <long@ccert.edu.cn>; Fri, 11 Mar 2005 23:10:56 +0800
+Received: (eyou send program); Fri, 11 Mar 2005 23:23:11 +0800
+Message-ID: <310554591.01109@tsinghua.org.cn>
+X-EYOU-AUTOFORWARD: tsinghua.org.cn
+Received: (eyou send program); Fri, 11 Mar 2005 23:23:11 +0800
+Message-ID: <310554591.32523@tsinghua.org.cn>
+Received: from unknown (HELO eyou.net) (210.77.143.235)
+ by 210.77.143.232 with SMTP; Fri, 11 Mar 2005 23:23:11 +0800
+X-EYOU-SPAMVALUE: 10
+Received: (eyou anti_spam gateway 3.0); Fri, 11 Mar 2005 23:14:54 +0800
+Message-ID: <310554094.08717@eyou.net>
+Received: from 202.38.99.65 by 210.77.143.235 with SMTP; Fri, 11 Mar 2005 23:14:53 +0800
+Received: from server.cool-meeting.com (localhost.localdomain [127.0.0.1])
+	by server.cool-meeting.com (8.12.8/8.12.8) with ESMTP id j2BDScQ9001492
+	for <long@ccert.edu.cn>; Fri, 11 Mar 2005 21:29:00 +0800
+Received: from ns.6test.edu.cn ([202.38.99.18])
+	by server.cool-meeting.com (8.12.8/8.12.8) with ESMTP id j2BDSVPT001488
+	for <long@ccert.edu.cn>; Fri, 11 Mar 2005 21:28:31 +0800
+Received: from [61.48.25.70] (helo=[192.168.0.251])
+	by ns.6test.edu.cn with asmtp (Exim 4.12) id 1D9mWB-000Igy-00
+	for toefl@server.cool-meeting.com; Fri, 11 Mar 2005 23:57:39 +0800
+Message-ID: <4231B7E3.2080707@ns.6test.edu.cn>
+Date: Fri, 11 Mar 2005 23:23:15 +0800
+From: CHEN Maoke <cheng@ns.6test.edu.cn>
+User-Agent: Mozilla Thunderbird 0.9 (Macintosh/20041103)
+X-Accept-Language: en-us, en
+MIME-Version: 1.0
+To: long@ccert.edu.cn
+Content-Type: multipart/mixed; boundary="------------090201030209040603040506"
+Cc: 
+Subject: [TOEFL] [Fwd: [Fwd: =?gb2312?b?1KS08LHnzajWql1d?=
+X-BeenThere: toefl@gradinfo.net.edu.cn
+X-Mailman-Version: 2.1.2
+Precedence: list
+List-Id: &#26446;&#26143;&#21644;&#20182;&#30340;&#23398;&#29983;&#20204;
+	<toefl.gradinfo.net.edu.cn>
+List-Unsubscribe: <http://server.cool-meeting.com/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=unsubscribe>
+List-Archive: <http://server.cool-meeting.com/mailman/private/toefl>
+List-Post: <mailto:toefl@gradinfo.net.edu.cn>
+List-Help: <mailto:toefl-request@gradinfo.net.edu.cn?subject=help>
+List-Subscribe: <http://server.cool-meeting.com/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=subscribe>
+Sender: toefl-bounces@gradinfo.net.edu.cn
+Errors-To: toefl-bounces@gradinfo.net.edu.cn
+X-UIDL: 0l3!!k!C!!^\-"!oPG!!
+
+http://news.xinhuanet.com/overseas/2005-06/10/content_3067513.htm
+  近年来，美国博士生辍学的比例越来越高。据统计，正常情况下，注册攻读博士的学生中有1/4中途辍学。在某些专业，博士生辍学的比例已经高达40%-50%。教育专家忧心忡忡地指出，辍学现象已成为美国博士生教育的难题。 
+    传统观念认为，学生辍学一般都是因为学习能力不济，无法适应学业的要求。 
+    眼下美国的情况却是：钱才是造成博士辍学的最主要原因。在美国，拿一个博士学位花费5年很常见，就是10年也不算新鲜。美国博士一般都不向家里伸手要钱。他们的主要经济来源是奖学金。因此，所选学科能不能提供足够的奖学金，对学生能否坚持到最后至关重要。 
+    一些学科，既有充足的科研经费，可以提供丰厚的奖学金，毕业后又能保证学生的“钱”途，自然可以吸引学生继续念下去，而数理化理论和文学社会学自然乏人问津。有报道说，纽约大学一名历史学的女博士，某日看到一则消息，一个与她相同专业的应届博士毕业生在大学里连一份年薪2.3万美元的工作都找不到，大受刺激，立刻退学去了一家出版社。 
+    博士生辍学，多少也反映出美国社会的一种浮躁心态。美国的教育专家形容，博士教育是为了培养一些有头脑的、进行艰深学术研究的人才。而物质生活的诱惑使有志于此的学生越来越少。在大多数学生眼里，独坐书斋乃至成名成家都不是什么值得向往的事，读博士主要是为了提升自我价值，寻求更好的就业机会。 
+    美国的博士教育还存在一个现象，外国学生的辍学率大大低于美国学生，因为这些学生的物质愿望低于美国学生。所以，不少美国的有识之士担心，如果美国人不改变他们物质化的思维方式，博士生辍学的现象就不会有根本改善，只怕今后美国的尖端科技研究不会再有美国人的身影。(杨海伦) 
+

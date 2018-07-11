@@ -1,0 +1,22 @@
+Return-Path: <gao@rbl.ccert.edu.cn>
+Received: from rbl.ccert.edu.cn (rbl.ccert.edu.cn [202.112.57.71])
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id i98CHpSG009250
+	for <cai@ccert.edu.cn>; Fri, 8 Oct 2004 20:17:51 +0800 (CST)
+Received: from rbl.ccert.edu.cn (localhost.localdomain [127.0.0.1])
+	by rbl.ccert.edu.cn (8.12.11/8.12.11) with ESMTP id i98CNqq8021865
+	for <cai@ccert.edu.cn>; Fri, 8 Oct 2004 20:23:53 +0800
+Received: (from qa@localhost)
+	by rbl.ccert.edu.cn (8.12.11/8.12.11/Submit) id i98CNqs4021864;
+	Fri, 8 Oct 2004 20:23:52 +0800
+Date: Fri, 8 Oct 2004 20:23:52 +0800
+Message-Id: <200410081223.i98CNqs4021864@rbl.ccert.edu.cn>
+Subject: =?gb2312?B?ofEgMTjM7LXE0KHF1rbVtPPD1w==?=
+To: cai@ccert.edu.cn
+From: Tran Quang Anh <gao@cernet.edu.cn>
+Content-Type: multipart/mixed; boundary="----------=_1097238233-26230-54"
+MIME-Version: 1.0
+X-UIDL: "V8"!Te5"!d/9"!JR&#!
+
+今天量了下，大米现在身长53cm，和出生时比只长1cm。体重包括衣服和尿片竟有4.4kg了，就算有所偏差，估计1斤半是有得长。
+这小子，只有睡着的时候才有如此安详的姿态，能看出是个又白又胖的家伙。清醒的时候，往往四蹄不停，满面满头皮都涨到通红，浑似个红皮虾子。即使睡着，也隔不多久就要撑个大大的懒腰；将醒之际，更是有长长一套起床体操要舞将开来；一旦醒来，就要头左扭右扭，嘴大张嗬嗬作急音，四处寻找口粮。
+

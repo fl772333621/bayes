@@ -1,0 +1,23 @@
+Return-Path: <fan@rbl.ccert.edu.cn>
+Received: from rbl.ccert.edu.cn (rbl.ccert.edu.cn [202.112.57.71])
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id i972Cse8013500
+	for <lai@ccert.edu.cn>; Thu, 7 Oct 2004 10:12:54 +0800 (CST)
+Received: from rbl.ccert.edu.cn (localhost.localdomain [127.0.0.1])
+	by rbl.ccert.edu.cn (8.12.11/8.12.11) with ESMTP id i972IqD5002183
+	for <lai@ccert.edu.cn>; Thu, 7 Oct 2004 10:18:52 +0800
+Received: (from qa@localhost)
+	by rbl.ccert.edu.cn (8.12.11/8.12.11/Submit) id i972IqOY002182;
+	Thu, 7 Oct 2004 10:18:52 +0800
+Date: Thu, 7 Oct 2004 10:18:52 +0800
+Message-Id: <200410070218.i972IqOY002182@rbl.ccert.edu.cn>
+Subject: =?gb2312?B?UmU6ILn6xNq1xFBIRMLbzsQ=?=
+To: lai@ccert.edu.cn
+From: Tran Quang Anh <fan@cernet.edu.cn>
+Content-Type: multipart/mixed; boundary="----------=_1097115532-996-794"
+MIME-Version: 1.0
+X-UIDL: XiJ!!lB=!!\9""!4ck"!
+
+建筑学是冷门专业？会计是热门专业？还是头一次听说。你也不用看世界就业情况，欧洲鬼子把你的钱挣够后会立马让你滚蛋的，还是多看看国内的就业情况吧。等到每个月挣上几万刀，再来嘲笑国内的土鳖吧。
+: 呵呵.我只是随便说了一个专业呀.没有从你的发言推理出来..
+:  ANYWAY.现在我也有在新加坡投行实习的机会.我觉得还是专业决定就业.现在的海龟确实很多.但是很多专业都是很冷门的.当然很难找工作呀.去美国的一些大的网站看一下世界就业情况.会计金融还是很缺人才的..
+

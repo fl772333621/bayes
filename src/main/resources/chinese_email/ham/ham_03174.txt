@@ -1,0 +1,23 @@
+Return-Path: <che@rbl.ccert.edu.cn>
+Received: from rbl.ccert.edu.cn (rbl.ccert.edu.cn [202.112.57.71])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id i9T3UhIW026541
+	for <zhu@ccert.edu.cn>; Fri, 29 Oct 2004 11:30:43 +0800
+Received: from rbl.ccert.edu.cn (localhost.localdomain [127.0.0.1])
+	by rbl.ccert.edu.cn (8.12.11/8.12.11) with ESMTP id i9T3lpoo016417
+	for <zhu@ccert.edu.cn>; Fri, 29 Oct 2004 11:48:07 +0800
+Received: (from qa@localhost)
+	by rbl.ccert.edu.cn (8.12.11/8.12.11/Submit) id i9T3lkWG016414;
+	Fri, 29 Oct 2004 11:47:46 +0800
+Date: Fri, 29 Oct 2004 11:47:46 +0800
+Message-Id: <200410290347.i9T3lkWG016414@rbl.ccert.edu.cn>
+Subject: =?gb2312?B?UmU6IM7StcS7p7/aysfV4tH5veK+9rXE?=
+To: zhu@ccert.edu.cn
+From: che@rbl.ccert.edu.cn
+Content-Type: multipart/mixed; boundary="----------=_1099021692-20866-168"
+MIME-Version: 1.0
+X-UIDL: mB(!!-?S!!M[M"!NUk"!
+
+如果户口在学校是不能这样的吧应该，你的户口在学校吗？怎么搞定的片警？
+: 我今年研究生毕业，但是没有找到落户的单位，好在和我先生领了结婚证，我先生的户口也落到我们小区的派出所。我就从派出所里把户口本借出来，拿上我先生的户口本、我们的结婚证、我的身份证到我们小区所在的派出所就办理了户口迁入手续。还顺便到这个派出所办理了第二代身份证。
+: 按说这样办理是有一定的偶然性，但是不妨和我情况相似的同学这样碰碰运气吧。
+

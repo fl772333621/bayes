@@ -1,0 +1,35 @@
+Return-Path: <hua@withub.org>
+Received: from autoforward.mail.sohu.com ([61.135.132.166])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id j0Q6qFJx016352
+	for <lin@ccert.edu.cn>; Wed, 26 Jan 2005 14:52:24 +0800
+Received: from mx23.mail.sohu.com (unknown [192.168.41.141])
+	by autoforward.mail.sohu.com (Postfix) with ESMTP id 6F8AD8E55F
+	for <lin@ccert.edu.cn>; Wed, 26 Jan 2005 15:04:07 +0800 (CST)
+Received: by mx23.mail.sohu.com (Postfix)
+	id C2D9C14017; Wed, 26 Jan 2005 15:04:06 +0800 (CST)
+Delivered-To: chen741120@mx23.mail.sohu.com
+Received: from withub.org (unknown [218.80.208.20])
+	by sohumx13.sohu.com (Postfix) with SMTP id 17AB70542252
+	for <lin@ccert.edu.cn>; Wed, 26 Jan 2005 15:03:53 +0800 (CST)
+Received: (qmail 35400 invoked by uid 1009); 26 Jan 2005 06:56:50 -0000
+Message-ID: <20050126065650.35399.qmail@withub.org>
+To: lin@ccert.edu.cn
+Subject: =?gb2312?B?UmU6ILTzvNKw787Sv7S/tM7SuMPI57rOus3Az7Dlz+C0pg==?=
+From: "hua" <hua@withub.org>
+Date: Wed, 26 Jan 2005 14:56:50 +0800
+X-Priority: 3
+X-Mailer: iGENUS webmail 3.0 beta powered by wuqiong@igenus.org
+X-Originating-IP: [192.168.1.254]
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----b6b9a703c7d1c69e19ed47bfd2cb6783"
+X-Sohu-Antivirus: 0
+X-UIDL: ,LP!!1!n"!'V/!!km'!!
+
+正常的不会这样吧
+反正我以前的老板非常好,绝对不会这样
+:     大家高抬贵手，不要re上十大。
+: 在他手下读研快两年了，还剩三年。可是最近越来越受不了他了。
+:     老板不到50岁，我不知道是不是这个年纪的人都会觉得寂寞，以前他偶尔找我聊天我还能忍受，后来我就不大愿和他聊生活方面的问题，宁愿说课题，让他骂一顿都行。可是我发现每次去找他走的时候他就爱拉着我说一堆闲话。偶尔还会动一下我手上的小饰物或者之类的行为。
+: ...................
+

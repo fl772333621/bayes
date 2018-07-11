@@ -1,0 +1,49 @@
+Return-Path: <lai@mails.tsinghua.edu.cn>
+Received: from mails.tsinghua.edu.cn (mails.tsinghua.edu.cn [166.111.8.16])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id i8IESNhF005731
+	for <lin@ccert.edu.cn>; Sat, 18 Sep 2004 22:28:23 +0800 (CST)
+Received: (eyou send program); Sat, 18 Sep 2004 22:23:21 +0800
+Message-ID: <295517401.20300@mails.tsinghua.edu.cn>
+Received: from unknown (HELO mails.tsinghua.edu.cn) (unknown@127.0.0.1)
+ by 127.0.0.1 with SMTP; Sat, 18 Sep 2004 22:23:21 +0800
+X-scanvirus: By Symantec Scan Engine
+X-scanresult: NOREP
+Received: (eqmail ); 18 Sep 2004 14:23:16 -0000
+Received: from tu154210.tsinghua.edu.cn (HELO xiner) (xwang03@166.111.154.210)
+  by mails.tsinghua.edu.cn with SMTP; 18 Sep 2004 14:23:16 -0000
+Message-ID: <01dc01c49d8c$469049e0$d29a6fa6@xiner>
+From: "lai" <lai@mails.tsinghua.edu.cn>
+To: lin@ccert.edu.cn
+References: <295425058.08406@mails.tsinghua.edu.cn> <295434670.16120@mails.tsinghua.edu.cn> <295442911.00979@mails.tsinghua.edu.cn> <295516555.28704@mails.tsinghua.edu.cn>
+Subject: =?gb2312?B?UmU6IM7S1aa+zdXiw7Syu7Cuyc+w4MThLi4uLi7P1tTazNjP67vY0afQo8TuyukuLi4=?=
+Date: Sat, 18 Sep 2004 22:32:06 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_01D9_01C49DCF.53F2F900"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2800.1437
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1441
+X-UIDL: m2C"!g]""!)G$#!jh4"!
+
+: 标  题: Re: 我咋就这么不爱上班尼.....现在特想回学校念书...
+: 发信站: 水木社区 (Mon Jun  6 16:56:01 2005), 站内
+: 
+: 没上过研究生吧？
+: 
+: 还不是一样
+: 
+: 不管刮风下雨周末假期，成天往实验室跑
+: 
+: 偶尔去晚了老板就一个手机打过来……
+: 
+: 而且没工资
+ ~~~~~~~~~~~有学位学历呀
+: 
+: : 上学的时候是盼着感紧毕业上班,就不用整天地考试了,,,可是真到上班的时候就又想回学校念书了...上班太不自由了...不管刮风下雨的,不管爱不爱去都得去...我任扣钱都不行.....唉....怀念在学校的日子呀............
+: 
+: 
+: --
+: 
+: ※ 来源:·水木社区 newsmth.net·[FROM: 166.111.28.*]
+

@@ -1,0 +1,25 @@
+Return-Path: <kang@rbl.ccert.edu.cn>
+Received: from rbl.ccert.edu.cn (rbl.ccert.edu.cn [202.112.57.71])
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id i97AwPSN018791
+	for <zhuang@ccert.edu.cn>; Thu, 7 Oct 2004 18:58:25 +0800 (CST)
+Received: from rbl.ccert.edu.cn (localhost.localdomain [127.0.0.1])
+	by rbl.ccert.edu.cn (8.12.11/8.12.11) with ESMTP id i97B4Oor000960
+	for <zhuang@ccert.edu.cn>; Thu, 7 Oct 2004 19:04:25 +0800
+Received: (from qa@localhost)
+	by rbl.ccert.edu.cn (8.12.11/8.12.11/Submit) id i97B4OjD000959;
+	Thu, 7 Oct 2004 19:04:24 +0800
+Date: Thu, 7 Oct 2004 19:04:24 +0800
+Message-Id: <200410071104.i97B4OjD000959@rbl.ccert.edu.cn>
+Subject: =?gb2312?B?UmU6IMzh0NG52NeiueLD98WjxMy1xM7KzOI=?=
+To: zhuang@ccert.edu.cn
+From: Tran Quang Anh <kang@cernet.edu.cn>
+Content-Type: multipart/mixed; boundary="----------=_1097147065-996-878"
+MIME-Version: 1.0
+X-UIDL: ~'H"!ZW]!!<+>"!_,h!!
+
+北京还是喝三元的吧,我觉得比光明的好多了
+: http://finance.sina.com.cn/nz/gmmilk/index.shtml
+: 其实，我自己最近也碰到光明的问题。我在北京，一般在京客隆超市购物
+: 第一次是酸奶屋，冰箱存储6天，也就是保质期的一半，喝的时候发现壁上沾的那部分味道酸的多；第二次是小杯，8各一盒的那种，傍晚购买，直接放入冰箱，第二天喝就发现整个酸味特别重。我觉得酸味重一般是我从拿出来放了大半天后才出现的情况，反正其他牌子的都是这样所以
+: ...................
+

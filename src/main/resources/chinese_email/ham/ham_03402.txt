@@ -1,0 +1,39 @@
+Return-Path: <gong@tsinghua.edu.cn>
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id iAU7gOcV015953
+	for <gan@ccert.edu.cn>; Tue, 30 Nov 2004 15:42:24 +0800 (CST)
+Received: (eyou send program); Tue, 30 Nov 2004 15:27:18 +0800
+Message-ID: <301799638.04809@mail.tsinghua.edu.cn>
+Received: from unknown (HELO mail.tsinghua.edu.cn) (unknown@127.0.0.1)
+ by 127.0.0.1 with SMTP; Tue, 30 Nov 2004 15:27:18 +0800
+X-scanvirus: By Symantec Scan Engine
+X-scanresult: CLEAN
+Received: (eqmail ); 30 Nov 2004 07:27:17 -0000
+Received: from unknown (HELO sony) (duanhx@166.111.204.112)
+  by localhost with SMTP; 30 Nov 2004 07:27:17 -0000
+Message-ID: <015b01c4d6b0$1cc8db10$70cc6fa6@sony>
+From: "gong" <gong@tsinghua.edu.cn>
+To: gan@ccert.edu.cn
+Subject: =?gb2312?B?ofEg1tDQvrn6vMrGt9bKsr/Dxb30vLHV0Ma4xrfWyrmks8zKpg==?=
+Date: Tue, 30 Nov 2004 15:42:14 +0800
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2900.2180
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+Content-Transfer-Encoding: 8bit
+X-MIME-Autoconverted: from base64 to 8bit by sea.net.edu.cn id iAU7gOcV015953
+X-UIDL: P'k"!U(:!!>/7"!=c-!!
+
+工作内容: 
+配合客户要求,建立OQA(Out-going Quality Assurance)品质系统, 光罩品质保障系统的建立和维护.处理客户稽核.OQA线上人员和生产管理, OQA 机台维护,
+要求:机械自动化/工业工程/工程管理类.., 本科或以上, 英语口语佳.
+         具有半导体行业工作经历尤佳. 扎实的工作态度, 良好的反应和交流能力.
+         
+待遇:面谈.
+联系人:　Wenbin_wu@smics.com
+         67855000-29272
+     
+

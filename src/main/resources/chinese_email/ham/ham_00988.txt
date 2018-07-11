@@ -1,0 +1,35 @@
+Return-Path: <hong@rbl.ccert.edu.cn>
+Received: from rbl.ccert.edu.cn (rbl.ccert.edu.cn [202.112.57.71])
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id i91BvTlp004976
+	for <kong@ccert.edu.cn>; Fri, 1 Oct 2004 19:57:29 +0800 (CST)
+Received: from rbl.ccert.edu.cn (localhost.localdomain [127.0.0.1])
+	by rbl.ccert.edu.cn (8.12.11/8.12.11) with ESMTP id i91C394l003781
+	for <kong@ccert.edu.cn>; Fri, 1 Oct 2004 20:03:09 +0800
+Received: (from qa@localhost)
+	by rbl.ccert.edu.cn (8.12.11/8.12.11/Submit) id i91C39gE003780;
+	Fri, 1 Oct 2004 20:03:09 +0800
+Date: Fri, 1 Oct 2004 20:03:09 +0800
+Message-Id: <200410011203.i91C39gE003780@rbl.ccert.edu.cn>
+Subject: =?gb2312?B?UmU6IMrcsrvBy8HLo6y9stK7z8LJvbartcS+xs+vt+fL1w==?=
+To: kong@ccert.edu.cn
+From: Tran Quang Anh <hong@cernet.edu.cn>
+Content-Type: multipart/mixed; boundary="----------=_1096632190-996-284"
+MIME-Version: 1.0
+X-UIDL: Q;Q"!:*W!!F59"!Q6-!!
+
+我GG也是山东的，逢年过节的免不了互相走动
+到时候家里来乡亲做客，就一定不能上桌
+倒不一定是喝酒，反正男人间的聊天也是女性不能参与的
+说到文化，似乎并不是说只要是文化就都是好的，那其中也有糟粕
+个人认为像山东这种所谓的文化受到冲击简直是一定的
+因为基本上与时代的发展格格不入了
+只是有些人不识庐山真面目，只缘身在此山中啊
+问题就在于不上桌不等于分桌，我GG那里女性就是在厨房里吃
+就算女的喝不了多少酒，也可以分两桌在一个屋子里啊
+摆明了就是重男轻女，何需辩白呢？
+没必要固守已经落后的习俗，如果思想开放也许经济发展的会更快
+:     讲到女人不上桌的习俗，好像很多其他地区的mm极为愤慨，认为这是大男人主义和
+: 对女性的不尊重。但要你了解山东的酒席风俗或许你可能改变一下想法。
+:     酒席分很多种，一般的譬如回娘家，一般吃吃饭的，大家当然要一起吃了，但
+: ...................
+

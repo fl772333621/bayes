@@ -1,0 +1,40 @@
+Return-Path: <yana@sina.com>
+Received: from sina.com (sina187-156.sina.com.cn [202.106.187.156] (may be forged))
+	by home.ccert.edu.cn (8.13.1/8.13.1) with SMTP id j2B67QC9014808
+	for <yi@ccert.edu.cn>; Fri, 11 Mar 2005 14:07:27 +0800
+Message-Id: <200503110607.j2B67QC9014808@home.ccert.edu.cn>
+Received: (qmail 59791 invoked from network); 11 Mar 2005 06:21:01 -0000
+Received: from unknown (HELO ibm-t23) (219.224.108.38)
+  by 202.106.187.156 with SMTP; 11 Mar 2005 06:21:01 -0000
+Received: from(cheriff@sina.com) to(qa@ccert.edu.cn)
+Date: Fri, 11 Mar 2005 14:04:33 +0800
+From: "yana" <yana@sina.com>
+To: yi@ccert.edu.cn
+Subject: =?gb2312?B?UmU6ILK7tq6woaO6IMWuuqLX08rHsrvKx7a8sci9z8O709CwssiruNCjrNKq1dLIy9LAv7+jvw==?=
+X-mailer: Foxmail 5.0 [cn]
+Mime-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: 8bit
+X-MIME-Autoconverted: from base64 to 8bit by home.ccert.edu.cn id j2B67QC9014808
+X-UIDL: a;;!!:+(#!@6N!!=bH!!
+
+看ip貌似我老乡，但我发信问过说不是...
+: 标  题: Re: 不懂啊： 女孩子是不是都比较没有安全感，要找人依靠？
+: 发信站: 水木社区 (Mon Jun  6 15:40:28 2005), 站内
+: 
+: 瓦老区人民
+: : 我没安全感，是以为不敢找人依靠。。。
+: 
+: 
+: --
+: 
+: ★清华大学马拉松爱好者协会★第十六周活动
+: 1、周二、四训练
+: 2、关注夜间跑步活动（参见runninglife@newsmth版置底文章）
+: 3、继续招新（给TMA@newsmth发信报名）
+: 4、周六拉练
+: 
+: 
+: ※ 来源:·水木社区 newsmth.net·[FROM: 61.135.159.*]
+

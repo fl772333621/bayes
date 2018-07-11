@@ -1,0 +1,31 @@
+Return-Path: <rao@sina.com>
+Received: from sina.com (sina187-158.sina.com.cn [202.106.187.158] (may be forged))
+	by home.ccert.edu.cn (8.13.1/8.13.1) with SMTP id j2ECuWBC009473
+	for <ni@ccert.edu.cn>; Mon, 14 Mar 2005 20:56:47 +0800
+Message-Id: <200503141256.j2ECuWBC009473@home.ccert.edu.cn>
+Received: (qmail 53305 invoked from network); 14 Mar 2005 13:07:47 -0000
+Received: from unknown (HELO ibm-t23) (219.224.134.126)
+  by 202.106.187.158 with SMTP; 14 Mar 2005 13:07:47 -0000
+Received: from(cheriff@sina.com) to(qa@ccert.edu.cn)
+Date: Mon, 14 Mar 2005 20:50:02 +0800
+From: "rao" <rao@sina.com>
+To: ni@ccert.edu.cn
+Subject: =?gb2312?B?ofEgus60ptGw1ebP4A==?=
+X-mailer: Foxmail 5.0 [cn]
+Mime-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: 8bit
+X-MIME-Autoconverted: from base64 to 8bit by home.ccert.edu.cn id j2ECuWBC009473
+X-UIDL: 3L(#!SC`!!9TH"!%d4!!
+
+改编自RupertHolmes的同名畅销小说。Vince Collins （Colin Firth BJ单身日记
+里BJ的律师男朋友） 和Lanny Morris （Kevin Bacon 隐形人里的男主角）.是上
+世纪50年代好莱坞家喻户晓的喜剧搭档，他们在红极一时之极突然宣布拆档。15年
+后，年轻的女记者K. O\'Connor（Alison Lohman）计划为这对明星搭档之一Vince
+写传记，并由此揭开当年这对明星分道扬镳背后的一桩谋杀案的真相。 
+片中有大量的裸露镜头和激情戏，最后结局出乎意料。当成娱乐片看着解闷儿还是
+不错的。
+P．S．从这部影片来看，当个女记者可真不容易啊，全身解数都要使尽，毫无保留
+阿，呵呵。
+

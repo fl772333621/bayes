@@ -1,0 +1,70 @@
+Return-Path: <chen@ns.6test.edu.cn>
+Received: from tsinghua.org.cn ([210.77.143.228])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id i9S3wKoQ009530
+	for <xing@ccert.edu.cn>; Thu, 28 Oct 2004 11:58:21 +0800
+Received: (eyou send program); Thu, 28 Oct 2004 12:09:48 +0800
+Received: (eyou send program); Thu, 28 Oct 2004 12:09:48 +0800
+X-EYOU-ORIGINAL-IP: 210.77.143.235
+X-EYOU-ENVELOPE-MAILFROM: toefl-bounces@server.cool-meeting.com
+Received: from unknown (HELO eyou.net) (unknown@210.77.143.235)
+ by 210.77.143.228 with SMTP; Thu, 28 Oct 2004 12:09:48 +0800
+Received: (eyou send program); Thu, 28 Oct 2004 12:06:31 +0800
+Message-ID: <298936391.32630@eyou.net>
+Received: from 202.38.99.65 by 210.77.143.235 with SMTP; Thu, 28 Oct 2004 12:06:28 +0800
+Received: from server.cool-meeting.com (localhost.localdomain [127.0.0.1])
+	by server.cool-meeting.com (8.12.8/8.12.8) with ESMTP id i9S4JSlj008327
+	for <xing@ccert.edu.cn>; Thu, 28 Oct 2004 12:19:43 +0800
+Received: from ns.6test.edu.cn ([202.38.99.18])
+	by server.cool-meeting.com (8.12.8/8.12.8) with ESMTP id i9S4JKkr008323
+	for <xing@ccert.edu.cn>; Thu, 28 Oct 2004 12:19:20 +0800
+Received: from [210.25.128.109] (helo=tsinghua89o1rm)
+	by ns.6test.edu.cn with asmtp (Exim 4.12) id 1CN1tm-000BBN-00
+	for Toefl@server.cool-meeting.com; Thu, 28 Oct 2004 12:28:30 +0800
+Message-ID: <004e01c4bca3$e59784a0$6d8019d2@tsinghua89o1rm>
+From: "chen" <chen@ns.6test.edu.cn>
+To: xing@ccert.edu.cn
+Subject: =?gb2312?B?UmU6IMfrsN/W8bHwyb7O0qOsztK63M/rzP3M/bTzvNK1w7+0t6ijoaOho6GjoaOho6E=?=
+Date: Thu, 28 Oct 2004 12:08:48 +0800
+MIME-Version: 1.0
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2600.0000
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2600.0000
+Cc: 
+X-BeenThere: toefl@server.cool-meeting.com
+X-Mailman-Version: 2.1.2
+Precedence: list
+List-Id: &#26446;&#26143;&#21644;&#20182;&#30340;&#23398;&#29983;&#20204;
+	<toefl.server.cool-meeting.com>
+List-Unsubscribe: <http://server.cool-meeting.com/mailman/listinfo/toefl>,
+	<mailto:toefl-request@server.cool-meeting.com?subject=unsubscribe>
+List-Archive: <http://server.cool-meeting.com/mailman/private/toefl>
+List-Post: <mailto:toefl@server.cool-meeting.com>
+List-Help: <mailto:toefl-request@server.cool-meeting.com?subject=help>
+List-Subscribe: <http://server.cool-meeting.com/mailman/listinfo/toefl>,
+	<mailto:toefl-request@server.cool-meeting.com?subject=subscribe>
+Content-Type: multipart/mixed; boundary="===============22441405685805615=="
+Sender: toefl-bounces@server.cool-meeting.com
+Errors-To: toefl-bounces@server.cool-meeting.com
+X-UIDL: ]Qo"!TdW!!1c*!!eF2"!
+
+有可能她高估了自己，
+不过也看到过有说mm喜欢听gg讲之前的细节，8过并不是常见吧。
+这样的mm有可能有创伤或者其他问题，也许你该更多了解一下她的人本身。
+ml这件事本身，其实不是什么大事。
+: 标  题: 请斑竹别删我，我很想听听大家得看法！！！！！！
+: 发信站: 水木社区 (Fri Jun 10 09:44:28 2005), 站内
+: 
+: mm前天说希望看看我和其她的女生ml什么样子，我吓了一大跳，以为她开玩笑，这两天聊过后才知道她真的能接受我和其他的女生ml,而且还希望自己在旁边看，说她会很兴奋。
+: 对了，mm还特别喜欢听我和前mm ml的情节，我真不习惯阿.我感觉挺吃惊的，有多少mm特别是ppmm是能接受这样啊？？？？？她真爱我吗？
+: 还是我思想太落后？？？？心里真的很乱！！！！
+: 
+: 希望能有人特别是mm能和我交流，我决没有其他的意思！！
+: 
+: --
+: 激情与理性并存 梦想与实践同行
+: 
+: ※ 修改:·dogchen 於 Jun 10 09:50:42 2005 修改本文·[FROM: 219.142.125.*]
+: ※ 修改:·dogchen 於 Jun 10 09:53:48 2005 修改本文·[FROM: 219.142.125.*]
+: ※ 来源:·水木社区 http://newsmth.net·[FROM: 219.142.125.*]
+

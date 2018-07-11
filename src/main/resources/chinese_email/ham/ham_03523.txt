@@ -1,0 +1,31 @@
+Return-Path: <lv@ccert.edu.cn>
+Received: from tsinghua.org.cn ([210.77.143.228])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id i8S9Hf9j001270
+	for <qiu@ccert.edu.cn>; Tue, 28 Sep 2004 17:17:42 +0800
+Received: (eyou send program); Tue, 28 Sep 2004 16:37:00 +0800
+Received: (eyou send program); Tue, 28 Sep 2004 15:38:19 +0800
+X-EYOU-ORIGINAL-IP: 202.112.57.12
+X-EYOU-ENVELOPE-MAILFROM: starry@ccert.edu.cn
+Received: from unknown (HELO home.ccert.edu.cn) (unknown@202.112.57.12)
+ by 210.77.143.228 with SMTP; Tue, 28 Sep 2004 15:38:19 +0800
+Received: from starry ([202.112.50.191])
+	(authenticated bits=0)
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id i8S7OeTh031609
+	for <qiu@ccert.edu.cn>; Tue, 28 Sep 2004 15:24:40 +0800
+Message-Id: <200409280724.i8S7OeTh031609@home.ccert.edu.cn>
+Date: Tue, 28 Sep 2004 15:34:38 +0800
+From: "lv" <lv@ccert.edu.cn>
+To: qiu@ccert.edu.cn
+Subject: =?gb2312?B?UmU6IM3yt9bXxbyxo6GjoaOh09DXocflu6rRp8n6y97J4TE2usXCpbXEwvCjvw==?=
+X-mailer: Foxmail 5.0 [cn]
+Mime-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="=====001_Dragon255781722267_====="
+X-UIDL: $hB!!%oT!!@lo"!'_/!!
+
+可怜，问问周围的男生，应该有搞得定的，毕竟只是找个驱动
+:    6月12日，我在清华16号楼107宿舍买了李蓬（他说已经研3，汽车专业）的电脑，因为我对电脑不是特懂，忘了要声卡和显卡驱动盘。回来后我对电脑里面的东西进行了整理删除，想重装系统，才知道没有驱动盘，我在网上问他要盘，他说驱动程序在E盘里，可是我不知道不小心把�
+:    我想再去清华找上门的，可是我觉得那样似乎又不是太好。所以想征个好心人帮我去问问吗？实际上是说服他给我下载匹配的声卡和显卡驱动程序！
+:    一个急切期待帮助的林大MM！
+: ...................
+

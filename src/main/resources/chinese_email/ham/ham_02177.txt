@@ -1,0 +1,39 @@
+Return-Path: <wang@tsinghua.edu.cn>
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with SMTP id j0HA2Ha3005429
+	for <kong@ccert.edu.cn>; Mon, 17 Jan 2005 18:02:17 +0800
+Received: (eyou send program); Mon, 17 Jan 2005 17:58:01 +0800
+Message-ID: <305955881.00076@mail.tsinghua.edu.cn>
+Received: from unknown (HELO mail.tsinghua.edu.cn) (unknown@127.0.0.1)
+ by 127.0.0.1 with SMTP; Mon, 17 Jan 2005 17:58:01 +0800
+X-scanvirus: By Symantec Scan Engine
+X-scanresult: CLEAN
+Received: (eqmail ); 17 Jan 2005 09:57:59 -0000
+Received: from unknown (HELO sony) (duanhx@202.112.35.253)
+  by localhost with SMTP; 17 Jan 2005 09:57:59 -0000
+Message-ID: <017b01c4fc7d$3d03b060$0301a8c0@sony>
+From: "wang" <wang@tsinghua.edu.cn>
+To: kong@ccert.edu.cn
+Subject: =?gb2312?B?UmU6IM7StcTH5buqw86jrM7SuNC1vcPUw6OjoX4=?=
+Date: Mon, 17 Jan 2005 18:13:45 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0178_01C4FCC0.48BC0AE0"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2800.1106
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1106
+X-UIDL: 9S<!!J:]!!If=!!]M,!!
+
+nod 自己做清华梦做了20年
+但是到了考验的时候突然变的很现实 
+自己既然将来要向上海发展 还不如直接考sjtu或是fudan
+虽说也难考 但是毕竟比清华好考多了
+但是淡淡的清华情节还是让自己不时来这里看看
+呵呵 谁让自己有点虚荣那 要是给自己再一次机会的话 自己当初的高考自愿一定会写上清华的 
+但是既然没有这样的机会了 那也只好在现实的世界中和它说886
+: 现实总是残酷的,梦想就是用来被打破的,
+: 每年考清华研的人,97% 都被碾死在清华的大门外,清华从来就不相信眼泪
+: 不要相信什么"有志者事竟成"之类的屁话,有志者事不成的才是大多数,不
+: ...................
+

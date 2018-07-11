@@ -1,0 +1,28 @@
+Return-Path: <bai@jdl.ac.cn>
+Received: from jdl.ac.cn ([159.226.42.8])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7C1ceuQ019050
+	for <ni@ccert.edu.cn>; Fri, 12 Aug 2005 09:38:40 +0800 (CST)
+Received: (qmail 5448 invoked from network); 12 Aug 2005 01:49:27 -0000
+Received: from unknown (HELO d47db5334f2a479) (192.168.0.233)
+  by 159.226.42.8 with SMTP; 12 Aug 2005 01:49:27 -0000
+Message-ID: <000b01c59ee0$a1f666b0$e900a8c0@d47db5334f2a479>
+From: "bai" <bai@jdl.ac.cn>
+To: ni@ccert.edu.cn
+References: <000301c59e50$0bb8f450$26cb6fa6@liuwu>
+Subject: =?gb2312?B?UmU6IMTjv7S5/by4sr8=?=
+Date: Fri, 12 Aug 2005 09:53:26 +0800
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: base64
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2800.1506
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1506
+
+是电驴
+: &lt;&lt;爱有明天&gt;&gt;、2 &lt;&lt;爱欲狂潮&gt;&gt;、3&lt;&lt;爱之火&gt;&gt;、3&lt;&lt;爱的精灵&gt;&gt;（李丽珍）、 4&lt;&lt;爱的狂
+: 放&gt;&gt;、5&lt;&lt;按摩女郎之彩虹某处&gt;&gt;、6&lt;&lt;哎呀，女朋友&gt;&gt; (陈颖芝)、7&lt;&lt;爱情治疗室&gt;&gt;、
+: 8&lt;&lt;凹凸男女&gt;&gt;、9&lt;&lt;爱在娱乐圈的日子&gt; &gt;、10&lt;&lt;暗恋&gt;&gt;(徐曼华)、11&lt;&lt;爱杀&gt;&gt;(陈颖芝&amp;
+: ...................
+

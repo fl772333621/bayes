@@ -1,0 +1,29 @@
+Return-Path: <yuan@yeah.net>
+Received: from yeah.net ([203.86.33.34])
+	by home.ccert.edu.cn (MIMEDefang) with ESMTP id NOQUEUE
+	for <gao@ccert.edu.cn>; Thu, 02 Jun 2005 18:38:58 +0800 (CST)
+Message-ID: <200506021838.0.784948870354345@home.ccert.edu.cn>
+From: =?GB2312?B?vczT/c34?= <yuan@yeah.net>
+Subject: =?gb2312?B?vczT/c34t/7O8cb3zdC53A==?=
+To: gao@ccert.edu.cn
+Content-Type: text/plain;charset="GB2312"
+Content-Transfer-Encoding: 8bit
+Reply-To: yuan@yeah.net
+Date: Thu, 2 Jun 2005 18:56:07 +0800
+X-Priority: 3
+X-Mailer: Microsoft Outlook Express 6.00.2800.1158
+
+ 清华大学赛尔网络数据机房
+
+ 300M与中国公众网（ChinaNET）相连，确保高速、冗余IDC通用服务
+ 1000M与中国教育和科研计算机网（CERNET）相连，还能提供独特800万校园用户
+ 与铁通、吉通、网通等骨干网直接相连，实现数据高速交换 
+　　
+ 2U服务器托管费 5000元/年  
+
+ 详情浏览: http://www.zruan.net/Services/server/
+ 服务信箱: service@gtol.cn
+ 
+
+ 
+

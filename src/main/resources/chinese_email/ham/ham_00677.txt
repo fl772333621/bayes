@@ -1,0 +1,27 @@
+Return-Path: <mo@ccert.edu.cn>
+Received: from home.ccert.edu.cn (ccert.edu.cn [202.112.57.12])
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id iBH6ft4O013975;
+	Fri, 17 Dec 2004 14:41:55 +0800 (CST)
+Received: from sunbin_S ([202.112.50.201])
+	(authenticated bits=0)
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id iBH6S9UJ008775;
+	Fri, 17 Dec 2004 14:28:09 +0800
+Message-Id: <200412170628.iBH6S9UJ008775@home.ccert.edu.cn>
+Date: Fri, 17 Dec 2004 14:47:42 +0800
+From: "mo" <mo@ccert.edu.cn>
+Reply-To: mo@ccert.edu.cn
+To: zhang@ccert.edu.cn
+Subject: =?gb2312?B?UmU6IMvmsePOytK7z8I=?=
+Organization: CCERT
+X-mailer: Foxmail 5.0 beta2 [cn]
+Mime-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: 8bit
+X-MIME-Autoconverted: from base64 to 8bit by sea.net.edu.cn id iBH6ft4O013975
+X-UIDL: h;#"!3<K"!C1)"!Y2j!!
+
+大哥您好 我好景仰你呀 我是入学分到1级的可怜虫 可是我真的认识单词啊
+: ~~~~~~~~~~~~~~~~~~~~~欢迎你来清华大学基础科学班学习！我们有独特的两课教学模式，每学期只上八节课，考试全部用论文的形式搞定，点名两次以上不到的不给过，其他的都过，嗯，总共也就点两次名……
+: ~~~~~~~~~~~~~~~~~~~~~~~~这个很打击人，做好心理准备，我被分到了二级，呜呜。分到一级的基本上都是只认识字母的，还有个别的发挥不好的……
+

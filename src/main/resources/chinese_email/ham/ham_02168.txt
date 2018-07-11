@@ -1,0 +1,31 @@
+Return-Path: <gong@ccert.edu.cn>
+Received: from home.ccert.edu.cn (ccert.edu.cn [202.112.57.12])
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id iB16cm6B007852;
+	Wed, 1 Dec 2004 14:38:48 +0800 (CST)
+Received: from ccertspark (tu203021.tsinghua.edu.cn [166.111.203.21])
+	(authenticated bits=0)
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id iB16PcBe019451;
+	Wed, 1 Dec 2004 14:25:38 +0800
+From: "gong" <gong@ccert.edu.cn>
+To: chi@ccert.edu.cn
+Cc: <tan@ccert.edu.cn>
+Subject: =?gb2312?B?UmU6INKqtMfWsKOstPO80rDvw6az9rP21vfS4qOs0LvQu6Oh?=
+Date: Wed, 1 Dec 2004 14:37:34 +0800
+Message-ID: <000c01c4d770$3e023ea0$15cb6fa6@ccertspark>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_000D_01C4D7B3.4C270540"
+X-Priority: 3 (Normal)
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook, Build 10.0.6626
+X-MIMEOLE: Produced By Microsoft MimeOLE V6.00.3790.181
+In-Reply-To: <003101c4d76f$0c7459f0$18cb6fa6@CCERTDAWEI>
+Importance: Normal
+X-UIDL: hVh!!c`h!!C~1"!RFL!!
+
+还是先找到自己的去向吧，要是公司非要你交违约金，大不了就不去了，让公司辞到你，这样公司还要给你三个月的违约金呢！
+:     毕业快一年了，现在在一家事业单位（也可以算是国企）工作，做的不是很顺，想辞职。
+:     按照三方协议的规定，如果我违约，需向学校交纳违约金6000元整，同时也要向单位交纳，但具体金额要双方协商确定；按照劳动合同的说法，违约金为从现在算起之前一年的工资，同时规定在实习期内可随时通知解除和约，在劳动法里也有这样的说法。
+:     我现在的情况比较特殊，只在毕业的时候签了三方协议，本来在来这里之后还要签一份劳动合同，不过现在合同还都在我这里没有签。现在实际上我还处在实习期，不过没有在书面上体现出来。那天我去人事处向人事处副处长询问时，他说我现在要走需要交纳违约金，金额数目是将3万元平均在五年时间里（协议上的服务期为五年），越往后交的越少。
+: ...................
+

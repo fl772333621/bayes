@@ -1,0 +1,41 @@
+Return-Path: <yuan@home.ccert.edu.cn>
+Received: from home.ccert.edu.cn (localhost [127.0.0.1])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id j0K6cDCa025936;
+	Thu, 20 Jan 2005 14:38:13 +0800
+Received: (from majordomo@localhost)
+	by home.ccert.edu.cn (8.13.1/8.13.1/Submit) id j0K6cDGD025935;
+	Thu, 20 Jan 2005 14:38:13 +0800
+X-Authentication-Warning: home.ccert.edu.cn: majordomo set sender to owner-ccertstaff using -f
+Received: from ccertspark ([202.112.3.121])
+	(authenticated bits=0)
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id j0K6bg2S025863;
+	Thu, 20 Jan 2005 14:37:42 +0800
+Reply-To: <yuan@cernet.edu.cn>
+From: "yuan" <yuan@ccert.edu.cn>
+To: you@ccert.edu.cn
+Cc: <pan@ccert.edu.cn>
+Subject: =?gb2312?B?UmU6INT1w7S2wcrpo6y2wcqyw7TK6brN16zHrrv5sb7Jz8O7udjPtQ==?=
+Date: Thu, 20 Jan 2005 14:47:39 +0800
+Message-ID: <000401c4febb$eefbb7f0$2903a8c0@ccertspark>
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+X-Priority: 3 (Normal)
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook, Build 10.0.6626
+Importance: Normal
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.3790.181
+Content-Transfer-Encoding: 8bit
+X-MIME-Autoconverted: from base64 to 8bit by home.ccert.edu.cn id j0K6bl2S025865
+Sender: owner-ccertstaff@home.ccert.edu.cn
+Precedence: bulk
+X-UIDL: U:M"!++*#!)LV"!S$'#!
+
+你不要这么比嘛，这个是特例
+要比的是平均水平
+说白了就是以后能赚些钱生活过的好一些的概率
+: 什么叫有钱？靠读书，靠学校，靠专业基本上不会成为有钱人。
+: 楼主认为应该去北邮读通信，那不用举盖茨的例子，就举国内通信行业的例子。华为老板重庆某二流大学，没毕业证。现在掌管年销售400多亿的公司。而北邮通信的学生去深圳也只是打工仔，在深圳可以供供楼，好点的养养车。其收入不见得比深圳本地农民多。
+: 赚钱是必须的，读书也是必须的。怎么读书，读什么书和赚钱基本上没关系。
+: ...................
+

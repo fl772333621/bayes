@@ -1,0 +1,63 @@
+Return-Path: <wu@ns.6test.edu.cn>
+Received: from tsinghua.org.cn ([210.77.143.228])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id iAI2Tf18004647
+	for <cai@ccert.edu.cn>; Thu, 18 Nov 2004 10:29:42 +0800
+Received: (eyou send program); Thu, 18 Nov 2004 10:42:11 +0800
+Received: (eyou send program); Thu, 18 Nov 2004 10:42:05 +0800
+X-EYOU-ORIGINAL-IP: 210.77.143.235
+X-EYOU-ENVELOPE-MAILFROM: toefl-bounces@server.cool-meeting.com
+Received: from unknown (HELO eyou.net) (unknown@210.77.143.235)
+ by 210.77.143.228 with SMTP; Thu, 18 Nov 2004 10:42:05 +0800
+Received: (eyou send program); Thu, 18 Nov 2004 10:37:50 +0800
+Message-ID: <300745470.22057@eyou.net>
+Received: from 202.38.99.65 by 210.77.143.235 with SMTP; Thu, 18 Nov 2004 10:37:49 +0800
+Received: from server.cool-meeting.com (localhost.localdomain [127.0.0.1])
+	by server.cool-meeting.com (8.12.8/8.12.8) with ESMTP id iAHFRklY014886
+	for <cai@ccert.edu.cn>; Wed, 17 Nov 2004 23:28:24 +0800
+Received: from ns.6test.edu.cn ([202.38.99.18])
+	by server.cool-meeting.com (8.12.8/8.12.8) with ESMTP id iAHFRckr014882
+	for <cai@ccert.edu.cn>; Wed, 17 Nov 2004 23:27:38 +0800
+Received: from tu172145.tsinghua.edu.cn ([166.111.172.145] helo=montana)
+	by ns.6test.edu.cn with asmtp (Exim 4.12) id 1CURoo-0001a7-00
+	for toefl@server.cool-meeting.com; Wed, 17 Nov 2004 23:34:03 +0800
+From: "wu" <wu@ns.6test.edu.cn>
+To: cai@ccert.edu.cn
+Subject: =?GB2312?Q?Re: [TOEFL]
+	=B9=D8=D3=DA315=BA=CD923=B5=C4=CF=B5=CD=F8=CE=CA=CC=E2?=
+X-mailer: Foxmail 4.2 [cn]
+Mime-Version: 1.0
+Content-Type: text/plain;
+      charset="GB2312"
+Date: Wed, 17 Nov 2004 23:15:42 +0800
+Message-Id: <E1CURoo-0001a7-00@ns.6test.edu.cn>
+Content-Transfer-Encoding: 8bit
+X-MIME-Autoconverted: from quoted-printable to 8bit by server.cool-meeting.com
+	id iAHFRckr014882
+X-BeenThere: toefl@server.cool-meeting.com
+X-Mailman-Version: 2.1.2
+Precedence: list
+List-Id: &#26446;&#26143;&#21644;&#20182;&#30340;&#23398;&#29983;&#20204;
+	<toefl.server.cool-meeting.com>
+List-Unsubscribe: <http://server.cool-meeting.com/mailman/listinfo/toefl>,
+	<mailto:toefl-request@server.cool-meeting.com?subject=unsubscribe>
+List-Archive: <http://server.cool-meeting.com/mailman/private/toefl>
+List-Post: <mailto:toefl@server.cool-meeting.com>
+List-Help: <mailto:toefl-request@server.cool-meeting.com?subject=help>
+List-Subscribe: <http://server.cool-meeting.com/mailman/listinfo/toefl>,
+	<mailto:toefl-request@server.cool-meeting.com?subject=subscribe>
+Sender: toefl-bounces@server.cool-meeting.com
+Errors-To: toefl-bounces@server.cool-meeting.com
+X-UIDL: C#I!!Xf'!!7A&!!~?o"!
+
+这样的女子就不要了。
+好的女子应该这样说：
+支持你考研究生，无论考上与否，我都爱你！
+: 标  题: 〓你考上研究生，我就嫁给你，，你愿意追求这样的女人吗？
+: 发信站: 水木社区 (Mon Jun 13 20:09:37 2005), 站内
+: 
+: 我知道自己不优秀，成绩不好样子也不帅，我离你又很远。心离的比路还要远，
+: 你说你考上研究生会嫁给我，难到我是研究生我才会学会怎么爱你，怎么和你共度一生吗？
+: --
+: 
+: ※ 来源:·水木社区 http://newsmth.net·[FROM: 218.89.185.*]
+

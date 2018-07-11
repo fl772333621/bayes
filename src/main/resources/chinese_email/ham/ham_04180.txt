@@ -1,0 +1,35 @@
+Return-Path: <qian@tsinghua.edu.cn>
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with SMTP id j051Y4Jg009451
+	for <zhou@ccert.edu.cn>; Wed, 5 Jan 2005 09:34:05 +0800
+Received: (eyou send program); Wed, 05 Jan 2005 09:32:55 +0800
+Message-ID: <304888775.00042@mail.tsinghua.edu.cn>
+Received: from unknown (HELO mail.tsinghua.edu.cn) (unknown@127.0.0.1)
+ by 127.0.0.1 with SMTP; Wed, 05 Jan 2005 09:32:55 +0800
+X-scanvirus: By Symantec Scan Engine
+X-scanresult: CLEAN
+Received: (eqmail ); 5 Jan 2005 01:32:52 -0000
+Received: from unknown (HELO sony) (duanhx@166.111.204.189)
+  by localhost with SMTP; 5 Jan 2005 01:32:52 -0000
+Message-ID: <003901c4f2c8$a601e6e0$8ae86fa6@sony>
+From: "qian" <qian@tsinghua.edu.cn>
+To: zhou@ccert.edu.cn
+Subject: =?gb2312?B?UmU6INStwLTV5rXE09DQxM20tb3O3reouvTO/A==?=
+Date: Wed, 5 Jan 2005 09:48:25 +0800
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2800.1106
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1106
+Content-Transfer-Encoding: 8bit
+X-MIME-Autoconverted: from base64 to 8bit by home.ccert.edu.cn id j051Y4Jg009451
+X-UIDL: +CD!!1AI!!bW3"!1@2"!
+
+   习惯就好了
+: 说不出现在是怎样的心情，在QQ上，他用“爱你很深的**”的落款，对我们近500个日子的感情宣判死刑。想哭，却发现眼泪早已罢工~
+: 在感情的世界里，永远没有是非，我一直这样认为。所以不管谁对谁错，这都已经不是问题的关键。只是希望，真的希望他能快乐，而自己能够坚强。
+: 我给我们的感情取名叫小爱，希望彼此能象养育孩子一样经营这份爱，可是……说什么呢。我是真的无话可说~
+: ...................
+

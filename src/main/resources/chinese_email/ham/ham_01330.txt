@@ -1,0 +1,33 @@
+Return-Path: <jin@tsinghua.edu.cn>
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id i8RDh0jQ016721;
+	Mon, 27 Sep 2004 21:43:01 +0800
+Received: from huhoo ([166.111.232.94])
+	(authenticated bits=0)
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id i8RDrMo0007792;
+	Mon, 27 Sep 2004 21:53:23 +0800 (CST)
+From: "jin" <jin@tsinghua.edu.cn>
+To: ding@ccert.edu.cn
+Cc: <li@ccert.edu.cn>,
+        "'dais'" <shen@ccert.edu.cn>,
+        <liu@ccert.edu.cn>,
+        "'wanglanjia'" <cai@ccert.edu.cn>, <wu@ccert.edu.cn>,
+        <zhuang@ccert.edu.cn>, "'xrlccert'" <hu@ccert.edu.cn>
+Subject: =?gb2312?B?UmU6IL3oyMvG+M7Kzsq437+8sajKssO01r7UuLHIvc+6w6O/o6i8saOs1NrP37XIo6k=?=
+Date: Mon, 27 Sep 2004 21:50:44 +0800
+Message-ID: <001101c4a498$ffdaa540$5ee86fa6@huhoo>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0012_01C4A4DC.0DFDE540"
+X-Priority: 3 (Normal)
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook, Build 10.0.6626
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+Importance: Normal
+In-Reply-To: 
+X-UIDL: K3=!!hi7!!BX;"!Hc/"!
+
+去上财读会计金融，读北邮读通信，去北外读外语，去外经贸读国贸，总之，这个成绩千万别去什么名头那种很大的清华北大啥的读个烂专业，就去这种专门类的学校读个好专业
+: 今年我一个弟弟和一个妹妹同时参加高考，然后他们双方家长都让我给个参谋意见，看看报什么专业，什么学校比较好。我自己也没有什么合适的建议，想在这里看看众位高人有什么建议，谢谢拉！！！
+: （他们两个人在他们全年级都是前30名的。属于他们学校的尖子生。他们学校每年能考到清华和北大的学生一般不下5个。）
+

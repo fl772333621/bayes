@@ -1,0 +1,33 @@
+Return-Path: <xia@mails.tsinghua.edu.cn>
+Received: from mails.tsinghua.edu.cn (mails.tsinghua.edu.cn [166.111.8.16])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id iBA3dDv6022755
+	for <feng@ccert.edu.cn>; Fri, 10 Dec 2004 11:39:13 +0800 (CST)
+Received: (eyou send program); Fri, 10 Dec 2004 11:33:52 +0800
+Message-ID: <302649631.06444@mails.tsinghua.edu.cn>
+Received: from unknown (HELO mails.tsinghua.edu.cn) (unknown@127.0.0.1)
+ by 127.0.0.1 with SMTP; Fri, 10 Dec 2004 11:33:52 +0800
+X-scanvirus: By Symantec Scan Engine
+X-scanresult: CLEAN
+X-Received: tu154210.tsinghua.edu.cn,166.111.154.210,20041210113349
+Received: from tu154210.tsinghua.edu.cn (HELO xiner) (xwang03@166.111.154.210)
+  by localhost with SMTP; 10 Dec 2004 03:33:49 -0000
+Message-ID: <001c01c4de6a$260814e0$d29a6fa6@xiner>
+From: "xia" <xia@mails.tsinghua.edu.cn>
+To: feng@ccert.edu.cn
+Subject: =?gb2312?B?UmU6IM3yt9a99Lyxo6HV97j216HH5buqMTa6xcKltcRHR7Dvw6bRvaOho6GjoQ==?=
+Date: Fri, 10 Dec 2004 11:41:27 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0019_01C4DEAD.2F527CA0"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2800.1437
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1441
+X-UIDL: "o'!!Q_`"!"Jf!!=<4"!
+
+  全国人民多知道你买了个电脑。。。
+  一直都在关注 二手的好麻烦那
+:  6月12日，我在清华16号楼107宿舍买了李蓬（他说已经研3，汽车专业）的电脑，因为我对电脑不是特懂，忘了要声卡和显卡驱动盘。回来后我对电脑里面的东西进行了整理删除，想重装系统，才知道没有驱动盘，我在网上问他要盘，他说驱动程序在E盘里，可是我不知道不小心把驱�
+:    我想再去清华找上门的，可是我觉得那样似乎又不是太好。所以想征个好心人帮我去问问吗？实际上是说服他给我下载匹配的声卡和显卡驱动程序！
+:    一个急切期待帮助的林大MM！
+

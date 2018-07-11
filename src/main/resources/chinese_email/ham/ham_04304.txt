@@ -1,0 +1,24 @@
+Return-Path: <kang@rbl.ccert.edu.cn>
+Received: from rbl.ccert.edu.cn (rbl.ccert.edu.cn [202.112.57.71])
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id i983E3UF000791
+	for <pan@ccert.edu.cn>; Fri, 8 Oct 2004 11:14:05 +0800 (CST)
+Received: from rbl.ccert.edu.cn (localhost.localdomain [127.0.0.1])
+	by rbl.ccert.edu.cn (8.12.11/8.12.11) with ESMTP id i983K2ac022792
+	for <pan@ccert.edu.cn>; Fri, 8 Oct 2004 11:20:04 +0800
+Received: (from qa@localhost)
+	by rbl.ccert.edu.cn (8.12.11/8.12.11/Submit) id i983K2iX022791;
+	Fri, 8 Oct 2004 11:20:02 +0800
+Date: Fri, 8 Oct 2004 11:20:02 +0800
+Message-Id: <200410080320.i983K2iX022791@rbl.ccert.edu.cn>
+Subject: =?gb2312?B?ofEg0vLOqtPQwcvP67/etcS40L71o6zL+dLUztK/3sHL?=
+To: pan@ccert.edu.cn
+From: Tran Quang Anh <kang@cernet.edu.cn>
+Content-Type: multipart/mixed; boundary="----------=_1097205604-1044-234"
+MIME-Version: 1.0
+X-UIDL: DPC"!epK!!8N9"!A[2!!
+
+已经许久不曾有想哭的感觉了，很多时候，都会习惯的不去想哭，但是昨晚，突然有了想哭的感觉，所以我哭了
+到昨晚，和我的server奋战了整整两天了，server还是一点起色都没有，心中有些着急，也有些无奈，外面的天似乎是阴阴的，似乎带着雷声，没时间出去看个究竟，给朋友发了条短信，告诉他要下雨了，许久没有回应，心里不觉有了想哭的感觉，给朋友发了第二条短信，告诉他我想哭...但是因为是在办公室，眼泪忍住了
+server的事情告一段落，可以回家了，到了出租车上的时候，眼泪再也止不住了，这时，朋友的短信到了，我已经没有了回复的欲望
+脸上挂着泪进了家门，扑到在床上释放着心中的压抑，我哭了...
+

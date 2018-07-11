@@ -1,0 +1,38 @@
+Return-Path: <chi@cernet.edu.cn>
+Received: from ccert-dijg (tu203028.ip.tsinghua.edu.cn [166.111.203.28])
+	(authenticated bits=0)
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id j2O0wwmZ027107;
+	Thu, 24 Mar 2005 08:58:58 +0800 (CST)
+Message-Id: <200503240058.j2O0wwmZ027107@sea.net.edu.cn>
+From: "chi" <chi@cernet.edu.cn>
+Reply-To: chi@cernet.edu.cn
+To: gong@ccert.edu.cn
+CC: "pan@ccert.edu.cn" <lin@ccert.edu.cn>,
+        "huang@ccert.edu.cn" <yu@ccert.edu.cn>
+Subject: =?gb2312?B?ofEgW9XQxrhdwMuzsbyvzcWyqcq/uvO5pNf31b6zz8a4xvPStbKpyr+68w==?=
+Organization: ccert
+X-mailer: Foxmail 4.2 [cn]
+Mime-Version: 1.0
+Content-Type: text/plain;
+      charset="GB2312"
+Date: Thu, 24 Mar 2005 8:58:59 +0800
+Content-Transfer-Encoding: 8bit
+X-MIME-Autoconverted: from quoted-printable to 8bit by sea.net.edu.cn id j2O0wwmZ027107
+X-UIDL: -hT"!/K>!!"JQ!!ZNj!!
+
+浪潮集团博士后工作站诚聘企业博士后
+浪潮集团是中国先进的计算平台、领先的行业应用方案供应商。浪潮集团拥有“浪潮信息”、“浪潮软件”、“浪潮国际”三家上市公司，业务涵盖以服务器、商用电脑为主的计算机产品；通信、烟草、税务等大型行业、政府与公共事业信息化、ERP和集团财务等企业信息化的软件产品和应用方案；税控终端、金融设备等商业终端产品；手机、无线技术等移动产品，用户遍及中国金融、通信、政府、教育、制造业、烟草行业等重要领域。2004年，浪潮集团的销售收入达到105.8亿元人民币。
+浪潮集团博士后工作站成立于1999年，先后与清华大学、北京大学、中科院等博士后流动站联合招收博士后10余人，承担国家“863”项目、省部级重点项目等多项。浪潮集团拥有国家级技术中心、省级重点实验室，属国家高新技术企业，为博士后的科研转化工作提供了良好的平台。
+根据公司业务领域和项目需要，现招收企业博士后数名，招收的主要研究方向有：
+1、  服务器体系结构（北京）
+2、  计算机存储（北京）
+3、  软件体系结构（济南）
+4、  软件工程（济南）
+公司竭诚欢迎相关研究方向博士毕业生来我公司作企业博士后研究，公司提供住房（或住房补贴形式），提供5-10万元年薪，享受中层管理干部待遇。有意者请EMAIL个人简历一份，并请注明拟从事的研究方向。
+详细事宜可面谈！
+ 
+联系方式：
+电话：0531-85106233 苏小姐、孙先生
+邮件：suyl@langchao.com; sun_yi@langchao.com
+ 
+

@@ -1,0 +1,49 @@
+Return-Path: <shi@tsinghua.edu.cn>
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with SMTP id iBN2EVlp017076
+	for <ke@ccert.edu.cn>; Thu, 23 Dec 2004 10:15:07 +0800
+Received: (eyou send program); Thu, 23 Dec 2004 10:13:03 +0800
+Message-ID: <303767983.14854@mail.tsinghua.edu.cn>
+Received: from unknown (HELO mail.tsinghua.edu.cn) (unknown@127.0.0.1)
+ by 127.0.0.1 with SMTP; Thu, 23 Dec 2004 10:13:03 +0800
+X-scanvirus: By Symantec Scan Engine
+X-scanresult: CLEAN
+Received: (eqmail ); 23 Dec 2004 02:13:00 -0000
+Received: from unknown (HELO sony) (duanhx@166.111.204.187)
+  by localhost with SMTP; 23 Dec 2004 02:13:00 -0000
+Message-ID: <011f01c4e897$12f61780$d53270ca@sony>
+From: "shi" <shi@tsinghua.edu.cn>
+To: ke@ccert.edu.cn
+Cc: =?gb2312?B?1qPPyM6w?= <you@ccert.edu.cn>, <ding@ccert.edu.cn>
+References: <303767006.10323@mail.tsinghua.edu.cn>
+Subject: =?gb2312?B?ofEgob7XqsjDob/P68m209DJtqOsyOe5+8O709DLtcP30tG+rcL0s/bIpcHLoaMgob7A4LHwo7rI
+pcQ=?=
+Date: Thu, 23 Dec 2004 10:28:21 +0800
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2900.2180
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+Content-Transfer-Encoding: 8bit
+X-MIME-Autoconverted: from base64 to 8bit by home.ccert.edu.cn id iBN2EVlp017076
+X-UIDL: 7`0"!Oin!!9Lh"!Plc!!
+
+【 以下文字转载自 SecondBook 讨论区 】
+发信人: qbasic (没有), 信区: SecondBook
+标  题: 【转让】想啥有啥，如果没有说明已经卖出去了。    【类别：去�
+发信站: 水木社区 (Wed Jun 15 22:32:00 2005), 站内
+图书种类:
+去年考研的书籍及资料，英语，政治，数学一，专业课数据结构，编译原理，软件基础。计算机组成原理我也有几本。 是考中科院计算所的书还有一些专业课资料， 还是挺全的，书名我就不列了。
+图书标题:
+想啥有啥，如果没有说明已经卖出去了。
+出版社及作者:
+这个... 陈意云，双李，奎哥，朱泰祺,任汝芬,文灯兄 ...
+图书原价:
+哦。反正人家都有定价了。
+图书售价:
+2~3折，多买多赠。自带麻袋，不想让旧书店挣钱。把好处留给考研人。
+其他说明:
+没了。
+

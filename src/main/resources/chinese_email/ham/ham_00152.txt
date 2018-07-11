@@ -1,0 +1,44 @@
+Return-Path: <liao@cernet.edu.cn>
+Received: from WZJ (tu203030.ip.tsinghua.edu.cn [166.111.203.30])
+	(authenticated bits=0)
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id j3B13DQR015615;
+	Mon, 11 Apr 2005 09:03:20 +0800 (CST)
+Message-Id: <200504110103.j3B13DQR015615@sea.net.edu.cn>
+Date: Mon, 11 Apr 2005 09:03:04 +0800
+From: "liao" <liao@cernet.edu.cn>
+To: gan@ccert.edu.cn
+Subject: =?gb2312?B?ofEgTmV3ZmllbGTV0Ma4eno=?=
+Organization: Tsinghua University
+X-mailer: Foxmail 5.0 [cn]
+Mime-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: 8bit
+X-MIME-Autoconverted: from base64 to 8bit by sea.net.edu.cn id j3B13DQR015615
+X-UIDL: d+9!!I+F"!"i+"!2@a!!
+
+发信人: alaskayang (牛魔网-尽人事※听天命), 信区: Career
+标  题: Newfield招聘
+发信站: BBS 水木清华站 (Fri Jun  3 23:17:09 2005), 站内
+Newfield Technology is the first professional company in China to serve the glob
+al IC outsourced design and verification demand, primarily in the field of Elect
+ronic System Level (ESL) design.  As a startup company, we provide a very differ
+ent professional experience from those other slow-paced conventional employers.
+ For the ambitious graduate who is willing and eager to take on more challenges,
+ the opportunity to accumulate relevant experience is far greater.  We are doing
+ what other companies can\'t even dream about.  Due to continued expansion in our
+ business, we are searching for enthusiastic full-time and part-time design engi
+neers, with the following qualifications:
+Minimum requirement is a Masters degree in Electronic Engineering
+Embedded system design experience is strongly preferred
+Candidate must have strong C/C++ programming skills
+Familiarity with processor architecture and assembly language programming is hig
+hly desirable
+Design of communications circuits with Verilog/VHDL language is a plus
+Training or experience with high-end EDA tools such as Cadence or Synopsys is a
+plus
+Good communication skills and project coordination ability
+Fluent in oral and written English
+For those with the interest and qualifications, please send your resume to wyatt
+@newfield-tech.com or call Mr. Shao at 13701111215.
+

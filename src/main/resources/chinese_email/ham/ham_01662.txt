@@ -1,0 +1,42 @@
+Return-Path: <tao@tsinghua.edu.cn>
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id i9E8r8TJ006805
+	for <bai@ccert.edu.cn>; Thu, 14 Oct 2004 16:53:09 +0800 (CST)
+Received: (eyou send program); Thu, 14 Oct 2004 16:38:43 +0800
+Message-ID: <297743123.29546@mail.tsinghua.edu.cn>
+Received: from unknown (HELO mail.tsinghua.edu.cn) (unknown@127.0.0.1)
+ by 127.0.0.1 with SMTP; Thu, 14 Oct 2004 16:38:43 +0800
+X-scanvirus: By Symantec Scan Engine
+X-scanresult: CLEAN
+Received: (eqmail ); 14 Oct 2004 08:38:38 -0000
+Received: from unknown (HELO sony) (duanhx@202.112.50.6)
+  by localhost with SMTP; 14 Oct 2004 08:38:38 -0000
+Message-ID: <014201c4b1cb$323d1d80$a6e86fa6@sony>
+From: "tao" <tao@tsinghua.edu.cn>
+To: bai@ccert.edu.cn
+References: <297741042.28949@mail.tsinghua.edu.cn>
+Subject: =?gb2312?B?UmU6IMixt6awssiruNC1xMTQyMs=?=
+Date: Thu, 14 Oct 2004 16:52:53 +0800
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2900.2180
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+Content-Transfer-Encoding: 8bit
+X-MIME-Autoconverted: from base64 to 8bit by sea.net.edu.cn id i9E8r8TJ006805
+X-UIDL: P@B!!Ro<"!%l$"!@LQ"!
+
+:    为什么我遇到的男人都这么缺乏安全感
+:    老要我承诺「无论发生什么事，都不要离开他，要永远在一起」
+:    上一个是，这一个也是。
+:    我都不知道我该不该承诺...
+:    前一个男友提出这样的要求，我答应了
+:    结果他劈腿，让女方怀孕，我提出分手
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~什么意思。
+:    还回过头来要求我遵守及履行我答应他的"承诺"。
+:    现在的男友，也要我做这样的承诺
+:    我是女的，都没要求男方做这种承诺了
+:    怎么男人老要我承诺他们，是因为缺乏安全感吗？ @_@
+

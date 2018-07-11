@@ -1,0 +1,39 @@
+Return-Path: <xin@cernet.edu.cn>
+Received: from tsinghua.org.cn ([210.77.143.228])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id iAG3G1LI004954
+	for <wu@ccert.edu.cn>; Tue, 16 Nov 2004 11:16:02 +0800
+Received: (eyou send program); Tue, 16 Nov 2004 11:28:27 +0800
+Received: (eyou send program); Tue, 16 Nov 2004 11:28:26 +0800
+X-EYOU-ORIGINAL-IP: 210.77.143.235
+X-EYOU-ENVELOPE-MAILFROM: wlzxrs@cernet.edu.cn
+Received: from unknown (HELO eyou.net) (unknown@210.77.143.235)
+ by 210.77.143.228 with SMTP; Tue, 16 Nov 2004 11:28:26 +0800
+Received: (eyou send program); Tue, 16 Nov 2004 11:24:17 +0800
+Message-ID: <300575457.10012@eyou.net>
+Received: from 202.112.5.66 by 210.77.143.235 with SMTP; Tue, 16 Nov 2004 11:24:06 +0800
+Received: from 56ls81hgnjb0ggr ([202.112.4.6])
+	(authenticated bits=0)
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id iAG3SAct020890
+	for <wu@ccert.edu.cn>; Tue, 16 Nov 2004 11:28:11 +0800 (CST)
+Message-Id: <200411160328.iAG3SAct020890@sea.net.edu.cn>
+From: "xin" <xin@cernet.edu.cn>
+Reply-To: xin@cernet.edu.cn
+To: wu@ccert.edu.cn
+Subject: =?gb2312?B?UmU6ILzGy+O7+rbB0dDG2rzk0KPE2tf2z+7Ev7u5ysfN4sPmyrXPsLrDo78=?=
+X-mailer: Foxmail 4.2 [cn]
+Mime-Version: 1.0
+Content-Type: multipart/mixed;
+      boundary="=====000_Dragon473784377465_====="
+Date: Tue, 16 Nov 2004 11:27:26 +0800
+X-UIDL: f]@!!#?Z!!>8["!n[L!!
+
+呵呵，地处中关村实在算不上啥优势。最关键的不是你离得近不近，而是你有没有
+实力进入好的公司，值得你花费研究生三年的时间去实习的公司。
+如果导师研究方向好，而且导师是牛人，你不实习也仍然可以找到好工作吧。因为
+你有核心竞争力啊。如果不是的话，实习就比较好了。至于导师的项目，不在数量
+而在质量，有份量的项目，一个就够了。没份量的，一堆也就是赚个饭钱。
+: 学校地处中关村，即将读研，现在准备选导师
+: 第一种是导师个人项目很多，在校内做
+: 第二种是导师没有任何项目，可以允许到外面公司全职工作，大家知道中关村计算机方面公司很多，可以积累工作经验
+: ...................
+

@@ -1,0 +1,76 @@
+Return-Path: <xiao@compass.net.edu.cn>
+Received: from tsinghua.org.cn ([210.77.143.228])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id iADCCLkE014466
+	for <gao@ccert.edu.cn>; Sat, 13 Nov 2004 20:12:23 +0800
+Received: (eyou send program); Sat, 13 Nov 2004 20:24:02 +0800
+Received: (eyou send program); Sat, 13 Nov 2004 20:24:02 +0800
+X-EYOU-ORIGINAL-IP: 210.77.143.235
+X-EYOU-ENVELOPE-MAILFROM: toefl-bounces@server.cool-meeting.com
+Received: from unknown (HELO eyou.net) (unknown@210.77.143.235)
+ by 210.77.143.228 with SMTP; Sat, 13 Nov 2004 20:24:02 +0800
+Received: (eyou send program); Sat, 13 Nov 2004 20:20:00 +0800
+Message-ID: <300348400.00555@eyou.net>
+Received: from 202.38.99.65 by 210.77.143.235 with SMTP; Sat, 13 Nov 2004 20:19:53 +0800
+Received: from server.cool-meeting.com (localhost.localdomain [127.0.0.1])
+	by server.cool-meeting.com (8.12.8/8.12.8) with ESMTP id iADCaflh006835
+	for <gao@ccert.edu.cn>; Sat, 13 Nov 2004 20:36:51 +0800
+Received: from compass.net.edu.cn ([202.38.188.130])
+	by server.cool-meeting.com (8.12.8/8.12.8) with ESMTP id iADCaMkr006831
+	for <gao@ccert.edu.cn>; Sat, 13 Nov 2004 20:36:22 +0800
+Received: from [210.25.128.113] ([210.25.128.113])
+	by compass.net.edu.cn (8.9.2/8.9.2) with ESMTP id UAA12740
+	for <gao@ccert.edu.cn>;
+	Sat, 13 Nov 2004 20:26:12 +0800 (CST)
+Message-ID: <4195FC17.8050204@compass.net.edu.cn>
+Date: Sat, 13 Nov 2004 20:20:39 +0800
+From: Shaozhi Ye <xiao@compass.net.edu.cn>
+User-Agent: Mozilla Thunderbird 0.9 (Windows/20041103)
+X-Accept-Language: en-us, en
+MIME-Version: 1.0
+To: gao@ccert.edu.cn
+Content-Type: text/plain; charset=GB2312
+Content-Transfer-Encoding: 8bit
+Cc: 
+Subject: =?gb2312?B?UmU6IM7S06a4w8iltbHD2Mrpu7nKx7Wxs8zQ8tSx?=
+X-BeenThere: toefl@server.cool-meeting.com
+X-Mailman-Version: 2.1.2
+Precedence: list
+List-Id: &#26446;&#26143;&#21644;&#20182;&#30340;&#23398;&#29983;&#20204;
+	<toefl.server.cool-meeting.com>
+List-Unsubscribe: <http://server.cool-meeting.com/mailman/listinfo/toefl>,
+	<mailto:toefl-request@server.cool-meeting.com?subject=unsubscribe>
+List-Archive: <http://server.cool-meeting.com/mailman/private/toefl>
+List-Post: <mailto:toefl@server.cool-meeting.com>
+List-Help: <mailto:toefl-request@server.cool-meeting.com?subject=help>
+List-Subscribe: <http://server.cool-meeting.com/mailman/listinfo/toefl>,
+	<mailto:toefl-request@server.cool-meeting.com?subject=subscribe>
+Sender: toefl-bounces@server.cool-meeting.com
+Errors-To: toefl-bounces@server.cool-meeting.com
+X-UIDL: lBH"!'0F!!&3>"!Dk,!!
+
+国美的秘书还是不要去了
+不要以为国美的工作清闲
+我正在跟国美打交道
+国美的工作压力很大
+并且，记住，国美是黄光裕自己的公司
+其他人都是他的打工仔
+国美的高层都跟黄光裕有亲戚关系
+想在国美混出头，比在国企混出头难度差不多
+从行业来看，国美现在扩张的很厉害，一年时间里
+国美新开了100多个门店
+你根本不知道国美什么时候会因为过度扩张而崩塌
+你再考虑一下前途
+从总监秘书，说白了，就是一个部门经理的秘书
+你要转型，要付出更大的代价
+你是在做一个完全陌生的行业，从一个完全陌生的职位去做
+如果做程序员，苦了一点，但是第一有收入
+第二你可以做项目经理或者转去做销售或者到小公司作技术骨干
+你的价值也在增值。
+总之，如果是给某个县县长做秘书，不给你钱你去都行
+给国美的一个部门经理，还是最没用的人力部（记住民企就是老黄说了算）
+你还是别去了
+: 写这个题目就是很ft~
+: 偶是北航计算机系滴,小本.女生.现在有两个工作摆在偶面前.
+: 一个是Sun的Java开发,一个是国美总部的人力部的总监秘书.
+: ...................
+

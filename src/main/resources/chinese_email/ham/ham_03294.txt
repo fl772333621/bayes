@@ -1,0 +1,60 @@
+Return-Path: <yun@ns.6test.edu.cn>
+Received: from tsinghua.org.cn ([210.77.143.228])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id i9R6Okg4025261
+	for <huang@ccert.edu.cn>; Wed, 27 Oct 2004 14:24:48 +0800
+Received: (eyou send program); Wed, 27 Oct 2004 14:36:09 +0800
+Received: (eyou send program); Wed, 27 Oct 2004 14:36:09 +0800
+X-EYOU-ORIGINAL-IP: 210.77.143.235
+X-EYOU-ENVELOPE-MAILFROM: wanglanjia@ns.6test.edu.cn
+Received: from unknown (HELO eyou.net) (unknown@210.77.143.235)
+ by 210.77.143.228 with SMTP; Wed, 27 Oct 2004 14:36:09 +0800
+Received: (eyou send program); Wed, 27 Oct 2004 14:32:54 +0800
+Message-ID: <298858774.08406@eyou.net>
+Received: from 166.111.8.16 by 210.77.143.235 with SMTP; Wed, 27 Oct 2004 14:32:49 +0800
+Received: (eyou send program); Wed, 27 Oct 2004 14:30:52 +0800
+Message-ID: <298858652.07151@mails.tsinghua.edu.cn>
+Received: (eyou send program); Wed, 27 Oct 2004 14:30:51 +0800
+Message-ID: <298858650.22634@mails.tsinghua.edu.cn>
+Received: from unknown (HELO mails.tsinghua.edu.cn) (unknown@127.0.0.1)
+ by 127.0.0.1 with SMTP; Wed, 27 Oct 2004 14:30:51 +0800
+X-scanvirus: By Symantec Scan Engine
+X-scanresult: CLEAN
+Received: (eqmail ); 27 Oct 2004 06:30:38 -0000
+Received: from ccert.edu.cn (HELO home.ccert.edu.cn) (202.112.57.12)
+  by mails.tsinghua.edu.cn with SMTP; 27 Oct 2004 06:30:38 -0000
+Received: from home.ccert.edu.cn (localhost [127.0.0.1])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id i9R6HJAj025156;
+	Wed, 27 Oct 2004 14:17:19 +0800
+Received: (from majordomo@localhost)
+	by home.ccert.edu.cn (8.13.1/8.13.1/Submit) id i9R6HJYv025155;
+	Wed, 27 Oct 2004 14:17:19 +0800
+X-Authentication-Warning: home.ccert.edu.cn: majordomo set sender to owner-ccertstaff using -f
+Received: from ns.6test.edu.cn (ns.6test.edu.cn [202.112.54.2])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id i9R6HDq1025149
+	for <huang@ccert.edu.cn>; Wed, 27 Oct 2004 14:17:14 +0800
+Received: from [210.25.128.109] (helo=tsinghua89o1rm)
+	by ns.6test.edu.cn with asmtp (Exim 4.12)
+	id 1CMhaw-00054K-00
+	for ccertstaff@ccert.edu.cn; Wed, 27 Oct 2004 14:47:42 +0800
+Message-ID: <001401c4bbee$2f26d0a0$6d8019d2@tsinghua89o1rm>
+From: "yun" <yun@ns.6test.edu.cn>
+To: huang@ccert.edu.cn
+Subject: =?gb2312?B?UmU6ILO5tde21Ljxwaa/1bX3yqfN+8HLfr3xzOzT1tbY0MLC8sHLyP3B4tbYuaQ=?=
+Date: Wed, 27 Oct 2004 14:28:02 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0011_01C4BC31.2A9FC670"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2600.0000
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2600.0000
+Sender: owner-ccertstaff@home.ccert.edu.cn
+Precedence: bulk
+X-UIDL: +Jl"!lV'"!6"""!A^"#!
+
+俺觉得空调可选的国货还真不少吧
+:      原来一直想选择格力,就是因为它是国货里面性价比还不错的.一开始还在occupier版组织过一次团购,后来发现格力的销售几乎没有给什么优惠,就取消了团购,打算自己买得了.
+:     前天在家乐福买了三台格力,两个菱格风的1p和1.5p,还有柜机风秀.将近8k,正好是我的预算.还挺满意的,结果今天早上兴冲冲的等着装空调,早上8点半,准时到了,还挺开心的.老公眼尖,发现两台挂机不是我们要的菱格风而是肯凉风.然后给厂家打电话,厂家说没货,还说销售跟我们�
+:     中午去大中买了三菱重工的两个挂机一个柜机,还参加了刮奖,老爸手气不错,刮出一个一百大洋的返现,我跟老妈各刮出两个50,(别说什么抵制日货,俺就是一家庭主妇,再说我原来也还想支持国货来着).多花了3k+,明天上门安装,也不知道怎么样呢.
+: ...................
+

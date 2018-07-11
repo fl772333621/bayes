@@ -1,0 +1,29 @@
+Return-Path: <yun@tsinghua.edu.cn>
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id i8H0OY3R032188
+	for <qian@ccert.edu.cn>; Fri, 17 Sep 2004 08:24:34 +0800
+Received: from huhoo (point.ccert.edu.cn [202.112.50.3])
+	(authenticated bits=0)
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id i8H0YUQh012039;
+	Fri, 17 Sep 2004 08:34:30 +0800 (CST)
+From: "yun" <yun@tsinghua.edu.cn>
+To: qian@ccert.edu.cn
+Subject: =?gb2312?B?UmU6INTZt6KjuklCTdbQufq8vMr11qez1tbQ0MTV0Ma4ytu687y8yvXWp7PWuaSzzMqm?=
+Date: Fri, 17 Sep 2004 08:32:01 +0800
+Message-ID: <000001c49c4d$c055cd80$033270ca@huhoo>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0001_01C49C90.CE7C1AC0"
+X-Priority: 3 (Normal)
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook, Build 10.0.2627
+Importance: Normal
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1441
+X-UIDL: _$I"!9<9!!$Tm!!"d#"!
+
+  去做这些公司技术支持好，还是去做私营公司做研发好？一般来说。
+:     前几天发过相关的信息，也收到很多很多的简历，先谢谢大家的支持，但没有找到合适的人选，所以老板宽限了几天，呵呵，大家又有机会了:) 
+:     特别说明，这回可以招应届的学生，但希望你在操作系统或C语言编程方面有较多的经验，最好有AIX认证，否则即使过了我这关，也过不了老板那关啊。。。另外，请大家直接把简历写在邮件正文中，否则还得打开附件，效率太低了，先感谢合作！
+: IBM中国技术支持中心招聘售后技术支持工程师
+: ...................
+

@@ -1,0 +1,24 @@
+Return-Path: <ye@cernet.edu.cn>
+Received: from user-7bkbiq72wz (tu203023.tsinghua.edu.cn [166.111.203.23])
+	(authenticated bits=0)
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id iAB2IVDK020380;
+	Thu, 11 Nov 2004 10:18:31 +0800 (CST)
+Message-Id: <200411110218.iAB2IVDK020380@sea.net.edu.cn>
+From: "ye" <ye@cernet.edu.cn>
+To: liao@ccert.edu.cn
+Subject: =?GB2312?Q?Re: Fw: =D3=EB=C6=F4=C3=F7=D0=C7=B3=BD=BD=BB=C1=F7?=
+X-mailer: Foxmail 4.2 [cn]
+Mime-Version: 1.0
+Content-Type: text/plain;
+      charset="GB2312"
+Date: Thu, 11 Nov 2004 10:14:59 +0800
+Content-Transfer-Encoding: 8bit
+X-MIME-Autoconverted: from quoted-printable to 8bit by sea.net.edu.cn id iAB2IVDK020380
+X-UIDL: DM+!!EY-"!AI7!!,EU"!
+
+后两部是典型的志大才疏，编导自己都没法把故事说明白。
+: 其实应该是母体自己把史密斯同志给灭了吧。就好像杀毒的时候，跟踪一个特定文件，一发现其有被感染症状，马上一举将病毒摧毁...嗯，有点“捉贼拿赃，捉奸在床”的意思...汗。
+: 所以通俗点说，咱们的救世主就是做了把人肉诱饵，嘿嘿。
+: 黑客1一直没机会看，黑客2也没看明白，黑客3...嗯，也在后知后觉反刍中 ^_^
+: ...................
+

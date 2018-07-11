@@ -1,0 +1,40 @@
+Return-Path: <tu@tsinghua.edu.cn>
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id iBMAI150002895
+	for <luo@ccert.edu.cn>; Wed, 22 Dec 2004 18:18:01 +0800 (CST)
+Received: (eyou send program); Wed, 22 Dec 2004 18:02:35 +0800
+Message-ID: <303709754.11986@mail.tsinghua.edu.cn>
+Received: from unknown (HELO mail.tsinghua.edu.cn) (unknown@127.0.0.1)
+ by 127.0.0.1 with SMTP; Wed, 22 Dec 2004 18:02:35 +0800
+X-scanvirus: By Symantec Scan Engine
+X-scanresult: CLEAN
+Received: (eqmail ); 22 Dec 2004 10:02:33 -0000
+Received: from unknown (HELO sony) (duanhx@202.112.50.213)
+  by localhost with SMTP; 22 Dec 2004 10:02:33 -0000
+Message-ID: <006201c4e80f$8037cab0$d53270ca@sony>
+From: "tu" <tu@tsinghua.edu.cn>
+To: luo@ccert.edu.cn
+Cc: <rao@ccert.edu.cn>
+References: <303684949.22757@mail.tsinghua.edu.cn>
+Subject: =?gb2312?B?UmU6ILnY09rGxc+xudjPtbXE0ru147+0t6ijoQ==?=
+Date: Wed, 22 Dec 2004 18:17:52 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_005F_01C4E852.8D851D10"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2900.2180
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+X-UIDL: @9&"!;oo!!02;"!fE#"!
+
+说白了还不是心疼女儿，怕女儿受苦
+现在每天看人鱼小姐可深有感触。。。。。。
+如果是婆婆拿出这么多钱，应该会觉得你吃我的住我的用我的
+你嫁给我儿子不知道占了多大便宜。。。。。。
+以前就听一JJ说过，都说不能嫁农村的，其实有钱的更不能嫁
+她婆婆现在整天觉得她攀高枝了
+: 我们那一个护士长，花了一百多万给女儿女婿买的房子
+: 还买了车库，又给全套装修，最近又赞助了10万买车，aaaaaa
+: 真是让人羡慕那个男人的GS运啊
+: ...................
+

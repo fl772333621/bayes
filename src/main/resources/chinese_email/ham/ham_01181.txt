@@ -1,0 +1,41 @@
+Return-Path: <gu@home.ccert.edu.cn>
+Received: from home.ccert.edu.cn (localhost [127.0.0.1])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id iB17t3EI021043;
+	Wed, 1 Dec 2004 15:55:03 +0800
+Received: (from majordomo@localhost)
+	by home.ccert.edu.cn (8.13.1/8.13.1/Submit) id iB17t35o021042;
+	Wed, 1 Dec 2004 15:55:03 +0800
+X-Authentication-Warning: home.ccert.edu.cn: majordomo set sender to owner-ccertstaff using -f
+Received: from ccertspark (tu203021.tsinghua.edu.cn [166.111.203.21])
+	(authenticated bits=0)
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id iB17rqKa021013;
+	Wed, 1 Dec 2004 15:53:52 +0800
+From: "gu" <gu@ccert.edu.cn>
+To: huang@ccert.edu.cn
+Cc: <sun@ccert.edu.cn>
+Subject: =?gb2312?B?UmU6ILfyxt7Su7Oho6zI57rO19+z9sC0o78=?=
+Date: Wed, 1 Dec 2004 16:05:48 +0800
+Message-ID: <002101c4d77c$91024c60$15cb6fa6@ccertspark>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0022_01C4D7BF.9F258C60"
+X-Priority: 3 (Normal)
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook, Build 10.0.6626
+X-MIMEOLE: Produced By Microsoft MimeOLE V6.00.3790.181
+In-Reply-To: <002301c4d779$cc07e2a0$df54cfdc@WHITESNOW>
+Importance: Normal
+Sender: owner-ccertstaff@home.ccert.edu.cn
+Precedence: bulk
+X-UIDL: ncQ!!W1!"!2\b!!f[N"!
+
+记得有一年，我和猪头在图书馆看片子，
+好像是彤大伟和徐静蕾的“我爱你”，也就是过把瘾的电影版
+看到俩人婚后，丈夫拉着朋友来家里喝酒，已经喝高了，还非要喝，最后给了老婆一巴掌
+不知道联想到什么了，忽然趴在猪头怀里开始掉眼泪，搞得他手足无措
+人情绪敏感的时候还真是没办法。。
+: 我也不知道，
+: 可能是怀孕了情绪脆弱吧，
+: 昨天晚上看片片，一对夫妻在结婚七年的时候男方有了外遇，
+: ...................
+

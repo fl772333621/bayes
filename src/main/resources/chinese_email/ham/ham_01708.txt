@@ -1,0 +1,33 @@
+Return-Path: <lv@ns.6test.edu.cn>
+Received: from tsinghua.org.cn ([210.77.143.231])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id j07Bnb8W026683
+	for <cai@ccert.edu.cn>; Fri, 7 Jan 2005 19:49:42 +0800
+Received: (eyou send program); Fri, 07 Jan 2005 19:40:50 +0800
+Received: (eyou send program); Fri, 07 Jan 2005 19:40:50 +0800
+X-EYOU-ORIGINAL-IP: 210.77.143.235
+X-EYOU-ENVELOPE-MAILFROM: wangyi@ns.6test.edu.cn
+Received: from unknown (HELO eyou.net) (unknown@210.77.143.235)
+ by 210.77.143.231 with SMTP; Fri, 07 Jan 2005 19:40:50 +0800
+Received: (eyou send program); Fri, 07 Jan 2005 19:54:53 +0800
+Message-ID: <305098893.23786@eyou.net>
+Received: from 166.111.65.6 by 210.77.143.235 with SMTP; Fri, 07 Jan 2005 19:54:52 +0800
+Date: Fri, 7 Jan 2005 20:01:35 +0800
+From: "lv" <lv@ns.6test.edu.cn>
+To: cai@ccert.edu.cn
+Subject: =?gb2312?B?UmU6INbQufogdnMuIMPAufo=?=
+X-mailer: Foxmail 5.0 [cn]
+Mime-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: 8bit
+X-MIME-Autoconverted: from base64 to 8bit by home.ccert.edu.cn id j07Bnb8W026683
+X-UIDL: Rbe"!/m&#!@a+"!EIo!!
+
+我也听说过这种故事, 家里父母亲病危, 往美国电话一打, 说害怕被拘签, 然后家里也表示理解.
+真TMD的Bull Shit. 我觉得这种人真不是东西. 不是中国人最讲亲情么? 
+我们实验室的意大利人就做得很好, 他妈妈要在意大利动手术, 他搜一下买了张机票就回国了, 然后呆了将近一个月,现在还没回来, 就是要陪他妈. 人家也是快要博士毕业了, 老板也push得很紧, 可能会拿不到博士, 如果最后关头弄不好的话. 有些时候,真的觉得人不能太自私. 我就不相信那帮人将来不会后悔!
+: 很少发文，不过看到搂住的文章，实在按捺不住鄙视之情，也不怕大家排砖了。
+: 我出来前身边有一家人，父母含辛茹苦，将两个儿子养大，上大学，然后去美国那奖学金读博士。后来两个儿子都结婚生子，安乐家，一直还都传为佳话。
+: 突然有一天，父亲去世了，那末长的一段时间，包括病危到出丧，两个儿子竟然一个都没有回来，只有老母亲默默处理着后事。
+: ...................
+

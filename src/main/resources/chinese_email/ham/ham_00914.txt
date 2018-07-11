@@ -1,0 +1,36 @@
+Return-Path: <zhou@home.ccert.edu.cn>
+Received: from home.ccert.edu.cn (localhost [127.0.0.1])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id j17AovEn018112;
+	Mon, 7 Feb 2005 18:50:57 +0800
+Received: (from majordomo@localhost)
+	by home.ccert.edu.cn (8.13.1/8.13.1/Submit) id j17AovpD018111;
+	Mon, 7 Feb 2005 18:50:57 +0800
+X-Authentication-Warning: home.ccert.edu.cn: majordomo set sender to owner-ccert_forum using -f
+Received: from sunbin ([61.162.253.29])
+	(authenticated bits=0)
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id j17Aon0I018107;
+	Mon, 7 Feb 2005 18:50:52 +0800
+Message-Id: <200502071050.j17Aon0I018107@home.ccert.edu.cn>
+Date: Mon, 7 Feb 2005 18:58:50 +0800
+From: "zhou" <zhou@ccert.edu.cn>
+Reply-To: zhou@ccert.edu.cn
+To: cheng@ccert.edu.cn
+Subject: =?gb2312?B?UmU6IM/ytPPPwMPHx+u9zKGqoarP686qv8nBr7XE1/axz8notcRnZ7C+zMCyubK5oa0=?=
+Organization: CCERT
+X-mailer: Foxmail 5.0 beta2 [cn]
+Mime-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: 8bit
+X-MIME-Autoconverted: from base64 to 8bit by home.ccert.edu.cn id j17Aos0I018109
+Sender: owner-ccert_forum@home.ccert.edu.cn
+Precedence: bulk
+X-UIDL: -[K"!(a%!!D%A"!m?8!!
+
+蒸煮最简单了，可以蒸蛋羹，煲汤。
+真是幸福的一对。
+:     蒙牛gg最近身体不太好，主要是做毕设还有为我做这做那累的。我想为他做点好吃的补补，熬个汤什么的，可是我除了西红柿超炒鸡蛋这类的简单菜，就没亲手做过什么难度大的菜啊汤啊，现在仍停留在观摩妈妈做饭的理论水平上。不好意思问朋友们（她们一定起哄说我太女人的
+:     我很菜，所以希望您考虑到我虽有国家十级厨师的潜质，但还是尽量少用太专业的术语跟我对话，应为我搞不清楚油着火了是不是就是油温达到10成了；我的工具器械也不是很全，毕竟自己的厨房还是在建工程。唯愿您不要对一穷二白的我丧失信心，因为我有强劲的学习动力（把
+:     请大家不吝赐教，拜谢各路英雄了（抱拳）！
+: ...................
+

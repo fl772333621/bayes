@@ -1,0 +1,56 @@
+Return-Path: <pan@tsinghua.edu.cn>
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id iAA1VXYs023616
+	for <bai@ccert.edu.cn>; Wed, 10 Nov 2004 09:31:33 +0800 (CST)
+Received: (eyou send program); Wed, 10 Nov 2004 09:16:38 +0800
+Message-ID: <300049398.24600@mail.tsinghua.edu.cn>
+Received: from unknown (HELO mail.tsinghua.edu.cn) (unknown@127.0.0.1)
+ by 127.0.0.1 with SMTP; Wed, 10 Nov 2004 09:16:38 +0800
+X-scanvirus: By Symantec Scan Engine
+X-scanresult: NOREP
+Received: (eqmail ); 10 Nov 2004 01:16:30 -0000
+Received: from unknown (HELO sony) (duanhx@202.112.50.214)
+  by localhost with SMTP; 10 Nov 2004 01:16:30 -0000
+Message-ID: <012f01c4c6c4$f7599770$c60370ca@sony>
+From: "pan" <pan@tsinghua.edu.cn>
+To: bai@ccert.edu.cn
+References: <299636717.19631@mail.tsinghua.edu.cn>
+Subject: =?gb2312?B?UmU6INPQtePP67zSwcs=?=
+Date: Wed, 10 Nov 2004 09:30:49 +0800
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2900.2180
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+Content-Transfer-Encoding: 8bit
+X-MIME-Autoconverted: from base64 to 8bit by sea.net.edu.cn id iAA1VXYs023616
+X-UIDL: H:9!!X[I!!eRO"!JPG"!
+
+为啥我总觉得面包离我很遥远~
+: 标  题: 有点想家了
+: 发信站: 水木社区 (Mon Jun  6 22:46:57 2005), 站内
+: 
+: 收到爸爸发来的短信，问我吃饭了没有:-)
+: 我知道老爸眼睛已经有些花了，发短信的时候得戴上眼镜，一句很短得话也
+: 会写上半天的工夫，所以他很少给人发短信，他每次给我发也都是问我吃饭了没有这样
+: 的话。
+: 我明白家里想知道我过得好不好，开心不开心，可是他们从来不会直接问，
+: 只是说“吃的什么饭啊？今天都干吗了”所以我都拣好的说“我今天炒了三个菜，
+: 我昨天出去逛街了”这些话有时候是真的，有时候是我编出来安慰爸妈的；
+: 因为我实在没法保证每天都有很好的心情，每天都兴致勃勃的生活，差不多会有
+: 一半的时间我睡的头重脚轻，洗完脸出去买一个煎饼吃了，然后一边发呆一边上网。
+: 
+: 没有工作的日子就这样一天一天流走，不快也不慢，和从前没什么差别。
+: 
+: 我觉得自己就像一枝飞在空中的树杈，没有地方落脚生根。
+: 
+: 漂泊总有尽头，我得记住自己每天都在长大，面包或许就在不远处等着我。
+: 
+: --
+: 再平静一点，再坚强一点，嗯。
+: 
+: 
+: ※ 来源:·水木社区 newsmth.net·[FROM: 61.149.241.*]
+

@@ -1,0 +1,25 @@
+Return-Path: <lv@rbl.ccert.edu.cn>
+Received: from rbl.ccert.edu.cn (rbl.ccert.edu.cn [202.112.57.71])
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id i951RaBG012706
+	for <you@ccert.edu.cn>; Tue, 5 Oct 2004 09:27:36 +0800 (CST)
+Received: from rbl.ccert.edu.cn (localhost.localdomain [127.0.0.1])
+	by rbl.ccert.edu.cn (8.12.11/8.12.11) with ESMTP id i951XPos018799
+	for <you@ccert.edu.cn>; Tue, 5 Oct 2004 09:33:25 +0800
+Received: (from qa@localhost)
+	by rbl.ccert.edu.cn (8.12.11/8.12.11/Submit) id i951XP4q018798;
+	Tue, 5 Oct 2004 09:33:25 +0800
+Date: Tue, 5 Oct 2004 09:33:25 +0800
+Message-Id: <200410050133.i951XP4q018798@rbl.ccert.edu.cn>
+Subject: =?gb2312?B?UmU6INGnyrLDtNKqsLTK0LOh0OjH88C0UmU6IMKn1ve1xLnbteO6w8asw+Y=?=
+To: you@ccert.edu.cn
+From: Tran Quang Anh <lv@cernet.edu.cn>
+Content-Type: multipart/mixed; boundary="----------=_1096940005-996-426"
+MIME-Version: 1.0
+X-UIDL: #`>!!V?b!!FNY"!E?9"!
+
+知易行难
+高中时候哪里知道自己兴趣和特长了
+再说，兴趣不是从业的首要考虑因素，顶多也就是之一而已
+: 对，这样的话那些所谓的好专业不久就会人满为患，导致竞争激烈，平均待遇也会下降，而所谓的冷门专业也会由于人才稀缺而增加身价，最终达到一个平衡
+: 然后大家选专业的出发点就不再是冷门与热门，而是凭自己的兴趣或特长，有利于发挥人的最大潜力。不轮哪一行，都会比现在容易出现稀世人才
+

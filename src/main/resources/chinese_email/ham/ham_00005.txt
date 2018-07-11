@@ -1,0 +1,26 @@
+Return-Path: <cheng@cernet.edu.cn>
+Received: from bbb-threeb (tu203030.tsinghua.edu.cn [166.111.203.30])
+	(authenticated bits=0)
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id iBV3p7lk029914;
+	Fri, 31 Dec 2004 11:51:08 +0800 (CST)
+Message-Id: <200412310351.iBV3p7lk029914@sea.net.edu.cn>
+Date: Fri, 31 Dec 2004 11:51:34 +0800
+From: "cheng" <cheng@cernet.edu.cn>
+To: cen@ccert.edu.cn
+Subject: =?gb2312?B?UmU6IL+0wcsi0arA4cq3IizQtNC019S8uszhuam49s/gt7S1xLLOv7ywyQ==?=
+Organization: Tsinghua University
+X-mailer: Foxmail 5.0 [cn]
+Mime-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: 8bit
+X-MIME-Autoconverted: from base64 to 8bit by sea.net.edu.cn id iBV3p7lk029914
+X-UIDL: K`m!!Bg`!!@3?"!c>!#!
+
+这个，学习一下各种政策，法规就可以啦。面试的时候就该问清楚的。
+我前面销售那份工作，我离开才知道，跟我同时进公司的人和我签的协议是不同的，就因为他们没注意，被罚钱，我安然无恙。
+:   实际上，我个人觉得，相对而言，私营，民营企业在这方面做得不正规，至少
+: 是有一些，他们之间有差别很大的。
+:   呵呵，同样是开公司，有的是一上来就是给工资条＋邀请信，让你第二天就去签，
+: ...................
+

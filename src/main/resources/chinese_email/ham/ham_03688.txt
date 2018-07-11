@@ -1,0 +1,68 @@
+Return-Path: <zhang@ns.6test.edu.cn>
+Received: from tsinghua.org.cn ([210.77.143.228])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id i9L2lTa8009458
+	for <lei@ccert.edu.cn>; Thu, 21 Oct 2004 10:47:30 +0800
+Received: (eyou send program); Thu, 21 Oct 2004 10:58:35 +0800
+Received: (eyou send program); Thu, 21 Oct 2004 10:58:31 +0800
+X-EYOU-ORIGINAL-IP: 202.38.99.65
+X-EYOU-ENVELOPE-MAILFROM: toefl-bounces@server.cool-meeting.com
+Received: from unknown (HELO server.cool-meeting.com) (unknown@202.38.99.65)
+ by 210.77.143.228 with SMTP; Thu, 21 Oct 2004 10:58:31 +0800
+Received: from server.cool-meeting.com (localhost.localdomain [127.0.0.1])
+	by server.cool-meeting.com (8.12.8/8.12.8) with ESMTP id i9L2rcli029982
+	for <lei@ccert.edu.cn>; Thu, 21 Oct 2004 10:54:03 +0800
+Received: from ns.6test.edu.cn ([202.38.99.18])
+	by server.cool-meeting.com (8.12.8/8.12.8) with ESMTP id i9L2rbkr029978
+	for <lei@ccert.edu.cn>; Thu, 21 Oct 2004 10:53:37 +0800
+Received: from [210.25.128.109] (helo=tsinghua89o1rm)
+	by ns.6test.edu.cn with asmtp (Exim 4.12) id 1CKTDt-000HzQ-00
+	for Toefl@server.cool-meeting.com; Thu, 21 Oct 2004 11:02:41 +0800
+Message-ID: <003e01c4b718$0cdcc6b0$6d8019d2@tsinghua89o1rm>
+From: "zhang" <zhang@ns.6test.edu.cn>
+To: lei@ccert.edu.cn
+Date: Thu, 21 Oct 2004 10:45:09 +0800
+MIME-Version: 1.0
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2600.0000
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2600.0000
+Cc: 
+Subject: =?gb2312?B?UmU6IL3xzOzU2kdGtcS3v7zkt6LP1sHLxLDJ+sTQyMu1xNHMzbeho6GjoaOho6GjoaM=?=
+X-BeenThere: toefl@server.cool-meeting.com
+X-Mailman-Version: 2.1.2
+Precedence: list
+List-Id: &#26446;&#26143;&#21644;&#20182;&#30340;&#23398;&#29983;&#20204;
+	<toefl.server.cool-meeting.com>
+List-Unsubscribe: <http://server.cool-meeting.com/mailman/listinfo/toefl>,
+	<mailto:toefl-request@server.cool-meeting.com?subject=unsubscribe>
+List-Archive: <http://server.cool-meeting.com/mailman/private/toefl>
+List-Post: <mailto:toefl@server.cool-meeting.com>
+List-Help: <mailto:toefl-request@server.cool-meeting.com?subject=help>
+List-Subscribe: <http://server.cool-meeting.com/mailman/listinfo/toefl>,
+	<mailto:toefl-request@server.cool-meeting.com?subject=subscribe>
+Content-Type: multipart/mixed; boundary="===============98107849413832482=="
+Sender: toefl-bounces@server.cool-meeting.com
+Errors-To: toefl-bounces@server.cool-meeting.com
+X-UIDL: gd7"!=90!!"XJ"!nDW"!
+
+理智的人都有这个自信
+: 标  题: Re: 今天在GF的房间发现了陌生男人的烟头。。。。。。
+: 发信站: 水木社区 (Thu Jun 16 01:34:27 2005), 站内
+: 
+: 欣赏你的自信。
+: : 一.这种情况对我不可能出现
+:                  ~~~~~~
+: : 二,你打了女人还是没管好她
+: 
+: 
+: --
+:   羿裔熠①,邑②彝,义医,艺诣.
+:   熠姨遗一裔伊③,伊仪迤,衣旖,异奕矣.
+:   熠意④伊矣,易衣以贻伊,伊遗衣,衣异衣以意异熠,熠抑矣.
+:   伊驿邑,弋一翳⑤,弈毅⑥.毅仪奕,诣弈,衣异,意逸.毅诣伊,益伊,伊怡,已臆⑦毅矣,毅
+:   亦怡伊.
+:   翌,伊亦弈毅.毅以蜴贻伊,伊亦贻衣以毅.
+: 
+: 
+: ※ 来源:·水木社区 newsmth.net·[FROM: 59.66.137.*]
+

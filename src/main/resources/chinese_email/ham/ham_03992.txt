@@ -1,0 +1,48 @@
+Return-Path: <jiang@tsinghua.edu.cn>
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id iAA6caJC029375
+	for <xin@ccert.edu.cn>; Wed, 10 Nov 2004 14:38:36 +0800 (CST)
+Received: (eyou send program); Wed, 10 Nov 2004 14:23:48 +0800
+Message-ID: <300067827.26464@mail.tsinghua.edu.cn>
+Received: from unknown (HELO mail.tsinghua.edu.cn) (unknown@127.0.0.1)
+ by 127.0.0.1 with SMTP; Wed, 10 Nov 2004 14:23:48 +0800
+X-scanvirus: By Symantec Scan Engine
+X-scanresult: NOREP
+Received: (eqmail ); 10 Nov 2004 06:23:45 -0000
+Received: from unknown (HELO sony) (duanhx@166.111.204.105)
+  by localhost with SMTP; 10 Nov 2004 06:23:45 -0000
+Message-ID: <01a601c4c6ef$e3a6f670$c60370ca@sony>
+From: "jiang" <jiang@tsinghua.edu.cn>
+To: xin@ccert.edu.cn
+Subject: =?gb2312?B?ofEgttTFrrqi19PKx7K7yseyu8Tc0rvOtsjMyMOwog==?=
+Date: Wed, 10 Nov 2004 14:38:27 +0800
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2900.2180
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+Content-Transfer-Encoding: 8bit
+X-MIME-Autoconverted: from base64 to 8bit by sea.net.edu.cn id iAA6caJC029375
+X-UIDL: [6["!-(I"!b2G"!W~,"!
+
+前几天因为一点小事，mm就生气了，连着跟我冷战四天
+起因是她想买DV，我想都没想就说自己没钱了
+（事实上就是存折里只有6000了，一直都不敢动，怕遇到急事时没钱）
+为这事mm很生气，说我不爱她，不肯养她
+说幸好她现在有固定收入,能养活自己
+如果将来需要我养的时候,肯定被我一脚踢开
+天可怜见，她已经工作了，我还在读书
+她的月收入是我的四倍，可从来都是我给她买东西的份
+前些日子刚给她买了一个移动硬盘，一个苹果的mp3
+没想到她居然因为这句话跟我冷战四天
+这几天好话说尽,天天认错道歉,就是不管用.
+刚才实在忍无可忍了,就对她发了脾气.
+我说,既然你对我这么没信心,这么不信任,我也无话可说.
+你干脆去找个你确信一定会养你的吧.
+没想到反而受到了意想不到的效果,她不闹了,冷战也结束了.
+真的很纳闷,为什么会这样.
+突然觉得,对女生不能宠得太厉害阿
+否则根本不知道珍惜.
+

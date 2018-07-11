@@ -1,0 +1,29 @@
+Return-Path: <gu@21cn.com>
+Received: from 21cn.com (send.forptr.21cn.com [202.105.45.51])
+	by home.ccert.edu.cn (MIMEDefang) with ESMTP id NOQUEUE
+	for <ding@ccert.edu.cn>; Wed, 22 Jun 2005 21:20:18 +0800 (CST)
+Received: from 21cn.com([127.0.0.1]) by 21cn.com(AIMC 2.9.5.6 P2)
+	with SMTP id jm242b96e4c; Wed, 22 Jun 2005 21:40:14 +0800
+X-MaxRuleNumber-200: 6949549 38250275                                        
+X-MatchRuleNumber-200: 2724400 44659043                                      
+X-Action-200: D                                                              
+Received: from 21cn.com([10.2.1.6]) by 21cn.com(AIMC 2.9.5.4)
+	with SMTP id AISP action; Wed, 22 Jun 2005 21:40:14 +0800
+From: gu@21cn.com <>
+Message-Id: receive6.inner-21cn.com.24375.35037.1119447612
+To: ding@ccert.edu.cn
+Date: Wed, 22 Jun 2005 21:40:12 +0800
+Subject: =?gb2312?B?wLTX1CAyMWNuLmNvbSC1xM3L0MU=?=
+Content-type: multipart/report; report-type=delivery-status; boundary=aimc
+X-AIMC-AUTH: (null)
+X-AIMC-MAILFROM: postmaster@21cn.com
+X-Auto-Forward: $org_auto_forward
+
+ 动作: 失败
+
+没有能够发送到以下的收件人:
+
+ h33446092 "(15), ErrMsg=mail box space not enough, account=h33446092 "
+
+不会再有任何动作来尝试发送你的邮件了。 请联系你的系统管理员或先通过其它非电子邮件的方式向你的朋友发送信息以免耽误。 
+

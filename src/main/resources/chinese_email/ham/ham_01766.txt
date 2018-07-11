@@ -1,0 +1,66 @@
+Return-Path: <qiu@mails.tsinghua.edu.cn>
+Received: from tsinghua.org.cn ([210.77.143.228])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id i8S4m1qq029124
+	for <luo@ccert.edu.cn>; Tue, 28 Sep 2004 12:48:03 +0800
+Received: (eyou send program); Tue, 28 Sep 2004 12:58:14 +0800
+Received: (eyou send program); Tue, 28 Sep 2004 12:58:13 +0800
+X-EYOU-ORIGINAL-IP: 202.38.99.65
+X-EYOU-ENVELOPE-MAILFROM: toefl-bounces@server.cool-meeting.com
+Received: from unknown (HELO server.cool-meeting.com) (unknown@202.38.99.65)
+ by 210.77.143.228 with SMTP; Tue, 28 Sep 2004 12:58:13 +0800
+Received: from server.cool-meeting.com (localhost.localdomain [127.0.0.1])
+	by server.cool-meeting.com (8.12.8/8.12.8) with ESMTP id i8S4nQlf022410
+	for <luo@ccert.edu.cn>; Tue, 28 Sep 2004 12:49:34 +0800
+Received: from mails.tsinghua.edu.cn (mails.tsinghua.edu.cn [166.111.8.16])
+	by server.cool-meeting.com (8.12.8/8.12.8) with SMTP id i8S4nOkr022406
+	for <luo@ccert.edu.cn>; Tue, 28 Sep 2004 12:49:24 +0800
+Received: (eyou send program); Tue, 28 Sep 2004 12:39:48 +0800
+Message-ID: <296346388.28750@mails.tsinghua.edu.cn>
+Received: from unknown (HELO mails.tsinghua.edu.cn) (unknown@127.0.0.1)
+	by 127.0.0.1 with SMTP; Tue, 28 Sep 2004 12:39:48 +0800
+X-scanvirus: By Symantec Scan Engine
+X-scanresult: NOREP
+Received: (eqmail ); 28 Sep 2004 04:39:46 -0000
+Received: from tu172175.tsinghua.edu.cn (HELO hoho)
+	(zhuyangbo99@166.111.172.175)
+	by mails.tsinghua.edu.cn with SMTP; 28 Sep 2004 04:39:46 -0000
+Date: Tue, 28 Sep 2004 12:51:17 +0800
+From: "qiu" <qiu@mails.tsinghua.edu.cn>
+To: luo@ccert.edu.cn
+Subject: =?gb2312?B?ofEgob6zz8a4ob9EU1C/qreiyMvUsQ==?=
+X-mailer: Foxmail 5.0 [cn]
+Mime-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: 8bit
+X-MIME-Autoconverted: from base64 to 8bit by server.cool-meeting.com id
+	i8S4nOkr022406
+Cc: =?gb2312?B?zfjC59bQ0MRUb2VmbMzWwtvX6Q==?= <huang@ccert.edu.cn>
+X-BeenThere: toefl@server.cool-meeting.com
+X-Mailman-Version: 2.1.2
+Precedence: list
+List-Id: &#26446;&#26143;&#21644;&#20182;&#30340;&#23398;&#29983;&#20204;
+	<toefl.server.cool-meeting.com>
+List-Unsubscribe: <http://server.cool-meeting.com/mailman/listinfo/toefl>,
+	<mailto:toefl-request@server.cool-meeting.com?subject=unsubscribe>
+List-Archive: <http://server.cool-meeting.com/mailman/private/toefl>
+List-Post: <mailto:toefl@server.cool-meeting.com>
+List-Help: <mailto:toefl-request@server.cool-meeting.com?subject=help>
+List-Subscribe: <http://server.cool-meeting.com/mailman/listinfo/toefl>,
+	<mailto:toefl-request@server.cool-meeting.com?subject=subscribe>
+Sender: toefl-bounces@server.cool-meeting.com
+Errors-To: toefl-bounces@server.cool-meeting.com
+X-UIDL: ,O*!!Qh%!!jUj"!=!8!!
+
+    我们是一家是从事计算机视觉技术研究与开发的高新技术企业，由在美大学
+教授创办。公司致力于将该领域的最新研究成果应用到实际产品中。
+    公司因业务扩展需要，招聘 DSP 开发人员一名，可考虑全职和兼职。
+要求：
+(1). 为人诚恳踏实，动手能力强。
+(2). 有丰富的 DSP 开发和算法优化经验，掌握一定的硬件设计开发与调试经验；
+(3). 熟悉TI的 DSP 软件算法实现；熟悉 DM642 者优先。
+(4). 有较好的沟通能力和团队合作精神。
+工作地点：清华东门创业园
+有意者请将个人简历（详细说明您做过的工作）发至 jobs@standardvision.com
+来信注明“DSP开发”。
+

@@ -1,0 +1,28 @@
+Return-Path: <yang@mail.tsinghua.edu.cn>
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id iBG70Mce021070
+	for <zhao@ccert.edu.cn>; Thu, 16 Dec 2004 15:00:22 +0800 (CST)
+Received: (eyou send program); Thu, 16 Dec 2004 14:44:58 +0800
+Message-ID: <303179498.19396@mail.tsinghua.edu.cn>
+Received: from 166.111.204.106 by mail.tsinghua.edu.cn with HTTP; Thu, 16 Dec 2004 14:44:58 +0800
+X-WebMAIL-MUA: [166.111.204.106]
+From: "yang" <yang@mail.tsinghua.edu.cn>
+To: zhao@ccert.edu.cn
+Date: Thu, 16 Dec 2004 14:44:58 +0800
+Reply-To: "yang" <yang@mail.tsinghua.edu.cn>
+Subject: Re: Re: Re: 好消息！
+Content-Type: text/plain
+X-UIDL: D"Z!!-MM!!\%X!!3AA"!
+
+日前，北京住房公积金管理委员会下发了《关于北京 2005 住房公积金年度住房公积金缴存有关问题的通知》（京房公积金管委［ 2005 ］2号），具体内容如下： 
+一、住房公积金缴存比例 
+　　2005 住房公积金年度住房公积金缴存比例政策不变，缴存比例仍为 8% ，有条件的单位（北京市为“有条件的企业”）住房公积金缴存比例可以为 10% 。 
+二、住房公积金缴存额上限 
+　　1 、 根据市政府 2002 年确定的原则， 2005 住房公积金年度的缴存额上限按照 2004 年职工月均工资的 300% ，分别乘以单位和职工住房公积金缴存比例确定。按照北京市统计局公布数据， 2005 住房公积金年度职工住房公积金月缴存额上限是： 2362 × 3 × 10% × 2 ＝ 1417 元 ( 四舍五入 ) ； 
+　　2 、单位职工申请突破住房公积金缴存额上限的，经批准可按相关规定缴存住房公积金； 
+　　3 、按照有关文件规定，符合享受优惠政策条件的企业，住房公积金缴存可不受住房公积金缴存额上限的限制； 
+　　4 、 中共中央直属机关、中央国家机关、北京铁路分中心所管理的单位和职工仍按原有规定执行。
+二00五年四月八日
+: 呵呵，住房公积金交个5k-1W太正常的事了，不用多交，就自己10%公司10%，Cisco
+: HP这样的人大有人在
+

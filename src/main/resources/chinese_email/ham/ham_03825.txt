@@ -1,0 +1,42 @@
+Return-Path: <zheng@home.ccert.edu.cn>
+Received: from home.ccert.edu.cn (localhost [127.0.0.1])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id j0OEg3XA015554;
+	Mon, 24 Jan 2005 22:42:03 +0800
+Received: (from majordomo@localhost)
+	by home.ccert.edu.cn (8.13.1/8.13.1/Submit) id j0OEg3Hw015553;
+	Mon, 24 Jan 2005 22:42:03 +0800
+X-Authentication-Warning: home.ccert.edu.cn: majordomo set sender to owner-ccert_forum using -f
+Received: from web15808.mail.cnb.yahoo.com (web15808.mail.cnb.yahoo.com [202.165.102.88])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with SMTP id j0OEg2Xx015533
+	for <zheng@ccert.edu.cn>; Mon, 24 Jan 2005 22:42:03 +0800
+Message-ID: <20050124145342.85603.qmail@web15808.mail.cnb.yahoo.com>
+Received: from [211.84.65.92] by web15808.mail.cnb.yahoo.com via HTTP; Mon, 24 Jan 2005 22:53:42 CST
+Date: Mon, 24 Jan 2005 22:53:42 +0800 (CST)
+From: =?gb2312?q?=B0=A2=EC=BF?= <zheng@yahoo.com.cn>
+Subject: =?gb2312?B?ofEgtdrSu7TOwey9zMHLyLrD5rXEstLB0sHLoa2hrQ==?=
+To: zheng@ccert.edu.cn
+MIME-Version: 1.0
+Content-Type: text/plain; charset=gb2312
+Content-Transfer-Encoding: 8bit
+Sender: owner-ccert_forum@home.ccert.edu.cn
+Precedence: bulk
+X-UIDL: [`Z"!\pZ!!fgi"!Lj-!!
+
+昨天上午去ge参加的面试，case study 就是分组群面的。
+14个人分了一个组，开始后我们自发分成了2组，然后，开始……
+再然后，场面那叫一个混乱！
+不要指望自己可以倾听别人的发言超过20秒，因为在那之前肯定会被另一个人打断；
+不要指望自己的发言可以超过20秒，在这之前会有几个人争相打断你；
+不要指望在你认为的“适宜”的时机打断别人，在那之前他已经被另外的人打断了；
+不要指望能给自己的观点总结，在那之前你已经被强行打断并且被别人总结了；
+最后的结论是：
+想完整的表达自己的思路观点，mission impossible；
+想完整的听一下别人的方案，mission impossible；
+aggressive 真的很不容易“装”出来的，哈哈！
+场面太混乱了，而且，另外一小组的牛人只有1个，我们组的牛人就太多了，有3个半。大家七嘴八舌，吵的不可开交。同组的一个MM在发言10来个汉字被人强行打断后，就一直一脸恬静的坐在那里看着我们吵，颇有一种事不关己、置身事外的感觉了，汗……
+可怜我一直以为这种面试应该要有一个最后的大家都认可的方案的，结果可想而知，不要说方案了，就连思路什么的恐怕也没讨论出个所以然来。
+最搞笑的，最后本来是要每个小组再推荐1、2个代表来执行方案的，结果在向医院院长、科长交涉的时候，各个组内的牛人们都按奈不住、一拥而上了，哎……
+实话说这和我理想中的team work差太远了，或许根本就不是。大家不是建立在合作的基础上，而是建立在竞争的基础上。讨论的时候不仅仅要表现自己，还要阻止别人的表现，真是难为组内的牛人们了*^_^*。这种时候，什么礼貌修养、交际礼仪，全都见鬼去吧，哈哈。
+aggressive果然不是能装的啊。我很不喜欢打断别人的发言，尤其在人家还没说几个字的时候；我更反感才说了几个字就被人打断了，哎……同组还有一个哥们，自始自终没机会插上话的，哎……
+不过收获还是不小的，这种经历多了，就会知道自己确实是做不来一些事的吧，呵呵。
+

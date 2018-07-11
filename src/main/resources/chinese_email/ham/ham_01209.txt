@@ -1,0 +1,37 @@
+Return-Path: <kong@rbl.ccert.edu.cn>
+Received: from rbl.ccert.edu.cn (rbl.ccert.edu.cn [202.112.57.71])
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id i9B7FL3k000990
+	for <bi@ccert.edu.cn>; Mon, 11 Oct 2004 15:15:21 +0800 (CST)
+Received: from rbl.ccert.edu.cn (localhost.localdomain [127.0.0.1])
+	by rbl.ccert.edu.cn (8.12.11/8.12.11) with ESMTP id i9B7KdVh000450
+	for <bi@ccert.edu.cn>; Mon, 11 Oct 2004 15:20:40 +0800
+Received: (from qa@localhost)
+	by rbl.ccert.edu.cn (8.12.11/8.12.11/Submit) id i9B7KdP6000449;
+	Mon, 11 Oct 2004 15:20:39 +0800
+Date: Mon, 11 Oct 2004 15:20:39 +0800
+Message-Id: <200410110720.i9B7KdP6000449@rbl.ccert.edu.cn>
+Subject: =?gb2312?B?ofEgsbG+qbTz0ae5+rzSuN/Qwry8yvWy+tK1t6LVudHQvr/UutXQxrg=?=
+To: bi@ccert.edu.cn
+From: Tran Quang Anh <kong@cernet.edu.cn>
+Content-Type: multipart/mixed; boundary="----------=_1097479240-1014-104"
+MIME-Version: 1.0
+X-UIDL: p2N!!\W*"!8'\"!fc-!!
+
+                                招 聘 函
+     “北京大学国家高新技术产业发展战略研究院”是科技部部长徐冠华院士和北京大
+学校长许智宏院士签署共同建立的国家级研究院,科技部副部长马颂德同志任理事长，著
+名经济学家全国政协财经委副主任北京大学厉以宁教授任研究院院长。重点服务于全国的
+高新技术企业和高新技术产业开发区。
+      我院每年来在人民大会堂、北大百年讲堂等举办2－3过大型国际论坛和高新技术企
+业发展研讨会，目前承担了科技部、无锡市政府、广东中山市政府的产业规划的三个课题
+，因工作需要诚聘：
+      行政秘书（1－2名、专职）：女性、大专学历、文字录入（80字/分钟以上）、形
+象气质佳，身体健康，较好的公文写作能力、工作努力、认真负责、有敬业精神，英语口
+语好的优先录用，商务英语、行政秘书和社会工作等专业优先，试用合格将长期聘用。
+      有意者请于6月25日前将简历传真或email致研究院的联系人处，我们便于安排复试
+。
+联系电话：010-82529365/68;     传真：010－82529365
+联系人：张海生  鲁宁           email：luning@vc-venture.net
+                                       北京大学国家高新技术产业发展研究院
+                                       2005年6月8日
+

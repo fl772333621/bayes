@@ -1,0 +1,46 @@
+Return-Path: <lai@rbl.ccert.edu.cn>
+Received: from rbl.ccert.edu.cn (rbl.ccert.edu.cn [202.112.57.71])
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id i96BVEtX003679
+	for <xiao@ccert.edu.cn>; Wed, 6 Oct 2004 19:31:15 +0800 (CST)
+Received: from rbl.ccert.edu.cn (localhost.localdomain [127.0.0.1])
+	by rbl.ccert.edu.cn (8.12.11/8.12.11) with ESMTP id i96BbA5h009892
+	for <xiao@ccert.edu.cn>; Wed, 6 Oct 2004 19:37:11 +0800
+Received: (from qa@localhost)
+	by rbl.ccert.edu.cn (8.12.11/8.12.11/Submit) id i96BbAE4009891;
+	Wed, 6 Oct 2004 19:37:10 +0800
+Date: Wed, 6 Oct 2004 19:37:10 +0800
+Message-Id: <200410061137.i96BbAE4009891@rbl.ccert.edu.cn>
+Subject: =?gb2312?B?ofEgNTRjbHViLTIwMDXE6rTz0afJ+sruxtrKtc+wuNrOu9fu0MLNxrz2?=
+To: xiao@ccert.edu.cn
+From: Tran Quang Anh <lai@cernet.edu.cn>
+Content-Type: multipart/mixed; boundary="----------=_1097062631-996-634"
+MIME-Version: 1.0
+X-UIDL: 3^6!!=Y7"!5$e!!_LV!!
+
+欢迎登录www.54club.com查询更多暑期实习信息！
+公司名称：富士通研究开发中心有限公司
+招聘职位：计算机系实习生
+招聘人数：2人
+工作地点：北京
+公司名称：思科系统（中国）网络技术有限公司
+招聘职位：测试工程师、开发工程师
+招聘人数：若干
+工作地点：上海
+公司名称：上海贝塔斯曼商业服务有限公司北京分公司
+招聘职位：客户服务代表—兼职、客户服务代表—广东话、客户服务代表—英语、客户服务代表—普通话
+招聘人数：若干
+工作地点：北京
+公司名称：成都绿城置业策划事务所有限公司
+招聘职位：行政助理、建筑方案设计
+招聘人数：3人
+工作地点：成都
+公司名称：北京易观网络信息咨询有限公司
+招聘职位：内容维护和管理、客户管理助理、IT Assistant Analyst, Advisory BU
+招聘人数：4人
+工作地点：北京
+公司名称：重庆港澳大家软件产业有限公司
+招聘职位：技术支持工程师、市场研究专员、市场助理、软件开发工程师
+招聘人数：9人
+工作地点：重庆
+欢迎登录www.54club.com查询更多暑期实习信息！
+

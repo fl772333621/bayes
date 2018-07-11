@@ -1,0 +1,39 @@
+Return-Path: <yu@sina.com>
+Received: from tsinghua.org.cn ([210.77.143.231])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id j0QGPx5D011379
+	for <yi@ccert.edu.cn>; Thu, 27 Jan 2005 00:25:59 +0800
+Received: (eyou send program); Thu, 27 Jan 2005 00:16:45 +0800
+Received: (eyou send program); Thu, 27 Jan 2005 00:16:45 +0800
+X-EYOU-ORIGINAL-IP: 210.77.143.235
+X-EYOU-ENVELOPE-MAILFROM: cheriff@sina.com
+Received: from unknown (HELO eyou.net) (unknown@210.77.143.235)
+ by 210.77.143.231 with SMTP; Thu, 27 Jan 2005 00:16:45 +0800
+Received: (eyou send program); Thu, 27 Jan 2005 00:30:23 +0800
+Message-ID: <306757023.14758@eyou.net>
+Received: from 202.106.187.156 by 210.77.143.235 with SMTP; Thu, 27 Jan 2005 00:30:23 +0800
+Received: (qmail 20038 invoked from network); 26 Jan 2005 16:37:48 -0000
+Received: from unknown (HELO ?219.224.134.126?) (219.224.134.126)
+  by 202.106.187.156 with SMTP; 26 Jan 2005 16:37:48 -0000
+Received: from(cheriff@sina.com) to(chenguangying@tsinghua.org.cn)
+Subject: =?gb2312?B?UmU6ILn6zby1xNTEwMDK0tT1w7TR+T/KyrrP0afPsMLwo7/Q6NKqsOzA7cqyw7TWpLz+wvCjvyAo
+16o=?=
+From: chenff <yu@sina.com>
+To: yi@ccert.edu.cn
+In-Reply-To: <002a01c50287$3d98c5f0$5902510a@CCERTDAWEI>
+References: <002a01c50287$3d98c5f0$5902510a@CCERTDAWEI>
+Content-Type: text/plain; charset=GB18030
+Organization: 
+Message-Id: <1106757046.4413.30.camel@localhost.localdomain>
+Mime-Version: 1.0
+X-Mailer: Ximian Evolution 1.2.2 (1.2.2-4) 
+Date: 27 Jan 2005 00:30:47 +0800
+Content-Transfer-Encoding: 8bit
+X-UIDL: ?kD"!$nY!!0m~"!QN*"!
+
+阅览室大概只要有国图的卡（长期卡、临时卡，后者大概有效期一个月，两种卡办起来都很简单，到国图旁边的证卡处带有效证件办理就可以了）就可以进去看书，但好象不能带自己的书
+国图还有自习室，收费的，是两块钱半天？一天？记不清了：（
+: 发信人: yunren0844 (yunren0844), 信区: NewExpress
+: 标  题: 国图的阅览室怎么样?适合学习吗？需要办理什么证件吗？
+: 发信站: 水木社区 (Mon Jun 27 16:28:18 2005), 站内
+: ...................
+

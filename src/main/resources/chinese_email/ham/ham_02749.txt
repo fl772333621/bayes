@@ -1,0 +1,30 @@
+Return-Path: <cao@rbl.ccert.edu.cn>
+Received: from rbl.ccert.edu.cn (rbl.ccert.edu.cn [202.112.57.71])
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id i91BsjNU004970
+	for <ding@ccert.edu.cn>; Fri, 1 Oct 2004 19:54:45 +0800 (CST)
+Received: from rbl.ccert.edu.cn (localhost.localdomain [127.0.0.1])
+	by rbl.ccert.edu.cn (8.12.11/8.12.11) with ESMTP id i91C0PlC030406
+	for <ding@ccert.edu.cn>; Fri, 1 Oct 2004 20:00:25 +0800
+Received: (from qa@localhost)
+	by rbl.ccert.edu.cn (8.12.11/8.12.11/Submit) id i91C0PiO030405;
+	Fri, 1 Oct 2004 20:00:25 +0800
+Date: Fri, 1 Oct 2004 20:00:25 +0800
+Message-Id: <200410011200.i91C0PiO030405@rbl.ccert.edu.cn>
+Subject: =?gb2312?B?UmU6ILTzvNLBxMHEuKO9qLXEtPPRp7DJ?=
+To: ding@ccert.edu.cn
+From: Tran Quang Anh <cao@cernet.edu.cn>
+Content-Type: multipart/mixed; boundary="----------=_1096632025-996-278"
+MIME-Version: 1.0
+X-UIDL: )$Y"!A^$"!;,H!!*U/"!
+
+  说说厦门吧，工资水平确实不高，大多数 3-4k 左右吧，不象京沪一般都是 5-6k。
+  房子比较贵，因为厦门是个岛，面积就那么大。厦大旁边一个能够看海的楼，大概
+  9k-10k/m^2 的样子，普通的楼房，也要 5k-6k 左右吧。
+  不过生活节奏很慢，适合休养。是我见过的生活节奏最慢的城市（据说国内的大城
+  市里面，除了成都，厦门是最慢的）。而且因为全岛在海边，环境也不错，空气质
+  量比较好。
+  厦门大学人文专业，化学都不错。厦门搞外贸的居多，如果是搞 IT 的想要过来做
+  老师的同时出去搞点兼职什么的就比较难，因为 IT 公司不是很多。
+  总结一下：生活比较舒服，但是收入不高。
+: 福州和厦门的房价和工资水平是多少?
+

@@ -1,0 +1,26 @@
+Return-Path: <lai@sina.com>
+Received: from sina.com (sina187-158.sina.com.cn [202.106.187.158] (may be forged))
+	by home.ccert.edu.cn (8.13.1/8.13.1) with SMTP id j0V0sUgO002705
+	for <gu@ccert.edu.cn>; Mon, 31 Jan 2005 08:54:30 +0800
+Message-Id: <200501310054.j0V0sUgO002705@home.ccert.edu.cn>
+Received: (qmail 98504 invoked from network); 31 Jan 2005 01:05:35 -0000
+Received: from unknown (HELO amd2500plus) (219.224.134.126)
+  by 202.106.187.158 with SMTP; 31 Jan 2005 01:05:35 -0000
+Received: from(cheriff@sina.com) to(qa@ccert.edu.cn)
+From: "lai" <lai@sina.com>
+To: gu@ccert.edu.cn
+Subject: =?GB2312?Q?Re: Re: Re: =BD=F1=CC=EC=CA=D4=C1=CB=D2=BB=CF=C2?=
+X-mailer: Foxmail 4.2 [cn]
+Mime-Version: 1.0
+Content-Type: text/plain;
+      charset="GB2312"
+Date: Mon, 31 Jan 2005 9:8:19 +0800
+Content-Transfer-Encoding: 8bit
+X-MIME-Autoconverted: from quoted-printable to 8bit by home.ccert.edu.cn id j0V0sUgO002705
+X-UIDL: 9+G!!!j"#!jP%!!*R)!!
+
+这个还是看自己的追求了
+我上次面试的时候，经理主要问我能不能承受比较重的工作压力，她说他们已经连续好几年超负荷运转了，每年招人的速度远远敢不上业务发展的速度
+做这一行要做到资深也是很不容易的，另外一家公司的经理跟我说他们内部代理人是分等级的，一级代理人公司完全不从他身上赚钱，专利代理费用除去一些日常开支之外，全部返还给专利代理人，也就是说相当于提成是100%，还有就是更高层次的可以去做专利律师，目前中国的案件审理中，好像只有专利类的纠纷，可以由专利代理人作为律师出席（大概意思是这样，记不太清楚了），我另外一次面试的总经理名片上就印着专利律师，他好像是伟哥案件中美方的代理律师之一吧
+:   主要是涉外的，薪水感觉比作技术能搞一些，而且公司的上升空间比较大，但总感觉 没什么挑战，太安逸了。
+

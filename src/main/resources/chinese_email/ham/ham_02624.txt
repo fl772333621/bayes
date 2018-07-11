@@ -1,0 +1,35 @@
+Return-Path: <jiang@cernet.edu.cn>
+Received: from ccertspark (tu203021.ip.tsinghua.edu.cn [166.111.203.21])
+	(authenticated bits=0)
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id j0E226rH010219;
+	Fri, 14 Jan 2005 10:02:07 +0800 (CST)
+From: "jiang" <jiang@cernet.edu.cn>
+To: cao@ccert.edu.cn
+Subject: =?gb2312?B?ofEgx+W7qs2st7254sXMuavLvtaqyra5pLPM0dC+v9S61dDGuCAo16rU2Ck=?=
+Date: Fri, 14 Jan 2005 10:00:24 +0800
+Message-ID: <001001c4f9dc$cfd12c90$15cb6fa6@ccertspark>
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+X-Priority: 3 (Normal)
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook, Build 10.0.6626
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.3790.181
+In-Reply-To: <300049396.24600@mail.tsinghua.edu.cn>
+Importance: Normal
+Content-Transfer-Encoding: 8bit
+X-MIME-Autoconverted: from quoted-printable to 8bit by sea.net.edu.cn id j0E226rH010219
+X-UIDL: Pf7!!X55"!S_;!!A(9"!
+
+【 以下文字转载自 Career_MNC 讨论区 】
+发信人: flyeager (笨鸟), 信区: Career_MNC
+标  题: 清华同方光盘公司知识工程研究院招聘
+发信站: 水木社区 (Thu Jun  2 16:04:30 2005), 站内
+大家都用过&lt;中国学术期刊网&gt;(www.cnki.net)吧, 图书馆就有. 它是我们公司的主要产品, 也是一项福泽后代的阳光事业. CNKI(中国知识资源总库)的主要功能是对中文学术期刊,报纸等进行加工,存贮,检索,下载,传播,分析等服务. 产品对象包括大学图书馆,科研院所,医院等大型科研机构和决策部门. 现在, 绝大部分国内(包括港,澳,台)大学,科院机构都是该产品的用户, CNKI还有大量的海外市场, 包括东南亚, 东亚, 美国等国家数十家大学和机构. 
+为了提高产品质量和性能,CNKI研究院长期招聘相关领域的专业人材,从事CNKI产品的研究和开发, 包括:
+自然语言处理(NLP), 信息检索(IR), 计算语言学, 机器学习, 文本内容理解和挖掘, 知识抽取, 知识管理等.
+请这些领域的专业人材,有兴趣的可以与我们联系, 也请将该信息转告给相关的朋友和同事:
+xuedejun@cnki.net
+82712288-3512
+希望通过我们的共同努力, 提高计算机理解中文文本的能力, 推动中文信息在网上的传播和利用, 提高中国的学术水平, 促进国内的学术交流!
+

@@ -1,0 +1,26 @@
+Return-Path: <zhu@rbl.ccert.edu.cn>
+Received: from rbl.ccert.edu.cn (rbl.ccert.edu.cn [202.112.57.71])
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id i8T6rbdu006440
+	for <hong@ccert.edu.cn>; Wed, 29 Sep 2004 14:53:39 +0800 (CST)
+Received: from rbl.ccert.edu.cn (localhost.localdomain [127.0.0.1])
+	by rbl.ccert.edu.cn (8.12.11/8.12.11) with ESMTP id i8T50HjF021129
+	for <hong@ccert.edu.cn>; Wed, 29 Sep 2004 13:00:18 +0800
+Received: (from qa@localhost)
+	by rbl.ccert.edu.cn (8.12.11/8.12.11/Submit) id i8T50HER021128;
+	Wed, 29 Sep 2004 13:00:17 +0800
+Date: Wed, 29 Sep 2004 13:00:17 +0800
+Message-Id: <200409290500.i8T50HER021128@rbl.ccert.edu.cn>
+Subject: =?gb2312?B?UmU6IMfpwrfLv9Pqo6jO5aOp?=
+To: hong@ccert.edu.cn
+From: Tran Quang Anh <zhu@cernet.edu.cn>
+Content-Type: multipart/mixed; boundary="----------=_1096434018-996-124"
+MIME-Version: 1.0
+X-UIDL: *K##!U=5!!%n2"!kKc!!
+
+        好久没人提起那英了。那天也突然哼哼起她的歌。
+        天亮了。我还是不是你的女人。
+: 听着那英有些低沉的忧伤的声音，心里也不觉低沉，发现从小到大，我对这种低沉忧郁的声音婉转忧伤的歌词一直都很沉醉，或许我的性格就是这样容易消沉吧。以往的感情生活并不曾教会我什么，对待感情我还是一样的束手无策，遇到问题的时候还是会悄悄落泪害怕一个人独处，总
+: 心中在猜测着各种可能，是因为以往的感情？是家庭？是有其他的人在他心里？或者是我不够好......我问他，你爱我么？他反问我，没有其他的答案可选么？我明白了一些，心里问自己，是不是该离开了，毕竟当时得到这份感情的时候就是意外的，但是，我舍得下么？或许我离开的
+: 他对我很好，除了感情有所保留以外，其他的一切可以说是无可挑剔的。只是，我要一个完整的他，一份完全的感情......
+: ...................
+

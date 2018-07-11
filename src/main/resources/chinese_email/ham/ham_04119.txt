@@ -1,0 +1,49 @@
+Return-Path: <yun@rbl.ccert.edu.cn>
+Received: from rbl.ccert.edu.cn (rbl.ccert.edu.cn [202.112.57.71])
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id i988bmoE006160
+	for <gu@ccert.edu.cn>; Fri, 8 Oct 2004 16:37:48 +0800 (CST)
+Received: from rbl.ccert.edu.cn (localhost.localdomain [127.0.0.1])
+	by rbl.ccert.edu.cn (8.12.11/8.12.11) with ESMTP id i988hnk8019244
+	for <gu@ccert.edu.cn>; Fri, 8 Oct 2004 16:43:50 +0800
+Received: (from qa@localhost)
+	by rbl.ccert.edu.cn (8.12.11/8.12.11/Submit) id i988hnB6019243;
+	Fri, 8 Oct 2004 16:43:49 +0800
+Date: Fri, 8 Oct 2004 16:43:49 +0800
+Message-Id: <200410080843.i988hnB6019243@rbl.ccert.edu.cn>
+Subject: =?gb2312?B?ofEgtbq98rmry77V0Ma4ueLG19Om08O8vMr1uaSzzMqmICjXqtTYKQ==?=
+To: gu@ccert.edu.cn
+From: Tran Quang Anh <yun@cernet.edu.cn>
+Content-Type: multipart/mixed; boundary="----------=_1097225030-1044-318"
+MIME-Version: 1.0
+X-UIDL: GYf!!j~g"!bLC!!~%+"!
+
+【 以下文字转载自 Chemistry 讨论区 】
+发信人: rheodyne (肉蛋), 信区: Chemistry
+标  题: 岛津公司招聘光谱应用技术工程师
+发信站: 水木社区 (Fri Jun 17 12:43:34 2005), 转信
+岛津国际贸易（上海）有限公司是日本岛津制作所在中国的全资子公司，岛津制作所成立于1875年，成立以来一直致力于科学仪器的开发和生产，已经是全球领先的分析仪器公司，产品涉及光谱、色谱、生物质谱等，公司的工程师田中耕一先生更是在2002年获得诺贝尔化学奖，成为最年轻的诺贝尔化学奖获得者。
+现在北京办事处招聘以下职位：
+职位名称：FTIR市场负责人1名
+职位要求：分析化学、制药、化学化工、材料等硕士学历需1年（本科学历需2年）以上FTIR相关工作经验；年龄40岁以下、性别不限、英语流利。
+主要职责：
+1、FTIR应用技术支持；
+2、其他光谱仪工作。
+职位名称：AAS应用技术支持1名
+职位要求：分析化学、化学化工等硕士以上学历需1年（本科学历需2年）以上石墨炉分析相关工作经验；年龄45岁以下、性别不限、英语流利。
+主要职责：
+1、AAS应用技术支持；
+2、用户使用操作培训；
+3、AA应用技术研发；
+4、其他光谱仪相关工作。
+职位名称：FTIR应用技术支持1名
+职位要求：分析化学、化学化工等硕士以上学历需1年（本科学历需2年）以上FTIR相关工作经验；年龄45岁以下、性别不限、英语流利。
+主要职责：
+1、FTIR应用技术支持；
+2、用户使用操作培训；
+3、FTIR应用技术研发；
+以上职位工作地点均在北京
+有意者请发个人简历到至bsml@shimadzu.com.cn
+※ 修改:·rheodyne 於 Jun 17 12:46:23 2005 修改本文·[FROM: 219.238.170.*]
+※ 来源:·水木社区 newsmth.net·[FROM: 169.229.131.*]
+※ 来源:·水木社区 http://newsmth.net·[FROM: 219.238.170.*]
+

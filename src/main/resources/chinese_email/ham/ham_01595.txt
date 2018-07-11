@@ -1,0 +1,36 @@
+Return-Path: <long@tsinghua.edu.cn>
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j2E7g6wn004184
+	for <yang@ccert.edu.cn>; Mon, 14 Mar 2005 15:42:06 +0800 (CST)
+Received: (eyou send program); Mon, 14 Mar 2005 15:25:23 +0800
+Message-ID: <310785123.26930@mail.tsinghua.edu.cn>
+Received: from unknown (HELO mail.tsinghua.edu.cn) (unknown@127.0.0.1)
+ by 127.0.0.1 with SMTP; Mon, 14 Mar 2005 15:25:23 +0800
+X-scanvirus: By Symantec Scan Engine
+X-scanresult: CLEAN
+Received: (eqmail ); 14 Mar 2005 07:25:19 -0000
+Received: from unknown (HELO sony) (duanhx@166.111.204.189)
+  by localhost with SMTP; 14 Mar 2005 07:25:19 -0000
+Message-ID: <006e01c52869$4ac02270$bdcc6fa6@sony>
+From: "long" <long@tsinghua.edu.cn>
+To: yang@ccert.edu.cn
+Cc: <lin@ccert.edu.cn>, =?gb2312?B?zuLWvr78?= <guan@ccert.edu.cn>,
+        <guo@ccert.edu.cn>,
+        "Liu wu \(Tsinghua CCERT\)" <yang@ccert.edu.cn>, <zhan@ccert.edu.cn>
+Subject: =?gb2312?B?UmU6INXmsK6jqM7KzsrFrrqi19OjrMv7yseyu8rHutzJtaOp?=
+Date: Mon, 14 Mar 2005 15:41:52 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_006B_01C528AC.57AD5370"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2900.2180
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+X-UIDL: fiO!!X;j"!!4d"!PNI"!
+
+哦
+: 男孩在郑州，女孩在新乡。男孩深爱着女孩，可惜女孩已经有男朋友。这是男孩的初恋，他深爱着女孩，至真至纯，他相信这是世界上最真最纯的情。因为即使现在，当他写起这段往事时，仍会情不自禁泪流满面。但他没有表达，因为她已经有男朋友。他只想对女孩好，他从不奢求什
+: 女孩来郑州找过男孩两次，两人一起去看电影。但当女孩主动躺进男孩怀抱时，男孩只是紧紧抱着她，没有吻她。那时，男孩在哭泣（现在，他还在哭泣），女孩不知道。
+: 在女孩的邀请下，过了一个多月，也就是三年前的五一，男孩才去新乡找女孩。他没有想到，他也万万不会想到，但他看到了，女孩和另一个男孩在抱着吻着。男孩伤心至极，几近绝望，整个晚上难以入眠。第二天一早，他坐上车回了郑州，一路上他的心在滴血。过了两天，他又踏上
+: ...................
+

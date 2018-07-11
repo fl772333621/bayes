@@ -1,0 +1,80 @@
+Return-Path: <tao@yahoo.com>
+Received: from tsinghua.org.cn ([210.77.143.228])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id i928ErTG002630
+	for <liu@ccert.edu.cn>; Sat, 2 Oct 2004 16:14:54 +0800
+Received: (eyou send program); Sat, 02 Oct 2004 16:25:14 +0800
+Received: (eyou send program); Sat, 02 Oct 2004 16:25:06 +0800
+X-EYOU-ORIGINAL-IP: 66.163.169.225
+X-EYOU-ENVELOPE-MAILFROM: vinhbd@yahoo.com
+Received: from unknown (HELO smtp105.mail.sc5.yahoo.com) (unknown@66.163.169.225)
+ by 210.77.143.228 with SMTP; Sat, 02 Oct 2004 16:25:06 +0800
+Received: from unknown (HELO bachvinh) (vinhbd@203.210.137.178 with login)
+  by smtp105.mail.sc5.yahoo.com with SMTP; 2 Oct 2004 08:23:42 -0000
+Message-ID: <012401c4a900$623a5260$0100007f@bachvinh>
+From: "tao" <tao@yahoo.com>
+To: liu@ccert.edu.cn
+Cc: "Do Thi Thanh" <yana@ccert.edu.cn>, "Bui Nam Xuan - K36" <xiao@ccert.edu.cn>,
+        "Dang Anh Phuong" <ke@ccert.edu.cn>,
+        "Dinh Viet Hung" <zhu@ccert.edu.cn>, "Do Le Khoa" <wen@ccert.edu.cn>,
+        "Do Nam Thanh" <cen@ccert.edu.cn>, "Do Ngoc Minh" <qing@ccert.edu.cn>,
+        "Huu Duc Nguyen" <gan@ccert.edu.cn>,
+        "K 36" <bi@ccert.edu.cn>, "Le Hong Ha" <jiang@ccert.edu.cn>,
+        "Le Hong Thang" <che@ccert.edu.cn>,
+        "Le Thanh Ha" <rao@ccert.edu.cn>,
+        "Le Viet Dung" <fan@ccert.edu.cn>,
+        "Luc Dinh Vinh" <che@ccert.edu.cn>,
+        "Nguyen Duc Quynh" <zhuang@ccert.edu.cn>,
+        "Nguyen Nam Hung" <zhang@ccert.edu.cn>,
+        "Nguyen Nga My" <gao@ccert.edu.cn>,
+        "Nguyen Quang Anh" <peng@ccert.edu.cn>,
+        "Pham Kim Long" <zheng@ccert.edu.cn>,
+        "Pham Van Thuong" <gu@ccert.edu.cn>,
+        "Pham Viet Thang" <jin@ccert.edu.cn>,
+        "Thanh Loan vo Trung Hung" <chi@ccert.edu.cn>,
+        "Tuan Ha" <ling@ccert.edu.cn>,
+        "Nguyen Quang Hoa" <zhu@ccert.edu.cn>,
+        "Pham Thi Quynh Huong" <cai@ccert.edu.cn>,
+        "Vu Minh Tuan" <xiao@ccert.edu.cn>,
+        "Vuong Hoai Nam" <gu@ccert.edu.cn>,
+        "Phan Quang Minh" <yun@ccert.edu.cn>,
+        "nguyet nguyen minh" <ye@ccert.edu.cn>,
+        "Nguyen Van Dung" <wu@ccert.edu.cn>,
+        "NGUYEN THI HANG" <tao@ccert.edu.cn>,
+        "Nguyen Thi Hang" <shen@ccert.edu.cn>,
+        "Nguyen Ngoc Quynh" <long@ccert.edu.cn>,
+        "Nguyen Huy Quang" <yang@ccert.edu.cn>,
+        "Nguyen Duc Long" <gu@ccert.edu.cn>,
+        "Mai Thi Thanh" <mei@ccert.edu.cn>,
+        "Le Xuan Hung" <su@ccert.edu.cn>,
+        "Le Phuong Thao" <hu@ccert.edu.cn>,
+        "K42" <xiao@ccert.edu.cn>,
+        "Huynh Tuan Anh" <yun@ccert.edu.cn>,
+        "Ha Huong Giang" <shi@ccert.edu.cn>,
+        "Giang beo" <peng@ccert.edu.cn>,
+        "Do Viet Trung" <tian@ccert.edu.cn>,
+        "Duong Vu Hung" <xie@ccert.edu.cn>,
+        "Duong Hai Duong" <feng@ccert.edu.cn>,
+        "Doan Trung Tung" <ren@ccert.edu.cn>,
+        "Cao Duy Hung - K42" <zhu@ccert.edu.cn>,
+        "Dang Cong Kien" <yun@ccert.edu.cn>,
+        "Dang Cong Kien" <lai@ccert.edu.cn>,
+        "Nguyen Thu Thuy" <ou@ccert.edu.cn>
+Subject: =?gb2312?B?UmU6INC0uPjO0sfXsK61xMXz09E=?=
+Date: Sun, 3 Oct 2004 11:02:46 +0700
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="multipart/alternative";
+	boundary="----=_NextPart_000_00E4_01C4A938.867B3260"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 5.00.2615.200
+X-MimeOLE: Produced By Microsoft MimeOLE V5.00.2615.200
+X-UIDL: Bk$#!jV="!ebi"!~DC"!
+
+re
+生活的美好，也许不是随了心境的变迁，然而，好心情会让你更容易感受生活的美好。
+愿开心，快乐，不只你一个人
+: yunyun:
+:       刚刚偶然翻看了一下以前写的旧邮件草稿，发现最后一次写给你的信是约一年之前的事了，那时正是盛情奥运之时，我还夸耀着“要站在人生最高的领奖台上，亲吻着这枚属于我的闪亮的金牌”，也许事情并未如人所愿，时间滴滴哒哒的流失，精力也慢慢地消耗，而这些与自己的所得并非成比例，总是觉得失去的总比得到的多，因此，心底里一直很压抑，很想写点什么，就算聊聊天，谈谈心，或许你看到这封邮件的时候已经过了一段很长的时间，不过没什么，就算自己的一种文明的发泄方式而已啦。也希望你会很快的开启这封邮件！
+:       我也不知道该从哪里说起，因为我想说的很多。那就从在北京收到的那些短信开始“胡编乱缠”吧，刚收到第一条短信的时候，的确不知道是谁，当时有种冲动想问其他人这个手机号码的主人，但我想一定要亲自让他/她告诉我，所以便打消了这个念头。从之后的短信的内容和说话方式，我便慢慢地锁定了一个人，那就是你，尽管有点模糊。直到前段时间跟你们班去新秀的时候，才真正见到了那位号码的主人——久违的事，久违的人，顿时，心潮汹涌。很高兴，而且很感动，对于你的出现，特别是在北京生活的那段时间里，你的短信带给了对南宁的怀念，: ...................
+

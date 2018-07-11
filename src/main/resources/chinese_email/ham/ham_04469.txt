@@ -1,0 +1,24 @@
+Return-Path: <ding@rbl.ccert.edu.cn>
+Received: from rbl.ccert.edu.cn (rbl.ccert.edu.cn [202.112.57.71])
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id i9B2xBXp027618
+	for <luo@ccert.edu.cn>; Mon, 11 Oct 2004 10:59:12 +0800 (CST)
+Received: from rbl.ccert.edu.cn (localhost.localdomain [127.0.0.1])
+	by rbl.ccert.edu.cn (8.12.11/8.12.11) with ESMTP id i9B34XuG021989
+	for <luo@ccert.edu.cn>; Mon, 11 Oct 2004 11:04:34 +0800
+Received: (from qa@localhost)
+	by rbl.ccert.edu.cn (8.12.11/8.12.11/Submit) id i9B34XC9021988;
+	Mon, 11 Oct 2004 11:04:33 +0800
+Date: Mon, 11 Oct 2004 11:04:33 +0800
+Message-Id: <200410110304.i9B34XC9021988@rbl.ccert.edu.cn>
+Subject: =?gb2312?B?UmU6IG9mZmVy0aHU8aOsusPE0bCho6E=?=
+To: luo@ccert.edu.cn
+From: Tran Quang Anh <ding@cernet.edu.cn>
+Content-Type: multipart/mixed; boundary="----------=_1097463874-1014-74"
+MIME-Version: 1.0
+X-UIDL: 5\`"!;7-"!I-]!!dDV"!
+
+第一个....
+: 第一个是在北京一家IC设计公司做技术，公司前途比较好。可惜我去了不是搞核心技术，是一些底层的软件开发和测试。差不多3K吧，成长空间不是很大，最多也就一年1K。工作环境比较好，压力不大，不用经常加班，最重要的是：能学到很多东西！以后跳槽什么的比较有资本了。
+: 第二个是北京某部下面附属的公路工程检测单位，国企，人不多，小单位。效益应该比较好，工资不好说，不会比上面的少，灰色收入应该比较多。但是很累很忙，要长期出差，应付各种场面。做得好的话说不定可以干一辈子，毕竟有一点点小垄断的意味。但是面很窄，技术含量不高，以后想转别的恐怕就难了。还有，不大喜欢国企里面复杂的人事关系，同事素质也普遍不高。
+: 达人们有什么意见都说说吧！谢了！
+

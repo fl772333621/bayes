@@ -1,0 +1,32 @@
+Return-Path: <wua@cernet.edu.cn>
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id j0DCH0QA010634
+	for <zheng@ccert.edu.cn>; Thu, 13 Jan 2005 20:17:10 +0800
+Received: from ccert-dijg (tu203028.ip.tsinghua.edu.cn [166.111.203.28])
+	(authenticated bits=0)
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id j0DCSTbI010386;
+	Thu, 13 Jan 2005 20:28:39 +0800 (CST)
+Message-Id: <200501131228.j0DCSTbI010386@sea.net.edu.cn>
+From: "wua" <wua@cernet.edu.cn>
+Reply-To: wua@cernet.edu.cn
+To: zheng@ccert.edu.cn
+Subject: =?gb2312?B?UmU6ILnY09qwrsGi0MXR0Lei1tDQxKOsztKyu7XDsrvLtcG9vuQ=?=
+Organization: ccert
+X-mailer: Foxmail 4.2 [cn]
+Mime-Version: 1.0
+Content-Type: multipart/mixed;
+      boundary="=====000_Dragon515603875778_====="
+Date: Thu, 13 Jan 2005 20:29:8 +0800
+X-UIDL: P#1"!2HJ!!DO^"!UnL!!
+
+什么叫基本的尊重？学生的自我感觉和社会能给予你的显然是不一样的。
+我之所以说楼主幼稚，是因为他一不自带简历，二抱怨面试时间晚，三需要管晚饭。
+前面有帖子讲过，自己要多带几份简历是常识。
+18:00面试也没什么晚的，微软有20:00纯英语面试的，摩托有19:00面试的。
+至于需要管晚饭，我都懒得说，想想都好笑。
+我只能说楼主幼稚，这似乎是一个希望楼主以后做得更好的说法，我不认为这是贬义的。其实所有人都是从幼稚走向成熟的，不是吗？
+至于爱立信研发那边，确实有疏于大公司作派的地方。但是我猜他们根本就是按照创业小公司的压力在打拼，那是老孔的管理风格。
+最后，所谓爱立信研发里面的不够礼貌的员工，不也是和大家一样刚毕业的同学吗？如果觉得他们做得不好，自己多反思多提醒自己一下，要好过随随便便贬低别人。
+: 基本的尊重和给笑脸捧着是两回事
+: 我看你才是幼稚病吧，分不清尺度
+

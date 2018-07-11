@@ -1,0 +1,73 @@
+Return-Path: <hong@compass.net.edu.cn>
+Received: from tsinghua.org.cn ([210.77.143.231])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id iBA1d3S8019423
+	for <che@ccert.edu.cn>; Fri, 10 Dec 2004 09:39:04 +0800
+Received: (eyou send program); Fri, 10 Dec 2004 09:32:20 +0800
+Received: (eyou send program); Fri, 10 Dec 2004 09:32:20 +0800
+X-EYOU-ORIGINAL-IP: 210.77.143.235
+X-EYOU-ENVELOPE-MAILFROM: toefl-bounces@server.cool-meeting.com
+Received: from unknown (HELO eyou.net) (unknown@210.77.143.235)
+ by 210.77.143.231 with SMTP; Fri, 10 Dec 2004 09:32:20 +0800
+Received: (eyou send program); Fri, 10 Dec 2004 09:47:09 +0800
+Message-ID: <302643229.09409@eyou.net>
+Received: from 202.38.99.65 by 210.77.143.235 with SMTP; Fri, 10 Dec 2004 09:47:08 +0800
+Received: from server.cool-meeting.com (localhost.localdomain [127.0.0.1])
+	by server.cool-meeting.com (8.12.8/8.12.8) with ESMTP id iBA2AAli021722
+	for <che@ccert.edu.cn>; Fri, 10 Dec 2004 10:10:16 +0800
+Received: from sun.com ([202.38.188.130])
+	by server.cool-meeting.com (8.12.8/8.12.8) with ESMTP id iBA2A3kr021718
+	for <che@ccert.edu.cn>; Fri, 10 Dec 2004 10:10:03 +0800
+Received: from [210.25.128.113] ([210.25.128.113])
+	by sun.com (8.9.2/8.9.2) with ESMTP id JAA21309
+	for <che@ccert.edu.cn>;
+	Fri, 10 Dec 2004 09:55:23 +0800 (CST)
+Message-ID: <41B90072.8060404@compass.net.edu.cn>
+Date: Fri, 10 Dec 2004 09:48:34 +0800
+From: Shaozhi Ye <hong@compass.net.edu.cn>
+User-Agent: Mozilla Thunderbird 1.0 (Windows/20041206)
+X-Accept-Language: en-us, en
+MIME-Version: 1.0
+To: che@ccert.edu.cn
+Subject: Re: [TOEFL] =?GB2312?B?zbO8xrG+xOq2yMLbzsS3orHtx+m/9g==?=
+References: <41B8FEF1.8040907@compass.net.edu.cn>
+In-Reply-To: <41B8FEF1.8040907@compass.net.edu.cn>
+Content-Type: text/plain; charset=GB2312
+Content-Transfer-Encoding: 8bit
+Cc: 
+X-BeenThere: toefl@server.cool-meeting.com
+X-Mailman-Version: 2.1.2
+Precedence: list
+List-Id: &#26446;&#26143;&#21644;&#20182;&#30340;&#23398;&#29983;&#20204;
+	<toefl.server.cool-meeting.com>
+List-Unsubscribe: <http://server.cool-meeting.com/mailman/listinfo/toefl>,
+	<mailto:toefl-request@server.cool-meeting.com?subject=unsubscribe>
+List-Archive: <http://server.cool-meeting.com/mailman/private/toefl>
+List-Post: <mailto:toefl@server.cool-meeting.com>
+List-Help: <mailto:toefl-request@server.cool-meeting.com?subject=help>
+List-Subscribe: <http://server.cool-meeting.com/mailman/listinfo/toefl>,
+	<mailto:toefl-request@server.cool-meeting.com?subject=subscribe>
+Sender: toefl-bounces@server.cool-meeting.com
+Errors-To: toefl-bounces@server.cool-meeting.com
+X-UIDL: Tc#"!=9!#!~J,!!&L#"!
+
+这取决于开口说什么哈
+: 标  题: 据说有的mm只要有还可以的gg开口就不会拒绝
+: 发信站: 水木社区 (Sat Jun 18 23:13:47 2005), 站内
+: 
+: 不是说rp不好太随便
+: 
+: 只是有人表白了就不会去拒绝，至少要在一起一段时间找感觉
+: 
+: 有酱紫的mm么？
+: 
+: 
+: --
+: 又复来相拥，郎儿已难动，哪堪娘子嗔无用，弄弄弄，十指双唇，半夜三度，鸾凤又共
+: : 标  题: 请问“马克思主义”一词是谁第一次提出的？
+: : 发信站: BBS 水木清华站 (Tue Dec 21 13:29:02 2004), 站内
+: : 浅酒人前共，软玉灯边拥，回眸入抱总含情。痛痛痛，轻把郎推，渐闻声颤，微惊红涌。 
+: : 试与更番纵，全没些儿缝，这回风味忒颠犯。动动动，臂儿相兜，唇儿相凑，舌儿相弄。
+: 
+: 
+: ※ 来源:·水木社区 newsmth.net·[FROM: 218.249.29.*]
+

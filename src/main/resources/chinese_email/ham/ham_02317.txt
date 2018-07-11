@@ -1,0 +1,54 @@
+Return-Path: <cen@ns.6test.edu.cn>
+Received: from tsinghua.org.cn ([210.77.143.228])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id i9EHDkvJ015362
+	for <su@ccert.edu.cn>; Fri, 15 Oct 2004 01:13:47 +0800
+Received: (eyou send program); Fri, 15 Oct 2004 01:24:39 +0800
+Received: (eyou send program); Fri, 15 Oct 2004 01:24:35 +0800
+X-EYOU-ORIGINAL-IP: 202.38.99.65
+X-EYOU-ENVELOPE-MAILFROM: toefl-bounces@server.cool-meeting.com
+Received: from unknown (HELO server.cool-meeting.com) (unknown@202.38.99.65)
+ by 210.77.143.228 with SMTP; Fri, 15 Oct 2004 01:24:35 +0800
+Received: from server.cool-meeting.com (localhost.localdomain [127.0.0.1])
+	by server.cool-meeting.com (8.12.8/8.12.8) with ESMTP id i9EHINlj018444
+	for <su@ccert.edu.cn>; Fri, 15 Oct 2004 01:18:58 +0800
+Received: from ns.6test.edu.cn ([202.38.99.18])
+	by server.cool-meeting.com (8.12.8/8.12.8) with ESMTP id i9EHIJkr018440
+	for <su@ccert.edu.cn>; Fri, 15 Oct 2004 01:18:19 +0800
+Received: from [221.218.38.140] (helo=[192.168.0.224])
+	by ns.6test.edu.cn with asmtp (Exim 4.12) id 1CI9Nj-0002ML-00
+	for toefl@server.cool-meeting.com; Fri, 15 Oct 2004 01:27:16 +0800
+Message-ID: <416EB2E8.1020907@ns.6test.edu.cn>
+Date: Fri, 15 Oct 2004 01:10:00 +0800
+From: CHEN Maoke <cen@ns.6test.edu.cn>
+User-Agent: Mozilla Thunderbird 0.8 (Macintosh/20040913)
+X-Accept-Language: en-us, en
+MIME-Version: 1.0
+To: su@ccert.edu.cn
+Content-Type: multipart/mixed; boundary="------------050704050102090700090604"
+Subject: [SPAM-TEST] [SPAM] [TOEFL] Fwd: =?gb2312?b?MjAwNczhx7C5pbKpsajD+82o1qo=?=
+X-BeenThere: toefl@server.cool-meeting.com
+X-Mailman-Version: 2.1.2
+Precedence: list
+List-Id: &#26446;&#26143;&#21644;&#20182;&#30340;&#23398;&#29983;&#20204;
+	<toefl.server.cool-meeting.com>
+List-Unsubscribe: <http://server.cool-meeting.com/mailman/listinfo/toefl>,
+	<mailto:toefl-request@server.cool-meeting.com?subject=unsubscribe>
+List-Archive: <http://server.cool-meeting.com/mailman/private/toefl>
+List-Post: <mailto:toefl@server.cool-meeting.com>
+List-Help: <mailto:toefl-request@server.cool-meeting.com?subject=help>
+List-Subscribe: <http://server.cool-meeting.com/mailman/listinfo/toefl>,
+	<mailto:toefl-request@server.cool-meeting.com?subject=subscribe>
+Sender: toefl-bounces@server.cool-meeting.com
+Errors-To: toefl-bounces@server.cool-meeting.com
+X-UIDL: p]:!!\Zn!!M2~!!cCA"!
+
+我不批驳
+但是也不认为说得对
+道理这个东西是很无聊的
+剩下的其他，是否在意识要根据自己的价值观而定的，不要因为他人的道理而放弃自己的价值观，因为道理，本身就是价值观的体现，也就是说，别因为别人的价值观而改变自己的价值观。 
+当然了~也不要因为我的看法而一定要改变自己的看法。
+: 我觉得楼主说的很有道理，基本和我想的一样一样的
+: 现实？本来就是，批驳现实批驳功利的肯定是大二大三的孩子，等你真正开始找工作的时候等你真的要进入这个社会的时候，就知道什么是现实了
+: 自学？没有那么容易，人的每个阶段都有他的任务，学校里读书，出来工作，到了年纪就该成家立业了，你还有精力像本科那样学几年？而且，因为你的背景，hr可能永远不给你机会……
+: ...................
+

@@ -1,0 +1,30 @@
+Return-Path: <yuan@ccert.edu.cn>
+Received: from home.ccert.edu.cn (ccert.edu.cn [202.112.57.12])
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id iBH6ft4O013975;
+	Fri, 17 Dec 2004 14:41:55 +0800 (CST)
+Received: from sunbin_S ([202.112.50.201])
+	(authenticated bits=0)
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id iBH6S9UJ008775;
+	Fri, 17 Dec 2004 14:28:09 +0800
+Message-Id: <200412170628.iBH6S9UJ008775@home.ccert.edu.cn>
+Date: Fri, 17 Dec 2004 14:47:42 +0800
+From: "yuan" <yuan@ccert.edu.cn>
+Reply-To: yuan@ccert.edu.cn
+To: zhang@ccert.edu.cn
+Subject: =?gb2312?B?UmU6ILnY09rNy9GnzsrM4g==?=
+Organization: CCERT
+X-mailer: Foxmail 5.0 beta2 [cn]
+Mime-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: 8bit
+X-MIME-Autoconverted: from base64 to 8bit by sea.net.edu.cn id iBH6ft4O013975
+X-UIDL: h;#"!3<K"!C1)"!Y2j!!
+
+其实还有一个原因，多少博导是一个合格的导师，付出了时间，你学到了什么
+我想80%的博士生就是廉价劳动力，从文章，到论文都是自己一个人闭门造车，老板还要挂名，投入和产出太少，这是退学的关键之处，如果像老美那样，出来一个博士就是学科专家，博士还是很有吸引力的。
+国内博士生大部分就是混个文凭，但文凭也就那么回事，社会不再承认了而已
+呵呵，自家之言
+: 事实就是这个样子
+: 因为没有钱而不读的人实在太少了……
+

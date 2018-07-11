@@ -1,0 +1,32 @@
+Return-Path: <qiu@rbl.ccert.edu.cn>
+Received: from rbl.ccert.edu.cn (rbl.ccert.edu.cn [202.112.57.71])
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id i9IA4LTe002288
+	for <guan@ccert.edu.cn>; Mon, 18 Oct 2004 18:04:21 +0800 (CST)
+Received: from rbl.ccert.edu.cn (localhost.localdomain [127.0.0.1])
+	by rbl.ccert.edu.cn (8.12.11/8.12.11) with ESMTP id i9IAA7S8023837
+	for <guan@ccert.edu.cn>; Mon, 18 Oct 2004 18:10:07 +0800
+Received: (from qa@localhost)
+	by rbl.ccert.edu.cn (8.12.11/8.12.11/Submit) id i9IAA7qR023836;
+	Mon, 18 Oct 2004 18:10:07 +0800
+Date: Mon, 18 Oct 2004 18:10:07 +0800
+Message-Id: <200410181010.i9IAA7qR023836@rbl.ccert.edu.cn>
+Subject: =?gb2312?B?UmU6INDEx+m63LK7usOjrLTzvNKw78Omv7S/tNXitb2119T1w7S72MrCsKGjvw==?=
+To: guan@ccert.edu.cn
+From: Tran Quang Anh <qiu@cernet.edu.cn>
+Content-Type: multipart/mixed; boundary="----------=_1098094207-5847-66"
+MIME-Version: 1.0
+X-UIDL: H;Q"!n[:!!?e*!!Zm+!!
+
+我觉得把
+说实话，这种事情和朋友说都不要和家人说
+因为家人有可能会多心的
+谁都不喜欢感觉别人把自己想象的很差
+不然就觉得你怎么可以看不起我呢
+不然就觉得这人真没见过世面
+不管怎么样都不好不是么？
+所以最好不要把对方家长的说话反馈给自己父母的好：）
+: 真的是这样的吗？可是我只跟好朋友和妈妈说了，
+: 这是太正常太正常的了吧。谁去见家长不跟亲朋说说情况，
+: 不征求一下大家意见呢（即使不一定听取）？大家也是关心我。
+: ...................
+

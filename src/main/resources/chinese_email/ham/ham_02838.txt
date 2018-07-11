@@ -1,0 +1,25 @@
+Return-Path: <xing@rbl.ccert.edu.cn>
+Received: from rbl.ccert.edu.cn (rbl.ccert.edu.cn [202.112.57.71])
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id i8T6rbdu006440
+	for <han@ccert.edu.cn>; Wed, 29 Sep 2004 14:53:39 +0800 (CST)
+Received: from rbl.ccert.edu.cn (localhost.localdomain [127.0.0.1])
+	by rbl.ccert.edu.cn (8.12.11/8.12.11) with ESMTP id i8T50HjF021129
+	for <han@ccert.edu.cn>; Wed, 29 Sep 2004 13:00:18 +0800
+Received: (from qa@localhost)
+	by rbl.ccert.edu.cn (8.12.11/8.12.11/Submit) id i8T50HER021128;
+	Wed, 29 Sep 2004 13:00:17 +0800
+Date: Wed, 29 Sep 2004 13:00:17 +0800
+Message-Id: <200409290500.i8T50HER021128@rbl.ccert.edu.cn>
+Subject: =?gb2312?B?UmU6ILavzu+/qM2ottTM7LXQw6y23LXEtKbA7Q==?=
+To: han@ccert.edu.cn
+From: Tran Quang Anh <xing@cernet.edu.cn>
+Content-Type: multipart/mixed; boundary="----------=_1096434018-996-124"
+MIME-Version: 1.0
+X-UIDL: *K##!U=5!!%n2"!kKc!!
+
+好文章！
+: 很多电影动画片以动物为题裁。把故事的主角从人变成人化的动物，可以使情节和形象变的轻松可爱，更适于儿童观众群。但又常常遇到这样一个问题：怎样处理动物间的弱肉强食。因为相对于人类社会的复杂情形而言，动物天敌间的斗争显得直接，露骨而残忍。如果把这一现象赤裸
+: 我们看看不同类型的的影片对这一问题的处理：
+: 1 反抗型。在这些影片中，弱小的动物群团结起来，对付强大的天敌。这时，弱小物种这一角色成为老百姓或被压迫民族的某种象征，而其天敌成为统治者的象征。比较典型的有传统的《大灰狼》类的影片。〈小鸡快跑〉，〈虫虫特工队〉，〈猫和老鼠〉也可以被理解为这种模式。
+: ...................
+

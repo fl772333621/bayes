@@ -1,0 +1,30 @@
+Return-Path: <tao@mails.tsinghua.edu.cn>
+Received: from mails.tsinghua.edu.cn (mails.tsinghua.edu.cn [166.111.8.16])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j1N7T4om016475
+	for <hong@ccert.edu.cn>; Wed, 23 Feb 2005 15:29:04 +0800 (CST)
+X-scanvirus: By SOPHOS Scan Engine
+X-scanresult: CLEAN
+X-Received: unknown,166.111.203.210,20050223152340
+Received: from unknown (HELO xiner) (xwang03@166.111.203.210)
+  by localhost with SMTP; 23 Feb 2005 07:23:40 -0000
+Message-ID: <001501c51979$998dee40$d2cb6fa6@xiner>
+From: "tao" <tao@mails.tsinghua.edu.cn>
+To: hong@ccert.edu.cn
+Subject: =?gb2312?B?UmU6INfyzOy6zcv7xNax8MWkwcujuqOo?=
+Date: Wed, 23 Feb 2005 15:30:45 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0012_01C519BC.A4A12F20"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2900.2180
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+X-UIDL: ZGA"!WIc!!!RW!!%(f!!
+Status: RO
+
+我喜欢mm粘我哦
+: 昨晚他说不希望我粘着他，太依赖他。他是THU的，我在隔壁。他说一周见三四次比较好，还说天天见的话就会审美疲劳的
+: 他还说他不希望别人管他，约束他，他说他喜欢自由，还说他比较大男子主义
+: 他要忙着赶毕业论文，昨晚送我到我们学校的东门时，我就说我自己回去好了，本来心情也不好，他本来说是要送我到我们南门，我宿舍离东门很远，离南门很近，但没有继续坚持。我走进东门，在黑暗里回转身，没有看到他的身影，泪就下来了。觉得伤心，也因为跟他有一些不太容
+: ...................
+

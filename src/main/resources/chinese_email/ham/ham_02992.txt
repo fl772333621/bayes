@@ -1,0 +1,37 @@
+Return-Path: <yang@mails.tsinghua.edu.cn>
+Received: from mails.tsinghua.edu.cn (mails.tsinghua.edu.cn [166.111.8.16])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j092qdvj015953
+	for <guo@ccert.edu.cn>; Sun, 9 Jan 2005 10:52:39 +0800 (CST)
+Received: (eyou send program); Sun, 09 Jan 2005 10:47:10 +0800
+Message-ID: <305238830.24162@mails.tsinghua.edu.cn>
+Received: from unknown (HELO mails.tsinghua.edu.cn) (unknown@127.0.0.1)
+ by 127.0.0.1 with SMTP; Sun, 09 Jan 2005 10:47:10 +0800
+X-scanvirus: By Symantec Scan Engine
+X-scanresult: CLEAN
+X-Received: tu172250.ip.tsinghua.edu.cn,166.111.172.250,20050109104706
+Received: from tu172250.ip.tsinghua.edu.cn (HELO yfzy) (yang.feng00@166.111.172.250)
+  by localhost with SMTP; 9 Jan 2005 02:47:06 -0000
+Message-ID: <001001c4f5f6$65afda80$faac6fa6@yfzy>
+From: "yang" <yang@mails.tsinghua.edu.cn>
+To: guo@ccert.edu.cn
+References: <001e01c4f4a9$27d1ae80$15cb6fa6@ccertspark> <305192741.29836@mails.tsinghua.edu.cn>
+Subject: =?gb2312?B?UmU6INK7xqrK3NLmt8vHs7XEzPvX06OsxMPAtNPr1f3U2rfc1b21xMTQzayw+8PHt9bP7aGj?=
+Date: Sun, 9 Jan 2005 10:53:26 +0800
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2600.0000
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2600.0000
+Content-Transfer-Encoding: 8bit
+X-MIME-Autoconverted: from base64 to 8bit by sea.net.edu.cn id j092qdvj015953
+X-UIDL: 6AZ"!SiW"!"O_"!lW+!!
+
+泛泛而谈的一些东西。
+每个人都有自己对待感情的方式。
+:                     一个女生对男生追求自己喜欢的女生的建议！
+:         我是女生，看到有的男生想追自己喜欢的女孩子又不敢追，还想人家倒追她，我很反感. 
+: 　　    从一个女生的角度，我比较了解女孩子的心理。女孩子大多不会主动出击，去追求自己喜欢的男孩，除了确实太喜欢了或者是那种比较有个性的勇敢的女孩子。所以，如果你很喜欢一个女孩子，并且认为她对你也有点意思，那就主动点，别跟她搞拉锯战，自己难受，说不定你
+: ...................
+

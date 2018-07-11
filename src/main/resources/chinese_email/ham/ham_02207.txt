@@ -1,0 +1,38 @@
+Return-Path: <yang@home.ccert.edu.cn>
+Received: from home.ccert.edu.cn (localhost [127.0.0.1])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id iBT70sen015684;
+	Wed, 29 Dec 2004 15:00:54 +0800
+Received: (from majordomo@localhost)
+	by home.ccert.edu.cn (8.13.1/8.13.1/Submit) id iBT70sOW015683;
+	Wed, 29 Dec 2004 15:00:54 +0800
+X-Authentication-Warning: home.ccert.edu.cn: majordomo set sender to owner-ccert_forum using -f
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id iBT70mQx015667
+	for <qian@ccert.edu.cn>; Wed, 29 Dec 2004 15:00:53 +0800
+Received: from sony (tu204113.tsinghua.edu.cn [166.111.204.113])
+	(authenticated bits=0)
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id iBT7F398020574
+	for <qian@ccert.edu.cn>; Wed, 29 Dec 2004 15:15:03 +0800 (CST)
+Message-ID: <037901c4ed76$1c9c84c0$bbcc6fa6@sony>
+From: "yang" <yang@cernet.edu.cn>
+To: qian@ccert.edu.cn
+Subject: =?gb2312?B?UmU6INC0uPjSqszuuN+/vNa+1Li1xMjLw8ejrLzmzLi149DQ0rW/tLeooaM=?=
+Date: Wed, 29 Dec 2004 15:15:01 +0800
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2800.1106
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1106
+Content-Transfer-Encoding: 8bit
+X-MIME-Autoconverted: from base64 to 8bit by home.ccert.edu.cn id iBT70sQx015679
+Sender: owner-ccert_forum@home.ccert.edu.cn
+Precedence: bulk
+X-UIDL: VDF"!)>3!!SVp"!#gb!!
+
+呵呵，当然不是了，我不是也说了，学了那些热门专业是很好的嘛。在高考中，不能说是让别人随便调剂，因为调剂的主动权不是掌握在考生手中，是掌握在学校手中，而且需要当事考生的同意的。考生没有调剂方向的选择权，但是有决定去不去的权力，所以不是随便了。我的意思是，上了好专业固然好，上不了也大可不必像楼主那样如丧考媲，世界不是静止的，非理性的影响人们无法预测的，一个专业现在不挣钱那将来说不定就很挣钱。另外，看不惯楼主随便bs别人的专业，自己出口不逊，还说反对谩骂，笑话，涉世未深的小毛孩！
+: 你的意思，是选专业也无所谓，让别人随便去调剂么？
+: 我觉得在可能的前提下还是多做些分析比较好，包括个人兴趣以及市场需求
+: 因为第一步是要生存，尤其是穷人的孩子，更要重视生存
+

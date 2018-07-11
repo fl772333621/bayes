@@ -1,0 +1,34 @@
+Return-Path: <luo@infosec.pku.edu.cn>
+Received: from infosec.jadebird.pku.edu.cn (infosec.pku.edu.cn [162.105.202.100])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id iAOExL7S024521
+	for <pan@ccert.edu.cn>; Wed, 24 Nov 2004 22:59:21 +0800
+Received: from lxyyf-computer ([211.165.80.77])
+	(authenticated bits=0)
+	by infosec.jadebird.pku.edu.cn (8.12.11/8.12.11) with ESMTP id iAOFBtl8026706
+	for <pan@ccert.edu.cn>; Wed, 24 Nov 2004 23:12:00 +0800 (CST)
+	(envelope-from lixy@infosec.pku.edu.cn)
+Message-Id: <200411241512.iAOFBtl8026706@infosec.jadebird.pku.edu.cn>
+Date: Wed, 24 Nov 2004 23:10:44 +0800
+From: "luo" <luo@infosec.pku.edu.cn>
+To: pan@ccert.edu.cn
+Subject: =?gb2312?B?ofEg0ru49sjLwcs=?=
+X-mailer: Foxmail 5.0 [cn]
+Mime-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+X-Infosec-PKU-Scanner-Information: Information Security Lab. Peking University
+X-Infosec-PKU-Scanner: Clean
+X-Infosec-PKU-Scanner-SpamScore: ssss
+Content-Transfer-Encoding: 8bit
+X-MIME-Autoconverted: from base64 to 8bit by home.ccert.edu.cn id iAOExL7S024521
+X-UIDL: EI_"!5a9!!kDl!!b*W"!
+
+    心情不好了半年了，提不起精神工作学习。好友推荐水木家版，于是注册一ID，第一篇献给家版了:)
+    今天端午，和前夫一起过的。离婚一个多月了，但一直感觉和没离一样，他还是什么都给我买，单位发了东西（大到手提电脑小到化妆盒）他还是都习惯带回来给我，主要区别就是分房睡。离婚后的感情和交流虽然远比不上结婚前两年，但比最近两年却好多了。
+    因为我们协议现在住的房子给他，我拿钱走。但是他却不愿把钱给我，因为他知道我有钱就花了，最后房也没有钱也花了。所以他一直催我找房买，但我自己却不愿跑去看楼。最近他出差回来，所以我们今天吃了早饭就一起出去看房（是他前一个月就帮我看好的楼盘）。
+    那房子比较不错两室一厅，我们都很满意，一开始我们以为他给我的钱够付全款了，到那里一算发现就算他把应该给我的钱全给我买楼也还差1/3的钱，他说可以再多给我5万，其余的他可以明年帮我早点还完，然后我再慢慢还他。所以我们想来想去也只好贷款。可是因为我前一阵心情不好，辞了职在家玩，他说我心情不好也支持我在家休息一阵，所以现在的房子租出去的租金就是我日常开销用了，不够用的部分他补上。但是要申请贷款的话，还得我自己来贷，那我就得马上再找工作。    
+    后来我就很沮丧不想买了，但他坚持要我买，说买了房你也有动力出去找工作挣钱了，不然也不知道你这样低迷的状态要维持多久，也不是说我养不起你，但你自己身上有债，有压力你就有动力好好工作。
+    从早上出去到现在回来，我第一次感觉到真的离婚了，我是一个人了。有事得自己一个人背，他对我再好也是两家人了，要帮也只是有限的。现在开始得好好找工作了。
+    
+    
+

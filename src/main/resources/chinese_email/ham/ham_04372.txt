@@ -1,0 +1,49 @@
+Return-Path: <zhu@home.ccert.edu.cn>
+Received: from home.ccert.edu.cn (localhost [127.0.0.1])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id iBU0LO4j017218;
+	Thu, 30 Dec 2004 08:21:24 +0800
+Received: (from majordomo@localhost)
+	by home.ccert.edu.cn (8.13.1/8.13.1/Submit) id iBU0LOdX017217;
+	Thu, 30 Dec 2004 08:21:24 +0800
+X-Authentication-Warning: home.ccert.edu.cn: majordomo set sender to owner-ccertstaff using -f
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with SMTP id iBU0LLUb017185
+	for <lian@ccert.edu.cn>; Thu, 30 Dec 2004 08:21:21 +0800
+Received: (eyou send program); Thu, 30 Dec 2004 08:20:03 +0800
+Message-ID: <304366003.23882@mail.tsinghua.edu.cn>
+Received: from unknown (HELO mail.tsinghua.edu.cn) (unknown@127.0.0.1)
+ by 127.0.0.1 with SMTP; Thu, 30 Dec 2004 08:20:03 +0800
+X-scanvirus: By Symantec Scan Engine
+X-scanresult: NOREP
+Received: (eqmail ); 30 Dec 2004 00:20:00 -0000
+Received: from unknown (HELO sony) (duanhx@166.111.232.127)
+  by localhost with SMTP; 30 Dec 2004 00:20:00 -0000
+Message-ID: <045c01c4ee07$755cbc10$bbcc6fa6@sony>
+From: "zhu" <zhu@tsinghua.edu.cn>
+To: lian@ccert.edu.cn
+Cc: <gan@ccert.edu.cn>, <xue@ccert.edu.cn>,
+        =?gb2312?B?zuLWvr78?= <wu@ccert.edu.cn>, <peng@ccert.edu.cn>
+Subject: =?gb2312?B?UmU6IMfrzsrLzbP2ufq1xMqm0NbKssO0wPHO77rDo78=?=
+Date: Thu, 30 Dec 2004 08:35:20 +0800
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2800.1106
+Disposition-Notification-To: "Duan Haixin" <duanhx@tsinghua.edu.cn>
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1106
+Content-Transfer-Encoding: 8bit
+X-MIME-Autoconverted: from base64 to 8bit by home.ccert.edu.cn id iBU0LMUb017212
+Sender: owner-ccertstaff@home.ccert.edu.cn
+Precedence: bulk
+X-UIDL: LXl"!h5[!!4Bn!!)O\"!
+
+给你出个主意
+你认识他的朋友么？不是认识的人，是“朋友”。你买个同学册或者一个能保存的本，在他走前让他的朋友在上面留言，祝他一路顺风，将来衣锦还乡，让人写好了以后送给他，就是你为他整理出的一份友情，不贵，还又很有心意
+btw，想起了我以前让那些人留的言了，那些草儿啊他们还好吧
+: 大家好，我有一很好的师兄，对我就像哥哥，不过马上就要出国了。
+: 他的理解，关心，支持，帮助都让我很感激也很舍不得，而且我们的
+: 对问题的看法非常的一致，他是那种很有深度和想法的人，比较清高，
+: ...................
+

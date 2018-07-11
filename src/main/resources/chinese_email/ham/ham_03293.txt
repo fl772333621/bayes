@@ -1,0 +1,64 @@
+Return-Path: <ke@compass.net.edu.cn>
+Received: from tsinghua.org.cn ([210.77.143.228])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id i9A23wlv022038
+	for <lei@ccert.edu.cn>; Sun, 10 Oct 2004 10:04:01 +0800
+Received: (eyou send program); Sun, 10 Oct 2004 10:14:39 +0800
+Received: (eyou send program); Sun, 10 Oct 2004 10:14:37 +0800
+X-EYOU-ORIGINAL-IP: 202.38.99.65
+X-EYOU-ENVELOPE-MAILFROM: toefl-bounces@server.cool-meeting.com
+Received: from unknown (HELO server.cool-meeting.com) (unknown@202.38.99.65)
+ by 210.77.143.228 with SMTP; Sun, 10 Oct 2004 10:14:37 +0800
+Received: from server.cool-meeting.com (localhost.localdomain [127.0.0.1])
+	by server.cool-meeting.com (8.12.8/8.12.8) with ESMTP id i9A283lX011067
+	for <lei@ccert.edu.cn>; Sun, 10 Oct 2004 10:08:09 +0800
+Received: from compass.net.edu.cn ([202.112.0.90])
+	by server.cool-meeting.com (8.12.8/8.12.8) with ESMTP id i9A280kr011063
+	for <lei@ccert.edu.cn>; Sun, 10 Oct 2004 10:08:00 +0800
+Received: from [210.25.128.113] ([210.25.128.113])
+	by compass.net.edu.cn (8.9.2/8.9.2) with ESMTP id KAA11895
+	for <lei@ccert.edu.cn>;
+	Sun, 10 Oct 2004 10:03:42 +0800 (CST)
+Message-ID: <41689771.2060501@compass.net.edu.cn>
+Date: Sun, 10 Oct 2004 09:59:13 +0800
+From: Shaozhi Ye <ke@compass.net.edu.cn>
+User-Agent: Mozilla Thunderbird 0.8 (Windows/20040913)
+X-Accept-Language: en-us, en
+MIME-Version: 1.0
+To: lei@ccert.edu.cn
+Content-Type: text/plain; charset=GB2312
+Content-Transfer-Encoding: 8bit
+Cc: 
+Subject: =?gb2312?B?UmU6ILDXyavD3tbGyLnX08nP1bTBy7TXuMPU9cO0x+XPtMTYPw==?=
+X-BeenThere: toefl@server.cool-meeting.com
+X-Mailman-Version: 2.1.2
+Precedence: list
+List-Id: &#26446;&#26143;&#21644;&#20182;&#30340;&#23398;&#29983;&#20204;
+	<toefl.server.cool-meeting.com>
+List-Unsubscribe: <http://server.cool-meeting.com/mailman/listinfo/toefl>,
+	<mailto:toefl-request@server.cool-meeting.com?subject=unsubscribe>
+List-Archive: <http://server.cool-meeting.com/mailman/private/toefl>
+List-Post: <mailto:toefl@server.cool-meeting.com>
+List-Help: <mailto:toefl-request@server.cool-meeting.com?subject=help>
+List-Subscribe: <http://server.cool-meeting.com/mailman/listinfo/toefl>,
+	<mailto:toefl-request@server.cool-meeting.com?subject=subscribe>
+Sender: toefl-bounces@server.cool-meeting.com
+Errors-To: toefl-bounces@server.cool-meeting.com
+X-UIDL: c26!!LN[!!LmY"!,+6!!
+
+呵呵,感觉像回到了化学试验课上.
+: 标  题: Re: 白色棉制裙子上沾了醋该怎么清洗呢?
+: 发信站: 水木社区 (Tue Jun 14 22:37:02 2005), 站内
+: 
+: 酱油、醋渍:
+:     先用氨水擦洗，然后用少量牙草酸液洗擦后用清水洗净。
+: 
+: 俺没试过;)
+: 
+: : 刚才洗衣服的时候才发现的.由于是白裙子,颜色还挺明显的.
+: : 哪位大侠有经验的介绍一下.
+: 
+: 
+: --
+: 
+: ※ 来源:·水木社区 newsmth.net·[FROM: 221.137.97.*]
+

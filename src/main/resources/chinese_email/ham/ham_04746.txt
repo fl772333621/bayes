@@ -1,0 +1,23 @@
+Return-Path: <cen@rbl.ccert.edu.cn>
+Received: from rbl.ccert.edu.cn (rbl.ccert.edu.cn [202.112.57.71])
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id i96ARoVn002817
+	for <hua@ccert.edu.cn>; Wed, 6 Oct 2004 18:27:51 +0800 (CST)
+Received: from rbl.ccert.edu.cn (localhost.localdomain [127.0.0.1])
+	by rbl.ccert.edu.cn (8.12.11/8.12.11) with ESMTP id i96AXkrb026489
+	for <hua@ccert.edu.cn>; Wed, 6 Oct 2004 18:33:47 +0800
+Received: (from qa@localhost)
+	by rbl.ccert.edu.cn (8.12.11/8.12.11/Submit) id i96AXkCb026488;
+	Wed, 6 Oct 2004 18:33:46 +0800
+Date: Wed, 6 Oct 2004 18:33:46 +0800
+Message-Id: <200410061033.i96AXkCb026488@rbl.ccert.edu.cn>
+Subject: =?gb2312?B?UmU6IL/Io6zV5rK71fnG+KOsvrnIu7/ewcs=?=
+To: hua@ccert.edu.cn
+From: Tran Quang Anh <cen@cernet.edu.cn>
+Content-Type: multipart/mixed; boundary="----------=_1097058827-996-574"
+MIME-Version: 1.0
+X-UIDL: (V~!!T',"!oQK"!\^T!!
+
+我相亲没有100次也有50次了，可是每次我也都很无奈,每次去的时候我都希望这个合适,可是每次都失望而回，女生拒绝你们，你们不要觉得是自己不好，是因为她们觉得你不合适她,或者她根本没有认识到你的优点，相亲靠一面之缘,很难了解深层次的东西,但很多女生还是很感性的，如果第一印象出问题，那你就很难翻身了,因为你已经没有机会再证明自己了
+男生找老婆难，女生找老公也难啊,相互理解吧
+: 有啥可哭的呢，我都相亲了10几次了。基本每周摊上一个。照你这样，我还不得死啊
+

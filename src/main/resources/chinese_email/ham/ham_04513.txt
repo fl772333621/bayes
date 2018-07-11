@@ -1,0 +1,65 @@
+Return-Path: <hou@cernet.edu.cn>
+Received: from tsinghua.org.cn ([210.77.143.231])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id iB17ZU0F020715
+	for <long@ccert.edu.cn>; Wed, 1 Dec 2004 15:35:35 +0800
+Received: (eyou send program); Wed, 01 Dec 2004 15:28:36 +0800
+Received: (eyou send program); Wed, 01 Dec 2004 15:28:36 +0800
+X-EYOU-ORIGINAL-IP: 210.77.143.235
+X-EYOU-ENVELOPE-MAILFROM: sundh@cernet.edu.cn
+Received: from unknown (HELO eyou.net) (unknown@210.77.143.235)
+ by 210.77.143.231 with SMTP; Wed, 01 Dec 2004 15:28:36 +0800
+Received: (eyou send program); Wed, 01 Dec 2004 15:43:44 +0800
+Message-ID: <301887024.14622@eyou.net>
+Received: from 166.111.8.16 by 210.77.143.235 with SMTP; Wed, 01 Dec 2004 15:43:38 +0800
+Received: (eyou send program); Wed, 01 Dec 2004 15:43:12 +0800
+Message-ID: <301886992.19183@mails.tsinghua.edu.cn>
+Received: (eyou send program); Wed, 01 Dec 2004 15:43:11 +0800
+Message-ID: <301886991.19093@mails.tsinghua.edu.cn>
+Received: from unknown (HELO mails.tsinghua.edu.cn) (unknown@127.0.0.1)
+ by 127.0.0.1 with SMTP; Wed, 01 Dec 2004 15:43:11 +0800
+X-scanvirus: By Symantec Scan Engine
+X-scanresult: NOREP
+Received: (eqmail ); 1 Dec 2004 07:43:04 -0000
+Received: from ccert.edu.cn (HELO home.ccert.edu.cn) (202.112.57.12)
+  by mails.tsinghua.edu.cn with SMTP; 1 Dec 2004 07:43:04 -0000
+Received: from home.ccert.edu.cn (localhost [127.0.0.1])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id iB17YPI3020680;
+	Wed, 1 Dec 2004 15:34:25 +0800
+Received: (from majordomo@localhost)
+	by home.ccert.edu.cn (8.13.1/8.13.1/Submit) id iB17YPkE020679;
+	Wed, 1 Dec 2004 15:34:25 +0800
+X-Authentication-Warning: home.ccert.edu.cn: majordomo set sender to owner-ccertstaff using -f
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id iB17WuM9020643;
+	Wed, 1 Dec 2004 15:32:56 +0800
+Received: from WHITESNOW ([220.207.84.223])
+	(authenticated bits=0)
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id iB17jpuY009400;
+	Wed, 1 Dec 2004 15:45:56 +0800 (CST)
+Message-ID: <002301c4d779$cc07e2a0$df54cfdc@WHITESNOW>
+From: "hou" <hou@cernet.edu.cn>
+To: long@ccert.edu.cn
+Cc: <kong@ccert.edu.cn>
+References: <000c01c4d770$3e023ea0$15cb6fa6@ccertspark>
+Subject: =?gb2312?B?UmU6IMTQxfPT0dPQsci9z9bYtcTVrs7xo6zO0rjDsru4w7DR19S8urXEuaTXyr3ouPjL+7Ch?=
+Date: Wed, 1 Dec 2004 15:45:49 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0020_01C4D7BC.D47AD620"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2900.2180
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+Sender: owner-ccertstaff@home.ccert.edu.cn
+Precedence: bulk
+X-UIDL: K2J!!DN\"!19Z!!dP4!!
+
+这样啊
+想想把
+以后结婚了就是你养着他
+有意思么
+:     我和男友认识时间不是特别长，不过彼此都对对方比较钟情，和他交往以后，才知道他不是特别善于理财，工作五年了，不仅没有存钱，还有一万五千左右的债务。
+:     刚开始他对我说银行一直催他还信用卡里的贷款，我担心他的信用受影响，就把自己的一点点积蓄（我去年毕业的，给家里寄了大概7000多，就只剩下不多的积蓄了）去借给他了，弄得我手里只剩150块左右，离发工资日还有半个月。不过我平常比较省，花钱的地方也少，也就还�
+:     后来，因为发生了一点点事情，他把钱还给我了，这件事情是什么我就不说了，倘若不是这趟意外，我估计他在今年是不会还我钱的。
+: ...................
+

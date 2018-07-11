@@ -1,0 +1,39 @@
+Return-Path: <peng@rbl.ccert.edu.cn>
+Received: from rbl.ccert.edu.cn (rbl.ccert.edu.cn [202.112.57.71])
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id i98CIMkM009264
+	for <ma@ccert.edu.cn>; Fri, 8 Oct 2004 20:18:22 +0800 (CST)
+Received: from rbl.ccert.edu.cn (localhost.localdomain [127.0.0.1])
+	by rbl.ccert.edu.cn (8.12.11/8.12.11) with ESMTP id i98COOLM024962
+	for <ma@ccert.edu.cn>; Fri, 8 Oct 2004 20:24:24 +0800
+Received: (from qa@localhost)
+	by rbl.ccert.edu.cn (8.12.11/8.12.11/Submit) id i98COOf8024961;
+	Fri, 8 Oct 2004 20:24:24 +0800
+Date: Fri, 8 Oct 2004 20:24:24 +0800
+Message-Id: <200410081224.i98COOf8024961@rbl.ccert.edu.cn>
+Subject: =?gb2312?B?UmU6IM7Sw8e7ucO719+jrDXX1rDgvs3Sqr34wLTByw==?=
+To: ma@ccert.edu.cn
+From: Tran Quang Anh <peng@cernet.edu.cn>
+Content-Type: multipart/mixed; boundary="----------=_1097238264-26230-78"
+MIME-Version: 1.0
+X-UIDL: _?]"!-lb!!kc0!!?2+!!
+
+有阿，见myphoto版
+: 标  题: Re: 我们还没走，5字班就要进来了
+: 发信站: 水木社区 (Fri Jun 17 15:19:07 2005), 站内
+: 
+: cs可能有ppmm么，laf
+: : 哇~去tkppmm
+: : 刚好考完
+: 
+: 
+: --
+: Cerberus  Lv 23  HP 1490
+: 天堂的大门打开了，Cerberus狂奔而出，在距离敌人0.1cm处戛然而止，仰天长啸。从三个
+: 头的口中射出无比绚烂夺目的光芒。光芒附体，魔力倍增，赋予味方全体"Double"(双次) 
+: + "Triple"(连击)状态。
+: 由于施加的全体效果，所以作用非常大。特别是需要大量使用魔法的战斗，召唤Cerberus
+: 是十分必要的。它的自动加速(Auto-Haste)和警戒(Alert)能力对于速攻会有很大作用。
+: 
+: 
+: ※ 来源:·水木社区 newsmth.net·[FROM: 211.151.90.*]
+

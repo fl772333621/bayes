@@ -1,0 +1,30 @@
+Return-Path: <tian@hi2000.com>
+Received: from 127.0.0.1 ([61.142.245.178])
+	by home.ccert.edu.cn (MIMEDefang) with ESMTP id NOQUEUE
+	for <hua@ccert.edu.cn>; Fri, 03 Jun 2005 10:07:20 +0800 (CST)
+Message-ID: <200506031007.0.0845204059291085@home.ccert.edu.cn>
+Received: from unknown (HELO vlm21641.net) (160.193.29.18)
+	by 127.0.0.1 with SMTP; 3 Jun 2005 09:26:33 -0000
+X-Originating-IP: [160.193.29.18]
+Date: Fri, 3 Jun 2005 10:26:32 0000
+From: "tian" <tian@hi2000.com>
+To: hua@ccert.edu.cn
+Subject: =?gb2312?B?1+66w7XEw+K30W1wM7Klt8XG98/C1Ngh?=
+X-Mailer: VolleyMail.net 5.5[cn]
+Mime-Version: 1.0
+X-Priority: 0
+Content-Type: text/plain;
+	charset="GB2312"
+Content-Transfer-Encoding: base64
+
+最好的免费mp3播放器下载!
+本mp3播放器通过舍弃界面效果，以获得较流畅播放效果，占用较小系统资源，功能非常齐全,音质相当不错，且
+支持快速歌词制作及歌词精确逐句显示，当你播放两只蝴蝶、七里香、东风破、波斯猫、
+My Way、龙卷风时歌词会自动显示。本程序对电脑硬件配置较低的用户而言，是不错的选
+择。
+下载地址:http://www.icqmm.com/fastmp3.zip
+作者主页:http://www.icqmm.com
+
+
+                      感谢你对个人软件的支持!
+

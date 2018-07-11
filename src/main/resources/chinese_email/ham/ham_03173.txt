@@ -1,0 +1,36 @@
+Return-Path: <su@sina.com>
+Received: from tsinghua.org.cn ([210.77.143.231])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id j0QGPx5D011379
+	for <fan@ccert.edu.cn>; Thu, 27 Jan 2005 00:25:59 +0800
+Received: (eyou send program); Thu, 27 Jan 2005 00:16:45 +0800
+Received: (eyou send program); Thu, 27 Jan 2005 00:16:45 +0800
+X-EYOU-ORIGINAL-IP: 210.77.143.235
+X-EYOU-ENVELOPE-MAILFROM: cheriff@sina.com
+Received: from unknown (HELO eyou.net) (unknown@210.77.143.235)
+ by 210.77.143.231 with SMTP; Thu, 27 Jan 2005 00:16:45 +0800
+Received: (eyou send program); Thu, 27 Jan 2005 00:30:23 +0800
+Message-ID: <306757023.14758@eyou.net>
+Received: from 202.106.187.156 by 210.77.143.235 with SMTP; Thu, 27 Jan 2005 00:30:23 +0800
+Received: (qmail 20038 invoked from network); 26 Jan 2005 16:37:48 -0000
+Received: from unknown (HELO ?219.224.134.126?) (219.224.134.126)
+  by 202.106.187.156 with SMTP; 26 Jan 2005 16:37:48 -0000
+Received: from(cheriff@sina.com) to(chenguangying@tsinghua.org.cn)
+Subject: =?gb2312?B?UmU6IMfz1vqjurTzvNLLtbG7ytLT0de31PXDtLDs?=
+From: chenff <su@sina.com>
+To: fan@ccert.edu.cn
+In-Reply-To: <002a01c50287$3d98c5f0$5902510a@CCERTDAWEI>
+References: <002a01c50287$3d98c5f0$5902510a@CCERTDAWEI>
+Content-Type: text/plain; charset=GB18030
+Organization: 
+Message-Id: <1106757046.4413.30.camel@localhost.localdomain>
+Mime-Version: 1.0
+X-Mailer: Ximian Evolution 1.2.2 (1.2.2-4) 
+Date: 27 Jan 2005 00:30:47 +0800
+Content-Transfer-Encoding: 8bit
+X-UIDL: ?kD"!$nY!!0m~"!QN*"!
+
+你的问题其实挺简单：实在烦就搬出来，懒得搬就继续忍。
+其他办法都只会给你增加烦恼。想简单点最好。
+: 快毕业了工作出来和别人合租一个单元，其中一居住的是男生，刚认识没多久就开始追我。追的很厉害，而且每天都能看见，有的时候让我觉得很心烦。我表现出烦他也不生气。因为他还没有明确表白我也没办法明说什么。如果将来能喜欢上他还好，不能喜欢的话有一天他表白了我明确拒绝每天看见是不是很尴尬啊。而且现在我的确觉得他有点打扰了我的生活。
+: 大家给我出出主意，我该怎么办啊？
+

@@ -1,0 +1,55 @@
+Return-Path: <cao@rbl.ccert.edu.cn>
+Received: from rbl.ccert.edu.cn (rbl.ccert.edu.cn [202.112.57.71])
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id i9A7X12L012969
+	for <wu@ccert.edu.cn>; Sun, 10 Oct 2004 15:33:02 +0800 (CST)
+Received: from rbl.ccert.edu.cn (localhost.localdomain [127.0.0.1])
+	by rbl.ccert.edu.cn (8.12.11/8.12.11) with ESMTP id i9A7cKOE006350
+	for <wu@ccert.edu.cn>; Sun, 10 Oct 2004 15:38:21 +0800
+Received: (from qa@localhost)
+	by rbl.ccert.edu.cn (8.12.11/8.12.11/Submit) id i9A7cKjK006349;
+	Sun, 10 Oct 2004 15:38:20 +0800
+Date: Sun, 10 Oct 2004 15:38:20 +0800
+Message-Id: <200410100738.i9A7cKjK006349@rbl.ccert.edu.cn>
+Subject: =?gb2312?B?ofEgW9PRx+l6el1NYXh0aG9uIOXb087kr8DAxvcg1dDGuA==?=
+To: wu@ccert.edu.cn
+From: Tran Quang Anh <cao@cernet.edu.cn>
+Content-Type: multipart/mixed; boundary="----------=_1097393901-1014-16"
+MIME-Version: 1.0
+X-UIDL: ,k?!!W]+#!<=9!!@9f!!
+
+Maxthon 浏览器经过多年的努力, 成为了国内外知名的浏览器品牌, 目前国内外有超过千万的用户.
+现在我们国内的开发运营中心已在北京设立. 我们可以为有志于促进互联网技术革新和进步的人士提供一流的工作环境和学习环境, 以及有竞争力的薪酬和成长机会. 欢迎加入 Maxthon 的队伍, 让我们一起建设一个更好的互联网服务环境, 并见证 Maxthon 未来的成长.
+具体招聘内容如下:
+ Web 开发经理
+具有丰富的大型网站开发经验, 能够独立开发大型网站后台程序, 有日 IP 访问超 30 万以上网站开发经验者优先 
+较强的理解和学习能力 
+精通 ASP.NET(C#) 等常用 Web 开发语言 
+熟悉 HTML、XML 的相关开发 
+熟悉 SQL Server 或 Oracle 的相关开发 
+良好的沟通能力和协调能力, 具有良好的团队合作精神 
+负责项目的管理、进度计划的制定和控制、架构的设计、技术难点公关开发 
+具有良好的中英文沟通能力 
+待遇面谈
+ Web 开发工程师
+有实际 Web 开发项目经验 
+较强的理解和学习能力 
+熟悉各种 Web 开发语言, 至少精通 Java, ASP.NET(C#), PHP 中的一种或多种 
+熟悉 MySQL, MS SQL Server, Oracle 中的一种或者多种的开发 
+熟悉 DHTML、JavaScript、CSS 
+熟悉网站的设置和日常维护 
+熟悉 RSS, Blog 相关开发者优先 
+熟悉 XML, XSLT 相关技术者优先 
+有很好的团队合作精神 
+待遇面谈 
+ 高级软件工程师(Windws)
+熟悉 Win32 开发环境, 精通 VC++. 包括 MFC, ATL, COM+ 等 
+熟悉网络通讯协议 
+对软件开发有强烈的兴趣和钻研精神, 以及创新精神 
+具有良好理解力和团队协作精神及 2 年以上软件开发经验 
+熟悉浏览器相关编程者优先 
+熟悉 XML 相关开发者优先 
+待遇面谈 
+以上职位工作地点均在北京. 应聘者请通过 E-mail 发送简历到 &lt;hr@maxthon.com&gt;, 信件主题请注明“Maxthon 应聘”.
+简历中请根据所投报职位的需求写明个人的应聘条件, 项目经验, 以及期望的薪金, 合则约见.
+(注意: 只接受纯文本格式邮件, 请不要以附件的形式发送简历)
+

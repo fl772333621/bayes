@@ -1,0 +1,65 @@
+Return-Path: <huang@home.ccert.edu.cn>
+Received: from home.ccert.edu.cn (localhost [127.0.0.1])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id j0KEUajR010659;
+	Thu, 20 Jan 2005 22:30:36 +0800
+Received: (from majordomo@localhost)
+	by home.ccert.edu.cn (8.13.1/8.13.1/Submit) id j0KEUaWD010658;
+	Thu, 20 Jan 2005 22:30:36 +0800
+X-Authentication-Warning: home.ccert.edu.cn: majordomo set sender to owner-ccertstaff using -f
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with SMTP id j0KEUT4k010634
+	for <xia@ccert.edu.cn>; Thu, 20 Jan 2005 22:30:30 +0800
+Received: (eyou send program); Thu, 20 Jan 2005 22:26:13 +0800
+Message-ID: <306231173.09968@mail.tsinghua.edu.cn>
+Received: from unknown (HELO mail.tsinghua.edu.cn) (unknown@127.0.0.1)
+ by 127.0.0.1 with SMTP; Thu, 20 Jan 2005 22:26:13 +0800
+X-scanvirus: By Symantec Scan Engine
+X-scanresult: CLEAN
+Received: (eqmail ); 20 Jan 2005 14:26:12 -0000
+Received: from unknown (HELO sony) (duanhx@166.111.232.126)
+  by localhost with SMTP; 20 Jan 2005 14:26:12 -0000
+Message-ID: <020901c4fefe$36071a80$c60370ca@sony>
+From: "huang" <huang@tsinghua.edu.cn>
+To: xia@ccert.edu.cn
+References: <306226078.04873@mail.tsinghua.edu.cn>
+Subject: =?gb2312?B?UmU6INX3yMu0q8rXuOg=?=
+Date: Thu, 20 Jan 2005 22:42:04 +0800
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="multipart/alternative";
+	boundary="----=_NextPart_000_0205_01C4FF41.4372F160"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2800.1106
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1106
+Sender: owner-ccertstaff@home.ccert.edu.cn
+Precedence: bulk
+X-UIDL: 90h"!lcc"!,4~!!fMD"!
+
+Elvis Presley - One Night
+(words &amp; music by D. Bartholomew - P. King)
+One night with you
+Is what I\'m now praying for
+The things that we two could plan
+Would make my dreams come true
+Just call my name
+And I\'ll be right by your side
+I want your sweet helping hand
+My loves too strong to hide
+Always lived, very quiet life
+I ain\'t never did no wrong
+Now I know that life without you
+Has been too lonely too long
+One night with you
+Is what I\'m now praying for
+The things that we two could plan
+Would make my dreams come true
+Always lived, very quiet life
+I ain\'t never did no wrong
+Now I know that life without you
+Has been too lonely too long
+One night with you
+Is what I\'m now praying for
+The things that we two could plan
+Would make my dreams come true
+

@@ -1,0 +1,57 @@
+Return-Path: <ou@stu.ee.tsinghua.edu.cn>
+Received: from tsinghua.org.cn ([210.77.143.232])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with SMTP id j3P2M9gV016596
+	for <bi@ccert.edu.cn>; Mon, 25 Apr 2005 10:22:20 +0800
+Received: (eyou send program); Mon, 25 Apr 2005 10:38:36 +0800
+Message-ID: <314396716.18350@tsinghua.org.cn>
+X-EYOU-AUTOFORWARD: tsinghua.org.cn
+Received: (eyou send program); Mon, 25 Apr 2005 10:38:36 +0800
+Message-ID: <314396716.12007@tsinghua.org.cn>
+Received: from unknown (HELO eyou.net) (210.77.143.235)
+ by 210.77.143.232 with SMTP; Mon, 25 Apr 2005 10:38:36 +0800
+X-EYOU-SPAMVALUE: 0
+Received: (eyou anti_spam gateway 3.0); Mon, 25 Apr 2005 10:28:09 +0800
+Message-ID: <314396089.02072@eyou.net>
+Received: from 202.112.49.111 by 210.77.143.235 with SMTP; Mon, 25 Apr 2005 10:28:08 +0800
+Received: from Garfield. (localhost [IPv6:::1])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with ESMTP id j3P2Y5nE089391
+	for <bi@ccert.edu.cn>; Mon, 25 Apr 2005 10:34:52 +0800 (CST)
+	(envelope-from toefl-bounces@gradinfo.net.edu.cn)
+Received: from stu.ee.tsinghua.edu.cn (stu.ee.tsinghua.edu.cn [166.111.64.4])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with SMTP id j3P2Y1hp089387
+	for <bi@ccert.edu.cn>; Mon, 25 Apr 2005 10:34:03 +0800 (CST)
+	(envelope-from xujf93@stu.ee.tsinghua.edu.cn)
+Received: (qmail 15468 invoked by uid 512); 25 Apr 2005 02:36:28 -0000
+Message-ID: <20050425023628.15467.qmail@stu.ee.tsinghua.edu.cn>
+From: ou@stu.ee.tsinghua.edu.cn
+To: bi@ccert.edu.cn
+Date: Mon, 25 Apr 2005 10:36:28 +0800
+Mime-Version: 1.0
+Content-Type: multipart/mixed; boundary="----------=_1114395742-9980-240"
+Cc: 
+Subject: =?gb2312?B?ofEgQXRvc09yaWdpbrmry77V0Ma4TWFya2V0aW5nIEFzc2lzdGFudCBJbnRlcm4=?=
+X-BeenThere: toefl@gradinfo.net.edu.cn
+X-Mailman-Version: 2.1.5
+Precedence: list
+List-Id: "&#26446; &#26143; &#21644; &#20182; &#30340; &#23398; &#29983;
+	&#20204; " <toefl.gradinfo.net.edu.cn>
+List-Unsubscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=unsubscribe>
+List-Archive: <http://gradinfo.net.edu.cn/mailman/private/toefl>
+List-Post: <mailto:toefl@gradinfo.net.edu.cn>
+List-Help: <mailto:toefl-request@gradinfo.net.edu.cn?subject=help>
+List-Subscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=subscribe>
+Sender: toefl-bounces@gradinfo.net.edu.cn
+Errors-To: toefl-bounces@gradinfo.net.edu.cn
+X-UIDL: P:h!!I@h"!$8m!!fZS"!
+
+Markting Assistant Intern
+Requirement:
+. Bachelor, Master  study in Language, Marketing, Business Administration,  or other related majors 
+&amp;#8226; Experience in language training and project coordination is desired 
+&amp;#8226; Industry knowledge inIT industry is preferred 
+&amp;#8226; Good Computer skills 
+&amp;#8226; Team work sprite and strong learning capability 
+e-mail to :hr.recruit@atosorigin.com
+

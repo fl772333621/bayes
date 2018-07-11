@@ -1,0 +1,28 @@
+Return-Path: <lu@rbl.ccert.edu.cn>
+Received: from rbl.ccert.edu.cn (rbl.ccert.edu.cn [202.112.57.71])
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id i97IfBg7024178
+	for <huang@ccert.edu.cn>; Fri, 8 Oct 2004 02:41:11 +0800 (CST)
+Received: from rbl.ccert.edu.cn (localhost.localdomain [127.0.0.1])
+	by rbl.ccert.edu.cn (8.12.11/8.12.11) with ESMTP id i97Il8M7014340
+	for <huang@ccert.edu.cn>; Fri, 8 Oct 2004 02:47:09 +0800
+Received: (from qa@localhost)
+	by rbl.ccert.edu.cn (8.12.11/8.12.11/Submit) id i97Il8xp014339;
+	Fri, 8 Oct 2004 02:47:08 +0800
+Date: Fri, 8 Oct 2004 02:47:08 +0800
+Message-Id: <200410071847.i97Il8xp014339@rbl.ccert.edu.cn>
+Subject: =?gb2312?B?UmU6IMrcsrvBy8HLo6y9stK7z8LJvbartcS+xs+vt+fL1w==?=
+To: huang@ccert.edu.cn
+From: Tran Quang Anh <lu@cernet.edu.cn>
+Content-Type: multipart/mixed; boundary="----------=_1097174829-1044-68"
+MIME-Version: 1.0
+X-UIDL: _pO"!9':!!<)L!!G7K"!
+
+我第一次带lp回家 大家庭聚会的时候 lp就是没有上桌 (这个还是专门给我lp办的宴席)
+但她好像更高兴 因为可以跟我那些堂弟堂妹们（他们会说普通话）坐一起聊天 
+爷爷奶奶还真的就是大男子主义 但这又有什么受不了的呢 
+老人们都那么大年纪了 让他们改变男尊女卑的思想 似乎没有必要吧
+:     讲到女人不上桌的习俗，好像很多其他地区的mm极为愤慨，认为这是大男人主义和
+: 对女性的不尊重。但要你了解山东的酒席风俗或许你可能改变一下想法。
+:     酒席分很多种，一般的譬如回娘家，一般吃吃饭的，大家当然要一起吃了，但
+: ...................
+

@@ -1,0 +1,30 @@
+Return-Path: <fan@rbl.ccert.edu.cn>
+Received: from rbl.ccert.edu.cn (rbl.ccert.edu.cn [202.112.57.71])
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id i9839bXd000709
+	for <bai@ccert.edu.cn>; Fri, 8 Oct 2004 11:09:37 +0800 (CST)
+Received: from rbl.ccert.edu.cn (localhost.localdomain [127.0.0.1])
+	by rbl.ccert.edu.cn (8.12.11/8.12.11) with ESMTP id i983FZSr020024
+	for <bai@ccert.edu.cn>; Fri, 8 Oct 2004 11:15:38 +0800
+Received: (from qa@localhost)
+	by rbl.ccert.edu.cn (8.12.11/8.12.11/Submit) id i983FZuX020023;
+	Fri, 8 Oct 2004 11:15:35 +0800
+Date: Fri, 8 Oct 2004 11:15:35 +0800
+Message-Id: <200410080315.i983FZuX020023@rbl.ccert.edu.cn>
+Subject: =?gb2312?B?UmU6ILTzvNK+9bXD16jA+7T6wO3Iy9PQx7DNvsLwo78=?=
+To: bai@ccert.edu.cn
+From: Tran Quang Anh <fan@cernet.edu.cn>
+Content-Type: multipart/mixed; boundary="----------=_1097205338-1044-222"
+MIME-Version: 1.0
+X-UIDL: agG"!]7F"!Mcf"!L+@"!
+
+现在就算是上法庭也没必要必须是律师
+印着专利律师的是自己考过司法考试的
+也不用很以后，自己自学考过的都不少
+国外很多地方律师只印姓名和电话地址，没有头衔，看起来比较酷
+btw，所谓以及代理人应该是partner了
+现在新人基本不用考虑这一级别
+: 这个还是看自己的追求了
+: 我上次面试的时候，经理主要问我能不能承受比较重的工作压力，她说他们已经连续好几年超负荷运转了，每年招人的速度远远敢不上业务发展的速度
+: 做这一行要做到资深也是很不容易的，另外一家公司的经理跟我说他们内部代理人是分等级的，一级代理人公司完全不从他身上赚钱，专利代理费用除去一些日常开支之外，全部返还给专利代理人，也就是说相当于提成是100%，还有就是更高层次的可以去做专利律师，目前中国的案件
+: ...................
+

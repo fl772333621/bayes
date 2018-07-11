@@ -1,0 +1,29 @@
+Return-Path: <xia@rbl.ccert.edu.cn>
+Received: from rbl.ccert.edu.cn (rbl.ccert.edu.cn [202.112.57.71])
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id i95FfWws020852
+	for <yu@ccert.edu.cn>; Tue, 5 Oct 2004 23:41:32 +0800 (CST)
+Received: from rbl.ccert.edu.cn (localhost.localdomain [127.0.0.1])
+	by rbl.ccert.edu.cn (8.12.11/8.12.11) with ESMTP id i95FlOEk028044
+	for <yu@ccert.edu.cn>; Tue, 5 Oct 2004 23:47:26 +0800
+Received: (from qa@localhost)
+	by rbl.ccert.edu.cn (8.12.11/8.12.11/Submit) id i95FlOwQ028043;
+	Tue, 5 Oct 2004 23:47:24 +0800
+Date: Tue, 5 Oct 2004 23:47:24 +0800
+Message-Id: <200410051547.i95FlOwQ028043@rbl.ccert.edu.cn>
+Subject: =?gb2312?B?UmU6ILDrxOqjrNC9vfC1xMj9tM63rcG9t6w=?=
+To: yu@ccert.edu.cn
+From: Tran Quang Anh <xia@cernet.edu.cn>
+Content-Type: multipart/mixed; boundary="----------=_1096991246-996-432"
+MIME-Version: 1.0
+X-UIDL: UI_"!,aY!!_<Z"!6S)"!
+
+虽然认同楼主的观点
+可是在内地，作为一个行业来讲
+卖菜的和开车的赚那么多大概只有10％的概率
+平均还是一个较低水准
+所以，谨慎的表示对楼主的若干论据表示怀疑
+: 我以前是一个小单位的职工，一个月1.4k，去年就办理了离职手续。然后作为实习生在bell实习了几个月，一个月2.4k多。今年4月到一家公司实习，7k；现在已经有两个offer等我了，一个12k，一个13k。
+: 以前只是想着8k就不错了，幸好没有满足亚，不然可能就是8k了。
+: 很多时候，人需要激情和努力的，当大家都在考虑10k的薪金的时候，买蔬菜的大妈已经年薪10多万了，开车的司机已经20多万了，开个小饭店的老板已经30万以上了......
+: ...................
+

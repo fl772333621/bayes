@@ -1,0 +1,26 @@
+Return-Path: <pan@rbl.ccert.edu.cn>
+Received: from rbl.ccert.edu.cn (rbl.ccert.edu.cn [202.112.57.71])
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id i8T6rbdq006440
+	for <xie@ccert.edu.cn>; Wed, 29 Sep 2004 14:53:38 +0800 (CST)
+Received: from rbl.ccert.edu.cn (localhost.localdomain [127.0.0.1])
+	by rbl.ccert.edu.cn (8.12.11/8.12.11) with ESMTP id i8T635MO009397
+	for <xie@ccert.edu.cn>; Wed, 29 Sep 2004 14:03:06 +0800
+Received: (from qa@localhost)
+	by rbl.ccert.edu.cn (8.12.11/8.12.11/Submit) id i8T635wn009396;
+	Wed, 29 Sep 2004 14:03:05 +0800
+Date: Wed, 29 Sep 2004 14:03:05 +0800
+Message-Id: <200409290603.i8T635wn009396@rbl.ccert.edu.cn>
+Subject: =?gb2312?B?UmU6INXSyMu3rdLruavLvrzyvemjrDc2MNfz09K49rq619ajrM7vwO27r9GnwOCjqLfAuK/KtKOp
+oaM=?=
+To: xie@ccert.edu.cn
+From: Tran Quang Anh <pan@cernet.edu.cn>
+Content-Type: multipart/mixed; boundary="----------=_1096437786-996-148"
+MIME-Version: 1.0
+X-UIDL: !Y?"!?I-!!e9R!!9)F!!
+
+ft，就这么两句还不翻译。
+: 下面是其中的2小段文字：
+: 在承接的基面表面处理、涂层保护、玻璃钢、耐酸胶泥衬砖板、衬橡胶、衬塑料、喷锌、喷铝、搪铅、衬铅、泡沫保温、对设备管道、高空塔架、海港码头、涵洞桥梁、电化学保护均积累了丰富的施工经验。
+: 走科技兴业之路，作创新工程，在濮阳油田用抛球法挤涂工艺技术，对φ100以下细管线内防腐，填补了我国空白。在北大附中地下室漏水和大港油田积水海滩地下管线用树脂改性00C以下施工水中固化，解决了地下室渗漏和沼泽地铺设管线的防腐难题。
+: ...................
+

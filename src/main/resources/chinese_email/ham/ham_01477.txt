@@ -1,0 +1,33 @@
+Return-Path: <jin@tsinghua.org.cn>
+Received: from tsinghua.org.cn ([210.77.143.228])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id i8T36ObZ011578
+	for <tian@ccert.edu.cn>; Wed, 29 Sep 2004 11:06:35 +0800
+Received: (eyou send program); Wed, 29 Sep 2004 11:15:08 +0800
+X-EYOU-ORIGINAL-IP: 202.112.50.4
+X-EYOU-ENVELOPE-MAILFROM: chenguangying@tsinghua.org.cn
+Received: from unknown (HELO ccertdawei) (unknown@202.112.50.4)
+ by 210.77.143.228 with SMTP; Wed, 29 Sep 2004 11:15:08 +0800
+Message-ID: <00e401c4a5d2$88765c70$043270ca@CCERTDAWEI>
+From: "jin" <jin@tsinghua.org.cn>
+To: tian@ccert.edu.cn
+Subject: =?gb2312?B?UmU6IM/W1Nq4973wyNq7+rm5tcTQvbPqtPO5q7K8LXp6?=
+Date: Wed, 29 Sep 2004 11:15:08 +0800
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2800.1437
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1441
+Content-Transfer-Encoding: 8bit
+X-MIME-Autoconverted: from base64 to 8bit by home.ccert.edu.cn id i8T36ObZ011578
+X-UIDL: Ka*#!?M@!!!j["!NR`!!
+
+我主要在金融界混口饭吃，所以不太考虑其它行业，不过基本情况是了解的。
+移动、电力肯定不错的拉
+至于军工，看你是干啥，搞出口贸易的才行。一般军转民、或者纯粹搞生产的不太行。
+: 中行这两年进去应届生倒霉，房贷没了，而且不跟总行签约了，改为什么派遣制
+: 军工企业也有待遇高和待遇一般的，航天系统的每年招很多，也不是特别高
+: 目前大国企中最牛的还是几大电力公司，华能、华电等
+: ...................
+

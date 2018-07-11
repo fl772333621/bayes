@@ -1,0 +1,31 @@
+Return-Path: <yu@rbl.ccert.edu.cn>
+Received: from rbl.ccert.edu.cn (rbl.ccert.edu.cn [202.112.57.71])
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id i97AwDZf018784
+	for <qian@ccert.edu.cn>; Thu, 7 Oct 2004 18:58:13 +0800 (CST)
+Received: from rbl.ccert.edu.cn (localhost.localdomain [127.0.0.1])
+	by rbl.ccert.edu.cn (8.12.11/8.12.11) with ESMTP id i97B4C5P032402
+	for <qian@ccert.edu.cn>; Thu, 7 Oct 2004 19:04:13 +0800
+Received: (from qa@localhost)
+	by rbl.ccert.edu.cn (8.12.11/8.12.11/Submit) id i97B4CW3032401;
+	Thu, 7 Oct 2004 19:04:12 +0800
+Date: Thu, 7 Oct 2004 19:04:12 +0800
+Message-Id: <200410071104.i97B4CW3032401@rbl.ccert.edu.cn>
+Subject: =?gb2312?B?UmU6INXi0rvE6rXEx/PWsMDhyrejrM+jzfu21GRkbW3T0Mv5vei8+A==?=
+To: qian@ccert.edu.cn
+From: Tran Quang Anh <yu@cernet.edu.cn>
+Content-Type: multipart/mixed; boundary="----------=_1097147053-996-872"
+MIME-Version: 1.0
+X-UIDL: -?("!ol$#!Xh-!!J^K"!
+
+1 mm的素质很好，即使现在受点波折，将来一定会由自身的素质中受益很多
+2 初踏入社会的第一步都是艰难而且残酷的，不妨将心态放低一点，等到有了工作经验，机会会多很多
+3 户口不像你想的那样严重，最重要的是一定要把手里有的东西牢牢握住
+4 进入外企，口语固然重要，更重要的是与企业文化的契合度
+5 一些牛外企，未必如你想象的那样适合你
+6 找工作就是从学生生涯到社会痛苦的蜕变，谁也避免不了
+最后，bless you
+: 这一年的工作历程真的很辛苦，我在这一年成熟了那么多，自己都没有想到。虽然现在的心态还算不错，但这是几经波折才得来的，其中的滋味有时连自己都体会不清楚。
+: 我不知道现在是麻木期，还是自己想的很开了，抑或是因为有了其他的精神寄托所以精神转移，也不知道当一段时间之后遇到同班同学后会是什么样的心理，不想去想，因为这不过是庸人自扰罢了。
+: 曾以为怎么这一阵子总是走霉运，但慢慢想过来其实满是自己的错，怨不得别人。也许一直走的太顺了，该是老天给我点警告的时候了，也许是他要安排我去做另外的一些事情。
+: ...................
+

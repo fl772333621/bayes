@@ -1,0 +1,53 @@
+Return-Path: <ke@ccert.edu.cn>
+Received: from tsinghua.org.cn ([210.77.143.231])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id j073JI3Z019370
+	for <lu@ccert.edu.cn>; Fri, 7 Jan 2005 11:19:19 +0800
+Received: (eyou send program); Fri, 07 Jan 2005 11:10:33 +0800
+Received: (eyou send program); Fri, 07 Jan 2005 11:10:32 +0800
+X-EYOU-ORIGINAL-IP: 210.77.143.235
+X-EYOU-ENVELOPE-MAILFROM: starry@ccert.edu.cn
+Received: from unknown (HELO eyou.net) (unknown@210.77.143.235)
+ by 210.77.143.231 with SMTP; Fri, 07 Jan 2005 11:10:32 +0800
+Received: (eyou send program); Fri, 07 Jan 2005 11:24:37 +0800
+Message-ID: <305068277.02653@eyou.net>
+Received: from 202.112.57.12 by 210.77.143.235 with SMTP; Fri, 07 Jan 2005 11:24:36 +0800
+Received: from starry ([202.112.50.9])
+	(authenticated bits=0)
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id j073J5HO019328;
+	Fri, 7 Jan 2005 11:19:05 +0800
+Message-Id: <200501070319.j073J5HO019328@home.ccert.edu.cn>
+Date: Fri, 7 Jan 2005 11:30:53 +0800
+From: "ke" <ke@ccert.edu.cn>
+To: lu@ccert.edu.cn
+Cc: "zhenghui" <yu@ccert.edu.cn>,
+        "chenguangying" <chi@ccert.edu.cn>,
+        "zjwu" <hu@ccert.edu.cn>
+Subject: =?gb2312?B?UmU6IEJhdG1hbiBCZWdpbnPGwLzbsru07bChoaOhoyAo16rU2Ck=?=
+X-mailer: Foxmail 5.0 [cn]
+Mime-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: 8bit
+X-MIME-Autoconverted: from base64 to 8bit by home.ccert.edu.cn id j073JI3Z019370
+X-UIDL: ZT""!eW?!!#6K!!KB_!!
+
+看batman begins前
+        是否也要补习batman以前的episode呢?
+: 标  题: Re: Batman Begins评价不错啊。。 (转载)
+: 发信站: 水木社区 (Sat Jun 18 23:23:33 2005), 站内
+: 
+: 看了HBO的先睹为快片断
+: 很爽，坐骑有1吨多
+: 样子也完全变了，超cool
+: 值得期待
+: : 发信人: fitree (fitree), 信区: MovieClub
+: : 标  题: Batman Begins评价不错啊。。
+: : 发信站: 水木社区 (Thu Jun 16 22:45:14 2005), 站内
+: : ...................
+: 
+: 
+: 
+: --
+: 
+: ※ 来源:·水木社区 http://newsmth.net·[FROM: 221.218.136.*]
+

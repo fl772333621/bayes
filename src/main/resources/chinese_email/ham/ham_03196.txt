@@ -1,0 +1,27 @@
+Return-Path: <ou@rbl.ccert.edu.cn>
+Received: from rbl.ccert.edu.cn (rbl.ccert.edu.cn [202.112.57.71])
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id i9B90Fqk002316
+	for <che@ccert.edu.cn>; Mon, 11 Oct 2004 17:00:16 +0800 (CST)
+Received: from rbl.ccert.edu.cn (localhost.localdomain [127.0.0.1])
+	by rbl.ccert.edu.cn (8.12.11/8.12.11) with ESMTP id i9B95c1T003770
+	for <che@ccert.edu.cn>; Mon, 11 Oct 2004 17:05:38 +0800
+Received: (from qa@localhost)
+	by rbl.ccert.edu.cn (8.12.11/8.12.11/Submit) id i9B95cuT003769;
+	Mon, 11 Oct 2004 17:05:38 +0800
+Date: Mon, 11 Oct 2004 17:05:38 +0800
+Message-Id: <200410110905.i9B95cuT003769@rbl.ccert.edu.cn>
+Subject: =?gb2312?B?ofEguPjAz8LotPLBy7j2tee7sKOsxNHK3MvAwcs=?=
+To: che@ccert.edu.cn
+From: Tran Quang Anh <ou@cernet.edu.cn>
+Content-Type: multipart/mixed; boundary="----------=_1097485538-1014-110"
+MIME-Version: 1.0
+X-UIDL: JU<!!\O1!!$d%#!f@6!!
+
+老妈跟我说，老爸昨天喝醉了发了一晚上的牢骚。
+FT，都是因为辞职考研，交了1万多的违约金!一开始老爸就不乐意，因为他觉得一个月
+2k多的工资已经不错了，怪我太折腾。工作了快两年，工资一点没涨，而且还这么少，
+代沟就代沟，不说什么了。我晕，不让考就算了，实在不行我再想其他办法。后来他
+也同意了，现在我都准备了几个月了，他居然还耿耿于怀。最过分的是他不说我，昨天
+把我老妈说了半天，说如何灌坏我什么的，真受不了了，又说我女朋友怎么这么久没给
+他打电话，说什么以为是个研究生就了不起了，我超级FT了，难过啊！
+

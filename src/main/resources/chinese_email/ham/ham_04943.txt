@@ -1,0 +1,88 @@
+Return-Path: <jin@ccert.edu.cn>
+Received: from tsinghua.org.cn ([210.77.143.231])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id iB16R2xK019508
+	for <luo@ccert.edu.cn>; Wed, 1 Dec 2004 14:27:04 +0800
+Received: (eyou send program); Wed, 01 Dec 2004 14:20:09 +0800
+Received: (eyou send program); Wed, 01 Dec 2004 14:20:08 +0800
+X-EYOU-ORIGINAL-IP: 210.77.143.235
+X-EYOU-ENVELOPE-MAILFROM: zhenghui@ccert.edu.cn
+Received: from unknown (HELO eyou.net) (unknown@210.77.143.235)
+ by 210.77.143.231 with SMTP; Wed, 01 Dec 2004 14:20:08 +0800
+Received: (eyou send program); Wed, 01 Dec 2004 14:35:16 +0800
+Message-ID: <301882916.10077@eyou.net>
+Received: from 166.111.8.16 by 210.77.143.235 with SMTP; Wed, 01 Dec 2004 14:35:15 +0800
+Received: (eyou send program); Wed, 01 Dec 2004 14:34:48 +0800
+Message-ID: <301882888.08612@mails.tsinghua.edu.cn>
+Received: (eyou send program); Wed, 01 Dec 2004 14:34:48 +0800
+Message-ID: <301882887.00336@mails.tsinghua.edu.cn>
+Received: from unknown (HELO mails.tsinghua.edu.cn) (unknown@127.0.0.1)
+ by 127.0.0.1 with SMTP; Wed, 01 Dec 2004 14:34:48 +0800
+X-scanvirus: By Symantec Scan Engine
+X-scanresult: NOREP
+Received: (eqmail ); 1 Dec 2004 06:34:42 -0000
+Received: from ccert.edu.cn (HELO home.ccert.edu.cn) (202.112.57.12)
+  by mails.tsinghua.edu.cn with SMTP; 1 Dec 2004 06:34:42 -0000
+Received: from home.ccert.edu.cn (localhost [127.0.0.1])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id iB16QShF019474;
+	Wed, 1 Dec 2004 14:26:28 +0800
+Received: (from majordomo@localhost)
+	by home.ccert.edu.cn (8.13.1/8.13.1/Submit) id iB16QSbb019473;
+	Wed, 1 Dec 2004 14:26:28 +0800
+X-Authentication-Warning: home.ccert.edu.cn: majordomo set sender to owner-ccertstaff using -f
+Received: from ccertspark (tu203021.tsinghua.edu.cn [166.111.203.21])
+	(authenticated bits=0)
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id iB16PcBe019451;
+	Wed, 1 Dec 2004 14:25:38 +0800
+From: "jin" <jin@ccert.edu.cn>
+To: luo@ccert.edu.cn
+Cc: <feng@ccert.edu.cn>
+Subject: =?gb2312?B?ofEgx+vOytXi0fnH6b/2z8K7udPQv8nE3LDstb27p7/aw7QgKNeq1Ngp?=
+Date: Wed, 1 Dec 2004 14:37:34 +0800
+Message-ID: <000c01c4d770$3e023ea0$15cb6fa6@ccertspark>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_000D_01C4D7B3.4C270540"
+X-Priority: 3 (Normal)
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook, Build 10.0.6626
+X-MIMEOLE: Produced By Microsoft MimeOLE V6.00.3790.181
+In-Reply-To: <003101c4d76f$0c7459f0$18cb6fa6@CCERTDAWEI>
+Importance: Normal
+Sender: owner-ccertstaff@home.ccert.edu.cn
+Precedence: bulk
+X-UIDL: Q5I!!aE~!!MFJ"!JX^"!
+
+【 以下文字转载自 Career_Offer 讨论区 】
+发信人: Yantze (扬子·歌杀手※动机不纯※难得伤), 信区: Career_Offer
+标  题: 请问这样情况下还有可能办到户口么
+发信站: 水木社区 (Sun Jun 19 21:03:17 2005), 站内
+本人小硕，咨询一下办理户口的问题
+一家小公司，算高新科技公司吧，老板是德籍中国人，公司算外资
+以前没有办理过户口的经历(老板语)
+不过老板答应我，正规途径或者通过别的公司企业，或者买，都给办理好户口
+但如何办理得我找到方法，告诉他该怎么做
+比如：正规途径的程序、哪个企业可以办、如何买
+查了一下人事局和精华区的经验文章，办理户口有两种程序：
+----------
+   方案A
+----------
+1.单位发出录取函
+2.学校开出推荐表，成绩单
+3.单位拿推荐表，成绩单，《非北京生源毕业生进京审批表》上报人事局
+4.人事局审批通过，开出 《接受函》
+5.单位收到《接受函》后，转给毕业生，毕业生拿《接受函》领取三方协议
+6.单位，学校，个人，签定三方协议
+----------
+   方案B
+----------
+1.单位开出录取函 --&gt; 单位，学校，毕业生 签定三方协议
+2.学校开出推荐表，成绩单
+3.单位拿推荐表，成绩单，三方协议 ，《非北京生源毕业生进京审批表》去人事局审批
+4.人事局审批通过，发出接受函
+到底哪个方案正确呢？硕士需要提交的成绩单是硕士的还是本科的还是都提供？
+另外，公司没有跟人事局提交过指标申请
+签订三方是没问题（对吧？）
+但向人事局申请接收函是不是根本就没有机会？
+还有，现在办理来得及么，
+版面上的朋友如知道可以办理户口的单位麻烦给我发个信，谢谢！
+

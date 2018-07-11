@@ -1,0 +1,46 @@
+Return-Path: <sun@home.ccert.edu.cn>
+Received: from home.ccert.edu.cn (localhost [127.0.0.1])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id i9B7sin0014858;
+	Mon, 11 Oct 2004 15:54:44 +0800
+Received: (from majordomo@localhost)
+	by home.ccert.edu.cn (8.13.1/8.13.1/Submit) id i9B7si0L014857;
+	Mon, 11 Oct 2004 15:54:44 +0800
+X-Authentication-Warning: home.ccert.edu.cn: majordomo set sender to owner-ccertstaff using -f
+Received: from power001 ([202.112.50.103])
+	(authenticated bits=0)
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id i9B7sgwc014852
+	for <yang@ccert.edu.cn>; Mon, 11 Oct 2004 15:54:43 +0800
+Message-ID: <00cf01c4af69$17f9a4c0$673270ca@Power001>
+From: "sun" <sun@ccert.edu.cn>
+To: yang@ccert.edu.cn
+Subject: =?gb2312?B?ofEguN/QvbPPxrjN+NW+s8zQ8rmks8zKpg==?=
+Date: Mon, 11 Oct 2004 16:05:36 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_00CC_01C4AFAC.24ECC930"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.3790.181
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.3790.181
+Sender: owner-ccertstaff@home.ccert.edu.cn
+Precedence: bulk
+X-UIDL: 6Ze!!Tf-"!f^k"!K@+"!
+
+    由于清华大学国际工程项目管理研究院发展需要，经过北京市人事局和清华大学人才交流中心批准，特招聘以下人员。清华大学国际工程项目管理研究院为德才兼备，真才实学的您提供稳定的福利保障、具有创造性的工作机会和具有竞争力的薪酬体系。 　　
+有意者请投放个人简历到 hr@pm.tsinghua.edu.cn
+ 
+网站程序工程师 （1名） 
+工作职责： 
+1.网站技术策划、程序开发；
+2.数据库设计、开发；
+3.网站功能设计、程序升级；
+4.网站程序安全测试、系统安全维护。
+任职要求： 
+1.本科以上学历（综合能力突出，可考虑大专），党员优先；
+2.有3年以上大型商业网站程序开发工作经验、精通网站开发工具、数据库工具；
+3.工作认真细心，责任心强，勤奋敬业，吃苦耐劳；
+4.标准普通话，形象端正，谈吐大方；
+5.有教育培训领域网站程序开发工作经验优先，要求提供作品；
+6.精通网络安全技术、和网络设备维护优先。
+ 
+

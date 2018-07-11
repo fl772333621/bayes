@@ -1,0 +1,31 @@
+Return-Path: <ke@ccert.edu.cn>
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id iB16Tiw3019557
+	for <ke@ccert.edu.cn>; Wed, 1 Dec 2004 14:29:44 +0800
+Received: from GirlOfGod (tu203027.tsinghua.edu.cn [166.111.203.27])
+	(authenticated bits=0)
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id iB16glT0007946
+	for <ke@ccert.edu.cn>; Wed, 1 Dec 2004 14:42:50 +0800 (CST)
+Message-Id: <200412010642.iB16glT0007946@sea.net.edu.cn>
+Date: Wed, 1 Dec 2004 14:47:08 +0800
+From: ke@ccert.edu.cn" <ccertstaff@ccert.edu.cn>
+To: ke@ccert.edu.cn
+Subject: =?gb2312?B?ofEgztLSqsXituDJ2aO/x+u9zA==?=
+X-mailer: Foxmail 5.0 [cn]
+Mime-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: 8bit
+X-MIME-Autoconverted: from base64 to 8bit by home.ccert.edu.cn id iB16Tiw3019557
+X-UIDL: __*"!L"c"!!^!"!'8G"!
+
+三方协议的备注里写了：签约五年，违约一年赔一万�
+单位说不签劳动合同，档案放人才中心。
+我现到单位实习，感觉不好，还听同事说工资也底，待遇不好，
+想走，不知该怎办？要赔多少？他们说试用期三个月，但没有劳务合同，试用期怎么算呢？
+现在走该赔多少？
+再过两个月适用期走该赔多少？
+不知在三方协议中写得这个有没有法律效力？
+埃，这社会对我们学生太不公平了，光有他们的条件，我们什么要求都不行！
+谢谢各位大哥的解答！
+

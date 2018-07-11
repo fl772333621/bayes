@@ -1,0 +1,26 @@
+Return-Path: <tan@mails.tsinghua.edu.cn>
+Received: from mails.tsinghua.edu.cn (mails.tsinghua.edu.cn [166.111.8.16])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with SMTP id j5NNQpeb026561
+	for <tu@ccert.edu.cn>; Fri, 24 Jun 2005 07:27:01 +0800
+Message-Id: <200506232327.j5NNQpeb026561@home.ccert.edu.cn>
+X-scanvirus: By SOPHOS Scan Engine
+X-scanresult: CLEAN
+X-Received: unknown,166.111.248.15,20050624072710
+Received: from unknown (HELO tsinghua-5bcc83) (jwr2000@166.111.248.15)
+  by localhost with SMTP; 23 Jun 2005 23:27:10 -0000
+Date: Fri, 24 Jun 2005 07:46:50 +0800
+From: "tan" <tan@mails.tsinghua.edu.cn>
+To: tu@ccert.edu.cn
+Subject: =?gb2312?B?UmU6INX3uPa089GntcRQUE1NxcTQqcPAwPbV1cas?=
+X-mailer: Foxmail 5.0 [cn]
+Mime-Version: 1.0
+Content-Type: multipart/mixed; boundary="----------=_1119569222-21029-553"
+X-StampID: O697fbd202b06803d9aca4a09a741ab66
+X-UIDL: P##"!9dI"!=3?"!,SI"!
+
+没信心。我怕你一看到我就想把我踢出去。
+: 昨天发了一帖，但是写得不甚明了，有些误会。特此更正贴。
+: 我是一个摄友GG，最近正在研究用我的DSLR专攻人像。所以想征个学院漂亮气质MM来拍些漂亮的人像照片。
+: 对于时间和地点由你来决定。整体风格我们一起来一编拍一边看。每个摄影师拍片子都有一些自己的风格倾向，每个人也都有对自己最满意的风格和侧面，交流在拍人像的时候就很重要。
+: ...................
+

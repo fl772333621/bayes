@@ -1,0 +1,45 @@
+Return-Path: <xin@ccert.edu.cn>
+Received: from home.ccert.edu.cn (ccert.edu.cn [202.112.57.12])
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id iBF9WYIP001711;
+	Wed, 15 Dec 2004 17:32:34 +0800 (CST)
+Received: from sunbin_S ([202.112.50.201])
+	(authenticated bits=0)
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id iBF9ImcO022593;
+	Wed, 15 Dec 2004 17:18:49 +0800
+Message-Id: <200412150918.iBF9ImcO022593@home.ccert.edu.cn>
+Date: Wed, 15 Dec 2004 17:37:39 +0800
+From: "xin" <xin@ccert.edu.cn>
+Reply-To: xin@ccert.edu.cn
+To: xue@ccert.edu.cn
+Subject: =?gb2312?B?ofEgob7XqsjDob+8xsvju/rA4L3MssSjrNX+1s4s06LT76Ost6jCyb+80dDXysHP?=
+Organization: CCERT
+X-mailer: Foxmail 5.0 beta2 [cn]
+Mime-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: 8bit
+X-MIME-Autoconverted: from base64 to 8bit by sea.net.edu.cn id iBF9WYIP001711
+X-UIDL: ;)~"!o'!"!jE'!!`Q##!
+
+出售以下教材，书都非常新，仅有少量笔记。有意请联系13810041938短信，我在清华自取。
+计算机类：
+《电子商务解决方案site server3.0》（全新）李劲、谢兆阳主编，中国青年出版社，原价69,现卖30
+《Visual InterDev 6.0网络编程技术》（全新）钱力鹏、阎义洲、袁亚玎、何斌编著，人民邮电出版社，原价38,现卖20
+《Internet百宝箱》原价30.5，现卖15
+考研类：
+《2003考研英语绝对模考12场》，张锦芯，石油工业出版社，配3盒磁带，原价共37,现卖10
+《2005考研英语冲刺试题解析》毕金献，学苑出版社，原价26，现卖10
+《考试虫2005英语历年实题解析》王若平，航空工业出版社，原价39现卖15
+《2003政治考研命题预测试卷》龙十一主编，原价25,现卖5 
+《2005政治理论基础过关2000题》陈先奎、张锦峰、杨凤城，新华出版社，原价45现卖20
+其他：
+《管理会计》，温坤，人大出版社，原价19，现卖5元
+《税法》注册会计师全国统一考试制定教材，中国财政经济出版社，原价23，现卖5
+《经济数学基础－微积分》均为龚德恩主编，四川人民出版社，3元
+《爱在他乡季节》红桃著，远方出版社，原价10,现卖3元
+《科技新闻理论与写作》刘建明，中国广播电视出版社，原价25现卖10
+《新英语教程第二册—听说》，清华大学出版社，原价13.5现卖2
+《现代汉语》胡裕树，上海出版社，原价12.5，现卖5
+《法理学》，张文显，北大出版社、高教出版社，原价23.1，现卖10
+《税法》注册会计师全国统一考试制定教材，中国财政经济出版社，原价23，现卖5
+

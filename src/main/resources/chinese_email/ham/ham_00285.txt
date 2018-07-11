@@ -1,0 +1,36 @@
+Return-Path: <lu@tsinghua.edu.cn>
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by unknown (8.12.11/8.12.11) with SMTP id j5DG7iW9005737
+	for <su@ccert.edu.cn>; Tue, 14 Jun 2005 00:07:48 +0800 (CST)
+Received: (eyou send program); Mon, 13 Jun 2005 23:49:23 +0800
+Message-ID: <318677763.00228@mail.tsinghua.edu.cn>
+Received: from unknown (HELO mail.tsinghua.edu.cn) (unknown@127.0.0.1)
+ by 127.0.0.1 with SMTP; Mon, 13 Jun 2005 23:49:23 +0800
+X-scanvirus: By Symantec Scan Engine
+X-scanresult: CLEAN
+Received: (eqmail ); 13 Jun 2005 15:49:23 -0000
+Received: from th042098.ip.tsinghua.edu.cn (HELO sony) (duanhx@59.66.42.98)
+  by localhost with SMTP; 13 Jun 2005 15:49:23 -0000
+Message-ID: <018e01c57032$0534cfb0$5618423b@sony>
+From: "lu" <lu@tsinghua.edu.cn>
+To: su@ccert.edu.cn
+References: <318661778.20346@mail.tsinghua.edu.cn>
+Subject: =?gb2312?B?UmU6IL3xzOzX9re5tcT03MrC?=
+Date: Tue, 14 Jun 2005 00:07:37 +0800
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2900.2180
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+Content-Transfer-Encoding: 8bit
+X-MIME-Autoconverted: from base64 to 8bit by unknown id j5DG7iW9005737
+X-UIDL: &Sm!!)(+"!UGl"!]?-"!
+
+不容易啊。。。。。
+: LG的三个同学过来玩，本来说是只吃中午饭的，就决定去外面吃。结果午饭吃完了，打牌到晚上，还得做晚饭，累阿
+: 冰箱里有冰冻虾仁，已经用过一次，做青椒炒虾仁，做得比较失败，因为冰虾仁毕竟不是鲜虾仁，有股腥味，而且包装上号称已经去了泥肠，拣出来一只只被上还是有黑色的线。为了避免腥味，决定做个味道重一点的。想起《贝太厨房》上看过的椒盐虾仁，貌似味道重重的样子，于是
+: 首先是去泥肠。一只只扒垃，弄了大半天。本来想晾干之后直接炸，想想这样晾不知道啥时候才会干，又没有厨房吸水纸用，干脆用鸡蛋清和淀粉拌了，放一边备用。
+: ...................
+

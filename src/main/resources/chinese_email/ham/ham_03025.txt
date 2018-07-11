@@ -1,0 +1,30 @@
+Return-Path: <lai@mails.tsinghua.edu.cn>
+Received: from mails.tsinghua.edu.cn (mails.tsinghua.edu.cn [166.111.8.16])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j1N7T4om016475
+	for <zhao@ccert.edu.cn>; Wed, 23 Feb 2005 15:29:04 +0800 (CST)
+X-scanvirus: By SOPHOS Scan Engine
+X-scanresult: CLEAN
+X-Received: unknown,166.111.203.210,20050223152340
+Received: from unknown (HELO xiner) (xwang03@166.111.203.210)
+  by localhost with SMTP; 23 Feb 2005 07:23:40 -0000
+Message-ID: <001501c51979$998dee40$d2cb6fa6@xiner>
+From: "lai" <lai@mails.tsinghua.edu.cn>
+To: zhao@ccert.edu.cn
+Subject: =?gb2312?B?UmU6IM/r1qq1wNXiwb3E6rTz0aexz9K1yfq1xL7N0rXQzsq9?=
+Date: Wed, 23 Feb 2005 15:30:45 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0012_01C519BC.A4A12F20"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2900.2180
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+X-UIDL: ZGA"!WIc!!!RW!!%(f!!
+Status: RO
+
+呵呵。中国教育的问题太多了。懒得讨论了。哎
+: 人口素质应该提高吧，可是我想我们国家的教育还不够，比如什么善良教育，恋爱道德教育
+: 教师素质也不高，在美国人家选教师的一个重要标准就是看这个人心理是不是乐观主义！
+: 记得小学教师还问我们小学生公开要礼物过教师节，现在想想狠死她们了，不少学习差的学生还受教师很严格的精神和身体处罚，这是犯法的，特别是家长没有什么本事学习成绩不好的孩子，我们国家应该立法来解决这些问题！
+: ...................
+

@@ -2,9 +2,9 @@ package com.mfanw.test.bayes;
 
 public class Consts {
 	/**
-	 * 邮件存放的基准路径 "D:\\Bayes\\chinese_email\\";
+	 * 邮件存放的基准路径 "D:\\bayes\\src\\main\\resources\\chinese_email\\";
 	 */
-	public static final String BASE_PATH = "D:\\Bayes\\email\\";
+	public static final String BASE_PATH = "D:\\bayes\\src\\main\\resources\\num_email\\";
 	/**
 	 * 正常邮件语料
 	 */
@@ -21,5 +21,5 @@ public class Consts {
 	/**
 	 * 垃圾邮件先验概率
 	 */
-	public static double SPAM_RATE = 0.1D;
+	public static double SPAM_RATE = 0.2D;
 }

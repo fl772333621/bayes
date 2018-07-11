@@ -1,0 +1,35 @@
+Return-Path: <ren@tsinghua.edu.cn>
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with SMTP id j0J8FhLU015952
+	for <gu@ccert.edu.cn>; Wed, 19 Jan 2005 16:15:44 +0800
+Received: (eyou send program); Wed, 19 Jan 2005 16:11:25 +0800
+Message-ID: <306122285.03068@mail.tsinghua.edu.cn>
+Received: from unknown (HELO mail.tsinghua.edu.cn) (unknown@127.0.0.1)
+ by 127.0.0.1 with SMTP; Wed, 19 Jan 2005 16:11:25 +0800
+X-scanvirus: By Symantec Scan Engine
+X-scanresult: CLEAN
+Received: (eqmail ); 19 Jan 2005 08:11:23 -0000
+Received: from unknown (HELO sony) (duanhx@202.112.35.253)
+  by localhost with SMTP; 19 Jan 2005 08:11:23 -0000
+Message-ID: <026601c4fe00$adcbb480$0301a8c0@sony>
+From: "ren" <ren@tsinghua.edu.cn>
+To: gu@ccert.edu.cn
+Subject: =?gb2312?B?ofEgtPO80r+0v7TKx7K7yse4w7fFytbByw==?=
+Date: Wed, 19 Jan 2005 16:27:12 +0800
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="----=_NextPart_000_0262_01C4FE43.BB178040"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2800.1106
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1106
+X-UIDL: 1Nj"!P)%!!/fi!!#^:"!
+
+本人很普通，在普通的地方干这一份普通的职业混口饭吃
+这个女生呢，心比较高，以前张口闭口出国MBA投行什么的，不过总是失败，现在混得跟我差不多，在另一个地方混口饭吃
+去年的时候俺比较积极，经常约吃个饭看个电影啥的
+今年她二十五岁了，俺现在连短信都懒得发了...其实俺就想踏踏实实过日子，像其他人一样好好工作买房子什么的,毕竟年龄也不小了
+感觉这女生比较矫情，爱幻想，一天总是一副老天亏待她的样子,好像就她最清高，其他的人都俗不可耐,不过她能力学历都一般，混得算是很一般了
+俺同事和她一样大，现在每天忙着装修房子啥的，建材什么的价钱算得很清楚,每次在旁边听着都觉得很羡慕...总比我这一个人累死累活攒首期的强
+大家看看，要不然快刀斩乱麻，俺找个踏实点的小MM算了
+

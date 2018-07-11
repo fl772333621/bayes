@@ -1,0 +1,27 @@
+Return-Path: <tu@bjnet.edu.cn>
+Received: from smart ([202.112.57.72])
+	(authenticated bits=0)
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id j17098AN000728
+	(version=TLSv1/SSLv3 cipher=EDH-RSA-DES-CBC3-SHA bits=168 verify=NO)
+	for <jiang@ccert.edu.cn>; Mon, 7 Feb 2005 08:09:14 +0800 (CST)
+Date: Mon, 7 Feb 2005 08:11:17 +0800 (CST)
+From: tu@bjnet.edu.cn
+X-X-Sender: zhang@smart
+Reply-To: tu@bjnet.edu.cn
+To: jiang@ccert.edu.cn
+Subject: Re: =?gb2312?B?16PQwrS6v+zA1g==?=
+In-Reply-To: <006601c50c4f$53803cf0$5902510a@CCERTDAWEI>
+Message-ID: <Pine.LNX.4.58.0502070807290.3924@smart>
+References: <006601c50c4f$53803cf0$5902510a@CCERTDAWEI>
+MIME-Version: 1.0
+Content-Type: TEXT/PLAIN; charset=gb2312
+Content-Transfer-Encoding: 8bit
+X-MIME-Autoconverted: from QUOTED-PRINTABLE to 8bit by sea.net.edu.cn id j17098AN000728
+X-UIDL: fDn!!FBV"!lHW"!8@?"!
+
+没有详细的过程，没法说
+: 今天过节，心里好凄凉啊。没有人说话，没有人倾诉。也许，有人可以陪伴，可那不是我要等得人。为什么，事情的变化比天气还要快，一周以前，我还是幸福的女孩。可是现在，他
+: 把我视为陌路，视为仇人。是我错了吗？呵呵。我的坦白，我的执着，反馈给我的却是猜疑
+: ，却是指责。心里好委屈啊。真的好委屈。为什么，难道男生都那么在意女孩子的感情经历吗？谁能告诉我该怎么办？哪一天我会幸福那？
+: ...................
+

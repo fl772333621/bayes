@@ -1,0 +1,59 @@
+Return-Path: <shen@ns.6test.edu.cn>
+Received: from tsinghua.org.cn ([210.77.143.228])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id iAO0lZLd013734
+	for <feng@ccert.edu.cn>; Wed, 24 Nov 2004 08:47:36 +0800
+Received: (eyou send program); Wed, 24 Nov 2004 09:00:20 +0800
+Received: (eyou send program); Wed, 24 Nov 2004 09:00:18 +0800
+X-EYOU-ORIGINAL-IP: 210.77.143.235
+X-EYOU-ENVELOPE-MAILFROM: toefl-bounces@server.cool-meeting.com
+Received: from unknown (HELO eyou.net) (unknown@210.77.143.235)
+ by 210.77.143.228 with SMTP; Wed, 24 Nov 2004 09:00:18 +0800
+Received: (eyou send program); Wed, 24 Nov 2004 08:55:46 +0800
+Message-ID: <301257746.25640@eyou.net>
+Received: from 202.38.99.65 by 210.77.143.235 with SMTP; Wed, 24 Nov 2004 08:55:45 +0800
+Received: from server.cool-meeting.com (localhost.localdomain [127.0.0.1])
+	by server.cool-meeting.com (8.12.8/8.12.8) with ESMTP id iAO1F6lh027130
+	for <feng@ccert.edu.cn>; Wed, 24 Nov 2004 09:15:11 +0800
+Received: from ns.6test.edu.cn ([202.38.99.18])
+	by server.cool-meeting.com (8.12.8/8.12.8) with ESMTP id iAO1Epkr027102
+	for <feng@ccert.edu.cn>; Wed, 24 Nov 2004 09:14:51 +0800
+Received: from [202.112.3.118] (helo=IBM-E4AA49AF703)
+	by ns.6test.edu.cn with asmtp (Exim 4.12) id 1CWlqU-000HuA-00
+	for Toefl@server.cool-meeting.com; Wed, 24 Nov 2004 09:21:22 +0800
+From: "shen" <shen@ns.6test.edu.cn>
+To: feng@ccert.edu.cn
+X-mailer: Foxmail 4.2 [cn]
+Mime-Version: 1.0
+Content-Type: text/plain;
+      charset="GB2312"
+Date: Wed, 24 Nov 2004 8:59:53 +0800
+Message-Id: <E1CWlqU-000HuA-00@ns.6test.edu.cn>
+Content-Transfer-Encoding: 8bit
+X-MIME-Autoconverted: from quoted-printable to 8bit by server.cool-meeting.com
+	id iAO1Epkr027102
+Cc: 
+Subject: =?gb2312?B?UmU6IMrHv6rKvLu5yse94cr4oas=?=
+X-BeenThere: toefl@server.cool-meeting.com
+X-Mailman-Version: 2.1.2
+Precedence: list
+List-Id: &#26446;&#26143;&#21644;&#20182;&#30340;&#23398;&#29983;&#20204;
+	<toefl.server.cool-meeting.com>
+List-Unsubscribe: <http://server.cool-meeting.com/mailman/listinfo/toefl>,
+	<mailto:toefl-request@server.cool-meeting.com?subject=unsubscribe>
+List-Archive: <http://server.cool-meeting.com/mailman/private/toefl>
+List-Post: <mailto:toefl@server.cool-meeting.com>
+List-Help: <mailto:toefl-request@server.cool-meeting.com?subject=help>
+List-Subscribe: <http://server.cool-meeting.com/mailman/listinfo/toefl>,
+	<mailto:toefl-request@server.cool-meeting.com?subject=subscribe>
+Sender: toefl-bounces@server.cool-meeting.com
+Errors-To: toefl-bounces@server.cool-meeting.com
+X-UIDL: 'kN!!V[X"!)8M"!*am"!
+
+勇敢点
+不论结果如何，至少自己努力过
+否则，将来会遗憾、会后悔
+: 人的感觉真的好奇怪，做同学都好几年了，从没有过非分之想，（也许是那会儿知道他有女朋友）。之后，我知道他们分手了。再后来，真的是突然有一天，单身的我，觉得他其实是我期待已久的那种GG。但还没等我说服自己，他就远走他乡了，而且走之前，让我心痛的是，他亲口跟
+: 最近，他工作调动回了北京，但不幸，被小女朋友甩了。我见了他一面，有些颓废，但还好，只是比较不明白他到底那点做错了～
+: 而我也不明白，她到底那点吸引他了！
+: ...................
+

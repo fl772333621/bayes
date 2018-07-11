@@ -1,0 +1,42 @@
+Return-Path: <tian@withub.org>
+Received: from autoforward.mail.sohu.com ([61.135.132.166])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id j0R1CjZu023959
+	for <sun@ccert.edu.cn>; Thu, 27 Jan 2005 09:12:45 +0800
+Received: from mx23.mail.sohu.com (unknown [192.168.41.141])
+	by autoforward.mail.sohu.com (Postfix) with ESMTP id 281518EA77
+	for <sun@ccert.edu.cn>; Thu, 27 Jan 2005 09:24:39 +0800 (CST)
+Received: by mx23.mail.sohu.com (Postfix)
+	id CED9414016; Thu, 27 Jan 2005 09:24:38 +0800 (CST)
+Delivered-To: chen741120@mx23.mail.sohu.com
+Received: from withub.org (unknown [218.80.208.20])
+	by sohumx13.sohu.com (Postfix) with SMTP id D44EA05BE35
+	for <sun@ccert.edu.cn>; Thu, 27 Jan 2005 09:24:33 +0800 (CST)
+Received: (qmail 46827 invoked by uid 1009); 27 Jan 2005 01:16:49 -0000
+Message-ID: <20050127011649.46826.qmail@withub.org>
+To: sun@ccert.edu.cn
+Subject: =?gb2312?B?ofEgvLHGuHdpbmRvd3PI7bz+v6q3osjL1LE=?=
+From: "tian" <tian@withub.org>
+Date: Thu, 27 Jan 2005 9:16:49 +0800
+X-Priority: 3
+X-Mailer: iGENUS webmail 3.0 beta powered by wuqiong@igenus.org
+X-Originating-IP: [192.168.1.254]
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----0973427521165f310c2805ed7b8ab6fb"
+X-Sohu-Antivirus: 0
+X-UIDL: c`[!!(;B"!:@g"!1F*#!
+
+北京精华九州是一家广播电视系统集成、研发公司。将世界各国广播电视的最新技术和设备引进中国；使其能够打破以前少数厂商在中国的垄断地位，为中国广播电视技术、设备的更新和发展提供更好的选择机会；要做中国广播电视事业发展的催化剂，以加快数字化的进程和高清技术的应用。
+力求结合中国的国情，采用世界集成公司先进技术，提供最佳系统设计、集成方案、精良施工等服务。适应中国独特的高速发展的经济环境，遵照有关的法律和规章，按需求有选择、有目的地向用户推荐、提供性能价格比超群的优质精品。
+由于事业发展的需要，急需补充人才，现需招聘以下人员：公司将提供优厚的待遇。
+联系方式：
+E-mail：jinhua_hr@yahoo.com.cn
+1、2年以上软件开发经验（优秀的毕业生也可，但是不能解决户口问题） 
+2、具备分析和设计能力 
+3、一年以上应用VC＋＋6.0经验 
+4、掌握常用的设计工具 
+5、熟悉多媒体开发者优先 
+工作认真，责任心强，踏实肯干。 
+良好的沟通能力和协作精神，良好的团队协调能力 
+良好的英文读写和交流能力
+

@@ -1,0 +1,50 @@
+Return-Path: <zhuang@iscas.ac.cn>
+Received: from tsinghua.org.cn ([210.77.143.231])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id iBTBFk3r029221
+	for <zheng@ccert.edu.cn>; Wed, 29 Dec 2004 19:15:50 +0800
+Received: (eyou send program); Wed, 29 Dec 2004 19:09:22 +0800
+Received: (eyou send program); Wed, 29 Dec 2004 19:09:21 +0800
+X-EYOU-ORIGINAL-IP: 210.77.143.235
+X-EYOU-ENVELOPE-MAILFROM: jos@iscas.ac.cn
+Received: from unknown (HELO eyou.net) (unknown@210.77.143.235)
+ by 210.77.143.231 with SMTP; Wed, 29 Dec 2004 19:09:21 +0800
+Received: (eyou send program); Wed, 29 Dec 2004 19:23:43 +0800
+Message-ID: <304319423.28971@eyou.net>
+Received: from 166.111.8.16 by 210.77.143.235 with SMTP; Wed, 29 Dec 2004 19:23:43 +0800
+Received: (eyou send program); Wed, 29 Dec 2004 19:24:30 +0800
+Message-ID: <304319470.09882@mails.tsinghua.edu.cn>
+Received: (eyou send program); Wed, 29 Dec 2004 19:24:30 +0800
+Message-ID: <304319470.26807@mails.tsinghua.edu.cn>
+Received: from unknown (HELO mails.tsinghua.edu.cn) (unknown@127.0.0.1)
+ by 127.0.0.1 with SMTP; Wed, 29 Dec 2004 19:24:30 +0800
+X-scanvirus: By Symantec Scan Engine
+X-scanresult: CLEAN
+X-Received: mail.iscas.ac.cn,159.226.5.56,20041229192428
+Received: from mail.iscas.ac.cn (159.226.5.56)
+  by localhost with SMTP; 29 Dec 2004 11:24:28 -0000
+Received: (qmail 8301 invoked by uid 503); 29 Dec 2004 11:21:42 -0000
+Received: from jos@iscas.ac.cn by mail.iscas.ac.cn by uid 0 with qmail-scanner-1.22 %=%=%=%=%(hbedv: 6.24.0.5/6.24.0.29. spamassassin: 2.60-cvs.  Clear:RC:0(159.226.4.93):SA:0(-98.9/9.0):. 
+ Processed in 1.128624 secs); 29 Dec 2004 11:21:42 -0000
+Received: from unknown (HELO fm) (jos@159.226.4.93)
+  by mail.iscas.ac.cn with SMTP; 29 Dec 2004 11:21:41 -0000
+Date: Wed, 29 Dec 2004 19:19:35 +0800
+From: "zhuang" <zhuang@iscas.ac.cn>
+Reply-To: zhuang@iscas.ac.cn
+To: zheng@ccert.edu.cn
+Subject: =?gb2312?B?UmU6ILG70ru49sXz09HU2m1zbsnP1+jWuaOs1eK8uMzszNix8LXDsru/qtDEo6E=?=
+Organization: Journal of Software
+X-mailer: Foxmail 5.0 [cn]
+Mime-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+X-Qmail-Scanner-Message-ID: <11043193026728288@mail.iscas.ac.cn>
+Content-Transfer-Encoding: 8bit
+X-MIME-Autoconverted: from base64 to 8bit by home.ccert.edu.cn id iBTBFk3r029221
+X-UIDL: \<U!!E0k!!S)+!!'=;!!
+
+估计是你抢了她的风头
+或者是你抢了她喜欢的男人的注意
+:     刚才看了前面的一些文章，我也曾经面对成长历程中得那么多不开心的事情。我很高兴，我都可以走过来，越挫越勇，我不会为那些不值得的小事情去耿耿于怀或者不开心。可是我还是要为那些我自己无法面对的事情而伤心。
+:     最近的事情在我看来莫名其妙。被一个以前得还算不错的朋友在msn上阻止了。其实已经大半年了。我这个可怜的小傻瓜居然这几天才发现。以前算是一个小团体中得朋友，其实她和别的朋友一直保持在msn和qq上的联系，我早就发现短信不回，qq不理得事情。一伙得死党都说：你看你，怎么这么敏感，才没有什么呢。你一定要主动跟她联系阿。直到前几天，一个朋友跟她聊天的时候，也跟我说话。然后我发现同样的msn在朋友那里是亮着得，在我这里显示为脱机。我根本就不敢相信。朋友将我们设为集体聊天，她马上就离开。这次是我亲眼看到得。我不想莫: 名其妙的失去朋友。我给他写信电话想问原因，她不再给我任何机会。我真的要嘲笑自己，可怜的小傻瓜，其实早就这样了，是你自己没有留心。
+: ...................
+

@@ -1,0 +1,27 @@
+Return-Path: <zeng@rbl.ccert.edu.cn>
+Received: from rbl.ccert.edu.cn (rbl.ccert.edu.cn [202.112.57.71])
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id i97DqKC0020825
+	for <you@ccert.edu.cn>; Thu, 7 Oct 2004 21:52:20 +0800 (CST)
+Received: from rbl.ccert.edu.cn (localhost.localdomain [127.0.0.1])
+	by rbl.ccert.edu.cn (8.12.11/8.12.11) with ESMTP id i97DwJAX000738
+	for <you@ccert.edu.cn>; Thu, 7 Oct 2004 21:58:20 +0800
+Received: (from qa@localhost)
+	by rbl.ccert.edu.cn (8.12.11/8.12.11/Submit) id i97DwJ2t000737;
+	Thu, 7 Oct 2004 21:58:19 +0800
+Date: Thu, 7 Oct 2004 21:58:19 +0800
+Message-Id: <200410071358.i97DwJ2t000737@rbl.ccert.edu.cn>
+Subject: =?gb2312?B?UmU6IMzh0NG52NeiueLD98WjxMy1xM7KzOI=?=
+To: you@ccert.edu.cn
+From: Tran Quang Anh <zeng@cernet.edu.cn>
+Content-Type: multipart/mixed; boundary="----------=_1097157500-1044-14"
+MIME-Version: 1.0
+X-UIDL: KoX!!Y4j!!*pI"!RbU!!
+
+其实一年前我们有个博导就在上课的时候说了，光明的牛奶据说是每天早上用奶粉在大罐子里兑出来的，当然他说了不保证真实性。
+我有个同学在光明作财务，我问了她，她说不可能。。。
+其实我觉得可能很多牌子掺奶粉的事情是真实的，但是程度不同
+: 这是我在新浪看到的
+: 作为一个酸奶的长期消费者，我对光明的行径深有体会； 2003年以前，三元酸奶4联杯的质量
+: 最好，鲜奶发酵特别好喝；5。6元/4杯 自从光明进来以后，用低成本的还原奶（奶粉冲出来
+: ...................
+

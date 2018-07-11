@@ -1,0 +1,31 @@
+Return-Path: <sun@rbl.ccert.edu.cn>
+Received: from rbl.ccert.edu.cn (rbl.ccert.edu.cn [202.112.57.71])
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id i9D4Pq5D003189
+	for <bi@ccert.edu.cn>; Wed, 13 Oct 2004 12:25:56 +0800 (CST)
+Received: from rbl.ccert.edu.cn (localhost.localdomain [127.0.0.1])
+	by rbl.ccert.edu.cn (8.12.11/8.12.11) with ESMTP id i9D4VLR4017474
+	for <bi@ccert.edu.cn>; Wed, 13 Oct 2004 12:31:21 +0800
+Received: (from qa@localhost)
+	by rbl.ccert.edu.cn (8.12.11/8.12.11/Submit) id i9D4VLjR017473;
+	Wed, 13 Oct 2004 12:31:21 +0800
+Date: Wed, 13 Oct 2004 12:31:21 +0800
+Message-Id: <200410130431.i9D4VLjR017473@rbl.ccert.edu.cn>
+Subject: =?gb2312?B?ofEgs8zQ8tSxvs3Kx8rcxufK07Ch?=
+To: bi@ccert.edu.cn
+From: Tran Quang Anh <sun@cernet.edu.cn>
+Content-Type: multipart/mixed; boundary="----------=_1097641881-20086-12"
+MIME-Version: 1.0
+X-UIDL: iGF!!fFc!!?Nd!!"<9!!
+
+刚刚开完员工大会
+发现程序员就是受歧视啊
+程序员的人数是员工数的1/5以上，受表彰的概率不到整个公司中奖率的一半。
+公司看业绩主要还是看赚了多少錢，谁在里面起了作用。
+这里面大部分情况都不可能知道卖了东西和程序员有什么关系，销售和售前甚至是市场策划都能和公司利润拉上关系，但程序员都没有什么可以说的。
+今天当少数几个程序员收到表彰的时候，介绍中说：xxx发现多少臭虫。
+哄堂大笑。
+对销售来说，他们更本不在乎产品好坏。售后会埋怨产品差，就会埋怨程序员的问题。如果产品好，就更想不起程序员了。
+今天发现公司的销售队伍简直就是售后的3－4倍，想想售后也挺辛苦的。
+但是售后虽然辛苦，好歹也有加班费出差费
+可程序员啥都没有
+

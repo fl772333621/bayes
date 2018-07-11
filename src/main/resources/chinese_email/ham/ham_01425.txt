@@ -1,0 +1,29 @@
+Return-Path: <bai@rbl.ccert.edu.cn>
+Received: from rbl.ccert.edu.cn (rbl.ccert.edu.cn [202.112.57.71])
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id i986SqWL003962
+	for <peng@ccert.edu.cn>; Fri, 8 Oct 2004 14:28:53 +0800 (CST)
+Received: from rbl.ccert.edu.cn (localhost.localdomain [127.0.0.1])
+	by rbl.ccert.edu.cn (8.12.11/8.12.11) with ESMTP id i986YrNW026808
+	for <peng@ccert.edu.cn>; Fri, 8 Oct 2004 14:34:54 +0800
+Received: (from qa@localhost)
+	by rbl.ccert.edu.cn (8.12.11/8.12.11/Submit) id i986YrsF026807;
+	Fri, 8 Oct 2004 14:34:53 +0800
+Date: Fri, 8 Oct 2004 14:34:53 +0800
+Message-Id: <200410080634.i986YrsF026807@rbl.ccert.edu.cn>
+Subject: =?gb2312?B?UmU6ILGxvqnEs9aqw/vN4sbz1dDGuElUuaSzzMqmo6i0+tPRt6LOxKOp?=
+To: peng@ccert.edu.cn
+From: Tran Quang Anh <bai@cernet.edu.cn>
+Content-Type: multipart/mixed; boundary="----------=_1097217294-1044-300"
+MIME-Version: 1.0
+X-UIDL: h(+"!"!="!oXX!!%>X!!
+
+    我朋友昨天告诉我他已经收到了很多份简历，感谢同学们的热情，他就不再一一回信。
+    他看了一些简历也向我做了说明，这一职位不是开发性质的，所以不会有太多的加班，每天朝九晚五是没什么问题的，当然，有一定的开发经验则绝对是个优势。
+    工作性质类似于维护工程师与售前解决方案工程师的结合，主要工作内容负责公司业务系统的网络、硬件和系统的技术支持和规划工作；参与并配合业务扩展项目的需求分析、概要设计、项目管理和后期维护工作；协助IT经理对IT资源的配置、使用和维护进行管理。由于会有一部分业务扩展项目，所以会有机会接触到一些新的IT产品，例如MS Sharepoint Portal Server。 并且由于每天需要面对很多外籍客户，对个人的英文交流能力有一定要求，也会使你锻炼和提高自己的口语水平。这一岗位要求应聘者具备较丰富的IT软、硬件知识，较强的动手能力和故障排除能力。
+    大家有什么问题可以回帖询问或者直接向他发信询问：leonwucs@yahoo.com.cn 
+    近期，他会和部门经理一道对简历进行筛选，预计6月底7月初可以通知面试，请各位有兴趣的同学、朋友做好准备。
+: 北京一知名外企招聘IT工程师，具体要求如下：
+: Role and Responsibilities:
+:    1) Act as the IT Engineer/Technician;
+: ...................
+

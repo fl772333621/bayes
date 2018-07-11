@@ -1,0 +1,62 @@
+Return-Path: <mo@mails.tsinghua.edu.cn>
+Received: from tsinghua.org.cn ([210.77.143.228])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id iAI2Um1x004701
+	for <mo@ccert.edu.cn>; Thu, 18 Nov 2004 10:30:50 +0800
+Received: (eyou send program); Thu, 18 Nov 2004 10:43:18 +0800
+Received: (eyou send program); Thu, 18 Nov 2004 10:43:15 +0800
+X-EYOU-ORIGINAL-IP: 210.77.143.235
+X-EYOU-ENVELOPE-MAILFROM: toefl-bounces@server.cool-meeting.com
+Received: from unknown (HELO eyou.net) (unknown@210.77.143.235)
+ by 210.77.143.228 with SMTP; Thu, 18 Nov 2004 10:43:15 +0800
+Received: (eyou send program); Thu, 18 Nov 2004 10:39:01 +0800
+Message-ID: <300745541.22057@eyou.net>
+Received: from 202.38.99.65 by 210.77.143.235 with SMTP; Thu, 18 Nov 2004 10:38:59 +0800
+Received: from server.cool-meeting.com (localhost.localdomain [127.0.0.1])
+	by server.cool-meeting.com (8.12.8/8.12.8) with ESMTP id iAHFYilZ015027
+	for <mo@ccert.edu.cn>; Wed, 17 Nov 2004 23:35:15 +0800
+Received: from gradinfo.net.edu.cn ([202.112.49.111])
+	by server.cool-meeting.com (8.12.8/8.12.8) with ESMTP id iAHFYZkr015022
+	for <mo@ccert.edu.cn>; Wed, 17 Nov 2004 23:34:36 +0800
+Received: from garfield ([219.224.201.52])
+	by gradinfo.net.edu.cn (8.9.3/8.9.3) with ESMTP id XAA13914;
+	Wed, 17 Nov 2004 23:20:47 +0800
+Message-Id: <200411171520.XAA13914@gradinfo.net.edu.cn>
+From: "mo" <mo@mails.tsinghua.edu.cn>
+To: mo@ccert.edu.cn
+Subject: =?gb2312?B?ofEgw8PDw9Xi0fnK9NPa1f2zo8Lwo78=?=
+Date: Wed, 17 Nov 2004 23:21:38 +0800
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+X-Mailer: Microsoft Office Outlook, Build 11.0.5510
+Thread-Index: AcTMs2ueN2nTY10PSuyplOjPdG55gQABXB8A
+In-Reply-To: <300702445.24670@mails.tsinghua.edu.cn>
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+Content-Transfer-Encoding: 8bit
+X-MIME-Autoconverted: from base64 to 8bit by server.cool-meeting.com id
+	iAHFYZkr015022
+Cc: 
+X-BeenThere: toefl@server.cool-meeting.com
+X-Mailman-Version: 2.1.2
+Precedence: list
+List-Id: &#26446;&#26143;&#21644;&#20182;&#30340;&#23398;&#29983;&#20204;
+	<toefl.server.cool-meeting.com>
+List-Unsubscribe: <http://server.cool-meeting.com/mailman/listinfo/toefl>,
+	<mailto:toefl-request@server.cool-meeting.com?subject=unsubscribe>
+List-Archive: <http://server.cool-meeting.com/mailman/private/toefl>
+List-Post: <mailto:toefl@server.cool-meeting.com>
+List-Help: <mailto:toefl-request@server.cool-meeting.com?subject=help>
+List-Subscribe: <http://server.cool-meeting.com/mailman/listinfo/toefl>,
+	<mailto:toefl-request@server.cool-meeting.com?subject=subscribe>
+Sender: toefl-bounces@server.cool-meeting.com
+Errors-To: toefl-bounces@server.cool-meeting.com
+X-UIDL: 'n>!!G-0!!]\*"!)Hi"!
+
+经常莫名其妙的郁闷，说一些伤人的话，感觉对生活非常的厌倦，令我也感到非常
+的郁闷，但实在又不知道该怎么办，每次好不容易哄好了过两天又是那样。
+妹妹很内向，但还是很优秀的，尤其是学习方面什么的，特别爱面子，比较敏感，
+想法特别多。但是爱我是不容置疑的。
+好几次我都想好好跟她吵一架，跟她分开一段时间，但怕妹妹受不了，出什么意外
+。
+请有经验的同仁们分析一下，给个主意，万分感谢！！！！！！
+

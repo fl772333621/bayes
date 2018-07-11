@@ -1,0 +1,41 @@
+Return-Path: <lai@tsinghua.edu.cn>
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id iAA6caJC029375
+	for <mo@ccert.edu.cn>; Wed, 10 Nov 2004 14:38:36 +0800 (CST)
+Received: (eyou send program); Wed, 10 Nov 2004 14:23:48 +0800
+Message-ID: <300067827.26464@mail.tsinghua.edu.cn>
+Received: from unknown (HELO mail.tsinghua.edu.cn) (unknown@127.0.0.1)
+ by 127.0.0.1 with SMTP; Wed, 10 Nov 2004 14:23:48 +0800
+X-scanvirus: By Symantec Scan Engine
+X-scanresult: NOREP
+Received: (eqmail ); 10 Nov 2004 06:23:45 -0000
+Received: from unknown (HELO sony) (duanhx@166.111.204.105)
+  by localhost with SMTP; 10 Nov 2004 06:23:45 -0000
+Message-ID: <01a601c4c6ef$e3a6f670$c60370ca@sony>
+From: "lai" <lai@tsinghua.edu.cn>
+To: mo@ccert.edu.cn
+Subject: =?gb2312?B?UmU6ILbB0dC687Xa0ru0ztXSuaTX98qnsNyjqMzlvOy5/bnYuvOxu8Sz0Km52M+1tqXBy6OpuvO1
+xLc=?=
+Date: Wed, 10 Nov 2004 14:38:27 +0800
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2900.2180
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+Content-Transfer-Encoding: 8bit
+X-MIME-Autoconverted: from base64 to 8bit by sea.net.edu.cn id iAA6caJC029375
+X-UIDL: [6["!-(I"!b2G"!W~,"!
+
+有些问题没有必要深究
+在外界压力已经很大的情况下没必要再自己给自己加压
+用一堆堆灰色的形容词来描绘着自己的过去是没有必要的
+关键的是，今天应该做些什么？如果真有欠缺，应该
+如何去弥补？
+不敢奢望每天都有奇迹，只要每天都有收获就成了。
+: 夏天越来越近了，去年的这个季节在郁闷中渡过，上天总是把我安排这一个个尴尬的旋涡里，从小到而立之年，有N个夏天在混沌中渡过，难道这就是我的命运安排吗？
+: 命运由性格来决定，是不是该再次反省自己到底是何种性格，该做何种道路的规划呢，是不是幼稚的想法太多呢，是不是没有真正看清自己的处境呢……一连串的问题在我脑海里盘绕，路在何方？
+: 想想那些急功尽力的指导原则下，囫囵吞枣地读书，结果是一无所获，留下下一次失败的隐患，想起那些取得一点成绩后的沾沾自喜，心里有很多懊悔，难道年轻的生命就要在这些“软货币”似的投入中消耗吗？
+: ...................
+

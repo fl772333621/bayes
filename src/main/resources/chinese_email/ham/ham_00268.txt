@@ -1,0 +1,37 @@
+Return-Path: <ren@tsinghua.edu.cn>
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id iBL2PWNJ029599
+	for <he@ccert.edu.cn>; Tue, 21 Dec 2004 10:25:32 +0800 (CST)
+Received: (eyou send program); Tue, 21 Dec 2004 10:10:02 +0800
+Message-ID: <303595001.00923@mail.tsinghua.edu.cn>
+Received: from unknown (HELO mail.tsinghua.edu.cn) (unknown@127.0.0.1)
+ by 127.0.0.1 with SMTP; Tue, 21 Dec 2004 10:10:02 +0800
+X-scanvirus: By Symantec Scan Engine
+X-scanresult: CLEAN
+Received: (eqmail ); 21 Dec 2004 02:09:57 -0000
+Received: from unknown (HELO sony) (duanhx@166.111.204.187)
+  by localhost with SMTP; 21 Dec 2004 02:09:57 -0000
+Message-ID: <005a01c4e704$4c922c70$bbcc6fa6@sony>
+From: "ren" <ren@tsinghua.edu.cn>
+To: he@ccert.edu.cn
+Subject: =?gb2312?B?UmU6IMjD19SxsCC6ptDfIL301cUgtajH0yDT787ewte0ziDNs82zvPu57cilsMk=?=
+Date: Tue, 21 Dec 2004 10:25:01 +0800
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2900.2180
+X-MIMEOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+Content-Transfer-Encoding: 8bit
+X-MIME-Autoconverted: from base64 to 8bit by sea.net.edu.cn id iBL2PWNJ029599
+X-UIDL: JjB"!h&j!!$E5"!=j&"!
+
+多与人交流，多参加一些朋友之间的聚会
+应该慢慢就好了
+一个人闷想，会越来越钻牛角尖，本来没什么问题反倒真成了问题了
+: 我，还算优秀。
+: 至少英语说的还流利，至少歌唱的还好，至少会打篮球，至少不算难看，至少还有男生追~~我说这些不是为了炫耀自夸不是为了说明我是多么tmd了不起，我只是自我安慰一下告诉我自己我凭什么要紧张！！！
+: 我上学期的时候都还是一个非常大方自然的女孩。所有的事情都是在这个学期发生的。
+: ...................
+

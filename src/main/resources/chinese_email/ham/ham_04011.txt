@@ -1,0 +1,30 @@
+Return-Path: <jiang@rbl.ccert.edu.cn>
+Received: from rbl.ccert.edu.cn (rbl.ccert.edu.cn [202.112.57.71])
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id i96ARoVn002817
+	for <guo@ccert.edu.cn>; Wed, 6 Oct 2004 18:27:51 +0800 (CST)
+Received: from rbl.ccert.edu.cn (localhost.localdomain [127.0.0.1])
+	by rbl.ccert.edu.cn (8.12.11/8.12.11) with ESMTP id i96AXkrb026489
+	for <guo@ccert.edu.cn>; Wed, 6 Oct 2004 18:33:47 +0800
+Received: (from qa@localhost)
+	by rbl.ccert.edu.cn (8.12.11/8.12.11/Submit) id i96AXkCb026488;
+	Wed, 6 Oct 2004 18:33:46 +0800
+Date: Wed, 6 Oct 2004 18:33:46 +0800
+Message-Id: <200410061033.i96AXkCb026488@rbl.ccert.edu.cn>
+Subject: =?gb2312?B?UmU6ILG+1tzI1aOsuLjH173aoaPG5Mq1sNaw1tKyutzOsLTzxbahq6Groauhqw==?=
+To: guo@ccert.edu.cn
+From: Tran Quang Anh <jiang@cernet.edu.cn>
+Content-Type: multipart/mixed; boundary="----------=_1097058827-996-574"
+MIME-Version: 1.0
+X-UIDL: (V~!!T',"!oQK"!\^T!!
+
+: 如果是台湾mm的话可以理解...
+: 香港mm就更不用说咧...
+: 大陆mm...酱紫有点西化:P
+  洋化的讲法是"爹地、妈咪"吧，呵呵
+  不过我个人很不习惯这样的称呼，怪别扭的
+  尤其听一些3、40岁的人还这样喊，我就要起鸡皮疙瘩了
+  在台湾的BBS，尤其是家板，常常听到这种叫法
+  都2、30岁的成年人了，还这样叫，真是@#$%^&amp;*()_+!~，感觉很不自然
+  对了，顺道问一下，大陆的父亲节是什么时候呢？
+  我们这里是在8月8日，又称八八节...:)
+

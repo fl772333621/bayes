@@ -1,0 +1,35 @@
+Return-Path: <gao@rbl.ccert.edu.cn>
+Received: from rbl.ccert.edu.cn (rbl.ccert.edu.cn [202.112.57.71])
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id i96ARnR0002814
+	for <tian@ccert.edu.cn>; Wed, 6 Oct 2004 18:27:49 +0800 (CST)
+Received: from rbl.ccert.edu.cn (localhost.localdomain [127.0.0.1])
+	by rbl.ccert.edu.cn (8.12.11/8.12.11) with ESMTP id i96AXjgj026419
+	for <tian@ccert.edu.cn>; Wed, 6 Oct 2004 18:33:45 +0800
+Received: (from qa@localhost)
+	by rbl.ccert.edu.cn (8.12.11/8.12.11/Submit) id i96AXjGC026418;
+	Wed, 6 Oct 2004 18:33:45 +0800
+Date: Wed, 6 Oct 2004 18:33:45 +0800
+Message-Id: <200410061033.i96AXjGC026418@rbl.ccert.edu.cn>
+Subject: =?gb2312?B?ofEgyre/y83+tvuwrMThv8vLuaOo1tC5+qOp1dDGuLmrubK52M+116jUsQ==?=
+To: tian@ccert.edu.cn
+From: Tran Quang Anh <gao@cernet.edu.cn>
+Content-Type: multipart/mixed; boundary="----------=_1097058825-996-568"
+MIME-Version: 1.0
+X-UIDL: ~J*"!>0e"!e/*!!Im\"!
+
+史克威尔艾尼克斯（中国）互动科技有限公司为世界第四大游戏公司
+SQUARE ENIX在华的独资子公司。
+目前为开展业务，特招聘公共关系专员一名。
+[职位描述]
+1、协助制订公司各类公关政策 
+2、完善公司内部各类信息资料 
+3、协助发布公司各类对外信息 
+职位要求： 
+1、有一年或以上相关工作经验 
+2、有良好的文字功底与写作能力 
+3、有良好的沟通能力与团队合作能力 
+4、良好的英语及日语听说读写能力。
+有意者请将个人简历mailto:
+nathan@square-enix.net.cn
+在邮件标题处请注明：应聘公共关系专员字样。谢谢。
+

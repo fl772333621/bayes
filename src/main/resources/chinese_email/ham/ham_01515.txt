@@ -1,0 +1,27 @@
+Return-Path: <cai@rbl.ccert.edu.cn>
+Received: from rbl.ccert.edu.cn (rbl.ccert.edu.cn [202.112.57.71])
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id i96AOkQ3002753
+	for <mo@ccert.edu.cn>; Wed, 6 Oct 2004 18:24:46 +0800 (CST)
+Received: from rbl.ccert.edu.cn (localhost.localdomain [127.0.0.1])
+	by rbl.ccert.edu.cn (8.12.11/8.12.11) with ESMTP id i96AUgDk021551
+	for <mo@ccert.edu.cn>; Wed, 6 Oct 2004 18:30:42 +0800
+Received: (from qa@localhost)
+	by rbl.ccert.edu.cn (8.12.11/8.12.11/Submit) id i96AUgKb021550;
+	Wed, 6 Oct 2004 18:30:42 +0800
+Date: Wed, 6 Oct 2004 18:30:42 +0800
+Message-Id: <200410061030.i96AUgKb021550@rbl.ccert.edu.cn>
+Subject: =?gb2312?B?ofEgyMvSqrbU19S8urXE0NK4o7i61PA=?=
+To: mo@ccert.edu.cn
+From: Tran Quang Anh <cai@cernet.edu.cn>
+Content-Type: multipart/mixed; boundary="----------=_1097058642-996-544"
+MIME-Version: 1.0
+X-UIDL: fY"#!~h>!!I#)"!?fb!!
+
+    经常看到现代陈世美的故事,每次仍然会有痛心的感觉.人生是很漫长的过程,但有时小小的一个瞬间就能决定未来的命运.
+    作为一个成年人,每个人都有自己的判别能力,也都应该有保护自己的意识,尤其是在婚姻这种大事上,尤其是女人.
+    任何悲剧在发生之前都有或多或少的征兆,任何伪君子在露出真面目之前也都会露些许的马脚.
+    关键在于你如何去把握,如何去选择,有没有理智的去对待,还是任由情感的冲动控制自己的决定.
+    谁都不要为了除了自己父母以外的人放弃个人发展的机会,幸福的生活可遇不可求,个人事业上的成就却可以通过长期的拼搏努力获得.
+    人生一定要有所附丽,生活也要有基本的保证.爱情虽然美好,但.................
+    希望每个女孩子在选择前三思.
+

@@ -1,0 +1,57 @@
+Return-Path: <liao@compass.net.edu.cn>
+Received: from tsinghua.org.cn ([210.77.143.228])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id i9Q7Or2Z007810
+	for <cheng@ccert.edu.cn>; Tue, 26 Oct 2004 15:25:05 +0800
+Received: (eyou send program); Tue, 26 Oct 2004 15:35:15 +0800
+Received: (eyou send program); Tue, 26 Oct 2004 15:35:15 +0800
+X-EYOU-ORIGINAL-IP: 210.77.143.235
+X-EYOU-ENVELOPE-MAILFROM: toefl-bounces@server.cool-meeting.com
+Received: from unknown (HELO eyou.net) (unknown@210.77.143.235)
+ by 210.77.143.228 with SMTP; Tue, 26 Oct 2004 15:35:15 +0800
+Received: (eyou send program); Tue, 26 Oct 2004 15:32:04 +0800
+Message-ID: <298775924.11062@eyou.net>
+Received: from 202.38.99.65 by 210.77.143.235 with SMTP; Tue, 26 Oct 2004 15:31:54 +0800
+Received: from server.cool-meeting.com (localhost.localdomain [127.0.0.1])
+	by server.cool-meeting.com (8.12.8/8.12.8) with ESMTP id i9Q7iDlj005619
+	for <cheng@ccert.edu.cn>; Tue, 26 Oct 2004 15:44:43 +0800
+Received: from compass.net.edu.cn (compass.net.edu.cn [202.112.0.90])
+	by server.cool-meeting.com (8.12.8/8.12.8) with ESMTP id i9Q7i5kr005615
+	for <cheng@ccert.edu.cn>; Tue, 26 Oct 2004 15:44:05 +0800
+Received: from [210.25.128.113] ([210.25.128.113])
+	by compass.net.edu.cn (8.9.2/8.9.2) with ESMTP id PAA25547
+	for <cheng@ccert.edu.cn>;
+	Tue, 26 Oct 2004 15:37:01 +0800 (CST)
+Message-ID: <417DFD71.30602@compass.net.edu.cn>
+Date: Tue, 26 Oct 2004 15:32:01 +0800
+From: Shaozhi Ye <liao@compass.net.edu.cn>
+User-Agent: Mozilla Thunderbird 0.8 (Windows/20040913)
+X-Accept-Language: en-us, en
+MIME-Version: 1.0
+To: cheng@ccert.edu.cn
+Content-Type: multipart/mixed; boundary="------------090602070608080606050207"
+Cc: 
+Subject: [TOEFL] [Fwd: =?gb2312?b?x+vM7tC0sc/Stcnqx+ux7bjxXQ==?=
+X-BeenThere: toefl@server.cool-meeting.com
+X-Mailman-Version: 2.1.2
+Precedence: list
+List-Id: &#26446;&#26143;&#21644;&#20182;&#30340;&#23398;&#29983;&#20204;
+	<toefl.server.cool-meeting.com>
+List-Unsubscribe: <http://server.cool-meeting.com/mailman/listinfo/toefl>,
+	<mailto:toefl-request@server.cool-meeting.com?subject=unsubscribe>
+List-Archive: <http://server.cool-meeting.com/mailman/private/toefl>
+List-Post: <mailto:toefl@server.cool-meeting.com>
+List-Help: <mailto:toefl-request@server.cool-meeting.com?subject=help>
+List-Subscribe: <http://server.cool-meeting.com/mailman/listinfo/toefl>,
+	<mailto:toefl-request@server.cool-meeting.com?subject=subscribe>
+Sender: toefl-bounces@server.cool-meeting.com
+Errors-To: toefl-bounces@server.cool-meeting.com
+X-UIDL: 7cb"!mLV"!"H@"!Sb8!!
+
+咔咔。。。又除草啊。。。四体还是勤快的 不错 赞一个。。。
+节气过了没？那些蔬菜可不可以再种一次呢？
+yongmei前天还让我种西红柿来着。。可惜我的天井四水泥墙~~&gt;&lt;~~
+: 冬天快到了，天气变凉了，花园里的草长慢了，更适应恶劣气候的杂草出现了...
+: 为此弄了一瓶除草剂，就是选择性专杀扁叶草(flat leaves)而对构成草坪的草没有杀灭作用。还搞了一个10Ltr的喷雾装置，就像农民伯伯杀害虫的那种，一个手往里压空气，一个手拿着喷管喷啊喷。
+: 若干天后，和老婆一起视察效果。
+: ...................
+

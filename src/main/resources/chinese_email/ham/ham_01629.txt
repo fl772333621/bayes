@@ -1,0 +1,30 @@
+Return-Path: <xia@rbl.ccert.edu.cn>
+Received: from rbl.ccert.edu.cn (rbl.ccert.edu.cn [202.112.57.71])
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id i9B7FL3k000990
+	for <tang@ccert.edu.cn>; Mon, 11 Oct 2004 15:15:21 +0800 (CST)
+Received: from rbl.ccert.edu.cn (localhost.localdomain [127.0.0.1])
+	by rbl.ccert.edu.cn (8.12.11/8.12.11) with ESMTP id i9B7KdVh000450
+	for <tang@ccert.edu.cn>; Mon, 11 Oct 2004 15:20:40 +0800
+Received: (from qa@localhost)
+	by rbl.ccert.edu.cn (8.12.11/8.12.11/Submit) id i9B7KdP6000449;
+	Mon, 11 Oct 2004 15:20:39 +0800
+Date: Mon, 11 Oct 2004 15:20:39 +0800
+Message-Id: <200410110720.i9B7KdP6000449@rbl.ccert.edu.cn>
+Subject: =?gb2312?B?UmU6IMvkyLvT0LrctuDKwsfp0qrX9qOstavKx7rc1Oe+zcDbwcs=?=
+To: tang@ccert.edu.cn
+From: Tran Quang Anh <xia@cernet.edu.cn>
+Content-Type: multipart/mixed; boundary="----------=_1097479240-1014-104"
+MIME-Version: 1.0
+X-UIDL: p2N!!\W*"!8'\"!fc-!!
+
+ 太好啦^_^，等我开始在家休息了估计也得六个月之后了，如果不是非常明显还能
+ 坚持到7个月，估计是挺不过7个月了，那个时候我就可以一点一点准备了，憧憬ing
+ 现在觉得比原来对家的依赖更强了，原来在学校住着想回家就回家，忙了可能隔几天
+ 就回家，现在每天就盼着回家的那天，到了那天下午什么也做不下去，熬到时间就
+ 快点走了......
+ 
+: patpat
+: 快了，四个月以后小东西就长稳当了，该干嘛干嘛，
+: 别做重体力活别把自己捣腾得累得过分就行~
+: ...................
+

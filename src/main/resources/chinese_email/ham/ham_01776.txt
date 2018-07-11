@@ -1,0 +1,36 @@
+Return-Path: <zheng@mails.tsinghua.edu.cn>
+Received: from tsinghua.org.cn ([210.77.143.231])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id iB44IHOJ014943
+	for <ni@ccert.edu.cn>; Sat, 4 Dec 2004 12:18:19 +0800
+Received: (eyou send program); Sat, 04 Dec 2004 12:11:28 +0800
+Received: (eyou send program); Sat, 04 Dec 2004 12:11:27 +0800
+X-EYOU-ORIGINAL-IP: 210.77.143.235
+X-EYOU-ENVELOPE-MAILFROM: webmaster@mails.tsinghua.edu.cn
+Received: from unknown (HELO eyou.net) (unknown@210.77.143.235)
+ by 210.77.143.231 with SMTP; Sat, 04 Dec 2004 12:11:27 +0800
+Received: (eyou send program); Sat, 04 Dec 2004 12:26:29 +0800
+Message-ID: <302134389.08368@eyou.net>
+Received: from 166.111.8.16 by 210.77.143.235 with SMTP; Sat, 04 Dec 2004 12:26:28 +0800
+Received: (eyou send program); Sat, 04 Dec 2004 12:26:09 +0800
+Message-ID: <302134368.27586@mails.tsinghua.edu.cn>
+Received: (eyou send program); Sat, 04 Dec 2004 12:26:02 +0800
+Message-ID: <302134362.27439@mails.tsinghua.edu.cn>
+Date: Sat, 04 Dec 2004 12:08:31 +0800
+From: zheng@mails.tsinghua.edu.cn
+Reply-To: zheng@mails.tsinghua.edu.cn
+Subject: =?gb2312?B?UmU6IMjV19PSu8zs0rvM7Ln9?=
+CC: 
+Content-Type: multipart/mixed; boundary="----------=_1102133900-10199-652"
+MIME-Version: 1.0
+X-UIDL: $%a!!f_<!!PdM"!ok6!!
+
+    其实你这样的经历我的阿姨一家也有相同的经历，或许还要悲惨！
+    2003年的某一天，我姨父骑自行车上街买菜，绿灯亮后，在过马路中被一辆闯红灯的车撞到，一条腿骨折，到现在钢板还在里面，从此成了瘸子！
+    2004年4月20日晚上9点，我姨父的儿子也就是我的表弟骑摩托车被后面一辆车刮倒，当场昏迷，成为了植物人，送去医院治疗，历时3月，花费20万医疗费，到2004年7月20日还是离开人世！可叹的是到现在还不知道被什么车给刮倒的！因为没有一个目击证人！
+    现在我姨父他们每天都是以泪洗面，家里就这么一个唯一的儿子，刚在派出所上班！生活刚有希望，却遭受一次次的打击！负债20万，不知道他们该如何面对，比较幸运的是20万中有15万是我的另一个姨妈和我家承担的！这个基本上是不要了！
+    每当想起他们的一家，我总是忍不住流泪！
+: 家里的烦心事本来不想说，刚才哥哥的一个电话勾起了我的回忆。
+: 我家是大庆的，在2003年5月份之前一直都挺美满的，爸爸在一家私企当总经理，妈妈退休在家、哥哥在健力宝当一个部门的小负责人，我刚考上哈工大的研究生，也算是小康之家。
+: 可是5月17号的一场车祸把一切都改变了，爸爸昏迷了两个月之后睁开了眼睛。这时候家里为了给他治病已经花了十几万。爸爸的后期治疗一直持续到现在，这期间转院、开颅、复查、康复都是我和妈妈坚持着，没有伺候过病人的人是不能理解这种艰辛的，我也不想回忆这些事情了。
+: ...................
+

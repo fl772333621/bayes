@@ -1,0 +1,34 @@
+Return-Path: <zhong@cacs.gov.cn>
+Received: from tsinghua.org.cn ([210.77.143.228])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id i95GbvVg029851
+	for <cen@ccert.edu.cn>; Wed, 6 Oct 2004 00:38:03 +0800
+Date: Wed, 6 Oct 2004 00:37:57 +0800
+Received: (eyou send program); Wed, 06 Oct 2004 00:48:31 +0800
+Received: (eyou send program); Wed, 06 Oct 2004 00:47:30 +0800
+X-EYOU-ORIGINAL-IP: 200.47.79.38
+X-EYOU-ENVELOPE-MAILFROM: zheng954cuib@cacs.gov.cn
+Received: from unknown (HELO tzo-ppal.empresas-yv.com) (unknown@200.47.79.38)
+ by 210.77.143.228 with SMTP; Wed, 06 Oct 2004 00:47:30 +0800
+Received: from cacs.gov.cn ([218.165.110.20]) by tzo-ppal.empresas-yv.com  with Microsoft SMTPSVC(5.5.1877.197.19);
+	 Tue, 5 Oct 2004 02:52:07 -0400
+Received: from unknown (HELO science.net [210.196.74.21])
+          by cacs.gov.cn with SMTP;
+          Tue, 05 Oct 2004 06:39:01 GMT
+Message-Id: <1096958415-@science.net>
+From: "zhong" <zhong@cacs.gov.cn>
+To: cen@ccert.edu.cn
+Subject: =?gb2312?B?UmU6INDEwO+7sCE=?=
+Sender: zheng.lib
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="----=_NextPart_000_000B_01C4AA53.91190500"
+X-UIDL: +h7"!bAC"!d&G!!g]#"!
+
+你的意思是想没有风险的进清华
+没有风险就要奉贤
+参见13483
+: 本人是2006年将要考研的学生,从大学开始对清华就有了很深刻的接触,一直想利用考研这个机会圆自己的一个清华梦,但是对于自己水平的犹豫一直困扰着我.
+: 如果全身心投入到复习中去,应该能有一个不错的成绩,但是清华是国内数一数二的名牌大学,高手云集,如果考不进去,自己的研究生梦想也可能随即破灭.
+: 如果报一个层次相对较低的学校,把握无疑会比较大,但是心里一想起清华的种种自己又会十分不甘心,我该怎么办呢?
+: ...................
+

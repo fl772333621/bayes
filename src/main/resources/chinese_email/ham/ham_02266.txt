@@ -1,0 +1,60 @@
+Return-Path: <jian@sina.com>
+Received: from tsinghua.org.cn ([210.77.143.231])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id j0QGPx5D011379
+	for <tao@ccert.edu.cn>; Thu, 27 Jan 2005 00:25:59 +0800
+Received: (eyou send program); Thu, 27 Jan 2005 00:16:45 +0800
+Received: (eyou send program); Thu, 27 Jan 2005 00:16:45 +0800
+X-EYOU-ORIGINAL-IP: 210.77.143.235
+X-EYOU-ENVELOPE-MAILFROM: cheriff@sina.com
+Received: from unknown (HELO eyou.net) (unknown@210.77.143.235)
+ by 210.77.143.231 with SMTP; Thu, 27 Jan 2005 00:16:45 +0800
+Received: (eyou send program); Thu, 27 Jan 2005 00:30:23 +0800
+Message-ID: <306757023.14758@eyou.net>
+Received: from 202.106.187.156 by 210.77.143.235 with SMTP; Thu, 27 Jan 2005 00:30:23 +0800
+Received: (qmail 20038 invoked from network); 26 Jan 2005 16:37:48 -0000
+Received: from unknown (HELO ?219.224.134.126?) (219.224.134.126)
+  by 202.106.187.156 with SMTP; 26 Jan 2005 16:37:48 -0000
+Received: from(cheriff@sina.com) to(chenguangying@tsinghua.org.cn)
+Subject: =?gb2312?B?UmU6IM/ryM/KttK7uPbI58/CzPW8/rXExfPT0aOh?=
+From: chenff <jian@sina.com>
+To: tao@ccert.edu.cn
+In-Reply-To: <002a01c50287$3d98c5f0$5902510a@CCERTDAWEI>
+References: <002a01c50287$3d98c5f0$5902510a@CCERTDAWEI>
+Content-Type: text/plain; charset=GB18030
+Organization: 
+Message-Id: <1106757046.4413.30.camel@localhost.localdomain>
+Mime-Version: 1.0
+X-Mailer: Ximian Evolution 1.2.2 (1.2.2-4) 
+Date: 27 Jan 2005 00:30:47 +0800
+Content-Transfer-Encoding: 8bit
+X-UIDL: ?kD"!$nY!!0m~"!QN*"!
+
+这样的男生我都喜欢。
+性别男
+脸型：本垒型（注：颧骨到下巴的线条十分明显）
+城市家庭生活背景
+家庭条件优越（即不用为生计发愁）
+但非纨绔子弟花花公子
+家庭幸福，父母感情好知书达理
+个人有追求有爱好（金钱的追求除外）
+身体康健
+性格温和
+忌唧唧歪歪小肚鸡肠脾气暴躁骄傲自大
+仪表干净整洁
+如果你是在校学生
+最好不是成绩拔尖的学生
+中等即可，但不能太差
+如果你已经工作了
+从事的工作最好不是压力很大的
+有一定的空余时间
+从事的行业不限
+星座不限，但来信请注明
+身高不限，只要不是太矮和太高
+年龄不限，但要求未婚
+如果碰巧你符合上述条件，
+偶然间看到了这个帖子
+并想知道一些我的情况
+请给我回信。站内信箱即可。
+最好详细说明一下你个人的情况，有照片更好
+注明：是征普通朋友！
+

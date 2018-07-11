@@ -1,0 +1,29 @@
+Return-Path: <kong@cernet.edu.cn>
+Received: from ocean.net.edu.cn (ocean.net.edu.cn [202.112.0.56])
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id i916Jccb002853
+	for <che@ccert.edu.cn>; Fri, 1 Oct 2004 14:19:38 +0800 (CST)
+Received: from cernet.edu.cn (ocean.net.edu.cn [202.112.0.56])
+	by ocean.net.edu.cn  with ESMTP id i916JZCN004030
+	for <che@ccert.edu.cn>; Fri, 1 Oct 2004 14:19:37 +0800 (CST)
+Message-ID: <415CF6F7.9173C8CC@cernet.edu.cn>
+Date: Fri, 01 Oct 2004 14:19:35 +0800
+From: Xing Li <kong@cernet.edu.cn>
+Organization: CERNET Center
+X-Mailer: Mozilla 4.04 [en] (WinNT; I)
+MIME-Version: 1.0
+To: che@ccert.edu.cn
+Subject: [SPAM-TEST] Re: 谢谢李老师的推荐，祝您国庆节快乐
+References: <001801c4a76b$c49820e0$d903510a@CCERTDAWEI>
+Content-Type: text/plain; charset=gb2312
+Content-Transfer-Encoding: 8bit
+X-UIDL: ^m-!!*<$"!*^;"!RG)"!
+
+作机械，中国太缺乏高精尖的机械设计和制造人才了。
+何况战事一起，作软件的帮不上什么忙。
+当然了，就想多赚钱钱，安稳一点，就去做软件呗。
+搞计算机的女生生男孩的比例还高。
+: 俺是MM，本科学的机械，现在读研主要做软件了，当然是做机械领域的软件，一直对以
+: 后的职业去向没有一个很好的想法。要是做机械，一个是现在对机械都生疏了，再一个
+: 应该待遇不会太高，做软件的话，总感觉自己太嫩，毕竟只有两年多的开发经历，并且
+: ...................
+

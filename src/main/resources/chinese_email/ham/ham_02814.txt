@@ -1,0 +1,63 @@
+Return-Path: <peng@ns.6test.edu.cn>
+Received: from tsinghua.org.cn ([210.77.143.228])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id iAO0uclE013944
+	for <mei@ccert.edu.cn>; Wed, 24 Nov 2004 08:56:39 +0800
+Received: (eyou send program); Wed, 24 Nov 2004 09:09:21 +0800
+Received: (eyou send program); Wed, 24 Nov 2004 09:09:21 +0800
+X-EYOU-ORIGINAL-IP: 210.77.143.235
+X-EYOU-ENVELOPE-MAILFROM: toefl-bounces@server.cool-meeting.com
+Received: from unknown (HELO eyou.net) (unknown@210.77.143.235)
+ by 210.77.143.228 with SMTP; Wed, 24 Nov 2004 09:09:21 +0800
+Received: (eyou send program); Wed, 24 Nov 2004 09:04:49 +0800
+Message-ID: <301258289.25638@eyou.net>
+Received: from 202.38.99.65 by 210.77.143.235 with SMTP; Wed, 24 Nov 2004 09:04:48 +0800
+Received: from server.cool-meeting.com (localhost.localdomain [127.0.0.1])
+	by server.cool-meeting.com (8.12.8/8.12.8) with ESMTP id iAO1O8li027269
+	for <mei@ccert.edu.cn>; Wed, 24 Nov 2004 09:24:14 +0800
+Received: from ns.6test.edu.cn ([202.38.99.18])
+	by server.cool-meeting.com (8.12.8/8.12.8) with ESMTP id iAO1O2kr027265
+	for <mei@ccert.edu.cn>; Wed, 24 Nov 2004 09:24:02 +0800
+Received: from [202.112.3.118] (helo=IBM-E4AA49AF703)
+	by ns.6test.edu.cn with asmtp (Exim 4.12) id 1CWlzN-000HxZ-00
+	for Toefl@server.cool-meeting.com; Wed, 24 Nov 2004 09:30:33 +0800
+From: "peng" <peng@ns.6test.edu.cn>
+To: mei@ccert.edu.cn
+X-mailer: Foxmail 4.2 [cn]
+Mime-Version: 1.0
+Content-Type: text/plain;
+      charset="GB2312"
+Date: Wed, 24 Nov 2004 9:9:4 +0800
+Message-Id: <E1CWlzN-000HxZ-00@ns.6test.edu.cn>
+Content-Transfer-Encoding: 8bit
+X-MIME-Autoconverted: from quoted-printable to 8bit by server.cool-meeting.com
+	id iAO1O2kr027265
+Cc: 
+Subject: =?gb2312?B?UmU6IKG2t8XFo7DgtcS0uszsobehqqGq1dK72LzytaW1xL/swNZ6eg==?=
+X-BeenThere: toefl@server.cool-meeting.com
+X-Mailman-Version: 2.1.2
+Precedence: list
+List-Id: &#26446;&#26143;&#21644;&#20182;&#30340;&#23398;&#29983;&#20204;
+	<toefl.server.cool-meeting.com>
+List-Unsubscribe: <http://server.cool-meeting.com/mailman/listinfo/toefl>,
+	<mailto:toefl-request@server.cool-meeting.com?subject=unsubscribe>
+List-Archive: <http://server.cool-meeting.com/mailman/private/toefl>
+List-Post: <mailto:toefl@server.cool-meeting.com>
+List-Help: <mailto:toefl-request@server.cool-meeting.com?subject=help>
+List-Subscribe: <http://server.cool-meeting.com/mailman/listinfo/toefl>,
+	<mailto:toefl-request@server.cool-meeting.com?subject=subscribe>
+Sender: toefl-bounces@server.cool-meeting.com
+Errors-To: toefl-bounces@server.cool-meeting.com
+X-UIDL: iU5"!SoU"!8:_"!J3E"!
+
+re! 
+孩子是最好的演员!
+音乐也非常棒!
+尤其那首"黑夜",
+随着高音渐起,
+你能感受到那种力量在冲破黑暗,
+直抵灵魂的最深处!
+: 　　《放牛班的春天》——这部去年票房达到4000万欧元的法国电影，已被法国政府选送参加本年度的奥斯卡最佳外语片竞争，在若干题材沉重的电影中，这部影片轻松的风格一定会引起评委的关注，入围的可能性很高，但最后能否获奖还是未知数。
+: 　　不管能不能在奥斯卡有所斩获，它都足以成为中国电影人的生动教材：在好莱坞大投入大制作的反复围剿之下，这样一部没有大明星加盟，没有凶杀悬疑，也没有电脑特效的影片，仅仅讲述了一个关于师生关系的简单故事，为什么就能吸引850万法国观众？在人口只有7000万的法�
+: 　　这部影片叙述的节奏简单而明快。片子开头皮埃尔因为母亲的葬礼赶回家乡，幼时的伙伴上门探访，直接便引出了本片的主人公——马修老师，这一段叙述只有短短的四分半钟。观众很快就跟着皮埃尔的回忆进入了情节。
+: ...................
+

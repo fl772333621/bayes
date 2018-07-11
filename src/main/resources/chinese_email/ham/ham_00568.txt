@@ -1,0 +1,31 @@
+Return-Path: <lai@rbl.ccert.edu.cn>
+Received: from rbl.ccert.edu.cn (rbl.ccert.edu.cn [202.112.57.71])
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id i9839bXd000709
+	for <fu@ccert.edu.cn>; Fri, 8 Oct 2004 11:09:37 +0800 (CST)
+Received: from rbl.ccert.edu.cn (localhost.localdomain [127.0.0.1])
+	by rbl.ccert.edu.cn (8.12.11/8.12.11) with ESMTP id i983FZSr020024
+	for <fu@ccert.edu.cn>; Fri, 8 Oct 2004 11:15:38 +0800
+Received: (from qa@localhost)
+	by rbl.ccert.edu.cn (8.12.11/8.12.11/Submit) id i983FZuX020023;
+	Fri, 8 Oct 2004 11:15:35 +0800
+Date: Fri, 8 Oct 2004 11:15:35 +0800
+Message-Id: <200410080315.i983FZuX020023@rbl.ccert.edu.cn>
+Subject: =?gb2312?B?ofEgs8/GuC5uZXTXysnuyMvKv9f2Yi9zz+7Ev6Ossr+31mMvcw==?=
+To: fu@ccert.edu.cn
+From: Tran Quang Anh <lai@cernet.edu.cn>
+Content-Type: multipart/mixed; boundary="----------=_1097205338-1044-222"
+MIME-Version: 1.0
+X-UIDL: agG"!]7F"!Mcf"!L+@"!
+
+近期将开发
+项目管理+项目协同工作＋项目信息库
+的产品，将目前公司对建设项目的全过程管理业务流程融入该产品中。
+产品的一部分将作为对注册咨询工程师强制性全过程管理的培训内容。
+要求开发使用 .Net＋ sql，部分用Dephi, B/S项目，部分为C/S
+要求您有丰富的相关实际开发经验，具有一定的项目管理经验，熟悉软件架构设计，软件需求、概要设计、测试等方面，并熟悉计算机安全、数据库方面技术。
+需要1－2名
+有意者，请将您的详情（简历含项目经历简介）电子邮件到:
+zhu.lj89@gmail.com
+请附上待遇要求。
+公司网址：http://www.bgccn.com.cn/
+

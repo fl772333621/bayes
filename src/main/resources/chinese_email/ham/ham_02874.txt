@@ -1,0 +1,35 @@
+Return-Path: <lu@mails.tsinghua.edu.cn>
+Received: from mails.tsinghua.edu.cn (mails.tsinghua.edu.cn [166.111.8.16])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id i8R9GJ0L004308
+	for <tan@ccert.edu.cn>; Mon, 27 Sep 2004 17:16:19 +0800 (CST)
+Received: (eyou send program); Mon, 27 Sep 2004 17:11:15 +0800
+Message-ID: <296276275.27033@mails.tsinghua.edu.cn>
+Received: from unknown (HELO mails.tsinghua.edu.cn) (unknown@127.0.0.1)
+ by 127.0.0.1 with SMTP; Mon, 27 Sep 2004 17:11:15 +0800
+X-scanvirus: By Symantec Scan Engine
+X-scanresult: CLEAN
+Received: (eqmail ); 27 Sep 2004 09:11:09 -0000
+Received: from unknown (HELO lulh) (xwang03@202.112.50.170)
+  by mails.tsinghua.edu.cn with SMTP; 27 Sep 2004 09:11:09 -0000
+Message-ID: <004401c4a473$49fb0b40$aa3270ca@lulh>
+From: "lu" <lu@mails.tsinghua.edu.cn>
+To: tan@ccert.edu.cn
+Subject: =?gb2312?B?UmU6ILjDveG76bu5yse4w7fWytY/Pz8=?=
+Date: Mon, 27 Sep 2004 17:20:50 +0800
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="----=_NextPart_000_0040_01C4A4B6.564322A0"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2800.1437
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1441
+X-UIDL: 5Y<!!TWS!!B]_!!k8o"!
+
+都是些芝麻大点的事..
+电脑是台式机吧？台式机你怎么弄美国去？放谁家不一样？
+如果结了婚就带你一起走的话，那就结吧，俩人在国外特能培养感情，因为除了你没人搭理他，电视他也没那么方便看了，哈
+:     我和GG是青梅竹马长大的,恋爱3年了.我大学一毕业就跟他来北京了,3年可以说是在
+: 吵吵闹闹中度过的.GG马上就要去留学了,为了也让我去我们就必须马上结婚.可我一点都
+: 没有感到结婚的喜悦,这个婚我该结不该结?
+: ...................
+

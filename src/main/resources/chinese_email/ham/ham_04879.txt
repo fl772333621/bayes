@@ -1,0 +1,30 @@
+Return-Path: <yang@cernet.edu.cn>
+Received: from tsinghua.org.cn ([210.77.143.228])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id i8K2X4IE000748
+	for <wen@ccert.edu.cn>; Mon, 20 Sep 2004 10:33:06 +0800
+Received: (eyou send program); Mon, 20 Sep 2004 10:42:57 +0800
+Received: (eyou send program); Mon, 20 Sep 2004 10:42:44 +0800
+X-EYOU-ORIGINAL-IP: 202.112.5.66
+X-EYOU-ENVELOPE-MAILFROM: wlzxrs@cernet.edu.cn
+Received: from unknown (HELO sea.net.edu.cn) (unknown@202.112.5.66)
+ by 210.77.143.228 with SMTP; Mon, 20 Sep 2004 10:42:44 +0800
+Received: from 56ls81hgnjb0ggr ([202.112.4.6])
+	(authenticated bits=0)
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id i8K2YvYs026285;
+	Mon, 20 Sep 2004 10:34:59 +0800 (CST)
+Message-Id: <200409200234.i8K2YvYs026285@sea.net.edu.cn>
+From: "yang" <yang@cernet.edu.cn>
+Reply-To: yang@cernet.edu.cn
+To: wen@ccert.edu.cn
+Subject: =?gb2312?B?ofEgx+u087zSsO/O0r+0v7S80s2lzsrM4g==?=
+X-mailer: Foxmail 4.2 [cn]
+Mime-Version: 1.0
+Content-Type: multipart/mixed;
+      boundary="=====000_Dragon436260130124_====="
+Date: Mon, 20 Sep 2004 10:34:45 +0800
+X-UIDL: B>k!!+cH!!,&3!!TAk"!
+
+刚刚登记，我很爱老婆，人非常好，我觉得找到他是我一生最大的幸福，和她在一起什么烦恼都没有了。可是有一个很现实的问题，搞得我精疲力尽，希望大家帮我出以下主意。
+我兄弟姐妹四个，家里条件不好，爸爸工作每月几百块钱的收入，妈妈和没有工作差不多。我是家里的老大，也是第一个家里培养出来的硕士，工作不到两年，没有女朋友的时候帮家里把外债还了一下。这几年家里生活很困难，因为孩子多，妈妈不停的做一些零工，非常的辛苦。到现在家里没有一点存款，还有两个弟妹在上高中，一个弟弟没上大学已经工作了，勉强顾住自己而已。可是现在丈母娘要求只负责两个弟妹上大学的学费，其他的一概不许管。我经常想，妈妈以前为了我们几个孩子吃尽了苦，可是现在好不容易我出来了，工资也不低，税后7000多，可是不能孝敬父母，自己每天吃的用的非常好，可是父母在老家每天吃的是面条，馒头，青菜，很少吃肉，心里很难过。我是不是应该说服丈母娘给家里多一些补贴？在这里经常看到婚后每月给家里一些钱，我是不是因为应该这样？另，老婆家境较好。可是丈母娘要求我们攒钱，说是为了以后孩子的教育。
+请大家说说对这件事情的看法。
+

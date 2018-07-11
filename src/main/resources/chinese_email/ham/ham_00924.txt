@@ -1,0 +1,46 @@
+Return-Path: <long@home.ccert.edu.cn>
+Received: from home.ccert.edu.cn (localhost [127.0.0.1])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id j0KCnin4000847;
+	Thu, 20 Jan 2005 20:49:44 +0800
+Received: (from majordomo@localhost)
+	by home.ccert.edu.cn (8.13.1/8.13.1/Submit) id j0KCnipL000846;
+	Thu, 20 Jan 2005 20:49:44 +0800
+X-Authentication-Warning: home.ccert.edu.cn: majordomo set sender to owner-ccertstaff using -f
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id j0KCnX4A000824
+	for <kong@ccert.edu.cn>; Thu, 20 Jan 2005 20:49:33 +0800
+Received: from WHITESNOW (tu203022.ip.tsinghua.edu.cn [166.111.203.22])
+	(authenticated bits=0)
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id j0KD1EUs002854
+	for <kong@ccert.edu.cn>; Thu, 20 Jan 2005 21:01:16 +0800 (CST)
+Message-ID: <000001c4fef0$2dc025f0$16cb6fa6@WHITESNOW>
+From: "long" <long@cernet.edu.cn>
+To: kong@ccert.edu.cn
+Subject: =?gb2312?B?ofEgODBrLi4uLi4uYmxlc3MgbXkgZnJpZW5kcy4uLmJsZXNzIEZyZXNobWFu?=
+Date: Thu, 20 Jan 2005 20:23:14 +0800
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="----=_NextPart_000_000A_01C4FF2D.DE7A8880"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2900.2180
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+Sender: owner-ccertstaff@home.ccert.edu.cn
+Precedence: bulk
+X-UIDL: -6i"!H*n!!!lS!!EFP!!
+
+                                                                                
+littlewolf (七星连环终究散) 共上站 1439 次，发表过 79999 篇文章                 
+上次在  [Wed Jun  1 23:11:20 2005] 从 [211.151.90.87] 到本站一游。              
+离线时间[Wed Jun  1 23:29:25 2005] 信箱：[  ] 生命力：[120] 身份: [版主]。      
+目前在站上，状态如下：                                                          
+查询网友                                                                        
+个人说明档如下：                                                                
+孔明在帐中祈禳已及六夜，见主灯明亮，心中甚喜。姜维入帐，正见孔明披发仗剑，踏罡步
+斗，压镇将星。忽听得寨外呐喊，方欲令人出问，魏延飞步入告曰：“魏兵至矣！”延脚步
+急，竟将主灯扑灭。孔明弃剑而叹曰！“死生有命，不可得而禳也！”                  
+                                                                                
+                                                                                
+                                                                                
+                                                                                 
+

@@ -1,0 +1,26 @@
+Return-Path: <guan@rbl.ccert.edu.cn>
+Received: from rbl.ccert.edu.cn (rbl.ccert.edu.cn [202.112.57.71])
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id i97H0Tqd022962
+	for <lu@ccert.edu.cn>; Fri, 8 Oct 2004 01:00:30 +0800 (CST)
+Received: from rbl.ccert.edu.cn (localhost.localdomain [127.0.0.1])
+	by rbl.ccert.edu.cn (8.12.11/8.12.11) with ESMTP id i97H6UTb014958
+	for <lu@ccert.edu.cn>; Fri, 8 Oct 2004 01:06:30 +0800
+Received: (from qa@localhost)
+	by rbl.ccert.edu.cn (8.12.11/8.12.11/Submit) id i97H6Upf014957;
+	Fri, 8 Oct 2004 01:06:30 +0800
+Date: Fri, 8 Oct 2004 01:06:30 +0800
+Message-Id: <200410071706.i97H6Upf014957@rbl.ccert.edu.cn>
+Subject: =?gb2312?B?UmU6INfyzOzO0tKyz+u0x9awtcQuLg==?=
+To: lu@ccert.edu.cn
+From: Tran Quang Anh <guan@cernet.edu.cn>
+Content-Type: multipart/mixed; boundary="----------=_1097168790-1044-44"
+MIME-Version: 1.0
+X-UIDL: S^B!!aJc!!\?+!!@(9"!
+
+国有单位是吧，就是这样了，因为所谓领导都是饭桶没有本事就会干点这些事情了
+，不过现在还是有很多人想去有油水的国家部门啊，唉，喝人民的血，人心不古啊
+: 我们支部大会上，头不点名的批评我，说：某些人，就是不穿工作服是吧？觉得难看是吧？
+: 连工作服都不穿，什么素质！
+: 气的我当场眼圈都红了，一直老老实实从不偷懒的工作，好歹这几年也算是先进吧，工作服不是学校发的，是我们部门自己想起来搞的，都是男式的制服，我身板特小，衬衣很肥大，还是的确凉的，裤子是毛料的，这个天怎么穿啊!
+: ...................
+

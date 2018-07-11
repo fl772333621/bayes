@@ -1,0 +1,60 @@
+Return-Path: <gong@ns.6test.edu.cn>
+Received: from tsinghua.org.cn ([210.77.143.231])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id iBF2kC41017286
+	for <tang@ccert.edu.cn>; Wed, 15 Dec 2004 10:46:14 +0800
+Received: (eyou send program); Wed, 15 Dec 2004 10:39:37 +0800
+Received: (eyou send program); Wed, 15 Dec 2004 10:39:37 +0800
+X-EYOU-ORIGINAL-IP: 210.77.143.235
+X-EYOU-ENVELOPE-MAILFROM: wanglanjia@ns.6test.edu.cn
+Received: from unknown (HELO eyou.net) (unknown@210.77.143.235)
+ by 210.77.143.231 with SMTP; Wed, 15 Dec 2004 10:39:37 +0800
+Received: (eyou send program); Wed, 15 Dec 2004 10:54:16 +0800
+Message-ID: <303079256.16677@eyou.net>
+Received: from 166.111.8.16 by 210.77.143.235 with SMTP; Wed, 15 Dec 2004 10:53:47 +0800
+Received: (eyou send program); Wed, 15 Dec 2004 10:53:54 +0800
+Message-ID: <303079233.11538@mails.tsinghua.edu.cn>
+Received: (eyou send program); Wed, 15 Dec 2004 10:53:52 +0800
+Message-ID: <303079232.72048@mails.tsinghua.edu.cn>
+Received: from unknown (HELO mails.tsinghua.edu.cn) (unknown@127.0.0.1)
+ by 127.0.0.1 with SMTP; Wed, 15 Dec 2004 10:53:52 +0800
+X-scanvirus: By Symantec Scan Engine
+X-scanresult: CLEAN
+X-Received: ccert.edu.cn,202.112.57.12,20041215105348
+Received: from ccert.edu.cn (HELO home.ccert.edu.cn) (202.112.57.12)
+  by localhost with SMTP; 15 Dec 2004 02:53:48 -0000
+Received: from home.ccert.edu.cn (localhost [127.0.0.1])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id iBF2imkD017253;
+	Wed, 15 Dec 2004 10:44:48 +0800
+Received: (from majordomo@localhost)
+	by home.ccert.edu.cn (8.13.1/8.13.1/Submit) id iBF2imql017252;
+	Wed, 15 Dec 2004 10:44:48 +0800
+X-Authentication-Warning: home.ccert.edu.cn: majordomo set sender to owner-ccertstaff using -f
+Received: from ns.6test.edu.cn (ns.6test.edu.cn [202.112.54.2])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id iBF2ilNs017248
+	for <tang@ccert.edu.cn>; Wed, 15 Dec 2004 10:44:48 +0800
+Received: from tu203047.tsinghua.edu.cn ([166.111.203.47] helo=wanglanjia)
+	by ns.6test.edu.cn with asmtp (Exim 4.12)
+	id 1CePlo-000BA7-00
+	for ccertstaff@ccert.edu.cn; Wed, 15 Dec 2004 11:24:08 +0800
+Message-ID: <00cb01c4e251$f7142f20$2fcb6fa6@wanglanjia>
+From: "gong" <gong@ns.6test.edu.cn>
+To: tang@ccert.edu.cn
+Subject: =?gb2312?B?ofEgw864w9DRwcs=?=
+Date: Wed, 15 Dec 2004 10:58:32 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_00C8_01C4E295.049ED8A0"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2800.1437
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1441
+Sender: owner-ccertstaff@home.ccert.edu.cn
+Precedence: bulk
+X-UIDL: L(g!!Q'_!!Um7!!ULG!!
+
+5月30日
+呵呵。戏剧性的一天，故事的结局在今天上映。
+我像散了架一样瘫在床上。愤怒，疼痛，忧伤。。我想起了妈妈，我想给她打个电话，倾尽心中事。好想亲人就在我的身边，用他们的疼爱帮我散去心中的疼，帮我忘记曾经的爱。
+宿舍关门不能出去吹海风了，我爬起来站在离海最近的阳台，眼神空洞地遥望寥寥的午夜灯光，望向那黑夜里看不见的海，望向那黑幽幽巍巍的山。以后的日子里，记忆一定会不断刺激我脆弱的神经，但此刻的我，在山与海的对面，只感到麻木。
+sigh，时间接近两点，有一阵没这么晚过了。打打哈欠，拂拂脸颊，写下此刻心情。睡吧，明天还要为真正的生活而奋斗，告别虚幻，告别不快，爱自己，从此刻做起。
+

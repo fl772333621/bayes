@@ -1,0 +1,29 @@
+Return-Path: <zhao@rbl.ccert.edu.cn>
+Received: from rbl.ccert.edu.cn (rbl.ccert.edu.cn [202.112.57.71])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id i9T3TN6m026470
+	for <sun@ccert.edu.cn>; Fri, 29 Oct 2004 11:29:23 +0800
+Received: from rbl.ccert.edu.cn (localhost.localdomain [127.0.0.1])
+	by rbl.ccert.edu.cn (8.12.11/8.12.11) with ESMTP id i9T3kU4i016361
+	for <sun@ccert.edu.cn>; Fri, 29 Oct 2004 11:46:46 +0800
+Received: (from qa@localhost)
+	by rbl.ccert.edu.cn (8.12.11/8.12.11/Submit) id i9T3kPKH016356;
+	Fri, 29 Oct 2004 11:46:25 +0800
+Date: Fri, 29 Oct 2004 11:46:25 +0800
+Message-Id: <200410290346.i9T3kPKH016356@rbl.ccert.edu.cn>
+Subject: =?gb2312?B?UmU6IL/gyay1xLP1wbU=?=
+To: sun@ccert.edu.cn
+From: zhao@rbl.ccert.edu.cn
+Content-Type: multipart/mixed; boundary="----------=_1099021611-20866-146"
+MIME-Version: 1.0
+X-UIDL: c@B!!nd9"!N?a"!p#~!!
+
+附上歪诗一首
+船承爱意满盈盈
+身似颦蛾西子行
+怨那呆头鳯儿愚
+可怜无法再通灵
+: 昨天上午我的一位好友M君来找我，说有事情和我商谈。听他这话语，对所要谈的内容我已猜到九分。我俩来到一个僻静之处，他说：我想和你说一下"她"的事情，我和她……"完全不介意，"我打断他，说："我和她的事儿已经是历史，你们发展你们的，不用管我……"我十分勉强地撒�
+: 我初次和她见面是在M君的宿舍，当时我进去，她正要出来，我并未看到她的正脸，但依稀可以感觉到这个女孩儿很可爱、很活泼。她和M君相识很早，在同上一门课。我们私下里谈论这个女孩儿已有多日，只不过这是我第一次见到她罢了。我们一直在鼓动M君追他，这也使得我们有机�
+: 在这之前，我没有恋过爱，没有女孩儿主动追过我。我追过几个女孩儿，但都被很干脆地拒绝了，使我受到很大打击，但从未因此感到悲伤，甚至沮丧心情都很少浮上心头。
+: ...................
+

@@ -1,0 +1,25 @@
+Return-Path: <ke@rbl.ccert.edu.cn>
+Received: from rbl.ccert.edu.cn (rbl.ccert.edu.cn [202.112.57.71])
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id i9IA4Pdc002294
+	for <jiang@ccert.edu.cn>; Mon, 18 Oct 2004 18:04:25 +0800 (CST)
+Received: from rbl.ccert.edu.cn (localhost.localdomain [127.0.0.1])
+	by rbl.ccert.edu.cn (8.12.11/8.12.11) with ESMTP id i9IAABE6023859
+	for <jiang@ccert.edu.cn>; Mon, 18 Oct 2004 18:10:11 +0800
+Received: (from qa@localhost)
+	by rbl.ccert.edu.cn (8.12.11/8.12.11/Submit) id i9IAABM7023858;
+	Mon, 18 Oct 2004 18:10:11 +0800
+Date: Mon, 18 Oct 2004 18:10:11 +0800
+Message-Id: <200410181010.i9IAABM7023858@rbl.ccert.edu.cn>
+Subject: =?gb2312?B?UmU6IMKl1vfS/sL3wcvKssO0wvCjv1JlOiDSu9ax0tTOqs7Sw8fKx9fux9fD3LXEINTa0rvG8L7F
+xOo=?=
+To: jiang@ccert.edu.cn
+From: Tran Quang Anh <ke@cernet.edu.cn>
+Content-Type: multipart/mixed; boundary="----------=_1098094211-5847-72"
+MIME-Version: 1.0
+X-UIDL: 3[G!!%k3!!%?G!!)=I!!
+
+我猜测她lg挑剔她没用共同进步了，她也认为自己不想进步，
+总而言之，这个男人不知足啊
+: 我是越看越看不懂啊。你的态度根本不足够激烈，不太像被深爱的丈夫刚刚讲出分手的样子；你说的很多，让人明白的理由却不足，连我都觉得这根本构不成分手。
+: 有别的情节吗？有别的理由吗？如果没有，我看你们二位都凉快凉快，然后该干嘛干嘛，就像没发生任何事；再嫌生活平淡，就再闹一回。
+

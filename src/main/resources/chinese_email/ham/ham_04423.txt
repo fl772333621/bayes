@@ -1,0 +1,58 @@
+Return-Path: <han@ns.6test.edu.cn>
+Received: from tsinghua.org.cn ([210.77.143.228])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id iAI2Tf18004647
+	for <liao@ccert.edu.cn>; Thu, 18 Nov 2004 10:29:42 +0800
+Received: (eyou send program); Thu, 18 Nov 2004 10:42:11 +0800
+Received: (eyou send program); Thu, 18 Nov 2004 10:42:05 +0800
+X-EYOU-ORIGINAL-IP: 210.77.143.235
+X-EYOU-ENVELOPE-MAILFROM: toefl-bounces@server.cool-meeting.com
+Received: from unknown (HELO eyou.net) (unknown@210.77.143.235)
+ by 210.77.143.228 with SMTP; Thu, 18 Nov 2004 10:42:05 +0800
+Received: (eyou send program); Thu, 18 Nov 2004 10:37:50 +0800
+Message-ID: <300745470.22057@eyou.net>
+Received: from 202.38.99.65 by 210.77.143.235 with SMTP; Thu, 18 Nov 2004 10:37:49 +0800
+Received: from server.cool-meeting.com (localhost.localdomain [127.0.0.1])
+	by server.cool-meeting.com (8.12.8/8.12.8) with ESMTP id iAHFRklY014886
+	for <liao@ccert.edu.cn>; Wed, 17 Nov 2004 23:28:24 +0800
+Received: from ns.6test.edu.cn ([202.38.99.18])
+	by server.cool-meeting.com (8.12.8/8.12.8) with ESMTP id iAHFRckr014882
+	for <liao@ccert.edu.cn>; Wed, 17 Nov 2004 23:27:38 +0800
+Received: from tu172145.tsinghua.edu.cn ([166.111.172.145] helo=montana)
+	by ns.6test.edu.cn with asmtp (Exim 4.12) id 1CURoo-0001a7-00
+	for toefl@server.cool-meeting.com; Wed, 17 Nov 2004 23:34:03 +0800
+From: "han" <han@ns.6test.edu.cn>
+To: liao@ccert.edu.cn
+Subject: =?GB2312?Q?Re: [TOEFL]
+	=B9=D8=D3=DA315=BA=CD923=B5=C4=CF=B5=CD=F8=CE=CA=CC=E2?=
+X-mailer: Foxmail 4.2 [cn]
+Mime-Version: 1.0
+Content-Type: text/plain;
+      charset="GB2312"
+Date: Wed, 17 Nov 2004 23:15:42 +0800
+Message-Id: <E1CURoo-0001a7-00@ns.6test.edu.cn>
+Content-Transfer-Encoding: 8bit
+X-MIME-Autoconverted: from quoted-printable to 8bit by server.cool-meeting.com
+	id iAHFRckr014882
+X-BeenThere: toefl@server.cool-meeting.com
+X-Mailman-Version: 2.1.2
+Precedence: list
+List-Id: &#26446;&#26143;&#21644;&#20182;&#30340;&#23398;&#29983;&#20204;
+	<toefl.server.cool-meeting.com>
+List-Unsubscribe: <http://server.cool-meeting.com/mailman/listinfo/toefl>,
+	<mailto:toefl-request@server.cool-meeting.com?subject=unsubscribe>
+List-Archive: <http://server.cool-meeting.com/mailman/private/toefl>
+List-Post: <mailto:toefl@server.cool-meeting.com>
+List-Help: <mailto:toefl-request@server.cool-meeting.com?subject=help>
+List-Subscribe: <http://server.cool-meeting.com/mailman/listinfo/toefl>,
+	<mailto:toefl-request@server.cool-meeting.com?subject=subscribe>
+Sender: toefl-bounces@server.cool-meeting.com
+Errors-To: toefl-bounces@server.cool-meeting.com
+X-UIDL: C#I!!Xf'!!7A&!!~?o"!
+
+工作五年还欠债一堆，mm你借钱给他能放心么
+我怎么看着这就是个不上进不知道操心的少爷呢
+:     我和男友认识时间不是特别长，不过彼此都对对方比较钟情，和他交往以后，才知道他不是特别善于理财，工作五年了，不仅没有存钱，还有一万五千左右的债务。
+:     刚开始他对我说银行一直催他还信用卡里的贷款，我担心他的信用受影响，就把自己的一点点积蓄（我去年毕业的，给家里寄了大概7000多，就只剩下不多的积蓄了）去借给他了，弄得我手里只剩150块左右，离发工资日还有半个月。不过我平常比较省，花钱的地方也少，也就还�
+:     后来，因为发生了一点点事情，他把钱还给我了，这件事情是什么我就不说了，倘若不是这趟意外，我估计他在今年是不会还我钱的。
+: ...................
+

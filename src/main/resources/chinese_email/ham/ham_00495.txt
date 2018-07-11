@@ -1,0 +1,65 @@
+Return-Path: <shi@nortel.com>
+Received: from tsinghua.org.cn ([210.77.143.232])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with SMTP id j4D2XoKW030946
+	for <su@ccert.edu.cn>; Fri, 13 May 2005 10:34:15 +0800
+Received: (eyou send program); Fri, 13 May 2005 10:50:26 +0800
+Message-ID: <315952626.23366@tsinghua.org.cn>
+X-EYOU-AUTOFORWARD: tsinghua.org.cn
+Received: (eyou send program); Fri, 13 May 2005 10:50:26 +0800
+Message-ID: <315952626.09081@tsinghua.org.cn>
+Received: from unknown (HELO eyou.net) (210.77.143.235)
+ by 210.77.143.232 with SMTP; Fri, 13 May 2005 10:50:26 +0800
+X-EYOU-SPAMVALUE: 0
+Received: (eyou anti_spam gateway 3.0); Fri, 13 May 2005 10:39:40 +0800
+Message-ID: <315951980.05299@eyou.net>
+Received: from 202.112.49.111 by 210.77.143.235 with SMTP; Fri, 13 May 2005 10:39:39 +0800
+Received: from Garfield. (localhost [IPv6:::1])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with ESMTP id j4D2jMrh038968
+	for <su@ccert.edu.cn>; Fri, 13 May 2005 10:45:39 +0800 (CST)
+	(envelope-from toefl-bounces@gradinfo.net.edu.cn)
+Received: from zrc2s0jx.nortelnetworks.com (zrc2s0jx.nortelnetworks.com
+	[47.103.122.112])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with ESMTP id j4D2jIjs038964
+	for <su@ccert.edu.cn>; Fri, 13 May 2005 10:45:19 +0800 (CST)
+	(envelope-from fangkun@nortel.com)
+Received: from zsupc003.asiapac.nortel.com (zsupc003.asiapac.nortel.com
+	[47.153.140.7])
+	by zrc2s0jx.nortelnetworks.com (Switch-2.2.6/Switch-2.2.0) with ESMTP
+	id j4D2nHn21780
+	for <su@ccert.edu.cn>; Thu, 12 May 2005 21:49:18 -0500 (CDT)
+Received: by zsupc003.asiapac.nortel.com with Internet Mail Service
+	(5.5.2653.19) id <J9X3GB9F>; Fri, 13 May 2005 10:49:02 +0800
+Message-ID: <6143E1195114F347A954A5D732C26EE10E3D2576@zsupc003.asiapac.nortel.com>
+From: "shi" <shi@nortel.com>
+To: su@ccert.edu.cn
+Subject: =?gb2312?B?UmU6INKywLTLtcu1u+nJtNXVo7qjqSgzKSAo16rU2Ck=?=
+Date: Fri, 13 May 2005 10:49:02 +0800
+MIME-Version: 1.0
+X-Mailer: Internet Mail Service (5.5.2653.19)
+X-BeenThere: toefl@gradinfo.net.edu.cn
+X-Mailman-Version: 2.1.5
+Precedence: list
+List-Id: "&#26446; &#26143; &#21644; &#20182; &#30340; &#23398; &#29983;
+	&#20204; " <toefl.gradinfo.net.edu.cn>
+List-Unsubscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=unsubscribe>
+List-Archive: <http://gradinfo.net.edu.cn/mailman/private/toefl>
+List-Post: <mailto:toefl@gradinfo.net.edu.cn>
+List-Help: <mailto:toefl-request@gradinfo.net.edu.cn?subject=help>
+List-Subscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=subscribe>
+Content-Type: multipart/mixed; boundary="===============0580380912=="
+Sender: toefl-bounces@gradinfo.net.edu.cn
+Errors-To: toefl-bounces@gradinfo.net.edu.cn
+X-UIDL: pd0!!<JF!!7pI"![2'"!
+
+嘿嘿，前几天在青年报上看到，汉城之约的老板已经卷款跑掉了。。。。。。
+: 发信人: dididog (等我到了23，谁问我年龄我都不说了), 信区: Beauty
+: 标  题: 也来说说婚纱照：）(3)
+: 发信站: 水木社区 (Mon Jun  6 13:04:37 2005), 站内
+汉城之约
+好像ol上面推荐过，据说效果不错
+但是lg死活不去，ft死了，本来就没有几家可选的，他还那么事多
+他说他很讨厌日本人，看韩国人也不太爽，ft，都哪跟哪啊
+不去就不去吧，不然他忍着去了，不好好配合也是白搭：（
+

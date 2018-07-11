@@ -1,0 +1,51 @@
+Return-Path: <chi@yahoo.com>
+Received: from tsinghua.org.cn ([210.77.143.228])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id i9G2oG5b006104
+	for <ding@ccert.edu.cn>; Sat, 16 Oct 2004 10:50:18 +0800
+Received: (eyou send program); Sat, 16 Oct 2004 11:01:09 +0800
+Received: (eyou send program); Sat, 16 Oct 2004 11:01:08 +0800
+X-EYOU-ORIGINAL-IP: 66.94.237.43
+X-EYOU-ENVELOPE-MAILFROM: sentto-1550022-2382-1097895592-chenguangying=tsinghua.org.cn@returns.groups.yahoo.com
+Received: from unknown (HELO n9a.bulk.scd.yahoo.com) (unknown@66.94.237.43)
+ by 210.77.143.228 with SMTP; Sat, 16 Oct 2004 11:01:08 +0800
+Received: from [66.218.69.5] by n9.bulk.scd.yahoo.com with NNFMP; 16 Oct 2004 02:59:52 -0000
+Received: from [66.218.66.157] by mailer5.bulk.scd.yahoo.com with NNFMP; 16 Oct 2004 02:59:52 -0000
+X-Yahoo-Newman-Property: groups-email
+X-Sender: vinhbd@yahoo.com
+X-Apparently-To: e3d@yahoogroups.com
+Received: (qmail 14442 invoked from network); 16 Oct 2004 02:59:51 -0000
+Received: from unknown (66.218.66.216)
+  by m17.grp.scd.yahoo.com with QMQP; 16 Oct 2004 02:59:51 -0000
+Received: from unknown (HELO smtp102.mail.sc5.yahoo.com) (216.136.174.140)
+  by mta1.grp.scd.yahoo.com with SMTP; 16 Oct 2004 02:59:50 -0000
+Received: from unknown (HELO bachvinh) (vinhbd@203.210.138.126 with login)
+  by smtp102.mail.sc5.yahoo.com with SMTP; 16 Oct 2004 02:59:48 -0000
+Message-ID: <005901c4b38f$34a46220$7e8ad2cb@bachvinh>
+To: ding@ccert.edu.cn
+References: <000001c4a11d$542a5340$d800000a@abc.microsoft>
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 5.00.2615.200
+X-MimeOLE: Produced By Microsoft MimeOLE V5.00.2615.200
+X-eGroups-Remote-IP: 216.136.174.140
+From: "chi" <chi@yahoo.com>
+MIME-Version: 1.0
+Mailing-List: list e3d@yahoogroups.com; contact e3d-owner@yahoogroups.com
+Delivered-To: mailing list e3d@yahoogroups.com
+Precedence: bulk
+List-Unsubscribe: <mailto:e3d-unsubscribe@yahoogroups.com>
+Date: Sat, 16 Oct 2004 21:32:35 +0700
+Subject: [SPAM-TEST] Re: [e3d] Moi xem anh cuoi
+Reply-To: chi@yahoogroups.com
+Content-Type: multipart/alternative;
+ boundary="----=_NextPart_000_002B_01C4B3C7.A6FA45A0"
+X-UIDL: 7H~"!Khp!!D?+"!8CT"!
+
+唉,你前夫出门在外一年不回家,说实话,我可不会象前面那些网友想那么纯洁
+忙工作忙到连个电话都不主动打了
+还是鼓励你坚强起来,走出来吧....
+: 今天早上我们吃完饭就去家旁边的俱乐部打球了。这是这么多年来他第一次陪我打乒乓球，在打球以前他手机响了，他和我说要接个电话就躲出去接了，当时我也没多心。
+: 我们玩儿得很开心，他边玩边和我讲以后的发展，因为最近一年公司派他到外地做区域经理了，他和我说打算做两年就回来。存点钱和我一起开公司或者做个小生意，然后过这种周末能一起运动放松的生活。
+: 打完球我们去吃饭，他和我说下午走，回家后让我帮他整理行李。我边干活他边和我聊天，这时候又接了一个电话，他去客厅接的，还开了电视。这时候我开始想昨天和今天网友的回帖，觉得这两个电话不大对头。
+: ...................
+

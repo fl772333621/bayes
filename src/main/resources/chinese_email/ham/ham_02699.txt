@@ -1,0 +1,33 @@
+Return-Path: <he@mails.tsinghua.edu.cn>
+Received: from mails.tsinghua.edu.cn (mails.tsinghua.edu.cn [166.111.8.16])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id i8HCnKfm021816
+	for <huang@ccert.edu.cn>; Fri, 17 Sep 2004 20:49:20 +0800 (CST)
+Received: (eyou send program); Fri, 17 Sep 2004 20:44:18 +0800
+Message-ID: <295425058.08406@mails.tsinghua.edu.cn>
+Received: from unknown (HELO mails.tsinghua.edu.cn) (unknown@127.0.0.1)
+ by 127.0.0.1 with SMTP; Fri, 17 Sep 2004 20:44:18 +0800
+X-scanvirus: By Symantec Scan Engine
+X-scanresult: CLEAN
+Received: (eqmail ); 17 Sep 2004 12:44:17 -0000
+Received: from tu154210.tsinghua.edu.cn (HELO xiner) (xwang03@166.111.154.210)
+  by mails.tsinghua.edu.cn with SMTP; 17 Sep 2004 12:44:17 -0000
+Message-ID: <001c01c49cb5$43e63330$d29a6fa6@xiner>
+From: "he" <he@mails.tsinghua.edu.cn>
+To: huang@ccert.edu.cn
+Subject: =?gb2312?B?UmU6IKG2t8XFo7DgtcS0uszsobehqqGq1dK72LzytaW1xL/swNZ6eg==?=
+Date: Fri, 17 Sep 2004 20:53:00 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0019_01C49CF8.514D7630"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2800.1437
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1441
+X-UIDL: PoX"!M1A!!#?J"!P2)"!
+
+尤其喜欢其中的音乐
+: 　　《放牛班的春天》——这部去年票房达到4000万欧元的法国电影，已被法国政府选送参加本年度的奥斯卡最佳外语片竞争，在若干题材沉重的电影中，这部影片轻松的风格一定会引起评委的关注，入围的可能性很高，但最后能否获奖还是未知数。
+: 　　不管能不能在奥斯卡有所斩获，它都足以成为中国电影人的生动教材：在好莱坞大投入大制作的反复围剿之下，这样一部没有大明星加盟，没有凶杀悬疑，也没有电脑特效的影片，仅仅讲述了一个关于师生关系的简单故事，为什么就能吸引850万法国观众？在人口只有7000万的法国，导演足以为他取得的成绩自豪。
+: 　　这部影片叙述的节奏简单而明快。片子开头皮埃尔因为母亲的葬礼赶回家乡，幼时的伙伴上门探访，直接便引出了本片的主人公——马修老师，这一段叙述只有短短的四分半钟。观众很快就跟着皮埃尔的回忆进入了情节。
+: ...................
+

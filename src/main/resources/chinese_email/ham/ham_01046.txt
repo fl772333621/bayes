@@ -1,0 +1,50 @@
+Return-Path: <yun@compass.net.edu.cn>
+Received: from tsinghua.org.cn ([210.77.143.228])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id i8K51SR7003824
+	for <tao@ccert.edu.cn>; Mon, 20 Sep 2004 13:01:34 +0800
+Received: (eyou send program); Mon, 20 Sep 2004 13:11:21 +0800
+Received: (eyou send program); Mon, 20 Sep 2004 13:11:20 +0800
+X-EYOU-ORIGINAL-IP: 202.38.99.65
+X-EYOU-ENVELOPE-MAILFROM: toefl-bounces@server.cool-meeting.com
+Received: from unknown (HELO server.cool-meeting.com) (unknown@202.38.99.65)
+ by 210.77.143.228 with SMTP; Mon, 20 Sep 2004 13:11:20 +0800
+Received: from server.cool-meeting.com (localhost.localdomain [127.0.0.1])
+	by server.cool-meeting.com (8.12.8/8.12.8) with ESMTP id i8K517lV008937
+	for <tao@ccert.edu.cn>; Mon, 20 Sep 2004 13:01:13 +0800
+Received: from compass.net.edu.cn ([202.112.0.90])
+	by server.cool-meeting.com (8.12.8/8.12.8) with ESMTP id i8K516kr008933
+	for <tao@ccert.edu.cn>; Mon, 20 Sep 2004 13:01:06 +0800
+Received: from [210.25.128.113] ([210.25.128.113])
+	by compass.net.edu.cn (8.9.2/8.9.2) with ESMTP id NAA18106
+	for <tao@ccert.edu.cn>;
+	Mon, 20 Sep 2004 13:00:11 +0800 (CST)
+Message-ID: <414E62F2.7020108@compass.net.edu.cn>
+Date: Mon, 20 Sep 2004 12:56:18 +0800
+From: Shaozhi Ye <yun@compass.net.edu.cn>
+User-Agent: Mozilla Thunderbird 0.8 (Windows/20040913)
+X-Accept-Language: en-us, en
+MIME-Version: 1.0
+To: tao@ccert.edu.cn
+Content-Type: text/plain; charset=gb2312
+Content-Transfer-Encoding: 8bit
+Cc: 
+Subject: =?gb2312?B?UmU6IM/W1NrV5rXEsrvWqrXAuMPU9cO0sOzByw==?=
+X-BeenThere: toefl@server.cool-meeting.com
+X-Mailman-Version: 2.1.2
+Precedence: list
+List-Id: &#26446;&#26143;&#21644;&#20182;&#30340;&#23398;&#29983;&#20204;
+	<toefl.server.cool-meeting.com>
+List-Unsubscribe: <http://server.cool-meeting.com/mailman/listinfo/toefl>,
+	<mailto:toefl-request@server.cool-meeting.com?subject=unsubscribe>
+List-Archive: <http://server.cool-meeting.com/mailman/private/toefl>
+List-Post: <mailto:toefl@server.cool-meeting.com>
+List-Help: <mailto:toefl-request@server.cool-meeting.com?subject=help>
+List-Subscribe: <http://server.cool-meeting.com/mailman/listinfo/toefl>,
+	<mailto:toefl-request@server.cool-meeting.com?subject=subscribe>
+Sender: toefl-bounces@server.cool-meeting.com
+Errors-To: toefl-bounces@server.cool-meeting.com
+X-UIDL: YU0"!TK["!hMj"!``Z"!
+
+d
+: 我一般本科毕业,于03,04,05年参加了研究生入学考试,报考的清华大学建设管理系项目管理专业,第一年没怎么复习考的不是很理想,接着没有找工作义无反顾的再一次报考,这次还没达线考试成绩不上不下,我下定了决心再考一年,于是又辛辛苦苦的准备重头再来,折腾了大半年后还是没考取,心想找工作吧,但是本科又很烂,找了几个工作都不太理想,简历中工作经验也没多少,没什么单位要,现在就是呆着,做什么的都没心情,也不想上班,也不想重考,哎愁啊,怎么办啊~~~有没有人跟我一样的情况.你们又是怎么处理的呢?真是没办法了.
+

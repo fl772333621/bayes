@@ -1,0 +1,26 @@
+Return-Path: <he@tsinghua.edu.cn>
+Received: from huhoo (point.ccert.edu.cn [202.112.50.3])
+	(authenticated bits=0)
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id i8K6IhZW029711;
+	Mon, 20 Sep 2004 14:18:43 +0800 (CST)
+From: "he" <he@tsinghua.edu.cn>
+To: lai@ccert.edu.cn
+Subject: =?gb2312?B?UmU6ILnY09qwrsGi0MXR0Lei1tDQxKOsztKyu7XDsrvLtcG9vuQ=?=
+Date: Mon, 20 Sep 2004 14:16:13 +0800
+Message-ID: <00eb01c49ed9$54a9c300$033270ca@huhoo>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_00EC_01C49F1C.62CD0300"
+X-Priority: 3 (Normal)
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook, Build 10.0.2627
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1441
+Importance: Normal
+X-UIDL: H^I"!%Kd"![pY!!-Y%!!
+
+根本没人缺水喝，小中见大。公司对员工教育不够。不过可惜是国内的外企都有类似的毛病，人家本来就是追求低成本才来中国的，所以教育员工能省则省。
+: 我是一名前几个月应聘到这个部门的员工，看见这么多人对这个话题在争论，想说几句。
+: 这次招聘是我们部门发起的，当时的面试组织者都是部门的员工，不是HR。这是因为部门员工对岗位工作和岗位需要什么类型的人最了解。
+: 作为我们部门的一名员工，如果我们让面试者在应聘过程中感到没有受到足够尊重，我表示深深的歉意，当时的面试官也会非常诚恳地道歉，因为我们的本意绝对尊重每一位来应聘的面试者。如果有些地方我们疏忽了，希望大家能够谅解，也非常感谢大家在这里指出来，我们以后才能更加注意和改进。
+: ...................
+

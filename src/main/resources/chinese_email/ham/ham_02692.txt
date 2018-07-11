@@ -1,0 +1,38 @@
+Return-Path: <chen@rbl.ccert.edu.cn>
+Received: from rbl.ccert.edu.cn (rbl.ccert.edu.cn [202.112.57.71])
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id i971BmW3012857
+	for <ye@ccert.edu.cn>; Thu, 7 Oct 2004 09:11:49 +0800 (CST)
+Received: from rbl.ccert.edu.cn (localhost.localdomain [127.0.0.1])
+	by rbl.ccert.edu.cn (8.12.11/8.12.11) with ESMTP id i971Hkv6026315
+	for <ye@ccert.edu.cn>; Thu, 7 Oct 2004 09:17:47 +0800
+Received: (from qa@localhost)
+	by rbl.ccert.edu.cn (8.12.11/8.12.11/Submit) id i971Hklq026314;
+	Thu, 7 Oct 2004 09:17:46 +0800
+Date: Thu, 7 Oct 2004 09:17:46 +0800
+Message-Id: <200410070117.i971Hklq026314@rbl.ccert.edu.cn>
+Subject: =?gb2312?B?UmU6ILCmo6zP1tTasObD5rmk1/fQxc+i1L3AtNS9ydmjrLa8s8nM1sLbsObBy6Oh?=
+To: ye@ccert.edu.cn
+From: Tran Quang Anh <chen@cernet.edu.cn>
+Content-Type: multipart/mixed; boundary="----------=_1097111867-996-770"
+MIME-Version: 1.0
+X-UIDL: Rf?!!Am!#!3Ti"!bH7!!
+
+再过半个月会有些高人写总结贴，就好像去年的"我是如何进入acn的"和
+"面试Mck",到那是还有得一看。
+: 标  题: Re: 唉，现在版面工作信息越来越少，都成讨论版了！
+: 发信站: 水木社区 (Sun Jun 12 11:34:57 2005), 站内
+: 
+: re
+: 淡季，呵呵
+: 
+: : career是周期性的版，呵呵
+: : 就像学校到了夏天就该放暑假，还在天天上课反而不正常，：）
+: 
+: 
+: --
+: come on baby..
+: KGarnett
+: 
+: 
+: ※ 来源:·水木社区 newsmth.net·[FROM: 218.249.25.*]
+

@@ -1,0 +1,25 @@
+Return-Path: <guan@rbl.ccert.edu.cn>
+Received: from rbl.ccert.edu.cn (rbl.ccert.edu.cn [202.112.57.71])
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id i983NkYm001006
+	for <bi@ccert.edu.cn>; Fri, 8 Oct 2004 11:23:46 +0800 (CST)
+Received: from rbl.ccert.edu.cn (localhost.localdomain [127.0.0.1])
+	by rbl.ccert.edu.cn (8.12.11/8.12.11) with ESMTP id i983Tlco027902
+	for <bi@ccert.edu.cn>; Fri, 8 Oct 2004 11:29:47 +0800
+Received: (from qa@localhost)
+	by rbl.ccert.edu.cn (8.12.11/8.12.11/Submit) id i983Tlrd027901;
+	Fri, 8 Oct 2004 11:29:47 +0800
+Date: Fri, 8 Oct 2004 11:29:47 +0800
+Message-Id: <200410080329.i983Tlrd027901@rbl.ccert.edu.cn>
+Subject: =?gb2312?B?UmU6INDEwO+7sCE=?=
+To: bi@ccert.edu.cn
+From: Tran Quang Anh <guan@cernet.edu.cn>
+Content-Type: multipart/mixed; boundary="----------=_1097206187-1044-240"
+MIME-Version: 1.0
+X-UIDL: c2]!!0]&!!KYn!!LB`"!
+
+既然是自己一直的梦想，努力奋斗一次也无所谓了，既然还年轻
+: 本人是2006年将要考研的学生,从大学开始对清华就有了很深刻的接触,一直想利用考研这个机会圆自己的一个清华梦,但是对于自己水平的犹豫一直困扰着我.
+: 如果全身心投入到复习中去,应该能有一个不错的成绩,但是清华是国内数一数二的名牌大学,高手云集,如果考不进去,自己的研究生梦想也可能随即破灭.
+: 如果报一个层次相对较低的学校,把握无疑会比较大,但是心里一想起清华的种种自己又会十分不甘心,我该怎么办呢?
+: ...................
+

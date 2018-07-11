@@ -1,0 +1,49 @@
+Return-Path: <qiu@cernet.edu.cn>
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id j090DOPn016153
+	for <jian@ccert.edu.cn>; Sun, 9 Jan 2005 08:13:39 +0800
+Received: from smart ([61.149.117.178])
+	(authenticated bits=0)
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id j090PIHi014233
+	for <jian@ccert.edu.cn>; Sun, 9 Jan 2005 08:25:18 +0800 (CST)
+From: "qiu" <qiu@cernet.edu.cn>
+To: jian@ccert.edu.cn
+Subject: =?gb2312?B?ofEg0uK088D7QXByaWxpYbnJt925q8u+sbG+qbDsysK0ptXQxrjQxc+iob60+reiob8=?=
+Date: Sun, 9 Jan 2005 08:28:16 +0800
+Message-ID: <NCEFLGKAPJDDOEBLPPNLOEJFCFAA.zhang@cernet.edu.cn>
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+X-Priority: 3 (Normal)
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook IMO, Build 9.0.6604 (9.0.2911.0)
+In-Reply-To: <000801c4f4b7$726f0f10$e800510a@CCERTDAWEI>
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1441
+Importance: Normal
+Content-Transfer-Encoding: 8bit
+X-MIME-Autoconverted: from base64 to 8bit by home.ccert.edu.cn id j090DOPn016153
+X-UIDL: /6:"!VkB!!n*0!!9`U"!
+
+意大利Aprilia股份公司北京办事处招聘信息
+公司背景：
+意大利Aprilia股份公司是欧洲第二大的摩托车生产商，
+从2002年起，开始在国内开展零部件采购和新车型研发工作。
+详情请访问公司网站 www.aprilia.com www.aprilia.com.cn
+招聘职位： 工程师 
+基本要求：
+1.汽车、机械或相关专业背景本科以上学历
+2.优秀的的英语水平，与外籍工程师交流无障碍
+ （懂意大利语者优先）
+3.能适应出差
+特殊要求：（作为优先考虑条件）
+1. 了解摩托车（汽车）构造
+2. 熟悉2D/3D机械设计UG/ProE/AutoCAD
+3. 过摩托车、汽车行业工作经验
+4. 有一定国际贸易知识
+注意：
+1. 本职位只招收全职，不考虑兼职
+2. 一经录取，要求马上到岗
+有意者请将中英文简历以及联系方式
+发E-mail至: tinawu@aprilia.com.cn
+－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－
+

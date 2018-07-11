@@ -1,0 +1,65 @@
+Return-Path: <kang@mails.tsinghua.edu.cn>
+Received: from tsinghua.org.cn ([210.77.143.228])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id iAI1aF0c003494
+	for <jiang@ccert.edu.cn>; Thu, 18 Nov 2004 09:36:17 +0800
+Received: (eyou send program); Thu, 18 Nov 2004 09:48:37 +0800
+Received: (eyou send program); Thu, 18 Nov 2004 09:48:37 +0800
+X-EYOU-ORIGINAL-IP: 210.77.143.235
+X-EYOU-ENVELOPE-MAILFROM: toefl-bounces@server.cool-meeting.com
+Received: from unknown (HELO eyou.net) (unknown@210.77.143.235)
+ by 210.77.143.228 with SMTP; Thu, 18 Nov 2004 09:48:37 +0800
+Received: (eyou send program); Thu, 18 Nov 2004 09:44:22 +0800
+Message-ID: <300742262.18874@eyou.net>
+Received: from 202.38.99.65 by 210.77.143.235 with SMTP; Thu, 18 Nov 2004 09:44:20 +0800
+Received: from server.cool-meeting.com (localhost.localdomain [127.0.0.1])
+	by server.cool-meeting.com (8.12.8/8.12.8) with ESMTP id iAI224lZ015880
+	for <jiang@ccert.edu.cn>; Thu, 18 Nov 2004 10:02:23 +0800
+Received: from mails.tsinghua.edu.cn (mails.tsinghua.edu.cn [166.111.8.16])
+	by server.cool-meeting.com (8.12.8/8.12.8) with SMTP id iAI21ukr015876
+	for <jiang@ccert.edu.cn>; Thu, 18 Nov 2004 10:01:56 +0800
+Received: (eyou send program); Thu, 18 Nov 2004 09:42:46 +0800
+Message-ID: <300742166.06896@mails.tsinghua.edu.cn>
+Received: from unknown (HELO mails.tsinghua.edu.cn) (unknown@127.0.0.1)
+	by 127.0.0.1 with SMTP; Thu, 18 Nov 2004 09:42:46 +0800
+X-scanvirus: By Symantec Scan Engine
+X-scanresult: CLEAN
+Received: (eqmail ); 18 Nov 2004 01:42:44 -0000
+Received: from unknown (HELO ft250) (dais00@61.149.254.182)
+	by mails.tsinghua.edu.cn with SMTP; 18 Nov 2004 01:42:44 -0000
+From: "kang" <kang@mails.tsinghua.edu.cn>
+To: jiang@ccert.edu.cn
+Subject: =?gb2312?B?UmU6INPWtb3J+sjVo6y78tDtsrvTprjDzKvJy7jQo7qjqQ==?=
+Date: Thu, 18 Nov 2004 09:47:52 +0800
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+X-Mailer: Microsoft Office Outlook, Build 11.0.5510
+Thread-Index: AcTMs3ItAnc334rMTfGBEIFjEmz/YAAXSPRg
+In-Reply-To: <300702456.04081@mails.tsinghua.edu.cn>
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+Content-Transfer-Encoding: 8bit
+X-MIME-Autoconverted: from base64 to 8bit by server.cool-meeting.com id
+	iAI21ukr015876
+Cc: 
+X-BeenThere: toefl@server.cool-meeting.com
+X-Mailman-Version: 2.1.2
+Precedence: list
+List-Id: &#26446;&#26143;&#21644;&#20182;&#30340;&#23398;&#29983;&#20204;
+	<toefl.server.cool-meeting.com>
+List-Unsubscribe: <http://server.cool-meeting.com/mailman/listinfo/toefl>,
+	<mailto:toefl-request@server.cool-meeting.com?subject=unsubscribe>
+List-Archive: <http://server.cool-meeting.com/mailman/private/toefl>
+List-Post: <mailto:toefl@server.cool-meeting.com>
+List-Help: <mailto:toefl-request@server.cool-meeting.com?subject=help>
+List-Subscribe: <http://server.cool-meeting.com/mailman/listinfo/toefl>,
+	<mailto:toefl-request@server.cool-meeting.com?subject=subscribe>
+Sender: toefl-bounces@server.cool-meeting.com
+Errors-To: toefl-bounces@server.cool-meeting.com
+X-UIDL: J5L"!Mc`!!k?7"!~e=!!
+
+孤独是正常的，寂寞又如何呢？
+just relax, and happy birthday!
+: 忽然有点害怕过生日，不是怕变老，只是觉得孤独。
+: 去年的这个时候，我在糊涂上发帖子祝自己生日快乐，今年还是自己祝自己生日快乐，也相信生日那天会收到家人朋友的祝福，可是这句“生日快乐”是不是客套的都失去了它自己的意义了呢。
+: 今年算是真正的整二十岁生日了吧，在外地上学，没法和爸爸妈妈一起，现在真的好怀念在家的日子，想想真的就泪流满面，想爸爸妈妈烧的好吃的，和他们一起聊天的时光。从小偶就是一个话比较多的人，每天放学回家从吃饭前一直扯到洗完碗，有时还坐在客厅靠在爸爸或妈妈怀里再接着聊，说到没话说了再去写作业。爸爸妈妈以前为了照顾我，放弃了很多机会，现在我上大学了，他们也就放开工作了，工作很辛苦也很忙，而且分隔两地，爸爸隔三个月会回家一次，妈妈也是忙起来就早出晚归的。他们现在每周都会给我打电话，但是比起以前一家人在一起的? ...................
+

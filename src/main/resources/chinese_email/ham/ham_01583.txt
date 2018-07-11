@@ -1,0 +1,36 @@
+Return-Path: <chi@rbl.ccert.edu.cn>
+Received: from rbl.ccert.edu.cn (rbl.ccert.edu.cn [202.112.57.71])
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id i97L9QXL025703
+	for <guo@ccert.edu.cn>; Fri, 8 Oct 2004 05:09:26 +0800 (CST)
+Received: from rbl.ccert.edu.cn (localhost.localdomain [127.0.0.1])
+	by rbl.ccert.edu.cn (8.12.11/8.12.11) with ESMTP id i97LFR81025727
+	for <guo@ccert.edu.cn>; Fri, 8 Oct 2004 05:15:27 +0800
+Received: (from qa@localhost)
+	by rbl.ccert.edu.cn (8.12.11/8.12.11/Submit) id i97LFRFM025726;
+	Fri, 8 Oct 2004 05:15:27 +0800
+Date: Fri, 8 Oct 2004 05:15:27 +0800
+Message-Id: <200410072115.i97LFRFM025726@rbl.ccert.edu.cn>
+Subject: =?gb2312?B?ofEgu6rT0crAvM3NqNG209DP3rmry77V0Ma4svrGt7mks8zKpi+y+sa3vq3A7Q==?=
+To: guo@ccert.edu.cn
+From: Tran Quang Anh <chi@cernet.edu.cn>
+Content-Type: multipart/mixed; boundary="----------=_1097183727-1044-114"
+MIME-Version: 1.0
+X-UIDL: #-#"!bQ/!!c29"!Y`K!!
+
+职位名称：产品工程师/产品经理
+隶属部门：软件产品部-产品管理部
+职位描述：
+1.负责公司自有软件的需求分析及产品定义
+2.负责产品的售前支持，撰写技术方案及方案讲解
+3.负责进行产品的实施、部署的协调工作
+任职资格：
+1.大学本科以上学历，计算机及管理相关专业
+2.对移动数据增值业务有深刻的理解和认知
+3.英文良好，能顺畅地阅读相关资料
+4.具有软件产品分析设计能力及项目管理能力
+5.具有优秀的团队合作精神、敬业精神，良好的沟通技巧
+6.勤奋敬业，有上进心，人品正直 
+请有意者直接发到我的邮箱：mengli@hurray.com.cn
+我将代转发到人力资源部相关负责人。
+祝各位求职好运！！
+

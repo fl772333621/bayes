@@ -1,0 +1,45 @@
+Return-Path: <lv@tsinghua.edu.cn>
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id iAS45ERj023765
+	for <chen@ccert.edu.cn>; Sun, 28 Nov 2004 12:05:14 +0800 (CST)
+Received: (eyou send program); Sun, 28 Nov 2004 11:50:01 +0800
+Message-ID: <301613801.15054@mail.tsinghua.edu.cn>
+Received: from unknown (HELO mail.tsinghua.edu.cn) (unknown@127.0.0.1)
+ by 127.0.0.1 with SMTP; Sun, 28 Nov 2004 11:50:01 +0800
+X-scanvirus: By Symantec Scan Engine
+X-scanresult: CLEAN
+Received: (eqmail ); 28 Nov 2004 03:49:54 -0000
+Received: from unknown (HELO sony) (duanhx@166.111.204.105)
+  by localhost with SMTP; 28 Nov 2004 03:49:54 -0000
+Message-ID: <007701c4d4ff$698e02c0$69cc6fa6@sony>
+From: "lv" <lv@tsinghua.edu.cn>
+To: chen@ccert.edu.cn
+Subject: Fw: weblog
+Date: Sun, 28 Nov 2004 12:04:50 +0800
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="----=_NextPart_000_0075_01C4D542.76798610"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2900.2180
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+X-UIDL: PSH"!(Yo"!NB8"!%Y>"!
+
+我的人生规划——or 梦想：
+    先在某个小区摆个停自行车的摊位，每月1000块钱；一年后再弄个摊位，于是每月2000，然后再开2个摊位....
+    五年后，成立北京市自行车摊位连锁集团公司....
+    二十年后，成立中国自行车摊位连锁集团公司...
+    三十年后，......
+    仅供参考.
+: 我以前是一个小单位的职工，一个月1.4k，去年就办理了离职手续。然后作为实习生在bell实习了几个月，一个月2.4k多。今年4月到一家公司实习，7k；现在已经有两个offer等我了，一个12k，一个13k。
+: 以前只是想着8k就不错了，幸好没有满足亚，不然可能就是8k了。
+: 很多时候，人需要激情和努力的，当大家都在考虑10k的薪金的时候，买蔬菜的大妈已经年薪10多万了，开车的司机已经20多万了，开个小饭店的老板已经30万以上了......
+: 这些都是我的朋友，或者自己亲眼所见的，而且很多更多的就不说了。
+: 不要为眼前6k的薪金难过，不要为10多k的满意，我们这个时代充满了机遇，未来的发展
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+才是我们应该关心的，最重要的是，IT的白领、蓝领不是真正的有钱人，很多小买卖做好了
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+，一样是很厉害的。
+~~~~~~~~~~~~~~~~~
+: 仅供参考。
+

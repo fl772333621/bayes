@@ -1,0 +1,25 @@
+Return-Path: <cen@rbl.ccert.edu.cn>
+Received: from rbl.ccert.edu.cn (rbl.ccert.edu.cn [202.112.57.71])
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id i96AxhSK003325
+	for <qing@ccert.edu.cn>; Wed, 6 Oct 2004 18:59:43 +0800 (CST)
+Received: from rbl.ccert.edu.cn (localhost.localdomain [127.0.0.1])
+	by rbl.ccert.edu.cn (8.12.11/8.12.11) with ESMTP id i96B5d4S016708
+	for <qing@ccert.edu.cn>; Wed, 6 Oct 2004 19:05:39 +0800
+Received: (from qa@localhost)
+	by rbl.ccert.edu.cn (8.12.11/8.12.11/Submit) id i96B5dr3016707;
+	Wed, 6 Oct 2004 19:05:39 +0800
+Date: Wed, 6 Oct 2004 19:05:39 +0800
+Message-Id: <200410061105.i96B5dr3016707@rbl.ccert.edu.cn>
+Subject: =?gb2312?B?ofEgw9TDo7XYx7DQ0NfF?=
+To: qing@ccert.edu.cn
+From: Tran Quang Anh <cen@cernet.edu.cn>
+Content-Type: multipart/mixed; boundary="----------=_1097060739-996-598"
+MIME-Version: 1.0
+X-UIDL: 2=R!!\:>"!I$9"!:!l"!
+
+不止是这段时间，不知道自己要做些什么，而是自从考上研究生以来，都不知要做些什么。人生若是没有了目标就像茫茫大海中没有方向的航船一样，不知驶向何方。
+整天瞎呆在实验室里面，整天跟大肠杆菌打着交道，整天没有准儿吃饭，整天不知道时间就这样不留情的消逝，整天就这样……就这样，又过了两个春夏秋冬，就这样又在自己身上划多了两圈年轮。却毫无所知这这两个春夏秋冬为何而过，这两圈年轮为何而划？而只能慢慢地等待着下一个春秋和下一圈年轮。好无奈，但这又有什么用，这一切都是自己的，只能自己忍气吞声着。
+研究生的生活并没有考研前我所想象的那么的快乐和愉悦，并不是因为自己不会寻找快乐，而是因为事实本来就是这样：活在这里太闷了，根本找不到自己前行的方向。根本就捕像在读研究生，而是像一个挂着牌子的小混混，而且也混不出什么名堂出来。看资料，听歌，上网，做实验，就这样一天一天的混着，直到毕业的那天。或许，我已经能够想象到毕业前的这些时间是怎样度过的：）
+对于这些虚度的光阴，根本就谈不上什么生活，也谈不上什么读书，对我来说，根本什么都谈不上。要是苦苦工作的父母和导师知道了这些，我想他们真的很生气，因为从一个乖乖孩子变成了小混混，真的可以细细品味着“可怜天下父母心”这一句话了。
+到底，自己现在何处，改向何方？
+

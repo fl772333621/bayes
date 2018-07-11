@@ -1,0 +1,41 @@
+Return-Path: <fu@tsinghua.edu.cn>
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id iBG509Si018987
+	for <wei@ccert.edu.cn>; Thu, 16 Dec 2004 13:00:09 +0800 (CST)
+Received: (eyou send program); Thu, 16 Dec 2004 12:44:47 +0800
+Message-ID: <303172286.15946@mail.tsinghua.edu.cn>
+Received: from unknown (HELO mail.tsinghua.edu.cn) (unknown@127.0.0.1)
+ by 127.0.0.1 with SMTP; Thu, 16 Dec 2004 12:44:47 +0800
+X-scanvirus: By Symantec Scan Engine
+X-scanresult: CLEAN
+Received: (eqmail ); 16 Dec 2004 04:18:03 -0000
+Received: from unknown (HELO sony) (duanhx@166.111.204.106)
+  by localhost with SMTP; 16 Dec 2004 04:18:03 -0000
+Message-ID: <006601c4e328$5d4a6490$6acc6fa6@sony>
+From: "fu" <fu@tsinghua.edu.cn>
+To: wei@ccert.edu.cn
+Cc: <guo@ccert.edu.cn>, <lian@ccert.edu.cn>, <tao@ccert.edu.cn>,
+        <liu@ccert.edu.cn>, <ren@ccert.edu.cn>, <you@ccert.edu.cn>,
+        <he@ccert.edu.cn>, <qing@ccert.edu.cn>
+Subject: =?gb2312?B?ofEgs87H5dK7z8KwyQ==?=
+Date: Thu, 16 Dec 2004 12:33:15 +0800
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="----=_NextPart_000_0064_01C4E36B.6A66E2F0"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2900.2180
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+X-UIDL: ?4?"!E%/"!<hV"!\>G!!
+
+没想到这个帖子被转到了这里，还引发了大家的讨论、置疑和猜测。那我来做几点说明吧
+1。就像题目所说，是昨天等丽华的订餐时，比较空闲，就把正在看的通讯录上的一栏贴在这里。
+2。贴这个帖子出来主要时觉得大部分同学都去了运营商，比较有北邮特色，贴出来可以给高考填志愿的小孩子们作个参考。绝无挑起校际争端的想法，也不想和谁谁攀比。
+3。我们班是98年入学，2002年本科毕业，10人就业，20人读研。2005年研究生毕业，其中一位在清华的直博生继续学业，一个北邮读研的同学去香港读PHD，剩下18位研究生就业。本科就业的10位学生工作没有变化。
+4。一部分同学留京，其他在外地工作的一部分是去了家乡的运营。通过这几年的观察，在家乡的运营商工作，还是很滋润的，不比在北京运营商的情况差。
+5。这个列表的最后8个是班里女生的就业情况。其实我更希望大家能讨论一下男生和女生的就业差别，也可以给以后找工作的女生提供一下参考。没想到大家一下子就跑到校际争端的圈子里去了。^_^
+: 发信人: whitetea (重拾目标), 信区: Career_Offer
+: 标  题: 闲着无事：贴一下本科班的就业情况
+: 发信站: BBS 水木清华站 (Sun Jun 12 13:03:25 2005), 站内
+: ...................
+

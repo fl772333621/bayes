@@ -1,0 +1,26 @@
+Return-Path: <hu@yahoo.com>
+Received: from tsinghua.org.cn ([210.77.143.228])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id i983iEQf002773
+	for <ren@ccert.edu.cn>; Fri, 8 Oct 2004 11:44:19 +0800
+Message-Id: <200410080344.i983iEQf002773@home.ccert.edu.cn>
+Received: (eyou send program); Fri, 08 Oct 2004 11:54:52 +0800
+Received: (eyou send program); Fri, 08 Oct 2004 11:54:50 +0800
+X-EYOU-ORIGINAL-IP: 212.100.64.69
+X-EYOU-ENVELOPE-MAILFROM: henrynnanna2004@yahoo.com
+Received: from unknown (HELO 2mails1087.com) (unknown@212.100.64.69)
+ by 210.77.143.228 with SMTP; Fri, 08 Oct 2004 11:54:50 +0800
+From: "hu" <hu@yahoo.com>
+Reply-To: hu@yahoo.com
+To: ren@ccert.edu.cn
+Date: Fri, 8 Oct 2004 04:58:23 -0700
+Subject: =?gb2312?B?ofEgzca89qGwMi4xOMDtwtuhsQ==?=
+X-Mailer: Microsoft Outlook Express 5.00.2919.6900 DM
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----------=_1097207062-27012-134"
+X-UIDL: 6'*!!nY5!!f3&#!Ll,"!
+Status: U
+
+“汪中求式”的“2.18分理论”。人的智商分为智力因素和非智力因素2大部分，从对人的一生的作用来分，智力因素占40%的权重；在智力因素中知识和技能的对比中，我们认为知识占40%的权重；知识又分书本知识和社会知识，书本知识占40%的权重；书本知识能在实际生活中应用的又占40%的权重。假设我们同意以上的权重的分配，那么，总平均85分的在校学生获得的总智商分数是：1×40%×40%×40%×40%×85≈2.18（分）。当然，我们不可能没有非智力因素得分，也不可能没有技能和社会知识得分。这个“2.18分”的说法只是想给高才生们一个提醒：每一个学生都可能成为人才，但仅凭手头的几张分数单，就认为自己已经是一个人才，就大错特错了。
+以上文字摘自《细节决定成败》
+推荐给即将找或者正在找工作的xdjm们，在2.18的基础上，怎么去争取剩下的97.82分，值得思考啊。
+

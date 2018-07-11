@@ -1,0 +1,29 @@
+Return-Path: <lu@mails.tsinghua.edu.cn>
+Received: from mails.tsinghua.edu.cn (mails.tsinghua.edu.cn [166.111.8.16])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j0HAjc8I028841
+	for <gong@ccert.edu.cn>; Mon, 17 Jan 2005 18:45:38 +0800 (CST)
+X-scanvirus: By SOPHOS Scan Engine
+X-scanresult: CLEAN
+X-Received: unknown,166.111.154.210,20050117184354
+Received: from unknown (HELO xiner) (xwang03@166.111.154.210)
+  by localhost with SMTP; 17 Jan 2005 10:43:54 -0000
+Message-ID: <002001c4fc81$a554df00$d29a6fa6@xiner>
+From: "lu" <lu@mails.tsinghua.edu.cn>
+To: gong@ccert.edu.cn
+Subject: =?gb2312?B?UmU6INKyvbK9ss7StcS40Mfpvq3A+rDJLNDEy+m1xLjQvvU=?=
+Date: Mon, 17 Jan 2005 18:45:21 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_001D_01C4FCC4.B28E5B40"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2800.1437
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1441
+X-UIDL: G&5!!H]%"!>2%#!)V_!!
+
+我学着去好好的善待生命出现的每一个的MM，可惜如何也没有得到需要真诚和爱的她们
+: 和他是在网上认识的,开始相识也只是普通般的聊天,感觉他像个小弟弟似的，他也总叫我姐姐，后来一问才知道，那年他已经是清华研一的学生了,而我是离着不远一个高校大二的学生.
+: 我们在一起也讲起了感情的事情，他说他正追求一个有了GG的MM,还问我应该怎么办,我给他出了些主意,不过后来还是未果,他打趣的说想让我做他MM,哪怕只有一个星期也可以.我想那时也许他那时只是感情挫败，一时寂寞吧.
+: 后来我们互换了照片，然后又见了面,一起打球,吃饭,我们都觉得很开心,只是他总是有心事的样子。
+: ...................
+

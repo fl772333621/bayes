@@ -1,0 +1,28 @@
+Return-Path: <ou@rbl.ccert.edu.cn>
+Received: from rbl.ccert.edu.cn (rbl.ccert.edu.cn [202.112.57.71])
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id i96ARZjA002803
+	for <che@ccert.edu.cn>; Wed, 6 Oct 2004 18:27:35 +0800 (CST)
+Received: from rbl.ccert.edu.cn (localhost.localdomain [127.0.0.1])
+	by rbl.ccert.edu.cn (8.12.11/8.12.11) with ESMTP id i96AXVe7025462
+	for <che@ccert.edu.cn>; Wed, 6 Oct 2004 18:33:31 +0800
+Received: (from qa@localhost)
+	by rbl.ccert.edu.cn (8.12.11/8.12.11/Submit) id i96AXVuM025461;
+	Wed, 6 Oct 2004 18:33:31 +0800
+Date: Wed, 6 Oct 2004 18:33:31 +0800
+Message-Id: <200410061033.i96AXVuM025461@rbl.ccert.edu.cn>
+Subject: =?gb2312?B?UmU6ILu7v9PBy7Cho6y087zSvvW1w9fUvLq1xLCuyseyu8rH0OjSqrvYsai1xMTH1tajvw==?=
+To: che@ccert.edu.cn
+From: Tran Quang Anh <ou@cernet.edu.cn>
+Content-Type: multipart/mixed; boundary="----------=_1097058811-996-556"
+MIME-Version: 1.0
+X-UIDL: 7NH!!0dG!!*5p"!$X'!!
+
+以前我看过轻快的文章，要懂得给予。
+他想 要一个苹果，但是你只给他一个李子，因为你爱吃，你觉得好吃
+但是你知道他其实非常讨厌吃李子。要用对方喜欢的方式。给对方想要的东西
+就像别人说的，人际交往以对方为中心。包括爱人
+: 我希望他什么事情都想着我，不要让我担心，要最大程度的让我安心
+: 平时出去做什么重要一点的事情，给我发个短信，让我知道他在做什么
+: 这样想他了也不至于打扰他（他认为我是想监视他....）
+: ...................
+

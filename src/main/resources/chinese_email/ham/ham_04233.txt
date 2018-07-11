@@ -1,0 +1,52 @@
+Return-Path: <liu@ns.6test.edu.cn>
+Received: from tsinghua.org.cn ([210.77.143.228])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id i9I9ewku023513
+	for <guan@ccert.edu.cn>; Mon, 18 Oct 2004 17:41:00 +0800
+Received: (eyou send program); Mon, 18 Oct 2004 17:52:01 +0800
+Received: (eyou send program); Mon, 18 Oct 2004 17:51:59 +0800
+X-EYOU-ORIGINAL-IP: 202.38.99.65
+X-EYOU-ENVELOPE-MAILFROM: toefl-bounces@server.cool-meeting.com
+Received: from unknown (HELO server.cool-meeting.com) (unknown@202.38.99.65)
+ by 210.77.143.228 with SMTP; Mon, 18 Oct 2004 17:51:59 +0800
+Received: from server.cool-meeting.com (localhost.localdomain [127.0.0.1])
+	by server.cool-meeting.com (8.12.8/8.12.8) with ESMTP id i9I9ksli025257
+	for <guan@ccert.edu.cn>; Mon, 18 Oct 2004 17:47:01 +0800
+Received: from ns.6test.edu.cn ([202.38.99.18])
+	by server.cool-meeting.com (8.12.8/8.12.8) with ESMTP id i9I9kqkr025253
+	for <guan@ccert.edu.cn>; Mon, 18 Oct 2004 17:46:52 +0800
+Received: from [202.38.99.73] (helo=[202.38.99.73])
+	by ns.6test.edu.cn with asmtp (Exim 4.12) id 1CJUF8-0000KL-00
+	for toefl@server.cool-meeting.com; Mon, 18 Oct 2004 17:55:54 +0800
+Mime-Version: 1.0 (Apple Message framework v619)
+Message-Id: <63DA9954-20E9-11D9-AC07-000D93AF6D96@ns.6test.edu.cn>
+Content-Type: text/plain; charset=EUC-CN; format=flowed
+To: guan@ccert.edu.cn
+From: CHEN Maoke <liu@ns.6test.edu.cn>
+Date: Mon, 18 Oct 2004 17:37:55 +0800
+X-Mailer: Apple Mail (2.619)
+Content-Transfer-Encoding: 8bit
+X-MIME-Autoconverted: from base64 to 8bit by server.cool-meeting.com id
+	i9I9kqkr025253
+Subject: =?gb2312?B?ofEgztLE3Lm71/a1vbXEvLi148C20dW1xNKqx/OjoaOhubttbbXE0qrH88Lwo7+joQ==?=
+X-BeenThere: toefl@server.cool-meeting.com
+X-Mailman-Version: 2.1.2
+Precedence: list
+List-Id: &#26446;&#26143;&#21644;&#20182;&#30340;&#23398;&#29983;&#20204;
+	<toefl.server.cool-meeting.com>
+List-Unsubscribe: <http://server.cool-meeting.com/mailman/listinfo/toefl>,
+	<mailto:toefl-request@server.cool-meeting.com?subject=unsubscribe>
+List-Archive: <http://server.cool-meeting.com/mailman/private/toefl>
+List-Post: <mailto:toefl@server.cool-meeting.com>
+List-Help: <mailto:toefl-request@server.cool-meeting.com?subject=help>
+List-Subscribe: <http://server.cool-meeting.com/mailman/listinfo/toefl>,
+	<mailto:toefl-request@server.cool-meeting.com?subject=subscribe>
+Sender: toefl-bounces@server.cool-meeting.com
+Errors-To: toefl-bounces@server.cool-meeting.com
+X-UIDL: hL!"!=nY"!Z5A!!5W7!!
+
+　　2、健康快乐的男性：快乐的人是谁都不讨厌的，特别是俗务缠身，还能保持一颗健康快乐心的男人，他的人生必定是积极的，会带给你快乐，帮你释放压力。
+　　3、志趣相投的男人：拥有共同的语言，无疑是最容易引为知己的条件。
+5、愿意倾听的圈外人：处于不同的社交圈，自然会以旁观者的身份看问题，而不带有个人色彩，而且很多时候，你需要的也只是一个好的听众。
+8、心地宽厚的男人：宽厚的胸怀比宽厚的肩膀更有用，当你举步维艰的时候，这种包容的温暖是无可替代的。
+10、人品过硬的男人：和这样的男人交往，即便很亲密，也不会带来闲言碎语，干扰你本来很平静的生活。
+

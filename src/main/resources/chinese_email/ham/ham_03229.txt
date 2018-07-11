@@ -1,0 +1,60 @@
+Return-Path: <yang@runway.cn.net>
+Received: from tsinghua.org.cn ([210.77.143.232])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with SMTP id j4D2jutE031108
+	for <ma@ccert.edu.cn>; Fri, 13 May 2005 10:46:08 +0800
+Received: (eyou send program); Fri, 13 May 2005 11:02:32 +0800
+Message-ID: <315953352.27109@tsinghua.org.cn>
+X-EYOU-AUTOFORWARD: tsinghua.org.cn
+Received: (eyou send program); Fri, 13 May 2005 11:02:32 +0800
+Message-ID: <315953352.05920@tsinghua.org.cn>
+Received: from unknown (HELO eyou.net) (210.77.143.235)
+ by 210.77.143.232 with SMTP; Fri, 13 May 2005 11:02:32 +0800
+X-EYOU-SPAMVALUE: 0
+Received: (eyou anti_spam gateway 3.0); Fri, 13 May 2005 10:51:46 +0800
+Message-ID: <315952706.06818@eyou.net>
+Received: from 202.112.49.111 by 210.77.143.235 with SMTP; Fri, 13 May 2005 10:51:46 +0800
+Received: from Garfield. (localhost [IPv6:::1])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with ESMTP id j4D2vTeN039157
+	for <ma@ccert.edu.cn>; Fri, 13 May 2005 10:57:46 +0800 (CST)
+	(envelope-from toefl-bounces@gradinfo.net.edu.cn)
+Received: from runway.cn.net ([211.99.140.229])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with ESMTP id j4D2vP3H039151
+	for <ma@ccert.edu.cn>; Fri, 13 May 2005 10:57:26 +0800 (CST)
+	(envelope-from ych@runway.cn.net)
+Received: from ych ([192.168.1.71]) (authenticated bits=0)
+	by runway.cn.net (8.12.2/8.12.2) with ESMTP id j4D2xUq2024457
+	for <ma@ccert.edu.cn>; Fri, 13 May 2005 10:59:31 +0800 (CST)
+Message-Id: <200505130259.j4D2xUq2024457@runway.cn.net>
+Date: Fri, 13 May 2005 11:02:26 +0800
+From: "yang" <yang@runway.cn.net>
+To: ma@ccert.edu.cn
+Subject: =?gb2312?B?UmU6INT1w7TF0LbP1dDGuLWlzrvKx7K7ysfT0Mbbxq3Q0M6qo78=?=
+Organization: Runway
+X-mailer: Foxmail 5.0 [cn]
+Mime-Version: 1.0
+X-BeenThere: toefl@gradinfo.net.edu.cn
+X-Mailman-Version: 2.1.5
+Precedence: list
+Reply-To: yang@runway.cn.net
+List-Id: "&#26446; &#26143; &#21644; &#20182; &#30340; &#23398; &#29983;
+	&#20204; " <toefl.gradinfo.net.edu.cn>
+List-Unsubscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=unsubscribe>
+List-Archive: <http://gradinfo.net.edu.cn/mailman/private/toefl>
+List-Post: <mailto:toefl@gradinfo.net.edu.cn>
+List-Help: <mailto:toefl-request@gradinfo.net.edu.cn?subject=help>
+List-Subscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=subscribe>
+Content-Type: multipart/mixed; boundary="===============0786097420=="
+Sender: toefl-bounces@gradinfo.net.edu.cn
+Errors-To: toefl-bounces@gradinfo.net.edu.cn
+X-UIDL: 7<"#!;0["!&Vm"!%9^"!
+
+记住就行了：所有要交钱的，不管这个钱交到哪里的，都是骗人的杂种公司！
+象房地产经纪企业绝大部分都是他妈的骗子企业，和“正规”的培训机构一起骗人。根本没有办法告他们。
+当然了，我没有受骗，只不过很气愤。
+: 这几天朋友在北京找工作
+: 投了几家房地产公司，接到了几个面试电话
+: 但网上有好多骗人的单位，尤其象房地产这类，往往都说需要有从业证之类的，得参加培训
+: ...................
+

@@ -1,0 +1,59 @@
+Return-Path: <wen@runway.cn.net>
+Received: from tsinghua.org.cn ([210.77.143.232])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with SMTP id j4D2jutE031108
+	for <ni@ccert.edu.cn>; Fri, 13 May 2005 10:46:08 +0800
+Received: (eyou send program); Fri, 13 May 2005 11:02:32 +0800
+Message-ID: <315953352.27109@tsinghua.org.cn>
+X-EYOU-AUTOFORWARD: tsinghua.org.cn
+Received: (eyou send program); Fri, 13 May 2005 11:02:32 +0800
+Message-ID: <315953352.05920@tsinghua.org.cn>
+Received: from unknown (HELO eyou.net) (210.77.143.235)
+ by 210.77.143.232 with SMTP; Fri, 13 May 2005 11:02:32 +0800
+X-EYOU-SPAMVALUE: 0
+Received: (eyou anti_spam gateway 3.0); Fri, 13 May 2005 10:51:46 +0800
+Message-ID: <315952706.06818@eyou.net>
+Received: from 202.112.49.111 by 210.77.143.235 with SMTP; Fri, 13 May 2005 10:51:46 +0800
+Received: from Garfield. (localhost [IPv6:::1])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with ESMTP id j4D2vTeN039157
+	for <ni@ccert.edu.cn>; Fri, 13 May 2005 10:57:46 +0800 (CST)
+	(envelope-from toefl-bounces@gradinfo.net.edu.cn)
+Received: from runway.cn.net ([211.99.140.229])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with ESMTP id j4D2vP3H039151
+	for <ni@ccert.edu.cn>; Fri, 13 May 2005 10:57:26 +0800 (CST)
+	(envelope-from ych@runway.cn.net)
+Received: from ych ([192.168.1.71]) (authenticated bits=0)
+	by runway.cn.net (8.12.2/8.12.2) with ESMTP id j4D2xUq2024457
+	for <ni@ccert.edu.cn>; Fri, 13 May 2005 10:59:31 +0800 (CST)
+Message-Id: <200505130259.j4D2xUq2024457@runway.cn.net>
+Date: Fri, 13 May 2005 11:02:26 +0800
+From: "wen" <wen@runway.cn.net>
+To: ni@ccert.edu.cn
+Subject: =?gb2312?B?UmU6ILn6xNq1xFBIRMLbzsQ=?=
+Organization: Runway
+X-mailer: Foxmail 5.0 [cn]
+Mime-Version: 1.0
+X-BeenThere: toefl@gradinfo.net.edu.cn
+X-Mailman-Version: 2.1.5
+Precedence: list
+Reply-To: wen@runway.cn.net
+List-Id: "&#26446; &#26143; &#21644; &#20182; &#30340; &#23398; &#29983;
+	&#20204; " <toefl.gradinfo.net.edu.cn>
+List-Unsubscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=unsubscribe>
+List-Archive: <http://gradinfo.net.edu.cn/mailman/private/toefl>
+List-Post: <mailto:toefl@gradinfo.net.edu.cn>
+List-Help: <mailto:toefl-request@gradinfo.net.edu.cn?subject=help>
+List-Subscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=subscribe>
+Content-Type: multipart/mixed; boundary="===============0786097420=="
+Sender: toefl-bounces@gradinfo.net.edu.cn
+Errors-To: toefl-bounces@gradinfo.net.edu.cn
+X-UIDL: 7<"#!;0["!&Vm"!%9^"!
+
+呵呵.没有必要回那你回什么?我觉得我说得没有错呀.你什么专业的?看来你的论文也是简单的资料堆积呀.这也叫论文........大家应该思考一下什么是论文???
+还有各位老兄希望你(特别是会计金融的)PHD说说你们PHD第一年学什么课程.这里居然说国内的PHD没有作业.晕!!!国内的PHD真的不用上课没有作业吗?奇怪的培养方式:)
+: 呵呵看看他以前发的帖子就知道怎么回事了。这个人的帖子根本就没有re的必要。
+: 知道现在有个很e的网络红人叫“frjj”的么？这小子跟frjj有一拼：
+: 一个是狂赞自己，一个是狂扁别人。
+: ...................
+

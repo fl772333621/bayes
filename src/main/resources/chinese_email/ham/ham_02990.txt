@@ -1,0 +1,54 @@
+Return-Path: <hou@mails.tsinghua.edu.cn>
+Received: from tsinghua.org.cn ([210.77.143.228])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id i8M3LZ74019098
+	for <zeng@ccert.edu.cn>; Wed, 22 Sep 2004 11:21:38 +0800
+Received: (eyou send program); Wed, 22 Sep 2004 11:31:18 +0800
+Received: (eyou send program); Wed, 22 Sep 2004 11:31:17 +0800
+X-EYOU-ORIGINAL-IP: 202.38.99.65
+X-EYOU-ENVELOPE-MAILFROM: toefl-bounces@server.cool-meeting.com
+Received: from unknown (HELO server.cool-meeting.com) (unknown@202.38.99.65)
+ by 210.77.143.228 with SMTP; Wed, 22 Sep 2004 11:31:17 +0800
+Received: from server.cool-meeting.com (localhost.localdomain [127.0.0.1])
+	by server.cool-meeting.com (8.12.8/8.12.8) with ESMTP id i8M3LPlf012238
+	for <zeng@ccert.edu.cn>; Wed, 22 Sep 2004 11:21:32 +0800
+Received: from mails.tsinghua.edu.cn (mails.tsinghua.edu.cn [166.111.8.16])
+	by server.cool-meeting.com (8.12.8/8.12.8) with SMTP id i8M3LNkr012234
+	for <zeng@ccert.edu.cn>; Wed, 22 Sep 2004 11:21:23 +0800
+Received: (eyou send program); Wed, 22 Sep 2004 11:12:28 +0800
+Message-ID: <295822748.01842@mails.tsinghua.edu.cn>
+Received: from 202.112.55.97 by mails.tsinghua.edu.cn with HTTP;
+	Wed, 22 Sep 2004 11:12:28 +0800
+X-WebMAIL-MUA: [202.112.55.97]
+From: "hou" <hou@mails.tsinghua.edu.cn>
+To: zeng@ccert.edu.cn
+Date: Wed, 22 Sep 2004 11:12:28 +0800
+Content-Type: text/plain
+Subject: =?gb2312?B?ofEg1NnOytPQwcu94sqxtPrD8dC+tcTC8KOo1K2xsb6pzqK159fTy/mjqaO/?=
+X-BeenThere: toefl@server.cool-meeting.com
+X-Mailman-Version: 2.1.2
+Precedence: list
+Reply-To: hou@mails.tsinghua.edu.cn
+List-Id: &#26446;&#26143;&#21644;&#20182;&#30340;&#23398;&#29983;&#20204;
+	<toefl.server.cool-meeting.com>
+List-Unsubscribe: <http://server.cool-meeting.com/mailman/listinfo/toefl>,
+	<mailto:toefl-request@server.cool-meeting.com?subject=unsubscribe>
+List-Archive: <http://server.cool-meeting.com/mailman/private/toefl>
+List-Post: <mailto:toefl@server.cool-meeting.com>
+List-Help: <mailto:toefl-request@server.cool-meeting.com?subject=help>
+List-Subscribe: <http://server.cool-meeting.com/mailman/listinfo/toefl>,
+	<mailto:toefl-request@server.cool-meeting.com?subject=subscribe>
+Sender: toefl-bounces@server.cool-meeting.com
+Errors-To: toefl-bounces@server.cool-meeting.com
+X-UIDL: '("#!G2X!!f/2!!XY;"!
+
+本人西直门附近电气小硕
+    本来签了上地的一家大国企：彩虹集团，做等离子电视，解决北京户口，还没办理户
+口审批手续，没有签劳动合同，三方都已签完。签两年，出国则延长为五年。
+    现在想去另一家国企：时代集团，亦解决北京户口，主要做芯片，有民用
+用项目，在东高地，签三年。
+    其实签前者的目的主要是解决北京户口。
+    因为对后者的工作内容感兴趣。两者工资水平差别不大。后者稍高，较忙。
+    明天想去，招生就业办问问，听说今年毁约很难，而且期限临近，后者的地点比较偏。有些犹豫。
+    不知有没有对时代民芯的吗（原北京微电子所）比较清楚的兄弟，所以向大家求助，我的倾向是做技术，拼命毁约是否值得。
+    跟贴或回站内信都行，先谢谢大家了
+

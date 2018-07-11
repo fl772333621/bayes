@@ -1,0 +1,32 @@
+Return-Path: <hong@cernet.edu.cn>
+Received: from WHITESNOW ([220.207.84.83])
+	(authenticated bits=0)
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id j068gnt1017836
+	for <tao@ccert.edu.cn>; Thu, 6 Jan 2005 16:42:52 +0800 (CST)
+Message-ID: <006201c4f3cb$bb317db0$5354cfdc@WHITESNOW>
+From: "hong" <hong@cernet.edu.cn>
+To: tao@ccert.edu.cn
+References: <000701c4f23e$49323da0$18cb6fa6@CCERTDAWEI> <003501c4f3c4$7d82f310$5354cfdc@WHITESNOW> <004d01c4f3c7$df7980e0$18cb6fa6@CCERTDAWEI>
+Subject: =?gb2312?B?ofEg1dDGuFZDv6q3osjL1LEgKNeq1Ngp?=
+Date: Thu, 6 Jan 2005 16:42:54 +0800
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="----=_NextPart_000_005E_01C4F40E.C4DC54F0"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2900.2180
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+X-UIDL: A4F!!RXI!!E2b"!7GG"!
+
+【 以下文字转载自 VisualC 讨论区 】
+发信人: moonface (月亮的脸), 信区: VisualC
+标  题: 招聘VC开发人员
+发信站: 水木社区 (Fri Jun 10 15:30:52 2005), 站内
+要求：
+1 熟练使用MFC编程，制作图形界面
+2 有使用MFC做图形界面开发经验者优先录用
+3 工作时间：全职工作半年
+如果对你的VC编程技术很有信心，为什么不来试试呢？
+如果想提高你的VC编程技术，为什么不来尝试呢？
+可能会有更多的机会在等着你
+

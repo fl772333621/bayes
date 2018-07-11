@@ -1,0 +1,73 @@
+Return-Path: <tang@ccert.edu.cn>
+Received: from tsinghua.org.cn ([210.77.143.231])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id iB16R2xK019508
+	for <lai@ccert.edu.cn>; Wed, 1 Dec 2004 14:27:04 +0800
+Received: (eyou send program); Wed, 01 Dec 2004 14:20:09 +0800
+Received: (eyou send program); Wed, 01 Dec 2004 14:20:08 +0800
+X-EYOU-ORIGINAL-IP: 210.77.143.235
+X-EYOU-ENVELOPE-MAILFROM: zhenghui@ccert.edu.cn
+Received: from unknown (HELO eyou.net) (unknown@210.77.143.235)
+ by 210.77.143.231 with SMTP; Wed, 01 Dec 2004 14:20:08 +0800
+Received: (eyou send program); Wed, 01 Dec 2004 14:35:16 +0800
+Message-ID: <301882916.10077@eyou.net>
+Received: from 166.111.8.16 by 210.77.143.235 with SMTP; Wed, 01 Dec 2004 14:35:15 +0800
+Received: (eyou send program); Wed, 01 Dec 2004 14:34:48 +0800
+Message-ID: <301882888.08612@mails.tsinghua.edu.cn>
+Received: (eyou send program); Wed, 01 Dec 2004 14:34:48 +0800
+Message-ID: <301882887.00336@mails.tsinghua.edu.cn>
+Received: from unknown (HELO mails.tsinghua.edu.cn) (unknown@127.0.0.1)
+ by 127.0.0.1 with SMTP; Wed, 01 Dec 2004 14:34:48 +0800
+X-scanvirus: By Symantec Scan Engine
+X-scanresult: NOREP
+Received: (eqmail ); 1 Dec 2004 06:34:42 -0000
+Received: from ccert.edu.cn (HELO home.ccert.edu.cn) (202.112.57.12)
+  by mails.tsinghua.edu.cn with SMTP; 1 Dec 2004 06:34:42 -0000
+Received: from home.ccert.edu.cn (localhost [127.0.0.1])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id iB16QShF019474;
+	Wed, 1 Dec 2004 14:26:28 +0800
+Received: (from majordomo@localhost)
+	by home.ccert.edu.cn (8.13.1/8.13.1/Submit) id iB16QSbb019473;
+	Wed, 1 Dec 2004 14:26:28 +0800
+X-Authentication-Warning: home.ccert.edu.cn: majordomo set sender to owner-ccertstaff using -f
+Received: from ccertspark (tu203021.tsinghua.edu.cn [166.111.203.21])
+	(authenticated bits=0)
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id iB16PcBe019451;
+	Wed, 1 Dec 2004 14:25:38 +0800
+From: "tang" <tang@ccert.edu.cn>
+To: lai@ccert.edu.cn
+Cc: <yang@ccert.edu.cn>
+Subject: =?gb2312?B?ofEgtKnUvcTPsbG1xMG1x+mjraOtztK6zWJmtcS5ysrCIDEz?=
+Date: Wed, 1 Dec 2004 14:37:34 +0800
+Message-ID: <000c01c4d770$3e023ea0$15cb6fa6@ccertspark>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_000D_01C4D7B3.4C270540"
+X-Priority: 3 (Normal)
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook, Build 10.0.6626
+X-MIMEOLE: Produced By Microsoft MimeOLE V6.00.3790.181
+In-Reply-To: <003101c4d76f$0c7459f0$18cb6fa6@CCERTDAWEI>
+Importance: Normal
+Sender: owner-ccertstaff@home.ccert.edu.cn
+Precedence: bulk
+X-UIDL: Q5I!!aE~!!MFJ"!JX^"!
+
+13。
+        我和一个高中同屋mm一起来到北京，她是我最好的朋友之一，她最爱的男朋友瞒着她同别人结婚了，失意和无奈之下，她决定来这里闯一番天地。
+        我让她偷偷住到了我的宿舍。
+        白天我去实验室，去外面兼职，中午回来和她一起吃饭，晚上尽可能留下来陪她。我陪她找工作，陪她去面试，她总是很忧郁又很弱不禁风的样子，让我特别为她担心，我在她的生活中就像一个男朋友的角色，照顾她保护她安慰她。
+        其实那个时候我也很脆弱，但我将所有的脆弱留在心里，我用忙碌来打发我的生活。
+我成立了一个协会，申请版面、招新等工作，忙得不可开交。
+        
+        我自己没有电脑，朋友找工作确实挺艰难，在她的鼓励下，我跟本校的他借了电脑用段时间。他答应的很爽快，但我隐隐觉得不爽。真的希望朋友快快找到工作好还给他。
+        
+        这段时间，麒频繁地跟我聊天，我总是很忙，说不上几句就离开了。我跟他讲我的协会，讲我的实验室，论文工作等。有时我身体不好，很累，就告诉他。也有时觉得不知道聊什么好，就说累了，不舒服了，要去休息了什么的。
+        我觉得自己很坏，或者就是想得到一些关心吧。我每次跟他讲自己身体不好的时候，他都表现出很急的样子，催我去医院，叫我多吃药什么的。看着感觉心里暖融融的。
+        
+        他整天在qq上，而我是整天挂在qq上。
+        我同学在宿舍上网，她有点任性，总是强行上我的qq，打开我的email等。
+: 12。
+:         手机终于因给麒发短信而停机，我打电话要北京的朋友帮忙充，但是电话那边没有人接。于是我们彻底失去了联系。
+: 这一年我们初中那个班聚会了，我紧赶慢赶乘车跑到县城，误过了。我很遗憾。打电话到琴的家里，他曾经是我们初中那个班的白马王子，成绩特棒，人长得精干，性格又活泼。他邀请我去他家聊聊，我不假思索地答应了。
+: ...................
+

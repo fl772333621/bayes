@@ -1,0 +1,58 @@
+Return-Path: <fu@ns.6test.edu.cn>
+Received: from tsinghua.org.cn ([210.77.143.231])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id iBEDLcRo007786
+	for <lai@ccert.edu.cn>; Tue, 14 Dec 2004 21:21:39 +0800
+Received: (eyou send program); Tue, 14 Dec 2004 21:15:02 +0800
+Received: (eyou send program); Tue, 14 Dec 2004 21:15:02 +0800
+X-EYOU-ORIGINAL-IP: 210.77.143.235
+X-EYOU-ENVELOPE-MAILFROM: toefl-bounces@server.cool-meeting.com
+Received: from unknown (HELO eyou.net) (unknown@210.77.143.235)
+ by 210.77.143.231 with SMTP; Tue, 14 Dec 2004 21:15:02 +0800
+Received: (eyou send program); Tue, 14 Dec 2004 21:29:43 +0800
+Message-ID: <303030983.31806@eyou.net>
+Received: from 202.38.99.65 by 210.77.143.235 with SMTP; Tue, 14 Dec 2004 21:29:37 +0800
+Received: from server.cool-meeting.com (localhost.localdomain [127.0.0.1])
+	by server.cool-meeting.com (8.12.8/8.12.8) with ESMTP id iBEDqVlY030270
+	for <lai@ccert.edu.cn>; Tue, 14 Dec 2004 21:53:45 +0800
+Received: from bighead.6test.edu.cn (postfix@[202.38.99.4])
+	by server.cool-meeting.com (8.12.8/8.12.8) with ESMTP id iBEDqOkr030266
+	for <lai@ccert.edu.cn>; Tue, 14 Dec 2004 21:52:24 +0800
+Received: by bighead.6test.edu.cn (Postfix, from userid 1000)
+	id 6E5B734E6; Tue, 14 Dec 2004 21:34:21 +0800 (CST)
+Date: Tue, 14 Dec 2004 21:34:21 +0800
+From: LIU Xin <fu@ns.6test.edu.cn>
+To: lai@ccert.edu.cn
+Subject: Re: [TOEFL] =?gb2312?B?sb7W3MzWwtu74Q==?=
+Message-ID: <20041214133421.GB5121@bighead.6test.edu.cn>
+References: <006801c4e1de$d234ee10$2fcb6fa6@wanglanjia>
+Mime-Version: 1.0
+Content-Type: text/plain; charset=gb2312
+Content-Disposition: inline
+Content-Transfer-Encoding: 8bit
+In-Reply-To: <006801c4e1de$d234ee10$2fcb6fa6@wanglanjia>
+User-Agent: Mutt/1.4.1i
+Cc: 
+X-BeenThere: toefl@server.cool-meeting.com
+X-Mailman-Version: 2.1.2
+Precedence: list
+List-Id: &#26446;&#26143;&#21644;&#20182;&#30340;&#23398;&#29983;&#20204;
+	<toefl.server.cool-meeting.com>
+List-Unsubscribe: <http://server.cool-meeting.com/mailman/listinfo/toefl>,
+	<mailto:toefl-request@server.cool-meeting.com?subject=unsubscribe>
+List-Archive: <http://server.cool-meeting.com/mailman/private/toefl>
+List-Post: <mailto:toefl@server.cool-meeting.com>
+List-Help: <mailto:toefl-request@server.cool-meeting.com?subject=help>
+List-Subscribe: <http://server.cool-meeting.com/mailman/listinfo/toefl>,
+	<mailto:toefl-request@server.cool-meeting.com?subject=subscribe>
+Sender: toefl-bounces@server.cool-meeting.com
+Errors-To: toefl-bounces@server.cool-meeting.com
+X-UIDL: S8a"!0Z0!!OMe!!Q\6"!
+
+日有所思，夜有所梦
+这么大的压力，不容易啊，
+考验你的机会到了，好好努力，幸福就在自己手中
+: 那种感觉心脏部位被巨大的石块压着，特别特别的难受，也像很剧烈很多很多很复杂的感情压抑聚集在心里要把心脏涨破。因为一个奇怪的梦。
+: 梦大概是这样的，开始时自己像平时一样陪着MM在某个熟悉的地方逛街，一整天，然后坐车学校，结果到学校就遇见一个同样喜欢着MM的人，两人争执，不知道怎么的两人手上各有一把刀，而他的刺进我身体，我却没有动手。梦并没有结束，真正的我到来，来学校把MM接走，从令她心
+: 现实里和MM在一个学校，虽然马上毕业了要开始异地的坚持，MM总担心我变心，而我却总没有想过自己也可能会失去MM，现在才体会到失去MM是多痛苦的事，真正体会到心痛的感觉，打完这篇文章心还是隐隐疼着，体会到MM就是我世界的全部，一旦失去，所有的一切都倒塌，而我也将
+: ...................
+

@@ -1,0 +1,46 @@
+Return-Path: <zhu@home.ccert.edu.cn>
+Received: from home.ccert.edu.cn (localhost [127.0.0.1])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id i9DBFNtu025146;
+	Wed, 13 Oct 2004 19:15:23 +0800
+Received: (from majordomo@localhost)
+	by home.ccert.edu.cn (8.13.1/8.13.1/Submit) id i9DBFN40025145;
+	Wed, 13 Oct 2004 19:15:23 +0800
+X-Authentication-Warning: home.ccert.edu.cn: majordomo set sender to owner-ccertstaff using -f
+Received: from ns.6test.edu.cn (ns.6test.edu.cn [202.112.54.2])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id i9DBFMfO025141
+	for <cheng@ccert.edu.cn>; Wed, 13 Oct 2004 19:15:23 +0800
+Received: from [210.25.128.109] (helo=tsinghua89o1rm)
+	by ns.6test.edu.cn with asmtp (Exim 4.12)
+	id 1CHhd9-0009yq-00
+	for ccertstaff@ccert.edu.cn; Wed, 13 Oct 2004 19:49:19 +0800
+Message-ID: <002801c4b117$7665e550$6d8019d2@tsinghua89o1rm>
+From: "zhu" <zhu@ns.6test.edu.cn>
+To: cheng@ccert.edu.cn
+Subject: =?gb2312?B?ofEguePO97Tz0afO78Dtv8bRp9PruaSzzLy8yvXRp9S6s8/GuLKpyr/I9LjJ?=
+Date: Wed, 13 Oct 2004 19:25:50 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0025_01C4B15A.7297CAE0"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2600.0000
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2600.0000
+Sender: owner-ccertstaff@home.ccert.edu.cn
+Precedence: bulk
+X-UIDL: :I4!!Z`:"!Zc("!CZ7"!
+
+广西大学物理科学与工程技术学院欲招聘物理电子或通信与信息工程方向教师若干。
+具体应聘细节可直接与物理科学与工程技术学院吴伟明教授联系。
+电话： 13152672290
+E_mail:lixiaoli@gxu.edu.cn
+被录用者将作为学科带头人参与各项科研工作，并可享受国家和地方以及学校给予的多
+种优
+惠政策。详细情况请登陆广西大学主页查询：http://www.gxu.edu.cn/
+广西最高学府－广西大学，位于广西省首府南宁市。借着国家已决定将广西建成中国与
+东
+盟贸易的唯一通道的大好春风，广西大学正欣欣向荣的发展着。在这里，作为一个从小
+在
+西大长大，亲眼见证西大和广西发展的广西人，我真诚的欢迎各位有识之士加盟，参与
+广
+西的开发和建设。
+

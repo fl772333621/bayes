@@ -1,0 +1,59 @@
+Return-Path: <xing@runway.cn.net>
+Received: from tsinghua.org.cn ([210.77.143.232])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with SMTP id j4D2jutE031108
+	for <ke@ccert.edu.cn>; Fri, 13 May 2005 10:46:08 +0800
+Received: (eyou send program); Fri, 13 May 2005 11:02:32 +0800
+Message-ID: <315953352.27109@tsinghua.org.cn>
+X-EYOU-AUTOFORWARD: tsinghua.org.cn
+Received: (eyou send program); Fri, 13 May 2005 11:02:32 +0800
+Message-ID: <315953352.05920@tsinghua.org.cn>
+Received: from unknown (HELO eyou.net) (210.77.143.235)
+ by 210.77.143.232 with SMTP; Fri, 13 May 2005 11:02:32 +0800
+X-EYOU-SPAMVALUE: 0
+Received: (eyou anti_spam gateway 3.0); Fri, 13 May 2005 10:51:46 +0800
+Message-ID: <315952706.06818@eyou.net>
+Received: from 202.112.49.111 by 210.77.143.235 with SMTP; Fri, 13 May 2005 10:51:46 +0800
+Received: from Garfield. (localhost [IPv6:::1])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with ESMTP id j4D2vTeN039157
+	for <ke@ccert.edu.cn>; Fri, 13 May 2005 10:57:46 +0800 (CST)
+	(envelope-from toefl-bounces@gradinfo.net.edu.cn)
+Received: from runway.cn.net ([211.99.140.229])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with ESMTP id j4D2vP3H039151
+	for <ke@ccert.edu.cn>; Fri, 13 May 2005 10:57:26 +0800 (CST)
+	(envelope-from ych@runway.cn.net)
+Received: from ych ([192.168.1.71]) (authenticated bits=0)
+	by runway.cn.net (8.12.2/8.12.2) with ESMTP id j4D2xUq2024457
+	for <ke@ccert.edu.cn>; Fri, 13 May 2005 10:59:31 +0800 (CST)
+Message-Id: <200505130259.j4D2xUq2024457@runway.cn.net>
+Date: Fri, 13 May 2005 11:02:26 +0800
+From: "xing" <xing@runway.cn.net>
+To: ke@ccert.edu.cn
+Subject: =?gb2312?B?UmU6INKyvbK9ss7StcS40Mfpvq3A+rDJLNDEy+m1xLjQvvU=?=
+Organization: Runway
+X-mailer: Foxmail 5.0 [cn]
+Mime-Version: 1.0
+X-BeenThere: toefl@gradinfo.net.edu.cn
+X-Mailman-Version: 2.1.5
+Precedence: list
+Reply-To: xing@runway.cn.net
+List-Id: "&#26446; &#26143; &#21644; &#20182; &#30340; &#23398; &#29983;
+	&#20204; " <toefl.gradinfo.net.edu.cn>
+List-Unsubscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=unsubscribe>
+List-Archive: <http://gradinfo.net.edu.cn/mailman/private/toefl>
+List-Post: <mailto:toefl@gradinfo.net.edu.cn>
+List-Help: <mailto:toefl-request@gradinfo.net.edu.cn?subject=help>
+List-Subscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=subscribe>
+Content-Type: multipart/mixed; boundary="===============0786097420=="
+Sender: toefl-bounces@gradinfo.net.edu.cn
+Errors-To: toefl-bounces@gradinfo.net.edu.cn
+X-UIDL: 7<"#!;0["!&Vm"!%9^"!
+
+cft
+慢慢长大 不要失望
+: 和他是在网上认识的,开始相识也只是普通般的聊天,感觉他像个小弟弟似的，他也总叫我姐姐，后来一问才知道，那年他已经是清华研一的学生了,而我是离着不远一个高校大二的学生.
+: 我们在一起也讲起了感情的事情，他说他正追求一个有了GG的MM,还问我应该怎么办,我给他出了些主意,不过后来还是未果,他打趣的说想让我做他MM,哪怕只有一个星期也可以.我想那时也许他那时只是感情挫败，一时寂寞吧.
+: 后来我们互换了照片，然后又见了面,一起打球,吃饭,我们都觉得很开心,只是他总是有心事的样子。
+: ...................
+

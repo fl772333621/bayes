@@ -1,0 +1,62 @@
+Return-Path: <kang@mail.tsinghua.edu.cn>
+Received: from tsinghua.org.cn ([210.77.143.228])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id i8M8VUqY026126
+	for <jin@ccert.edu.cn>; Wed, 22 Sep 2004 16:31:31 +0800
+Received: (eyou send program); Wed, 22 Sep 2004 16:41:29 +0800
+Received: (eyou send program); Wed, 22 Sep 2004 16:41:27 +0800
+X-EYOU-ORIGINAL-IP: 202.38.99.65
+X-EYOU-ENVELOPE-MAILFROM: toefl-bounces@server.cool-meeting.com
+Received: from unknown (HELO server.cool-meeting.com) (unknown@202.38.99.65)
+ by 210.77.143.228 with SMTP; Wed, 22 Sep 2004 16:41:27 +0800
+Received: from server.cool-meeting.com (localhost.localdomain [127.0.0.1])
+	by server.cool-meeting.com (8.12.8/8.12.8) with ESMTP id i8M8VZlf012735
+	for <jin@ccert.edu.cn>; Wed, 22 Sep 2004 16:31:44 +0800
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by server.cool-meeting.com (8.12.8/8.12.8) with SMTP id i8M8VWkr012731
+	for <jin@ccert.edu.cn>; Wed, 22 Sep 2004 16:31:32 +0800
+Received: (eyou send program); Wed, 22 Sep 2004 16:13:55 +0800
+Message-ID: <295840835.03386@mail.tsinghua.edu.cn>
+Received: from unknown (HELO mail.tsinghua.edu.cn) (unknown@127.0.0.1)
+	by 127.0.0.1 with SMTP; Wed, 22 Sep 2004 16:13:55 +0800
+X-scanvirus: By Symantec Scan Engine
+X-scanresult: CLEAN
+Received: (eqmail ); 22 Sep 2004 08:13:54 -0000
+Received: from unknown (HELO dbx) (dengbx@210.25.128.116)
+	by localhost with SMTP; 22 Sep 2004 08:13:54 -0000
+Date: Wed, 22 Sep 2004 16:36:19 +0800
+From: "kang" <kang@mail.tsinghua.edu.cn>
+To: jin@ccert.edu.cn
+X-mailer: Foxmail 4.1 [cn]
+Mime-Version: 1.0
+Content-Type: text/plain;
+      charset="GB2312"
+Content-Transfer-Encoding: 8bit
+X-MIME-Autoconverted: from quoted-printable to 8bit by server.cool-meeting.com
+	id i8M8VWkr012731
+Cc: 
+Subject: =?gb2312?B?UmU6IMj1yPW12M7Ko7rOqsqyw7TEx8O0tuDIy7a8z+u1sbmrzvHUsbChoaOho6Gj?=
+X-BeenThere: toefl@server.cool-meeting.com
+X-Mailman-Version: 2.1.2
+Precedence: list
+List-Id: &#26446;&#26143;&#21644;&#20182;&#30340;&#23398;&#29983;&#20204;
+	<toefl.server.cool-meeting.com>
+List-Unsubscribe: <http://server.cool-meeting.com/mailman/listinfo/toefl>,
+	<mailto:toefl-request@server.cool-meeting.com?subject=unsubscribe>
+List-Archive: <http://server.cool-meeting.com/mailman/private/toefl>
+List-Post: <mailto:toefl@server.cool-meeting.com>
+List-Help: <mailto:toefl-request@server.cool-meeting.com?subject=help>
+List-Subscribe: <http://server.cool-meeting.com/mailman/listinfo/toefl>,
+	<mailto:toefl-request@server.cool-meeting.com?subject=subscribe>
+Sender: toefl-bounces@server.cool-meeting.com
+Errors-To: toefl-bounces@server.cool-meeting.com
+X-UIDL: oV+"!MY0"!@Sj!!C~o"!
+
+心平气和，和气生财：）
+首先呢，您不了解楼主，没准楼主就是您所说的大牛人呢？
+其次，即使不是牛人，也可以有自己喜欢的生活嘛。当然了，看样子楼主的标题和内容是设问的语气，咱也可以好好讨论嘛。
+稳定不等于平庸
+闯荡也不见得会头破血流
+做选择的时候，不光要看自己喜欢做什么，也要掂量自己能做什么，这样就会少走些弯路吧：——）
+我选择了合资企业，不为别的，就因为我天生喜欢四处走走。
+: 可能你喜欢外企，部分牛比国企的氛围，对于公务员比较沉闷的不喜欢，你是女生吧，怎么说呢，也许如你所说，它不好玩，但是在现在这个年代，如果你不是大牛人，它的稳定和前途还是不错的，而且还是一直到你退休的，企业就不行了，也许你哪天上班去，由于公司集团业务调整，你就被裁了，记得前年如联想这样的也是裁了不少--------硕士，博士的，你是吗？湖北建行年前裁了8千，全员合同，一签只有5年，再签只有8年，也许哪天上面就把你买断让你滚蛋了，而进建行总行只给湖北12个名额，你有吗？未雨绸缪吧
+

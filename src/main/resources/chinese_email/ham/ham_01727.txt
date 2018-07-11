@@ -1,0 +1,39 @@
+Return-Path: <qing@home.ccert.edu.cn>
+Received: from home.ccert.edu.cn (localhost [127.0.0.1])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id iAU4t47g000934;
+	Tue, 30 Nov 2004 12:55:04 +0800
+Received: (from majordomo@localhost)
+	by home.ccert.edu.cn (8.13.1/8.13.1/Submit) id iAU4t34S000933;
+	Tue, 30 Nov 2004 12:55:03 +0800
+X-Authentication-Warning: home.ccert.edu.cn: majordomo set sender to owner-ccertstaff using -f
+Received: from ccertspark (tu203021.tsinghua.edu.cn [166.111.203.21])
+	(authenticated bits=0)
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id iAU4suwt000922
+	for <zhao@ccert.edu.cn>; Tue, 30 Nov 2004 12:54:56 +0800
+From: "qing" <qing@ccert.edu.cn>
+To: zhao@ccert.edu.cn
+Subject: =?gb2312?B?ofEg1dDI7bz+z+7Ev7ncwO2horL6xrfW97nco6zIq9aw?=
+Date: Tue, 30 Nov 2004 13:06:50 +0800
+Message-ID: <001001c4d69a$665f0f30$15cb6fa6@ccertspark>
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="----=_NextPart_000_0011_01C4D6DD.74824F30"
+X-Priority: 3 (Normal)
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook, Build 10.0.6626
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.3790.181
+Importance: Normal
+Sender: owner-ccertstaff@home.ccert.edu.cn
+Precedence: bulk
+X-UIDL: ,,V!!fBl!!,62!!^3Y"!
+
+软件项目管理、产品主管
+要求
+1．建筑学相关专业，2年以上城市规划相关工作经验
+2．良好的沟通、理解和分析能力，能充分地与客户交流，理解并分析客户的需求；较强的管理能力和项目管理经验
+3．熟悉计算机及软件，对AutoCAD、3dsmax等有关图形、图像或三维方面的软件有充分的了解，并能熟练操作这些软件，充分了解计算机软件的常用操作方式和习惯，有一定的美术功底，对软件功能、界面和交互方式的设计有良好的意愿和能力
+5．工作态度积极认真、负责，有文字功底
+北京伟景行数字城市科技公司
+地址：北京西三环紫竹桥
+请投简历：rd_hr@gvision.cn
+

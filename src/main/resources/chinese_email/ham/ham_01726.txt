@@ -1,0 +1,33 @@
+Return-Path: <zhu@rbl.ccert.edu.cn>
+Received: from rbl.ccert.edu.cn (rbl.ccert.edu.cn [202.112.57.71])
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id i9699xEn001801
+	for <xing@ccert.edu.cn>; Wed, 6 Oct 2004 17:09:59 +0800 (CST)
+Received: from rbl.ccert.edu.cn (localhost.localdomain [127.0.0.1])
+	by rbl.ccert.edu.cn (8.12.11/8.12.11) with ESMTP id i969Fshg028098
+	for <xing@ccert.edu.cn>; Wed, 6 Oct 2004 17:15:55 +0800
+Received: (from qa@localhost)
+	by rbl.ccert.edu.cn (8.12.11/8.12.11/Submit) id i969FsCg028097;
+	Wed, 6 Oct 2004 17:15:54 +0800
+Date: Wed, 6 Oct 2004 17:15:54 +0800
+Message-Id: <200410060915.i969FsCg028097@rbl.ccert.edu.cn>
+Subject: =?gb2312?B?UmU6INbQufogdnMuIMPAufo=?=
+To: xing@ccert.edu.cn
+From: Tran Quang Anh <zhu@cernet.edu.cn>
+Content-Type: multipart/mixed; boundary="----------=_1097054155-996-526"
+MIME-Version: 1.0
+X-UIDL: 0BM"!I,D"!c4o"!$Hi"!
+
+说道身份，不得不承认，多少束缚了我们的手脚。
+在中国，找不到导师或者失业，顶多意味着没有资金的来源，
+在这里却同时意味着自己有没有资格带在这里。
+这个感觉就是租房子和住自己的房子一个道理，类似的现象在中国的
+上海，北京也有哦，程度不同而已。
+在这里找工作，能不能提供绿卡和H1签证，是一个重要的考虑因素。 
+如果没有身份的问题，恐怕更多的PHD毕业就去找工作，也有更多的
+PHD学生直接退学去美国市场工作，只要有钱支撑吃喝住，工作总可以
+慢慢找到的。可是身份呢？I-20过期一天你就是非法居留。
+: 虽然你说得对,但是还有些方面没有提到.
+: 比如生活方面, 吃得差, 单调无聊, 另外毕竟背景不同,很难融入主流社会.
+: 更重要的你毕竟是外国人,需要费相当大的力气和精力去解决身份问题,
+: ...................
+

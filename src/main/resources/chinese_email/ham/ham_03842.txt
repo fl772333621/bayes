@@ -1,0 +1,65 @@
+Return-Path: <xiao@ns.6test.edu.cn>
+Received: from tsinghua.org.cn ([210.77.143.232])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with SMTP id j4JBNdPx003685
+	for <mo@ccert.edu.cn>; Thu, 19 May 2005 19:23:50 +0800
+Received: (eyou send program); Thu, 19 May 2005 19:40:20 +0800
+Message-ID: <316502820.18017@tsinghua.org.cn>
+X-EYOU-AUTOFORWARD: tsinghua.org.cn
+Received: (eyou send program); Thu, 19 May 2005 19:39:50 +0800
+Message-ID: <316502790.11275@tsinghua.org.cn>
+Received: from unknown (HELO eyou.net) (210.77.143.235)
+ by 210.77.143.232 with SMTP; Thu, 19 May 2005 19:39:50 +0800
+X-EYOU-SPAMVALUE: 0
+Received: (eyou anti_spam gateway 3.0); Thu, 19 May 2005 19:28:48 +0800
+Message-ID: <316502128.05070@eyou.net>
+Received: from 202.112.49.111 by 210.77.143.235 with SMTP; Thu, 19 May 2005 19:28:47 +0800
+Received: from Garfield. (localhost [IPv6:::1])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with ESMTP id j4JBXp9s087343
+	for <mo@ccert.edu.cn>; Thu, 19 May 2005 19:34:22 +0800 (CST)
+	(envelope-from toefl-bounces@gradinfo.net.edu.cn)
+Received: from ns.6test.edu.cn (ns.6test.edu.cn [202.112.54.2])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with ESMTP id j4JBXmNF087339
+	for <mo@ccert.edu.cn>; Thu, 19 May 2005 19:33:48 +0800 (CST)
+	(envelope-from wangyi@ns.6test.edu.cn)
+Received: from [210.25.128.103] (helo=kaka)
+	by ns.6test.edu.cn with asmtp (Exim 4.12) id 1DYjwz-0002gK-00
+	for toefl@gradinfo.net.edu.cn; Thu, 19 May 2005 20:16:29 +0800
+Date: Thu, 19 May 2005 19:38:23 +0800
+From: "xiao" <xiao@ns.6test.edu.cn>
+To: mo@ccert.edu.cn
+Subject: =?gb2312?B?UmU6IMLowug1NcHLLM/rtPjC6MLo1/fSu7TOzOW87Cw=?=
+X-mailer: Foxmail 5.0 [cn]
+Mime-Version: 1.0
+Content-Type: multipart/mixed; boundary="----------=_1116501830-30248-24"
+Message-Id: <E1DYjwz-0002gK-00@ns.6test.edu.cn>
+X-MIME-Autoconverted: from base64 to 8bit by gradinfo.net.edu.cn id
+	j4JBXmNF087339
+X-BeenThere: toefl@gradinfo.net.edu.cn
+X-Mailman-Version: 2.1.5
+Precedence: list
+List-Id: "&#26446; &#26143; &#21644; &#20182; &#30340; &#23398; &#29983;
+	&#20204; " <toefl.gradinfo.net.edu.cn>
+List-Unsubscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=unsubscribe>
+List-Archive: <http://gradinfo.net.edu.cn/mailman/private/toefl>
+List-Post: <mailto:toefl@gradinfo.net.edu.cn>
+List-Help: <mailto:toefl-request@gradinfo.net.edu.cn?subject=help>
+List-Subscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=subscribe>
+Sender: toefl-bounces@gradinfo.net.edu.cn
+Errors-To: toefl-bounces@gradinfo.net.edu.cn
+X-UIDL: :(]!!GW%!!g8<"!V&Y!!
+
+如果是光体检的话，建议还是到专门的体检机构，如慈济、千福等，环境和体检医师的
+态度都比较好。这个应该是做初步检查，体检中心都 有体检项目的套餐
+你可以去向那里的医师讯问一下，收费方面一般的体检大概是400左右，如果项目比较
+多的话还会高一些。
+如果查出有什么不适了再去大医院检查和诊断。
+专门体检机构的好处就是排队时间很少，设备都集中到了一块，而且还有导医的人员指引
+时间和环境都不错，大医院设备也基本差不多，不过人so多了，态度更不敢恭维了
+呵呵呵
+仅仅是建议，供参考！
+偶上周去做了个单项体检：验血、血常规、血脂、肝功、血糖化验、B超、心电图、内科
+尿检，这些花了178元，外科的诸如身高、体重、血压什么的没检，自己能查，呵呵呵。花了大概有20分钟左右吧，就都搞定了，还挺快。周日检查，周二出报告，速度还可以。是在慈济。
+: 关于体检的项目选择和医院的选择大家给点意见
+

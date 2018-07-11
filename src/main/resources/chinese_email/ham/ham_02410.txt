@@ -1,0 +1,78 @@
+Return-Path: <zhou@tsinghua.edu.cn>
+Received: from tsinghua.org.cn ([210.77.143.231])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id iBR9SxFn025917
+	for <lian@ccert.edu.cn>; Mon, 27 Dec 2004 17:29:00 +0800
+Received: (eyou send program); Mon, 27 Dec 2004 17:22:30 +0800
+Received: (eyou send program); Mon, 27 Dec 2004 17:22:30 +0800
+X-EYOU-ORIGINAL-IP: 210.77.143.235
+X-EYOU-ENVELOPE-MAILFROM: duanhx@tsinghua.edu.cn
+Received: from unknown (HELO eyou.net) (unknown@210.77.143.235)
+ by 210.77.143.231 with SMTP; Mon, 27 Dec 2004 17:22:30 +0800
+Received: (eyou send program); Mon, 27 Dec 2004 17:36:56 +0800
+Message-ID: <304140216.06737@eyou.net>
+Received: from 166.111.8.16 by 210.77.143.235 with SMTP; Mon, 27 Dec 2004 17:36:44 +0800
+Received: (eyou send program); Mon, 27 Dec 2004 17:37:25 +0800
+Message-ID: <304140245.08431@mails.tsinghua.edu.cn>
+Received: (eyou send program); Mon, 27 Dec 2004 17:37:25 +0800
+Message-ID: <304140245.18409@mails.tsinghua.edu.cn>
+Received: from unknown (HELO mails.tsinghua.edu.cn) (unknown@127.0.0.1)
+ by 127.0.0.1 with SMTP; Mon, 27 Dec 2004 17:37:25 +0800
+X-scanvirus: By Symantec Scan Engine
+X-scanresult: NOREP
+X-Received: ccert.edu.cn,202.112.57.12,20041227173722
+Received: from ccert.edu.cn (HELO home.ccert.edu.cn) (202.112.57.12)
+  by localhost with SMTP; 27 Dec 2004 09:37:22 -0000
+Received: from home.ccert.edu.cn (localhost [127.0.0.1])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id iBR9SDrd025856;
+	Mon, 27 Dec 2004 17:28:14 +0800
+Received: (from majordomo@localhost)
+	by home.ccert.edu.cn (8.13.1/8.13.1/Submit) id iBR9SD5X025855;
+	Mon, 27 Dec 2004 17:28:13 +0800
+X-Authentication-Warning: home.ccert.edu.cn: majordomo set sender to owner-ccertstaff using -f
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with SMTP id iBR9SDrf025839
+	for <lian@ccert.edu.cn>; Mon, 27 Dec 2004 17:28:13 +0800
+Received: (eyou send program); Mon, 27 Dec 2004 17:26:51 +0800
+Message-ID: <304139611.29616@mail.tsinghua.edu.cn>
+Received: from unknown (HELO mail.tsinghua.edu.cn) (unknown@127.0.0.1)
+ by 127.0.0.1 with SMTP; Mon, 27 Dec 2004 17:26:51 +0800
+X-scanvirus: By Symantec Scan Engine
+X-scanresult: NOREP
+Received: (eqmail ); 27 Dec 2004 09:26:49 -0000
+Received: from unknown (HELO sony) (duanhx@166.111.204.181)
+  by localhost with SMTP; 27 Dec 2004 09:26:49 -0000
+Message-ID: <00ba01c4ebf8$59c53650$26fe040a@sony>
+From: "zhou" <zhou@tsinghua.edu.cn>
+To: lian@ccert.edu.cn
+Subject: =?gb2312?B?UmU6ILDmyc/Iy8/W1NrJ2aOszsq49s7KzOI=?=
+Date: Mon, 27 Dec 2004 17:42:14 +0800
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2900.2180
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+Content-Transfer-Encoding: 8bit
+X-MIME-Autoconverted: from base64 to 8bit by home.ccert.edu.cn id iBR9SDrf025852
+Sender: owner-ccertstaff@home.ccert.edu.cn
+Precedence: bulk
+X-UIDL: o*;!!g~("!c>""!J>Z"!
+
+你只是觉得他比较残忍
+一方面以不合适作为理由来拒绝你
+一方面却把你当成救命稻草那样
+遇到事情就喜欢找你诉苦
+你不知道自己在他面前扮演的是什么角色
+而且在这个角色面前让你感觉你的所作所为有点犯溅
+现在你想既然这种吃力算不得讨好的角色
+还不如干脆做个了结
+如果你觉得你不会后悔就离开
+如果你觉得心里还是放不下
+再试着努力一把，
+告诉自己这次不行的话就干脆老死不相往来好了
+: 我很烦他
+: 分都分了，还告诉我他现在堕落干嘛？
+: 不理他
+: ...................
+

@@ -1,0 +1,30 @@
+Return-Path: <bi@ccert.edu.cn>
+Received: from home.ccert.edu.cn (ccert.edu.cn [202.112.57.12])
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id j0I222eL028947
+	for <pu@ccert.edu.cn>; Tue, 18 Jan 2005 10:02:02 +0800 (CST)
+Received: from sunbin_S ([202.112.50.201])
+	(authenticated bits=0)
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id j0I1oNAe009520;
+	Tue, 18 Jan 2005 09:50:24 +0800
+Message-Id: <200501180150.j0I1oNAe009520@home.ccert.edu.cn>
+Date: Tue, 18 Jan 2005 09:58:17 +0800
+From: "bi" <bi@ccert.edu.cn>
+Reply-To: bi@ccert.edu.cn
+To: pu@ccert.edu.cn
+Cc: "lin@ccert.edu.cn" <li@ccert.edu.cn>
+Subject: =?gb2312?B?UmU6ILGnvfTO0rHw198=?=
+Organization: CCERT
+X-mailer: Foxmail 5.0 beta2 [cn]
+Mime-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: 8bit
+X-MIME-Autoconverted: from base64 to 8bit by sea.net.edu.cn id j0I222eL028947
+X-UIDL: 9>n"!\aj!!`p5!!1>-!!
+
+这标题...
+:       陈琳的《抱紧我别走》，听一次哭一次，听一百次流一百次泪。这首歌是陈琳献给因癌症去世的父亲的。曲子是韩国作曲家的作品，陈琳亲自填词。刚开始看歌名还以为是有关风月的主题，听了几遍才开始理解。
+:       翻来覆去的听这首歌，不自觉地想起好多关于爸爸的往事。
+:       “每当窗外吹过一丝丝的微风，我就感觉到你在我身边清唱”。我并没有一个会唱歌很浪漫很慈爱的父亲，但是我相信我有一个很朴实的默默的在心里爱护自己子女的父亲。从小到大，我受到老师褒奖并且被拿来做范文朗读的文章，无一例外，全都是关于父亲的主题。
+: ...................
+

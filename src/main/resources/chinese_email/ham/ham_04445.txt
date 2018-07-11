@@ -1,0 +1,40 @@
+Return-Path: <long@rbl.ccert.edu.cn>
+Received: from rbl.ccert.edu.cn (rbl.ccert.edu.cn [202.112.57.71])
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id i9H2PCwr004877
+	for <cheng@ccert.edu.cn>; Sun, 17 Oct 2004 10:25:12 +0800 (CST)
+Received: from rbl.ccert.edu.cn (localhost.localdomain [127.0.0.1])
+	by rbl.ccert.edu.cn (8.12.11/8.12.11) with ESMTP id i9H2UpmI015102
+	for <cheng@ccert.edu.cn>; Sun, 17 Oct 2004 10:30:54 +0800
+Received: (from qa@localhost)
+	by rbl.ccert.edu.cn (8.12.11/8.12.11/Submit) id i9H2UpIl015101;
+	Sun, 17 Oct 2004 10:30:51 +0800
+Date: Sun, 17 Oct 2004 10:30:51 +0800
+Message-Id: <200410170230.i9H2UpIl015101@rbl.ccert.edu.cn>
+Subject: =?gb2312?B?ofEgwfnSu73av+zA1tG9?=
+To: cheng@ccert.edu.cn
+From: Tran Quang Anh <long@cernet.edu.cn>
+Content-Type: multipart/mixed; boundary="----------=_1097980254-2811-164"
+MIME-Version: 1.0
+X-UIDL: gXC!!*k7"!PSI"![T;"!
+
+    呵呵，应该看一些小朋友的电影：）
+    呼呼。。记得看过的有小朋友当主角的电影都很nice
+   Le  Papillon蝴蝶——景色优美，小mm可爱，片尾曲好听
+   Man on fire怒火救援——超级可爱的Dakota Fanning，情节动人
+   Finding Neverland 寻找梦幻岛——Peter的忧伤让人心疼
+   Les Choristes放牛班的春天——最喜欢的角色是里面皮比诺
+   AI 人工智能——人性的东西比科幻本身更动人，这片看的大哭
+   外婆的家——也很感人，又很有趣
+   小鞋子 ——看的心酸
+   天堂的颜色 ——看的心酸
+   一一 （这部电影最打动我的地方就是片尾处那个小孩说的话）
+   The Parent Trap 天生一对——有趣
+   Home Alone 小鬼当家 ——这个不用说了吧：）
+   Baby\'s day out小鬼当街——同上
+   ……
+   这些都是很喜欢的电影，童趣的对白，好听的发音，小孩的忧伤和狡黠，看了让人
+开心的不得了，就连Jersey Girl 这样被很多人所不屑的电影我也觉得因为有小朋
+友的加盟而显得增色不少。呵呵。
+   ps：小时候看过的那些《霹雳贝贝》《北京小妞》《小兵张嘎》就更不用说啦，呵
+呵，那些电影画面到现在都还历历在目：）
+

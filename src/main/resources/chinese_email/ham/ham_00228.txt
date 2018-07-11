@@ -1,0 +1,60 @@
+Return-Path: <hua@runway.cn.net>
+Received: from tsinghua.org.cn ([210.77.143.232])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with SMTP id j4D2jutE031108
+	for <wei@ccert.edu.cn>; Fri, 13 May 2005 10:46:08 +0800
+Received: (eyou send program); Fri, 13 May 2005 11:02:32 +0800
+Message-ID: <315953352.27109@tsinghua.org.cn>
+X-EYOU-AUTOFORWARD: tsinghua.org.cn
+Received: (eyou send program); Fri, 13 May 2005 11:02:32 +0800
+Message-ID: <315953352.05920@tsinghua.org.cn>
+Received: from unknown (HELO eyou.net) (210.77.143.235)
+ by 210.77.143.232 with SMTP; Fri, 13 May 2005 11:02:32 +0800
+X-EYOU-SPAMVALUE: 0
+Received: (eyou anti_spam gateway 3.0); Fri, 13 May 2005 10:51:46 +0800
+Message-ID: <315952706.06818@eyou.net>
+Received: from 202.112.49.111 by 210.77.143.235 with SMTP; Fri, 13 May 2005 10:51:46 +0800
+Received: from Garfield. (localhost [IPv6:::1])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with ESMTP id j4D2vTeN039157
+	for <wei@ccert.edu.cn>; Fri, 13 May 2005 10:57:46 +0800 (CST)
+	(envelope-from toefl-bounces@gradinfo.net.edu.cn)
+Received: from runway.cn.net ([211.99.140.229])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with ESMTP id j4D2vP3H039151
+	for <wei@ccert.edu.cn>; Fri, 13 May 2005 10:57:26 +0800 (CST)
+	(envelope-from ych@runway.cn.net)
+Received: from ych ([192.168.1.71]) (authenticated bits=0)
+	by runway.cn.net (8.12.2/8.12.2) with ESMTP id j4D2xUq2024457
+	for <wei@ccert.edu.cn>; Fri, 13 May 2005 10:59:31 +0800 (CST)
+Message-Id: <200505130259.j4D2xUq2024457@runway.cn.net>
+Date: Fri, 13 May 2005 11:02:26 +0800
+From: "hua" <hua@runway.cn.net>
+To: wei@ccert.edu.cn
+Subject: =?gb2312?B?UmU6ILK7zcKyu7/so6zSssu1y7W52NPax661xMrC?=
+Organization: Runway
+X-mailer: Foxmail 5.0 [cn]
+Mime-Version: 1.0
+X-BeenThere: toefl@gradinfo.net.edu.cn
+X-Mailman-Version: 2.1.5
+Precedence: list
+Reply-To: hua@runway.cn.net
+List-Id: "&#26446; &#26143; &#21644; &#20182; &#30340; &#23398; &#29983;
+	&#20204; " <toefl.gradinfo.net.edu.cn>
+List-Unsubscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=unsubscribe>
+List-Archive: <http://gradinfo.net.edu.cn/mailman/private/toefl>
+List-Post: <mailto:toefl@gradinfo.net.edu.cn>
+List-Help: <mailto:toefl-request@gradinfo.net.edu.cn?subject=help>
+List-Subscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=subscribe>
+Content-Type: multipart/mixed; boundary="===============0786097420=="
+Sender: toefl-bounces@gradinfo.net.edu.cn
+Errors-To: toefl-bounces@gradinfo.net.edu.cn
+X-UIDL: 7<"#!;0["!&Vm"!%9^"!
+
+他存折里的钱是他的
+你存折里的钱是你的
+如果将来你需要他的那部分收入支持你们的家庭开销，索性现在放弃好了
+:     昨天早上BF回家了。
+:     BF家有一兄一姐，均已成家，但未立业，在我看来，属于大钱挣不来，小钱不爱挣的那种，没有技术，不屑于出苦力，父母随其兄生活，BF平时给的钱对付生病和平时的生活绰绰有余。BF爸爸身体不好，基本不能挣钱，他哥哥比BF大四岁，结婚、彩礼、房子、生孩子的花了不少钱
+:     家里一半人已来待过一段时间北京，他妈妈这两年每到冬天就来住着。BF工作挺辛苦的，但是家里有事就要给他打电话，比如，去年他姐姐得了妇科病，接二连三的来电话，好像我们是医生似的，还说北京的医生多，想来这里治病。看样子以后父母的养老送终，三个小孩上学，万
+: ...................
+

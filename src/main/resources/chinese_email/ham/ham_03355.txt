@@ -1,0 +1,26 @@
+Return-Path: <you@rbl.ccert.edu.cn>
+Received: from rbl.ccert.edu.cn (rbl.ccert.edu.cn [202.112.57.71])
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id i976E9uF016187
+	for <yang@ccert.edu.cn>; Thu, 7 Oct 2004 14:14:09 +0800 (CST)
+Received: from rbl.ccert.edu.cn (localhost.localdomain [127.0.0.1])
+	by rbl.ccert.edu.cn (8.12.11/8.12.11) with ESMTP id i976K4jR007666
+	for <yang@ccert.edu.cn>; Thu, 7 Oct 2004 14:20:05 +0800
+Received: (from qa@localhost)
+	by rbl.ccert.edu.cn (8.12.11/8.12.11/Submit) id i976K4tb007665;
+	Thu, 7 Oct 2004 14:20:04 +0800
+Date: Thu, 7 Oct 2004 14:20:04 +0800
+Message-Id: <200410070620.i976K4tb007665@rbl.ccert.edu.cn>
+Subject: =?gb2312?B?UmU6ILO5tde21Ljxwaa/1bX3yqfN+8HLfr3xzOzT1tbY0MLC8sHLyP3B4tbYuaQ=?=
+To: yang@ccert.edu.cn
+From: Tran Quang Anh <you@cernet.edu.cn>
+Content-Type: multipart/mixed; boundary="----------=_1097130005-996-818"
+MIME-Version: 1.0
+X-UIDL: L>]!!e>B"!8n$"!`Yj!!
+
+虽然你是家庭主妇，我还是要呼吁抵制日货！
+我5.1买了三台格力，没有发现问题呀，安装的态度也不错呀。
+:      原来一直想选择格力,就是因为它是国货里面性价比还不错的.一开始还在occupier版组织过一次团购,后来发现格力的销售几乎没有给什么优惠,就取消了团购,打算自己买得了.
+:     前天在家乐福买了三台格力,两个菱格风的1p和1.5p,还有柜机风秀.将近8k,正好是我的预算.还挺满意的,结果今天早上兴冲冲的等着装空调,早上8点半,准时到了,还挺开心的.老公眼尖,发现两台挂机不是我们要的菱格风而是肯凉风.然后给厂家打电话,厂家说没货,还说销售跟我们�
+:     中午去大中买了三菱重工的两个挂机一个柜机,还参加了刮奖,老爸手气不错,刮出一个一百大洋的返现,我跟老妈各刮出两个50,(别说什么抵制日货,俺就是一家庭主妇,再说我原来也还想支持国货来着).多花了3k+,明天上门安装,也不知道怎么样呢.
+: ...................
+

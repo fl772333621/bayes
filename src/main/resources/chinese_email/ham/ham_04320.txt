@@ -1,0 +1,55 @@
+Return-Path: <han@ns.6test.edu.cn>
+Received: from tsinghua.org.cn ([210.77.143.228])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id iAS9Ut98004096
+	for <yan@ccert.edu.cn>; Sun, 28 Nov 2004 17:30:57 +0800
+Received: (eyou send program); Sat, 27 Nov 2004 09:50:24 +0800
+Received: (eyou send program); Sat, 27 Nov 2004 09:50:24 +0800
+X-EYOU-ORIGINAL-IP: 210.77.143.235
+X-EYOU-ENVELOPE-MAILFROM: toefl-bounces@server.cool-meeting.com
+Received: from unknown (HELO eyou.net) (unknown@210.77.143.235)
+ by 210.77.143.228 with SMTP; Sat, 27 Nov 2004 09:50:24 +0800
+Received: (eyou send program); Sat, 27 Nov 2004 09:45:44 +0800
+Message-ID: <301519944.00896@eyou.net>
+Received: from 202.38.99.65 by 210.77.143.235 with SMTP; Sat, 27 Nov 2004 09:45:42 +0800
+Received: from server.cool-meeting.com (localhost.localdomain [127.0.0.1])
+	by server.cool-meeting.com (8.12.8/8.12.8) with ESMTP id iAR25elZ031326
+	for <yan@ccert.edu.cn>; Sat, 27 Nov 2004 10:05:50 +0800
+Received: from ns.6test.edu.cn ([202.38.99.18])
+	by server.cool-meeting.com (8.12.8/8.12.8) with ESMTP id iAR25Xkr031322
+	for <yan@ccert.edu.cn>; Sat, 27 Nov 2004 10:05:33 +0800
+Received: from [202.112.3.118] (helo=IBM-E4AA49AF703)
+	by ns.6test.edu.cn with asmtp (Exim 4.12) id 1CXs4F-000CHk-00
+	for Toefl@server.cool-meeting.com; Sat, 27 Nov 2004 10:12:07 +0800
+From: "han" <han@ns.6test.edu.cn>
+To: yan@ccert.edu.cn
+X-mailer: Foxmail 4.2 [cn]
+Mime-Version: 1.0
+Content-Type: text/plain;
+      charset="GB2312"
+Content-Transfer-Encoding: 7bit
+Date: Sat, 27 Nov 2004 9:50:1 +0800
+Message-Id: <E1CXs4F-000CHk-00@ns.6test.edu.cn>
+Cc: 
+Subject: =?gb2312?B?UmU6IM7S1qq1wNXi0fmyu7rD?=
+X-BeenThere: toefl@server.cool-meeting.com
+X-Mailman-Version: 2.1.2
+Precedence: list
+List-Id: &#26446;&#26143;&#21644;&#20182;&#30340;&#23398;&#29983;&#20204;
+	<toefl.server.cool-meeting.com>
+List-Unsubscribe: <http://server.cool-meeting.com/mailman/listinfo/toefl>,
+	<mailto:toefl-request@server.cool-meeting.com?subject=unsubscribe>
+List-Archive: <http://server.cool-meeting.com/mailman/private/toefl>
+List-Post: <mailto:toefl@server.cool-meeting.com>
+List-Help: <mailto:toefl-request@server.cool-meeting.com?subject=help>
+List-Subscribe: <http://server.cool-meeting.com/mailman/listinfo/toefl>,
+	<mailto:toefl-request@server.cool-meeting.com?subject=subscribe>
+Sender: toefl-bounces@server.cool-meeting.com
+Errors-To: toefl-bounces@server.cool-meeting.com
+X-UIDL: P7g"!jYP!!,O""!N0o"!
+
+找首歌唱唱，听听
+:     我知道这样不好，可我还是不能让自己不想你。我知道我的感情永远不能得到你的回映，我也知道你这样做是对的，你越是这样我越觉得我没有看错人，我爱对了人。感谢命运，让我遇见一个感情专一，有责任的人，即使不能与你在一起，我仍然要感谢。
+: 今天去理发店，想把头发剪掉，想换个形象，来告别过去，理发师却很喜欢我的头发，说什么也不肯给我剪，我坐在理发店的镜子前，再一次违背了诺言——再一次的落泪：为什么我想要忘掉却又不能忘掉？
+:     回到家里，打电脑，不自觉的又打开了你的照片，我所有的思念无处诉说，对着你的照片，千言万语只能无语。我想，要是工作了我就没有时间想你了，对，我说对了，但只要我停下工作，思念就会象潮水一样向我袭来，没有我反应的机会，心已经被揪得生疼。
+: ...................
+

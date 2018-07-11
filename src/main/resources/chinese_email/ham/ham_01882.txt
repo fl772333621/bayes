@@ -1,0 +1,72 @@
+Return-Path: <liao@compass.net.edu.cn>
+Received: from tsinghua.org.cn ([210.77.143.228])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id i8K51SR7003824
+	for <bai@ccert.edu.cn>; Mon, 20 Sep 2004 13:01:34 +0800
+Received: (eyou send program); Mon, 20 Sep 2004 13:11:21 +0800
+Received: (eyou send program); Mon, 20 Sep 2004 13:11:20 +0800
+X-EYOU-ORIGINAL-IP: 202.38.99.65
+X-EYOU-ENVELOPE-MAILFROM: toefl-bounces@server.cool-meeting.com
+Received: from unknown (HELO server.cool-meeting.com) (unknown@202.38.99.65)
+ by 210.77.143.228 with SMTP; Mon, 20 Sep 2004 13:11:20 +0800
+Received: from server.cool-meeting.com (localhost.localdomain [127.0.0.1])
+	by server.cool-meeting.com (8.12.8/8.12.8) with ESMTP id i8K517lV008937
+	for <bai@ccert.edu.cn>; Mon, 20 Sep 2004 13:01:13 +0800
+Received: from compass.net.edu.cn ([202.112.0.90])
+	by server.cool-meeting.com (8.12.8/8.12.8) with ESMTP id i8K516kr008933
+	for <bai@ccert.edu.cn>; Mon, 20 Sep 2004 13:01:06 +0800
+Received: from [210.25.128.113] ([210.25.128.113])
+	by compass.net.edu.cn (8.9.2/8.9.2) with ESMTP id NAA18106
+	for <bai@ccert.edu.cn>;
+	Mon, 20 Sep 2004 13:00:11 +0800 (CST)
+Message-ID: <414E62F2.7020108@compass.net.edu.cn>
+Date: Mon, 20 Sep 2004 12:56:18 +0800
+From: Shaozhi Ye <liao@compass.net.edu.cn>
+User-Agent: Mozilla Thunderbird 0.8 (Windows/20040913)
+X-Accept-Language: en-us, en
+MIME-Version: 1.0
+To: bai@ccert.edu.cn
+Content-Type: text/plain; charset=gb2312
+Content-Transfer-Encoding: 8bit
+Cc: 
+Subject: =?gb2312?B?ofEgW9SttLTBrNTYXc7Sw8e1xLCux+nV5rXEzeq1sMHLKDQ0KQ==?=
+X-BeenThere: toefl@server.cool-meeting.com
+X-Mailman-Version: 2.1.2
+Precedence: list
+List-Id: &#26446;&#26143;&#21644;&#20182;&#30340;&#23398;&#29983;&#20204;
+	<toefl.server.cool-meeting.com>
+List-Unsubscribe: <http://server.cool-meeting.com/mailman/listinfo/toefl>,
+	<mailto:toefl-request@server.cool-meeting.com?subject=unsubscribe>
+List-Archive: <http://server.cool-meeting.com/mailman/private/toefl>
+List-Post: <mailto:toefl@server.cool-meeting.com>
+List-Help: <mailto:toefl-request@server.cool-meeting.com?subject=help>
+List-Subscribe: <http://server.cool-meeting.com/mailman/listinfo/toefl>,
+	<mailto:toefl-request@server.cool-meeting.com?subject=subscribe>
+Sender: toefl-bounces@server.cool-meeting.com
+Errors-To: toefl-bounces@server.cool-meeting.com
+X-UIDL: YU0"!TK["!hMj"!``Z"!
+
+    44   Happy Valentine\'s day
+    那年的情人节，是大年初三。我们身处异地，只能靠电话的传音简单的祝
+福彼此，hi, my baby，情人节快乐！ 突然脑子里飘过一种设想，回北京后一
+定给静补上这个重要的节日.
+    踏上回京的火车之前，我给静打了电话，忍不住告诉她，我给她准备了一
+份很好的礼物。静好奇的问是什么，我说，嘿嘿，保密，到时候给你一个惊喜。
+静乐呵呵的答应了.
+    回到北京，我去了四道口的蛋糕房。预定了一个20寸的大蛋糕，蛋糕上的
+图案是我精心设计的。老大的五个字“情人节快乐”摆在蛋糕的中心，在它上
+面是心心相印的图画，丘比特之箭穿过两心的中央。下面是“纪念我们认识第
+115 天”。两旁是我自己写的一幅对联，左边“相知相识相爱两情相愉”，右
+边“一心一意一世共度一生”.
+    当静看到这份特别的礼物时，惊呆了，她抱着我亲了好几下，对我的创意
+表示褒奖。她坚决不让我吃它，一定要带回宿舍让同宿舍的姐妹们看看这个用
+心特制的蛋糕，和她一起分享.
+    好吧，不吃就不吃，我们先把蜡烛点上？
+    恩，静同意了。静的开心让我欣慰不已.
+    朵朵火焰闪烁在红色的烛心，缕缕温馨随着烛光散射开来。募地，她象是
+忆起了什么，两行清泪滚滚而出：“晨……你……真的会永远爱我吗？”..
+    刹时，我的心撕裂般的疼，她的最初..去年的现在..她伤的太重了..
+    猛然，我坚定地看着静的双眼，会的！爱你到永远！
+    她颤抖的，要我抱着她，早已泣不成声.
+    那个情人节，有着她非凡的意义。随着岁月的增长，我们彼此的挚爱也就
+一分一分的加深！静，我爱你，我对天空大喊着..
+

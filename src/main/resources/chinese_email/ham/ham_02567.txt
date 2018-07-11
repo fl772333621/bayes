@@ -1,0 +1,49 @@
+Return-Path: <xu@mails.tsinghua.edu.cn>
+Received: from tsinghua.org.cn ([210.77.143.228])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id i8M4oMvH020802
+	for <lei@ccert.edu.cn>; Wed, 22 Sep 2004 12:50:23 +0800
+Received: (eyou send program); Wed, 22 Sep 2004 13:00:17 +0800
+Received: (eyou send program); Wed, 22 Sep 2004 13:00:16 +0800
+X-EYOU-ORIGINAL-IP: 202.38.99.65
+X-EYOU-ENVELOPE-MAILFROM: toefl-bounces@server.cool-meeting.com
+Received: from unknown (HELO server.cool-meeting.com) (unknown@202.38.99.65)
+ by 210.77.143.228 with SMTP; Wed, 22 Sep 2004 13:00:16 +0800
+Received: from server.cool-meeting.com (localhost.localdomain [127.0.0.1])
+	by server.cool-meeting.com (8.12.8/8.12.8) with ESMTP id i8M4oOlV012440
+	for <lei@ccert.edu.cn>; Wed, 22 Sep 2004 12:50:30 +0800
+Received: from mails.tsinghua.edu.cn (mails.tsinghua.edu.cn [166.111.8.16])
+	by server.cool-meeting.com (8.12.8/8.12.8) with SMTP id i8M4oMkr012436
+	for <lei@ccert.edu.cn>; Wed, 22 Sep 2004 12:50:22 +0800
+Received: (eyou send program); Wed, 22 Sep 2004 12:41:53 +0800
+Message-ID: <295828113.18769@mails.tsinghua.edu.cn>
+Received: from 202.112.55.97 by mails.tsinghua.edu.cn with HTTP;
+	Wed, 22 Sep 2004 12:41:53 +0800
+X-WebMAIL-MUA: [202.112.55.97]
+From: "xu" <xu@mails.tsinghua.edu.cn>
+To: lei@ccert.edu.cn
+Date: Wed, 22 Sep 2004 12:41:53 +0800
+Content-Type: text/plain
+Cc: 
+Subject: =?gb2312?B?ofEgx7+1waOho6E=?=
+X-BeenThere: toefl@server.cool-meeting.com
+X-Mailman-Version: 2.1.2
+Precedence: list
+Reply-To: xu@mails.tsinghua.edu.cn
+List-Id: &#26446;&#26143;&#21644;&#20182;&#30340;&#23398;&#29983;&#20204;
+	<toefl.server.cool-meeting.com>
+List-Unsubscribe: <http://server.cool-meeting.com/mailman/listinfo/toefl>,
+	<mailto:toefl-request@server.cool-meeting.com?subject=unsubscribe>
+List-Archive: <http://server.cool-meeting.com/mailman/private/toefl>
+List-Post: <mailto:toefl@server.cool-meeting.com>
+List-Help: <mailto:toefl-request@server.cool-meeting.com?subject=help>
+List-Subscribe: <http://server.cool-meeting.com/mailman/listinfo/toefl>,
+	<mailto:toefl-request@server.cool-meeting.com?subject=subscribe>
+Sender: toefl-bounces@server.cool-meeting.com
+Errors-To: toefl-bounces@server.cool-meeting.com
+X-UIDL: mdc!!2bK!!WD6!!B%$"!
+
+目前正在找工作，联系一个高校，虽然按照自己的文章申请教授，经过半年多的面试、资格审定，学院一级认定为副教授级的引进人才。考虑到各方面待遇，如住房补贴、启动经费等还行，于是满心等着结果。1个半月前，材料转到学校人事处。前天得到结果，副教授级引进人才不行，仅仅按一般国内博士后（国内土博，土博后）来校工作的待遇。和学院院长联系，人挺好的，说：1、学校的决定不能更改了；2、如果你觉得有潜力，很快就会起来的，重要的是这个环境；学院的其他专业人已满，根本不要人，我的这个专业算是特批；3、你的这些工作都是在导师指导下完成的，如果不是在导师指导下完成的话，那就厉害了。满心指望着这个，也没有联系其他地方，下下周就要答辩了，答辩了就没地方去了，只能认了这个。简直比强盗还强盗。 
+大家讨论一下： 
+1、如果一个比较好的学校给很一般的待遇，另外一个较差的学校给很好的待遇，大家如何选择，为什么。 
+2、好学校常常说我们这里有好的学术环境，这个好环境究竟是什么，对人的发展起多大作用。 
+

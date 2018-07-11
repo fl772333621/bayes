@@ -1,0 +1,63 @@
+Return-Path: <ding@mails.tsinghua.edu.cn>
+Received: from tsinghua.org.cn ([210.77.143.228])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id iA98QQtr010529
+	for <pu@ccert.edu.cn>; Tue, 9 Nov 2004 16:26:31 +0800
+Received: (eyou send program); Tue, 09 Nov 2004 16:38:15 +0800
+Received: (eyou send program); Tue, 09 Nov 2004 16:38:14 +0800
+X-EYOU-ORIGINAL-IP: 210.77.143.235
+X-EYOU-ENVELOPE-MAILFROM: malb03@mails.tsinghua.edu.cn
+Received: from unknown (HELO eyou.net) (unknown@210.77.143.235)
+ by 210.77.143.228 with SMTP; Tue, 09 Nov 2004 16:38:14 +0800
+Received: (eyou send program); Tue, 09 Nov 2004 16:33:53 +0800
+Message-ID: <299989233.12767@eyou.net>
+Received: from 166.111.8.16 by 210.77.143.235 with SMTP; Tue, 09 Nov 2004 16:33:52 +0800
+Received: (eyou send program); Tue, 09 Nov 2004 16:32:20 +0800
+Message-ID: <299989140.03289@mails.tsinghua.edu.cn>
+Received: (eyou send program); Tue, 09 Nov 2004 16:32:20 +0800
+Message-ID: <299989140.14678@mails.tsinghua.edu.cn>
+Received: from unknown (HELO mails.tsinghua.edu.cn) (unknown@127.0.0.1)
+ by 127.0.0.1 with SMTP; Tue, 09 Nov 2004 16:32:20 +0800
+X-scanvirus: By Symantec Scan Engine
+X-scanresult: NOREP
+Received: (eqmail ); 9 Nov 2004 08:32:17 -0000
+Received: from ccert.edu.cn (HELO home.ccert.edu.cn) (202.112.57.12)
+  by mails.tsinghua.edu.cn with SMTP; 9 Nov 2004 08:32:17 -0000
+Received: from home.ccert.edu.cn (localhost [127.0.0.1])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id iA98O9ZE010453;
+	Tue, 9 Nov 2004 16:24:09 +0800
+Received: (from majordomo@localhost)
+	by home.ccert.edu.cn (8.13.1/8.13.1/Submit) id iA98O90O010452;
+	Tue, 9 Nov 2004 16:24:09 +0800
+X-Authentication-Warning: home.ccert.edu.cn: majordomo set sender to owner-ccertstaff using -f
+Received: from mails.tsinghua.edu.cn (mails.tsinghua.edu.cn [166.111.8.16])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with SMTP id iA98O7qx010448
+	for <pu@ccert.edu.cn>; Tue, 9 Nov 2004 16:24:08 +0800
+Received: (eyou send program); Tue, 09 Nov 2004 16:31:01 +0800
+Message-ID: <299989061.01855@mails.tsinghua.edu.cn>
+Received: from 202.112.50.13 by mails.tsinghua.edu.cn with HTTP; Tue, 09 Nov 2004 16:31:01 +0800
+X-WebMAIL-MUA: [202.112.50.13]
+From: "ding" <ding@mails.tsinghua.edu.cn>
+To: pu@ccert.edu.cn
+Date: Tue, 09 Nov 2004 16:31:01 +0800
+Reply-To: "ding" <ding@mails.tsinghua.edu.cn>
+Subject: =?gb2312?B?UmU6IMKl1vfS/sL3wcvKssO0wvCjv1JlOiDSu9ax0tTOqs7Sw8fKx9fux9fD3LXEINTa0rvG8L7F
+xOo=?=
+Content-Type: text/plain
+Sender: owner-ccertstaff@home.ccert.edu.cn
+Precedence: bulk
+X-UIDL: 22;"!/6H!!/^b!!Dp^"!
+
+人家老公忙着打拼呢，哪来时间灌水啊
+: 标  题: Re: 楼主隐瞒了什么吗？Re: 一直以为我们是最亲密的 在一起九年
+: 发信站: 水木社区 (Fri Jun 10 14:43:24 2005), 站内
+: 
+: 最好让楼主lg来发一个言
+: 
+: : 我也觉得是在瞎折腾，如果仅仅是楼主所说的这些的！
+: : 同意你说的，如果坚定要离，八成另有隐情！
+: 
+: 
+: --
+: 
+: ※ 来源:·水木社区 newsmth.net·[FROM: 221.221.170.*]
+

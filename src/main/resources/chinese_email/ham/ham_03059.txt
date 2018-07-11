@@ -1,0 +1,46 @@
+Return-Path: <kang@home.ccert.edu.cn>
+Received: from home.ccert.edu.cn (localhost [127.0.0.1])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id iA53nM0p029782;
+	Fri, 5 Nov 2004 11:49:22 +0800
+Received: (from majordomo@localhost)
+	by home.ccert.edu.cn (8.13.1/8.13.1/Submit) id iA53nM6h029781;
+	Fri, 5 Nov 2004 11:49:22 +0800
+X-Authentication-Warning: home.ccert.edu.cn: majordomo set sender to owner-ccertstaff using -f
+Received: from ccertspark (tu203111.tsinghua.edu.cn [166.111.203.111])
+	(authenticated bits=0)
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id iA53nL0p029776
+	for <kang@ccert.edu.cn>; Fri, 5 Nov 2004 11:49:22 +0800
+From: "kang" <kang@ccert.edu.cn>
+To: kang@ccert.edu.cn
+Subject: =?gb2312?B?UmU6IL3xzOzN7cnPY2N0djEysqWz9rGxvbu087+80dDQ1L270te1xMrC?=
+Date: Fri, 5 Nov 2004 12:00:17 +0800
+Message-ID: <004101c4c2eb$f72e0d30$e300000a@ccertspark>
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+X-Priority: 3 (Normal)
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook, Build 10.0.6626
+X-MIMEOLE: Produced By Microsoft MimeOLE V6.00.3790.181
+Importance: Normal
+Content-Transfer-Encoding: 8bit
+X-MIME-Autoconverted: from quoted-printable to 8bit by home.ccert.edu.cn id iA53nM0p029779
+Sender: owner-ccertstaff@home.ccert.edu.cn
+Precedence: bulk
+X-UIDL: c;M!!K`G"!==;!!(n""!
+
+你确定？ 这么快这个节目就制作出来了？
+: 标  题: 今天晚上cctv12播出北交大考研性交易的事
+: 发信站: 水木社区 (Tue Jun 14 10:45:07 2005), 站内
+: 
+: 偶昨晚看的预告，是《大家看法》。好像是12频道晚上八点的。
+: 好像是那个女的拿出来了教授诱奸她时的内裤。
+: 当时就想起了莱温斯基
+: 好像那个教授也出来讲话了
+: 也不知道到底是不是真的
+: --
+: 我左手拿刀右手拿叉，把生活慢慢享用。
+: 
+: 
+: ※ 来源:·水木社区 http://newsmth.net·[FROM: 211.99.184.*]
+

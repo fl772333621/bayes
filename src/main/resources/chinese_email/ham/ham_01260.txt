@@ -1,0 +1,31 @@
+Return-Path: <rao@rbl.ccert.edu.cn>
+Received: from rbl.ccert.edu.cn (rbl.ccert.edu.cn [202.112.57.71])
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id i97C0Mlm019581
+	for <che@ccert.edu.cn>; Thu, 7 Oct 2004 20:00:22 +0800 (CST)
+Received: from rbl.ccert.edu.cn (localhost.localdomain [127.0.0.1])
+	by rbl.ccert.edu.cn (8.12.11/8.12.11) with ESMTP id i97C6L5i014961
+	for <che@ccert.edu.cn>; Thu, 7 Oct 2004 20:06:21 +0800
+Received: (from qa@localhost)
+	by rbl.ccert.edu.cn (8.12.11/8.12.11/Submit) id i97C6LZF014960;
+	Thu, 7 Oct 2004 20:06:21 +0800
+Date: Thu, 7 Oct 2004 20:06:21 +0800
+Message-Id: <200410071206.i97C6LZF014960@rbl.ccert.edu.cn>
+Subject: =?gb2312?B?UmU6ILCz1qq1wLXEw8C5+qOh?=
+To: che@ccert.edu.cn
+From: Tran Quang Anh <rao@cernet.edu.cn>
+Content-Type: multipart/mixed; boundary="----------=_1097150781-996-926"
+MIME-Version: 1.0
+X-UIDL: !7G"!d[J!!]QB"!DUD!!
+
+呵呵，交际网络、关系网络对于一个人的好处，
+不管是在事业上还是在生活上都不可估量，
+不是多少钱买到少平米的房子这样的标准可比的，
+这一点国内比国外强太多。
+国内比国外最优势的资源就是“人”，
+朋友、伴侣...这些因素对于生活质量的正面影响还是很多的。
+当然国外在硬件条件的很多方面确实胜过国内太多。
+: 那美国等你发着高烧让你自己用冷水擦身就有意思了．
+: 滥用抗生素是不好，那的确会带来很大的宏观问题．
+: 可具体到微观，个人身上，　还是中国医生沟通得来得方便，当然我说的可不是语言问题．
+: ...................
+

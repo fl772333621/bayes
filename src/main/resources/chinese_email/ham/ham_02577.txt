@@ -1,0 +1,28 @@
+Return-Path: <wang@rbl.ccert.edu.cn>
+Received: from rbl.ccert.edu.cn (rbl.ccert.edu.cn [202.112.57.71])
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id i982ovJI000401
+	for <he@ccert.edu.cn>; Fri, 8 Oct 2004 10:50:57 +0800 (CST)
+Received: from rbl.ccert.edu.cn (localhost.localdomain [127.0.0.1])
+	by rbl.ccert.edu.cn (8.12.11/8.12.11) with ESMTP id i982uvWt017182
+	for <he@ccert.edu.cn>; Fri, 8 Oct 2004 10:56:58 +0800
+Received: (from qa@localhost)
+	by rbl.ccert.edu.cn (8.12.11/8.12.11/Submit) id i982uvZw017181;
+	Fri, 8 Oct 2004 10:56:57 +0800
+Date: Fri, 8 Oct 2004 10:56:57 +0800
+Message-Id: <200410080256.i982uvZw017181@rbl.ccert.edu.cn>
+Subject: =?gb2312?B?ofEgvfHM7NTnyc/Q6b6q0ruzoQ==?=
+To: he@ccert.edu.cn
+From: Tran Quang Anh <wang@cernet.edu.cn>
+Content-Type: multipart/mixed; boundary="----------=_1097204218-1044-210"
+MIME-Version: 1.0
+X-UIDL: o8+"!(fS!!bZn"!\!##!
+
+昨天大学时候的同学请客，庆祝1000pass，
+半夜回来迷迷糊糊，随便洗洗睡了
+今天早上朦朦胧胧听见次拉茨拉的声音，还以为外面下大雨呢，
+后来觉得不对劲，怎么会有股糊味，一激灵就起来了，
+撇眼一看桌子底下的电线在放电呢，那火花，噼里啪啦的飞溅，还有一股焦糊味，
+一急之下想冲过去仔细看看，还好想了想，先去把电闸关了。
+回来戴上眼镜仔细看一看，地上有水的遗迹，拿起电线看看，外面的塑料皮都已经烧破了
+后来想想，当时去关电闸的时候是不是应该单腿跳过去的
+

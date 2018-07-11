@@ -1,0 +1,42 @@
+Return-Path: <lei@anti-spam.org.cn>
+Received: from autoforward.mail.sohu.com ([61.135.132.166])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id iBVF7QL1019529
+	for <zhu@ccert.edu.cn>; Fri, 31 Dec 2004 23:07:27 +0800
+Received: from mx23.mail.sohu.com (unknown [192.168.41.141])
+	by autoforward.mail.sohu.com (Postfix) with ESMTP id 2B9968E9A4
+	for <zhu@ccert.edu.cn>; Fri, 31 Dec 2004 23:21:43 +0800 (CST)
+Received: by mx23.mail.sohu.com (Postfix)
+	id 538EB14011; Fri, 31 Dec 2004 23:21:43 +0800 (CST)
+Delivered-To: chen741120@mx23.mail.sohu.com
+Received: from cngnu.org (unknown [211.157.2.95])
+	by sohumx04.sohu.com (Postfix) with ESMTP id B2E9D7397873
+	for <zhu@ccert.edu.cn>; Fri, 31 Dec 2004 23:21:39 +0800 (CST)
+Received: from localhost (localhost [127.0.0.1])
+	by cngnu.org (Postfix) with ESMTP id 4D625CA02B
+	for <zhu@ccert.edu.cn>; Fri, 31 Dec 2004 23:21:40 +0800 (CST)
+Received: from cngnu.org ([211.157.2.95])
+ by localhost (xia.cngnu.net [127.0.0.1]) (amavisd-new, port 10024) with ESMTP
+ id 29705-07 for <zhu@ccert.edu.cn>; Fri, 31 Dec 2004 23:21:39 +0800 (CST)
+Received: from 127.0.0.1 (localhost [127.0.0.1])
+	by cngnu.org (Postfix) with SMTP id B4322CA023
+	for <zhu@ccert.edu.cn>; Fri, 31 Dec 2004 23:21:39 +0800 (CST)
+From: "lei" <lei@anti-spam.org.cn>
+To: zhu@ccert.edu.cn
+Subject: =?gb2312?B?UmU6IM7S0qrXt7XEbW3W97avzOGz9rj6ztK6z9fio6zKx7K7ysfT0M+3xNg=?=
+X-Priority: 3
+X-Mailer: CASA IPB PHP Mailer
+Message-Id: <20041231152139.B4322CA023@cngnu.org>
+Date: Fri, 31 Dec 2004 23:21:39 +0800 (CST)
+X-Virus-Scanned: by amavisd-new using ClamAV at cngnu.net
+X-Sohu-Antivirus: 0
+X-UIDL: hX9!!<$?"!Gf?"!UcK!!
+
+1，如果你真的很爱她，这绝对是很好的机会。合租之后加速前进。
+2，如果合租之后她仍然坚决地拒绝你，那么她一定是想利用你。
+3，如果你意识到她在利用你，那么要果断和她断绝关系。
+4，如果她根本没有想利用你，那么你一定有戏。
+要么有戏，要么在利用你。
+: 追了半年多，开始拒绝了我一次，保持朋友关系
+: 平淡相处了一段，时而有些接触，现在她主动愿意跟我合租
+: 我想她是不是愿意做我的女朋友呢
+

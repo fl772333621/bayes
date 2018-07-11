@@ -1,0 +1,29 @@
+Return-Path: <zhang@rbl.ccert.edu.cn>
+Received: from rbl.ccert.edu.cn (rbl.ccert.edu.cn [202.112.57.71])
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id i97D0Sef020184
+	for <kong@ccert.edu.cn>; Thu, 7 Oct 2004 21:00:28 +0800 (CST)
+Received: from rbl.ccert.edu.cn (localhost.localdomain [127.0.0.1])
+	by rbl.ccert.edu.cn (8.12.11/8.12.11) with ESMTP id i97D6RYt028457
+	for <kong@ccert.edu.cn>; Thu, 7 Oct 2004 21:06:28 +0800
+Received: (from qa@localhost)
+	by rbl.ccert.edu.cn (8.12.11/8.12.11/Submit) id i97D6RhQ028456;
+	Thu, 7 Oct 2004 21:06:27 +0800
+Date: Thu, 7 Oct 2004 21:06:27 +0800
+Message-Id: <200410071306.i97D6RhQ028456@rbl.ccert.edu.cn>
+Subject: =?gb2312?B?UmU6ILGo1r7UuDrWxtTs19S2r7uv0+uy4r/YvLzK9S/J+s7v0r3Rp7mks8zV4sGp16jStb7N0rXI
+57o=?=
+To: kong@ccert.edu.cn
+From: Tran Quang Anh <zhang@cernet.edu.cn>
+Content-Type: multipart/mixed; boundary="----------=_1097154388-996-944"
+MIME-Version: 1.0
+X-UIDL: Yc)"!+[I"!EQg!!@D~"!
+
+测控技术有的学校叫“仪表”，一般属信息学院，是工科的一部分
+学习期间接触一些计算机、自动化的内容
+更主要的时测控方面的内容
+如果完全按本专业就业，在电气类算一般的
+但完全可以转计算机、自动化、电信
+生物医学工程不是很了解，感觉适合科研，出国更容易
+: 那位说说"制造自动化与测控技术"和"生物医学工程"这俩专业的就业情况.
+: 亲戚的小孩今年高考,想了解一下这俩专业的国内就业情况,谢谢.
+

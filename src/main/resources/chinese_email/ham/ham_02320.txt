@@ -1,0 +1,37 @@
+Return-Path: <peng@cernet.edu.cn>
+Received: from tsinghua.org.cn ([210.77.143.231])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id j0A26Vr5027849
+	for <feng@ccert.edu.cn>; Mon, 10 Jan 2005 10:06:33 +0800
+Received: (eyou send program); Mon, 10 Jan 2005 09:57:51 +0800
+Received: (eyou send program); Mon, 10 Jan 2005 09:57:51 +0800
+X-EYOU-ORIGINAL-IP: 210.77.143.235
+X-EYOU-ENVELOPE-MAILFROM: wlzxrs@cernet.edu.cn
+Received: from unknown (HELO eyou.net) (unknown@210.77.143.235)
+ by 210.77.143.231 with SMTP; Mon, 10 Jan 2005 09:57:51 +0800
+Received: (eyou send program); Mon, 10 Jan 2005 10:11:49 +0800
+Message-ID: <305323109.13408@eyou.net>
+Received: from 202.112.5.66 by 210.77.143.235 with SMTP; Mon, 10 Jan 2005 10:11:44 +0800
+Received: from 56ls81hgnjb0ggr ([202.112.4.6])
+	(authenticated bits=0)
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id j0A2ILIL020118
+	for <feng@ccert.edu.cn>; Mon, 10 Jan 2005 10:18:23 +0800 (CST)
+Message-Id: <200501100218.j0A2ILIL020118@sea.net.edu.cn>
+From: "peng" <peng@cernet.edu.cn>
+Reply-To: peng@cernet.edu.cn
+To: feng@ccert.edu.cn
+Subject: =?gb2312?B?UmU6IM7Sz+vO0srHsci9z7bxtr61xA==?=
+X-mailer: Foxmail 4.2 [cn]
+Mime-Version: 1.0
+Content-Type: multipart/mixed;
+      boundary="=====000_Dragon780557084587_====="
+Date: Mon, 10 Jan 2005 10:17:9 +0800
+X-UIDL: f8]"!X]K!!W8'#!Y~7!!
+
+这么想的一般都不能如愿:)
+还不如真诚祝福人家
+，说不定以后还能笑看人生
+: 我想我是比较恶毒的。
+: 看到自己喜欢的人和自己心仪的人在讯息中，心里说不出的酸楚。虽然都快十年了，还是忍不住的醋意，不知道是习惯让我难受还是我本身还爱着这个人。更重要我有着一个比较恶毒的想法：
+: 喜欢的gg喜欢的mm千万不要比我漂亮，也不能不漂亮，这样我会怀疑他的审美观；也不能比我有钱，更不能比我有才气，最好是gg喜欢mm多点，而mm不是很喜欢gg，这样让他尝尝当初我爱他的感觉，给他多点心痛的感觉。
+: ...................
+

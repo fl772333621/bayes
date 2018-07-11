@@ -1,0 +1,27 @@
+Return-Path: <peng@tsinghua.org.cn>
+Received: from tsinghua.org.cn ([210.77.143.228])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id i8GFXSia027738
+	for <sun@ccert.edu.cn>; Thu, 16 Sep 2004 23:33:29 +0800
+Received: (eyou send program); Thu, 16 Sep 2004 23:43:20 +0800
+X-EYOU-ORIGINAL-IP: 218.107.132.130
+X-EYOU-ENVELOPE-MAILFROM: chenguangying@tsinghua.org.cn
+Received: from unknown (HELO ccertdawei) (unknown@218.107.132.130)
+ by 210.77.143.228 with SMTP; Thu, 16 Sep 2004 23:43:20 +0800
+Message-ID: <000b01c49c03$e2e09320$3903510a@CCERTDAWEI>
+From: "peng" <peng@tsinghua.org.cn>
+To: sun@ccert.edu.cn
+Subject: =?gb2312?B?UmU6IGxn19zKx7Tf18XO0ru7uaTX9w==?=
+Date: Thu, 16 Sep 2004 23:43:16 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0008_01C49C46.F004B2A0"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2800.1437
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1441
+X-UIDL: eJQ!!Af\"!O,d"!VT0!!
+
+你LG太过分了...怎么不说让你生完孩子休养调整一下,如果被炒了就再找呗
+: 偶现在一家不大的私企上班，年龄慢慢大了想要孩子，但lg怕这家公司不稳定，生了孩子后就不要偶了，一直在催着我赶紧找新工作，而且要找外企等稳定福利好的公司，但偶现在的行业这类好的大公司不多，我一直找的很辛苦很慢，lg就不停的催我，我如果最近没有发简历就会说我
+:    是不是女孩生孩子时一定要在一个很稳定的公司上班才合适呢？否则生完孩子后就要面临被炒掉或被别人替代？
+

@@ -1,0 +1,58 @@
+Return-Path: <huang@ccert.edu.cn>
+Received: from tsinghua.org.cn ([210.77.143.228])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id i8R9DhuQ011812
+	for <xue@ccert.edu.cn>; Mon, 27 Sep 2004 17:13:44 +0800
+Received: (eyou send program); Mon, 27 Sep 2004 17:23:53 +0800
+Received: (eyou send program); Mon, 27 Sep 2004 17:21:15 +0800
+X-EYOU-ORIGINAL-IP: 166.111.8.16
+X-EYOU-ENVELOPE-MAILFROM: zhenghui@ccert.edu.cn
+Received: from unknown (HELO mails.tsinghua.edu.cn) (unknown@166.111.8.16)
+ by 210.77.143.228 with SMTP; Mon, 27 Sep 2004 17:21:15 +0800
+Received: (eyou send program); Mon, 27 Sep 2004 17:15:13 +0800
+Message-ID: <296276513.13518@mails.tsinghua.edu.cn>
+Received: (eyou send program); Mon, 27 Sep 2004 17:15:07 +0800
+Message-ID: <296276505.15522@mails.tsinghua.edu.cn>
+Received: from unknown (HELO mails.tsinghua.edu.cn) (unknown@127.0.0.1)
+ by 127.0.0.1 with SMTP; Mon, 27 Sep 2004 17:15:07 +0800
+X-scanvirus: By Symantec Scan Engine
+X-scanresult: CLEAN
+Received: (eqmail ); 27 Sep 2004 09:14:32 -0000
+Received: from ccert.edu.cn (HELO home.ccert.edu.cn) (202.112.57.12)
+  by mails.tsinghua.edu.cn with SMTP; 27 Sep 2004 09:14:32 -0000
+Received: from home.ccert.edu.cn (localhost [127.0.0.1])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id i8R9614b011667;
+	Mon, 27 Sep 2004 17:06:01 +0800
+Received: (from majordomo@localhost)
+	by home.ccert.edu.cn (8.13.1/8.13.1/Submit) id i8R9611a011666;
+	Mon, 27 Sep 2004 17:06:01 +0800
+X-Authentication-Warning: home.ccert.edu.cn: majordomo set sender to owner-ccertstaff using -f
+Received: from ccertspark ([202.112.50.4])
+	(authenticated bits=0)
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id i8R95bQp011657
+	for <xue@ccert.edu.cn>; Mon, 27 Sep 2004 17:05:38 +0800
+From: "huang" <huang@ccert.edu.cn>
+To: xue@ccert.edu.cn
+Subject: =?gb2312?B?ofEgaG9ob6Ost6jRp9S6zfjSs7P2t6LNqNaqyum1xM/7z6LByw==?=
+Date: Mon, 27 Sep 2004 17:19:13 +0800
+Message-ID: <002e01c4a473$0f592030$043270ca@ccertspark>
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	boundary="----=_NextPart_000_002F_01C4A4B6.1D7C6030"
+X-Priority: 3 (Normal)
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook, Build 10.0.6626
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.3790.181
+Importance: Normal
+Sender: owner-ccertstaff@home.ccert.edu.cn
+Precedence: bulk
+X-UIDL: ,,B"!d]S!!W#%!!LA!"!
+
+研究生入学《录取通知书》发放通知
+ 
+2005-6-17 10:49:02 
+  
+各位考生：
+　　2005年研究生入学录取通知书已经准备好，请需要自取的同学，于6月21日至6月24日上班时间带有效证件到法学院教务办108室领取。不能自取的同学，通知书将于6月27日用挂号信寄出，地址为报名系统中各位考生自己填写的地址，不得更改。外校推研的考生必须提供学校正式的成绩单，成绩必须达到推研协议的要求。凡档案或协议书未到的同学，暂缓发放录取通知书。
+ 
+其他学院也差不多了吧
+

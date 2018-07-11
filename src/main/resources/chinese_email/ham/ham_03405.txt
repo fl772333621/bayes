@@ -1,0 +1,45 @@
+Return-Path: <peng@tsinghua.edu.cn>
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id i9K2WHPF011720
+	for <wua@ccert.edu.cn>; Wed, 20 Oct 2004 10:32:17 +0800 (CST)
+Received: (eyou send program); Wed, 20 Oct 2004 10:17:46 +0800
+Message-ID: <298238666.04989@mail.tsinghua.edu.cn>
+Received: from unknown (HELO mail.tsinghua.edu.cn) (unknown@127.0.0.1)
+ by 127.0.0.1 with SMTP; Wed, 20 Oct 2004 10:17:46 +0800
+X-scanvirus: By Symantec Scan Engine
+X-scanresult: CLEAN
+Received: (eqmail ); 20 Oct 2004 02:17:39 -0000
+Received: from unknown (HELO sony) (duanhx@202.112.50.6)
+  by localhost with SMTP; 20 Oct 2004 02:17:39 -0000
+Message-ID: <021a01c4b64c$fc9e2990$cae86fa6@sony>
+From: "peng" <peng@tsinghua.edu.cn>
+To: wua@ccert.edu.cn
+Subject: =?gb2312?B?UmU6ILjVv7TBy6G21++28daus8eht6Oss/3By8LSo6zDu7HwtcS40L71oa2hrQ==?=
+Date: Wed, 20 Oct 2004 10:32:03 +0800
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2900.2180
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+Content-Transfer-Encoding: 8bit
+X-MIME-Autoconverted: from base64 to 8bit by sea.net.edu.cn id i9K2WHPF011720
+X-UIDL: A=$"!?GB!!>FK"!/aM!!
+
+一共三个故事
+首尾是一个故事
+Hartigan在开头从小变态Roark Jr.手里救下了11岁的小mm Nancy Callahan
+之后被搭档打伤，Senator Roark救活了Hartigan，并栽赃他强奸幼女，搞得他牢狱8年，老婆改嫁。
+之后活过来的Roark Jr.为了恢复生育能力接受他老爸的救治，副作用就是变成画面里黄不拉叽的“怪物”，也就是片子后面的Yellow Bastard。
+Nancy和Hartigan/Marv认识，Dwight也常去酒吧看Nancy跳舞。
+里面的顺序大概是Hartigan救Nancy，Nancy长大（之间Dwight不知道犯了什么案，整容）。
+Hartigan做掉Roark Jr./Yellow Bastard，Hartigan自杀。
+Marv遇到Goldie，Goldie被Kevin杀死，Marv躲避警察拘捕，调查后找到Kevin的住所（也就Hartigan是做掉Yellow Bastard的农场），第一次被Kevin击败，Lucille被捉，左手被吃掉，之后两人逃脱，Lucille被杀。Marv对Wendy澄清真相，第二次对战砍下Kevin的头，杀死Cardinal Roark，之后被捕，行刑前和Wendy一夜情，之后被电刑致死。
+Dwight这个故事的时间没太清楚，大概在Marv死之后，因为当时Dwight和Shellie还没搞在一起。之后为Shellie出头惹出Jackie Boy在Old Town被杀，帮助Gail一众Old Town Girls搞定Jackie Boy事件。当然，感觉Dwight没什么真本事，关键时刻都是Miho出手……
+Josh Hartnett饰演的The Man比较有意思，一头一尾。
+: nod.觉得那个警察头子都那样了居然都死不了，太匪夷所思了~~
+: 而且为什么枪射中他的头时，流出的居然是白色液体呢？
+: 还有最后那个一身黄色皮肤的家伙，好像外星人似的，他的出现没有根本铺垫啊~~
+: ...................
+

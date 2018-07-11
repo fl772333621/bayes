@@ -1,0 +1,56 @@
+Return-Path: <rao@compass.net.edu.cn>
+Received: from tsinghua.org.cn ([210.77.143.231])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id iBN721L2020518
+	for <you@ccert.edu.cn>; Thu, 23 Dec 2004 15:02:03 +0800
+Received: (eyou send program); Thu, 23 Dec 2004 14:39:29 +0800
+Received: (eyou send program); Thu, 23 Dec 2004 14:39:28 +0800
+X-EYOU-ORIGINAL-IP: 210.77.143.235
+X-EYOU-ENVELOPE-MAILFROM: toefl-bounces@server.cool-meeting.com
+Received: from unknown (HELO eyou.net) (unknown@210.77.143.235)
+ by 210.77.143.231 with SMTP; Thu, 23 Dec 2004 14:39:28 +0800
+Received: (eyou send program); Thu, 23 Dec 2004 14:54:03 +0800
+Message-ID: <303784843.08659@eyou.net>
+Received: from 202.38.99.65 by 210.77.143.235 with SMTP; Thu, 23 Dec 2004 14:54:00 +0800
+Received: from server.cool-meeting.com (localhost.localdomain [127.0.0.1])
+	by server.cool-meeting.com (8.12.8/8.12.8) with ESMTP id iBN7Julh011272
+	for <you@ccert.edu.cn>; Thu, 23 Dec 2004 15:20:07 +0800
+Received: from sun.com ([202.38.188.130])
+	by server.cool-meeting.com (8.12.8/8.12.8) with ESMTP id iBN7Jkkr011268
+	for <you@ccert.edu.cn>; Thu, 23 Dec 2004 15:19:47 +0800
+Received: from [210.25.128.113] ([210.25.128.113])
+	by sun.com (8.9.2/8.9.2) with ESMTP id PAA10466
+	for <you@ccert.edu.cn>;
+	Thu, 23 Dec 2004 15:02:48 +0800 (CST)
+Message-ID: <41CA6BED.6040200@compass.net.edu.cn>
+Date: Thu, 23 Dec 2004 14:55:41 +0800
+From: Shaozhi Ye <rao@compass.net.edu.cn>
+User-Agent: Mozilla Thunderbird 1.0 (Windows/20041206)
+X-Accept-Language: en-us, en
+MIME-Version: 1.0
+To: you@ccert.edu.cn
+Content-Type: text/plain; charset=GB2312
+Content-Transfer-Encoding: 8bit
+Cc: 
+Subject: =?gb2312?B?UmU6ILO5tde21Ljxwaa/1bX3yqfN+8HLfr3xzOzT1tbY0MLC8sHLyP3B4tbYuaQ=?=
+X-BeenThere: toefl@server.cool-meeting.com
+X-Mailman-Version: 2.1.2
+Precedence: list
+List-Id: &#26446;&#26143;&#21644;&#20182;&#30340;&#23398;&#29983;&#20204;
+	<toefl.server.cool-meeting.com>
+List-Unsubscribe: <http://server.cool-meeting.com/mailman/listinfo/toefl>,
+	<mailto:toefl-request@server.cool-meeting.com?subject=unsubscribe>
+List-Archive: <http://server.cool-meeting.com/mailman/private/toefl>
+List-Post: <mailto:toefl@server.cool-meeting.com>
+List-Help: <mailto:toefl-request@server.cool-meeting.com?subject=help>
+List-Subscribe: <http://server.cool-meeting.com/mailman/listinfo/toefl>,
+	<mailto:toefl-request@server.cool-meeting.com?subject=subscribe>
+Sender: toefl-bounces@server.cool-meeting.com
+Errors-To: toefl-bounces@server.cool-meeting.com
+X-UIDL: PP8"!&4$#!mA/"!>12!!
+
+打道日本柜子！
+:      原来一直想选择格力,就是因为它是国货里面性价比还不错的.一开始还在occupier版组织过一次团购,后来发现格力的销售几乎没有给什么优惠,就取消了团购,打算自己买得了.
+:     前天在家乐福买了三台格力,两个菱格风的1p和1.5p,还有柜机风秀.将近8k,正好是我的预算.还挺满意的,结果今天早上兴冲冲的等着装空调,早上8点半,准时到了,还挺开心的.老公眼尖,发现两台挂机不是我们要的菱格风而是肯凉风.然后给厂家打电话,厂家说没货,还说销售跟我们�
+:     中午去大中买了三菱重工的两个挂机一个柜机,还参加了刮奖,老爸手气不错,刮出一个一百大洋的返现,我跟老妈各刮出两个50,(别说什么抵制日货,俺就是一家庭主妇,再说我原来也还想支持国货来着).多花了3k+,明天上门安装,也不知道怎么样呢.
+: ...................
+

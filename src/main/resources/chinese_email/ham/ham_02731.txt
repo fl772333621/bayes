@@ -1,0 +1,35 @@
+Return-Path: <gong@mails.tsinghua.edu.cn>
+Received: from mails.tsinghua.edu.cn (mails.tsinghua.edu.cn [166.111.8.16])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id iAO3x6Fh023538
+	for <weng@ccert.edu.cn>; Wed, 24 Nov 2004 11:59:06 +0800 (CST)
+Received: (eyou send program); Wed, 24 Nov 2004 11:53:47 +0800
+Message-ID: <301268427.12672@mails.tsinghua.edu.cn>
+Received: from unknown (HELO mails.tsinghua.edu.cn) (unknown@127.0.0.1)
+ by 127.0.0.1 with SMTP; Wed, 24 Nov 2004 11:53:47 +0800
+X-scanvirus: By Symantec Scan Engine
+X-scanresult: CLEAN
+Received: (eqmail ); 24 Nov 2004 03:52:03 -0000
+Received: from tu203210.tsinghua.edu.cn (HELO xiner) (xwang03@166.111.203.210)
+  by mails.tsinghua.edu.cn with SMTP; 24 Nov 2004 03:52:03 -0000
+Message-ID: <003601c4d1d9$ada42260$d2cb6fa6@xiner>
+From: "gong" <gong@mails.tsinghua.edu.cn>
+To: weng@ccert.edu.cn
+References: <301112732.28167@mails.tsinghua.edu.cn> <301199106.06721@mails.tsinghua.edu.cn>
+Subject: =?gb2312?B?UmU6IMquxOo=?=
+Date: Wed, 24 Nov 2004 11:57:05 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0033_01C4D21C.B7A5F340"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2900.2180
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+X-UIDL: )(:"!'WF!!WNF!!V8O!!
+
+兄弟,没有钱就别想着女人了
+你不是董永,女人也没有七仙女
+: 某一天的凌晨，忽然感觉到一阵心痛，于是从睡梦中醒来。我静坐在床上，想着这多年的酸楚，不禁潸然泪下，我一直想融入她的生活，十年来一直在收集她的照片，直接或间接地打听她的消息，但是却越走越远，终于离去;我双手掩面，想要止住留下来的泪水，大张着嘴抽搐着；...
+:     ...
+:     我在清华待了快整七年没有回去过，我从别人那里骗来她的照片，我自己从她那里要来照片，我从别人那里知道她有了男朋友，我从别人那里知道她要结婚，我从新年的短信里知道她已经结婚，今天，在我答辩完了之后的凌晨三点半，我看到美丽的新娘和她的另一半在一起的照片
+: ...................
+

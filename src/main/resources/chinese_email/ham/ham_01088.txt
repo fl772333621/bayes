@@ -1,0 +1,52 @@
+Return-Path: <ning@home.ccert.edu.cn>
+Received: from home.ccert.edu.cn (localhost [127.0.0.1])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id iA11Calr019221;
+	Mon, 1 Nov 2004 09:12:36 +0800
+Received: (from majordomo@localhost)
+	by home.ccert.edu.cn (8.13.1/8.13.1/Submit) id iA11Calj019220;
+	Mon, 1 Nov 2004 09:12:36 +0800
+X-Authentication-Warning: home.ccert.edu.cn: majordomo set sender to owner-ccertstaff using -f
+Received: from sunbin_S ([202.112.50.201])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with SMTP id iA11CZ4I019216
+	for <xing@ccert.edu.cn>; Mon, 1 Nov 2004 09:12:35 +0800
+Message-Id: <200411010112.iA11CZ4I019216@home.ccert.edu.cn>
+Date: Mon, 1 Nov 2004 09:28:01 +0800
+From: "ning" <ning@ccert.edu.cn>
+Reply-To: ning@ccert.edu.cn
+To: xing@ccert.edu.cn
+Subject: =?gb2312?B?ofEg1tC5+iB2cy4gw8C5+g==?=
+Organization: CCERT
+X-mailer: Foxmail 5.0 beta2 [cn]
+Mime-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: 8bit
+X-MIME-Autoconverted: from base64 to 8bit by home.ccert.edu.cn id iA11Ca4I019218
+Sender: owner-ccertstaff@home.ccert.edu.cn
+Precedence: bulk
+X-UIDL: L=8!!\K%"!@cY"!c?H"!
+Status: RO
+
+1）生活水平
+这个无疑美国比中国要高，不用担心假冒伪劣产品，买了东西
+不满意可以一定时间内无条件退货，比如W*mart是三个月，丢
+了收据都能退。穷人也能每天喝牛奶，中国的农村地区就没法
+比了，北京也做不到每人喝牛奶。
+2）物价水平
+凡是国内征收高关税的东西x8以后比国内便宜，但其他东西就
+未必了。不过相对的物价水平要美国便宜，最简单的例子是美
+国读博士靠奖学金就能租房买车养老婆，国内肯定不行。另外
+美国某些商品的打折很凶，比如电脑、服装，有一次一个朋友
+花了1美元买了衣服，过了几天拿去换，结果降成了1分钱，还
+找回了99分。。。。当然，决大部分衣服都是made in china。
+3）服务水平
+用天壤之别形容不过分。国内去盖章办事得看人家的态度，美
+国去银行开户会跟你讲半天各种概念，唯恐你没明白，来美国
+大学第一次去注册，人家告诉我要预约，我不明白为什么，后
+来才知道，那人对我单独服务了一个上午，从大学介绍到当地
+介绍，真是无微不至。
+4）科研水平
+我最喜欢的一点就是在美国，你可以在小镇，在乡村做一流的
+科研，可以买到一流的设备，有高速的网络，等等。一般小地
+方环境好，人和善，适合居住。 
+

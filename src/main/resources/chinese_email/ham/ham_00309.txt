@@ -1,0 +1,57 @@
+Return-Path: <hu@compass.net.edu.cn>
+Received: from tsinghua.org.cn ([210.77.143.228])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id iADCCLkE014466
+	for <wu@ccert.edu.cn>; Sat, 13 Nov 2004 20:12:23 +0800
+Received: (eyou send program); Sat, 13 Nov 2004 20:24:02 +0800
+Received: (eyou send program); Sat, 13 Nov 2004 20:24:02 +0800
+X-EYOU-ORIGINAL-IP: 210.77.143.235
+X-EYOU-ENVELOPE-MAILFROM: toefl-bounces@server.cool-meeting.com
+Received: from unknown (HELO eyou.net) (unknown@210.77.143.235)
+ by 210.77.143.228 with SMTP; Sat, 13 Nov 2004 20:24:02 +0800
+Received: (eyou send program); Sat, 13 Nov 2004 20:20:00 +0800
+Message-ID: <300348400.00555@eyou.net>
+Received: from 202.38.99.65 by 210.77.143.235 with SMTP; Sat, 13 Nov 2004 20:19:53 +0800
+Received: from server.cool-meeting.com (localhost.localdomain [127.0.0.1])
+	by server.cool-meeting.com (8.12.8/8.12.8) with ESMTP id iADCaflh006835
+	for <wu@ccert.edu.cn>; Sat, 13 Nov 2004 20:36:51 +0800
+Received: from compass.net.edu.cn ([202.38.188.130])
+	by server.cool-meeting.com (8.12.8/8.12.8) with ESMTP id iADCaMkr006831
+	for <wu@ccert.edu.cn>; Sat, 13 Nov 2004 20:36:22 +0800
+Received: from [210.25.128.113] ([210.25.128.113])
+	by compass.net.edu.cn (8.9.2/8.9.2) with ESMTP id UAA12740
+	for <wu@ccert.edu.cn>;
+	Sat, 13 Nov 2004 20:26:12 +0800 (CST)
+Message-ID: <4195FC17.8050204@compass.net.edu.cn>
+Date: Sat, 13 Nov 2004 20:20:39 +0800
+From: Shaozhi Ye <hu@compass.net.edu.cn>
+User-Agent: Mozilla Thunderbird 0.9 (Windows/20041103)
+X-Accept-Language: en-us, en
+MIME-Version: 1.0
+To: wu@ccert.edu.cn
+Content-Type: text/plain; charset=GB2312
+Content-Transfer-Encoding: 8bit
+Cc: 
+Subject: =?gb2312?B?UmU6ILnY09rO0rXEucC828bAvNujrLu509DSu7j2zsrM4g==?=
+X-BeenThere: toefl@server.cool-meeting.com
+X-Mailman-Version: 2.1.2
+Precedence: list
+List-Id: &#26446;&#26143;&#21644;&#20182;&#30340;&#23398;&#29983;&#20204;
+	<toefl.server.cool-meeting.com>
+List-Unsubscribe: <http://server.cool-meeting.com/mailman/listinfo/toefl>,
+	<mailto:toefl-request@server.cool-meeting.com?subject=unsubscribe>
+List-Archive: <http://server.cool-meeting.com/mailman/private/toefl>
+List-Post: <mailto:toefl@server.cool-meeting.com>
+List-Help: <mailto:toefl-request@server.cool-meeting.com?subject=help>
+List-Subscribe: <http://server.cool-meeting.com/mailman/listinfo/toefl>,
+	<mailto:toefl-request@server.cool-meeting.com?subject=subscribe>
+Sender: toefl-bounces@server.cool-meeting.com
+Errors-To: toefl-bounces@server.cool-meeting.com
+X-UIDL: lBH"!'0F!!&3>"!Dk,!!
+
+晕了，还来真的了。
+不过对比一下，前一篇文章还说不知道行情呢，结果这个就一下四个offer了
+: 谢谢各位同人的提醒和评价。我还有个问题，经过近来级次的面试经历，我现在有一些offer了，但是很让我难以选择，请各位大虾给我处处注意。
+: 1、外企篇 lucent的高技术研发中心，月薪不超过9k，福利据说很好，作的是老本行，比较稳定；
+: 2、一个小外企，薪资应该计较高的，但是做的是不太喜欢的东东；
+: ...................
+

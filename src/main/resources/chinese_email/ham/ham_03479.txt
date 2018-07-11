@@ -1,0 +1,25 @@
+Return-Path: <xie@rbl.ccert.edu.cn>
+Received: from rbl.ccert.edu.cn (rbl.ccert.edu.cn [202.112.57.71])
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id i9E8CSJh005785
+	for <fan@ccert.edu.cn>; Thu, 14 Oct 2004 16:12:28 +0800 (CST)
+Received: from rbl.ccert.edu.cn (localhost.localdomain [127.0.0.1])
+	by rbl.ccert.edu.cn (8.12.11/8.12.11) with ESMTP id i9E8Huvo029108
+	for <fan@ccert.edu.cn>; Thu, 14 Oct 2004 16:17:57 +0800
+Received: (from qa@localhost)
+	by rbl.ccert.edu.cn (8.12.11/8.12.11/Submit) id i9E8HuZ6029107;
+	Thu, 14 Oct 2004 16:17:56 +0800
+Date: Thu, 14 Oct 2004 16:17:56 +0800
+Message-Id: <200410140817.i9E8HuZ6029107@rbl.ccert.edu.cn>
+Subject: =?gb2312?B?UmU6ILnY09qwrsGi0MXR0Lei1tDQxKOsztKyu7XDsrvLtcG9vuQ=?=
+To: fan@ccert.edu.cn
+From: Tran Quang Anh <xie@cernet.edu.cn>
+Content-Type: multipart/mixed; boundary="----------=_1097741877-2811-40"
+MIME-Version: 1.0
+X-UIDL: 9B3"!-C'"!9h/"!$I,#!
+
+不错，很欢迎这样子的交流沟通性质的文章。
+: 我是一名前几个月应聘到这个部门的员工，看见这么多人对这个话题在争论，想说几句。
+: 这次招聘是我们部门发起的，当时的面试组织者都是部门的员工，不是HR。这是因为部门员工对岗位工作和岗位需要什么类型的人最了解。
+: 作为我们部门的一名员工，如果我们让面试者在应聘过程中感到没有受到足够尊重，我表示深深的歉意，当时的面试官也会非常诚恳地道歉，因为我们的本意绝对尊重每一位来应聘的面试者。如果有些地方我们疏忽了，希望大家能够谅解，也非常感谢大家在这里指出来，我们以后才能
+: ...................
+

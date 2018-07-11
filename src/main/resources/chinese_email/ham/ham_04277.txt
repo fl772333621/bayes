@@ -1,0 +1,30 @@
+Return-Path: <li@mails.tsinghua.edu.cn>
+Received: from mails.tsinghua.edu.cn (mails.tsinghua.edu.cn [166.111.8.16])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j3L7WduA003224
+	for <liu@ccert.edu.cn>; Thu, 21 Apr 2005 15:32:39 +0800 (CST)
+X-scanvirus: By SOPHOS Scan Engine
+X-scanresult: CLEAN
+X-Received: unknown,166.111.203.216,20050421152131
+Received: from unknown (HELO xiner) (xwang03@166.111.203.216)
+  by localhost with SMTP; 21 Apr 2005 07:21:31 -0000
+Message-ID: <002b01c54644$b5590e00$d8cb6fa6@xiner>
+From: "li" <li@mails.tsinghua.edu.cn>
+To: liu@ccert.edu.cn
+Subject: =?gb2312?B?UmU6ILT609G3os7Eo7rW0Ln6x/jT8r6tvMO3otW50dC+v9bQ0MTV0Ma4?=
+Date: Thu, 21 Apr 2005 15:35:30 +0800
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="----=_NextPart_000_0029_01C54687.C030CC80"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2900.2180
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+X-UIDL: S"]"!,h0!!g6@"!*'Q!!
+
+看了一眼工作内容，职高足够了吧
+还要硕士博士，博后...
+: 招 聘 启 事
+: 国研发企业改革与经济研究院是经国务院批准设立的官方研究机构，是国内唯一一家致力于国有企业改革咨询，并从事社会科学、自然科学、人文科学三位一体研究的综合性经济研究院。
+: 国研发企业改革与经济研究院--中国区域经济发展研究中心是由国家各级政府经济综合部门、经济研究和教学单位、企事业单位人员组成的综合性经济研究团体。中央政府和发改委、经贸委的部分领导兼任了研究中心的领导职务。中心接受国研发企业改革与经济研究院的直接领导、监
+: ...................
+

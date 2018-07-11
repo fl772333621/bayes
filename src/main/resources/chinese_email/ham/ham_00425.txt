@@ -1,0 +1,37 @@
+Return-Path: <zhan@tsinghua.org.cn>
+Received: from tsinghua.org.cn ([210.77.143.232])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with SMTP id j227wtQ6028508
+	for <shen@ccert.edu.cn>; Wed, 2 Mar 2005 15:58:56 +0800
+Received: (eyou send program); Wed, 02 Mar 2005 16:11:05 +0800
+Message-ID: <309751065.00886@tsinghua.org.cn>
+X-EYOU-AUTOFORWARD: tsinghua.org.cn
+Received: (eyou send program); Wed, 02 Mar 2005 16:11:04 +0800
+Message-ID: <309751064.00876@tsinghua.org.cn>
+Date: Wed, 02 Mar 2005 15:15:21 +0800
+From: zhan@tsinghua.org.cn
+Reply-To: zhan@tsinghua.org.cn
+Subject: =?gb2312?B?ofEgxM++qc73ubm5q8u+1dDGuA==?=
+CC: 
+Content-Type: text/plain
+X-UIDL: =8D"!9b-"!:@g"!GjX!!
+
+岗位职责： 
+1、负责软件系统的设计； 
+2、完成软件模块的设计、开发； 
+3、书写相关的技术文档。 
+职位要求： 
+1、精通Java技术，熟悉Swing编程。
+2、熟悉JSP/Struts,具有WEB开发能力。
+3、本科以上，有一年以上工作经验； 
+4、熟悉Oracle数据库技术
+5、有EJB开发经验者优先。
+6、良好的自学能力、团队精神，能承受较强的工作压力。 
+工作地点：南京
+联系方式：
+tel: 13813838052
+     025-51575055
+请先将个人简历发送至:
+liu.junfang@gmail.com
+yuan.meng@gmail.com
+major_m@sina.com
+

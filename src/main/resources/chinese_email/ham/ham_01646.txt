@@ -1,0 +1,74 @@
+Return-Path: <luo@anti-spam.org.cn>
+Received: from autoforward.mail.sohu.com ([61.135.132.166])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id iBVF7QL1019529
+	for <yang@ccert.edu.cn>; Fri, 31 Dec 2004 23:07:27 +0800
+Received: from mx23.mail.sohu.com (unknown [192.168.41.141])
+	by autoforward.mail.sohu.com (Postfix) with ESMTP id 2B9968E9A4
+	for <yang@ccert.edu.cn>; Fri, 31 Dec 2004 23:21:43 +0800 (CST)
+Received: by mx23.mail.sohu.com (Postfix)
+	id 538EB14011; Fri, 31 Dec 2004 23:21:43 +0800 (CST)
+Delivered-To: chen741120@mx23.mail.sohu.com
+Received: from cngnu.org (unknown [211.157.2.95])
+	by sohumx04.sohu.com (Postfix) with ESMTP id B2E9D7397873
+	for <yang@ccert.edu.cn>; Fri, 31 Dec 2004 23:21:39 +0800 (CST)
+Received: from localhost (localhost [127.0.0.1])
+	by cngnu.org (Postfix) with ESMTP id 4D625CA02B
+	for <yang@ccert.edu.cn>; Fri, 31 Dec 2004 23:21:40 +0800 (CST)
+Received: from cngnu.org ([211.157.2.95])
+ by localhost (xia.cngnu.net [127.0.0.1]) (amavisd-new, port 10024) with ESMTP
+ id 29705-07 for <yang@ccert.edu.cn>; Fri, 31 Dec 2004 23:21:39 +0800 (CST)
+Received: from 127.0.0.1 (localhost [127.0.0.1])
+	by cngnu.org (Postfix) with SMTP id B4322CA023
+	for <yang@ccert.edu.cn>; Fri, 31 Dec 2004 23:21:39 +0800 (CST)
+From: "luo" <luo@anti-spam.org.cn>
+To: yang@ccert.edu.cn
+Subject: =?gb2312?B?UmU6IKG2ue3X08C0wcuht6O6xanD8cLttPPI/daut7PE1aOo16rU2KOp?=
+X-Priority: 3
+X-Mailer: CASA IPB PHP Mailer
+Message-Id: <20041231152139.B4322CA023@cngnu.org>
+Date: Fri, 31 Dec 2004 23:21:39 +0800 (CST)
+X-Virus-Scanned: by amavisd-new using ClamAV at cngnu.net
+X-Sohu-Antivirus: 0
+X-UIDL: hX9!!<$?"!Gf?"!UcK!!
+
+: 一只冥冥中操纵着草民命运的无形之手，硬生生的把那些本来是生存在战争边缘的农民拽进了一种宿命
+      不准确，初衷源自本能，但再往后就有变化了。
+: 推诿本就是中华民族的传统“美德”之一，马大三他可不是圣人
+      既是“传统”，马大三也可以预料得到推诿一番的结局，他此处的心情有点复杂。
+: “人家说了，鬼子没了，拿全村人问罪！”
+      对这么大条的噩讯，请看舅老爷的态度，并仔细辨认乡亲的神情。
+    
+: 董汉臣，东北人，职业，翻译官（汉奸），中国千百年来小聪明之集大成者。他的生存终极目标就是要活着并且活得舒。
+      如果我没记错，翻译官在后来也是有变化的，虽然只是一瞬。
+: “这鬼子说好话咋还没好脸呢？”送饭的寡妇鱼儿也奇怪
+      此处的隐喻是明显的，重要的是日本人及其文化确实不易理解。
+      
+: 他觉得养着鬼子不是汉奸
+      岂不正符合优待俘虏的惯例，重要的是他“养”的方式。
+: 千年儒家中庸奴化的生存准则早就根深蒂固
+      原作者对儒家是无知的。
+: 那个八婶子说的“……我走到哪儿他们都高看我一眼……”这可就不仅仅是自以为是了，转为愚昧了
+      愚昧一词太空洞，这种愚昧的成份有点复杂。
+: 找那个清朝的刽子手“刘一刀”来砍鬼子的头
+      这个隐喻是明显的。
+: 他的真正麻烦是他处于一个杀伐与救赎的选择困境中
+      最近常见人提“救赎”两字，仿佛人人都是基督徒。
+: 马大三要想自救就必须要杀人
+      逻辑不对。
+: 我们的国民还监守着古老的规则：审人要写供词，送还战俘换粮食要签约画押
+      这在今天看也是正当的手续（当然缺少法律保障），只是时机和效力的反差太大。
+: 如此愚昧国民，何以躯虎逐狼
+      此处理解过于简单了，原作者怕已忘记他在影片伊始看到的一切。
+: 自尊受到天皇停战打击的鬼子，把莫须有的罪名被强加到村民头上
+      如果我没记错，这个解释是荒诞的。
+: 被同僚多次羞辱恼羞成怒的花屋小三郎首先兽性发作
+      由此看出原作者对“花屋小三郎”也曾抱有一定的幻想。
+: 花屋小三郎，最终则成为军国主义者的牺牲品，悲哀的沦为世界战争的炮灰
+      不能说不对，但由此看出原作者对日本人不完全了解。
+: 在马大三人头落地的那一刻，仍让人觉得很遗憾
+      他必须死去。
+: 这俩人最终还都是含笑九泉
+      味道不对。
+: 我觉得是编剧时对故事的动因缺乏必要的描述
+      不懂他说的。
+

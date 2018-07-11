@@ -1,0 +1,49 @@
+Return-Path: <peng@mails.tsinghua.edu.cn>
+Received: from tsinghua.org.cn ([210.77.143.231])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id iB44IHOJ014943
+	for <mei@ccert.edu.cn>; Sat, 4 Dec 2004 12:18:19 +0800
+Received: (eyou send program); Sat, 04 Dec 2004 12:11:28 +0800
+Received: (eyou send program); Sat, 04 Dec 2004 12:11:27 +0800
+X-EYOU-ORIGINAL-IP: 210.77.143.235
+X-EYOU-ENVELOPE-MAILFROM: webmaster@mails.tsinghua.edu.cn
+Received: from unknown (HELO eyou.net) (unknown@210.77.143.235)
+ by 210.77.143.231 with SMTP; Sat, 04 Dec 2004 12:11:27 +0800
+Received: (eyou send program); Sat, 04 Dec 2004 12:26:29 +0800
+Message-ID: <302134389.08368@eyou.net>
+Received: from 166.111.8.16 by 210.77.143.235 with SMTP; Sat, 04 Dec 2004 12:26:28 +0800
+Received: (eyou send program); Sat, 04 Dec 2004 12:26:09 +0800
+Message-ID: <302134368.27586@mails.tsinghua.edu.cn>
+Received: (eyou send program); Sat, 04 Dec 2004 12:26:02 +0800
+Message-ID: <302134362.27439@mails.tsinghua.edu.cn>
+Date: Sat, 04 Dec 2004 12:08:31 +0800
+From: peng@mails.tsinghua.edu.cn
+Reply-To: peng@mails.tsinghua.edu.cn
+Subject: =?gb2312?B?ofEgW7nbxqzI1bzHXbH50anTwsq/L8PAufouSnVuLjEx?=
+CC: 
+Content-Type: multipart/mixed; boundary="----------=_1102133900-10199-652"
+MIME-Version: 1.0
+X-UIDL: $%a!!f_<!!PdM"!ok6!!
+
+您今天看的哪部片子?:
+冰雪勇士 / 八佰伴影城
+片子作者是谁?:
+美国 反法西斯战争60周年
+您对摄影画面的评分?5*经典4*值得研究3*到位2*需提高:
+3*
+您对演员表演的评分?5*经典4*值得研究3*到位2*需提高:
+3*       比较淡
+您对人物性格的评分?5*经典4*值得研究3*到位2*需提高:
+2.5* 不够个性化
+您对叙事剧情的评分?5*经典4*值得研究3*到位2*需提高:
+2.5* 前半程太拖沓, 没有转折
+您对主题寓意的评分?5*经典4*值得研究3*到位2*需提高:
+2.5* 人性高于一切, 跟敌人也可以讲"交易", 正好跟姜文说的相反...
+总体的星星评级?5*经典4*值得研究3*值得一看2*需提高:
+2.5* 打发时间吧, 不如青红和豆腐
+        另外看了20分钟&lt;&lt;亚马逊迷案&gt;&gt;... 1*
+                正是&lt;&lt;导演功课&gt;&gt;里面讲的"反传统",不知道讲故事,只好用新奇镜头,ft
+这部片,您特别喜欢的地方是什么? (最多160字,^q换行):
+战争敌我~人性化的处理. 不知道是不是过于理想化
+看了这部片子,您最想去做什么?(最多160字,每行1件事):
+重新看&lt;&lt;虎口脱险&gt;&gt;吧, 看人家节奏把握多么好...
+

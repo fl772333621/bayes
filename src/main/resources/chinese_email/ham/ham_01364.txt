@@ -1,0 +1,66 @@
+Return-Path: <yana@mail.hut.edu.vn>
+Received: from tsinghua.org.cn ([210.77.143.228])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id i9GBf2Cr011470
+	for <kang@ccert.edu.cn>; Sat, 16 Oct 2004 19:41:10 +0800
+Received: (eyou send program); Sat, 16 Oct 2004 19:51:57 +0800
+Received: (eyou send program); Sat, 16 Oct 2004 19:51:57 +0800
+X-EYOU-ORIGINAL-IP: 66.94.237.24
+X-EYOU-ENVELOPE-MAILFROM: sentto-1550022-2383-1097927440-chenguangying=tsinghua.org.cn@returns.groups.yahoo.com
+Received: from unknown (HELO n13a.bulk.scd.yahoo.com) (unknown@66.94.237.24)
+ by 210.77.143.228 with SMTP; Sat, 16 Oct 2004 19:51:57 +0800
+Received: from [66.218.69.5] by n13.bulk.scd.yahoo.com with NNFMP; 16 Oct 2004 11:50:40 -0000
+Received: from [66.218.66.28] by mailer5.bulk.scd.yahoo.com with NNFMP; 16 Oct 2004 11:50:40 -0000
+X-Yahoo-Newman-Property: groups-email
+X-Sender: ledung@mail.hut.edu.vn
+X-Apparently-To: e3d@yahoogroups.com
+Received: (qmail 4897 invoked from network); 16 Oct 2004 11:50:39 -0000
+Received: from unknown (66.218.66.216)
+  by m22.grp.scd.yahoo.com with QMQP; 16 Oct 2004 11:50:39 -0000
+Received: from unknown (HELO mail.hut.edu.vn) (203.162.7.195)
+  by mta1.grp.scd.yahoo.com with SMTP; 16 Oct 2004 11:50:38 -0000
+Received: from WorldClient by mail.hut.edu.vn
+	(MDaemon.PRO.v7.1.0.R)
+	with ESMTP id md50000008145.msg
+	for <kang@ccert.edu.cn>; Sat, 16 Oct 2004 18:53:47 +0700
+Received: from [203.210.136.65] via WorldClient with HTTP;
+	Sat, 16 Oct 2004 18:53:45 +0700
+To: kang@ccert.edu.cn
+Message-ID: <WorldClient-F200410161853.AA53450330@mail.hut.edu.vn>
+X-Mailer: WorldClient 7.1.0
+In-Reply-To: <005901c4b38f$34a46220$7e8ad2cb@bachvinh>
+References: <000001c4a11d$542a5340$d800000a@abc.microsoft> <005901c4b38f$34a46220$7e8ad2cb@bachvinh>
+X-Authenticated-Sender: ledung@mail.hut.edu.vn
+X-Return-Path: ledung@mail.hut.edu.vn
+X-MDaemon-Deliver-To: e3d@yahoogroups.com
+X-MDAV-Processed: linc_mailserver, Sat, 16 Oct 2004 18:53:49 +0700
+X-eGroups-Remote-IP: 203.162.7.195
+From: "yana" <yana@mail.hut.edu.vn>
+MIME-Version: 1.0
+Mailing-List: list e3d@yahoogroups.com; contact e3d-owner@yahoogroups.com
+Delivered-To: mailing list e3d@yahoogroups.com
+Precedence: bulk
+List-Unsubscribe: <mailto:e3d-unsubscribe@yahoogroups.com>
+Date: Sat, 16 Oct 2004 18:53:45 +0700
+Subject: Re: [e3d] Moi xem anh cuoi
+Reply-To: yana@yahoogroups.com
+Content-Type: text/plain; charset=US-ASCII
+Content-Transfer-Encoding: 7bit
+X-UIDL: M!I"!1%Z"!_10"!eKW!!
+
+【 以下文字转载自 T_shirt 讨论区 】
+发信人: diameter (大米·蜜月中的大米), 信区: T_shirt
+标  题: [投票]十年水木纪念站衫设计投票开启
+发信站: 水木社区 (Thu Jun  9 00:32:34 2005), 站内
+版面按V进入投票
+十年水木纪念站衫设计投票分为两部分
+  1 diameter     Jun  9 十年水木纪念站衫设计投票(白色款W1-W32)  
+  2 diameter     Jun  9 十年水木纪念站衫设计投票(白(W33,34)/黑/其他)
+投票说明:
+1. 每人8票,投票结束于6.10号18:30
+2. 作品链接:
+   白色: http://www.newsmth.net/tshirt/vote/white.html
+   黑色: http://www.newsmth.net/tshirt/vote/black.html
+   其他: http://www.newsmth.net/tshirt/vote/other.html
+   所有: http://www.newsmth.net/tshirt/vote/index.html
+   作品详细链接请查阅版面文摘区,以编号(eg, W23, B11)为关键字搜索.
+

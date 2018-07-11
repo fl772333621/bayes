@@ -1,0 +1,56 @@
+Return-Path: <hua@mails.tsinghua.edu.cn>
+Received: from tsinghua.org.cn ([210.77.143.228])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id iA51amji027476
+	for <ling@ccert.edu.cn>; Fri, 5 Nov 2004 09:36:54 +0800
+Received: (eyou send program); Fri, 05 Nov 2004 09:48:33 +0800
+Received: (eyou send program); Fri, 05 Nov 2004 09:48:33 +0800
+X-EYOU-ORIGINAL-IP: 210.77.143.235
+X-EYOU-ENVELOPE-MAILFROM: malb03@mails.tsinghua.edu.cn
+Received: from unknown (HELO eyou.net) (unknown@210.77.143.235)
+ by 210.77.143.228 with SMTP; Fri, 05 Nov 2004 09:48:33 +0800
+Received: (eyou send program); Fri, 05 Nov 2004 09:44:54 +0800
+Message-ID: <299619094.08728@eyou.net>
+Received: from 166.111.8.16 by 210.77.143.235 with SMTP; Fri, 05 Nov 2004 09:44:49 +0800
+Received: (eyou send program); Fri, 05 Nov 2004 09:43:17 +0800
+Message-ID: <299618996.29410@mails.tsinghua.edu.cn>
+Received: (eyou send program); Fri, 05 Nov 2004 09:43:16 +0800
+Message-ID: <299618996.09367@mails.tsinghua.edu.cn>
+Received: from unknown (HELO mails.tsinghua.edu.cn) (unknown@127.0.0.1)
+ by 127.0.0.1 with SMTP; Fri, 05 Nov 2004 09:43:16 +0800
+X-scanvirus: By Symantec Scan Engine
+X-scanresult: CLEAN
+Received: (eqmail ); 5 Nov 2004 01:43:15 -0000
+Received: from ccert.edu.cn (HELO home.ccert.edu.cn) (202.112.57.12)
+  by mails.tsinghua.edu.cn with SMTP; 5 Nov 2004 01:43:14 -0000
+Received: from home.ccert.edu.cn (localhost [127.0.0.1])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id iA51ZrJr027427;
+	Fri, 5 Nov 2004 09:35:53 +0800
+Received: (from majordomo@localhost)
+	by home.ccert.edu.cn (8.13.1/8.13.1/Submit) id iA51ZrlA027426;
+	Fri, 5 Nov 2004 09:35:53 +0800
+X-Authentication-Warning: home.ccert.edu.cn: majordomo set sender to owner-ccertstaff using -f
+Received: from mails.tsinghua.edu.cn (mails.tsinghua.edu.cn [166.111.8.16])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with SMTP id iA51ZqgC027418
+	for <ling@ccert.edu.cn>; Fri, 5 Nov 2004 09:35:53 +0800
+Received: (eyou send program); Fri, 05 Nov 2004 09:42:37 +0800
+Message-ID: <299618957.28785@mails.tsinghua.edu.cn>
+Received: from 202.112.50.13 by mails.tsinghua.edu.cn with HTTP; Fri, 05 Nov 2004 09:42:37 +0800
+X-WebMAIL-MUA: [202.112.50.13]
+From: "hua" <hua@mails.tsinghua.edu.cn>
+To: ling@ccert.edu.cn
+Date: Fri, 05 Nov 2004 09:42:37 +0800
+Reply-To: "hua" <hua@mails.tsinghua.edu.cn>
+Subject: =?gb2312?B?UmU6ILXa0ru0zsPmytSx8MjL?=
+Content-Type: text/plain
+Sender: owner-ccertstaff@home.ccert.edu.cn
+Precedence: bulk
+X-UIDL: BE)!!l#J!!_NR"!_YQ"!
+
+是的。
+比如说，如何启动Oracle数据库，简单吧？
+完全有可能忘记了几条命令叫什么。这些可以写在纸上的东西，为什么要记住呢？
+我启动过了几百次，上次面试上机中做这件事仍然显得生疏。
+你可以考住别人，别人同样也能考住你，只要是那个问题比较细，没有考不住的。
+: 术业有专攻，别说别人不是象你这样天天在什么系统上折腾来折腾去的，就算是常常接触，在面试的时候也难免会由于紧张而失去水平。而且，技术人员出的“简单”的技术题目往往不象他们自己以为的那样。
+: 我以前面人的时候也有这么个题目列表什么的，从简单到有深度的题目都有，但是在面试的时候发现即使是简单题目，回答的效果也不是特别好，但是在和来面试的人的交流中，你已经能感觉到他的素质和能力了。所以我一直认为，在面试过程中，有能力打折的现象出现。
+

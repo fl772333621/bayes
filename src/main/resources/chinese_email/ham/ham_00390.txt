@@ -1,0 +1,31 @@
+Return-Path: <bai@rbl.ccert.edu.cn>
+Received: from rbl.ccert.edu.cn (rbl.ccert.edu.cn [202.112.57.71])
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id i96ARnR0002814
+	for <zhou@ccert.edu.cn>; Wed, 6 Oct 2004 18:27:49 +0800 (CST)
+Received: from rbl.ccert.edu.cn (localhost.localdomain [127.0.0.1])
+	by rbl.ccert.edu.cn (8.12.11/8.12.11) with ESMTP id i96AXjgj026419
+	for <zhou@ccert.edu.cn>; Wed, 6 Oct 2004 18:33:45 +0800
+Received: (from qa@localhost)
+	by rbl.ccert.edu.cn (8.12.11/8.12.11/Submit) id i96AXjGC026418;
+	Wed, 6 Oct 2004 18:33:45 +0800
+Date: Wed, 6 Oct 2004 18:33:45 +0800
+Message-Id: <200410061033.i96AXjGC026418@rbl.ccert.edu.cn>
+Subject: =?gb2312?B?ofEgs8/GuC5uZXTXysnuyMvKv9f2Yi9zz+7Ev6Ossr+31mMvcyAo16rU2Ck=?=
+To: zhou@ccert.edu.cn
+From: Tran Quang Anh <bai@cernet.edu.cn>
+Content-Type: multipart/mixed; boundary="----------=_1097058825-996-568"
+MIME-Version: 1.0
+X-UIDL: ~J*"!>0e"!e/*!!Im\"!
+
+【 以下文字转载自 DotNET 讨论区 】
+发信人: xxyyzz (浪花一朵朵), 信区: DotNET
+标  题: 诚聘.net资深人士做b/s项目，部分c/s
+发信站: 水木社区 (Mon Jun  6 09:08:19 2005), 站内
+近期将开发
+项目管理+项目协同工作＋项目信息库
+的产品
+要求开发使用 .Net＋ sql，部分用Dephi, B/S项目，部分为C/S
+要求您有丰富的相关实际开发经验，具有一定的项目管理经验，熟悉软件架构设计，软件需求、概要设计、测试等方面，并熟悉计算机安全、数据库方面技术。
+有意者，请将您的详情（简历含项目经历简介）电子邮件到:
+zhu.lj89@gmail.com
+

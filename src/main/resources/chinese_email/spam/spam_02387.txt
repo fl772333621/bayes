@@ -1,0 +1,30 @@
+Return-Path: <pu@google.com>
+Received: from sproxy.google.com (sproxy.google.com [64.233.170.130])
+	by home.ccert.edu.cn (MIMEDefang) with ESMTP id NOQUEUE
+	for <hua@ccert.edu.cn>; Thu, 23 Jun 2005 22:12:19 +0800 (CST)
+Received: by sproxy.google.com with SMTP id 73so627060rne
+        for <hua@ccert.edu.cn>; Thu, 23 Jun 2005 07:29:48 -0700 (PDT)
+Received: by 10.38.4.80 with SMTP id 80mr1296622rnd;
+        Thu, 23 Jun 2005 07:29:48 -0700 (PDT)
+Message-ID: <1119536988.9972.3d5458f3c608ffbb.5c1a7ddf@persist.google.com>
+Date: Thu, 23 Jun 2005 07:29:48 -0700 (PDT)
+From: =?GB2312?B?R29vZ2xlIL/s0bY=?= <pu@google.com>
+To: hua@ccert.edu.cn
+Subject: =?gb2312?B?R29vZ2xlIL/s0bajqMrU08Ow5qOpyLfIz7Xn19PTyrz+?=
+X-Origin-IP: 59.66.42.107
+MIME-Version: 1.0
+Content-Type: text/plain; charset="GB2312"
+
+Google 收到开始将搜索
+ [ 山东 本科分数线 2005 ] 的快讯发送到 duan@ccert.edu.cn 的请求。
+ 
+请确认此新闻快讯请求：
+ http://www.google.com/alerts/verify?s=f996f22108939d78&f=1&hl=zh-CN 
+ 
+请撤消此新闻快讯请求：
+ http://www.google.com/alerts/remove?s=f996f22108939d78&hl=zh-CN 
+ 
+谢谢您的合作。
+Google 新闻小组
+ http://www.google.com/alerts?hl=zh-CN
+

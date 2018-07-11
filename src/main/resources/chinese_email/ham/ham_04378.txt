@@ -1,0 +1,27 @@
+Return-Path: <he@rbl.ccert.edu.cn>
+Received: from rbl.ccert.edu.cn (rbl.ccert.edu.cn [202.112.57.71])
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id i96ARnR0002814
+	for <you@ccert.edu.cn>; Wed, 6 Oct 2004 18:27:49 +0800 (CST)
+Received: from rbl.ccert.edu.cn (localhost.localdomain [127.0.0.1])
+	by rbl.ccert.edu.cn (8.12.11/8.12.11) with ESMTP id i96AXjgj026419
+	for <you@ccert.edu.cn>; Wed, 6 Oct 2004 18:33:45 +0800
+Received: (from qa@localhost)
+	by rbl.ccert.edu.cn (8.12.11/8.12.11/Submit) id i96AXjGC026418;
+	Wed, 6 Oct 2004 18:33:45 +0800
+Date: Wed, 6 Oct 2004 18:33:45 +0800
+Message-Id: <200410061033.i96AXjGC026418@rbl.ccert.edu.cn>
+Subject: =?gb2312?B?UmU6IM/uxL+3orD8o6xtc27U2s/ftcijoQ==?=
+To: you@ccert.edu.cn
+From: Tran Quang Anh <he@cernet.edu.cn>
+Content-Type: multipart/mixed; boundary="----------=_1097058825-996-568"
+MIME-Version: 1.0
+X-UIDL: ~J*"!>0e"!e/*!!Im\"!
+
+ 我不是太懂啊，随便乱说一下：
+ 能不能绕过图像识别，毕竟AI的东西不太好做，而且台标那东西经常会变，有时候也不打台标。
+ 不知道这样做行不行：每个台的信号都有个频点，能不能分析这个频点，然后跟已知的频点/频道节目表(有线台肯定有这个数据)对比，得出正在播放的频道信息再上传？
+: 我的想法是这样的：现在出售的电视机后面都有一组视频信号输出（为模拟信号）
+:                  多组视频信号输入（可接驳dvd、vcd、录像机等）
+:                 通过A/D转换模块（图像处理芯片），每秒采集一桢图像（格式gif、
+: ...................
+

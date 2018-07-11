@@ -1,0 +1,28 @@
+Return-Path: <ren@163.com>
+Received: from 163.com (bj44-205.i.netease.com [202.108.44.205] (may be forged))
+	by home.ccert.edu.cn (8.13.1/8.13.1) with SMTP id j4K4Adtt014351
+	for <xin@ccert.edu.cn>; Fri, 20 May 2005 12:10:53 +0800
+Received: from soso (unknown [219.218.104.110])
+	by smtp2 (Coremail) with SMTP id P8CVMu5mjUKHdPYB.1
+	for <xin@ccert.edu.cn>; Fri, 20 May 2005 12:26:28 +0800 (CST)
+X-Originating-IP: [219.218.104.110]
+Message-ID: <001001c55cf4$1c469310$6e68dadb@soso>
+From: "ren" <ren@163.com>
+To: xin@ccert.edu.cn
+References: <002e01c55b77$e0af5530$6e68dadb@soso> <00a701c55ce1$484fe640$18cb6fa6@CCERTDAWEI>
+Subject: =?gb2312?B?UmU6IM+jzfvE48Tcv7S1vQ==?=
+Date: Fri, 20 May 2005 12:26:33 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_NextPart_000_000D_01C55D37.288115E0"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2900.2527
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+X-UIDL: AlP!!?Q!"!BU]"!^F?!!
+
+太长了，他不会看的
+: 下雨了，很大的那种，在这里都能听到哗哗的声音。江南初夏的雨本该是温婉而缠绵的，可现在却滴滴打在人脸上生疼的那种，不正常的季节，不正常的感情线，这个世界乱成一片。
+: 哭过，闹过，累了，倦了，就习惯找个角落，一个人安安静静地坐着，什么也不做，什么也不想。这是不是人的动物性。动物受伤了总会找个角落安静地舔舐伤口。人的外部伤口有医生可以医治，而内心的伤只有靠自己慢慢去平复。这样的时候总会去反思，象看电影一样，从初识，一
+: 我觉得，我们都算不上什么大恶人，可为什么会把日子过成这样？也许真的是个性差异太大，可我又说不出区别在哪里，所以只能说自己的想法，也算是回答你“我到底在想什么吧”。我的经历、生活环境比你复杂，所以对于生活我的顾虑会很多，但同时又很在意完美。这就是我为什
+: ...................
+

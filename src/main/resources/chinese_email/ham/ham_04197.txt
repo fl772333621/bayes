@@ -1,0 +1,37 @@
+Return-Path: <chen@cernet.edu.cn>
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id i8KFnEmU006647
+	for <yuan@ccert.edu.cn>; Mon, 20 Sep 2004 23:49:14 +0800 (CST)
+Received: (eyou send program); Mon, 20 Sep 2004 23:35:08 +0800
+Message-ID: <295694508.27988@mail.tsinghua.edu.cn>
+Received: from unknown (HELO mail.tsinghua.edu.cn) (unknown@127.0.0.1)
+ by 127.0.0.1 with SMTP; Mon, 20 Sep 2004 23:35:08 +0800
+X-scanvirus: By Symantec Scan Engine
+X-scanresult: CLEAN
+Received: (eqmail ); 20 Sep 2004 15:35:06 -0000
+Received: from unknown (HELO huhoo) (duanhx@166.111.232.230)
+  by localhost with SMTP; 20 Sep 2004 15:35:06 -0000
+From: "chen" <chen@cernet.edu.cn>
+To: yuan@ccert.edu.cn
+Subject: =?gb2312?B?UmU6INX3uPbAttHV1qq8ug==?=
+Date: Mon, 20 Sep 2004 23:46:35 +0800
+Message-ID: <013601c49f29$0391aa50$033270ca@huhoo>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0137_01C49F6C.11B4EA50"
+X-Priority: 3 (Normal)
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook, Build 10.0.2627
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1441
+Importance: Normal
+In-Reply-To: <002e01c49f21$7b5260f0$3903510a@CCERTDAWEI>
+X-UIDL: m%E"!'JO!!8A*!!4iK"!
+
+本人完全符合！
+不过
+你有啥资本让这么优秀的人配你玩捏？
+: 刚看到的文章，不知道这里有这样的人没有？呵呵，且博一笑。
+: 1、才智过人的男性：这样的男人不论对你的事业还是生活都会有引领的作用，使你得到一个更好的看问题的角度，帮助你完善自我。
+: 　　2、健康快乐的男性：快乐的人是谁都不讨厌的，特别是俗务缠身，还能保持一颗健康快乐心的男人，他的人生必定是积极的，会带给你快乐，帮你释放压力。
+: ...................
+

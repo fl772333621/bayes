@@ -1,0 +1,72 @@
+Return-Path: <cai@telus.net>
+Received: from tsinghua.org.cn ([210.77.143.228])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id i8LGmg5k010068
+	for <zhou@ccert.edu.cn>; Wed, 22 Sep 2004 00:48:48 +0800
+Received: (eyou send program); Wed, 22 Sep 2004 00:58:41 +0800
+Received: (eyou send program); Wed, 22 Sep 2004 00:58:40 +0800
+X-EYOU-ORIGINAL-IP: 199.185.220.220
+X-EYOU-ENVELOPE-MAILFROM: adamwang@telus.net
+Received: from unknown (HELO priv-edtnes57.telusplanet.net) (unknown@199.185.220.220)
+ by 210.77.143.228 with SMTP; Wed, 22 Sep 2004 00:58:40 +0800
+Received: from cindy ([142.59.15.189]) by priv-edtnes57.telusplanet.net
+          (InterMail vM.6.01.03.02 201-2131-111-104-20040324) with SMTP
+          id <20040921165447.SPRH2397.priv-edtnes57.telusplanet.net@cindy>
+          for <zhou@ccert.edu.cn>;
+          Tue, 21 Sep 2004 10:54:47 -0600
+Message-ID: <000901c4a181$372548e0$6501a8c0@cindy>
+From: "cai" <cai@telus.net>
+To: zhou@ccert.edu.cn
+Subject: =?gb2312?B?UmU6IMTjyse5+b64o6zO0rK7yse7xsjY?=
+Date: Thu, 23 Sep 2004 09:23:01 -0600
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 5.50.4942.400
+X-MimeOLE: Produced By Microsoft MimeOLE V5.50.4942.400
+Content-Transfer-Encoding: 8bit
+X-MIME-Autoconverted: from base64 to 8bit by home.ccert.edu.cn id i8LGmg5k010068
+X-UIDL: *N3"!Nk,#!]WV!!GLl!!
+
+你粘的那么辛苦，我跟一下子先。
+: 标  题: 你是郭靖，我不是黄蓉
+: 发信站: 水木社区 (Tue Jun  7 23:59:10 2005), 站内
+: 
+: 和你恋爱的时候，
+: 就知道你是郭靖，可是那时不知道自己不是黄蓉。
+: 
+: 你的单纯和憨厚让我觉得，
+: 你是这沉渣泛起的复杂世界里的一块净土，
+: 于是义无反顾选择的时候，只是觉得幸福。
+: 
+: 你有质朴和憨厚，
+: 也算得上有一点武功，
+: 打拼中有点伤痛，但是总是在进步。
+: 
+: 当我回到现实中，
+: 我才发现我不是黄蓉，
+: 我没有精明的头脑，没有高超的武功，
+: 没有显赫的家事，也没有洒脱的气质。
+: 
+: 我只是个普通女孩，
+: 你的单纯让我觉得沉重，
+: 你的木衲让我觉得孤独，
+: 你的老实让我觉得无奈。
+: 在需要你吻我的时候，
+: 请不要跟我说对不起；
+: 在需要你安慰我的时候，
+: 请不要跟我说对不起；
+: 在需要你保护我的时候，
+: 请不要跟我说对不起；
+: 在我需要你的时候，
+: 请不要跟我说对不起。
+: 
+: 如果爱要一起经营，
+: 你可否往前走一小步，
+: 你别做郭靖，我也不是黄蓉
+: 
+: --
+: 
+: ※ 来源:·水木社区 http://newsmth.net·[FROM: 130.241.136.*]
+

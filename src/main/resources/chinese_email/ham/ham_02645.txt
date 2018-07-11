@@ -1,0 +1,42 @@
+Return-Path: <xing@tsinghua.org.cn>
+Received: from tsinghua.org.cn ([210.77.143.228])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id i8NFJF27026595
+	for <gan@ccert.edu.cn>; Thu, 23 Sep 2004 23:19:16 +0800
+Received: (eyou send program); Thu, 23 Sep 2004 23:29:17 +0800
+X-EYOU-ORIGINAL-IP: 218.107.132.130
+X-EYOU-ENVELOPE-MAILFROM: chenguangying@tsinghua.org.cn
+Received: from unknown (HELO ccertdawei) (unknown@218.107.132.130)
+ by 210.77.143.228 with SMTP; Thu, 23 Sep 2004 23:29:17 +0800
+Message-ID: <00e201c4a182$14cebcd0$7e03510a@CCERTDAWEI>
+From: "xing" <xing@tsinghua.org.cn>
+To: gan@ccert.edu.cn
+Cc: "sundh" <wen@ccert.edu.cn>, "sundh" <xia@ccert.edu.cn>,
+        <ni@ccert.edu.cn>
+Subject: =?gb2312?B?UmU6INLHxvfSx7Ht0NDStbmry77V0Ma4?=
+Date: Thu, 23 Sep 2004 23:29:13 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_00DF_01C4A1C5.22BB0E50"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2800.1437
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1441
+X-UIDL: +Z_"!-J/"!`]*"!=0$"!
+
+fluke在招人啊
+: 标  题: 仪器仪表行业公司招聘
+: 发信站: 水木社区 (Fri Jun 10 20:50:42 2005), 站内
+: 
+: 详情见网站：www.flukechina-proddev.com
+: 下面四个职位有空缺：
+: analog design engineer
+: mechanical design engineer
+: program manager
+: pcb layout engineer
+: 
+: 符合条件并有意者请与我联系：ronan.luo@fluke.com
+: 
+: --
+: 
+: ※ 来源:·水木社区 newsmth.net·[FROM: 221.137.218.122]
+

@@ -1,0 +1,63 @@
+Return-Path: <xie@tsinghua.edu.cn>
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with SMTP id i9L6CDpO012759
+	for <liu@ccert.edu.cn>; Thu, 21 Oct 2004 14:12:13 +0800
+Received: (eyou send program); Thu, 21 Oct 2004 14:09:00 +0800
+Message-ID: <298338940.09464@mail.tsinghua.edu.cn>
+Received: from unknown (HELO mail.tsinghua.edu.cn) (unknown@127.0.0.1)
+ by 127.0.0.1 with SMTP; Thu, 21 Oct 2004 14:09:00 +0800
+X-scanvirus: By Symantec Scan Engine
+X-scanresult: CLEAN
+Received: (eqmail ); 21 Oct 2004 06:08:59 -0000
+Received: from unknown (HELO sony) (duanhx@202.112.50.6)
+  by localhost with SMTP; 21 Oct 2004 06:08:59 -0000
+Message-ID: <00ce01c4b736$77eca150$063270ca@sony>
+From: "xie" <xie@tsinghua.edu.cn>
+To: liu@ccert.edu.cn
+Subject: =?gb2312?B?ofEguqvG87Tzwb/V0Ma4eno=?=
+Date: Thu, 21 Oct 2004 14:23:22 +0800
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2900.2180
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+Content-Transfer-Encoding: 8bit
+X-MIME-Autoconverted: from base64 to 8bit by home.ccert.edu.cn id i9L6CDpO012759
+X-UIDL: ocK!!dXY!!f~="!NmG!!
+
+发信人: juzhang (打了二十年水漂), 信区: Career
+标  题: 刚从北交大上看到的 韩企大量招聘
+发信站: BBS 水木清华站 (Fri Jun  3 22:03:37 2005), 站内
+韩国企业招聘信息
+发布时间：2005-5-30
+--------------------------------------------------------------------------------
+1.招聘单位：在中国投资的韩国企业(大中型企业)
+ 2.招聘人数：500名（男、女不限）
+ 3.招聘职位：人事，总务，业务管理，工厂控制系统等
+ 4.资 格：-大学理工科毕业，含应届毕业生（学士以上学位）
+ 　　　　　-朝鲜族（机械、电子等理工科）的技校
+  -韩语听、说、读、写流利
+  -朝鲜族（理工科大学毕业者）优先
+  -汉族（韩国语专业）
+ 5. 人才区分：无经验与有经验者
+ 6.工作地点：中国各大城市(如北京, 天津, 青岛等)
+ 7.基本工资：实习期间工资为人民币2,000以上（面试后决定）
+ 8.福利待遇：- 享受医疗、保险等国家福利待遇，并提供住宿
+  - 支付奖金
+  - 提供超过正常工作时间以外的津贴
+  - 工作优秀者可赴韩国工作
+  - 享受公司各种奖励活动
+ 9.提交文件：-个人简历（附照片、自我介绍、工作经历等）
+  -毕业证书，资格证书复印件
+ 10.申请地址：
+  - 北京市朝阳区曙光西里甲5户凤凰城B座2904
+  - Fax:(010)8440-4301
+  - E-mail:lovely_panghaozi@126.com
+ 11.申请期间 : 2005年05月25日～2005年06月20日
+ *请将您应聘资料邮寄或发E-mail至如上地址，如有疑问请发
+ E-mail联系，来人来电者恕不接待！
+ 如果有对韩企感兴趣的，请将简历投至lovely_panghaozi@126.com ，或发传真010-844043
+01
+

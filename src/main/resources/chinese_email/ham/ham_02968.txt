@@ -1,0 +1,32 @@
+Return-Path: <ke@rbl.ccert.edu.cn>
+Received: from rbl.ccert.edu.cn (rbl.ccert.edu.cn [202.112.57.71])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id i9T3UhIW026541
+	for <zhong@ccert.edu.cn>; Fri, 29 Oct 2004 11:30:43 +0800
+Received: from rbl.ccert.edu.cn (localhost.localdomain [127.0.0.1])
+	by rbl.ccert.edu.cn (8.12.11/8.12.11) with ESMTP id i9T3lpoo016417
+	for <zhong@ccert.edu.cn>; Fri, 29 Oct 2004 11:48:07 +0800
+Received: (from qa@localhost)
+	by rbl.ccert.edu.cn (8.12.11/8.12.11/Submit) id i9T3lkWG016414;
+	Fri, 29 Oct 2004 11:47:46 +0800
+Date: Fri, 29 Oct 2004 11:47:46 +0800
+Message-Id: <200410290347.i9T3lkWG016414@rbl.ccert.edu.cn>
+Subject: =?gb2312?B?ofEgSm9icyBhdCBJbnRlbCBDaGluYSBSZXNlYXJjaCBDZW50ZXI=?=
+To: zhong@ccert.edu.cn
+From: ke@rbl.ccert.edu.cn
+Content-Type: multipart/mixed; boundary="----------=_1099021692-20866-168"
+MIME-Version: 1.0
+X-UIDL: mB(!!-?S!!M[M"!NUk"!
+
+We have an immediate job opening at Programming Systems China Lab in Intel 
+China Research Center, Beijing.  He/she will perform advanced compiler/
+languages/runtime/architecture research and development work.  We are looking 
+for candidates who have good research aptitude and strong programming skills.  
+Good compiler background and experience is highly desirable.  Those who have 
+good knowledge in computer architecture, operating systems and/or parallel 
+processing, together with good communication skill, will have clear advantages.
+While we are primarily looking for fresh PhD graduates, we are particularly 
+interested in experienced researchers.Excellent MS graduates will also be 
+considered.
+If you are interested in this job opportunity, please send your resume/CV to 
+tin-fook.ngai@intel.com.
+

@@ -1,0 +1,25 @@
+Return-Path: <xu@rbl.ccert.edu.cn>
+Received: from rbl.ccert.edu.cn (rbl.ccert.edu.cn [202.112.57.71])
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id i98B12cw008442
+	for <cen@ccert.edu.cn>; Fri, 8 Oct 2004 19:01:02 +0800 (CST)
+Received: from rbl.ccert.edu.cn (localhost.localdomain [127.0.0.1])
+	by rbl.ccert.edu.cn (8.12.11/8.12.11) with ESMTP id i98B74rk019960
+	for <cen@ccert.edu.cn>; Fri, 8 Oct 2004 19:07:04 +0800
+Received: (from qa@localhost)
+	by rbl.ccert.edu.cn (8.12.11/8.12.11/Submit) id i98B74Rf019959;
+	Fri, 8 Oct 2004 19:07:04 +0800
+Date: Fri, 8 Oct 2004 19:07:04 +0800
+Message-Id: <200410081107.i98B74Rf019959@rbl.ccert.edu.cn>
+Subject: =?gb2312?B?UmU6IMnLxNS97qOh?=
+To: cen@ccert.edu.cn
+From: Tran Quang Anh <xu@cernet.edu.cn>
+Content-Type: multipart/mixed; boundary="----------=_1097233624-26230-12"
+MIME-Version: 1.0
+X-UIDL: F,X"!W:`"!V;G"!b8F"!
+
+有什么可怕的，勇敢去爱~~~~
+: —— “年龄上去了 青春在流失 我不要就这么失去  想爱 真正的爱
+: 我才23 快24了吧 我习惯了一个人生活 我怕爱 我讨厌爱 但没有爱我活不下去 我离不开它 没了爱我好空虚 ”
+: “不是只有你 很多人 第一眼看了我都觉得我很好 是真的很好 可接触我时间久了 他们会觉得我的个性太内向 人有点自以为是 甚至会觉得我比较做作 但那只是表面 我并没察觉我会给他们这种感觉。” 
+: ...................
+

@@ -1,0 +1,36 @@
+Return-Path: <tu@tsinghua.edu.cn>
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j2E7g6wn004184
+	for <che@ccert.edu.cn>; Mon, 14 Mar 2005 15:42:06 +0800 (CST)
+Received: (eyou send program); Mon, 14 Mar 2005 15:25:23 +0800
+Message-ID: <310785123.26930@mail.tsinghua.edu.cn>
+Received: from unknown (HELO mail.tsinghua.edu.cn) (unknown@127.0.0.1)
+ by 127.0.0.1 with SMTP; Mon, 14 Mar 2005 15:25:23 +0800
+X-scanvirus: By Symantec Scan Engine
+X-scanresult: CLEAN
+Received: (eqmail ); 14 Mar 2005 07:25:19 -0000
+Received: from unknown (HELO sony) (duanhx@166.111.204.189)
+  by localhost with SMTP; 14 Mar 2005 07:25:19 -0000
+Message-ID: <006e01c52869$4ac02270$bdcc6fa6@sony>
+From: "tu" <tu@tsinghua.edu.cn>
+To: che@ccert.edu.cn
+Cc: <wei@ccert.edu.cn>, =?gb2312?B?zuLWvr78?= <lei@ccert.edu.cn>,
+        <tao@ccert.edu.cn>,
+        "Liu wu \(Tsinghua CCERT\)" <hua@ccert.edu.cn>, <wang@ccert.edu.cn>
+Subject: =?gb2312?B?UmU6IM7S1eLR+bXExa66osrKus/BtbCuwvA/?=
+Date: Mon, 14 Mar 2005 15:41:52 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_006B_01C528AC.57AD5370"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2900.2180
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+X-UIDL: fiO!!X;j"!!4d"!PNI"!
+
+没有遇到那个给你三颗痣的人.
+: 我觉得我天性冷漠，很多事都不会去争，让我在乎的东西不太多。感觉gg喜欢我，但是我喜欢他吗？见到他还是开心的，可是见不到他的时候我也不会想念他。我们周末见面，周一到周五我偶尔会给他打一次电话，从来不煲电话粥。我在国外那一年，也通常是一周一次电话而已。我有
+: 我们的性格好像是颠倒的，他很多愁善感，会哭。我不会。他比较在意那些浪漫的感觉，我则是彻底的实用主义者。我不会说肉麻的话，也不会说我爱你。（我实在不知道爱情是什么）
+: 我想我唯一确定我爱着的人是我的父母和我的哥哥。跟他们在一起，我心里会有那种很幸福
+: ...................
+

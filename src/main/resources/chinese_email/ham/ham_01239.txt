@@ -1,0 +1,76 @@
+Return-Path: <zhao@compass.net.edu.cn>
+Received: from tsinghua.org.cn ([210.77.143.231])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id iBA1d3S8019423
+	for <bai@ccert.edu.cn>; Fri, 10 Dec 2004 09:39:04 +0800
+Received: (eyou send program); Fri, 10 Dec 2004 09:32:20 +0800
+Received: (eyou send program); Fri, 10 Dec 2004 09:32:20 +0800
+X-EYOU-ORIGINAL-IP: 210.77.143.235
+X-EYOU-ENVELOPE-MAILFROM: toefl-bounces@server.cool-meeting.com
+Received: from unknown (HELO eyou.net) (unknown@210.77.143.235)
+ by 210.77.143.231 with SMTP; Fri, 10 Dec 2004 09:32:20 +0800
+Received: (eyou send program); Fri, 10 Dec 2004 09:47:09 +0800
+Message-ID: <302643229.09409@eyou.net>
+Received: from 202.38.99.65 by 210.77.143.235 with SMTP; Fri, 10 Dec 2004 09:47:08 +0800
+Received: from server.cool-meeting.com (localhost.localdomain [127.0.0.1])
+	by server.cool-meeting.com (8.12.8/8.12.8) with ESMTP id iBA2AAli021722
+	for <bai@ccert.edu.cn>; Fri, 10 Dec 2004 10:10:16 +0800
+Received: from sun.com ([202.38.188.130])
+	by server.cool-meeting.com (8.12.8/8.12.8) with ESMTP id iBA2A3kr021718
+	for <bai@ccert.edu.cn>; Fri, 10 Dec 2004 10:10:03 +0800
+Received: from [210.25.128.113] ([210.25.128.113])
+	by sun.com (8.9.2/8.9.2) with ESMTP id JAA21309
+	for <bai@ccert.edu.cn>;
+	Fri, 10 Dec 2004 09:55:23 +0800 (CST)
+Message-ID: <41B90072.8060404@compass.net.edu.cn>
+Date: Fri, 10 Dec 2004 09:48:34 +0800
+From: Shaozhi Ye <zhao@compass.net.edu.cn>
+User-Agent: Mozilla Thunderbird 1.0 (Windows/20041206)
+X-Accept-Language: en-us, en
+MIME-Version: 1.0
+To: bai@ccert.edu.cn
+Subject: Re: [TOEFL] =?GB2312?B?zbO8xrG+xOq2yMLbzsS3orHtx+m/9g==?=
+References: <41B8FEF1.8040907@compass.net.edu.cn>
+In-Reply-To: <41B8FEF1.8040907@compass.net.edu.cn>
+Content-Type: text/plain; charset=GB2312
+Content-Transfer-Encoding: 8bit
+Cc: 
+X-BeenThere: toefl@server.cool-meeting.com
+X-Mailman-Version: 2.1.2
+Precedence: list
+List-Id: &#26446;&#26143;&#21644;&#20182;&#30340;&#23398;&#29983;&#20204;
+	<toefl.server.cool-meeting.com>
+List-Unsubscribe: <http://server.cool-meeting.com/mailman/listinfo/toefl>,
+	<mailto:toefl-request@server.cool-meeting.com?subject=unsubscribe>
+List-Archive: <http://server.cool-meeting.com/mailman/private/toefl>
+List-Post: <mailto:toefl@server.cool-meeting.com>
+List-Help: <mailto:toefl-request@server.cool-meeting.com?subject=help>
+List-Subscribe: <http://server.cool-meeting.com/mailman/listinfo/toefl>,
+	<mailto:toefl-request@server.cool-meeting.com?subject=subscribe>
+Sender: toefl-bounces@server.cool-meeting.com
+Errors-To: toefl-bounces@server.cool-meeting.com
+X-UIDL: Tc#"!=9!#!~J,!!&L#"!
+
+等知情人出来点评!!
+: 标  题: 转发：建议考上海公务员
+: 发信站: 水木社区 (Wed Jun  8 16:54:53 2005), 站内
+: 
+: 我，上海GG
+: 78年，上海区级部门公务员，
+: 月薪7200，年中年终奖金一共6万左右
+: 平时还有胡乱发一些奖金，大概一年1到2万
+: 去年扣掉税什么的总共拿到14.7万(不包括发的购物卡什么的）
+: 
+: LP，浙江MM
+: 78年，上海市级部门公务员，
+: 月薪7700，年中年终奖金一共7万左右
+: 平时还有也是胡乱发一些奖金，大概一年1到2万
+: 去年扣掉税什么的总共拿到16.8万(也不包括发的购物卡什么的）
+: 
+: 住房两套，都无贷款，一套140平，市价210万，自己住。
+: 一套120平方，租出去，一月5000，开的单位的车，每月补助2000元。
+: 
+: 我们加起来年薪30万左右，希望2年以后能到50万，能再买一套房子。另外，我们双方父母也是公务员，我家里父母有4套房子，市价1000万不到一点。虽然这个条件在上海还算不错，但是看到那么多有钱人买一千万的宾利，还是觉得自己钱不购用。
+: --
+: 
+: ※ 来源:·水木社区 http://newsmth.net·[FROM: 218.106.186.*]
+

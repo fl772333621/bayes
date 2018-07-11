@@ -1,0 +1,32 @@
+Return-Path: <cai@tsinghua.edu.cn>
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by unknown (8.12.11/8.12.11) with SMTP id j5DG7iW9005737
+	for <tao@ccert.edu.cn>; Tue, 14 Jun 2005 00:07:48 +0800 (CST)
+Received: (eyou send program); Mon, 13 Jun 2005 23:49:23 +0800
+Message-ID: <318677763.00228@mail.tsinghua.edu.cn>
+Received: from unknown (HELO mail.tsinghua.edu.cn) (unknown@127.0.0.1)
+ by 127.0.0.1 with SMTP; Mon, 13 Jun 2005 23:49:23 +0800
+X-scanvirus: By Symantec Scan Engine
+X-scanresult: CLEAN
+Received: (eqmail ); 13 Jun 2005 15:49:23 -0000
+Received: from th042098.ip.tsinghua.edu.cn (HELO sony) (duanhx@59.66.42.98)
+  by localhost with SMTP; 13 Jun 2005 15:49:23 -0000
+Message-ID: <018e01c57032$0534cfb0$5618423b@sony>
+From: "cai" <cai@tsinghua.edu.cn>
+To: tao@ccert.edu.cn
+References: <318661778.20346@mail.tsinghua.edu.cn>
+Subject: =?gb2312?B?ofEgyseyu8rHs8Oxz9K1x7C7ucqjtcS8uLj21MK9u7j2xNDF89PRxNijvw==?=
+Date: Tue, 14 Jun 2005 00:07:37 +0800
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2900.2180
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+Content-Transfer-Encoding: 8bit
+X-MIME-Autoconverted: from base64 to 8bit by unknown id j5DG7iW9005737
+X-UIDL: &Sm!!)(+"!UGl"!]?-"!
+
+现在研二了，很快我就要毕业了，说起来真惭愧，现在还没男朋友，曾经有过一些追求者，但都因不符合自己的要求，就都放弃了，（可能是自己要求太高了，但是真的觉得自己也没有什么要求，就是对他们没感觉），现在校园生活马上要结束了，还是孑然一身，真不知道是抓紧现在的时光给自己的校园人生划个圆满的句号，还是就这样在工作中去碰，碰到那个就是哪个了，学校都没碰到是不是工作以后的机会就更小了，请版上的同学给点建议吧。
+

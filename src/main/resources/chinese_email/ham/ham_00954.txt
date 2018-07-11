@@ -1,0 +1,23 @@
+Return-Path: <kong@rbl.ccert.edu.cn>
+Received: from rbl.ccert.edu.cn (rbl.ccert.edu.cn [202.112.57.71])
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id i981CVd8028513
+	for <yan@ccert.edu.cn>; Fri, 8 Oct 2004 09:12:31 +0800 (CST)
+Received: from rbl.ccert.edu.cn (localhost.localdomain [127.0.0.1])
+	by rbl.ccert.edu.cn (8.12.11/8.12.11) with ESMTP id i981IWOg015794
+	for <yan@ccert.edu.cn>; Fri, 8 Oct 2004 09:18:32 +0800
+Received: (from qa@localhost)
+	by rbl.ccert.edu.cn (8.12.11/8.12.11/Submit) id i981IWkj015793;
+	Fri, 8 Oct 2004 09:18:32 +0800
+Date: Fri, 8 Oct 2004 09:18:32 +0800
+Message-Id: <200410080118.i981IWkj015793@rbl.ccert.edu.cn>
+Subject: =?gb2312?B?UmU6IMfrzsrH5buqus3W0L/G1LrEx7j2usOjqL+8Q1OjqQ==?=
+To: yan@ccert.edu.cn
+From: Tran Quang Anh <kong@cernet.edu.cn>
+Content-Type: multipart/mixed; boundary="----------=_1097198312-1044-186"
+MIME-Version: 1.0
+X-UIDL: Q;a!!ES=!!8Ch!!7=i!!
+
+名气自然清华大一些，但是，公平的说，中科院不弱于清华，只是清华更偏重研究，中科院偏重工程。个人观点：如果你要做研究，出国为上，清华次之，中科院再次；如果你要做工程，本科直接工作最好，读中科院硕次之，清华硕士再次，读博士最次。
+BTW：pku的cs也很牛比的，尤其他们那个mprc，感觉很不错：P
+: 还真不是，我在科苑和他们谈起来，还都劝我说保研先试试清华，他们说中科院整天做工程，没有氛围，很压抑……他说的是网络室，不知道那里别的室怎么样。大家怎么看？
+

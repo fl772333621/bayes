@@ -1,0 +1,30 @@
+Return-Path: <chen@ccert.edu.cn>
+Received: from home.ccert.edu.cn (ccert.edu.cn [202.112.57.12])
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id iA56r4MR014948
+	for <zhao@ccert.edu.cn>; Fri, 5 Nov 2004 14:53:05 +0800 (CST)
+Received: from ccertspark (tu203111.tsinghua.edu.cn [166.111.203.111])
+	(authenticated bits=0)
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id iA56exGW031973;
+	Fri, 5 Nov 2004 14:41:01 +0800
+From: "chen" <chen@ccert.edu.cn>
+To: zhao@ccert.edu.cn
+Subject: =?gb2312?B?ofEgudjT2s3L0afOyszi?=
+Date: Fri, 5 Nov 2004 14:51:55 +0800
+Message-ID: <000001c4c303$f29696d0$6fcb6fa6@ccertspark>
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+X-Priority: 3 (Normal)
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook, Build 10.0.6626
+Importance: Normal
+In-Reply-To: <299294469.29856@mail.tsinghua.edu.cn>
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.3790.181
+Content-Transfer-Encoding: 8bit
+X-MIME-Autoconverted: from quoted-printable to 8bit by sea.net.edu.cn id iA56r4MR014948
+X-UIDL: &"h"!!JT"!N^;!!L>m"!
+
+来这里不久，但感触不少。我是去年9月上的博士，硕士毕业后工作了1年多。由于我是考回以前的导师，所以面临着很多的问题，两地分居，上学不象工作，没有足够的钱花费等等。我也觉得，从工作到学习的却有点不适用，在钱的问题上，落差很大。于是，在课程修完一部分的情况下，我暂停学习了。但是只是休息半年。在这半年里，我找了份工作，现在已经辞职了。但是我还是没有学习。我想我既然是由于经济上的原因影响学习，那么我就尽早解决这个问题吧。博士既然上了，肯定是要坚持到底的。我想说的是：如果你们也是由于经济原因而不想上学，可以有其他途径弥补的。反正我是按这个方式在进行中。我老公的程序写得不错，而我的英文也还可以（不包括口语），我就想需求，我老公就帮我写代码。我想在下半年开学前：我的经济问题应该就可以解决了。或许在7月中旬，我设计的小软件应该可以在美国销售了，不管能卖多少，解决我的所谓的经济问题应该够了，毕竟1刀值8快多RMB。我们不要轻易言放弃，我们可以通过其他的途径来将我们的知识转化为money的，只要合理，我们就可以做。我一直记得一句话：大概意思就是，工资只够维持生活，要想成为有钱人，起码要有其他的收入来源。也就是说，你在休息的时候一样有收入来源。不管数目是多少，总之是源源不断。
+既然开始了，就坚持到底的。我总对周围的人说，我暂时不读了。他们就劝我，还是读完吧，争取早点毕业就是了。当然我的情况比其他女生要好一点点（或许是哦），我结婚了，还有就是我中途工作过。其实工作也就那么回事。如果你碰到的领导一般，也一样会无聊的。不过我是个喊做就做的人，这点还得谢谢我老公，他一般不反对我，很是支持我。也没有一般男人的所谓小气，他本科毕业就工作了。但是他的收入总是保持在我的两倍左右。所以啊，学历也不值钱，关键是你怎么看待它。但我老公说，学历还是有好处的，升迁有用。
+兄弟姐妹们，坚持啊！
+

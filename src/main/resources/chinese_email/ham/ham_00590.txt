@@ -1,0 +1,42 @@
+Return-Path: <bai@rbl.ccert.edu.cn>
+Received: from rbl.ccert.edu.cn (rbl.ccert.edu.cn [202.112.57.71])
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id i962RAfW027461
+	for <sun@ccert.edu.cn>; Wed, 6 Oct 2004 10:27:10 +0800 (CST)
+Received: from rbl.ccert.edu.cn (localhost.localdomain [127.0.0.1])
+	by rbl.ccert.edu.cn (8.12.11/8.12.11) with ESMTP id i962X3oG010752
+	for <sun@ccert.edu.cn>; Wed, 6 Oct 2004 10:33:05 +0800
+Received: (from qa@localhost)
+	by rbl.ccert.edu.cn (8.12.11/8.12.11/Submit) id i962X3xa010751;
+	Wed, 6 Oct 2004 10:33:03 +0800
+Date: Wed, 6 Oct 2004 10:33:03 +0800
+Message-Id: <200410060233.i962X3xa010751@rbl.ccert.edu.cn>
+Subject: =?gb2312?B?ofEg1ffH87TzvNLS4rz7oaqhqm1ttcS45rHwueOypQ==?=
+To: sun@ccert.edu.cn
+From: Tran Quang Anh <bai@cernet.edu.cn>
+Content-Type: multipart/mixed; boundary="----------=_1097029985-996-466"
+MIME-Version: 1.0
+X-UIDL: 8!(#!Y~\!!oM6"!]&)!!
+
+自己办过一个网络radio
+类似于music radio
+直播
+播歌 我打歌
+但毕竟我技术有限 切换方面可能不是那么smooth：p
+玩了半个月 失去兴趣了-_-
+这几天忽然想起 发现已经一两个月没广播过了
+而突然又发现自己还有不到一个月就要彻底离开大学校园了
+于是想做一次最后的广播
+希望有兴趣的朋友来收听
+我的服务器好像最多可以容纳23个人同时在线收听
+届时我会提前公布播出的时间和曲目
+大家可以提前点歌 发信告诉我你想送给某人的祝福
+我会在直播的节目里替大家送出
+呵呵 类似于告别播音
+总希望完美一点
+还在考虑播出的具体时间
+因为我现在还住在宿舍 怕宿舍有人影响播音效果
+但大家一定都是晚上才会比较有时间吧
+所以我在矛盾中
+大家觉得什么时间播合适呢？
+我还要尽量协调。。。sigh
+

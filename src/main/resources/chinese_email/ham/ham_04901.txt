@@ -1,0 +1,43 @@
+Return-Path: <yan@tsinghua.edu.cn>
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with SMTP id j2N8hPSW028152
+	for <che@ccert.edu.cn>; Wed, 23 Mar 2005 16:43:41 +0800
+Received: (eyou send program); Wed, 23 Mar 2005 16:40:37 +0800
+Message-ID: <311567237.28747@mail.tsinghua.edu.cn>
+Received: from unknown (HELO mail.tsinghua.edu.cn) (unknown@127.0.0.1)
+ by 127.0.0.1 with SMTP; Wed, 23 Mar 2005 16:40:37 +0800
+X-scanvirus: By Symantec Scan Engine
+X-scanresult: CLEAN
+Received: (eqmail ); 23 Mar 2005 08:40:35 -0000
+Received: from unknown (HELO sony) (duanhx@221.7.150.218)
+  by localhost with SMTP; 23 Mar 2005 08:40:35 -0000
+Message-ID: <008e01c52f86$5314c380$0d00a8c0@sony>
+From: "yan" <yan@tsinghua.edu.cn>
+To: che@ccert.edu.cn
+References: <311565945.00013@mail.tsinghua.edu.cn>
+Subject: =?gb2312?B?UmU6INK7uPbSwrzcwcDBvbz+0sK3/sO7udjPtbDJLi4u?=
+Date: Wed, 23 Mar 2005 16:56:59 +0800
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----------=_1111567422-27376-118"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2900.2180
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+X-UIDL: 0Z("!9HQ"!K&D"!>/_"!
+
+电吹风
+: 标  题: 一个衣架晾两件衣服没关系吧...
+: 发信站: 水木社区 (Sun Jun 19 18:05:16 2005), 站内
+: 
+: 真担心南方这个鬼天气衣服晾不干就味儿了...也没时间出去买衣架:(
+: 
+: --
+: 发信人: was (银杏叶◇厚道的球迷), 信区: WorkLife
+: 标  题: Re: 2005-05-28 腐败花絮（三）
+: 发信站: 水木社区 (Sun May 29 14:47:50 2005), 站内
+: 我就是太厚道了..
+: : 你以后要多搜集她的证据...然后打包                            
+: 
+: 
+: ※ 来源:·水木社区 newsmth.net·[FROM: 218.64.29.*]
+

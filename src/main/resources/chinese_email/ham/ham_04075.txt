@@ -1,0 +1,70 @@
+Return-Path: <lian@tsinghua.edu.cn>
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j1L6qeP6023994
+	for <lin@ccert.edu.cn>; Mon, 21 Feb 2005 14:52:40 +0800 (CST)
+Received: (eyou send program); Mon, 21 Feb 2005 14:36:13 +0800
+Message-ID: <308967773.09074@mail.tsinghua.edu.cn>
+Received: from unknown (HELO mail.tsinghua.edu.cn) (unknown@127.0.0.1)
+ by 127.0.0.1 with SMTP; Mon, 21 Feb 2005 14:36:13 +0800
+X-scanvirus: By Symantec Scan Engine
+X-scanresult: CLEAN
+Received: (eqmail ); 21 Feb 2005 06:36:08 -0000
+Received: from unknown (HELO sony) (duanhx@202.112.35.253)
+  by localhost with SMTP; 21 Feb 2005 06:36:08 -0000
+Message-ID: <003f01c517e1$e96d9300$0201a8c0@sony>
+From: "lian" <lian@tsinghua.edu.cn>
+To: lin@ccert.edu.cn
+Cc: <cai@ccert.edu.cn>
+References: <308965458.10097@mail.tsinghua.edu.cn>
+Subject: =?gb2312?B?ofEgx+W7qrTz0afDwMr10afUutXQxrjG9MrC?=
+Date: Mon, 21 Feb 2005 14:52:28 +0800
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2900.2180
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+Content-Transfer-Encoding: 8bit
+X-MIME-Autoconverted: from base64 to 8bit by sea.net.edu.cn id j1L6qeP6023994
+X-UIDL: ZOU"!0h#"!-`!"!PGg"!
+
+标题: 再发美术学院招聘启示 
+发布日期：（2005.6.17）
+ 
+--------------------------------------------------------------------------------
+清华大学美术学院拟招聘：
+“信息设计&amp;新媒体艺术实验室管理” 、“机械、电气实验室技术管理”、“教学与科研实验技术管理”关键岗位各一名，岗位津贴设置为1.7~3.0万元/年，从清华大学校内编制中招聘。美术学院将根据申请者情况向学校推荐岗位级别，并参加学校的岗位评审。
+基本情况和要求：
+1、信息设计实验室管理岗
+实验室的主要任务：
+（1）信息设计专业课教学（信息设计基础训练、影视与三维动画、多媒体技术、交互设计、体验设计、虚拟产品设计、信息生活方式概念设计等）。
+（2）全校任选课实验教学（影视艺术、三维动画艺术、界面设计等）。
+（3）美术学院计算机类课程（计算机图形图像设计、计算机辅助设计等）。
+（4）美术学院师生艺术创作、科研、学生毕业设计等使用（VR实验、界面设计评价、交互设计测试、三维艺术创作等）。
+2、教学与科研实验系统管理岗
+主要任务：
+（1）全院实践性教学环节的规划、设计及落实设备购置与维护；
+（2）全院实践性教学环节的展开与管理；
+（3）全院科研活动的开发与维护；
+（4）美术学院实验室与大学管理系统的协调工作；
+（5）保证美术学院实验设备的有效使用和优质维护；
+（6）根据学科的发展制定实验室的年度整改规划和技术管理人员的调整。
+3、机械、电气实验室技术管理岗
+主要任务
+（1）全院各专业实验室机械、电气设备的规划、设计、装备与维护；
+（2）全院各专业实验室机械、电气设备与相关的专业教学和科研活动的实施；
+（3）全院各专业实验室机械、电气设备的使用政策和管理政策的执行。
+（4）全校任选课艺术设计相关内容实践性教学的展开；
+（5）面向全校的实验内容有：信息设计、陶瓷工艺、金属工艺、首饰工艺、版画工艺、印染、织绣工艺、漆工艺、玻璃工艺、铸造工艺等艺术特色教学活动的管理。
+熟悉专业和有经验者优先。
+简历接收的截止日期为2005年6月20日。需面试者将通知本人。
+详情请浏览：
+http://ad.tsinghua.edu.cn:8080/msxy/main.nsf/0/B9618D7BC160B5FD48257018001F0246?opendocument
+联系人：滕老师、李老师
+电话：65619664，65619572
+邮件：mydb@tsinghua.edu.cn
+清华大学美术学院
+2005年6月6日     
+ 
+

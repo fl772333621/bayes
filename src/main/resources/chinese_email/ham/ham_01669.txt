@@ -1,0 +1,59 @@
+Return-Path: <yang@ccert.edu.cn>
+Received: from tsinghua.org.cn ([210.77.143.231])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id j0595FLI002362
+	for <shen@ccert.edu.cn>; Wed, 5 Jan 2005 17:05:16 +0800
+Received: (eyou send program); Wed, 05 Jan 2005 16:59:00 +0800
+Received: (eyou send program); Wed, 05 Jan 2005 16:59:00 +0800
+X-EYOU-ORIGINAL-IP: 210.77.143.235
+X-EYOU-ENVELOPE-MAILFROM: starry@ccert.edu.cn
+Received: from unknown (HELO eyou.net) (unknown@210.77.143.235)
+ by 210.77.143.231 with SMTP; Wed, 05 Jan 2005 16:59:00 +0800
+Received: (eyou send program); Wed, 05 Jan 2005 17:13:08 +0800
+Message-ID: <304916388.18502@eyou.net>
+Received: from 166.111.8.16 by 210.77.143.235 with SMTP; Wed, 05 Jan 2005 17:13:03 +0800
+Received: (eyou send program); Wed, 05 Jan 2005 17:14:08 +0800
+Message-ID: <304916448.00576@mails.tsinghua.edu.cn>
+Received: (eyou send program); Wed, 05 Jan 2005 17:14:07 +0800
+Message-ID: <304916447.04343@mails.tsinghua.edu.cn>
+Received: from unknown (HELO mails.tsinghua.edu.cn) (unknown@127.0.0.1)
+ by 127.0.0.1 with SMTP; Wed, 05 Jan 2005 17:14:07 +0800
+X-scanvirus: By Symantec Scan Engine
+X-scanresult: CLEAN
+X-Received: ccert.edu.cn,202.112.57.12,20050105171406
+Received: from ccert.edu.cn (HELO home.ccert.edu.cn) (202.112.57.12)
+  by localhost with SMTP; 5 Jan 2005 09:14:06 -0000
+Received: from home.ccert.edu.cn (localhost [127.0.0.1])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id j058UllJ031039;
+	Wed, 5 Jan 2005 16:30:47 +0800
+Received: (from majordomo@localhost)
+	by home.ccert.edu.cn (8.13.1/8.13.1/Submit) id j058UlOE031038;
+	Wed, 5 Jan 2005 16:30:47 +0800
+X-Authentication-Warning: home.ccert.edu.cn: majordomo set sender to owner-ccert_forum using -f
+Received: from starry ([202.112.50.10])
+	(authenticated bits=0)
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id j058UVSk031016;
+	Wed, 5 Jan 2005 16:30:35 +0800
+Message-Id: <200501050830.j058UVSk031016@home.ccert.edu.cn>
+Date: Wed, 5 Jan 2005 16:44:54 +0800
+From: "yang" <yang@ccert.edu.cn>
+To: shen@ccert.edu.cn
+Cc: "ccert_forum" <wua@ccert.edu.cn>
+Subject: =?gb2312?B?UmU6IM/W1NrV5rXEsrvWqrXAuMPU9cO0sOzByw==?=
+X-mailer: Foxmail 5.0 [cn]
+Mime-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: 8bit
+X-MIME-Autoconverted: from base64 to 8bit by home.ccert.edu.cn id j058UaSk031027
+Sender: owner-ccert_forum@home.ccert.edu.cn
+Precedence: bulk
+X-UIDL: 8)m"!kHH!!-L_!!7XM!!
+
+仔细分析过你的备考吗？
+是否专心？方法是否得当？
+如果下了全力了，那就得看天质了，毕竟考研是水平能力测试
+有人不怎么复习，轻轻松松就上400，不服不行
+如果已经尽力了 就不要再考了
+考不上是遗憾，但是没有什么后悔的
+: 我一般本科毕业,于03,04,05年参加了研究生入学考试,报考的清华大学建设管理系项目管理专业,第一年没怎么复习考的不是很理想,接着没有找工作义无反顾的再一次报考,这次还没达线考试成绩不上不下,我下定了决心再考一年,于是又辛辛苦苦的准备重头再来,折腾了大半年后还是没考取,心想找工作吧,但是本科又很烂,找了几个工作都不太理想,简历中工作经验也没多少,没什么单位要,现在就是呆着,做什么的都没心情,也不想上班,也不想重考,哎愁啊,怎么办啊~~~有没有人跟我一样的情况.你们又是怎么处理的呢?真是没办法了.
+

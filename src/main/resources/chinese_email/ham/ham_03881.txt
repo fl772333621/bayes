@@ -1,0 +1,32 @@
+Return-Path: <zeng@sohu.com>
+Received: from cngnu.org ([211.157.2.95])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id iAP6V4RB001761
+	for <kong@ccert.edu.cn>; Thu, 25 Nov 2004 14:31:09 +0800
+Received: from localhost (localhost.localdomain [127.0.0.1])
+	by cngnu.org (Postfix) with ESMTP id C5A46CA029
+	for <kong@ccert.edu.cn>; Thu, 25 Nov 2004 14:43:53 +0800 (CST)
+Received: from cngnu.org ([211.157.2.95])
+ by localhost (xia.cngnu.net [127.0.0.1]) (amavisd-new, port 10024) with ESMTP
+ id 09291-08 for <kong@ccert.edu.cn>; Thu, 25 Nov 2004 14:43:53 +0800 (CST)
+Received: from 127.0.0.1 (localhost.localdomain [127.0.0.1])
+	by cngnu.org (Postfix) with SMTP id 0D06ACA023
+	for <kong@ccert.edu.cn>; Thu, 25 Nov 2004 14:43:53 +0800 (CST)
+From: "zeng" <zeng@sohu.com>
+To: kong@ccert.edu.cn
+Subject: =?gb2312?B?UmU6IMzYz+vWqrXAy7WhsL38xtqyu8/rzLjBtbCuobG1xG1ttb2118rHybbQxMDt?=
+X-Priority: 3
+X-Mailer: CASA IPB PHP Mailer
+Message-Id: <20041125064353.0D06ACA023@cngnu.org>
+Date: Thu, 25 Nov 2004 14:43:53 +0800 (CST)
+X-Virus-Scanned: by amavisd-new using ClamAV at cngnu.org
+X-UIDL: )1C"!,=["!<~>"!9e8"!
+
+喜欢一个人可以放心大胆的睡懒觉,不用每次出门都精心打扮
+想吃啥吃啥,可以随时跟一帮朋友出去花天酒地,比如k歌喝酒逛街之类
+同时呢，对自己也还满有信心,也有异性哥们随时关心关心,绝对不用担心嫁不出去那种mm
+在没有自己非常非常喜欢的人的情况下
+一般都是能不谈恋爱就不谈恋爱
+: 是真的不想呢，还是婉拒呢
+: 实在搞不清
+: 最ft的是她总在我想放弃的时候给我打电话或者约我出去吃饭……
+

@@ -1,0 +1,25 @@
+Return-Path: <cai@rbl.ccert.edu.cn>
+Received: from rbl.ccert.edu.cn (rbl.ccert.edu.cn [202.112.57.71])
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id i96BCvST003505
+	for <sun@ccert.edu.cn>; Wed, 6 Oct 2004 19:12:57 +0800 (CST)
+Received: from rbl.ccert.edu.cn (localhost.localdomain [127.0.0.1])
+	by rbl.ccert.edu.cn (8.12.11/8.12.11) with ESMTP id i96BIpat028073
+	for <sun@ccert.edu.cn>; Wed, 6 Oct 2004 19:18:53 +0800
+Received: (from qa@localhost)
+	by rbl.ccert.edu.cn (8.12.11/8.12.11/Submit) id i96BIpdY028072;
+	Wed, 6 Oct 2004 19:18:51 +0800
+Date: Wed, 6 Oct 2004 19:18:51 +0800
+Message-Id: <200410061118.i96BIpdY028072@rbl.ccert.edu.cn>
+Subject: =?gb2312?B?UmU6IMTQxfPT0dPQsci9z9bYtcTVrs7xo6zO0rjDsru4w7DR19S8urXEuaTXyr3ouPjL+7Ch?=
+To: sun@ccert.edu.cn
+From: Tran Quang Anh <cai@cernet.edu.cn>
+Content-Type: multipart/mixed; boundary="----------=_1097061533-996-616"
+MIME-Version: 1.0
+X-UIDL: `A+"!b%*!!3J""!T/9!!
+
+1w5, 不算重债务
+:     我和男友认识时间不是特别长，不过彼此都对对方比较钟情，和他交往以后，才知道他不是特别善于理财，工作五年了，不仅没有存钱，还有一万五千左右的债务。
+:     刚开始他对我说银行一直催他还信用卡里的贷款，我担心他的信用受影响，就把自己的一点点积蓄（我去年毕业的，给家里寄了大概7000多，就只剩下不多的积蓄了）去借给他了，弄得我手里只剩150块左右，离发工资日还有半个月。不过我平常比较省，花钱的地方也少，也就还�
+:     后来，因为发生了一点点事情，他把钱还给我了，这件事情是什么我就不说了，倘若不是这趟意外，我估计他在今年是不会还我钱的。
+: ...................
+

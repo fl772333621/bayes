@@ -1,0 +1,24 @@
+Return-Path: <cheng@rbl.ccert.edu.cn>
+Received: from lulh (gqMGSYCCWqMBG@[202.112.50.170])
+	(authenticated bits=0)
+	by rbl.ccert.edu.cn (8.12.11/8.12.11) with ESMTP id i8MALvRW000884
+	for <kong@ccert.edu.cn>; Wed, 22 Sep 2004 18:21:57 +0800
+Message-ID: <016b01c4a08d$de8f4260$aa3270ca@lulh>
+From: "cheng" <cheng@rbl.ccert.edu.cn>
+To: kong@ccert.edu.cn
+Subject: =?gb2312?B?UmU6ILnY09qwrsGi0MXR0Lei1tDQxKOsztKyu7XDsrvLtcG9vuQ=?=
+Date: Wed, 22 Sep 2004 18:21:03 +0800
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----------=_1095848518-681-6"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2800.1437
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1441
+Status:   
+
+根本没人缺水喝，小中见大。公司对员工教育不够。
+: 我是一名前几个月应聘到这个部门的员工，看见这么多人对这个话题在争论，想说几句。
+: 这次招聘是我们部门发起的，当时的面试组织者都是部门的员工，不是HR。这是因为部门员工对岗位工作和岗位需要什么类型的人最了解。
+: 作为我们部门的一名员工，如果我们让面试者在应聘过程中感到没有受到足够尊重，我表示深深的歉意，当时的面试官也会非常诚恳地道歉，因为我们的本意绝对尊重每一位来应聘的面试者。如果有些地方我们疏忽了，希望大家能够谅解，也非常感谢大家在这里指出来，我们以后才能更加注意和改进。
+: ...................
+

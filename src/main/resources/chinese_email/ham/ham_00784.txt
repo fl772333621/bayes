@@ -1,0 +1,29 @@
+Return-Path: <zeng@moon.bjnet.edu.cn>
+Received: from moon.bjnet.edu.cn (moon.bjnet.edu.cn [202.112.4.65])
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id iB69JgQS028791
+	(version=TLSv1/SSLv3 cipher=EDH-RSA-DES-CBC3-SHA bits=168 verify=NO)
+	for <fan@ccert.edu.cn>; Mon, 6 Dec 2004 17:19:42 +0800 (CST)
+Received: from thh (tu203105.tsinghua.edu.cn [166.111.203.105])
+	(authenticated bits=0)
+	by moon.bjnet.edu.cn (8.12.9/8.12.9) with ESMTP id iB68JiYI000815
+	for <fan@ccert.edu.cn>; Mon, 6 Dec 2004 16:19:48 +0800 (CST)
+Message-Id: <200412060819.iB68JiYI000815@moon.bjnet.edu.cn>
+Date: Mon, 6 Dec 2004 17:22:21 +0800
+From: "zeng" <zeng@moon.bjnet.edu.cn>
+To: fan@ccert.edu.cn
+Subject: =?gb2312?B?UmU6INXi0rvE6rXEx/PWsMDhyrejrM+jzfu21GRkbW3T0Mv5vei8+A==?=
+X-mailer: Foxmail 5.0 [cn]
+Mime-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: 8bit
+X-MIME-Autoconverted: from base64 to 8bit by sea.net.edu.cn id iB69JgQS028791
+X-UIDL: DU="!VY9!!&^o!!>=R!!
+
+其实说白了，就是自己挑剔。
+上海不好么？等你在上海不错的时候再回北京你才有身价。不然就只有永远的找下去。
+: 这一年的工作历程真的很辛苦，我在这一年成熟了那么多，自己都没有想到。虽然现在的心态还算不错，但这是几经波折才得来的，其中的滋味有时连自己都体会不清楚。
+: 我不知道现在是麻木期，还是自己想的很开了，抑或是因为有了其他的精神寄托所以精神转移，也不知道当一段时间之后遇到同班同学后会是什么样的心理，不想去想，因为这不过是庸人自扰罢了。
+: 曾以为怎么这一阵子总是走霉运，但慢慢想过来其实满是自己的错，怨不得别人。也许一直走的太顺了，该是老天给我点警告的时候了，也许是他要安排我去做另外的一些事情。
+: ...................
+

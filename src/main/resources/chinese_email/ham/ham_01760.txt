@@ -1,0 +1,35 @@
+Return-Path: <fan@ebay.com.cn>
+Received: from autoforward.mail.sohu.com ([61.135.132.166])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id j05FETPO015857
+	for <che@ccert.edu.cn>; Wed, 5 Jan 2005 23:14:30 +0800
+Received: from mx23.mail.sohu.com (unknown [192.168.41.141])
+	by autoforward.mail.sohu.com (Postfix) with ESMTP id 5AB488E40E
+	for <che@ccert.edu.cn>; Wed,  5 Jan 2005 23:28:59 +0800 (CST)
+Received: by mx23.mail.sohu.com (Postfix)
+	id 6DB1C14011; Wed,  5 Jan 2005 23:28:58 +0800 (CST)
+Delivered-To: chen741120@mx23.mail.sohu.com
+Received: from mx47.sjc.ebay.com (unknown [66.135.197.29])
+	by admx.sohu.com (Postfix) with ESMTP id 07C7F122B92
+	for <che@ccert.edu.cn>; Wed,  5 Jan 2005 23:28:57 +0800 (CST)
+Received: from sj-v3bota03 (sj-v3bota03.sjc.ebay.com [10.6.173.212])
+	by mx47.sjc.ebay.com (8.12.3/8.12.3) with ESMTP id j05FNpAv003411
+	for <che@ccert.edu.cn>; Wed, 5 Jan 2005 07:28:54 -0800
+Date: Wed, 5 Jan 2005 07:28:54 -0800
+Message-ID: <1261870874.1104938934657.JavaMail.ebayapp@sj-v3bota03>
+From: eBay <fan@ebay.com.cn>
+To: che@ccert.edu.cn
+Subject: =?gb2312?B?UmU6IMfrsN/W8bHwyb7O0qOsztK63M/rzP3M/bTzvNK1w7+0t6ijoaOho6GjoaOho6E=?=
+Mime-Version: 1.0
+Content-Type: multipart/mixed; boundary="----------=_1104938071-13540-3"
+X-eBay-MailTracker: 10096.377.223.0
+X-UIDL: P,Z"!>,\"!j=X!!Qab!!
+
+ft~
+你怎么先验性的认为我与你看法不同？
+我是没有明白你这里的“对独占欲的敬畏”是指什么，所以想问问你/
+看看是否某些东西，我没有领会到你考虑到的点。
+: 我理解你追问的原因。这么说吧，我认为“独占欲”不是理所当然的，不具备先验的合理性。“独占欲”对于特定的人来说是可以被超越的一种东西。我也知道你看法与我不同。
+     ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+                          这句我看懂了。
+: 是否解释清楚了？
+

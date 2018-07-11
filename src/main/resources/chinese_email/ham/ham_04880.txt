@@ -1,0 +1,26 @@
+Return-Path: <zhong@rbl.ccert.edu.cn>
+Received: from rbl.ccert.edu.cn (rbl.ccert.edu.cn [202.112.57.71])
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id i986XOMc004024
+	for <yun@ccert.edu.cn>; Fri, 8 Oct 2004 14:33:25 +0800 (CST)
+Received: from rbl.ccert.edu.cn (localhost.localdomain [127.0.0.1])
+	by rbl.ccert.edu.cn (8.12.11/8.12.11) with ESMTP id i986dQ9w001380
+	for <yun@ccert.edu.cn>; Fri, 8 Oct 2004 14:39:26 +0800
+Received: (from qa@localhost)
+	by rbl.ccert.edu.cn (8.12.11/8.12.11/Submit) id i986dQtI001379;
+	Fri, 8 Oct 2004 14:39:26 +0800
+Date: Fri, 8 Oct 2004 14:39:26 +0800
+Message-Id: <200410080639.i986dQtI001379@rbl.ccert.edu.cn>
+Subject: =?gb2312?B?UmU6INPWvMXEr9PWw8DA9g==?=
+To: yun@ccert.edu.cn
+From: Tran Quang Anh <zhong@cernet.edu.cn>
+Content-Type: multipart/mixed; boundary="----------=_1097217566-1044-306"
+MIME-Version: 1.0
+X-UIDL: =^/!!:~!"!Y$$"!E_I"!
+
+为什么不是又美丽又快乐啊？
+嘿嘿，我们做好朋友吧
+: 入夜，天色如漆，没有星光月色，只有街灯闪烁。没有一丝风的声音，没有一滴雨的踪迹，整个城市，只有夜色里浓黑的寂静。
+: 打算要看电影，被告知票已售完，马路上的人越来越少了，坐在靠窗的位置吃饭，通透的玻璃幕墙里，只有我和对面同样寂寞着的女人坐在这片昏黄的灯光中，音箱里流淌着迷离的歌曲，一种孤单却暧昧的情绪，弥漫了整个餐厅的夏季。
+: 每当这种时候，都会产生奇怪的感觉，我仿佛一直这样坐着，从过去一直到现在，就这样坐着，等着一个什么人，等着一段什么感情。我的心，寂寞而不凄凉，孤单却仍旧美丽。
+: ...................
+

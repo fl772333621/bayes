@@ -1,0 +1,27 @@
+Return-Path: <xiao@rbl.ccert.edu.cn>
+Received: from rbl.ccert.edu.cn (rbl.ccert.edu.cn [202.112.57.71])
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id i989FHJJ006877
+	for <cai@ccert.edu.cn>; Fri, 8 Oct 2004 17:15:18 +0800 (CST)
+Received: from rbl.ccert.edu.cn (localhost.localdomain [127.0.0.1])
+	by rbl.ccert.edu.cn (8.12.11/8.12.11) with ESMTP id i989LJAp022844
+	for <cai@ccert.edu.cn>; Fri, 8 Oct 2004 17:21:19 +0800
+Received: (from qa@localhost)
+	by rbl.ccert.edu.cn (8.12.11/8.12.11/Submit) id i989LJKp022843;
+	Fri, 8 Oct 2004 17:21:19 +0800
+Date: Fri, 8 Oct 2004 17:21:19 +0800
+Message-Id: <200410080921.i989LJKp022843@rbl.ccert.edu.cn>
+Subject: =?gb2312?B?UmU6ILu7v9PBy7Cho6y087zSvvW1w9fUvLq1xLCuyseyu8rH0OjSqrvYsai1xMTH1tajvw==?=
+To: cai@ccert.edu.cn
+From: Tran Quang Anh <xiao@cernet.edu.cn>
+Content-Type: multipart/mixed; boundary="----------=_1097227279-1044-324"
+MIME-Version: 1.0
+X-UIDL: +9;"!mVf"!*=R!!1l&#!
+
+没有人愿意让爱变成负担，
+但是你一味的计较付出多少回报多少，一步步地让对方觉得是负担，这个怨不得别人啊  :)
+你也知道杜梅那种方式不好，为什么不试着改变呢。。
+: 最怕听这样的无情的话了，如果他亲口说出这样的话，我就跟他分手
+: 我始终相信世界上有那样的夫妻，两个人都是全心的付出，绝对不会觉得对方的爱是负担
+: 我觉得我不理他了，他大概会主动来找我的
+: ...................
+

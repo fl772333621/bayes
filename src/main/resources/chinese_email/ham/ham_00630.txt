@@ -1,0 +1,42 @@
+Return-Path: <wu@tsinghua.edu.cn>
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id iBL2PWNJ029599
+	for <wang@ccert.edu.cn>; Tue, 21 Dec 2004 10:25:32 +0800 (CST)
+Received: (eyou send program); Tue, 21 Dec 2004 10:10:02 +0800
+Message-ID: <303595001.00923@mail.tsinghua.edu.cn>
+Received: from unknown (HELO mail.tsinghua.edu.cn) (unknown@127.0.0.1)
+ by 127.0.0.1 with SMTP; Tue, 21 Dec 2004 10:10:02 +0800
+X-scanvirus: By Symantec Scan Engine
+X-scanresult: CLEAN
+Received: (eqmail ); 21 Dec 2004 02:09:57 -0000
+Received: from unknown (HELO sony) (duanhx@166.111.204.187)
+  by localhost with SMTP; 21 Dec 2004 02:09:57 -0000
+Message-ID: <005a01c4e704$4c922c70$bbcc6fa6@sony>
+From: "wu" <wu@tsinghua.edu.cn>
+To: wang@ccert.edu.cn
+Subject: =?gb2312?B?ofEgtKnUvcTPsbG1xMG1x+mjraOtztK6zWJmtcS5ysrCIDk=?=
+Date: Tue, 21 Dec 2004 10:25:01 +0800
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2900.2180
+X-MIMEOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+Content-Transfer-Encoding: 8bit
+X-MIME-Autoconverted: from base64 to 8bit by sea.net.edu.cn id iBL2PWNJ029599
+X-UIDL: JjB"!h&j!!$E5"!=j&"!
+
+9。
+        我到了火车站时是凌晨6点，这天天气又变了，外面鹅毛大雪又一次从天而降，雪花飞进我的衣领，刺骨的痛，我的双腿和双脚已经麻木了。灰黑色的天空，外面来来往往陌生的人，我们还要乘公交车到汽车站，然后坐长途汽车近十个小时翻山越岭地回家。
+        我给麒发了一条短信，说我们这边下大雪了，还没有车。那个时候我害怕，也想得到安慰，我不知道为什么给他发。事实上他当时正在睡觉，直到上午看到我的短信，赶紧发信问我怎么办，给我出主意。其时我已经坐在出租车上，同学的爸爸叫了来接我们。
+        回到县城已经冻得不成样了，而且好久没有进任何食物了，同学爸爸开车来接，同学坚持要我先去她家住几天。她们家在一个山坳里，手机没有信号，我那几天很急，也不知道担心谁会联系不到我。
+        当我终于在雪地里拦截了一辆人力三轮车，冻得脸青鼻子红回到家时，还没在炕头坐热就听到了圣诞快乐歌，那是手机短信。
+        麒问我到家了吗？路上还顺利吗？时间是两天前。
+        那一刻我差点掉下眼泪，连日里面的委屈真想马上诉说出来。我给他回了长长的短信。
+        他说这几天他担心死了，给我发短信总不见回。他也不知道是怎么回事。妈妈看着我，笑，我告诉妈妈他只是我的香港学生而已。
+: 8。
+:         那年非典我曾经和一个本校男孩交往很多，害怕受伤却还是伤得很惨。但我忘不了他，我始终觉得他是一个好男孩。
+:         当那些香港孩子们都在兴奋地为心爱的人织围巾时，我一下子就想起了他。北京的冬天很冷，我突然想用自己的双手为这份失落的感情送上最后一份礼物。
+: ...................
+

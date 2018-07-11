@@ -1,0 +1,26 @@
+Return-Path: <wu@rbl.ccert.edu.cn>
+Received: from rbl.ccert.edu.cn (rbl.ccert.edu.cn [202.112.57.71])
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id i97AwRuF018794
+	for <tian@ccert.edu.cn>; Thu, 7 Oct 2004 18:58:27 +0800 (CST)
+Received: from rbl.ccert.edu.cn (localhost.localdomain [127.0.0.1])
+	by rbl.ccert.edu.cn (8.12.11/8.12.11) with ESMTP id i97B4Ql1000983
+	for <tian@ccert.edu.cn>; Thu, 7 Oct 2004 19:04:26 +0800
+Received: (from qa@localhost)
+	by rbl.ccert.edu.cn (8.12.11/8.12.11/Submit) id i97B4Qod000982;
+	Thu, 7 Oct 2004 19:04:26 +0800
+Date: Thu, 7 Oct 2004 19:04:26 +0800
+Message-Id: <200410071104.i97B4Qod000982@rbl.ccert.edu.cn>
+Subject: =?gb2312?B?UmU6ILra0+uw1w==?=
+To: tian@ccert.edu.cn
+From: Tran Quang Anh <wu@cernet.edu.cn>
+Content-Type: multipart/mixed; boundary="----------=_1097147066-996-884"
+MIME-Version: 1.0
+X-UIDL: >]\"!gao!!8HX"!^N*"!
+
+老公对我说，灰色是最美丽的颜色。我当时以为因为色弱，他看到世间许多的颜色都只是灰色。然而这其实不好么？我们为什么要强行恢复这许多的艳丽或者差别。越是艳丽，越有着明显的疏离。
+混淆未必不美，强者也会使弱者，悲伤亦可以是幸福，很多都不需要拿许多的差别给自己涂烦恼
+: 当你不了解一件事情的时候，你会认为他非黑即白。
+: 只有经过了了解了才知世间最多见最经典的其实是各种灰色。
+: 各种深浅不同的灰色，其实都是人在受伤之后留下的伤疤，我们都是带着隐痛生活的人。
+: ...................
+

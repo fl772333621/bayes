@@ -1,0 +1,32 @@
+Return-Path: <liao@cernet.edu.cn>
+Received: from ccertspark (tu203021.tsinghua.edu.cn [166.111.203.21])
+	(authenticated bits=0)
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id iB33DPW7019805;
+	Fri, 3 Dec 2004 11:13:25 +0800 (CST)
+From: "liao" <liao@cernet.edu.cn>
+To: cai@ccert.edu.cn
+Subject: =?gb2312?B?UmU6IL+0wcsi0arA4cq3IizQtNC019S8uszhuam49s/gt7S1xLLOv7ywyQ==?=
+Date: Fri, 3 Dec 2004 11:12:15 +0800
+Message-ID: <001f01c4d8e5$e41442e0$15cb6fa6@ccertspark>
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+X-Priority: 3 (Normal)
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook, Build 10.0.6626
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.3790.181
+In-Reply-To: <300049396.24600@mail.tsinghua.edu.cn>
+Importance: Normal
+Content-Transfer-Encoding: 8bit
+X-MIME-Autoconverted: from quoted-printable to 8bit by sea.net.edu.cn id iB33DPW7019805
+X-UIDL: A9G"!gjg!!C8H"!-*:"!
+
+  这也算是机遇之一，因为自己想到了要做某事，事先去学习政策法规，接下来自己
+就不吃亏了。
+  我觉得做其他事也一样，比如我昨天装完计算机之后，测3Dmark,测了一边有了数据，
+没想到还应该观测另外的数据，那我就再花时间跑3Dmark一边，再观察该数据。
+  要么自己事先有经验，要么自己会注意观察，要么就是无意间能抓住重点，这我想
+就是“先知先觉"“后知先觉”等等的区别，从另外一个角度而言，也算是机遇不同。
+: 这个，学习一下各种政策，法规就可以啦。面试的时候就该问清楚的。
+: 我前面销售那份工作，我离开才知道，跟我同时进公司的人和我签的协议是不同的，就因为他们没注意，被罚钱，我安然无恙。
+

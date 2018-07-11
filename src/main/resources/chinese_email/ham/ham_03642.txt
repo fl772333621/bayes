@@ -1,0 +1,36 @@
+Return-Path: <ding@mails.tsinghua.edu.cn>
+Received: from mails.tsinghua.edu.cn (mails.tsinghua.edu.cn [166.111.8.16])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j27GG7Q4011768
+	for <wang@ccert.edu.cn>; Tue, 8 Mar 2005 00:16:07 +0800 (CST)
+X-scanvirus: By SOPHOS Scan Engine
+X-scanresult: CLEAN
+X-Received: unknown,166.111.154.210,20050308000929
+Received: from unknown (HELO xiner) (xwang03@166.111.154.210)
+  by localhost with SMTP; 7 Mar 2005 16:09:29 -0000
+Message-ID: <001101c52330$f3121ca0$d29a6fa6@xiner>
+From: "ding" <ding@mails.tsinghua.edu.cn>
+To: wang@ccert.edu.cn
+References: <309919310.26424@mails.tsinghua.edu.cn> <001c01c52092$40cbf6b0$d8cb6fa6@xiner> <309951706.04191@mails.tsinghua.edu.cn> <001501c52124$aaa6e210$d29a6fa6@xiner> <310027632.23739@mails.tsinghua.edu.cn> <001901c522e0$c86a3730$d8cb6fa6@xiner> <310177387.16489@mails.tsinghua.edu.cn> <002201c522e6$925e4040$d8cb6fa6@xiner> <310180062.17711@mails.tsinghua.edu.cn> <003901c522f7$ffe10290$d8cb6fa6@xiner> <310210669.14224@mails.tsinghua.edu.cn>
+Subject: =?gb2312?B?UmU6INfyzOy31srWwcujrGdmy7W74breztLSu7Gy19OjrM7SuMO8zND4sLLOv8v9w7Q=?=
+Date: Tue, 8 Mar 2005 00:15:57 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_000E_01C52374.00658980"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2800.1409
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1409
+X-UIDL: NhO!!UKR"!g(G"!Bc7!!
+
+: 昨天分手了，gf说会恨我一辈子，我该继续安慰她么
+: 发信站: BBS 科苑星空站 (Wed Jun 15 11:05:48 2005), 站内
+: 昨天下午发mail告诉我想分手了
+: ...................
+如果说是彼此相爱，因为父母阻碍也太不应该了
+你怎么就看不到你女朋友的发展潜力股呢？
+如果是你不喜欢他，找个借口
+我无话可说
+我一直觉得如果相爱就应该坚持
+除非有不可逆转的事故阻碍着自己
+爱情就是这样，你伤我，我伤你
+

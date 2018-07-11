@@ -1,0 +1,64 @@
+Return-Path: <xia@cernet.edu.cn>
+Received: from tsinghua.org.cn ([210.77.143.231])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id iB18SwtB021619
+	for <xie@ccert.edu.cn>; Wed, 1 Dec 2004 16:28:59 +0800
+Received: (eyou send program); Wed, 01 Dec 2004 16:22:04 +0800
+Received: (eyou send program); Wed, 01 Dec 2004 16:22:04 +0800
+X-EYOU-ORIGINAL-IP: 210.77.143.235
+X-EYOU-ENVELOPE-MAILFROM: sundh@cernet.edu.cn
+Received: from unknown (HELO eyou.net) (unknown@210.77.143.235)
+ by 210.77.143.231 with SMTP; Wed, 01 Dec 2004 16:22:04 +0800
+Received: (eyou send program); Wed, 01 Dec 2004 16:37:11 +0800
+Message-ID: <301890231.16479@eyou.net>
+Received: from 166.111.8.16 by 210.77.143.235 with SMTP; Wed, 01 Dec 2004 16:36:29 +0800
+Received: (eyou send program); Wed, 01 Dec 2004 16:36:03 +0800
+Message-ID: <301890162.11745@mails.tsinghua.edu.cn>
+Received: (eyou send program); Wed, 01 Dec 2004 16:36:02 +0800
+Message-ID: <301890160.04070@mails.tsinghua.edu.cn>
+Received: from unknown (HELO mails.tsinghua.edu.cn) (unknown@127.0.0.1)
+ by 127.0.0.1 with SMTP; Wed, 01 Dec 2004 16:36:02 +0800
+X-scanvirus: By Symantec Scan Engine
+X-scanresult: NOREP
+Received: (eqmail ); 1 Dec 2004 08:35:50 -0000
+Received: from ccert.edu.cn (HELO home.ccert.edu.cn) (202.112.57.12)
+  by mails.tsinghua.edu.cn with SMTP; 1 Dec 2004 08:35:50 -0000
+Received: from home.ccert.edu.cn (localhost [127.0.0.1])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id iB18RHQk021573;
+	Wed, 1 Dec 2004 16:27:17 +0800
+Received: (from majordomo@localhost)
+	by home.ccert.edu.cn (8.13.1/8.13.1/Submit) id iB18RHlO021572;
+	Wed, 1 Dec 2004 16:27:17 +0800
+X-Authentication-Warning: home.ccert.edu.cn: majordomo set sender to owner-ccertstaff using -f
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id iB18Pqrl021547;
+	Wed, 1 Dec 2004 16:25:52 +0800
+Received: from WHITESNOW ([220.207.88.17])
+	(authenticated bits=0)
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id iB18ch8t010293;
+	Wed, 1 Dec 2004 16:38:49 +0800 (CST)
+Message-ID: <007a01c4d781$2f3d5c40$df54cfdc@WHITESNOW>
+From: "xia" <xia@cernet.edu.cn>
+To: xie@ccert.edu.cn
+Cc: <chen@ccert.edu.cn>
+References: <002101c4d77c$91024c60$15cb6fa6@ccertspark>
+Subject: =?gb2312?B?UmU6IM7Syseyu8rH09C149Chxvijvw==?=
+Date: Wed, 1 Dec 2004 16:38:41 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0077_01C4D7C4.376BA5A0"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2900.2180
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+Sender: owner-ccertstaff@home.ccert.edu.cn
+Precedence: bulk
+X-UIDL: kDX!!$2m"!+(G!!HBF"!
+
+   唉，bf一直很在乎我的，他最喜欢看到我吃他的醋，因为他吃不准我对他的感情，加上我开始还亲自告诉过他我没爱上他
+   我一直以为自己是不在乎他的
+   我一直想如果他有稍微出轨定分无疑，不过他再也没有比这个更过分的啦
+: 那你bf对你的感情应该还是不错的。异地恋很辛苦的，
+: 很容易出现由于交流不够而出问题的情况，这种时候信任很重要的。
+: 但是偶尔撒娇似的提醒还是很必要的。
+: ...................
+

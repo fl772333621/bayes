@@ -1,0 +1,38 @@
+Return-Path: <ou@rbl.ccert.edu.cn>
+Received: from rbl.ccert.edu.cn (rbl.ccert.edu.cn [202.112.57.71])
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id i98FhtLv011504
+	for <shi@ccert.edu.cn>; Fri, 8 Oct 2004 23:43:55 +0800 (CST)
+Received: from rbl.ccert.edu.cn (localhost.localdomain [127.0.0.1])
+	by rbl.ccert.edu.cn (8.12.11/8.12.11) with ESMTP id i98FntM2031833
+	for <shi@ccert.edu.cn>; Fri, 8 Oct 2004 23:49:56 +0800
+Received: (from qa@localhost)
+	by rbl.ccert.edu.cn (8.12.11/8.12.11/Submit) id i98Fntbf031832;
+	Fri, 8 Oct 2004 23:49:55 +0800
+Date: Fri, 8 Oct 2004 23:49:55 +0800
+Message-Id: <200410081549.i98Fntbf031832@rbl.ccert.edu.cn>
+Subject: =?gb2312?B?UmU6ILTzvNLSu7DjtuC+w7rNyMuzs9K7tM683A==?=
+To: shi@ccert.edu.cn
+From: Tran Quang Anh <ou@cernet.edu.cn>
+Content-Type: multipart/mixed; boundary="----------=_1097250596-26230-108"
+MIME-Version: 1.0
+X-UIDL: C:<!!-H/"!JTQ!!A['#!
+
+nod
+: 标  题: Re: 大家一般多久和人吵一次架
+: 发信站: 水木社区 (Sun Jun 19 17:49:31 2005), 站内
+: 
+: 让他吐一次！下一次 就习惯了 嘻嘻
+: : 这样说，她会吐的！
+: 
+: 
+: --
+: 雾起时 我就在你的怀里
+: 这林间 充满了湿润的芳香
+: 充满了 那不断要重现的少年时光
+: 雾散后 却已是一生
+: 山空湖静 只剩下那 
+: 在千人万人中 也绝不会错认的背影
+: 
+: 
+: ※ 来源:·水木社区 newsmth.net·[FROM: 220.234.8.*]
+

@@ -1,0 +1,37 @@
+Return-Path: <cen@home.ccert.edu.cn>
+Received: from home.ccert.edu.cn (localhost [127.0.0.1])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id iBU8O8n6021178;
+	Thu, 30 Dec 2004 16:24:08 +0800
+Received: (from majordomo@localhost)
+	by home.ccert.edu.cn (8.13.1/8.13.1/Submit) id iBU8O88v021177;
+	Thu, 30 Dec 2004 16:24:08 +0800
+X-Authentication-Warning: home.ccert.edu.cn: majordomo set sender to owner-ccertstaff using -f
+Received: from ns.6test.edu.cn (ns.6test.edu.cn [202.112.54.2])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id iBU8O8G9021173
+	for <wang@ccert.edu.cn>; Thu, 30 Dec 2004 16:24:08 +0800
+Received: from tu203047.tsinghua.edu.cn ([166.111.203.47] helo=wanglanjia)
+	by ns.6test.edu.cn with asmtp (Exim 4.12)
+	id 1CjwGz-000G12-00
+	for ccertstaff@ccert.edu.cn; Thu, 30 Dec 2004 17:07:09 +0800
+Message-ID: <005c01c4ee4a$eca9ad30$2fcb6fa6@wanglanjia>
+From: "cen" <cen@ns.6test.edu.cn>
+To: wang@ccert.edu.cn
+Subject: =?gb2312?B?UmU6ILK71qrOqsqyw7TX3MrHz+vG8Mv7?=
+Date: Thu, 30 Dec 2004 16:38:23 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0059_01C4EE8D.FAC0DF40"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2800.1437
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1441
+Sender: owner-ccertstaff@home.ccert.edu.cn
+Precedence: bulk
+X-UIDL: EE"#!'<U"!%8O!!80+"!
+
+哦，几天了？
+: 嗨，换了新水木，用http登录，发文还是不习惯。
+: 不知为什么，不论忙闲，总是会想起他，总想找个人好好的哭一场。
+: 想把他忘记，却在每一天的呼吸，行走，吃饭时总会不经意的想起他，想起以前的种种温柔和伤痛，想起我为他流的泪水，想起他和他的新女朋友。想起他对我的背叛，想起我当初拥有他时的无力与疲惫。想起我每天不得不面对他的伤痛，想起所有心中的伤......
+: ...................
+

@@ -1,0 +1,28 @@
+Return-Path: <chi@rbl.ccert.edu.cn>
+Received: from rbl.ccert.edu.cn (rbl.ccert.edu.cn [202.112.57.71])
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id i9B5gnRk029718
+	for <wua@ccert.edu.cn>; Mon, 11 Oct 2004 13:42:50 +0800 (CST)
+Received: from rbl.ccert.edu.cn (localhost.localdomain [127.0.0.1])
+	by rbl.ccert.edu.cn (8.12.11/8.12.11) with ESMTP id i9B5mBd5019863
+	for <wua@ccert.edu.cn>; Mon, 11 Oct 2004 13:48:12 +0800
+Received: (from qa@localhost)
+	by rbl.ccert.edu.cn (8.12.11/8.12.11/Submit) id i9B5mBOL019862;
+	Mon, 11 Oct 2004 13:48:11 +0800
+Date: Mon, 11 Oct 2004 13:48:11 +0800
+Message-Id: <200410110548.i9B5mBOL019862@rbl.ccert.edu.cn>
+Subject: =?gb2312?B?ofEgsafHuKOho6FSZTog1NnGwKG20LS4+NKqzO6437+81r7UuLXEyMvDx6OsvObMuLXj0NDStb+0
+t6ihtw==?=
+To: wua@ccert.edu.cn
+From: Tran Quang Anh <chi@cernet.edu.cn>
+Content-Type: multipart/mixed; boundary="----------=_1097473692-1014-98"
+MIME-Version: 1.0
+X-UIDL: :,W!!ZnQ!!aIA!!^Cg!!
+
+这个抱歉，昨天和几个老朋友聊天，替他们郁闷，当年那么高的分数，考的学校也好，虽不
+是数一数二的学校，却也能输无数六，但却专业都不是很好，现在落的……心里很不爽。
+所以多说了几个p，还请大家见谅！
+: 1，楼主嘴不太干净。
+: 2，清华学风一流，但渣子绝对存在。
+: 3，能上清华是稍稍有点理想或幻想或梦想的中国学生及其家长、亲属、老师的共同骄傲，
+: ...................
+

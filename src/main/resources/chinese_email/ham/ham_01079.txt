@@ -1,0 +1,30 @@
+Return-Path: <xie@rbl.ccert.edu.cn>
+Received: from rbl.ccert.edu.cn (rbl.ccert.edu.cn [202.112.57.71])
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id i9A7bMka013050
+	for <gao@ccert.edu.cn>; Sun, 10 Oct 2004 15:37:22 +0800 (CST)
+Received: from rbl.ccert.edu.cn (localhost.localdomain [127.0.0.1])
+	by rbl.ccert.edu.cn (8.12.11/8.12.11) with ESMTP id i9A7gYgT010641
+	for <gao@ccert.edu.cn>; Sun, 10 Oct 2004 15:42:39 +0800
+Received: (from qa@localhost)
+	by rbl.ccert.edu.cn (8.12.11/8.12.11/Submit) id i9A7gYoN010640;
+	Sun, 10 Oct 2004 15:42:34 +0800
+Date: Sun, 10 Oct 2004 15:42:34 +0800
+Message-Id: <200410100742.i9A7gYoN010640@rbl.ccert.edu.cn>
+Subject: =?gb2312?B?UmU6IL3xzOy21EdH09DQqcqnzfuhraGt?=
+To: gao@ccert.edu.cn
+From: Tran Quang Anh <xie@cernet.edu.cn>
+Content-Type: multipart/mixed; boundary="----------=_1097394159-1014-34"
+MIME-Version: 1.0
+X-UIDL: X23!!K!n!!!fU"!bBl!!
+
+男生在钱方面想得应该比较开的
+要是我文中两个男生中的任何一个，遇到上面的事情，都不会觉得奇怪
+当然你gg可能是有粗心的地方，但他也已经意识到了
+你说的也挺有道理的
+但男生对小钱一般不会像女生那么敏感
+我就比较讨厌几块几角都要和你算清的男生
+: 今天是六一，又因为我通过了一个挺重要的考试，所以本来很高兴
+: 晚上和GG商量去学校外面吃饭，学校后门有一家挺便宜的小饭馆，
+: 我觉得那里的老板人很好，所以想多支持他们的生意，就提议去那里吃
+: ...................
+

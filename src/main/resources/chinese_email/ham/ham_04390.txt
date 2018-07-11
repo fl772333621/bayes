@@ -1,0 +1,27 @@
+Return-Path: <lin@rbl.ccert.edu.cn>
+Received: from rbl.ccert.edu.cn (rbl.ccert.edu.cn [202.112.57.71])
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id i98AZMEW008103
+	for <wei@ccert.edu.cn>; Fri, 8 Oct 2004 18:35:23 +0800 (CST)
+Received: from rbl.ccert.edu.cn (localhost.localdomain [127.0.0.1])
+	by rbl.ccert.edu.cn (8.12.11/8.12.11) with ESMTP id i98AfOZh027229
+	for <wei@ccert.edu.cn>; Fri, 8 Oct 2004 18:41:24 +0800
+Received: (from qa@localhost)
+	by rbl.ccert.edu.cn (8.12.11/8.12.11/Submit) id i98AfOtG027228;
+	Fri, 8 Oct 2004 18:41:24 +0800
+Date: Fri, 8 Oct 2004 18:41:24 +0800
+Message-Id: <200410081041.i98AfOtG027228@rbl.ccert.edu.cn>
+Subject: =?gb2312?B?ofEgob7V0Ma4ob/Jz7qjxM+3vbv50vK/xry809DP3rmry74gyrXR6crSvLzK9dSx?=
+To: wei@ccert.edu.cn
+From: Tran Quang Anh <lin@cernet.edu.cn>
+Content-Type: multipart/mixed; boundary="----------=_1097232084-26230-6"
+MIME-Version: 1.0
+X-UIDL: &Hb!!ell!!O'6!!?h>"!
+
+上海南方基因科技有限公司成立于2003年9月,公司由上海创业投资有限公司、上海生物芯片有限公司、上海人类基因组南方研究中心共同出资组建而成。 现招聘细胞培养和蛋白纯化工作的技术员数名，要求如下：
+1、生物化学类专业，中专，大专或本科学历； 
+2、年龄30岁以下，性别不限；
+3、具有一定的实验室相关工作经验； 
+4、工作态度仔细认真有耐心。
+有意者请寄简历至：southgenehr@yahoo.com.cn
+电子邮件勿带附件，请把简历贴在信正文，注明申请细胞培养或是蛋白纯化方向。 
+

@@ -1,0 +1,46 @@
+Return-Path: <luo@mails.tsinghua.edu.cn>
+Received: from mails.tsinghua.edu.cn (mails.tsinghua.edu.cn [166.111.8.16])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j3I1m9x5009335
+	for <tan@ccert.edu.cn>; Mon, 18 Apr 2005 09:48:09 +0800 (CST)
+X-scanvirus: By SOPHOS Scan Engine
+X-scanresult: CLEAN
+X-Received: th110141.ip.tsinghua.edu.cn,59.66.110.141,20050418093721
+Received: from th110141.ip.tsinghua.edu.cn (HELO xiner) (xwang03@59.66.110.141)
+  by localhost with SMTP; 18 Apr 2005 01:37:21 -0000
+Message-ID: <000a01c543b8$a3778650$8d6e423b@xiner>
+From: "luo" <luo@mails.tsinghua.edu.cn>
+To: tan@ccert.edu.cn
+Subject: =?gb2312?B?ofEg0MTA77rDxNHK3A==?=
+Date: Mon, 18 Apr 2005 09:47:52 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0007_01C543FB.B0585B40"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2800.1409
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1409
+X-UIDL: IN;!!I^U"!gLi"!P/P!!
+
+心里好难受
+妈妈生病了，住院费需要很多
+见到妈妈躺在床上，我哭了
+妈妈也流泪了
+我一边劝妈妈别哭，自己的眼泪却无法止住
+妈妈是因为我而累病的
+家里条件不好，妈妈每天从早到晚在街头卖一些小东西来供我上学
+爸爸退休了，身体也不好
+每次出去看到一些工商的在查抄街头那些卖小东西的
+我心里就不是滋味
+虽然我知道，的确这些卖东西一定程度上影响了市容
+但谁知道他们家里的艰辛呢？
+如果谁家里条件稍微好一些或者能够有其他出路谋生，谁愿意到街头去"低三下四"的卖些小东西，时刻还要担心工商查抄？
+如果没有我妈妈在街头卖小东西赚来的微波收入
+或许，我都不知道我今天能不能坐在这里读书
+住院费很贵
+我安慰妈妈，"不要担心费用，身体重要，以后我工作了，一个月就能挣回来……"
+可真的能一个月就挣回来嘛？
+工作了，一定不能再让妈妈这样出去没日没夜的奔波了
+把钱留给妈妈，让妈妈好好过几天轻闲日子
+心里好难受
+不知道自己写了些什么
+

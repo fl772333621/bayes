@@ -1,0 +1,59 @@
+Return-Path: <qian@ns.6test.edu.cn>
+Received: from tsinghua.org.cn ([210.77.143.232])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with SMTP id j4JBNdPx003685
+	for <liu@ccert.edu.cn>; Thu, 19 May 2005 19:23:50 +0800
+Received: (eyou send program); Thu, 19 May 2005 19:40:20 +0800
+Message-ID: <316502820.18017@tsinghua.org.cn>
+X-EYOU-AUTOFORWARD: tsinghua.org.cn
+Received: (eyou send program); Thu, 19 May 2005 19:39:50 +0800
+Message-ID: <316502790.11275@tsinghua.org.cn>
+Received: from unknown (HELO eyou.net) (210.77.143.235)
+ by 210.77.143.232 with SMTP; Thu, 19 May 2005 19:39:50 +0800
+X-EYOU-SPAMVALUE: 0
+Received: (eyou anti_spam gateway 3.0); Thu, 19 May 2005 19:28:48 +0800
+Message-ID: <316502128.05070@eyou.net>
+Received: from 202.112.49.111 by 210.77.143.235 with SMTP; Thu, 19 May 2005 19:28:47 +0800
+Received: from Garfield. (localhost [IPv6:::1])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with ESMTP id j4JBXp9s087343
+	for <liu@ccert.edu.cn>; Thu, 19 May 2005 19:34:22 +0800 (CST)
+	(envelope-from toefl-bounces@gradinfo.net.edu.cn)
+Received: from ns.6test.edu.cn (ns.6test.edu.cn [202.112.54.2])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with ESMTP id j4JBXmNF087339
+	for <liu@ccert.edu.cn>; Thu, 19 May 2005 19:33:48 +0800 (CST)
+	(envelope-from wangyi@ns.6test.edu.cn)
+Received: from [210.25.128.103] (helo=kaka)
+	by ns.6test.edu.cn with asmtp (Exim 4.12) id 1DYjwz-0002gK-00
+	for toefl@gradinfo.net.edu.cn; Thu, 19 May 2005 20:16:29 +0800
+Date: Thu, 19 May 2005 19:38:23 +0800
+From: "qian" <qian@ns.6test.edu.cn>
+To: liu@ccert.edu.cn
+Subject: =?gb2312?B?UmU6IMj1yPW12M7Ko7rOqsqyw7TEx8O0tuDIy7a8z+u1sbmrzvHUsbChoaOho6Gj?=
+X-mailer: Foxmail 5.0 [cn]
+Mime-Version: 1.0
+Content-Type: multipart/mixed; boundary="----------=_1116501830-30248-24"
+Message-Id: <E1DYjwz-0002gK-00@ns.6test.edu.cn>
+X-MIME-Autoconverted: from base64 to 8bit by gradinfo.net.edu.cn id
+	j4JBXmNF087339
+X-BeenThere: toefl@gradinfo.net.edu.cn
+X-Mailman-Version: 2.1.5
+Precedence: list
+List-Id: "&#26446; &#26143; &#21644; &#20182; &#30340; &#23398; &#29983;
+	&#20204; " <toefl.gradinfo.net.edu.cn>
+List-Unsubscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=unsubscribe>
+List-Archive: <http://gradinfo.net.edu.cn/mailman/private/toefl>
+List-Post: <mailto:toefl@gradinfo.net.edu.cn>
+List-Help: <mailto:toefl-request@gradinfo.net.edu.cn?subject=help>
+List-Subscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=subscribe>
+Sender: toefl-bounces@gradinfo.net.edu.cn
+Errors-To: toefl-bounces@gradinfo.net.edu.cn
+X-UIDL: :(]!!GW%!!g8<"!V&Y!!
+
+五年八年？要死了，那么长还要不要人活啊
+我在一个地方呆一年就快闷死了。
+我不存钱的，女人就该享受嘛，买吃的买穿的玩儿~~！我不想买房子，我觉得一个女人一生就只有两个家，一个素娘家，一个素夫家
+租房子我可以接受，因为心里老想着这素暂时的。买房子可不行，一个单身女人守着一所空房子像什么话，想想就凄凉。
+反正饿素饿不死的，等我咩时候嫁出去就好乐。hiahia~~~~~~~~
+: 可能你喜欢外企，部分牛比国企的氛围，对于公务员比较沉闷的不喜欢，你是女生吧，怎么说呢，也许如你所说，它不好玩，但是在现在这个年代，如果你不是大牛人，它的稳定和前途还是不错的，而且还是一直到你退休的，企业就不行了，也许你哪天上班去，由于公司集团业务调整，你就被裁了，记得前年如联想这样的也是裁了不少--------硕士，博士的，你是吗？湖北建行年前裁了8千，全员合同，一签只有5年，再签只有8年，也许哪天上面就把你买断让你滚蛋了，而进建行总行只给湖北12个名额，你有吗？未雨绸缪吧
+

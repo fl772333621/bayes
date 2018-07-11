@@ -1,0 +1,32 @@
+Return-Path: <chi@rbl.ccert.edu.cn>
+Received: from rbl.ccert.edu.cn (rbl.ccert.edu.cn [202.112.57.71])
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id i96EiYcH005645
+	for <mei@ccert.edu.cn>; Wed, 6 Oct 2004 22:44:34 +0800 (CST)
+Received: from rbl.ccert.edu.cn (localhost.localdomain [127.0.0.1])
+	by rbl.ccert.edu.cn (8.12.11/8.12.11) with ESMTP id i96EoVSj028141
+	for <mei@ccert.edu.cn>; Wed, 6 Oct 2004 22:50:31 +0800
+Received: (from qa@localhost)
+	by rbl.ccert.edu.cn (8.12.11/8.12.11/Submit) id i96EoVPV028140;
+	Wed, 6 Oct 2004 22:50:31 +0800
+Date: Wed, 6 Oct 2004 22:50:31 +0800
+Message-Id: <200410061450.i96EoVPV028140@rbl.ccert.edu.cn>
+Subject: =?gb2312?B?ofEgx+W7qsn6zu/X7r38vLjE6r+80dDH6b/2yOe6zqO/?=
+To: mei@ccert.edu.cn
+From: Tran Quang Anh <chi@cernet.edu.cn>
+Content-Type: multipart/mixed; boundary="----------=_1097074231-996-682"
+MIME-Version: 1.0
+X-UIDL: Q#n!!d7:!!(Kp!!G[-"!
+
+发信人: cleopatra83 (路遥), 信区: LifeScience
+标  题: 清华生物最近几年考研情况如何？
+发信站: 水木社区 (Fri Jun 17 16:34:21 2005), 站内
+大家好
+我是外校的 
+想问个问题    最近几年考研的情况怎样？ 
+2005年招19人 那本系名额占了多少？
+好像只有两个专业  一个海洋生物  一个生物学
+这两个有什么区别啊？
+深圳研究生院是怎样的？是考了后自己选择么？
+还有 现在的研究生学费是多少啊？
+谢谢！
+

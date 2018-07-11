@@ -1,0 +1,70 @@
+Return-Path: <jiang@ccert.edu.cn>
+Received: from tsinghua.org.cn ([210.77.143.228])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id i8L3vMBx027231
+	for <zhou@ccert.edu.cn>; Tue, 21 Sep 2004 11:57:24 +0800
+Received: (eyou send program); Tue, 21 Sep 2004 12:07:18 +0800
+Received: (eyou send program); Tue, 21 Sep 2004 12:06:52 +0800
+X-EYOU-ORIGINAL-IP: 166.111.8.16
+X-EYOU-ENVELOPE-MAILFROM: zhenghui@ccert.edu.cn
+Received: from unknown (HELO mails.tsinghua.edu.cn) (unknown@166.111.8.16)
+ by 210.77.143.228 with SMTP; Tue, 21 Sep 2004 12:06:52 +0800
+Received: (eyou send program); Tue, 21 Sep 2004 12:00:52 +0800
+Message-ID: <295739252.23590@mails.tsinghua.edu.cn>
+Received: (eyou send program); Tue, 21 Sep 2004 12:00:51 +0800
+Message-ID: <295739251.01366@mails.tsinghua.edu.cn>
+Received: from unknown (HELO mails.tsinghua.edu.cn) (unknown@127.0.0.1)
+ by 127.0.0.1 with SMTP; Tue, 21 Sep 2004 12:00:51 +0800
+X-scanvirus: By Symantec Scan Engine
+X-scanresult: CLEAN
+Received: (eqmail ); 21 Sep 2004 04:00:39 -0000
+Received: from ccert.edu.cn (HELO home.ccert.edu.cn) (202.112.57.12)
+  by mails.tsinghua.edu.cn with SMTP; 21 Sep 2004 04:00:39 -0000
+Received: from home.ccert.edu.cn (localhost [127.0.0.1])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id i8L3sOO4027132;
+	Tue, 21 Sep 2004 11:54:24 +0800
+Received: (from majordomo@localhost)
+	by home.ccert.edu.cn (8.13.1/8.13.1/Submit) id i8L3sOmv027131;
+	Tue, 21 Sep 2004 11:54:24 +0800
+X-Authentication-Warning: home.ccert.edu.cn: majordomo set sender to owner-ccertstaff using -f
+Received: from ccertspark (puma.ccert.edu.cn [202.112.50.50])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id i8L3sKJr027125
+	for <zhou@ccert.edu.cn>; Tue, 21 Sep 2004 11:54:21 +0800
+From: "jiang" <jiang@ccert.edu.cn>
+To: zhou@ccert.edu.cn
+Subject: =?gb2312?B?UmU6IMj1yPW12M7Ko7rOqsqyw7TEx8O0tuDIy7a8z+u1sbmrzvHUsbChoaOho6Gj?=
+Date: Tue, 21 Sep 2004 12:07:50 +0800
+Message-ID: <001801c49f90$9314afd0$323270ca@ccertspark>
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+X-Priority: 3 (Normal)
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook, Build 10.0.6626
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.3790.181
+Importance: Normal
+Content-Transfer-Encoding: 8bit
+X-MIME-Autoconverted: from base64 to 8bit by home.ccert.edu.cn id i8L3sOJr027128
+Sender: owner-ccertstaff@home.ccert.edu.cn
+Precedence: bulk
+X-UIDL: CA\"!abj"!&Ka"!"bF!!
+
+: 标  题: Re: 弱弱地问：为什么那么多人都想当公务员啊。。。
+: 发信站: 水木社区 (Mon Jun  6 09:52:50 2005), 站内
+: 
+: 确实啊，那个男人果然及时抽身
+: 因为我认为他不像爸爸一样爱我
+              ~~~~~~~~~~~~~~~~这不是一种爱吧? 呵呵
+: : 你这样的想法让男人们看清楚了，你就别想嫁个好人家了
+: 
+: 
+: 
+: --
+:    桃李芳菲梨花笑,怎比我枝头春意闹.　
+: 　 芍药婀娜，李花俏,怎比我雨润红姿娇,雨润红姿娇.　
+: 　 香茶一盏迎星到.星儿遥遥,云儿飘飘.　
+: 　 何必西天万里遥,何必西天万里遥.　
+: 　 欢乐就在今朝,欢乐就在今宵.
+: 
+: 
+: ※ 来源:·水木社区 http://newsmth.net·[FROM: 61.233.144.*]
+

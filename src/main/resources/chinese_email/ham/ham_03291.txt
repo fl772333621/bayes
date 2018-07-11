@@ -1,0 +1,31 @@
+Return-Path: <peng@ccert.edu.cn>
+Received: from ns2.ccert.edu.cn (ccert.edu.cn [202.112.57.12])
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id j69ICvUt009226
+	(version=TLSv1/SSLv3 cipher=DES-CBC3-SHA bits=168 verify=NO)
+	for <chi@ccert.edu.cn>; Sun, 10 Jul 2005 02:12:58 +0800 (CST)
+Received: from root by ns2.ccert.edu.cn with local (Exim 4.50)
+	id 1DrJsH-0006xa-NK
+	for qa@cernet.edu.cn; Sun, 10 Jul 2005 02:16:25 +0800
+Date: Sun, 10 Jul 2005 02:16:25 +0800
+To: chi@ccert.edu.cn
+Subject: Re: 57.12 open relay
+Message-ID: <20050709181625.GA26746@ccert.edu.cn>
+References: <003701c58420$25badbb0$0301a8c0@CCERTDAWEI>
+Mime-Version: 1.0
+Content-Type: text/plain; charset=utf-8
+Content-Disposition: inline
+Content-Transfer-Encoding: 8bit
+In-Reply-To: <003701c58420$25badbb0$0301a8c0@CCERTDAWEI>
+User-Agent: Mutt/1.5.9i
+From: root <peng@ccert.edu.cn>
+X-UIDL: _&h!!U=j"!~,A"!*R_!!
+
+你当初考试的时候报名报的什么啊？
+是不是研招办的把你的硕士名额给顶了。
+要不你就现在据理力争，非要读硕士，
+要不就跟老板商量商量，适当的时候转硕就好了吧。
+: 大家好！大家好！我今年刚刚考上中国科学院。现在研招办的人非要我读硕博连读。我去拿
+: 通知书的时候，研招办的老师说不签硕博连读的协议就不给我发通知书！但考之前
+: 他们并没有说考上了必须硕博连读。我现在真的是没有办法了！现在有一种无助的
+: ...................
+

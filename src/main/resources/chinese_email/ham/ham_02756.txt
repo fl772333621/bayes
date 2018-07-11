@@ -1,0 +1,32 @@
+Return-Path: <fan@mails.tsinghua.edu.cn>
+Received: from mails.tsinghua.edu.cn (mails.tsinghua.edu.cn [166.111.8.16])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j279QEVU003263
+	for <lai@ccert.edu.cn>; Mon, 7 Mar 2005 17:26:14 +0800 (CST)
+X-scanvirus: By SOPHOS Scan Engine
+X-scanresult: CLEAN
+X-Received: unknown,166.111.203.216,20050307171937
+Received: from unknown (HELO xiner) (xwang03@166.111.203.216)
+  by localhost with SMTP; 7 Mar 2005 09:19:37 -0000
+Message-ID: <003901c522f7$ffe10290$d8cb6fa6@xiner>
+From: "fan" <fan@mails.tsinghua.edu.cn>
+To: lai@ccert.edu.cn
+References: <309919310.26424@mails.tsinghua.edu.cn> <001c01c52092$40cbf6b0$d8cb6fa6@xiner> <309951706.04191@mails.tsinghua.edu.cn> <001501c52124$aaa6e210$d29a6fa6@xiner> <310027632.23739@mails.tsinghua.edu.cn> <001901c522e0$c86a3730$d8cb6fa6@xiner> <310177387.16489@mails.tsinghua.edu.cn> <002201c522e6$925e4040$d8cb6fa6@xiner> <310180062.17711@mails.tsinghua.edu.cn>
+Subject: =?gb2312?B?UmU6INT1w7S4+rXctdzL+8PHy7XE2KO/?=
+Date: Mon, 7 Mar 2005 17:28:12 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0036_01C5233B.09AD4480"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2900.2180
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+X-UIDL: 8lA"!AB(!!-TQ"!aec!!
+
+一般都是我爸管孩子，小孩跟她一起呆着不哭也不闹，因为她哭了就是渴了或者饿了或者困了，最多就是想出去走走，她连身体不舒服的哭闹都很少
+可是我爸要是中午想睡个午觉，让我妈看会儿，我妈就不停的骂小孩，骂得谁都睡不成午觉
+实在不行让我弟弟他们出点钱叫小孩外婆看吧，小孩外婆现在打零工，一个月也就挣四五百块钱
+: 如果他们找不到其他人带孩子，还真不能总埋怨你妈妈 :)
+: 自己不带还挑理儿（虽说老人家性格确实不好），换谁也不舒服啊
+: 让他们找其他老人带吧
+: ...................
+

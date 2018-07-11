@@ -1,0 +1,35 @@
+Return-Path: <zhong@withub.org>
+Received: from autoforward.mail.sohu.com ([61.135.132.166])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id j0R1CjZu023959
+	for <hua@ccert.edu.cn>; Thu, 27 Jan 2005 09:12:45 +0800
+Received: from mx23.mail.sohu.com (unknown [192.168.41.141])
+	by autoforward.mail.sohu.com (Postfix) with ESMTP id 281518EA77
+	for <hua@ccert.edu.cn>; Thu, 27 Jan 2005 09:24:39 +0800 (CST)
+Received: by mx23.mail.sohu.com (Postfix)
+	id CED9414016; Thu, 27 Jan 2005 09:24:38 +0800 (CST)
+Delivered-To: chen741120@mx23.mail.sohu.com
+Received: from withub.org (unknown [218.80.208.20])
+	by sohumx13.sohu.com (Postfix) with SMTP id D44EA05BE35
+	for <hua@ccert.edu.cn>; Thu, 27 Jan 2005 09:24:33 +0800 (CST)
+Received: (qmail 46827 invoked by uid 1009); 27 Jan 2005 01:16:49 -0000
+Message-ID: <20050127011649.46826.qmail@withub.org>
+To: hua@ccert.edu.cn
+Subject: =?gb2312?B?UmU6INfyzOy6zcv7xNax8MWkwcujuqOo?=
+From: "zhong" <zhong@withub.org>
+Date: Thu, 27 Jan 2005 9:16:49 +0800
+X-Priority: 3
+X-Mailer: iGENUS webmail 3.0 beta powered by wuqiong@igenus.org
+X-Originating-IP: [192.168.1.254]
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----0973427521165f310c2805ed7b8ab6fb"
+X-Sohu-Antivirus: 0
+X-UIDL: c`[!!(;B"!:@g"!1F*#!
+
+mm还是多找点事情来做，让生活充实一些。
+再说你gg也有自己的事情，如果他不能搞定论文，那跟你在一起也不可能开心亚
+: 昨晚他说不希望我粘着他，太依赖他。他是THU的，我在隔壁。他说一周见三四次比较好，还说天天见的话就会审美疲劳的
+: 他还说他不希望别人管他，约束他，他说他喜欢自由，还说他比较大男子主义
+: 他要忙着赶毕业论文，昨晚送我到我们学校的东门时，我就说我自己回去好了，本来心情也不好，他本来说是要送我到我们南门，我宿舍离东门很远，离南门很近，但没有继续坚持。我走进东门，在黑暗里回转身，没有看到他的身影，泪就下来了。觉得伤心，也因为跟他有一些不太容
+: ...................
+

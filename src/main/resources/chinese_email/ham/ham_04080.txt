@@ -1,0 +1,31 @@
+Return-Path: <chi@tsinghua.org.cn>
+Received: from tsinghua.org.cn ([210.77.143.228])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id i8NF6Lhf026504
+	for <cao@ccert.edu.cn>; Thu, 23 Sep 2004 23:06:23 +0800
+Received: (eyou send program); Thu, 23 Sep 2004 23:16:23 +0800
+X-EYOU-ORIGINAL-IP: 218.107.132.130
+X-EYOU-ENVELOPE-MAILFROM: chenguangying@tsinghua.org.cn
+Received: from unknown (HELO ccertdawei) (unknown@218.107.132.130)
+ by 210.77.143.228 with SMTP; Thu, 23 Sep 2004 23:16:23 +0800
+Message-ID: <00b401c4a180$4a60f310$7e03510a@CCERTDAWEI>
+From: "chi" <chi@tsinghua.org.cn>
+To: cao@ccert.edu.cn
+Subject: =?gb2312?B?UmU6IMbf1MKz9c/r1dLNrNDUo6jFrrqio6nIpb+0t6jAvM73vNK+09ewys7S1cr11bk=?=
+Date: Thu, 23 Sep 2004 23:16:24 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_00B1_01C4A1C3.5840E880"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2800.1437
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1441
+X-UIDL: \Lp"!ik0"!PV2"!]Ob"!
+
+haha~
+我去`~ 
+ps:平遥我去过啊，有意思的地方~
+: 我是女的。
+: 展览举办地点在国贸，7月5号到9号。主题是“艺术法国，家中绽放”，本次展览是中法文化年所有经济交流项目中最大的一场活动，它的目的不是为企业带来直接的经济效益，而是给法国的建筑和室内装饰领域的专业人员提供一个舞台，让他们有机会与中国同行交流，展示法国的技术工艺。
+: www.france-habitat-beijing2005.com
+: ...................
+

@@ -1,0 +1,55 @@
+Return-Path: <ding@ns.6test.edu.cn>
+Received: from tsinghua.org.cn ([210.77.143.228])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id i9J1owG1003193
+	for <jian@ccert.edu.cn>; Tue, 19 Oct 2004 09:50:59 +0800
+Received: (eyou send program); Tue, 19 Oct 2004 10:02:04 +0800
+Received: (eyou send program); Tue, 19 Oct 2004 10:02:02 +0800
+X-EYOU-ORIGINAL-IP: 202.38.99.65
+X-EYOU-ENVELOPE-MAILFROM: toefl-bounces@server.cool-meeting.com
+Received: from unknown (HELO server.cool-meeting.com) (unknown@202.38.99.65)
+ by 210.77.143.228 with SMTP; Tue, 19 Oct 2004 10:02:02 +0800
+Received: from server.cool-meeting.com (localhost.localdomain [127.0.0.1])
+	by server.cool-meeting.com (8.12.8/8.12.8) with ESMTP id i9J1v6lZ027013
+	for <jian@ccert.edu.cn>; Tue, 19 Oct 2004 09:57:13 +0800
+Received: from ns.6test.edu.cn ([202.38.99.18])
+	by server.cool-meeting.com (8.12.8/8.12.8) with ESMTP id i9J1v4kr027009
+	for <jian@ccert.edu.cn>; Tue, 19 Oct 2004 09:57:04 +0800
+Received: from [210.25.128.109] (helo=tsinghua89o1rm)
+	by ns.6test.edu.cn with asmtp (Exim 4.12) id 1CJjO2-0004rn-00
+	for Toefl@server.cool-meeting.com; Tue, 19 Oct 2004 10:06:06 +0800
+Message-ID: <004901c4b57d$d2bae660$6d8019d2@tsinghua89o1rm>
+From: "ding" <ding@ns.6test.edu.cn>
+To: jian@ccert.edu.cn
+Date: Tue, 19 Oct 2004 09:48:38 +0800
+MIME-Version: 1.0
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2600.0000
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2600.0000
+Cc: 
+Subject: =?gb2312?B?UmU6IMjnus7C8rXDxvDX1Ly6tcS3v9fTo7+jvw==?=
+X-BeenThere: toefl@server.cool-meeting.com
+X-Mailman-Version: 2.1.2
+Precedence: list
+List-Id: &#26446;&#26143;&#21644;&#20182;&#30340;&#23398;&#29983;&#20204;
+	<toefl.server.cool-meeting.com>
+List-Unsubscribe: <http://server.cool-meeting.com/mailman/listinfo/toefl>,
+	<mailto:toefl-request@server.cool-meeting.com?subject=unsubscribe>
+List-Archive: <http://server.cool-meeting.com/mailman/private/toefl>
+List-Post: <mailto:toefl@server.cool-meeting.com>
+List-Help: <mailto:toefl-request@server.cool-meeting.com?subject=help>
+List-Subscribe: <http://server.cool-meeting.com/mailman/listinfo/toefl>,
+	<mailto:toefl-request@server.cool-meeting.com?subject=subscribe>
+Content-Type: multipart/mixed; boundary="===============050978969085838099=="
+Sender: toefl-bounces@server.cool-meeting.com
+Errors-To: toefl-bounces@server.cool-meeting.com
+X-UIDL: T;:!!%l+#!PRG"!Z',!!
+
+是啊，就是这个理由当年外企，我给自己的标准是一万一以下不去
+所以来了国企，自己的生活和工作环境还算满意
+只是实在感觉有些对不起LP.
+: 有个同事，当两人的上班的收入加起来8k左右的时候买了40-50万的房子；同时有个孩子，并且每年大概贴父母2万或者更多。人家用6-7年就还完了。据说除了接私活，最大的秘诀就是节俭！妻子自己讲，那些年从来只去早市给自己买衣服。
+: 我佩服的不得了！
+: 还有个朋友，月薪1万-1万二，房贷要还掉6000；维持车还要1000。不过她加班每天到10点以后，没时间逛街吃饭了。
+: ...................
+

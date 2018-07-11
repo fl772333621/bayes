@@ -1,0 +1,28 @@
+Return-Path: <tang@jdl.ac.cn>
+Received: from jdl.ac.cn ([159.226.42.8])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7C1ceuQ019050
+	for <huang@ccert.edu.cn>; Fri, 12 Aug 2005 09:38:40 +0800 (CST)
+Received: (qmail 5448 invoked from network); 12 Aug 2005 01:49:27 -0000
+Received: from unknown (HELO d47db5334f2a479) (192.168.0.233)
+  by 159.226.42.8 with SMTP; 12 Aug 2005 01:49:27 -0000
+Message-ID: <000b01c59ee0$a1f666b0$e900a8c0@d47db5334f2a479>
+From: "tang" <tang@jdl.ac.cn>
+To: huang@ccert.edu.cn
+References: <000301c59e50$0bb8f450$26cb6fa6@liuwu>
+Subject: =?gb2312?B?UmU6IMHLveK7p7/a1f6y37XEx+u9+MC01ri149K7z8I=?=
+Date: Fri, 12 Aug 2005 09:53:26 +0800
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: base64
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2800.1506
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1506
+
+没错，只要不是定向、委培的就行
+:     看样子老兄你是人事部的接收涵了。我也和你同样的问题。    
+: 这个问题我咨询过北京人事局，他们在审核材料的时候只管培养方式为定向和委培的，非定向和自筹经费都是一样对待。人事部我也咨询过两个部门，他们说不清楚。
+:     人事部接受涵上统分这个词早过时了，现在研究生培养类别是分为非定向、自费、定向合委培。把统分这个词弄上来，还真不好把握。后来咨询过学校的毕业办，他们说没有问题，而且以后碰到这种情况可以选择统分项。
+: ...................
+

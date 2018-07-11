@@ -1,0 +1,43 @@
+Return-Path: <shi@bjnet.edu.cn>
+Received: from smart ([202.112.57.72])
+	(authenticated bits=0)
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id j17098AN000728
+	(version=TLSv1/SSLv3 cipher=EDH-RSA-DES-CBC3-SHA bits=168 verify=NO)
+	for <yana@ccert.edu.cn>; Mon, 7 Feb 2005 08:09:14 +0800 (CST)
+Date: Mon, 7 Feb 2005 08:11:17 +0800 (CST)
+From: shi@bjnet.edu.cn
+X-X-Sender: zhang@smart
+Reply-To: shi@bjnet.edu.cn
+To: yana@ccert.edu.cn
+Subject: Re: =?gb2312?B?16PQwrS6v+zA1g==?=
+In-Reply-To: <006601c50c4f$53803cf0$5902510a@CCERTDAWEI>
+Message-ID: <Pine.LNX.4.58.0502070807290.3924@smart>
+References: <006601c50c4f$53803cf0$5902510a@CCERTDAWEI>
+MIME-Version: 1.0
+Content-Type: TEXT/PLAIN; charset=gb2312
+Content-Transfer-Encoding: 8bit
+X-MIME-Autoconverted: from QUOTED-PRINTABLE to 8bit by sea.net.edu.cn id j17098AN000728
+X-UIDL: fDn!!FBV"!lHW"!8@?"!
+
+史克威尔艾尼克斯（中国）互动科技有限公司（SQUARE ENIX (CHINA) CO., LTD）于
+2005年1月在北京成立，是株式会社史克威尔艾尼克斯（SQUARE ENIX CO., LTD.）在
+中国设立的全资子公司，业务覆盖中国和亚洲其它国家及地区。史克威尔艾尼克斯（
+中国）互动科技有限公司致力于数字互动娱乐产品，包括互动娱乐软件的研发、运营
+、市场推广，以及母公司优秀产品的本地化工作。
+目前因业务需要，特招聘网站编辑一名。
+工作职责： 
+1、收集整理和编辑文字资料，并进行网页制作。 
+2、即时进行网站文字内容的整理编辑和更新，对网站内容进行更新维护。 
+职位要求： 
+1、具备良好的日语水平，能够比较熟练的使用MS OFFICE办公软件进
+行文字处理工作，以及Dreamweaver、Adobe Photoshop等进行网页制作和图片处理，
+熟悉HTML等与工作相关的计算机语言。 
+2、具备较好的文字功底，能够很好的驾驭语言文字进行文案的撰写和编辑工作，具
+备一定的网站制作和内容编辑等工作经验。 
+3、对游戏娱乐行业有一定的了解，对于行业内主流运营厂商和游戏作品有一定的认
+知，热爱即将从事的行业和职位。 
+4、具备良好的职业素质和个人品德，工作态度认真负责，能够较好的处理人际关系
+，有较强的团队合作精神。能承受较大的工作压力，敢于面对挑战。 
+有意者请将个人简历mailto: nathan@square-enix.net.cn
+请在邮件标题处注明“应聘网站编辑”字样。
+

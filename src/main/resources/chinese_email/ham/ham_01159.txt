@@ -1,0 +1,53 @@
+Return-Path: <zhan@compass.net.edu.cn>
+Received: from tsinghua.org.cn ([210.77.143.231])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id j0KFwen4020537
+	for <ma@ccert.edu.cn>; Thu, 20 Jan 2005 23:58:40 +0800
+Received: (eyou send program); Thu, 20 Jan 2005 23:49:16 +0800
+Received: (eyou send program); Thu, 20 Jan 2005 23:49:15 +0800
+X-EYOU-ORIGINAL-IP: 210.77.143.235
+X-EYOU-ENVELOPE-MAILFROM: toefl-bounces@server.cool-meeting.com
+Received: from unknown (HELO eyou.net) (unknown@210.77.143.235)
+ by 210.77.143.231 with SMTP; Thu, 20 Jan 2005 23:49:15 +0800
+Received: (eyou send program); Fri, 21 Jan 2005 00:03:06 +0800
+Message-ID: <306236986.06650@eyou.net>
+Received: from 202.38.99.65 by 210.77.143.235 with SMTP; Fri, 21 Jan 2005 00:03:06 +0800
+Received: from server.cool-meeting.com (localhost.localdomain [127.0.0.1])
+	by server.cool-meeting.com (8.12.8/8.12.8) with ESMTP id j0KEJiv9013798
+	for <ma@ccert.edu.cn>; Thu, 20 Jan 2005 22:19:54 +0800
+Received: from sun.com ([202.38.188.130])
+	by server.cool-meeting.com (8.12.8/8.12.8) with ESMTP id j0KEJguL013794
+	for <ma@ccert.edu.cn>; Thu, 20 Jan 2005 22:19:42 +0800
+Received: (from ys@localhost) by sun.com (8.9.2/8.9.2) id AAA01120
+	for toefl@server.cool-meeting.com; Fri, 21 Jan 2005 00:13:47 +0800 (CST)
+Date: Fri, 21 Jan 2005 00:13:47 +0800
+From: Shaozhi Ye <zhan@compass.net.edu.cn>
+To: ma@ccert.edu.cn
+Message-ID: <20050120161347.GA1108@compass.net.edu.cn>
+Mime-Version: 1.0
+Content-Type: text/plain; charset=gb2312
+Content-Disposition: inline
+Content-Transfer-Encoding: 8bit
+User-Agent: Mutt/1.4.2.1i
+Subject: =?gb2312?B?UmU6ILu5yse+3L74wcvP4MfXtcS21M/zo6y/ycrHuPzE0bn9?=
+X-BeenThere: toefl@server.cool-meeting.com
+X-Mailman-Version: 2.1.2
+Precedence: list
+List-Id: &#26446;&#26143;&#21644;&#20182;&#30340;&#23398;&#29983;&#20204;
+	<toefl.server.cool-meeting.com>
+List-Unsubscribe: <http://server.cool-meeting.com/mailman/listinfo/toefl>,
+	<mailto:toefl-request@server.cool-meeting.com?subject=unsubscribe>
+List-Archive: <http://server.cool-meeting.com/mailman/private/toefl>
+List-Post: <mailto:toefl@server.cool-meeting.com>
+List-Help: <mailto:toefl-request@server.cool-meeting.com?subject=help>
+List-Subscribe: <http://server.cool-meeting.com/mailman/listinfo/toefl>,
+	<mailto:toefl-request@server.cool-meeting.com?subject=subscribe>
+Sender: toefl-bounces@server.cool-meeting.com
+Errors-To: toefl-bounces@server.cool-meeting.com
+X-UIDL: XFa!!nU;"!9A_"!l/\!!
+
+每一次提到断绝父女关系，都弄得立马就要去公正一样。一点没有威慑的意思。在我的想象里，只有那些罪大恶极的人才会得到这样的报应！我做了什么严重的事情就要让我也尝到这种滋味呢？人家犯了杀人罪的父母也不会这样吧
+而且我只是表达了对那个男生没有意思，我父母为什么不考虑人家也许对我也没有意思呢？如果这样，吧这件事的所有罪过都推到我头上，不是太不公平了吗啊？
+: 大家还记得我前些日子发的贴子吗？
+: 老爸期间打电话，我们一直聊的很融洽。他也再三要求见我bf。他也说尊重我的选择。然而当我告诉他那个相亲的男生周日约我出去玩时他显得格外高兴……总之这次话聊很愉快。
+: 周日我玩回来，我爸又打电话问我。我支支吾吾的表示和他没什么感觉，我们是两个世界的人……之类的，我还是想和我bf在一起。然后我爸就开始说什么你对a（我bf）究竟了解多少，我说我了解挺多的。他又说你怎么知道他就叫这个名字，你怎么知道他就是xx的人。他也许就是骗你的……我觉得我们的谈话基本无法继续了。他想见我bf，我就觉得挺好的，让他更了解它，就知道了，不用我解释很多。可是我爸又问如果我和bf分，我有没有可能有危险（生命的），也许大家都觉得这是父亲对女儿最大的关心吧，可是当我爸问出这个问题的时候，我就知道他想和: ...................
+

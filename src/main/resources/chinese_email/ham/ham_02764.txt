@@ -1,0 +1,27 @@
+Return-Path: <lu@rbl.ccert.edu.cn>
+Received: from rbl.ccert.edu.cn (rbl.ccert.edu.cn [202.112.57.71])
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id i976saWD016546
+	for <qing@ccert.edu.cn>; Thu, 7 Oct 2004 14:54:36 +0800 (CST)
+Received: from rbl.ccert.edu.cn (localhost.localdomain [127.0.0.1])
+	by rbl.ccert.edu.cn (8.12.11/8.12.11) with ESMTP id i9770ZAG001349
+	for <qing@ccert.edu.cn>; Thu, 7 Oct 2004 15:00:35 +0800
+Received: (from qa@localhost)
+	by rbl.ccert.edu.cn (8.12.11/8.12.11/Submit) id i9770ZNl001348;
+	Thu, 7 Oct 2004 15:00:35 +0800
+Date: Thu, 7 Oct 2004 15:00:35 +0800
+Message-Id: <200410070700.i9770ZNl001348@rbl.ccert.edu.cn>
+Subject: =?gb2312?B?UmU6IMfrzsrO0rjD0fi49sqyw7S7qA==?=
+To: qing@ccert.edu.cn
+From: Tran Quang Anh <lu@cernet.edu.cn>
+Content-Type: multipart/mixed; boundary="----------=_1097132435-996-824"
+MIME-Version: 1.0
+X-UIDL: QXj"!O4p!!\M-!!*MF"!
+
+   一般不会，我养花在窗台和阳台，阳台的经常飞来小虫子，屋里窗台的就干干净净。
+前提是你不给花浇一些气味浓烈的肥料。
+   ps: botany版有好多相关知识。
+:   新租的房子老是有去不掉的油漆味，很重，有的时候觉得呛眼睛，空气很不好。
+:   感觉皮肤都有点过敏了，不过好像别人都没这个感觉，就我反应比较明显。
+:   是不是养个吊兰比较好（听说吊兰可以去除油漆味，净化空气）。请问这种
+: ...................
+

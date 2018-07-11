@@ -1,0 +1,34 @@
+Return-Path: <ye@rbl.ccert.edu.cn>
+Received: from rbl.ccert.edu.cn (rbl.ccert.edu.cn [202.112.57.71])
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id i96CFMRh004132
+	for <chen@ccert.edu.cn>; Wed, 6 Oct 2004 20:15:22 +0800 (CST)
+Received: from rbl.ccert.edu.cn (localhost.localdomain [127.0.0.1])
+	by rbl.ccert.edu.cn (8.12.11/8.12.11) with ESMTP id i96CLIT9011830
+	for <chen@ccert.edu.cn>; Wed, 6 Oct 2004 20:21:18 +0800
+Received: (from qa@localhost)
+	by rbl.ccert.edu.cn (8.12.11/8.12.11/Submit) id i96CLIgQ011829;
+	Wed, 6 Oct 2004 20:21:18 +0800
+Date: Wed, 6 Oct 2004 20:21:18 +0800
+Message-Id: <200410061221.i96CLIgQ011829@rbl.ccert.edu.cn>
+Subject: =?gb2312?B?ofEgzeLG87yxxrjWsM67?=
+To: chen@ccert.edu.cn
+From: Tran Quang Anh <ye@cernet.edu.cn>
+Content-Type: multipart/mixed; boundary="----------=_1097065278-996-646"
+MIME-Version: 1.0
+X-UIDL: SpQ"!6Oa!!Z+:"!Qe]"!
+
+Customer field engineer (Korean/English)
+Description
+-Work in a newly established R&amp;D center with a dynamic, stimulating environment, competitive compensation and plenty of opportunities to grow professionally. 
+-Validate STB systems and products for various markets and operators. 
+-Provide validation and field support at customer premises. 
+-Serve as the technical interface to customers.
+-Deploy and solve field problems on advanced Thomson satellite system for customers. 
+Education and Skills
+-Bachelor’s degree in a related engineering field
+-Fluent Korean and English
+-Technical sales or field support experience
+-Networking or digital video experience
+-Be able to travel internationally
+主要是语言要求高，一定是技术背景，公司很有发展前景。
+

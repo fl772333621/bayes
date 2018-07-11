@@ -1,0 +1,69 @@
+Return-Path: <jin@mails.tsinghua.edu.cn>
+Received: from tsinghua.org.cn ([210.77.143.232])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with SMTP id j3S7B3pj005729
+	for <wua@ccert.edu.cn>; Thu, 28 Apr 2005 15:11:15 +0800
+Received: (eyou send program); Thu, 28 Apr 2005 15:27:31 +0800
+Message-ID: <314673251.02087@tsinghua.org.cn>
+X-EYOU-AUTOFORWARD: tsinghua.org.cn
+Received: (eyou send program); Thu, 28 Apr 2005 15:27:31 +0800
+Message-ID: <314673251.29494@tsinghua.org.cn>
+Received: from unknown (HELO eyou.net) (210.77.143.235)
+ by 210.77.143.232 with SMTP; Thu, 28 Apr 2005 15:27:31 +0800
+X-EYOU-SPAMVALUE: 0
+Received: (eyou anti_spam gateway 3.0); Thu, 28 Apr 2005 15:17:00 +0800
+Message-ID: <314672620.09576@eyou.net>
+Received: from 202.112.49.111 by 210.77.143.235 with SMTP; Thu, 28 Apr 2005 15:17:00 +0800
+Received: from Garfield. (localhost [IPv6:::1])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with ESMTP id j3S7N0cN016023
+	for <wua@ccert.edu.cn>; Thu, 28 Apr 2005 15:23:37 +0800 (CST)
+	(envelope-from toefl-bounces@gradinfo.net.edu.cn)
+Received: from [202.112.49.111] (Garfield [202.112.49.111])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with ESMTP id j3S7Micx016017
+	for <wua@ccert.edu.cn>; Thu, 28 Apr 2005 15:22:57 +0800 (CST)
+	(envelope-from lguohan00@mails.tsinghua.edu.cn)
+Message-ID: <42709120.3060504@mails.tsinghua.edu.cn>
+Date: Thu, 28 Apr 2005 15:30:40 +0800
+From: Guohan Lu <jin@mails.tsinghua.edu.cn>
+Organization: Tsinghua University
+User-Agent: Mozilla Thunderbird 1.0 (Windows/20041206)
+X-Accept-Language: en-us, en
+MIME-Version: 1.0
+To: wua@ccert.edu.cn
+Content-Type: multipart/mixed; boundary="----------=_1114672277-31250-305"
+Subject: =?gb2312?B?ofEgx+W7qrTz0ae7r9Gnz7XV0Ma4sqnKv7rz0rvD+yAo16rU2Ck=?=
+X-BeenThere: toefl@gradinfo.net.edu.cn
+X-Mailman-Version: 2.1.5
+Precedence: list
+Reply-To: jin@mails.tsinghua.edu.cn
+List-Id: "&#26446; &#26143; &#21644; &#20182; &#30340; &#23398; &#29983;
+	&#20204; " <toefl.gradinfo.net.edu.cn>
+List-Unsubscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=unsubscribe>
+List-Archive: <http://gradinfo.net.edu.cn/mailman/private/toefl>
+List-Post: <mailto:toefl@gradinfo.net.edu.cn>
+List-Help: <mailto:toefl-request@gradinfo.net.edu.cn?subject=help>
+List-Subscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=subscribe>
+Sender: toefl-bounces@gradinfo.net.edu.cn
+Errors-To: toefl-bounces@gradinfo.net.edu.cn
+X-UIDL: n+Y"!]HR"!nWM"!'*\!!
+
+【 以下文字转载自 Career_PHD 讨论区 】
+发信人: tuba (倒霉催的~~不以物喜，不以己悲), 信区: Career_PHD
+标  题: 清华大学化学系招聘博士后一名
+发信站: 水木社区 (Mon Jun  6 12:50:04 2005), 站内
+清华大学化学系有机光电子与分子工程教育部重点实验室均相催化实验室招收博士后
+一名。实验室的主要研究方向为：过渡金属配合物催化的有机反应。招聘博士后将进
+行以下方面的工作：
+  1。金属配合物的合成；
+  2。有机合成；
+要求有相关背景。有意者请将简历及发表论文简介发送到下列地址进行联系。
+合作导师：华瑞茂教授
+http://chem.tsinghua.edu.cn/chinese/faculty/yitanhuagong/huaruimao/huaruimao.htm
+  联系方式：
+  清华大学化学系 华瑞茂教授
+  100084
+  010-62792596(O)
+  010-62792593(L)
+  ruimao@mail.tsinghua.edu.cn
+

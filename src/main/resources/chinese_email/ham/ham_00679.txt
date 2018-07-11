@@ -1,0 +1,66 @@
+Return-Path: <lin@ccert.edu.cn>
+Received: from tsinghua.org.cn ([210.77.143.228])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id i9B7uVcr014902
+	for <cheng@ccert.edu.cn>; Mon, 11 Oct 2004 15:56:34 +0800
+Received: (eyou send program); Mon, 11 Oct 2004 16:07:18 +0800
+Received: (eyou send program); Mon, 11 Oct 2004 16:07:17 +0800
+X-EYOU-ORIGINAL-IP: 166.111.8.16
+X-EYOU-ENVELOPE-MAILFROM: weike@ccert.edu.cn
+Received: from unknown (HELO mails.tsinghua.edu.cn) (unknown@166.111.8.16)
+ by 210.77.143.228 with SMTP; Mon, 11 Oct 2004 16:07:17 +0800
+Received: (eyou send program); Mon, 11 Oct 2004 16:01:11 +0800
+Message-ID: <297481671.21720@mails.tsinghua.edu.cn>
+Received: (eyou send program); Mon, 11 Oct 2004 16:01:10 +0800
+Message-ID: <297481670.23139@mails.tsinghua.edu.cn>
+Received: from unknown (HELO mails.tsinghua.edu.cn) (unknown@127.0.0.1)
+ by 127.0.0.1 with SMTP; Mon, 11 Oct 2004 16:01:10 +0800
+X-scanvirus: By Symantec Scan Engine
+X-scanresult: CLEAN
+Received: (eqmail ); 11 Oct 2004 08:01:08 -0000
+Received: from ccert.edu.cn (HELO home.ccert.edu.cn) (202.112.57.12)
+  by mails.tsinghua.edu.cn with SMTP; 11 Oct 2004 08:01:08 -0000
+Received: from home.ccert.edu.cn (localhost [127.0.0.1])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id i9B7sin0014858;
+	Mon, 11 Oct 2004 15:54:44 +0800
+Received: (from majordomo@localhost)
+	by home.ccert.edu.cn (8.13.1/8.13.1/Submit) id i9B7si0L014857;
+	Mon, 11 Oct 2004 15:54:44 +0800
+X-Authentication-Warning: home.ccert.edu.cn: majordomo set sender to owner-ccertstaff using -f
+Received: from power001 ([202.112.50.103])
+	(authenticated bits=0)
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id i9B7sgwc014852
+	for <cheng@ccert.edu.cn>; Mon, 11 Oct 2004 15:54:43 +0800
+Message-ID: <00cf01c4af69$17f9a4c0$673270ca@Power001>
+From: "lin" <lin@ccert.edu.cn>
+To: cheng@ccert.edu.cn
+Subject: =?gb2312?B?ofEgUGFscmFtuavLvtXQxrg=?=
+Date: Mon, 11 Oct 2004 16:05:36 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_00CC_01C4AFAC.24ECC930"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.3790.181
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.3790.181
+Sender: owner-ccertstaff@home.ccert.edu.cn
+Precedence: bulk
+X-UIDL: 0K:!!-I,!!R,-#!FB/"!
+
+公司简介：
+Palram新型材料公司，为以色列Palram公司与北京城建亚泰工程有限公司合资企业。
+Palram公司是世界领先的生产的经销热塑性工程制成品和半成品的跨国企业,世界第三的PC生产厂商。
+详情请登陆公司网站：www.Palram.com
+招聘职位：行政助理
+职位描述：
+1）工作职责 
+◆负责国外总经理与中国方面的交流；
+◆负责公司资料、材料的起草、撰写工作； 
+◆日常办公事务，e－mail,传真等发送。
+2）招聘要求 
+◆本科（含）以上学历;
+◆良好的中英文写作、口语、阅读能力； (由于公司需要和国外联系比较多，所以对英语，特别是英语口语要求比较高)
+◆熟练使用办公软件及办公自动化设备，最好懂一些画图软件； 
+◆工作细致认真，谨慎细心，条理性、责任心强； 
+3）联系方式：84847925转13/84811534转13 谢小姐,电话时间：上午十点至下午四点
+请将简历发至ivy0408@126.com
+

@@ -1,0 +1,42 @@
+Return-Path: <zeng@rbl.ccert.edu.cn>
+Received: from rbl.ccert.edu.cn (rbl.ccert.edu.cn [202.112.57.71])
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id i9H0Q3Pi003299
+	for <cao@ccert.edu.cn>; Sun, 17 Oct 2004 08:26:03 +0800 (CST)
+Received: from rbl.ccert.edu.cn (localhost.localdomain [127.0.0.1])
+	by rbl.ccert.edu.cn (8.12.11/8.12.11) with ESMTP id i9H0Vfrr018473
+	for <cao@ccert.edu.cn>; Sun, 17 Oct 2004 08:31:42 +0800
+Received: (from qa@localhost)
+	by rbl.ccert.edu.cn (8.12.11/8.12.11/Submit) id i9H0VfLI018472;
+	Sun, 17 Oct 2004 08:31:41 +0800
+Date: Sun, 17 Oct 2004 08:31:41 +0800
+Message-Id: <200410170031.i9H0VfLI018472@rbl.ccert.edu.cn>
+Subject: =?gb2312?B?ofEgsqmwwsn6zu+5q8u+yfrO79DFz6LX6dXQxrjR0LeiyMvUsQ==?=
+To: cao@ccert.edu.cn
+From: Tran Quang Anh <zeng@cernet.edu.cn>
+Content-Type: multipart/mixed; boundary="----------=_1097973102-2811-152"
+MIME-Version: 1.0
+X-UIDL: *c@!!-S9!!E6("!Fa,"!
+
+博奥生物公司生物信息组招聘研发人员
+博奥生物公司暨生物芯片北京国家工程研究中心是国内目前最具
+发展潜力的生物公司，也是具有一定国际竞争力的唯一的国内生物
+公司。详细情况可见www.capitalbio.com.
+我们生物信息组主要从事生物表达谱芯片、SNP检测芯片、蛋白质
+芯片等技术相关的科研、产品开发和服务项目的生物信息学研发
+工作。目前组员由来自清华大学等高等院校毕业的博士和硕士组成。
+我们希望应聘人员具有一定的生物信息学科研或开发经历，了解生
+物学和生物芯片相关技术，具有一定的独立编程开发能力，熟练的
+计算机操作能力，对生物信息学相关研发工作具有浓厚兴趣。
+1、Java软件开发人员
+   
+熟练掌握Perl、Java、C/C++中至少两门编程语言，至少精通一门
+面向对象的编程语言如Java等。具有基于Java的Web开发经验，
+熟悉struts+hibernate最佳。
+2、生物芯片信息研发人员
+熟悉国际通用的生物信息学软件、数据库、基本方法，具有较强的
+学习和独立研发能力，具有积极向上和团队合作的精神。具有较强
+的数学、统计学、模式识别背景。
+我们欢迎来自海内外各大专院校的本科生和研究生参加我们的团队，
+共同面对机遇和挑战。
+如果感兴趣，请与ylzhuang@capitalbio.com联系
+

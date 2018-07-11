@@ -1,0 +1,29 @@
+Return-Path: <ou@rbl.ccert.edu.cn>
+Received: from rbl.ccert.edu.cn (rbl.ccert.edu.cn [202.112.57.71])
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id i98CIMkM009264
+	for <wei@ccert.edu.cn>; Fri, 8 Oct 2004 20:18:22 +0800 (CST)
+Received: from rbl.ccert.edu.cn (localhost.localdomain [127.0.0.1])
+	by rbl.ccert.edu.cn (8.12.11/8.12.11) with ESMTP id i98COOLM024962
+	for <wei@ccert.edu.cn>; Fri, 8 Oct 2004 20:24:24 +0800
+Received: (from qa@localhost)
+	by rbl.ccert.edu.cn (8.12.11/8.12.11/Submit) id i98COOf8024961;
+	Fri, 8 Oct 2004 20:24:24 +0800
+Date: Fri, 8 Oct 2004 20:24:24 +0800
+Message-Id: <200410081224.i98COOf8024961@rbl.ccert.edu.cn>
+Subject: =?gb2312?B?UmU6IM7Syse49sWuyfqjrM/rv7zH5buqtcSyqcq/?=
+To: wei@ccert.edu.cn
+From: Tran Quang Anh <ou@cernet.edu.cn>
+Content-Type: multipart/mixed; boundary="----------=_1097238264-26230-78"
+MIME-Version: 1.0
+X-UIDL: _?]"!-lb!!kc0!!?2+!!
+
+做工科或理科研究在年轻的时候就会显露出天赋来的，你现在对研究还知之不多说明
+潜力不大
+举例来说：我所知道的牛人在本科就发了一篇IEEE的Letter了，一直到博士都很顺利，
+文章多
+而其他人都是哼持哼持啃文章，半天不出水
+务实的判断是：你2年以后对矩阵论，随即过程，和泛函分析这些数学基础，
+以及信息论的基本概念有一定悟性和兴趣的话，上博也许还行
+最好的选择是找个好BF，比所谓的好工作，博士帽子好多了
+: 我对考博一点也不了解。大概是想做些研究吧。以前在运营商干过，觉得无聊才要考研。可能自己适合做研究？什么时候才能找到适合自己的人生路？
+

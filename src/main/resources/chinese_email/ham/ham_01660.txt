@@ -1,0 +1,37 @@
+Return-Path: <he@home.ccert.edu.cn>
+Received: from home.ccert.edu.cn (localhost [127.0.0.1])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id iB16UWbt019588;
+	Wed, 1 Dec 2004 14:30:32 +0800
+Received: (from majordomo@localhost)
+	by home.ccert.edu.cn (8.13.1/8.13.1/Submit) id iB16UW8I019587;
+	Wed, 1 Dec 2004 14:30:32 +0800
+X-Authentication-Warning: home.ccert.edu.cn: majordomo set sender to owner-ccertstaff using -f
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id iB16UVUd019583
+	for <tang@ccert.edu.cn>; Wed, 1 Dec 2004 14:30:31 +0800
+Received: from GirlOfGod (tu203027.tsinghua.edu.cn [166.111.203.27])
+	(authenticated bits=0)
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id iB16hauK007966
+	for <tang@ccert.edu.cn>; Wed, 1 Dec 2004 14:43:37 +0800 (CST)
+Message-Id: <200412010643.iB16hauK007966@sea.net.edu.cn>
+Date: Wed, 1 Dec 2004 14:47:57 +0800
+From: "he" <he@cernet.edu.cn>
+To: tang@ccert.edu.cn
+Subject: =?gb2312?B?ofEgurzW3Sm/tcrHw8DSvdGnw8DI3cPF1e/V0Ma4?=
+X-mailer: Foxmail 5.0 [cn]
+Mime-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: 8bit
+X-MIME-Autoconverted: from base64 to 8bit by home.ccert.edu.cn id iB16UVUd019585
+Sender: owner-ccertstaff@home.ccert.edu.cn
+Precedence: bulk
+X-UIDL: j(e"!CHV!!P"k!!NPf!!
+
+浙江省(杭州)康是美医学美容门诊引进先进的以色列ELOS光疗设备和专业的美疗团队,是浙江省医学光疗美容的先驱.康是美有专业美疗医师及咨询服务团队,专业护理背景及美疗经验的资深美疗师,来自台湾资深美容连锁管理体系,人性化专业的聊城后续追踪与管理.
+主要服务项目:E光水能净白系列;E光深层除皱;E光血管性病变;E光痤疮(青春豆)治疗;E光治疗静脉曲张;E光治疗色素性病变;中医减肥；祛除各式斑点、疤痕、大田痔、纹眉眼线及刺青；美妍超音波美容；高压活氧醒肤
+现以10万年薪聘请副主任医师级美容医生
+要求: 形象气质佳, 有良好的服务意识, 有深厚的专业知识.
+男女不限, 工作地点在杭州.
+联系方式: 0571-87221922-260   xujiechan@zfsc.com
+

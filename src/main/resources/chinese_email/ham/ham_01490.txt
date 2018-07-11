@@ -1,0 +1,30 @@
+Return-Path: <guo@sina.com>
+Received: from sina.com (sina187-156.sina.com.cn [202.106.187.156] (may be forged))
+	by home.ccert.edu.cn (8.13.1/8.13.1) with SMTP id j2EFNQAB010809
+	for <qian@ccert.edu.cn>; Mon, 14 Mar 2005 23:23:36 +0800
+Message-Id: <200503141523.j2EFNQAB010809@home.ccert.edu.cn>
+Received: (qmail 32183 invoked from network); 14 Mar 2005 15:36:56 -0000
+Received: from unknown (HELO ibm-t23) (219.224.134.126)
+  by 202.106.187.156 with SMTP; 14 Mar 2005 15:36:56 -0000
+Received: from(cheriff@sina.com) to(qa@ccert.edu.cn)
+Date: Mon, 14 Mar 2005 23:17:19 +0800
+From: "guo" <guo@sina.com>
+To: qian@ccert.edu.cn
+Subject: =?gb2312?B?ofEgs8/GuNPQuaTX976t0em1xMPAuaTSu8P7o6jIq9awo6k=?=
+X-mailer: Foxmail 5.0 [cn]
+Mime-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: 8bit
+X-MIME-Autoconverted: from base64 to 8bit by home.ccert.edu.cn id j2EFNQAB010809
+X-UIDL: [VU!!-&!"!':%#!NTA"!
+
+    北京浩鸿明凯科技发展有限公司是经由国家信息产业部认定的软件企业，同时被北京科学技术委员会授予高新技术企业。公司位于北京清华科技园区，是以进行金融管理、证券分析、投资技术为主业的金融科技服务公司。
+    现由于业务发展，诚聘有经验的美工设计师一名，要求如下：
+1、有两年或以上相关工作经验。
+2、有独立完成设计的能力，学习能力强。
+3、熟悉Flash制作，网页制作，平面美工设计。
+4、工作认真负责，善于沟通，容易相处。
+    薪水面议，公司四险一金齐全。请有意者发简历至hr@tl50.com。
+    公司的网址是www.tl50.com。
+

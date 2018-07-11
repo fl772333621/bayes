@@ -1,0 +1,35 @@
+Return-Path: <shen@tsinghua.edu.cn>
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id iBN2fIDP016272
+	for <cai@ccert.edu.cn>; Thu, 23 Dec 2004 10:41:19 +0800 (CST)
+Received: (eyou send program); Thu, 23 Dec 2004 10:25:50 +0800
+Message-ID: <303768750.01281@mail.tsinghua.edu.cn>
+Received: from unknown (HELO mail.tsinghua.edu.cn) (unknown@127.0.0.1)
+ by 127.0.0.1 with SMTP; Thu, 23 Dec 2004 10:25:50 +0800
+X-scanvirus: By Symantec Scan Engine
+X-scanresult: CLEAN
+Received: (eqmail ); 23 Dec 2004 02:25:48 -0000
+Received: from unknown (HELO sony) (duanhx@166.111.204.187)
+  by localhost with SMTP; 23 Dec 2004 02:25:48 -0000
+Message-ID: <012501c4e898$dca1c9c0$d53270ca@sony>
+From: "shen" <shen@tsinghua.edu.cn>
+To: cai@ccert.edu.cn
+Subject: =?gb2312?B?UmU6IMquzfKyysDx0qrH87n9t9bC8KO/?=
+Date: Thu, 23 Dec 2004 10:41:01 +0800
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2900.2180
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+Content-Transfer-Encoding: 8bit
+X-MIME-Autoconverted: from base64 to 8bit by sea.net.edu.cn id iBN2fIDP016272
+X-UIDL: _Bd"!_G'#!a%[!!W^e"!
+
+re~
+: 老调重弹一下吧
+: 狠多人家要彩礼得名义是说彩礼是古老习俗，不是它们自定的
+: 实际上旧时彩礼的涵义是男方家送彩礼（金），然后女方用这些礼金购置嫁妆，有时候男方自行购置物件先放在女方，结婚那天一齐吹吹打打随着新娘、媒婆送到男方，女方的家长还要压箱，这个钱是女方出的。大户人家会自家出钱为女儿购置嫁妆，这些是女方的私人物件，一旦被休或者受寡就归女方个人所有。
+: ...................
+

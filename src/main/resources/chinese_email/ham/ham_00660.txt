@@ -1,0 +1,58 @@
+Return-Path: <xu@rbl.ccert.edu.cn>
+Received: from rbl.ccert.edu.cn (rbl.ccert.edu.cn [202.112.57.71])
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id i97L9QXL025703
+	for <tu@ccert.edu.cn>; Fri, 8 Oct 2004 05:09:26 +0800 (CST)
+Received: from rbl.ccert.edu.cn (localhost.localdomain [127.0.0.1])
+	by rbl.ccert.edu.cn (8.12.11/8.12.11) with ESMTP id i97LFR81025727
+	for <tu@ccert.edu.cn>; Fri, 8 Oct 2004 05:15:27 +0800
+Received: (from qa@localhost)
+	by rbl.ccert.edu.cn (8.12.11/8.12.11/Submit) id i97LFRFM025726;
+	Fri, 8 Oct 2004 05:15:27 +0800
+Date: Fri, 8 Oct 2004 05:15:27 +0800
+Message-Id: <200410072115.i97LFRFM025726@rbl.ccert.edu.cn>
+Subject: =?gb2312?B?ofEgKioqKtXQxrjP7sS/vq3A7SoqKip6eg==?=
+To: tu@ccert.edu.cn
+From: Tran Quang Anh <xu@cernet.edu.cn>
+Content-Type: multipart/mixed; boundary="----------=_1097183727-1044-114"
+MIME-Version: 1.0
+X-UIDL: #-#"!bQ/!!c29"!Y`K!!
+
+发信人: stone1209 (stone), 信区: Career
+标  题: ****招聘项目经理****
+发信站: BBS 水木清华站 (Mon Jun  6 11:52:33 2005), 站内
+北京清华鲁银科技发展有限公司是从事国内外高新技术转移及技术资产经营的新型企业。公
+司依托清华大学强劲的科研实力和良好的国内外影响，与国内外的众多著名的相关机构建立
+了多渠道、广范围的联系。随着公司业务的迅速发展，我们诚邀有志之士与我们共同创造未
+来。
+招聘职位：项目经理
+招聘人数：2人
+工作地点：北京市
+要求：
+1、化学、化工、医疗器械等相关专业，本科以上学历；
+2、有独立思考、工作能力及独立应对客户能力
+3、有良好的市场开拓能力,有较强的人员组织管理能力
+4、有团队合作精神，有优秀的沟通协调、公关及组织能力
+5、精通外语，俄语优先
+职位描述：
+1、 负责项目前期市场调研、可行性研究、谈判、综合协调等工作；
+2、 根据公司整体规划，制定项目实施计划，并组织实施；
+3、 项目的全面管理或技术管理。
+招聘职位：网站建设与管理
+招聘人数：1人
+工作地点：北京市
+要求：
+1、一年以上网站建设工作经验，计算机专业专科以上学历。
+2、精通网页设计，有美术和设计功底。
+3、熟悉计算机硬、软件组装，配置，维修，排障。熟练使用英语者优先。
+职位描述：
+1、 负责网站的策划、建设、维护；
+以上应聘人员专业不限。有意者请将个人简历及联系方式发送到以下邮箱：rustech@tsingh
+ua.edu.cn
+请不要通过电话和其他方式联系我们。如果我们决定提供面试机会，我们将在一周
+内发出通知，请在面试时携带以下文件的原件及复印件：
+1、 学历证书
+2、 学位证书
+3、 在校应届毕业生如果无法提供以上两项证书，请提供学生证、成绩单
+4、 身份证
+5、 其他资格证书
+

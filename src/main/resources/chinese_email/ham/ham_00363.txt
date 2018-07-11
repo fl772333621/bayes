@@ -1,0 +1,81 @@
+Return-Path: <you@yahoo.com>
+Received: from tsinghua.org.cn ([210.77.143.228])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id i928ErTG002630
+	for <jian@ccert.edu.cn>; Sat, 2 Oct 2004 16:14:54 +0800
+Received: (eyou send program); Sat, 02 Oct 2004 16:25:14 +0800
+Received: (eyou send program); Sat, 02 Oct 2004 16:25:06 +0800
+X-EYOU-ORIGINAL-IP: 66.163.169.225
+X-EYOU-ENVELOPE-MAILFROM: vinhbd@yahoo.com
+Received: from unknown (HELO smtp105.mail.sc5.yahoo.com) (unknown@66.163.169.225)
+ by 210.77.143.228 with SMTP; Sat, 02 Oct 2004 16:25:06 +0800
+Received: from unknown (HELO bachvinh) (vinhbd@203.210.137.178 with login)
+  by smtp105.mail.sc5.yahoo.com with SMTP; 2 Oct 2004 08:23:42 -0000
+Message-ID: <012401c4a900$623a5260$0100007f@bachvinh>
+From: "you" <you@yahoo.com>
+To: jian@ccert.edu.cn
+Cc: "Do Thi Thanh" <chi@ccert.edu.cn>, "Bui Nam Xuan - K36" <cheng@ccert.edu.cn>,
+        "Dang Anh Phuong" <ning@ccert.edu.cn>,
+        "Dinh Viet Hung" <lv@ccert.edu.cn>, "Do Le Khoa" <lian@ccert.edu.cn>,
+        "Do Nam Thanh" <ren@ccert.edu.cn>, "Do Ngoc Minh" <ni@ccert.edu.cn>,
+        "Huu Duc Nguyen" <xing@ccert.edu.cn>,
+        "K 36" <peng@ccert.edu.cn>, "Le Hong Ha" <hua@ccert.edu.cn>,
+        "Le Hong Thang" <lin@ccert.edu.cn>,
+        "Le Thanh Ha" <ning@ccert.edu.cn>,
+        "Le Viet Dung" <fan@ccert.edu.cn>,
+        "Luc Dinh Vinh" <shen@ccert.edu.cn>,
+        "Nguyen Duc Quynh" <yana@ccert.edu.cn>,
+        "Nguyen Nam Hung" <mei@ccert.edu.cn>,
+        "Nguyen Nga My" <wei@ccert.edu.cn>,
+        "Nguyen Quang Anh" <ma@ccert.edu.cn>,
+        "Pham Kim Long" <han@ccert.edu.cn>,
+        "Pham Van Thuong" <guan@ccert.edu.cn>,
+        "Pham Viet Thang" <gan@ccert.edu.cn>,
+        "Thanh Loan vo Trung Hung" <kang@ccert.edu.cn>,
+        "Tuan Ha" <su@ccert.edu.cn>,
+        "Nguyen Quang Hoa" <hu@ccert.edu.cn>,
+        "Pham Thi Quynh Huong" <kang@ccert.edu.cn>,
+        "Vu Minh Tuan" <rao@ccert.edu.cn>,
+        "Vuong Hoai Nam" <jin@ccert.edu.cn>,
+        "Phan Quang Minh" <lian@ccert.edu.cn>,
+        "nguyet nguyen minh" <tu@ccert.edu.cn>,
+        "Nguyen Van Dung" <luo@ccert.edu.cn>,
+        "NGUYEN THI HANG" <pu@ccert.edu.cn>,
+        "Nguyen Thi Hang" <ou@ccert.edu.cn>,
+        "Nguyen Ngoc Quynh" <chi@ccert.edu.cn>,
+        "Nguyen Huy Quang" <jiang@ccert.edu.cn>,
+        "Nguyen Duc Long" <hu@ccert.edu.cn>,
+        "Mai Thi Thanh" <tan@ccert.edu.cn>,
+        "Le Xuan Hung" <kong@ccert.edu.cn>,
+        "Le Phuong Thao" <ma@ccert.edu.cn>,
+        "K42" <peng@ccert.edu.cn>,
+        "Huynh Tuan Anh" <he@ccert.edu.cn>,
+        "Ha Huong Giang" <ni@ccert.edu.cn>,
+        "Giang beo" <qing@ccert.edu.cn>,
+        "Do Viet Trung" <yun@ccert.edu.cn>,
+        "Duong Vu Hung" <cao@ccert.edu.cn>,
+        "Duong Hai Duong" <gao@ccert.edu.cn>,
+        "Doan Trung Tung" <you@ccert.edu.cn>,
+        "Cao Duy Hung - K42" <lian@ccert.edu.cn>,
+        "Dang Cong Kien" <han@ccert.edu.cn>,
+        "Dang Cong Kien" <wang@ccert.edu.cn>,
+        "Nguyen Thu Thuy" <you@ccert.edu.cn>
+Subject: =?gb2312?B?UmU6IMn6yNUtLS24uMS4sK4=?=
+Date: Sun, 3 Oct 2004 11:02:46 +0700
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="multipart/alternative";
+	boundary="----=_NextPart_000_00E4_01C4A938.867B3260"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 5.00.2615.200
+X-MimeOLE: Produced By Microsoft MimeOLE V5.00.2615.200
+X-UIDL: Bk$#!jV="!ebi"!~DC"!
+
+嗯
+哭得好
+吸烟有害健康
+:     有个小女孩过生日,她一直哭喊着要吃奶油蛋糕.可是家里真的很穷很穷,根本没有钱给小女孩买生日蛋糕.爸妈为难的涨红了脸相互凝视.突然,爸爸起身拿起了家中的小猪存钱罐狠狠的摔在了地上.小女孩被这巨响镇住了哭声,泪汪汪的看着父母一个一个的捡起了地上的硬币.将它们�
+:    1个小时以后,爸妈回来了,带回了蛋糕和电动小火车.小女孩开心的跳着叫着.爸妈微笑的看着.小女孩那里知道,那件大衣是爸爸送给妈妈的结婚纪念物.那个小猪存钱罐里攒的是爸爸一个月的烟钱啊!!!
+:    读者,不要怀疑,那个不懂事的女孩就是我.那个卖衣服砸存钱罐的就是我的父母!只有他们才能给我这人间最真挚的情---亲情.
+: ...................
+

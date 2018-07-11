@@ -1,0 +1,21 @@
+Return-Path: <feng@rbl.ccert.edu.cn>
+Received: from rbl.ccert.edu.cn (rbl.ccert.edu.cn [202.112.57.71])
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id i9719xqh012820
+	for <zhan@ccert.edu.cn>; Thu, 7 Oct 2004 09:09:59 +0800 (CST)
+Received: from rbl.ccert.edu.cn (localhost.localdomain [127.0.0.1])
+	by rbl.ccert.edu.cn (8.12.11/8.12.11) with ESMTP id i971Fvag020872
+	for <zhan@ccert.edu.cn>; Thu, 7 Oct 2004 09:15:57 +0800
+Received: (from qa@localhost)
+	by rbl.ccert.edu.cn (8.12.11/8.12.11/Submit) id i971FvLJ020871;
+	Thu, 7 Oct 2004 09:15:57 +0800
+Date: Thu, 7 Oct 2004 09:15:57 +0800
+Message-Id: <200410070115.i971FvLJ020871@rbl.ccert.edu.cn>
+Subject: =?gb2312?B?ofEgztLV4tH5tcSjrL/J0tTC8KO/?=
+To: zhan@ccert.edu.cn
+From: Tran Quang Anh <feng@cernet.edu.cn>
+Content-Type: multipart/mixed; boundary="----------=_1097111757-996-752"
+MIME-Version: 1.0
+X-UIDL: A9U"!g15"!2_V!!8H^"!
+
+我变了，真的变了，突然发现自己不再是以前那个踌躇满志的我，那时侯理想那么多，未来在我心里是那么美，每次打电话给家里，总会和妈妈聊聊那些美丽的梦，而妈妈总是笑，妈妈告诉我她很开心，她很满足，因为她知道儿子是她的希望，每次打电话她总是鼓励我，尽管我做得很不好。可现在，真的不知道自己怎么了，不想学习，毫无斗志，喝酒上网，唉，看者周围的同学忙着考研，看着时光在身边悄悄流过自己却无能为力，很压抑，那天给家打电话，依旧是那样，依旧是父母一如既往的理解与鼓励，而我竟然在电话里哭了，我知道我不能再这样，至少为了爱我的人，我决定用考研来激发自己的斗志，我告诉朋友我想从暑假开始复习考研，他们却象见到外星人似的，从头到脚打量了一遍，然后抛给我一句：太晚了！唉，真的太晚了吗？我这样的人！
+

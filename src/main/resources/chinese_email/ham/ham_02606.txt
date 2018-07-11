@@ -1,0 +1,25 @@
+Return-Path: <ni@rbl.ccert.edu.cn>
+Received: from rbl.ccert.edu.cn (rbl.ccert.edu.cn [202.112.57.71])
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id i98CHiRN009243
+	for <pan@ccert.edu.cn>; Fri, 8 Oct 2004 20:17:45 +0800 (CST)
+Received: from rbl.ccert.edu.cn (localhost.localdomain [127.0.0.1])
+	by rbl.ccert.edu.cn (8.12.11/8.12.11) with ESMTP id i98CNk5E021703
+	for <pan@ccert.edu.cn>; Fri, 8 Oct 2004 20:23:47 +0800
+Received: (from qa@localhost)
+	by rbl.ccert.edu.cn (8.12.11/8.12.11/Submit) id i98CNk0Q021702;
+	Fri, 8 Oct 2004 20:23:46 +0800
+Date: Fri, 8 Oct 2004 20:23:46 +0800
+Message-Id: <200410081223.i98CNk0Q021702@rbl.ccert.edu.cn>
+Subject: =?gb2312?B?UmU6IM7StcS/vNHQvq3A+g==?=
+To: pan@ccert.edu.cn
+From: Tran Quang Anh <ni@cernet.edu.cn>
+Content-Type: multipart/mixed; boundary="----------=_1097238227-26230-42"
+MIME-Version: 1.0
+X-UIDL: B^b!!7^4!!*Q:"!/XF!!
+
+虽然看来对我是没有什么帮助,先祝福一个:)似乎数学确实太勉强了一点
+:       序： 其实不想写这么一个汇报的，因为分数考得不高、没有什么内部信息、没有特殊的学习方法。只是自己在决定考研的时候，曾经一头雾水的找不到一点点信息，就发誓我要是有考上的那一天，一定写一个汇报出来。君子一言九鼎，如今我的档案送到招生办了，就算是考上了吧，不写一个汇报出来，于心难安。碰巧读到我的汇报的各位研友，还请海涵。我尽量说简单点，以免耽误大家的宝贵的复习时间。
+:       我的基本情况：总分：383，政治81，英语70，数学一96，专业课136。报考:清华经管。
+:       我的学习经历：简要叙述一下，包括我的基础情况。      
+: ...................
+

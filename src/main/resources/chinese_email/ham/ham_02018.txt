@@ -1,0 +1,43 @@
+Return-Path: <chi@tsinghua.edu.cn>
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id i9PEp4s6015972
+	for <jian@ccert.edu.cn>; Mon, 25 Oct 2004 22:51:04 +0800 (CST)
+Received: (eyou send program); Mon, 25 Oct 2004 22:36:29 +0800
+Message-ID: <298714989.06408@mail.tsinghua.edu.cn>
+Received: from unknown (HELO mail.tsinghua.edu.cn) (unknown@127.0.0.1)
+ by 127.0.0.1 with SMTP; Mon, 25 Oct 2004 22:36:29 +0800
+X-scanvirus: By Symantec Scan Engine
+X-scanresult: CLEAN
+Received: (eqmail ); 25 Oct 2004 14:36:26 -0000
+Received: from unknown (HELO sony) (duanhx@166.111.232.146)
+  by localhost with SMTP; 25 Oct 2004 14:36:26 -0000
+Message-ID: <005301c4baa2$082bc110$063270ca@sony>
+From: "chi" <chi@tsinghua.edu.cn>
+To: jian@ccert.edu.cn
+References: <296440622.22437@mail.tsinghua.edu.cn> <298702987.09967@mail.tsinghua.edu.cn>
+Subject: =?gb2312?B?UmU6IOqh0afP1s/z0tGzycPAufqyqcq/yfq9zNP9tcTE0czi?=
+Date: Mon, 25 Oct 2004 22:50:54 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0050_01C4BAE5.15719960"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2900.2180
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+X-UIDL: lMD!!^:f!!'p6!!,;l"!
+
+国内的博士退学违约金该涨价了，呵呵
+: 标  题: Re: 辍学现象已成美国博士生教育的难题
+: 发信站: 水木社区 (Fri Jun 10 13:03:42 2005), 站内
+: 
+: 国内博士我看也快了。
+: 
+: : http://news.xinhuanet.com/overseas/2005-06/10/content_3067513.htm
+: : 近年来，美国博士生辍学的比例越来越高。据统计，正常情况下，注册攻读博士的学生中有1/4中途辍学。在某些专业，博士生辍学的比例已经高达40%-50%。教育专家忧心忡忡地指出，辍学现象已成为美国博士生教育的难题。 
+: :     传统观念认为，学生辍学一般都是因为学习能力不济，无法适应学业的要求。 
+: : ...................
+: 
+: --
+: 
+: ※ 来源:·水木社区 newsmth.net·[FROM: 166.111.250.*]
+

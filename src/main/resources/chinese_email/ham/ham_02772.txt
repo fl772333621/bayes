@@ -1,0 +1,62 @@
+Return-Path: <wua@ns.6test.edu.cn>
+Received: from tsinghua.org.cn ([210.77.143.228])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id i8LAWumJ004099
+	for <lian@ccert.edu.cn>; Tue, 21 Sep 2004 18:32:58 +0800
+Received: (eyou send program); Tue, 21 Sep 2004 18:42:54 +0800
+Received: (eyou send program); Tue, 21 Sep 2004 18:42:53 +0800
+X-EYOU-ORIGINAL-IP: 166.111.8.16
+X-EYOU-ENVELOPE-MAILFROM: wanglanjia@ns.6test.edu.cn
+Received: from unknown (HELO mails.tsinghua.edu.cn) (unknown@166.111.8.16)
+ by 210.77.143.228 with SMTP; Tue, 21 Sep 2004 18:42:53 +0800
+Received: (eyou send program); Tue, 21 Sep 2004 18:36:52 +0800
+Message-ID: <295763012.25601@mails.tsinghua.edu.cn>
+Received: (eyou send program); Tue, 21 Sep 2004 18:36:52 +0800
+Message-ID: <295763011.09020@mails.tsinghua.edu.cn>
+Received: from unknown (HELO mails.tsinghua.edu.cn) (unknown@127.0.0.1)
+ by 127.0.0.1 with SMTP; Tue, 21 Sep 2004 18:36:52 +0800
+X-scanvirus: By Symantec Scan Engine
+X-scanresult: CLEAN
+Received: (eqmail ); 21 Sep 2004 10:36:50 -0000
+Received: from ccert.edu.cn (HELO home.ccert.edu.cn) (202.112.57.12)
+  by mails.tsinghua.edu.cn with SMTP; 21 Sep 2004 10:36:50 -0000
+Received: from home.ccert.edu.cn (localhost [127.0.0.1])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id i8LAVOK3004076;
+	Tue, 21 Sep 2004 18:31:24 +0800
+Received: (from majordomo@localhost)
+	by home.ccert.edu.cn (8.13.1/8.13.1/Submit) id i8LAVON6004075;
+	Tue, 21 Sep 2004 18:31:24 +0800
+X-Authentication-Warning: home.ccert.edu.cn: majordomo set sender to owner-ccertstaff using -f
+Received: from ns.6test.edu.cn (ns.6test.edu.cn [202.112.54.2])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id i8LAVNxo004071
+	for <lian@ccert.edu.cn>; Tue, 21 Sep 2004 18:31:24 +0800
+Received: from [210.25.128.109] (helo=tsinghua89o1rm)
+	by ns.6test.edu.cn with asmtp (Exim 4.12)
+	id 1C9iNQ-00005t-00
+	for ccertstaff@ccert.edu.cn; Tue, 21 Sep 2004 19:00:04 +0800
+Message-ID: <003a01c49fc7$90b38950$6d8019d2@tsinghua89o1rm>
+From: "wua" <wua@ns.6test.edu.cn>
+To: lian@ccert.edu.cn
+Subject: =?gb2312?B?UmU6IMTjw8e+9bXDztLV4tH5usPC8KO/uPi149LivPs=?=
+Date: Tue, 21 Sep 2004 18:41:04 +0800
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2600.0000
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2600.0000
+Content-Transfer-Encoding: 8bit
+X-MIME-Autoconverted: from base64 to 8bit by home.ccert.edu.cn id i8LAVOxo004073
+Sender: owner-ccertstaff@home.ccert.edu.cn
+Precedence: bulk
+X-UIDL: bb~"!k;2!!AA""!J8>!!
+Status: RO
+
+我觉得挺好的，时间自由，收入也不错。
+父母可能担心你年纪大了怎么办，没有保障。如果你在年轻的时候能存一些钱，
+打消你父母的顾虑就可以了。
+: 自己没工作，做的是自由职业吧，很多时间在家里。收入还过得去，能养活自己。不过家里人老不同意，老想让我去那种大的国企，钱不多，但是稳定，觉得什么社保都有。
+: 可我根本不喜欢天天在办公室里做着。觉得烦。而且我打算自己买保险什么的。
+: 嗯，我想知道大家对这样有什么看法没？
+: ...................
+

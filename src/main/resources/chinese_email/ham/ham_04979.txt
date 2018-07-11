@@ -1,0 +1,28 @@
+Return-Path: <lu@rbl.ccert.edu.cn>
+Received: from rbl.ccert.edu.cn (rbl.ccert.edu.cn [202.112.57.71])
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id i98CH7HY009218
+	for <zhang@ccert.edu.cn>; Fri, 8 Oct 2004 20:17:08 +0800 (CST)
+Received: from rbl.ccert.edu.cn (localhost.localdomain [127.0.0.1])
+	by rbl.ccert.edu.cn (8.12.11/8.12.11) with ESMTP id i98CN6OW016844
+	for <zhang@ccert.edu.cn>; Fri, 8 Oct 2004 20:23:06 +0800
+Received: (from qa@localhost)
+	by rbl.ccert.edu.cn (8.12.11/8.12.11/Submit) id i98CN5XQ016843;
+	Fri, 8 Oct 2004 20:23:05 +0800
+Date: Fri, 8 Oct 2004 20:23:05 +0800
+Message-Id: <200410081223.i98CN5XQ016843@rbl.ccert.edu.cn>
+Subject: =?gb2312?B?UmU6IMfrtPO80rDvztK/tL+0vNLNpc7KzOI=?=
+To: zhang@ccert.edu.cn
+From: Tran Quang Anh <lu@cernet.edu.cn>
+Content-Type: multipart/mixed; boundary="----------=_1097238186-26230-18"
+MIME-Version: 1.0
+X-UIDL: ,a)"!-@-!!bd/"!i2\"!
+
+  等到你读书出来，除了发现自己老了几岁，就业情况更差了，
+  自己的选择面更窄了，改行或者按照兴趣生活更难了，貌似没啥实际意义
+  今年校庆的时候我回学校，出来后的想法就是，女生读研的意义何在？
+  结论是：说出来好听点
+: 为什么满足啊……
+: 现在再考脑袋都笨了，记不住东西了
+: 唉，还是觉得那个名额可惜，全班只有我一个符合条件的，我没申请，后来那个名额就给了其它专业：（
+: ...................
+

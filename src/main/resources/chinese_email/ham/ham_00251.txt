@@ -1,0 +1,31 @@
+Return-Path: <hong@rbl.ccert.edu.cn>
+Received: from rbl.ccert.edu.cn (rbl.ccert.edu.cn [202.112.57.71])
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id i97KP72k025285
+	for <tao@ccert.edu.cn>; Fri, 8 Oct 2004 04:25:08 +0800 (CST)
+Received: from rbl.ccert.edu.cn (localhost.localdomain [127.0.0.1])
+	by rbl.ccert.edu.cn (8.12.11/8.12.11) with ESMTP id i97KV8iX028502
+	for <tao@ccert.edu.cn>; Fri, 8 Oct 2004 04:31:08 +0800
+Received: (from qa@localhost)
+	by rbl.ccert.edu.cn (8.12.11/8.12.11/Submit) id i97KV8U6028501;
+	Fri, 8 Oct 2004 04:31:08 +0800
+Date: Fri, 8 Oct 2004 04:31:08 +0800
+Message-Id: <200410072031.i97KV8U6028501@rbl.ccert.edu.cn>
+Subject: =?gb2312?B?UmU6ILu7v9PBy7Cho6y087zSvvW1w9fUvLq1xLCuyseyu8rH0OjSqrvYsai1xMTH1tajvw==?=
+To: tao@ccert.edu.cn
+From: Tran Quang Anh <hong@cernet.edu.cn>
+Content-Type: multipart/mixed; boundary="----------=_1097181068-1044-90"
+MIME-Version: 1.0
+X-UIDL: MfL"!6Tk!!0=O"![gA!!
+
+他是嘴上不说，心里当然有想法了，他们看大局
+但是我有时候说句气话，他在那边就不作声了
+原则问题上，连一句玩笑也不能开的
+当然了，也许他是有把握才这样表现的
+我认识一个同学，她gg也是金牛座
+但是她是双子，所以个性很拽，就是合得来就在一起，合不来就分
+她gg照样没事，平时根本不限制她的自由，但私底下有没有受伤就不知道了
+: google了一下，居然是金牛，嘻嘻
+: 不像我gg啊，他自己老实，对我没要求
+: 倒像我，自己不怎么老实，要求还挺多
+: ...................
+

@@ -1,0 +1,49 @@
+Return-Path: <jin@home.ccert.edu.cn>
+Received: from home.ccert.edu.cn (localhost [127.0.0.1])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id j0P5HhIs027923;
+	Tue, 25 Jan 2005 13:17:43 +0800
+Received: (from majordomo@localhost)
+	by home.ccert.edu.cn (8.13.1/8.13.1/Submit) id j0P5HhiO027922;
+	Tue, 25 Jan 2005 13:17:43 +0800
+X-Authentication-Warning: home.ccert.edu.cn: majordomo set sender to owner-ccertstaff using -f
+Received: from ccertspark (puma.ccert.edu.cn [202.112.50.50])
+	(authenticated bits=0)
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id j0P5Hhh3027918
+	for <tao@ccert.edu.cn>; Tue, 25 Jan 2005 13:17:43 +0800
+Reply-To: <jin@cernet.edu.cn>
+From: "jin" <jin@ccert.edu.cn>
+To: tao@ccert.edu.cn
+Subject: =?gb2312?B?ofEguNW/tMHLoba7qNH80MLE76G3?=
+Date: Tue, 25 Jan 2005 13:27:50 +0800
+Message-ID: <000801c5029e$9c872cc0$323270ca@ccertspark>
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+X-Priority: 3 (Normal)
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook, Build 10.0.6626
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.3790.181
+Importance: Normal
+Content-Transfer-Encoding: 8bit
+X-MIME-Autoconverted: from base64 to 8bit by home.ccert.edu.cn id j0P5Hhh3027920
+Sender: owner-ccertstaff@home.ccert.edu.cn
+Precedence: bulk
+X-UIDL: QBo!!pJk"!$C%"!l+4"!
+
+看关于大学生电影节的报道知道了这部电影
+觉得应该是个好剧情
+同时也应该有好的画面
+电影后者是做到了
+但是觉得导演和编剧的火候还是有限
+就说凤美平时好像并不是善解人意
+但是对七妹这样一个交流有障碍的mm却一下子很体谅
+不太合理
+还有阿龙
+其实在剧情的前半截凤美已经足以使他脾气了
+却一直没有
+不太合理
+另外，为什么一直很凤美作对的依玛后来突然变好了
+也交代的比较突兀
+再加上男主角的表演有些粗糙以及剧情的场景总是吵来打去
+难免让影片乏味
+

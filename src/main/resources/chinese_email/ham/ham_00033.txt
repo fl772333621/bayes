@@ -1,0 +1,41 @@
+Return-Path: <lin@cernet.edu.cn>
+Received: from tsinghua.org.cn ([210.77.143.228])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id iAG3G1LI004954
+	for <ma@ccert.edu.cn>; Tue, 16 Nov 2004 11:16:02 +0800
+Received: (eyou send program); Tue, 16 Nov 2004 11:28:27 +0800
+Received: (eyou send program); Tue, 16 Nov 2004 11:28:26 +0800
+X-EYOU-ORIGINAL-IP: 210.77.143.235
+X-EYOU-ENVELOPE-MAILFROM: wlzxrs@cernet.edu.cn
+Received: from unknown (HELO eyou.net) (unknown@210.77.143.235)
+ by 210.77.143.228 with SMTP; Tue, 16 Nov 2004 11:28:26 +0800
+Received: (eyou send program); Tue, 16 Nov 2004 11:24:17 +0800
+Message-ID: <300575457.10012@eyou.net>
+Received: from 202.112.5.66 by 210.77.143.235 with SMTP; Tue, 16 Nov 2004 11:24:06 +0800
+Received: from 56ls81hgnjb0ggr ([202.112.4.6])
+	(authenticated bits=0)
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id iAG3SAct020890
+	for <ma@ccert.edu.cn>; Tue, 16 Nov 2004 11:28:11 +0800 (CST)
+Message-Id: <200411160328.iAG3SAct020890@sea.net.edu.cn>
+From: "lin" <lin@cernet.edu.cn>
+Reply-To: lin@cernet.edu.cn
+To: ma@ccert.edu.cn
+Subject: =?gb2312?B?ofEgMjAwNcTqM9TCN8jVo6jD5srUvK/W0MTHuPbW3MSp0LS1xMvmscqjqQ==?=
+X-mailer: Foxmail 4.2 [cn]
+Mime-Version: 1.0
+Content-Type: multipart/mixed;
+      boundary="=====000_Dragon473784377465_====="
+Date: Tue, 16 Nov 2004 11:27:26 +0800
+X-UIDL: f]@!!#?Z!!>8["!n[L!!
+
+2005年3月7日  星期一   晴
+今天是清华的女生节，BBS上有人发信祝我快乐，不过实在没办法快乐起来。工作找到现在，面试面了一堆，但是还是没有什么太大的起色。本来以为比较有戏的工行北分在电话询问以后得知了基本不必再继续等下去的结果，因为考官没有和我说明户口指标的问题，虽然不是我心仪的地方，但给不给offer的性质是完全不一样的。不知道是哪里出了问题，也许是因为不愿意去远郊导致的？又或者是那天表现太过慌乱，没有合理说出关于那个如果农总、国家开发银行和北分同时录用我，我如何选择的问题？莫非应该说选北分？
+不知道，再想也不起作用了。还是要继续找下去的，情绪不是很镇定，做事情也不是很能一板一眼我行我素了，我得改变这种局面，但是又觉得很无力。周围的人会和你说"你挺好的，能力不错的"，是啊，我是不错，可是哪里才是和我合适的位置呢？
+XX外企吗？我怎么看进三面的机会都不大，让我进二面估计已经是很给同学面子了。那个国企吗？居高临下的面试官，完全不把我放在眼里；还是私营广告，考官怀疑的神情我还很是记得的。这些都是最坏的打算。面试这么多地方，我还是没法从招聘者的表情上读出隐含的信息，以至于患得患失。一方面告诉自己再接再厉，不要灰心，可是另一方面得知最后结果还是难免沮丧。
+就像今天，在得到北分否定的回答以后，还是比较失落的。也很不好意思和父母讲，怕他们既担心我的情绪，又担心我的工作。还是索性不要说了的好。
+我还是想想这两天该做的事情吧：
+首先，今天要把论文的第一节大概轮廓写出来，这是第一要务！
+其次，给XX公司、国企和商务部外贸事务发展局打电话，询问前两者的进一步面试结果，询问后者是否还需要邮寄简历。
+就像同学说的，我自己还是不能放弃的，要坚持下去，坚持的时间应该比已经过去的时间短了，很快就是这一段的终点，下一段的起点了。
+我要让自己高兴起来，不要让他们左右我的情绪，我还是要继续积极迎战，做好自己该做的事情，然后去等待那个该来的结局。
+就这样啊，好好写论文啊。
+

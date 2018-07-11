@@ -1,0 +1,37 @@
+Return-Path: <yana@cernet.edu.cn>
+Received: from tsinghua.org.cn ([210.77.143.228])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id i9Q8CObY008427
+	for <chi@ccert.edu.cn>; Tue, 26 Oct 2004 16:12:25 +0800
+Received: (eyou send program); Tue, 26 Oct 2004 16:23:47 +0800
+Received: (eyou send program); Tue, 26 Oct 2004 16:23:47 +0800
+X-EYOU-ORIGINAL-IP: 210.77.143.235
+X-EYOU-ENVELOPE-MAILFROM: sundh@cernet.edu.cn
+Received: from unknown (HELO eyou.net) (unknown@210.77.143.235)
+ by 210.77.143.228 with SMTP; Tue, 26 Oct 2004 16:23:47 +0800
+Received: (eyou send program); Tue, 26 Oct 2004 16:20:35 +0800
+Message-ID: <298778835.11967@eyou.net>
+Received: from 202.112.5.66 by 210.77.143.235 with SMTP; Tue, 26 Oct 2004 16:20:24 +0800
+Received: from 8jmd55gawpz3tjh ([202.112.50.7])
+	(authenticated bits=0)
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id i9Q8NVCN003539;
+	Tue, 26 Oct 2004 16:23:31 +0800 (CST)
+Message-ID: <001e01c4bb35$1482be30$073270ca@8jmd55gawpz3tjh>
+From: "yana" <yana@cernet.edu.cn>
+To: chi@ccert.edu.cn
+Subject: =?gb2312?B?UmU6IM7Sus3Az7mrtcSwrsfpo6gxo6k=?=
+Date: Tue, 26 Oct 2004 16:23:32 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_001B_01C4BB78.2285CC00"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2800.1437
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1441
+X-UIDL: U[8!!V#K!!TWF"!'/T!!
+
+题目改成“转正”该切题
+:    和老公认识的时候是在2000年的十月。那时候刚刚结束自己的初恋，情绪很低落，成天都借助于网络来派遣自己的抑郁。也就是在那段时间，我在qq上认识了他，没有想到，这个人日后成了我老公，改变了我的一切。
+:    感觉自己那段时间很萎靡不振，每天都逃课上网，很巧的是，他那时候因为刷刷，摔断了腿，成天也就呆在实验室。因为家庭很相似，所以感觉很亲近，聊的很投机。不过那时候他有一个北师的mm，而且我远在武汉，所以根本没有什么其他的想法。在qq上，他聊他的mm，我讲我的�
+:    2001年1月，记得是在那年考研的前一夜，我们聊了通宵，并且相约，以后都不要在qq上见面了，尽管两人都心里很明白，但是在嘴上，我们都没有把一切说破，在整个晚上，我们聊的话题都和感情无关。那天qq下线的时候，我哭的很厉害，不知道在什么时候开始，我已经很在意他
+: ...................
+

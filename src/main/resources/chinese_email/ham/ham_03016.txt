@@ -1,0 +1,31 @@
+Return-Path: <peng@tsinghua.edu.cn>
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id i8R6KJ9O008556
+	for <mo@ccert.edu.cn>; Mon, 27 Sep 2004 14:20:20 +0800
+Received: from huhoo ([202.112.50.6])
+	(authenticated bits=0)
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id i8R6Uc2r001190;
+	Mon, 27 Sep 2004 14:30:38 +0800 (CST)
+From: "peng" <peng@tsinghua.edu.cn>
+To: mo@ccert.edu.cn
+Cc: <lv@ccert.edu.cn>
+Subject: =?gb2312?B?ofEgztLP68/ro6y6x7rH?=
+Date: Mon, 27 Sep 2004 14:28:01 +0800
+Message-ID: <001d01c4a45b$26af5320$063270ca@huhoo>
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="----=_NextPart_000_001E_01C4A49E.34D29320"
+X-Priority: 3 (Normal)
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook, Build 10.0.6626
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+Importance: Normal
+X-UIDL: @9D"!cn8"!/?'#!1b/"!
+
+心里乱乱的，很多问题需要我自己来想明白，需要我来面对，但是只有我自己知道我什么都没想好
+首先我不喜欢现在的工作，我觉得枯燥，所以我告诉妈妈，告诉男友，我要去上学，只为摆脱现在这样的环境
+然后所有人都同意我去上学，去读三年的书，专业学校我都没想好，我需要为男友考虑，也需要为我们的将来考虑，因为男友支持我上学
+如果我去上学，三年我们可能会结婚，三年可能他会辛苦，三年之后我28，重新找工作
+如果我不去上学，再工作一年换公司，我和他一起买房子，结婚，是不是这样更好，只是我要在这里工作一年
+当所有人对我说随我的时候，我却不知道怎么办了
+

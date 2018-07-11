@@ -1,0 +1,37 @@
+Return-Path: <wei@sina.com>
+Received: from sina.com (sina187-158.sina.com.cn [202.106.187.158] (may be forged))
+	by home.ccert.edu.cn (8.13.1/8.13.1) with SMTP id j2DCknTX026470
+	for <ye@ccert.edu.cn>; Sun, 13 Mar 2005 20:46:52 +0800
+Message-Id: <200503131246.j2DCknTX026470@home.ccert.edu.cn>
+Received: (qmail 92521 invoked from network); 13 Mar 2005 12:58:29 -0000
+Received: from unknown (HELO amd2500plus) (219.224.134.126)
+  by 202.106.187.158 with SMTP; 13 Mar 2005 12:58:29 -0000
+Received: from(cheriff@sina.com) to(qa@ccert.edu.cn)
+From: "wei" <wei@sina.com>
+To: ye@ccert.edu.cn
+Subject: =?GB2312?Q?Re: Re: Re: Re: =B2=B4=CB=C9=B9=FD=B3=CC=B7=C2=D5=E6=B5=C4=B3=CC=D0=F2=D2=D1=BE=AD=CD=EA=B3=C9?=
+X-mailer: Foxmail 4.2 [cn]
+Mime-Version: 1.0
+Content-Type: text/plain;
+      charset="GB2312"
+Date: Sun, 13 Mar 2005 21:3:35 +0800
+Content-Transfer-Encoding: 8bit
+X-MIME-Autoconverted: from quoted-printable to 8bit by home.ccert.edu.cn id j2DCknTX026470
+X-UIDL: k^+#!&@n!!Bg3"!L2H!!
+
+基本要求：
+精通C/C++，非常熟悉 .NET VC++等开发环境
+非常熟悉TCP/IP/UDP等相关网络通讯协议
+能熟练运用Windows下TCP/IP/UDP Socket遍程
+有阅读并能快速理解掌握Open-Source网络通讯软件和Linux的习惯和能力
+有基于TCP/IP/UDP上的应用层协议框架结构设计的能力和经验
+能熟练阅读英文相关文档
+有创业的冲动、团队精神及独当一面的能力
+项目需求：
+本项目为一对等网络（Peer-to-Peer, P2P）应用的长期项目， 有P2P网络通讯软件研究的将优先考虑。
+具体P2P经验可能是：
+对ED2K和BT等P2P协议和Chord, Parstry, CAN, Kademlia等P2P peer搜索算法原理和原码有过研究
+熟悉eMule (an ed2k client)和BT原码或能快速理解掌握它们，从而能在它们基础上进行相关应用的增补编程
+可以考虑聘请有充足时间的（已修完课程的）研究生
+有意者请发简历到：goodp2p@gmail.com，（请勿回贴或回信给发贴者！）谢谢！
+

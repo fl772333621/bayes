@@ -1,0 +1,23 @@
+Return-Path: <weng@rbl.ccert.edu.cn>
+Received: from rbl.ccert.edu.cn (rbl.ccert.edu.cn [202.112.57.71])
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id i965ep1X029475
+	for <tang@ccert.edu.cn>; Wed, 6 Oct 2004 13:40:51 +0800 (CST)
+Received: from rbl.ccert.edu.cn (localhost.localdomain [127.0.0.1])
+	by rbl.ccert.edu.cn (8.12.11/8.12.11) with ESMTP id i965klgs030326
+	for <tang@ccert.edu.cn>; Wed, 6 Oct 2004 13:46:47 +0800
+Received: (from qa@localhost)
+	by rbl.ccert.edu.cn (8.12.11/8.12.11/Submit) id i965klkk030325;
+	Wed, 6 Oct 2004 13:46:47 +0800
+Date: Wed, 6 Oct 2004 13:46:47 +0800
+Message-Id: <200410060546.i965klkk030325@rbl.ccert.edu.cn>
+Subject: =?gb2312?B?UmU6ILK7tq6woaO6IMWuuqLX08rHsrvKx7a8sci9z8O709CwssiruNCjrNKq1dLIy9LAv7+jvw==?=
+To: tang@ccert.edu.cn
+From: Tran Quang Anh <weng@cernet.edu.cn>
+Content-Type: multipart/mixed; boundary="----------=_1097041607-996-514"
+MIME-Version: 1.0
+X-UIDL: iiY!!]O;!!bEP!!lTA"!
+
+其实，安全感有时候是从爱和珍惜衍生出来的，呵呵
+:   一直没有意识到 女孩子会有这样的问题，昨天看了个 董洁的访谈（我十分喜欢她在 天上的恋人  里的感觉，呵呵）。她说，她也是个没有安全感的人。
+:     我狂抓啊，什么叫做没有安全感啊，没有找到BF时候不都是十几二十年都这么过的嘛？那到底是个什么样的感觉啊，sigh，真的beyond my imagination 啊，估计这就是偶二十好几了还光光的原因啊，唉。
+

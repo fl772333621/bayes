@@ -1,0 +1,37 @@
+Return-Path: <guan@tsinghua.edu.cn>
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id iB9HHev8014258
+	for <ni@ccert.edu.cn>; Fri, 10 Dec 2004 01:17:40 +0800 (CST)
+Received: (eyou send program); Fri, 10 Dec 2004 01:02:25 +0800
+Message-ID: <302611745.19141@mail.tsinghua.edu.cn>
+Received: from unknown (HELO mail.tsinghua.edu.cn) (unknown@127.0.0.1)
+ by 127.0.0.1 with SMTP; Fri, 10 Dec 2004 01:02:25 +0800
+X-scanvirus: By Symantec Scan Engine
+X-scanresult: CLEAN
+Received: (eqmail ); 9 Dec 2004 17:02:24 -0000
+Received: from unknown (HELO sony) (duanhx@166.111.232.135)
+  by localhost with SMTP; 9 Dec 2004 17:02:24 -0000
+Message-ID: <004701c4de12$f876f660$87e86fa6@sony>
+From: "guan" <guan@tsinghua.edu.cn>
+To: ni@ccert.edu.cn
+Cc: <ren@ccert.edu.cn>, <lin@ccert.edu.cn>, <zhan@ccert.edu.cn>,
+        <yan@ccert.edu.cn>
+Subject: =?gb2312?B?UmU6ILK7w/ew186qyrLDtNPQtcTIy9Xiw7TXotbYyfrI1Q==?=
+Date: Fri, 10 Dec 2004 01:17:31 +0800
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2900.2180
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+Content-Transfer-Encoding: 8bit
+X-MIME-Autoconverted: from base64 to 8bit by sea.net.edu.cn id iB9HHev8014258
+X-UIDL: dMZ!!#Ub"!Y#\!!P3d"!
+
+我对生日也很漠视
+: 生日究竟为什么要庆祝，为来到这个世界至于又是花又是礼物的么
+: 有的还是学生，自己也没有赚钱，大多是男方还要给女方买花吃饭，相对学生来说要花不少，人家花的也是父母的钱啊，有的女孩就这么理所应当的多不好啊。如果真的非常看重这些等工作以后再说。两个人之间一句话，一个温馨的眼神，比什么都强啊，只要心里有对方，这不就是我
+: 生日有这么高兴么？如果要庆祝也是应该给自己的妈妈庆祝阿，因为这一天她成为了母亲，当初抱着你的时候她心里多感慨多高兴啊。要过也是应该陪母亲过啊
+: ...................
+

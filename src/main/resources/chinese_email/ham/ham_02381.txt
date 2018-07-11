@@ -1,0 +1,86 @@
+Return-Path: <tang@yahoo.com>
+Received: from tsinghua.org.cn ([210.77.143.228])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id i928ErTG002630
+	for <liao@ccert.edu.cn>; Sat, 2 Oct 2004 16:14:54 +0800
+Received: (eyou send program); Sat, 02 Oct 2004 16:25:14 +0800
+Received: (eyou send program); Sat, 02 Oct 2004 16:25:06 +0800
+X-EYOU-ORIGINAL-IP: 66.163.169.225
+X-EYOU-ENVELOPE-MAILFROM: vinhbd@yahoo.com
+Received: from unknown (HELO smtp105.mail.sc5.yahoo.com) (unknown@66.163.169.225)
+ by 210.77.143.228 with SMTP; Sat, 02 Oct 2004 16:25:06 +0800
+Received: from unknown (HELO bachvinh) (vinhbd@203.210.137.178 with login)
+  by smtp105.mail.sc5.yahoo.com with SMTP; 2 Oct 2004 08:23:42 -0000
+Message-ID: <012401c4a900$623a5260$0100007f@bachvinh>
+From: "tang" <tang@yahoo.com>
+To: liao@ccert.edu.cn
+Cc: "Do Thi Thanh" <cao@ccert.edu.cn>, "Bui Nam Xuan - K36" <you@ccert.edu.cn>,
+        "Dang Anh Phuong" <bi@ccert.edu.cn>,
+        "Dinh Viet Hung" <wen@ccert.edu.cn>, "Do Le Khoa" <zeng@ccert.edu.cn>,
+        "Do Nam Thanh" <yuan@ccert.edu.cn>, "Do Ngoc Minh" <huang@ccert.edu.cn>,
+        "Huu Duc Nguyen" <zhou@ccert.edu.cn>,
+        "K 36" <xiao@ccert.edu.cn>, "Le Hong Ha" <shi@ccert.edu.cn>,
+        "Le Hong Thang" <xiao@ccert.edu.cn>,
+        "Le Thanh Ha" <chen@ccert.edu.cn>,
+        "Le Viet Dung" <gu@ccert.edu.cn>,
+        "Luc Dinh Vinh" <sun@ccert.edu.cn>,
+        "Nguyen Duc Quynh" <wang@ccert.edu.cn>,
+        "Nguyen Nam Hung" <che@ccert.edu.cn>,
+        "Nguyen Nga My" <zhong@ccert.edu.cn>,
+        "Nguyen Quang Anh" <bi@ccert.edu.cn>,
+        "Pham Kim Long" <gu@ccert.edu.cn>,
+        "Pham Van Thuong" <xiao@ccert.edu.cn>,
+        "Pham Viet Thang" <han@ccert.edu.cn>,
+        "Thanh Loan vo Trung Hung" <ye@ccert.edu.cn>,
+        "Tuan Ha" <lian@ccert.edu.cn>,
+        "Nguyen Quang Hoa" <yang@ccert.edu.cn>,
+        "Pham Thi Quynh Huong" <qing@ccert.edu.cn>,
+        "Vu Minh Tuan" <qiu@ccert.edu.cn>,
+        "Vuong Hoai Nam" <lin@ccert.edu.cn>,
+        "Phan Quang Minh" <lu@ccert.edu.cn>,
+        "nguyet nguyen minh" <long@ccert.edu.cn>,
+        "Nguyen Van Dung" <tu@ccert.edu.cn>,
+        "NGUYEN THI HANG" <tian@ccert.edu.cn>,
+        "Nguyen Thi Hang" <mo@ccert.edu.cn>,
+        "Nguyen Ngoc Quynh" <tian@ccert.edu.cn>,
+        "Nguyen Huy Quang" <wang@ccert.edu.cn>,
+        "Nguyen Duc Long" <liao@ccert.edu.cn>,
+        "Mai Thi Thanh" <che@ccert.edu.cn>,
+        "Le Xuan Hung" <han@ccert.edu.cn>,
+        "Le Phuong Thao" <zeng@ccert.edu.cn>,
+        "K42" <qian@ccert.edu.cn>,
+        "Huynh Tuan Anh" <feng@ccert.edu.cn>,
+        "Ha Huong Giang" <tan@ccert.edu.cn>,
+        "Giang beo" <tu@ccert.edu.cn>,
+        "Do Viet Trung" <zhong@ccert.edu.cn>,
+        "Duong Vu Hung" <liao@ccert.edu.cn>,
+        "Duong Hai Duong" <shi@ccert.edu.cn>,
+        "Doan Trung Tung" <chi@ccert.edu.cn>,
+        "Cao Duy Hung - K42" <xiao@ccert.edu.cn>,
+        "Dang Cong Kien" <shi@ccert.edu.cn>,
+        "Dang Cong Kien" <wu@ccert.edu.cn>,
+        "Nguyen Thu Thuy" <lin@ccert.edu.cn>
+Subject: =?gb2312?B?ofEg1tXT2rTtuf3V4tK7yfq1xNCj1LCwrsfpo6i4+LHP0rXJ+sPHo6k=?=
+Date: Sun, 3 Oct 2004 11:02:46 +0700
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="multipart/alternative";
+	boundary="----=_NextPart_000_00E4_01C4A938.867B3260"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 5.00.2615.200
+X-MimeOLE: Produced By Microsoft MimeOLE V5.00.2615.200
+X-UIDL: Bk$#!jV="!ebi"!~DC"!
+
+今晚偶尔去北邮看了一场毕业生晚会，校园里到处弥漫着分离的伤感气氛。
+许多人在歌唱、在拥抱、在默默流泪，就像三年前的自己。然而三年过去了，我依然如此，甚至连感伤和哭泣都变得有些小心翼翼，无法酣畅淋漓。我想我终于错过了这一生的校园爱情。永远无法重来。
+又想起外公的话来。
+外公的耳朵小时候得过病，我每次跟他讲话都生怕他听不清，总是提高嗓门，很认真地看着他的每一个表情。
+他个子不高，皮肤黝黑黑的，以前是个老干部却一直平和而沉默。在一家人说笑的时候，总是笑眯眯地看着我们，还略微带点孩子般的羞涩。
+这次五一回去，临走的时候，突然听到外公轻轻对我说：你也该找个男朋友了，一个人在北京可以帮帮你啊。
+他说得如此轻幽幽，害我居然以为自己产生了幻听。急忙抬头，见他有些无奈的表情，冲我抬了抬下巴。我的眼泪就这样毫无预警地涌出来，突然间意识到，他真的已经是个老人了。心里酸涩得难受，仿佛所有曾经的委屈和艰难都在心里一一复苏。
+以后的日子里，常常会不期然想起外公的话，它比妈妈的催促、朋友的担心更让我刻骨地意识到自己的孤单。
+那天一大早赶去四惠东参加一个面试，走进人头攒动的地铁，外公的话又一次跳出来，让我湿了眼眶。挤在一堆匆忙赶路的人中间，谁也不会在此刻注意我的表情，却依然拼命命令自己：不许哭，千万不能哭！
+好多年，我总是以一种坚强而微笑的姿态站立着，却说不清自己在坚持些什么，心里早已溃不成军。地铁就快要成为我的一个劫难，每次走如其中，窒息、茫然、飘摇、孤单的感觉比平时更加十倍。
+那些陌生而漠然的脸中间，有没有我想要厮守的人？我是如此软弱，渴慕灵的充满，又期待一个身体温暖而真实的触感。我是如此焦急，生怕那些最美丽的时光无法和他分享度过，白白流去。也许是上帝要给我的那个人实在太好了，他舍不得，怕我不懂珍惜。于是，我一直很努力地长大、蜕变，好让自己能在幸福来临的时候，一把抓住。可是幸福究竟何时出现，又岂是我能努力预料？
+一颗日渐苍老的心和不死的躯壳。
+

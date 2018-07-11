@@ -1,0 +1,88 @@
+Return-Path: <yu@tsinghua.org.cn>
+Received: from tsinghua.org.cn ([210.77.143.232])
+	by home.ccert.edu.cn (MIMEDefang) with ESMTP id NOQUEUE
+	for <kong@ccert.edu.cn>; Mon, 20 Jun 2005 12:01:13 +0800 (CST)
+Received: (eyou send program); Mon, 20 Jun 2005 12:18:21 +0800
+Message-ID: <319241101.23690@tsinghua.org.cn>
+X-EYOU-AUTOFORWARD: tsinghua.org.cn
+Received: (eyou send program); Mon, 20 Jun 2005 12:12:58 +0800
+Message-ID: <319240778.22445@tsinghua.org.cn>
+Received: from unknown (HELO eyou.net) (210.77.143.235)
+ by 210.77.143.232 with SMTP; Mon, 20 Jun 2005 12:12:58 +0800
+X-EYOU-SPAMVALUE: 0
+From: yu@tsinghua.org.cn
+To: kong@ccert.edu.cn
+Subject: =?gb2312?B?0trTyre0wKy7+NPKvP7N+LnYIM2o1qrQxQ==?=
+Date: Mon Jun 20 12:00:39 2005
+X-EYOU-SPAMVALUE: 5
+X-mailer: eyou anti_spam 3.5 [cn]
+Mime-Version: 1.0
+Content-Type: multipart/related;
+	boundary="=====002_EYOU0123456789_=====";
+	type="multipart/alternative"
+
+
+尊敬的chenguangying@tsinghua.org.cn用户：	
+	您好，这是反垃圾邮件网关自动发送给您的通知邮件,
+    您有邮件被反垃圾邮件网关拦截,具体信息请选择使用html方式查看.
+    反垃圾邮件网关将会为您保存被拦截邮件30天,请您及时处理您的被拦
+    截邮件.
+    	谢谢您得合作!
+				       亿邮反垃圾邮件网关 
+				       2005.06.20 12:00:39
+				       
+				       
+点击此处登录网关:http://210.77.143.235/php/user/user_login.php?user_id=chenguangying@tsinghua.org.cn&timestamp=1119240039&authid=6dee024ac591e8729c49d578c259406b
+
+
+
+
+ 亿邮反垃圾邮件网关 通知信
+
+
+尊敬的chenguangying@tsinghua.org.cn用户：
+ 
+    您好,这是反垃圾邮件网关自动发送给您的通知邮件,您有下列邮件被反垃圾邮件网关过滤.您可以直接点击标题链接,
+打开这封邮件,并且决定这封邮件是被删除还是继续投递.反垃圾邮件网关将会为您保存被拦截邮件30天.请您及时处理您的被
+拦截邮件.
+点击此处登录网关:亿邮反垃圾邮件网关
+
+
+序号 
+时间
+发信人
+收信人
+标题
+删除 
+投递 
+白名单 
+
+ 1
+ 2005.06.20 11:08:05
+ info@mail.specialsuperservice.com
+ chenguangying@tsinghua.org.cn
+  无主题
+
+
+
+
+共拦截邮件:1 封   
+
+
+    感谢您的合作!
+
+                
+                
+                
+                
+亿邮反垃圾邮件网关
+                
+                
+                
+                
+2005.06.20 12:00:39	
+
+Copyright&copy;(2005- ) eYou
+
+
+

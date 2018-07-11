@@ -1,0 +1,77 @@
+Return-Path: <hong@ns.6test.edu.cn>
+Received: from tsinghua.org.cn ([210.77.143.228])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id i9Q3945v004849
+	for <zhu@ccert.edu.cn>; Tue, 26 Oct 2004 11:09:16 +0800
+Received: (eyou send program); Tue, 26 Oct 2004 10:51:54 +0800
+Received: (eyou send program); Tue, 26 Oct 2004 09:35:47 +0800
+X-EYOU-ORIGINAL-IP: 202.38.99.65
+X-EYOU-ENVELOPE-MAILFROM: toefl-bounces@server.cool-meeting.com
+Received: from unknown (HELO server.cool-meeting.com) (unknown@202.38.99.65)
+ by 210.77.143.228 with SMTP; Tue, 26 Oct 2004 09:35:47 +0800
+Received: from server.cool-meeting.com (localhost.localdomain [127.0.0.1])
+	by server.cool-meeting.com (8.12.8/8.12.8) with ESMTP id i9Q1VflZ005210
+	for <zhu@ccert.edu.cn>; Tue, 26 Oct 2004 09:32:01 +0800
+Received: from ns.6test.edu.cn ([202.38.99.18])
+	by server.cool-meeting.com (8.12.8/8.12.8) with ESMTP id i9Q1VZkr005206
+	for <zhu@ccert.edu.cn>; Tue, 26 Oct 2004 09:31:35 +0800
+Received: from [210.25.128.109] (helo=tsinghua89o1rm)
+	by ns.6test.edu.cn with asmtp (Exim 4.12) id 1CMGKI-000Nb2-00
+	for Toefl@server.cool-meeting.com; Tue, 26 Oct 2004 09:40:42 +0800
+Message-ID: <000a01c4bafa$2c7e46c0$6d8019d2@tsinghua89o1rm>
+From: "hong" <hong@ns.6test.edu.cn>
+To: zhu@ccert.edu.cn
+Date: Tue, 26 Oct 2004 09:21:22 +0800
+MIME-Version: 1.0
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2600.0000
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2600.0000
+Cc: 
+Subject: =?gb2312?B?ofEgob7V0Ma4ob/P7sS/vq3A7bywuaSzzMqm?=
+X-BeenThere: toefl@server.cool-meeting.com
+X-Mailman-Version: 2.1.2
+Precedence: list
+List-Id: &#26446;&#26143;&#21644;&#20182;&#30340;&#23398;&#29983;&#20204;
+	<toefl.server.cool-meeting.com>
+List-Unsubscribe: <http://server.cool-meeting.com/mailman/listinfo/toefl>,
+	<mailto:toefl-request@server.cool-meeting.com?subject=unsubscribe>
+List-Archive: <http://server.cool-meeting.com/mailman/private/toefl>
+List-Post: <mailto:toefl@server.cool-meeting.com>
+List-Help: <mailto:toefl-request@server.cool-meeting.com?subject=help>
+List-Subscribe: <http://server.cool-meeting.com/mailman/listinfo/toefl>,
+	<mailto:toefl-request@server.cool-meeting.com?subject=subscribe>
+Content-Type: multipart/mixed; boundary="===============72366002788021455=="
+Sender: toefl-bounces@server.cool-meeting.com
+Errors-To: toefl-bounces@server.cool-meeting.com
+X-UIDL: iJQ!!Yn9!!Sb$#!::/"!
+Status: RO
+
+1. 项目经理
+基本要求:
+对Microsoft.Net面向对象编程设计有2～3年设计的经验
+具有基本的关系数据库特别是Microsoft SQL数据库语言的开发经验
+有大中型商业应用系统开发经验者优先
+熟悉多层体系架构
+了解UML流程
+熟练使用VB或 .Net语言进行前后台和中间层编程
+了解Web应用尤其是网络服务(web Services) 应用
+了解财务应用软件如会计做帐或财务应收款系统的人优先
+工作职责：
+理解软件体系架构
+理解系统需求和功能
+迅速领带团队进入角色
+领导程序员在.Net的环境中进行前后台及中间层开发和技术支持
+2. 高级DBA开发工程师
+基本要求：
+熟练使用SQL语言编程
+能建立并配置维护SQL Server服务器
+具有Microsoft SQL数据库性能优化经验者优先
+工作职责：
+创建并维护应用数据库
+用SQL进行前后台、中间件开发工作
+高级存储过程的编程开发
+以上薪酬待遇： 
+按照市场情况和本人的条件面议决定，包括基本薪金，法定福利待遇和公司特定的福利，销售佣金和部分公司的股权。有意应聘者请将个人简历 E-mail 至本公司 hr@sightna.com   tzhang@sightna.com
+公司信息请访问网站  www.sightna.com
+(代发文，勿回本站信箱)
+

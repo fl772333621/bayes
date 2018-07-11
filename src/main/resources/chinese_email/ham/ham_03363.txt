@@ -1,0 +1,33 @@
+Return-Path: <xu@cernet.edu.cn>
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id i8KFt1Tk006800
+	for <lu@ccert.edu.cn>; Mon, 20 Sep 2004 23:55:01 +0800 (CST)
+Received: (eyou send program); Mon, 20 Sep 2004 23:40:55 +0800
+Message-ID: <295694855.28061@mail.tsinghua.edu.cn>
+Received: from unknown (HELO mail.tsinghua.edu.cn) (unknown@127.0.0.1)
+ by 127.0.0.1 with SMTP; Mon, 20 Sep 2004 23:40:55 +0800
+X-scanvirus: By Symantec Scan Engine
+X-scanresult: CLEAN
+Received: (eqmail ); 20 Sep 2004 15:40:53 -0000
+Received: from unknown (HELO huhoo) (duanhx@166.111.232.230)
+  by localhost with SMTP; 20 Sep 2004 15:40:53 -0000
+From: "xu" <xu@cernet.edu.cn>
+To: lu@ccert.edu.cn
+Subject: =?gb2312?B?UmU6IL3hu+nJ+rqi19MgyMPO0tG50tYgyMPO0s20v+A=?=
+Date: Mon, 20 Sep 2004 23:52:23 +0800
+Message-ID: <013b01c49f29$d26d23e0$033270ca@huhoo>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_013C_01C49F6C.E09063E0"
+X-Priority: 3 (Normal)
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook, Build 10.0.2627
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1441
+Importance: Normal
+In-Reply-To: <002e01c49f21$7b5260f0$3903510a@CCERTDAWEI>
+X-UIDL: n;G!!;QT"!N$h"!n*=!!
+
+先登个记，生孩子再说啦
+: 和女朋友相处快一年了，感觉好累，她现在闹的厉害，或许快到尽头了，她在闹着结婚生孩子，而我们现在，的确没这个能力去做这些事情，我今年研究生毕业，现在还没开始拿薪水，而她现在在一家小公司打工，一月1000多块钱，她现在嚷着结婚生孩子，我感到好烦。
+: 如果论年龄，我们的确可以结婚了，我今年28岁，她27岁，可是我们现在的状况那有这些条件，我们现在没有房子，连最起码的保障都没有，怎么去做这些事情。更重要的一点是：她现在在的小公司随时都有倒闭的可能，而她自己，虽然学习过大学课程，但现在国家承认的的学历只有
+

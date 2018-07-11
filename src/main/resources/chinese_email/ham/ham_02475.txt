@@ -1,0 +1,28 @@
+Return-Path: <bi@rbl.ccert.edu.cn>
+Received: from rbl.ccert.edu.cn (rbl.ccert.edu.cn [202.112.57.71])
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id i8U51qVv021217
+	for <mei@ccert.edu.cn>; Thu, 30 Sep 2004 13:01:52 +0800 (CST)
+Received: from rbl.ccert.edu.cn (localhost.localdomain [127.0.0.1])
+	by rbl.ccert.edu.cn (8.12.11/8.12.11) with ESMTP id i8U57Rr3002505
+	for <mei@ccert.edu.cn>; Thu, 30 Sep 2004 13:07:27 +0800
+Received: (from qa@localhost)
+	by rbl.ccert.edu.cn (8.12.11/8.12.11/Submit) id i8U57RhK002504;
+	Thu, 30 Sep 2004 13:07:27 +0800
+Date: Thu, 30 Sep 2004 13:07:27 +0800
+Message-Id: <200409300507.i8U57RhK002504@rbl.ccert.edu.cn>
+Subject: =?gb2312?B?UmU6ILnY09rNy9GnzsrM4g==?=
+To: mei@ccert.edu.cn
+From: Tran Quang Anh <bi@cernet.edu.cn>
+Content-Type: multipart/mixed; boundary="----------=_1096520847-996-242"
+MIME-Version: 1.0
+X-UIDL: ?n:!!3Nf"!7o$#!CXg!!
+
+嗯，原来对导师很敬仰，后来觉得他现在整天就想着怎么啦项目赚钱
+用学生做廉价劳动力，对我们的指导可以说0.1%，我认识的人大部分都在自己导自己
+其实还有一个原因，多少博导是一个合格的导师，付出了时间，你学到了什么
+我想80%的博士生就是廉价劳动力，从文章，到论文都是自己一个人闭门造车，老板还要挂名，投入和产出太少，这是退学的关键之处，如果像老美那样，出来一个博士就是学科专家，博士还是很有吸引力的。
+国内博士生大部分就是混个文凭，但文凭也就那么回事，社会不再承认了而已
+呵呵，自家之言
+: 事实就是这个样子
+: 因为没有钱而不读的人实在太少了……
+

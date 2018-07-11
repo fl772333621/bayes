@@ -1,0 +1,165 @@
+Return-Path: <tang@sesfocus.com>
+Received: from sesfocus.com ([202.160.253.10])
+	by home.ccert.edu.cn (MIMEDefang) with ESMTP id NOQUEUE
+	for <guo@ccert.edu.cn>; Mon, 20 Jun 2005 18:43:01 +0800 (CST)
+Received: from sesfocus.com (sesfocus.com [202.160.253.10])
+	by sesfocus.com (8.12.11/8.12.11) with ESMTP id j5KB4Ttl021491
+	for <guo@ccert.edu.cn>; Mon, 20 Jun 2005 19:05:46 +0800
+Message-Id: <200506201105.j5KB4Ttl021491@sesfocus.com>
+Date: Mon, 20 Jun 2005 19:05:46 +0800
+From: Sun Microsystems <tang@sesfocus.com>
+Subject: =?gb2312?B?ss6809bQzsSw5iBTdW4gTmV0IFRhbGsg1NrP37XjsqU=?=
+To: guo@ccert.edu.cn
+Sender: Sun Microsystems <admin_cn@sesfocus.com>
+Reply-To: Sun Microsystems <tang@sesfocus.com>
+Precedence: list
+Content-type: text/html; charset=gb2312
+MIME-Version: 1.0
+Errors-To: usercn@sesfocus.com
+Content-Disposition: inline
+
+
+
+
+Sun Net Talk 在线点播 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+您接收此电子邮件的邮箱是weike@ccert.edu.cn。如要更新您的通信选项，请参阅本条消息底部的网站链接。我们尊重您的个人隐私并将我们的个人隐私保护政策显著地刊登于下附的网页上： http://www.sun.com/privacy
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Sun 集群软件：更加开放、更易管理，依然坚若磐石
+
+
+
+
+
+
+
+
+
+
+Net Talk 演讲者
+
+
+
+Jim Sangster可用性产品部，市场总监
+
+
+Keith White高级工程经理
+
+
+Chitra Badrinath可用性产品部，部门市场经理
+
+
+
+
+Net Talk 演讲议程
+ 
+&#149;什么重要呢？可用性排第一
+&#149;提供选择：存储、平台和软件
+&#149;降低成本和复杂性
+&#149;SunPlex管理器工演示
+&#149;下一步
+
+
+立即观看...
+
+
+
+
+
+
+
+
+
+有关高可用性
+
+
+
+
+
+
+
+
+
+
+Sun集群软件：更加开放、更易管理、依然坚若磐石
+
+
+
+
+最尊敬的客户：
+
+
+您和您的客户都需要高可用性。但您并不需要伴随而来的复杂管理工具及受限制的系统支持。我们有好消息告诉您，最新版的Sun集群软件会带给您更多选择、更简化的管理，而且依然坚若磐石。请选择观看此次Sun Net Talk 在线点播论坛节目的现场演示。所有访问者都会收到一份赠阅的 D.H. Brown分析报告、一份崭新的Sun可用性白皮书以及一个允许开发人员下载Sun集群软件的网址。
+
+如果您有任何疑问或反馈，请发送电子邮件至ecustomer@sun.com.
+
+谢谢，
+Sun Microsystems
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+(c) 2005 Sun Microsystems, Inc. All rights reserved. 有关Sun公司商标信息请查看:http://www.sun.com/suntrademarks。如要更新您的订阅选项，或取消订阅Sun电子新闻服务，请点墼以下链接：http://see.sun.com/Apps/DCS/mcp?q=STmW0jTFSwtVnm
+
+
+
+
+

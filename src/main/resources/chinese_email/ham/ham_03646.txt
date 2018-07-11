@@ -1,0 +1,37 @@
+Return-Path: <rao@home.ccert.edu.cn>
+Received: from home.ccert.edu.cn (localhost [127.0.0.1])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id iBF2imkD017253;
+	Wed, 15 Dec 2004 10:44:48 +0800
+Received: (from majordomo@localhost)
+	by home.ccert.edu.cn (8.13.1/8.13.1/Submit) id iBF2imql017252;
+	Wed, 15 Dec 2004 10:44:48 +0800
+X-Authentication-Warning: home.ccert.edu.cn: majordomo set sender to owner-ccertstaff using -f
+Received: from ns.6test.edu.cn (ns.6test.edu.cn [202.112.54.2])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id iBF2ilNs017248
+	for <xue@ccert.edu.cn>; Wed, 15 Dec 2004 10:44:48 +0800
+Received: from tu203047.tsinghua.edu.cn ([166.111.203.47] helo=wanglanjia)
+	by ns.6test.edu.cn with asmtp (Exim 4.12)
+	id 1CePlo-000BA7-00
+	for ccertstaff@ccert.edu.cn; Wed, 15 Dec 2004 11:24:08 +0800
+Message-ID: <00cb01c4e251$f7142f20$2fcb6fa6@wanglanjia>
+From: "rao" <rao@ns.6test.edu.cn>
+To: xue@ccert.edu.cn
+Subject: =?gb2312?B?UmU6IMWuuqLTprjDzbXNtdaqtcDSu9CpysKjqNeqzPujqQ==?=
+Date: Wed, 15 Dec 2004 10:58:32 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_00C8_01C4E295.049ED8A0"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2800.1437
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1441
+Sender: owner-ccertstaff@home.ccert.edu.cn
+Precedence: bulk
+X-UIDL: ~^@"!![?"!#Ol"!7e0!!
+
+谁能做到...
+: 刚刚在另外一个BBS上看到的，觉得写得很好，呵呵，和大家共享~~这些我觉得大部分对男生也很适用~~~
+: 1、 当你爱上了那个追你的男生，一定要记得，不要让他在你的门口等上太久，因为任何人的耐心都是有限的，不要以为他喜欢你就可以毫无怨言的为你白白浪费几个小时的等待时间；
+: 　　　　2、 如果你不爱他，那么请早点告诉他，不要让他再为你耗费自己的青春，感情还有金钱，更不要把他的追求当成是自己炫耀的资本，被人玩弄的感觉就像吞了一只苍蝇那样恶心，亲爱的，为了保持你的形象，请你早点拒绝他；
+: ...................
+

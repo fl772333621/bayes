@@ -1,0 +1,37 @@
+Return-Path: <wen@home.ccert.edu.cn>
+Received: from home.ccert.edu.cn (localhost [127.0.0.1])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id i8M3CwYL018917;
+	Wed, 22 Sep 2004 11:12:58 +0800
+Received: (from majordomo@localhost)
+	by home.ccert.edu.cn (8.13.1/8.13.1/Submit) id i8M3CwNu018916;
+	Wed, 22 Sep 2004 11:12:58 +0800
+X-Authentication-Warning: home.ccert.edu.cn: majordomo set sender to owner-ccertstaff using -f
+Received: from ccertspark (puma.ccert.edu.cn [202.112.50.50])
+	(authenticated bits=0)
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id i8M3AW5w018861;
+	Wed, 22 Sep 2004 11:10:32 +0800
+From: "wen" <wen@ccert.edu.cn>
+To: ni@ccert.edu.cn
+Cc: <weng@ccert.edu.cn>
+Subject: =?gb2312?B?UmU6IMTjw8e+9bXDztLV4tH5usPC8KO/uPi149LivPs=?=
+Date: Wed, 22 Sep 2004 11:23:56 +0800
+Message-ID: <000a01c4a053$988c2e70$323270ca@ccertspark>
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="----=_NextPart_000_000B_01C4A096.A6AF6E70"
+X-Priority: 3 (Normal)
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook, Build 10.0.6626
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.3790.181
+Importance: Normal
+Sender: owner-ccertstaff@home.ccert.edu.cn
+Precedence: bulk
+X-UIDL: FDd!!''g!!Ua("!*n3!!
+
+这个自由职业者，也可以交养老保险和医疗保险的啊
+在户口所在地办，好象是半年交一次~
+多保多得的~
+其次再考虑商业保险
+: 我自己买商业保险不行吗？其实我觉得一般的头疼脑热就自己买点药行了，真的大病，商业保险也会陪的。而且我想，现在的养老保险真的几十年以后能到手的钱也只是维持你饿不死罢了，你要想过的好，维持现在的状态 ，也要靠年青的时候多存点钱。
+: 哎。觉得这样说好象在给自己找借口一样。不出去工作的借口。
+

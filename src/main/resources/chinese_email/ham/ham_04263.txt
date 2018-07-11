@@ -1,0 +1,25 @@
+Return-Path: <xin@rbl.ccert.edu.cn>
+Received: from rbl.ccert.edu.cn (rbl.ccert.edu.cn [202.112.57.71])
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id i96F10Sk005821
+	for <yun@ccert.edu.cn>; Wed, 6 Oct 2004 23:01:00 +0800 (CST)
+Received: from rbl.ccert.edu.cn (localhost.localdomain [127.0.0.1])
+	by rbl.ccert.edu.cn (8.12.11/8.12.11) with ESMTP id i96F6tw7006071
+	for <yun@ccert.edu.cn>; Wed, 6 Oct 2004 23:06:56 +0800
+Received: (from qa@localhost)
+	by rbl.ccert.edu.cn (8.12.11/8.12.11/Submit) id i96F6tgw006070;
+	Wed, 6 Oct 2004 23:06:55 +0800
+Date: Wed, 6 Oct 2004 23:06:55 +0800
+Message-Id: <200410061506.i96F6tgw006070@rbl.ccert.edu.cn>
+Subject: =?gb2312?B?UmU6INXkz6ejv8Slus+jv7fFxvqjvw==?=
+To: yun@ccert.edu.cn
+From: Tran Quang Anh <xin@cernet.edu.cn>
+Content-Type: multipart/mixed; boundary="----------=_1097075216-996-688"
+MIME-Version: 1.0
+X-UIDL: 6XF"!F(,!!5QF"!L_(#!
+
+如果你离开他，告诉他为什么，他得到教训，学会了，那么受益的是他的下一个mm，你想想看，是不是你该多跟他交流，或者你对他更好，看他什么反应了，爱是相互的。
+:     去年体检时发现身体有些问题，因为平时杂事多，而且内心害怕进一步检查后会发现更严重的问题，一直就没有去看。他也只是口头说过两回，实际并不主动安排陪我去看；
+:     跟他同学一起吃饭，别人总会很照顾女朋友，比如夹菜什么的，他很少这么做，是因为他常常会忘掉这回事；他是独子，没有照顾别人的习惯；
+:     情人节不送礼物，也不安排什么活动（因为经济比较紧张），可我觉得应该有个过节的样子，两个人在一起，应该找乐子，哪怕只是一个小活动，他没有这种小情调；
+: ...................
+

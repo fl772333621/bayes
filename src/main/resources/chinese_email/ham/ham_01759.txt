@@ -1,0 +1,36 @@
+Return-Path: <hong@tsinghua.edu.cn>
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id iAT6hDrC016089
+	for <hua@ccert.edu.cn>; Mon, 29 Nov 2004 14:43:13 +0800 (CST)
+Received: (eyou send program); Mon, 29 Nov 2004 14:28:06 +0800
+Message-ID: <301709686.20347@mail.tsinghua.edu.cn>
+Received: from unknown (HELO mail.tsinghua.edu.cn) (unknown@127.0.0.1)
+ by 127.0.0.1 with SMTP; Mon, 29 Nov 2004 14:28:06 +0800
+X-scanvirus: By Symantec Scan Engine
+X-scanresult: CLEAN
+Received: (eqmail ); 29 Nov 2004 06:28:04 -0000
+Received: from unknown (HELO sony) (duanhx@166.111.204.117)
+  by localhost with SMTP; 29 Nov 2004 06:28:04 -0000
+Message-ID: <00cc01c4d5de$ac6431c0$75cc6fa6@sony>
+From: "hong" <hong@tsinghua.edu.cn>
+To: hua@ccert.edu.cn
+Subject: =?gb2312?B?UmU6ILGnvfTO0rHw198=?=
+Date: Mon, 29 Nov 2004 14:43:01 +0800
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2900.2180
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+Content-Transfer-Encoding: 8bit
+X-MIME-Autoconverted: from base64 to 8bit by sea.net.edu.cn id iAT6hDrC016089
+X-UIDL: 0Rc!!@30"!T8^!!;l#!!
+
+感动！所有的人都能够好好的爱自己的父母！
+祝福
+:       陈琳的《抱紧我别走》，听一次哭一次，听一百次流一百次泪。这首歌是陈琳献给因癌症去世的父亲的。曲子是韩国作曲家的作品，陈琳亲自填词。刚开始看歌名还以为是有关风月的主题，听了几遍才开始理解。
+:       翻来覆去的听这首歌，不自觉地想起好多关于爸爸的往事。
+:       “每当窗外吹过一丝丝的微风，我就感觉到你在我身边清唱”。我并没有一个会唱歌很浪漫很慈爱的父亲，但是我相信我有一个很朴实的默默的在心里爱护自己子女的父亲。从小到大，我受到老师褒奖并且被拿来做范文朗读的文章，无一例外，全都是关于父亲的主题。
+: ...................
+

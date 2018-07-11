@@ -1,0 +1,30 @@
+Return-Path: <xia@rbl.ccert.edu.cn>
+Received: from rbl.ccert.edu.cn (rbl.ccert.edu.cn [202.112.57.71])
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id i96Axg62003322
+	for <zheng@ccert.edu.cn>; Wed, 6 Oct 2004 18:59:42 +0800 (CST)
+Received: from rbl.ccert.edu.cn (localhost.localdomain [127.0.0.1])
+	by rbl.ccert.edu.cn (8.12.11/8.12.11) with ESMTP id i96B5cNK016685
+	for <zheng@ccert.edu.cn>; Wed, 6 Oct 2004 19:05:38 +0800
+Received: (from qa@localhost)
+	by rbl.ccert.edu.cn (8.12.11/8.12.11/Submit) id i96B5cPg016684;
+	Wed, 6 Oct 2004 19:05:38 +0800
+Date: Wed, 6 Oct 2004 19:05:38 +0800
+Message-Id: <200410061105.i96B5cPg016684@rbl.ccert.edu.cn>
+Subject: =?gb2312?B?ofEgwffDvczluavLvrPPxrjI7bz+uaSzzMqm?=
+To: zheng@ccert.edu.cn
+From: Tran Quang Anh <xia@cernet.edu.cn>
+Content-Type: multipart/mixed; boundary="----------=_1097060738-996-592"
+MIME-Version: 1.0
+X-UIDL: EGE"!E#-"!;'>!!_]g!!
+
+我公司（http://www.seacomes.com）是一家专业从事流媒体运营平台架构的公司，诚邀加盟！
+要求具备以下技能的一项或多项：
+1、    精通C/C++编程；
+2、    精通Java编程；
+3、    精通Jsp/Servlet或asp.net编程，有大型动态网站开发经验优先，有网站美工设计才能优先；
+4、    熟悉数据库编程,熟悉oracle，sql server等；
+5、 有com，Directshow开发经验；
+6、 有嵌入式linux开发经验；
+7、 有多媒体播放器开发经验和机顶盒开发经验优先。
+E-mail：job@seacomes.com
+

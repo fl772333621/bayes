@@ -1,0 +1,47 @@
+Return-Path: <lei@home.ccert.edu.cn>
+Received: from home.ccert.edu.cn (localhost [127.0.0.1])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id j0J8Fihx015969;
+	Wed, 19 Jan 2005 16:15:44 +0800
+Received: (from majordomo@localhost)
+	by home.ccert.edu.cn (8.13.1/8.13.1/Submit) id j0J8Fi2s015968;
+	Wed, 19 Jan 2005 16:15:44 +0800
+X-Authentication-Warning: home.ccert.edu.cn: majordomo set sender to owner-ccertstaff using -f
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with SMTP id j0J8FhFt015951
+	for <wei@ccert.edu.cn>; Wed, 19 Jan 2005 16:15:44 +0800
+Received: (eyou send program); Wed, 19 Jan 2005 16:11:25 +0800
+Message-ID: <306122285.08096@mail.tsinghua.edu.cn>
+Received: from unknown (HELO mail.tsinghua.edu.cn) (unknown@127.0.0.1)
+ by 127.0.0.1 with SMTP; Wed, 19 Jan 2005 16:11:25 +0800
+X-scanvirus: By Symantec Scan Engine
+X-scanresult: CLEAN
+Received: (eqmail ); 19 Jan 2005 08:11:23 -0000
+Received: from unknown (HELO sony) (duanhx@202.112.35.253)
+  by localhost with SMTP; 19 Jan 2005 08:11:23 -0000
+Message-ID: <026601c4fe00$adcbb480$0301a8c0@sony>
+From: "lei" <lei@tsinghua.edu.cn>
+To: wei@ccert.edu.cn
+Subject: =?gb2312?B?UmU6ILfdzNjV4sTqzbejrL72tqi84b72z+zTpqGw1rvJ+tK7uPahsbXEzrC087rF1dkh?=
+Date: Wed, 19 Jan 2005 16:27:12 +0800
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="----=_NextPart_000_0262_01C4FE43.BB178040"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2800.1106
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1106
+Sender: owner-ccertstaff@home.ccert.edu.cn
+Precedence: bulk
+X-UIDL: :Z>"!f:j!!@T;!!d6S"!
+
+我也觉得我们这代人压力才是最大的
+要买车买房
+父母没有公费医疗，需要自己掏钱
+有可能失业
+子女教育也贵……总之我们父母辈是很幸福的，他们年轻时候看病几乎都不要钱
+我们一个邻居当时去上海看病，上海人说，农村来的，条件苦，能少收的药费就少收，吃什么的都给照顾
+: 不是把...
+: 我看我爸妈一辈子活得挺轻闲得》。。
+: 每天能骑车上班，不用挤公车地铁
+: ...................
+

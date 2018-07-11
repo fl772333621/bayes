@@ -1,0 +1,38 @@
+Return-Path: <xia@rbl.ccert.edu.cn>
+Received: from rbl.ccert.edu.cn (rbl.ccert.edu.cn [202.112.57.71])
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id i9B3Fx2g027856
+	for <ke@ccert.edu.cn>; Mon, 11 Oct 2004 11:15:59 +0800 (CST)
+Received: from rbl.ccert.edu.cn (localhost.localdomain [127.0.0.1])
+	by rbl.ccert.edu.cn (8.12.11/8.12.11) with ESMTP id i9B3LLEA014688
+	for <ke@ccert.edu.cn>; Mon, 11 Oct 2004 11:21:22 +0800
+Received: (from qa@localhost)
+	by rbl.ccert.edu.cn (8.12.11/8.12.11/Submit) id i9B3LLD7014687;
+	Mon, 11 Oct 2004 11:21:21 +0800
+Date: Mon, 11 Oct 2004 11:21:21 +0800
+Message-Id: <200410110321.i9B3LLD7014687@rbl.ccert.edu.cn>
+Subject: =?gb2312?B?UmU6IM7S06a4w8iltbHD2Mrpu7nKx7Wxs8zQ8tSx?=
+To: ke@ccert.edu.cn
+From: Tran Quang Anh <xia@cernet.edu.cn>
+Content-Type: multipart/mixed; boundary="----------=_1097464882-1014-86"
+MIME-Version: 1.0
+X-UIDL: 7'##!OFd!!@L>"!clQ!!
+
+咱们当然说的是内里的东西咯
+: 标  题: Re: 我应该去当秘书还是当程序员
+: 发信站: 水木社区 (Sat Jun 11 02:04:42 2005), 站内
+: 
+: 不少了，我说的都是表面呀，内里什么样有是一回事了
+: : 你对官场了解的不够多
+: 
+: 
+: --
+: 最近看过的电影
+: Stage Beauty             舞台美人    7.5/10
+: Head-On                  勇往直前    7.5/10
+: Les Choristes          放牛班的春天   8+/10
+: The Phantom of the Opera 歌剧魅影    8.5/10
+: A Letter From An Unknown Woman 一个陌生女人的来信 7.5/10
+: 
+: 
+: ※ 来源:·水木社区 newsmth.net·[FROM: 202.205.10.*]
+

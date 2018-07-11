@@ -1,0 +1,67 @@
+Return-Path: <wen@ccert.edu.cn>
+Received: from tsinghua.org.cn ([210.77.143.228])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id i9B7woTI014958
+	for <guo@ccert.edu.cn>; Mon, 11 Oct 2004 15:58:52 +0800
+Received: (eyou send program); Mon, 11 Oct 2004 16:09:33 +0800
+Received: (eyou send program); Mon, 11 Oct 2004 16:09:31 +0800
+X-EYOU-ORIGINAL-IP: 166.111.8.16
+X-EYOU-ENVELOPE-MAILFROM: weike@ccert.edu.cn
+Received: from unknown (HELO mails.tsinghua.edu.cn) (unknown@166.111.8.16)
+ by 210.77.143.228 with SMTP; Mon, 11 Oct 2004 16:09:31 +0800
+Received: (eyou send program); Mon, 11 Oct 2004 16:03:25 +0800
+Message-ID: <297481804.23739@mails.tsinghua.edu.cn>
+Received: (eyou send program); Mon, 11 Oct 2004 16:03:24 +0800
+Message-ID: <297481803.07032@mails.tsinghua.edu.cn>
+Received: from unknown (HELO mails.tsinghua.edu.cn) (unknown@127.0.0.1)
+ by 127.0.0.1 with SMTP; Mon, 11 Oct 2004 16:03:24 +0800
+X-scanvirus: By Symantec Scan Engine
+X-scanresult: CLEAN
+Received: (eqmail ); 11 Oct 2004 08:03:21 -0000
+Received: from ccert.edu.cn (HELO home.ccert.edu.cn) (202.112.57.12)
+  by mails.tsinghua.edu.cn with SMTP; 11 Oct 2004 08:03:21 -0000
+Received: from home.ccert.edu.cn (localhost [127.0.0.1])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id i9B7v7Gg014921;
+	Mon, 11 Oct 2004 15:57:07 +0800
+Received: (from majordomo@localhost)
+	by home.ccert.edu.cn (8.13.1/8.13.1/Submit) id i9B7v7f1014920;
+	Mon, 11 Oct 2004 15:57:07 +0800
+X-Authentication-Warning: home.ccert.edu.cn: majordomo set sender to owner-ccertstaff using -f
+Received: from power001 ([202.112.50.103])
+	(authenticated bits=0)
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id i9B7v5wS014916
+	for <guo@ccert.edu.cn>; Mon, 11 Oct 2004 15:57:06 +0800
+Message-ID: <00e001c4af69$6d7cd160$673270ca@Power001>
+From: "wen" <wen@ccert.edu.cn>
+To: guo@ccert.edu.cn
+Subject: =?gb2312?B?UmU6ILTzxaPAtL+0v7Sjury4uPbD5srUtcTOyszi1PXDtLTwtcS6w6O/?=
+Date: Mon, 11 Oct 2004 16:07:59 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_00DD_01C4AFAC.7A885FD0"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.3790.181
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.3790.181
+Sender: owner-ccertstaff@home.ccert.edu.cn
+Precedence: bulk
+X-UIDL: (Uh!!eN$"!(m="!Gl3!!
+
+太憨厚了
+被人起伏 ...
+: 标  题: Re: 大牛来看看：几个面试的问题怎么答的好？
+: 发信站: 水木社区 (Thu Jun 16 11:37:36 2005), 站内
+: 
+: 
+: 这个面试的人我都怀疑有点弱智...
+: 连伪装都不会.心里想的和口里说的当然应该不一致才行
+: 太憨厚了...东北人吧...
+: 
+: : 首先，借清华的名头给自己贴金
+: : 然后，对形势认识不足，一味以为外企都是冤大头
+: : 其次，自作聪明，表现自己的方式令人反感
+: : ...................
+: 
+: --
+: 
+: ※ 来源:·水木社区 newsmth.net·[FROM: 155.69.162.*]
+

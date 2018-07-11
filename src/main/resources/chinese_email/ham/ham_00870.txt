@@ -1,0 +1,30 @@
+Return-Path: <zhu@mails.tsinghua.edu.cn>
+Received: from mails.tsinghua.edu.cn (mails.tsinghua.edu.cn [166.111.8.16])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j27GG7Q4011768
+	for <xie@ccert.edu.cn>; Tue, 8 Mar 2005 00:16:07 +0800 (CST)
+X-scanvirus: By SOPHOS Scan Engine
+X-scanresult: CLEAN
+X-Received: unknown,166.111.154.210,20050308000929
+Received: from unknown (HELO xiner) (xwang03@166.111.154.210)
+  by localhost with SMTP; 7 Mar 2005 16:09:29 -0000
+Message-ID: <001101c52330$f3121ca0$d29a6fa6@xiner>
+From: "zhu" <zhu@mails.tsinghua.edu.cn>
+To: xie@ccert.edu.cn
+References: <309919310.26424@mails.tsinghua.edu.cn> <001c01c52092$40cbf6b0$d8cb6fa6@xiner> <309951706.04191@mails.tsinghua.edu.cn> <001501c52124$aaa6e210$d29a6fa6@xiner> <310027632.23739@mails.tsinghua.edu.cn> <001901c522e0$c86a3730$d8cb6fa6@xiner> <310177387.16489@mails.tsinghua.edu.cn> <002201c522e6$925e4040$d8cb6fa6@xiner> <310180062.17711@mails.tsinghua.edu.cn> <003901c522f7$ffe10290$d8cb6fa6@xiner> <310210669.14224@mails.tsinghua.edu.cn>
+Subject: =?gb2312?B?UmU6INXi0rvE6rXEx/PWsMDhyrejrM+jzfu21GRkbW3T0Mv5vei8+A==?=
+Date: Tue, 8 Mar 2005 00:15:57 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_000E_01C52374.00658980"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2800.1409
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1409
+X-UIDL: NhO!!UKR"!g(G"!Bc7!!
+
+感同身受，共勉之。
+有朋友是做人事这行的，其实也是黑幕重重。裙带关系往往比真才实学来得更加实际。
+也是国内有名的公司，总裁的亲戚，一个大专都没有毕业的女孩，2年之后就能从普通员工提拔成为部门经理，并且年年都是优秀员工、优秀经理。所有的人都明白，只是已经漠然了。在中国，人情就是一把量尺。虽然我们想出污泥而不染。但是世界上就存在抬轿子的人。如果你不能适应这个集体，就只有离开他。其实在另外一个集体，又何尝没有这样的人情世故呢？招聘会后，很多人挤来投递简历，或者mail发到人事部，其实能够真正被浏览的又有多少？往往是内部人员的一声招呼比精致的简历更加让人重视。社会怎么了？伯乐怎么了？
+: 抱抱mm，好像在看自己去年的经历一样。
+: 心情不必这么灰暗，其实过来以后就会发现哪里都是海阔天空的。如果不是这样就换个海阔天空的地方好了：）
+

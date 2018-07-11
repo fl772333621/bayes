@@ -1,0 +1,39 @@
+Return-Path: <zhu@ccert.edu.cn>
+Received: from tsinghua.org.cn ([210.77.143.231])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id j073JI3Z019370
+	for <weng@ccert.edu.cn>; Fri, 7 Jan 2005 11:19:19 +0800
+Received: (eyou send program); Fri, 07 Jan 2005 11:10:33 +0800
+Received: (eyou send program); Fri, 07 Jan 2005 11:10:32 +0800
+X-EYOU-ORIGINAL-IP: 210.77.143.235
+X-EYOU-ENVELOPE-MAILFROM: starry@ccert.edu.cn
+Received: from unknown (HELO eyou.net) (unknown@210.77.143.235)
+ by 210.77.143.231 with SMTP; Fri, 07 Jan 2005 11:10:32 +0800
+Received: (eyou send program); Fri, 07 Jan 2005 11:24:37 +0800
+Message-ID: <305068277.02653@eyou.net>
+Received: from 202.112.57.12 by 210.77.143.235 with SMTP; Fri, 07 Jan 2005 11:24:36 +0800
+Received: from starry ([202.112.50.9])
+	(authenticated bits=0)
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id j073J5HO019328;
+	Fri, 7 Jan 2005 11:19:05 +0800
+Message-Id: <200501070319.j073J5HO019328@home.ccert.edu.cn>
+Date: Fri, 7 Jan 2005 11:30:53 +0800
+From: "zhu" <zhu@ccert.edu.cn>
+To: weng@ccert.edu.cn
+Cc: "zhenghui" <hua@ccert.edu.cn>,
+        "chenguangying" <gu@ccert.edu.cn>,
+        "zjwu" <shi@ccert.edu.cn>
+Subject: =?gb2312?B?UmU6ILz7yrbBy9K7uPbOsb7919Msy/vSssjDztLIz8flwcvSu7j2bW21xNXmw+bEvw==?=
+X-mailer: Foxmail 5.0 [cn]
+Mime-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: 8bit
+X-MIME-Autoconverted: from base64 to 8bit by home.ccert.edu.cn id j073JI3Z019370
+X-UIDL: ZT""!eW?!!#6K!!KB_!!
+
+MM是北广的吧？
+类似的事情很多，我有很亲近的人在电视台的，经常给我讲去北广或者其他地方招实习生或者新人时那些MM们四处抛来的媚眼。即使在电视台内部也存在这种情况。做电视台导演需要定力；那些MM需要自重。
+为了能抛头露面，为了能闻达于媒体，有的人真的是试图用身体来交换的
+: 呵呵,很简单啊,mm开始认为这个导演有前途(因为她快要去央视实习)...聊之,发现是一小不点,心想:考,就这还来骚扰我....
+: 导演一看这mm天生丽质,而且嗲的他很酥,还不赶快泡之....
+

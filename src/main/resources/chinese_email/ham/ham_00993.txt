@@ -1,0 +1,38 @@
+Return-Path: <kang@home.ccert.edu.cn>
+Received: from home.ccert.edu.cn (localhost [127.0.0.1])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id j0O5j1lh026339;
+	Mon, 24 Jan 2005 13:45:01 +0800
+Received: (from majordomo@localhost)
+	by home.ccert.edu.cn (8.13.1/8.13.1/Submit) id j0O5j1u1026338;
+	Mon, 24 Jan 2005 13:45:01 +0800
+X-Authentication-Warning: home.ccert.edu.cn: majordomo set sender to owner-ccertstaff using -f
+Received: from ccertspark (tu203021.ip.tsinghua.edu.cn [166.111.203.21])
+	(authenticated bits=0)
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id j0O5j1WY026333
+	for <long@ccert.edu.cn>; Mon, 24 Jan 2005 13:45:01 +0800
+Reply-To: <kang@cernet.edu.cn>
+From: "kang" <kang@ccert.edu.cn>
+To: long@ccert.edu.cn
+Subject: =?gb2312?B?UmU6ILvY0uQ=?=
+Date: Mon, 24 Jan 2005 13:55:06 +0800
+Message-ID: <002101c501d9$41459f60$15cb6fa6@ccertspark>
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+X-Priority: 3 (Normal)
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook, Build 10.0.6626
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.3790.181
+Importance: Normal
+Content-Transfer-Encoding: 8bit
+X-MIME-Autoconverted: from quoted-printable to 8bit by home.ccert.edu.cn id j0O5j1WY026335
+Sender: owner-ccertstaff@home.ccert.edu.cn
+Precedence: bulk
+X-UIDL: i"j"!pHe!!~'?!!eS(!!
+
+这个属于无关话题么？
+: 记得很多年前那次高考，成绩出来后，我放弃了某重点高校的多媒体专业，带着一丝迷茫与憧憬，忐忑与紧张，离开了北京，来到了位于南方某大城市的一所军事院校，从此，我穿着军装，挂着红牌，叠着豆腐块，行进在队列中，一天天的重复直线加方块的生活。很长一段时间，我分
+: 逐渐的我适应了自己的军人身分，适应了那里的环境，虽然有很多限制，很不自由，但慢慢的也不觉得什么了，同时，或许单调的生活反而更让我学会了如何控制情绪，如何承受压力。那四年是我最难忘的，不仅因为自己的人生发生了重大转变，更因为自己经历了很多的事情，真正开
+: 毕业后，我分回了北京，到单位报到后不久，我被派去带新兵，也算是补上当兵的这段经历吧。象我们这样直接考到军校的学生兵，因为没有当兵的经历，总让人觉得缺点什么。那段带兵的经历也很有意思，至少从新兵身上我看到自己四年前的影子。带兵回来后我被留在机关，成了一
+: ...................
+

@@ -1,0 +1,28 @@
+Return-Path: <luo@rbl.ccert.edu.cn>
+Received: from rbl.ccert.edu.cn (rbl.ccert.edu.cn [202.112.57.71])
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id i9H2tvsb005208
+	for <liao@ccert.edu.cn>; Sun, 17 Oct 2004 10:55:57 +0800 (CST)
+Received: from rbl.ccert.edu.cn (localhost.localdomain [127.0.0.1])
+	by rbl.ccert.edu.cn (8.12.11/8.12.11) with ESMTP id i9H31cdI005849
+	for <liao@ccert.edu.cn>; Sun, 17 Oct 2004 11:01:38 +0800
+Received: (from qa@localhost)
+	by rbl.ccert.edu.cn (8.12.11/8.12.11/Submit) id i9H31cBS005848;
+	Sun, 17 Oct 2004 11:01:38 +0800
+Date: Sun, 17 Oct 2004 11:01:38 +0800
+Message-Id: <200410170301.i9H31cBS005848@rbl.ccert.edu.cn>
+Subject: =?gb2312?B?UmU6IMfrvcyjoc/CzufD5sHL0ru80rmry7668w==?=
+To: liao@ccert.edu.cn
+From: Tran Quang Anh <luo@cernet.edu.cn>
+Content-Type: multipart/mixed; boundary="----------=_1097982098-2811-170"
+MIME-Version: 1.0
+X-UIDL: 5o:!!j,H"!$PV!!+US!!
+
+不是。是当时面的是一个销售的部门，但是我要求去市场部门，他们同意了，结果
+我怀疑是掉材料的时候，不知道怎么就搞没有了。我以为第一轮就被干掉了。然后
+第二年给我email,说要给我二面。我问她，我没有参加你们公司的一面啊。她说你
+参加了啊，我这里还有你的一面成绩。 然后看了一下，居然是去年的一面成绩。鬼
+知道，怎么就混进第二年的招聘里面去了...后来我一直想问HR,你们的面试过的材
+料难道都保留在数据库里面的？ 结果不好意思问。
+: 关键是他第二年找到的时候竟然还记得起你去年一面过?
+: 他们一年招多少人?难道你给他的印象那么深刻
+

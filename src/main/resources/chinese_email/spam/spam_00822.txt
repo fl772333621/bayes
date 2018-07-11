@@ -1,0 +1,71 @@
+Return-Path: <yan@home.ccert.edu.cn>
+Received: from home.ccert.edu.cn (localhost [127.0.0.1])
+	by home.ccert.edu.cn (MIMEDefang) with ESMTP id NOQUEUE
+	for <bi@ccert.edu.cn>; Tue, 21 Jun 2005 10:39:52 +0800 (CST)
+Received: (from majordomo@localhost)
+	by home.ccert.edu.cn (8.13.1/8.13.1/Submit) id j5L2dqCb010182;
+	Tue, 21 Jun 2005 10:39:52 +0800
+Date: Tue, 21 Jun 2005 10:39:52 +0800
+From: yan@home.ccert.edu.cn
+Message-Id: <200506210239.j5L2dqCb010182@home.ccert.edu.cn>
+X-Authentication-Warning: home.ccert.edu.cn: majordomo set sender to owner-advisory using -f
+To: bi@ccert.edu.cn
+Subject: BOUNCE advisory: Non-member submission from [=?GB2312?B?1bLQob3j?= <kingjams@kingjams.net>]
+
+From owner-advisory Tue Jun 21 10:39:52 2005
+Received: from kingjams.net ([219.132.243.182])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id j5L2dm1T010178
+	for ; Tue, 21 Jun 2005 10:39:51 +0800
+Message-Id: 
+From: =?GB2312?B?1bLQob3j?= 
+Subject: =?GB2312?B?vqnU87f+17DKtdK109DP3rmry74=?=
+To: advisory@ccert.edu.cn
+Content-Type: multipart/mixed; boundary="----------=_1119321592-4264-242"
+Reply-To: kingjams@kingjams.net
+Date: Tue, 21 Jun 2005 10:56:49 +0800
+X-Priority: 3
+X-Mailer: Foxmail 4.1 [cn]
+MIME-Version: 1.0
+X-Scanned-By: MIMEDefang 2.44
+
+This is a multi-part message in MIME format...
+
+------------=_1119321592-4264-242
+Content-Type: text/plain;charset="GB2312"
+Content-Transfer-Encoding: 8bit
+Content-Disposition: inline
+
+尊敬的贵公司： 
+　　　您好！！ 
+        首先，本服务部全体人员祝贵公司生意兴隆，财源广进。 
+京泽是专业化的现代制服企业，长期致力于团体服饰的研究、 
+设计、开发、制作。京泽的宗旨以实惠的价格服务于您的企业。 
+理念是“针对实际、独立设计，保证客户特有的个性化形象！” 
+京泽公司拥有大量的制服专业人才，包括经验丰富的制服设计师 
+，制样、打版技师，企业形象企划师；现代化的服装生产线，真 
+材实料、精工细作，保证制服品质的长期稳定性；售后跟踪、持 
+续服务，全面解决客户的一切后顾之忧。 
+       订做制服的首选——京泽服装 
+       你计划何时订做制服？请打电话给京泽，一定服务于您！ 
+谢谢！！祝商祺                                         
+
+东莞市京泽服装实业有限公司 
+网  址：http://www.kingjams.net 
+E-mail: 
+总经理：office@kingjams.net 
+服务部：kingjams@kingjams.net 
+财务部：finance@kingjams.net 
+网络室：opinion@kingjams.net 
+
+联系人：詹小姐 
+服务部：0769-2177770 
+传  真：0769-2766605 
+24小时为你服务QQ：362889493\342907726\316232112
+
+
+-----
+[HAM], if error, see this:
+http://202.112.57.79/cgi-bin/t.pl?a=c%2C%3A%FC%5C%9C%C5c&b=6&c=w%D25%E1%D5%01P5%16%C5%7B%BE%CB%BA%FD%F6
+
+------------=_1119321592-4264-242--
+

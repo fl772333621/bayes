@@ -1,0 +1,54 @@
+Return-Path: <zhong@home.ccert.edu.cn>
+Received: from home.ccert.edu.cn (localhost [127.0.0.1])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id i9K1YYKo021692;
+	Wed, 20 Oct 2004 09:34:34 +0800
+Received: (from majordomo@localhost)
+	by home.ccert.edu.cn (8.13.1/8.13.1/Submit) id i9K1YYhT021691;
+	Wed, 20 Oct 2004 09:34:34 +0800
+X-Authentication-Warning: home.ccert.edu.cn: majordomo set sender to owner-ccertstaff using -f
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with SMTP id i9K1YSEX021686
+	for <pu@ccert.edu.cn>; Wed, 20 Oct 2004 09:34:28 +0800
+Received: (eyou send program); Wed, 20 Oct 2004 09:31:13 +0800
+Message-ID: <298235873.27414@mail.tsinghua.edu.cn>
+Received: from unknown (HELO mail.tsinghua.edu.cn) (unknown@127.0.0.1)
+ by 127.0.0.1 with SMTP; Wed, 20 Oct 2004 09:31:13 +0800
+X-scanvirus: By Symantec Scan Engine
+X-scanresult: CLEAN
+Received: (eqmail ); 20 Oct 2004 01:31:12 -0000
+Received: from unknown (HELO sony) (duanhx@202.112.50.6)
+  by localhost with SMTP; 20 Oct 2004 01:31:12 -0000
+Message-ID: <01bb01c4b646$7ef2e4f0$cae86fa6@sony>
+From: "zhong" <zhong@tsinghua.edu.cn>
+To: pu@ccert.edu.cn
+Subject: =?gb2312?B?ofEgsK61xMjLsbu80sDvyMvIz86qw7vT0Mewzb7U9cO0sOw=?=
+Date: Wed, 20 Oct 2004 09:45:35 +0800
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2900.2180
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+Content-Transfer-Encoding: 8bit
+X-MIME-Autoconverted: from base64 to 8bit by home.ccert.edu.cn id i9K1YYEX021689
+Sender: owner-ccertstaff@home.ccert.edu.cn
+Precedence: bulk
+X-UIDL: $E""!5?\"!^&>!!l&g!!
+
+是我的一个亲戚
+  她喜欢上一个军人，可是家里人都说没有前途，而且她是研究生毕业，工作好，可是就
+是忙，没有时间认识人，好不容易认识一个，也很难找到合适的，所以这次能碰上一个她
+认为聊的来得也不容易，可是其实我也是认为那个人配不上她，不论是外貌、能力、前途
+都不行，她无论从哪一个方面都可以说比较优秀的，身边的人都这么认为
+  她家里人也再一直劝她放弃，可是一来她的年龄也大了，她怕以后找不到合适的，二来
+这个人还比较上进，起码那个人是这么说的，不过那个人烟酒都凶，身体也不太好，那个
+人说为了她会上进，会重新考试考研究生什么的，那个人是高中毕业就参军了，现在30多
+，再部队里也算是个小头头，但是马上要转业了，好像说是进公安局什么的
+  因为我们比较好，我也不知道怎么劝她，因为我也不是很同意，我见过那个人，谈吐上
+的确比较差，不过性格还好，但是没有接触太长时间，不知道具体是怎么样的，
+   听听大家的意见吧，大家有遇到过类似的情况吗？
+  我该怎么跟她说呢，说重了，又怕她伤心，再说他们以后万一要再一起，我岂不是小人
+了！！
+   怎么办那？？ 矛盾ing 
+

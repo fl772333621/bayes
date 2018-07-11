@@ -1,0 +1,38 @@
+Return-Path: <hou@mails.tsinghua.edu.cn>
+Received: from mails.tsinghua.edu.cn (mails.tsinghua.edu.cn [166.111.8.16])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id i8IEkZ7l005889
+	for <weng@ccert.edu.cn>; Sat, 18 Sep 2004 22:46:35 +0800 (CST)
+Received: (eyou send program); Sat, 18 Sep 2004 22:41:33 +0800
+Message-ID: <295518493.26495@mails.tsinghua.edu.cn>
+Received: from unknown (HELO mails.tsinghua.edu.cn) (unknown@127.0.0.1)
+ by 127.0.0.1 with SMTP; Sat, 18 Sep 2004 22:41:33 +0800
+X-scanvirus: By Symantec Scan Engine
+X-scanresult: NOREP
+Received: (eqmail ); 18 Sep 2004 14:41:26 -0000
+Received: from tu154210.tsinghua.edu.cn (HELO xiner) (xwang03@166.111.154.210)
+  by mails.tsinghua.edu.cn with SMTP; 18 Sep 2004 14:41:26 -0000
+Message-ID: <020b01c49d8e$d0701620$d29a6fa6@xiner>
+From: "hou" <hou@mails.tsinghua.edu.cn>
+To: weng@ccert.edu.cn
+References: <295425058.08406@mails.tsinghua.edu.cn> <295434670.16120@mails.tsinghua.edu.cn> <295442911.00979@mails.tsinghua.edu.cn> <295516555.28704@mails.tsinghua.edu.cn> <295517401.20300@mails.tsinghua.edu.cn> <295518010.26521@mails.tsinghua.edu.cn>
+Subject: =?gb2312?B?UmU6IMTRuf1pbmc=?=
+Date: Sat, 18 Sep 2004 22:50:16 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0208_01C49DD1.DDD13EA0"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2800.1437
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1441
+X-UIDL: X?2"!D+&"!`NC!!,(F!!
+
+本来还想说跟他们老板好好说说，碰到这样的人，估计也是没办法。
+知道你现在一定很难受，所有的忍耐就要到头所有希望眼看就要实现的时候，却一切又要从头来过，确实就像你自己说的那样啊，希望越大失望越大。所以啊，想哭就哭，想不高兴就不高兴吧，总得发泄一下。
+等过几天，心情平静一点了，再想想你们这两年，都这么好好地走过来了，所以你们一定可以期待下一次的重逢。时间其实过得也很快，一两年一眨眼就过去了。你把所有繁忙的事情都集中到这一年多的时间来做吧，日子会过得快很多。常常保持联系，多通通电话，其实过了这两年，环境渐渐熟悉了，你也开始慢慢习惯自己的生活了，过得会比头两年要快的。
+不过，还是要死马当活马医，叫你bf跟你老板磨磨，就说mm这边因悲伤过度身心受损。他要是魂不守舍的样子，估计他们老板也不会太指望他吧。
+时间一晃就过去了的，等着你们的好消息  :)
+: 我们都想过啊
+: 可他已经博士第四年结束了
+: 再退学太不划算，如果退学当初我出国的时候就退了
+: ...................
+

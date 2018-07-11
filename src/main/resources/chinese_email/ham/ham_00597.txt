@@ -1,0 +1,43 @@
+Return-Path: <fan@mails.tsinghua.edu.cn>
+Received: from mails.tsinghua.edu.cn (mails.tsinghua.edu.cn [166.111.8.16])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j389eHv7005134
+	for <ling@ccert.edu.cn>; Fri, 8 Apr 2005 17:40:17 +0800 (CST)
+X-scanvirus: By SOPHOS Scan Engine
+X-scanresult: CLEAN
+X-Received: unknown,166.111.203.216,20050408173026
+Received: from unknown (HELO xiner) (xwang03@166.111.203.216)
+  by localhost with SMTP; 8 Apr 2005 09:30:26 -0000
+Message-ID: <001701c53c1f$57236f80$d8cb6fa6@xiner>
+From: "fan" <fan@mails.tsinghua.edu.cn>
+To: ling@ccert.edu.cn
+Subject: =?gb2312?B?UmU6IFRFTkNFTlS1xM+1zbPUy86suaSzzMqm0L3LrsTctO+1vbbgydnE2KO/?=
+Date: Fri, 8 Apr 2005 17:42:49 +0800
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="----=_NextPart_000_0015_01C53C62.61E13D60"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2900.2180
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+X-UIDL: N>'#!:?3"!(,F"!&\*!!
+
+怎么说前景呢？看你在哪干了，维护永远是辅助性的工作
+以后可以做包工头实施IDC机房的设计规划，PCCW以及运营商都有这样的部门
+或者从事网络方面，成为资深网络专家
+或者深入系统方面成为某种UNIX小型机方面专家，跳到原厂去，做售前也不错
+呵呵，可以走的路太多了
+:  应该不止吧，普通小本还一年7w呢
+、管理、运营公司后台服务器以及遍布全国的IDC大型网络； 
+2、管理实施公司的IDC机房相关工程，以及解决技术问题。 
+岗位要求： 
+1、具备一定的工程管理能力（综合布线、工程进度、项目管理、工程验收）； 
+2、具备一定的中型IT、网络、系统工程经验； 
+3、熟悉部分主流服务器的安装、管理和硬件维护，熟悉部分主流存储设备； 
+4、具备Linux的管理和应用经验； 
+5、具备主流网络设备管理、排障能力； 
+6、良好的沟通、协调以及吃苦耐劳的能力，具备强烈的责任感； 
+7、本科学历，计算机相关专业，工作经验1-2年以上； 
+8、有一定的电信/网通等运营商经验者择优； 
+9、CCNA/CCNP、综合布线等认证者优先。
+这个职位前景怎么样  
+

@@ -1,0 +1,33 @@
+Return-Path: <chen@rbl.ccert.edu.cn>
+Received: from rbl.ccert.edu.cn (rbl.ccert.edu.cn [202.112.57.71])
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id i984eU6J002412
+	for <rao@ccert.edu.cn>; Fri, 8 Oct 2004 12:40:30 +0800 (CST)
+Received: from rbl.ccert.edu.cn (localhost.localdomain [127.0.0.1])
+	by rbl.ccert.edu.cn (8.12.11/8.12.11) with ESMTP id i984kTir007891
+	for <rao@ccert.edu.cn>; Fri, 8 Oct 2004 12:46:31 +0800
+Received: (from qa@localhost)
+	by rbl.ccert.edu.cn (8.12.11/8.12.11/Submit) id i984kTdH007890;
+	Fri, 8 Oct 2004 12:46:29 +0800
+Date: Fri, 8 Oct 2004 12:46:29 +0800
+Message-Id: <200410080446.i984kTdH007890@rbl.ccert.edu.cn>
+Subject: =?gb2312?B?ofEgW7mruOZdIFRvbnlMZXVuZy/BurOvzrAg16rOqtX9yr3G1c2osObD5iAo16rU2Ck=?=
+To: rao@ccert.edu.cn
+From: Tran Quang Anh <chen@cernet.edu.cn>
+Content-Type: multipart/mixed; boundary="----------=_1097210791-1044-282"
+MIME-Version: 1.0
+X-UIDL: F6e!!28;!!@D$#!9oL!!
+
+【 以下文字转载自 TonyLeung 讨论区 】
+发信人: vivas (重返光荣), 信区: TonyLeung
+标  题: [公告] TonyLeung/梁朝伟 转为正式普通版面
+发信站: 水木社区 (Fri Jun 10 23:04:14 2005), 站内
+发信人: SYSOP (System Operator), 信区: Announce
+标  题: [公告] TonyLeung/梁朝伟 转为正式普通版面
+发信站: 水木社区 (Fri Jun 10 23:03:54 2005), 站内
+        版面名称：TonyLeung/梁朝伟
+        　　在对版面运行状况进行考察和讨论后，站务委员会审核并通过了该版
+        的版面发展总结报告，并决定接受其转正申请。
+        　　即日起，该版转为正式普通版面。
+　     　　　　　　　                     　水木社区站务委员会
+      　           　　　　　                 2005年 6月10日
+

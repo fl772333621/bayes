@@ -1,0 +1,26 @@
+Return-Path: <gu@cernet.edu.cn>
+Received: from ccertspark (tu203021.ip.tsinghua.edu.cn [166.111.203.21])
+	(authenticated bits=0)
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id j2H61dxk003252;
+	Thu, 17 Mar 2005 14:01:39 +0800 (CST)
+From: "gu" <gu@cernet.edu.cn>
+To: xin@ccert.edu.cn
+Subject: =?gb2312?B?UmU6IM7Syse49sWuyfqjrM/rv7zH5buqtcSyqcq/?=
+Date: Thu, 17 Mar 2005 14:00:08 +0800
+Message-ID: <004501c52ab6$93204ff0$15cb6fa6@ccertspark>
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+X-Priority: 3 (Normal)
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook, Build 10.0.6626
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.3790.181
+In-Reply-To: <300049396.24600@mail.tsinghua.edu.cn>
+Importance: Normal
+Content-Transfer-Encoding: 8bit
+X-MIME-Autoconverted: from base64 to 8bit by sea.net.edu.cn id j2H61dxk003252
+X-UIDL: Z-_"!I6m!!MCS!!MBe!!
+
+: 今年刚考上研究生，但立了大志要考清华的博士。既然各位都是要毕业了，能不能介绍一下经验？有人对我说“世上有三种人”的论断，可是我还是铁了心要考。可是不知道考试的时间，以及如何准备等等。实在是投告无门，只好借此板块发个小贴。希望真心人能够帮一把！
+没想过要干吗，大概当个老师或者进个运营商之类的吧，我是学通信的，希望读博也能是这个方向。如果外校考清华，是不是很难呢？考博要研几开始准备呢？
+

@@ -1,0 +1,59 @@
+Return-Path: <luo@ns.6test.edu.cn>
+Received: from tsinghua.org.cn ([210.77.143.232])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with SMTP id j4D0rOfI029550
+	for <yu@ccert.edu.cn>; Fri, 13 May 2005 08:53:35 +0800
+Received: (eyou send program); Fri, 13 May 2005 09:10:01 +0800
+Message-ID: <315946601.22585@tsinghua.org.cn>
+X-EYOU-AUTOFORWARD: tsinghua.org.cn
+Received: (eyou send program); Fri, 13 May 2005 09:10:01 +0800
+Message-ID: <315946601.19683@tsinghua.org.cn>
+Received: from unknown (HELO eyou.net) (210.77.143.235)
+ by 210.77.143.232 with SMTP; Fri, 13 May 2005 09:10:01 +0800
+X-EYOU-SPAMVALUE: 0
+Received: (eyou anti_spam gateway 3.0); Fri, 13 May 2005 08:59:15 +0800
+Message-ID: <315945955.24463@eyou.net>
+Received: from 202.112.49.111 by 210.77.143.235 with SMTP; Fri, 13 May 2005 08:59:15 +0800
+Received: from Garfield. (localhost [IPv6:::1])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with ESMTP id j4D156FF038014
+	for <yu@ccert.edu.cn>; Fri, 13 May 2005 09:05:15 +0800 (CST)
+	(envelope-from toefl-bounces@gradinfo.net.edu.cn)
+Received: from ns.6test.edu.cn (ns.6test.edu.cn [202.112.54.2])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with ESMTP id j4D154Tv038009
+	for <yu@ccert.edu.cn>; Fri, 13 May 2005 09:05:04 +0800 (CST)
+	(envelope-from hetao@ns.6test.edu.cn)
+Received: from th024080.ip.tsinghua.edu.cn ([59.66.24.80] helo=TAO-X31)
+	by ns.6test.edu.cn with asmtp (Exim 4.12)
+	id 1DWPFR-000Cxl-00; Fri, 13 May 2005 09:45:53 +0800
+From: "luo" <luo@ns.6test.edu.cn>
+To: yu@ccert.edu.cn
+Subject: =?GB2312?Q?Re: [TOEFL]
+	=B5=DA=B0=CB=BD=EC=C7=E5=BB=AA=B4=F3=D1=A7=D1=D0=BE=BF=C9=FA=A1=B0=C1=BC=CA=A6=D2=E6=D3=D1=A1=B1=C6=C0=D1=A1=BD=E1=B9=FB=B9=AB=CA=BE?=
+X-mailer: Foxmail 4.2 [cn]
+Mime-Version: 1.0
+Content-Type: multipart/mixed; boundary="----------=_1115945615-22747-422"
+Date: Fri, 13 May 2005 9:9:9 +0800
+Message-Id: <E1DWPFR-000Cxl-00@ns.6test.edu.cn>
+X-MIME-Autoconverted: from quoted-printable to 8bit by gradinfo.net.edu.cn id
+	j4D154Tv038009
+Cc: 
+X-BeenThere: toefl@gradinfo.net.edu.cn
+X-Mailman-Version: 2.1.5
+Precedence: list
+List-Id: "&#26446; &#26143; &#21644; &#20182; &#30340; &#23398; &#29983;
+	&#20204; " <toefl.gradinfo.net.edu.cn>
+List-Unsubscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=unsubscribe>
+List-Archive: <http://gradinfo.net.edu.cn/mailman/private/toefl>
+List-Post: <mailto:toefl@gradinfo.net.edu.cn>
+List-Help: <mailto:toefl-request@gradinfo.net.edu.cn?subject=help>
+List-Subscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=subscribe>
+Sender: toefl-bounces@gradinfo.net.edu.cn
+Errors-To: toefl-bounces@gradinfo.net.edu.cn
+X-UIDL: g0<!!6Dd"!:i'#!#\1"!
+
+还是来这里说说，可能罗嗦了点：P。
+gg上周六发信告诉我说他接下来的一周要出外工作，他刚开始创业事情上有点障碍，我一直给他打气这也是他最需要的，不过我周六关机睡觉时才发觉忘了回信（我这段时间牙痛不舒服加上忙着赶论文心情不怎样，但不想让他知道），周日想着论文的事烦闷惰性想着迟一天回信也可以（以前我是习惯当日回的，他也知道，除非有什么其它情况），所以直到周一上午才给他回信而他那时已经出发了，一连7天都没有再给我写信，可能还在外面忙他的事情。
+我想他周日没看到我回信也不高兴吧，原本是想周末临出发前抓紧时间和我写信聊聊的，没想到却没看到信。他也习惯了我的当日回信（上次因为误会我没按时回信他也说有些纳闷不高兴），我担心他以为我知道他现在创业上的障碍不紧张他了所以没及时回信，其实我一直都很紧张他的，他因为工作的事不开心的时候我也高兴不起来。我喜欢的是他这个人不是他赚的多不多，过日子不是钱多就幸福，而且我也会工作。
+昨晚睡觉前想想忍不住哭了，内咎自己周日没及时回信，要不就不会让两个人都不开心了，SIGH 
+

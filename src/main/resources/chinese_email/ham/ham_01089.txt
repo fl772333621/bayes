@@ -1,0 +1,27 @@
+Return-Path: <guan@rbl.ccert.edu.cn>
+Received: from rbl.ccert.edu.cn (rbl.ccert.edu.cn [202.112.57.71])
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id i9GGUXjq027103
+	for <xie@ccert.edu.cn>; Sun, 17 Oct 2004 00:30:33 +0800 (CST)
+Received: from rbl.ccert.edu.cn (localhost.localdomain [127.0.0.1])
+	by rbl.ccert.edu.cn (8.12.11/8.12.11) with ESMTP id i9GGa96R008064
+	for <xie@ccert.edu.cn>; Sun, 17 Oct 2004 00:36:09 +0800
+Received: (from qa@localhost)
+	by rbl.ccert.edu.cn (8.12.11/8.12.11/Submit) id i9GGa8Oo008063;
+	Sun, 17 Oct 2004 00:36:08 +0800
+Date: Sun, 17 Oct 2004 00:36:08 +0800
+Message-Id: <200410161636.i9GGa8Oo008063@rbl.ccert.edu.cn>
+Subject: =?gb2312?B?UmU6IMfrvcy49867tO/Iyw==?=
+To: xie@ccert.edu.cn
+From: Tran Quang Anh <guan@cernet.edu.cn>
+Content-Type: multipart/mixed; boundary="----------=_1097944569-2811-126"
+MIME-Version: 1.0
+X-UIDL: +>["!^\;"!l/["!Vo-!!
+
+我觉得，既然去了国企，就不要计较这些小利益。
+要好好做事，好好做人。这点小损失迟早能补回来。
+一般来说，国企制度是比较死的，领导一般不会故意跟你为难，
+不管给不给你这点钱，其实跟他没什么关系，发给你，也不用从他工资里扣，不发给你，
+也不会加到他工资里，你说是不是？所以，他也没必要跟你为难，估计企业的制度就是这样。
+我在国企呆过三年，一点体会，呵呵。
+: 一家国企，开始时承诺试用期期间有基本工资和饭补，第一次领工资时发现没有饭补，询问公司领导，领导又说试用期没有饭补，转正以后才有。虽然饭补钱不多，但是总觉得不合理。公司的这种前后不一致的做法，该怎样应对？
+

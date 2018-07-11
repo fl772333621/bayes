@@ -1,0 +1,29 @@
+Return-Path: <zhou@163.com>
+Received: from 163.com ([202.108.44.205])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with SMTP id j0L847SS023170
+	for <yi@ccert.edu.cn>; Fri, 21 Jan 2005 16:04:08 +0800
+Received: from [219.224.134.126] (unknown [219.224.134.126])
+	by smtp2 (Coremail) with SMTP id L0DmxwK68EGOt6YF.1
+	for <yi@ccert.edu.cn>; Fri, 21 Jan 2005 16:15:34 +0800 (CST)
+X-Originating-IP: [219.224.134.126]
+Subject: =?gb2312?B?UmU6ILGo1r7UuDrWxtTs19S2r7uv0+uy4r/YvLzK9S/J+s7v0r3Rp7mks8zV4sGp16jStb7N0rXI
+57o=?=
+From: chenff <zhou@163.com>
+To: yi@ccert.edu.cn
+Content-Type: text/plain; charset=GB18030
+Organization: 
+Message-Id: <1106295105.4691.24.camel@localhost.localdomain>
+Mime-Version: 1.0
+X-Mailer: Ximian Evolution 1.2.2 (1.2.2-4) 
+Date: 21 Jan 2005 16:11:46 +0800
+Content-Transfer-Encoding: 8bit
+X-UIDL: (hk"!:M@!!k,4!!G5[!!
+
+  我个人看法,制造自动化方向偏向于工控领域,生物医学工程偏向于医疗电子领域,
+就业情况就很难说,当时本科的时候,生医专业是跟我们一起的,女生多,可能更多偏向
+电子,弱信号检测等.
+  至于工控领域,自动化系可能更近,但是清华自动化系方向比较散,可能其他学校会有
+比较高水平的综合能力,不知道业界会比较推崇那个学校.
+: 那位说说"制造自动化与测控技术"和"生物医学工程"这俩专业的就业情况.
+: 亲戚的小孩今年高考,想了解一下这俩专业的国内就业情况,谢谢.
+

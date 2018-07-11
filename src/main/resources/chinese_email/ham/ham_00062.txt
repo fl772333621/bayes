@@ -1,0 +1,37 @@
+Return-Path: <yang@home.ccert.edu.cn>
+Received: from home.ccert.edu.cn (localhost [127.0.0.1])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id j2H1Jstl016811;
+	Thu, 17 Mar 2005 09:19:54 +0800
+Received: (from majordomo@localhost)
+	by home.ccert.edu.cn (8.13.1/8.13.1/Submit) id j2H1JsV9016810;
+	Thu, 17 Mar 2005 09:19:54 +0800
+X-Authentication-Warning: home.ccert.edu.cn: majordomo set sender to owner-ccertstaff using -f
+Received: from kill ([202.112.50.201])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with SMTP id j2H1JoV9016805
+	for <yang@ccert.edu.cn>; Thu, 17 Mar 2005 09:19:51 +0800
+Message-Id: <200503170119.j2H1JoV9016805@home.ccert.edu.cn>
+Date: Thu, 17 Mar 2005 09:30:09 +0800
+From: "yang" <yang@ccert.edu.cn>
+Reply-To: yang@ccert.edu.cn
+To: yang@ccert.edu.cn
+Subject: =?gb2312?B?UmU6ILCz0rLDsLj2xd2jusu1y7Wws7XE1dK5pNf3vq3A+qGj?=
+Organization: CCERT
+X-mailer: Foxmail 5.0 beta2 [cn]
+Mime-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: 8bit
+X-MIME-Autoconverted: from base64 to 8bit by home.ccert.edu.cn id j2H1JsV9016808
+Sender: owner-ccertstaff@home.ccert.edu.cn
+Precedence: bulk
+X-UIDL: TW7!!1W;!!K#;"!#P#!!
+
+  因此一个人要有家庭，父母，老婆孩子和朋友，做到公私分明。
+  另外，我觉得公私分明是很重要的素质，比如打电话，首先要明确是公事，还是私事，
+当然，在自己心里明白的情况下，偶尔占国家便宜也是允许的。但是千万不能浑浑噩噩，
+公私不分。
+: 保持这种心态的人很多，只是在人前要伪装
+: 像红舞鞋一样，我们也会不去never land
+: 幸好世界还有你能信任的地方信任的人，可以放纵和发泄。这才是真正的人生，并
+: ...................
+

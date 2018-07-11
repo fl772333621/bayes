@@ -1,0 +1,40 @@
+Return-Path: <lin@ccert.edu.cn>
+Received: from tsinghua.org.cn ([210.77.143.228])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id i8S9Hf9j001270
+	for <lv@ccert.edu.cn>; Tue, 28 Sep 2004 17:17:42 +0800
+Received: (eyou send program); Tue, 28 Sep 2004 16:37:00 +0800
+Received: (eyou send program); Tue, 28 Sep 2004 15:38:19 +0800
+X-EYOU-ORIGINAL-IP: 202.112.57.12
+X-EYOU-ENVELOPE-MAILFROM: starry@ccert.edu.cn
+Received: from unknown (HELO home.ccert.edu.cn) (unknown@202.112.57.12)
+ by 210.77.143.228 with SMTP; Tue, 28 Sep 2004 15:38:19 +0800
+Received: from starry ([202.112.50.191])
+	(authenticated bits=0)
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id i8S7OeTh031609
+	for <lv@ccert.edu.cn>; Tue, 28 Sep 2004 15:24:40 +0800
+Message-Id: <200409280724.i8S7OeTh031609@home.ccert.edu.cn>
+Date: Tue, 28 Sep 2004 15:34:38 +0800
+From: "lin" <lin@ccert.edu.cn>
+To: lv@ccert.edu.cn
+Subject: =?gb2312?B?UmU6ILrD0/TDxrXE0ru8/srC?=
+X-mailer: Foxmail 5.0 [cn]
+Mime-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="=====001_Dragon255781722267_====="
+X-UIDL: $hB!!%oT!!@lo"!'_/!!
+
+hehe
+好像我们也习惯了
+我lg刚毕业的时候，一个人租2居，后来觉得浪费和别人合租
+在后来一直和别人合租
+后来薪水过10k之后，还是和别人合租，直到自己买房子
+我们合租的伙伴都很好，呵呵，
+可能是因为我们人也好吧，一个巴掌拍布香嘛
+今天，原来合租的mm还给我电话，要我一起去k歌，现在都成了朋友
+关系特好
+后来自己住，我还觉得有点寂寞了
+: 我们也是，呵呵
+: 我刚回来那阵，gg试用期税后只有3.5k，我们就去八角找了个一居
+: 后来我找到工作了就搬到西直门了
+: ...................
+

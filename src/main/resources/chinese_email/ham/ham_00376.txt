@@ -1,0 +1,34 @@
+Return-Path: <tu@rbl.ccert.edu.cn>
+Received: from rbl.ccert.edu.cn (rbl.ccert.edu.cn [202.112.57.71])
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id i9J1PE96016851
+	for <su@ccert.edu.cn>; Tue, 19 Oct 2004 09:25:15 +0800 (CST)
+Received: from rbl.ccert.edu.cn (localhost.localdomain [127.0.0.1])
+	by rbl.ccert.edu.cn (8.12.11/8.12.11) with ESMTP id i9J1UxWk008157
+	for <su@ccert.edu.cn>; Tue, 19 Oct 2004 09:31:03 +0800
+Received: (from qa@localhost)
+	by rbl.ccert.edu.cn (8.12.11/8.12.11/Submit) id i9J1Uxew008156;
+	Tue, 19 Oct 2004 09:30:59 +0800
+Date: Tue, 19 Oct 2004 09:30:59 +0800
+Message-Id: <200410190130.i9J1Uxew008156@rbl.ccert.edu.cn>
+Subject: =?gb2312?B?UmU6IL/JsK61xLGmsaY=?=
+To: su@ccert.edu.cn
+From: Tran Quang Anh <tu@cernet.edu.cn>
+Content-Type: multipart/mixed; boundary="----------=_1098149463-25795-268"
+MIME-Version: 1.0
+X-UIDL: V$="!IFR!!`kT!!MnJ!!
+
+好玩
+老板的女儿一周岁，周六请大家一起去庆祝。
+老板太太是菲律宾裔，他们的女儿偏亚洲人的模样，挺漂亮的。
+去了见小姑娘趴在童车那边和一个3个月大的小妹妹正在交流
+一个恩恩啊啊的说，一个笑着听，还不时的笑出声儿来
+我看不出来她们俩能交流些什么，就跑过去凑热闹
+结果小姑娘一见我就要我抱，让她妈妈惊诧不已
+因为她只让自己的父母抱，连姥姥都不追
+可能那天我和她妈妈都是黑色长发都戴眼镜吧
+我很得意，抱着小姑娘正想叫人给我们合个影
+小姑娘一转头看到了妈妈，立刻又往妈妈怀里扑
+然后转过头来看看我，再看看妈妈，疑惑不解，又继续看
+最后终于明白我是陌生人了，道歉似的抱着妈妈的脖子，亲了亲
+还在妈妈怀里把身子扭来扭去的，直到妈妈也亲亲她，才安静下来
+

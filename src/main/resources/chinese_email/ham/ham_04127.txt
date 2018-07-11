@@ -1,0 +1,43 @@
+Return-Path: <feng@rbl.ccert.edu.cn>
+Received: from rbl.ccert.edu.cn (rbl.ccert.edu.cn [202.112.57.71])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id i9T3TN6m026470
+	for <ding@ccert.edu.cn>; Fri, 29 Oct 2004 11:29:23 +0800
+Received: from rbl.ccert.edu.cn (localhost.localdomain [127.0.0.1])
+	by rbl.ccert.edu.cn (8.12.11/8.12.11) with ESMTP id i9T3kU4i016361
+	for <ding@ccert.edu.cn>; Fri, 29 Oct 2004 11:46:46 +0800
+Received: (from qa@localhost)
+	by rbl.ccert.edu.cn (8.12.11/8.12.11/Submit) id i9T3kPKH016356;
+	Fri, 29 Oct 2004 11:46:25 +0800
+Date: Fri, 29 Oct 2004 11:46:25 +0800
+Message-Id: <200410290346.i9T3kPKH016356@rbl.ccert.edu.cn>
+Subject: =?gb2312?B?ofEg1dDGuEPR0LeiuaSzzMqm?=
+To: ding@ccert.edu.cn
+From: feng@rbl.ccert.edu.cn
+Content-Type: multipart/mixed; boundary="----------=_1099021611-20866-146"
+MIME-Version: 1.0
+X-UIDL: c@B!!nd9"!N?a"!p#~!!
+
+Background:
+www.aicent.com /  www.aicent.net
+Job Requirement
+        - 0-2 years of software development experience
+- Bachelor’s degree or above in Computer Science or related field from well-known universities.
+        - Knowledge in C, TCP/IP, SMTP etc. Network programming 
+        - Familiar with Unix, Window operating system
+        - SS7/Ridus preferred
+        - Good communications skills with a team player attitude
+        - Can work proactively
+        - Write technical document in both Chinese and English fluently
+要求:
+- 有0-2年软件开发工作经验
+- 名牌大学计算机专业毕业本科以上
+- 熟悉 C 语言，TCP/IP，SMTP 等网络协议
+- 懂得 Unix, Window 操作系统
+- 熟悉 SS7 或 Ridius 优先
+- 具有良好的理解力, 沟通和表达能力, 团队工作精神
+- 有工作主动性
+- 流利书写中英文技术文档
+说明:需要全职.
+联系方式：
+E-mail: Jesse.duan@aicent.com
+

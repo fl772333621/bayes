@@ -1,0 +1,30 @@
+Return-Path: <kong@rbl.ccert.edu.cn>
+Received: from rbl.ccert.edu.cn (rbl.ccert.edu.cn [202.112.57.71])
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id i98CHpSG009250
+	for <lin@ccert.edu.cn>; Fri, 8 Oct 2004 20:17:51 +0800 (CST)
+Received: from rbl.ccert.edu.cn (localhost.localdomain [127.0.0.1])
+	by rbl.ccert.edu.cn (8.12.11/8.12.11) with ESMTP id i98CNqq8021865
+	for <lin@ccert.edu.cn>; Fri, 8 Oct 2004 20:23:53 +0800
+Received: (from qa@localhost)
+	by rbl.ccert.edu.cn (8.12.11/8.12.11/Submit) id i98CNqs4021864;
+	Fri, 8 Oct 2004 20:23:52 +0800
+Date: Fri, 8 Oct 2004 20:23:52 +0800
+Message-Id: <200410081223.i98CNqs4021864@rbl.ccert.edu.cn>
+Subject: =?gb2312?B?UmU6IL3xzOxtbcn6yNWjrL3hufvO0qGtoa0=?=
+To: lin@ccert.edu.cn
+From: Tran Quang Anh <kong@cernet.edu.cn>
+Content-Type: multipart/mixed; boundary="----------=_1097238233-26230-54"
+MIME-Version: 1.0
+X-UIDL: "V8"!Te5"!d/9"!JR&#!
+
+男人做事情的方法是一直忍着，直到超过了某个严重的底线才爆发
+而女人有一点不满意就喜欢说出来，显得有点唠叨
+所以当男人什么都不说的时候，女人认为他对目前的状况很满意
+可是等到超越底线的时候，伤害已经很严重，难以挽回
+偶倾向于觉得这是男人的错。。。
+女人前一天还觉得自己很幸福，第二天就发现一切突然全都失去，很有被欺骗的感觉
+: 全世界都证明过这个命题了。。。
+: 一开始大家觉得为对方做什么都心甘情愿
+: 某一天有人感觉到一丝疲惫，然后就不断累积。。。
+: ...................
+

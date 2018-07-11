@@ -1,0 +1,39 @@
+Return-Path: <cen@tom.com>
+Received: from tom.com ([218.19.143.140])
+	by home.ccert.edu.cn (MIMEDefang) with ESMTP id NOQUEUE
+	for <zhong@ccert.edu.cn>; Fri, 24 Jun 2005 10:50:33 +0800 (CST)
+Message-ID: <200506241050.0.738893223974216@home.ccert.edu.cn>
+Received: from WINXP-2005[192.168.1.101] by tom.com
+  with SMTP id 3949C4D9; Fri, 24 Jun 2005 11:08:09 +0900
+From: "cen" <cen@tom.com>
+Subject: =?gb2312?B?Is6i0M254727u+Ei1fC2r8LtwLTO99HHycy80g==?=
+To: zhong@ccert.edu.cn
+Content-Type: multipart/mixed;
+ boundary="=_NextPart_2rfkindysadvnqw3nerasdf";
+	charset="gb2312"
+MIME-Version: 1.0
+Content-Transfer-Encoding: 8bit
+Reply-To: cen@126.com
+Disposition-Notification-To: weixin1028@126.com
+Date: Fri, 24 Jun 2005 11:08:23 +0800
+X-Mailer: Microsoft Outlook Express 6.00.2800.1158
+
+负责人：
+   马来西亚2005第二届中国出口商品展览会暨投资洽谈会
+
+    时间：2005年12月15日- 18日地点：马来西亚 吉隆坡 太子世界贸易中心
+    主办单位：中华人民共和国商务部
+    承办单位：中国对外贸易中心（广交会承办单位）
+    协办单位：中国对外贸易广州展览公司
+    支持单位：中国驻马来西亚大使馆经济商务参赞处
+    中国驻新加坡、泰国和印尼大使馆经济商务参赞处	
+    马来西亚中国经济贸易总商会
+    上届有来自东盟南的10个国家18136名客商进场参观洽谈，展会累计成交4562多万美元。
+    展会立足马来西亚市场，面向东盟，辐射南亚和中东地区，为区域性的国际专业博览会。
+                                                  
+                                                 联系人：韦远新 
+                                                 E-mail： weixin1028@sina.com 有来自
+                                                 电 话：（020）85699496    85699453  
+                                                 传 真：（020）85699496    85699453 
+
+

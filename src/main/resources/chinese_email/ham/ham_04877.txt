@@ -1,0 +1,21 @@
+Return-Path: <cen@rbl.ccert.edu.cn>
+Received: from rbl.ccert.edu.cn (rbl.ccert.edu.cn [202.112.57.71])
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id i9IA4LTe002288
+	for <su@ccert.edu.cn>; Mon, 18 Oct 2004 18:04:21 +0800 (CST)
+Received: from rbl.ccert.edu.cn (localhost.localdomain [127.0.0.1])
+	by rbl.ccert.edu.cn (8.12.11/8.12.11) with ESMTP id i9IAA7S8023837
+	for <su@ccert.edu.cn>; Mon, 18 Oct 2004 18:10:07 +0800
+Received: (from qa@localhost)
+	by rbl.ccert.edu.cn (8.12.11/8.12.11/Submit) id i9IAA7qR023836;
+	Mon, 18 Oct 2004 18:10:07 +0800
+Date: Mon, 18 Oct 2004 18:10:07 +0800
+Message-Id: <200410181010.i9IAA7qR023836@rbl.ccert.edu.cn>
+Subject: =?gb2312?B?ofEgx+u9zLunv9q087jnudjT2sLku6fOyszi?=
+To: su@ccert.edu.cn
+From: Tran Quang Anh <cen@cernet.edu.cn>
+Content-Type: multipart/mixed; boundary="----------=_1098094207-5847-66"
+MIME-Version: 1.0
+X-UIDL: H;Q"!n[:!!?e*!!Zm+!!
+
+我是应届小硕，已经收到人事局的接收函。三方上档案和户口的迁移地址都是海淀区人才服务中心，请问这样算是北京户口了吗？前两天学校登记户口迁移地址，老师觉得我写的有问题，我给公司打电话，说就是这样的，但其他同学的档案和户口不是迁到同一个地方，一般是档案放到人才服务中心，而户口迁到海淀区派出所。请问户口大哥这是怎么回事呀？我的是不是北京户口呢？因为有些担心，还恳请回答，十分感谢！
+

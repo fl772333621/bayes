@@ -1,0 +1,61 @@
+Return-Path: <wang@ns.6test.edu.cn>
+Received: from tsinghua.org.cn ([210.77.143.228])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id iAO0lZLd013734
+	for <ning@ccert.edu.cn>; Wed, 24 Nov 2004 08:47:36 +0800
+Received: (eyou send program); Wed, 24 Nov 2004 09:00:20 +0800
+Received: (eyou send program); Wed, 24 Nov 2004 09:00:18 +0800
+X-EYOU-ORIGINAL-IP: 210.77.143.235
+X-EYOU-ENVELOPE-MAILFROM: toefl-bounces@server.cool-meeting.com
+Received: from unknown (HELO eyou.net) (unknown@210.77.143.235)
+ by 210.77.143.228 with SMTP; Wed, 24 Nov 2004 09:00:18 +0800
+Received: (eyou send program); Wed, 24 Nov 2004 08:55:46 +0800
+Message-ID: <301257746.25640@eyou.net>
+Received: from 202.38.99.65 by 210.77.143.235 with SMTP; Wed, 24 Nov 2004 08:55:45 +0800
+Received: from server.cool-meeting.com (localhost.localdomain [127.0.0.1])
+	by server.cool-meeting.com (8.12.8/8.12.8) with ESMTP id iAO1F6lh027130
+	for <ning@ccert.edu.cn>; Wed, 24 Nov 2004 09:15:11 +0800
+Received: from ns.6test.edu.cn ([202.38.99.18])
+	by server.cool-meeting.com (8.12.8/8.12.8) with ESMTP id iAO1Epkr027102
+	for <ning@ccert.edu.cn>; Wed, 24 Nov 2004 09:14:51 +0800
+Received: from [202.112.3.118] (helo=IBM-E4AA49AF703)
+	by ns.6test.edu.cn with asmtp (Exim 4.12) id 1CWlqU-000HuA-00
+	for Toefl@server.cool-meeting.com; Wed, 24 Nov 2004 09:21:22 +0800
+From: "wang" <wang@ns.6test.edu.cn>
+To: ning@ccert.edu.cn
+X-mailer: Foxmail 4.2 [cn]
+Mime-Version: 1.0
+Content-Type: text/plain;
+      charset="GB2312"
+Date: Wed, 24 Nov 2004 8:59:53 +0800
+Message-Id: <E1CWlqU-000HuA-00@ns.6test.edu.cn>
+Content-Transfer-Encoding: 8bit
+X-MIME-Autoconverted: from quoted-printable to 8bit by server.cool-meeting.com
+	id iAO1Epkr027102
+Cc: 
+Subject: =?gb2312?B?UmU6IL3xzOzU2kdGtcS3v7zkt6LP1sHLxLDJ+sTQyMu1xNHMzbeho6GjoaOho6GjoaM=?=
+X-BeenThere: toefl@server.cool-meeting.com
+X-Mailman-Version: 2.1.2
+Precedence: list
+List-Id: &#26446;&#26143;&#21644;&#20182;&#30340;&#23398;&#29983;&#20204;
+	<toefl.server.cool-meeting.com>
+List-Unsubscribe: <http://server.cool-meeting.com/mailman/listinfo/toefl>,
+	<mailto:toefl-request@server.cool-meeting.com?subject=unsubscribe>
+List-Archive: <http://server.cool-meeting.com/mailman/private/toefl>
+List-Post: <mailto:toefl@server.cool-meeting.com>
+List-Help: <mailto:toefl-request@server.cool-meeting.com?subject=help>
+List-Subscribe: <http://server.cool-meeting.com/mailman/listinfo/toefl>,
+	<mailto:toefl-request@server.cool-meeting.com?subject=subscribe>
+Sender: toefl-bounces@server.cool-meeting.com
+Errors-To: toefl-bounces@server.cool-meeting.com
+X-UIDL: 'kN!!V[X"!)8M"!*am"!
+
+佩服，大哥，我对你的景仰有如黄河资水滔滔不绝。。
+: 这帮人就是站着说话不嫌腰疼。
+: 我不知道你来这里多久了，
+: 这里的ＭＭ又不是没见过，偶潜了这么久。
+: ...................
+－－－－你ＱＱ上几句话不太严肃，你大概就会成为陈世Ｍ
+－－－－你手机上有几个信可能有点暧昧，你基本上就能定性为wc男
+－－－－你要是有急事ＭＭ的电话不能及时的回，这里就会说你爱的有颜色
+－－－－你要是在ＭＭ和别人争锋的时候不能无条件的出手，大概你就不是男人了。
+

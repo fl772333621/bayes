@@ -1,0 +1,32 @@
+Return-Path: <chen@cernet.edu.cn>
+Received: from WHITESNOW ([220.207.84.83])
+	(authenticated bits=0)
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id j067p0Hr016807
+	for <gu@ccert.edu.cn>; Thu, 6 Jan 2005 15:51:03 +0800 (CST)
+Message-ID: <003501c4f3c4$7d82f310$5354cfdc@WHITESNOW>
+From: "chen" <chen@cernet.edu.cn>
+To: gu@ccert.edu.cn
+References: <000701c4f23e$49323da0$18cb6fa6@CCERTDAWEI>
+Subject: =?gb2312?B?ofEgudjT2tChuqK1xM6iwb/UqsvYsuK2qA==?=
+Date: Thu, 6 Jan 2005 15:51:03 +0800
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="----=_NextPart_000_0031_01C4F407.86FCCF40"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2900.2180
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+X-UIDL: R?4"!5(j!!h9&"!Y9T!!
+
+Attach了一份文档
+大致内容：
+目前在门诊或实验室一直沿用的儿童血微量元素（Cu、Zn、Ca、Mg、Fe）标准是不分
+性别和年龄段的，成人与儿童共同的参考值范围，即：铜为11.8~39.3μmol/L，锌为
+76.5~229.9μmol/L，钙为1.55~2.10mmol/L，镁为1.1~2..1mmol/L，铁为7.5~11.8mmol/L。
+所以有的时候检测结果不一定能说明小孩是不是真的缺少某种微量元素。
+尤其是锌元素水平有较大的年龄阶梯，呈递增趋势；
+文章的结论是：
+小年龄儿童参考值范围可适当下调，不致使这些儿童由于参考值界高而过度补充锌元素。
+我家天天的微量元素结果出来了，除了锌以为都正常，锌是70，比参考值76.5-229.9
+稍微底了一点，医生开了补锌的葡萄糖酸锌，现在看来不用补了。
+

@@ -1,0 +1,96 @@
+Return-Path: <lin@ccert.edu.cn>
+Received: from tsinghua.org.cn ([210.77.143.231])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id iBF2XPIw017076
+	for <huang@ccert.edu.cn>; Wed, 15 Dec 2004 10:33:26 +0800
+Received: (eyou send program); Wed, 15 Dec 2004 10:26:47 +0800
+Received: (eyou send program); Wed, 15 Dec 2004 10:26:47 +0800
+X-EYOU-ORIGINAL-IP: 210.77.143.235
+X-EYOU-ENVELOPE-MAILFROM: starry@ccert.edu.cn
+Received: from unknown (HELO eyou.net) (unknown@210.77.143.235)
+ by 210.77.143.231 with SMTP; Wed, 15 Dec 2004 10:26:47 +0800
+Received: (eyou send program); Wed, 15 Dec 2004 10:41:26 +0800
+Message-ID: <303078486.18907@eyou.net>
+Received: from 166.111.8.16 by 210.77.143.235 with SMTP; Wed, 15 Dec 2004 10:41:15 +0800
+Received: (eyou send program); Wed, 15 Dec 2004 10:41:19 +0800
+Message-ID: <303078479.26059@mails.tsinghua.edu.cn>
+Received: (eyou send program); Wed, 15 Dec 2004 10:41:18 +0800
+Message-ID: <303078478.05837@mails.tsinghua.edu.cn>
+Received: from unknown (HELO mails.tsinghua.edu.cn) (unknown@127.0.0.1)
+ by 127.0.0.1 with SMTP; Wed, 15 Dec 2004 10:41:18 +0800
+X-scanvirus: By Symantec Scan Engine
+X-scanresult: CLEAN
+X-Received: ccert.edu.cn,202.112.57.12,20041215104106
+Received: from ccert.edu.cn (HELO home.ccert.edu.cn) (202.112.57.12)
+  by localhost with SMTP; 15 Dec 2004 02:41:06 -0000
+Received: from home.ccert.edu.cn (localhost [127.0.0.1])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id iBF2WHkL017047;
+	Wed, 15 Dec 2004 10:32:17 +0800
+Received: (from majordomo@localhost)
+	by home.ccert.edu.cn (8.13.1/8.13.1/Submit) id iBF2WH0w017046;
+	Wed, 15 Dec 2004 10:32:17 +0800
+X-Authentication-Warning: home.ccert.edu.cn: majordomo set sender to owner-ccertstaff using -f
+Received: from starry ([202.112.50.191])
+	(authenticated bits=0)
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id iBF2WGIG017040
+	for <huang@ccert.edu.cn>; Wed, 15 Dec 2004 10:32:16 +0800
+Message-Id: <200412150232.iBF2WGIG017040@home.ccert.edu.cn>
+Date: Wed, 15 Dec 2004 10:45:40 +0800
+From: "lin" <lin@ccert.edu.cn>
+To: huang@ccert.edu.cn
+Subject: =?gb2312?B?ofEgVGhlIE5pbnRoIEdhdGU=?=
+X-mailer: Foxmail 5.0 [cn]
+Mime-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="=====003_Dragon234248736003_====="
+Sender: owner-ccertstaff@home.ccert.edu.cn
+Precedence: bulk
+X-UIDL: U0\"!2UN!!~F7!!dQ]!!
+
+【片　　名】：The Ninth Gate
+【译　　名】：魔鬼手记 / 其它：第九道门
+【导　　演】：罗曼·波兰斯基 (Paul Verhoeven)
+【编　　剧】：Arturo Pérez-Reverte
+　　　　　　　John Brownjohn
+【主　　演】：约翰尼·德普 (Johnny Depp)　　　　 
+　　　　　　　弗兰克·兰杰拉 (Frank Langella) 
+【首映日期】：1999年3月10日
+【制作公司】：艺匠 (Artisan)　
+【发行公司】：艺匠 (Artisan)　　
+【国家地区】：美国
+【类　　型】：恐怖 / 惊悚 / 神秘
+【片　　长】：133 min
+【年　　代】：1999年
+【碟　　商】：DNA
+【碟　　片】：单D9 / 2区
+【版　　本】：WIDESCREEN EDITION
+【文件格式】：DVDRip
+【视频编码】：XviD
+【视频尺寸】：672 x 272
+【音频格式】：AC3 5.1 Channel
+【文件大小】：503MB
+【正片时间】：2:13:01
+【语　　言】：英语
+【字幕格式】：Sub+idx
+【字幕语言】：中文 / 英文
+【分割时间】：1:15:36:412
+【影片简介】：
+　　卡索（约翰尼·戴普饰）是一位专门收集希奇古怪的书籍的异人，他受雇于欧
+洲一个最大的魔鬼图书收藏家。由于他的工作成绩突出，卡索受到了特别嘉奖，奖
+品是一册16世纪的古书《第九道门》。 
+　　这本书内含九幅蚀刻画，传闻参详汇通此书之人将拥有一种至高无上的神秘力
+量。现在世上还流通着此书的副本，于是卡索被派往遥远的欧洲边区，寻找那些副
+本。这件工作看似简单，实则无异于大海捞针。 
+　　卡索陷入了茫然、困惑中，然而他还不知道，这些书携带了一种厄运与死亡的
+咒语，自古以来，任何此书拥有者都无法逃脱悲惨的命运。此时此刻，等待卡索的
+又将是什么呢？
+幕后：
+　　《第九道门》改编自一位西班牙作家Arturo Paris Riverte的同名小说，导演
+罗曼·波兰斯基在预算只有3000万美元的情况下，请到约翰尼·戴普主演这主演这
+部超自然惊悚恐怖片。这部影片跨越了几个国家，从巴黎、西班牙到葡萄牙，全片
+充满异域风情。《第九道门》从98年6月开始拍摄，原本预定于99年3月公映，由于
+种种原因一直推迟到99年末。根据影片需要，特地请来了弗兰克·朗格拉扮演魔鬼
+图书收藏家。影片的悬念和独特的叙事手法颇有些希区柯克式。尤其是本片通过表
+现片中人物的心理、精神困惑及两性冲突等多方面的内容，深刻揭示了人类内心深
+处的善恶、美丑。尽管如此，波兰斯基仍希望观众能从中更多地体会出波兰斯基电
+影的独特风格。 
+

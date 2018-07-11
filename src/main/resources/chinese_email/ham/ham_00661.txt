@@ -1,0 +1,35 @@
+Return-Path: <xing@mails.tsinghua.edu.cn>
+Received: from mails.tsinghua.edu.cn (mails.tsinghua.edu.cn [166.111.8.16])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with SMTP id j5NNQpeb026561
+	for <gao@ccert.edu.cn>; Fri, 24 Jun 2005 07:27:01 +0800
+Message-Id: <200506232327.j5NNQpeb026561@home.ccert.edu.cn>
+X-scanvirus: By SOPHOS Scan Engine
+X-scanresult: CLEAN
+X-Received: unknown,166.111.248.15,20050624072710
+Received: from unknown (HELO tsinghua-5bcc83) (jwr2000@166.111.248.15)
+  by localhost with SMTP; 23 Jun 2005 23:27:10 -0000
+Date: Fri, 24 Jun 2005 07:46:50 +0800
+From: "xing" <xing@mails.tsinghua.edu.cn>
+To: gao@ccert.edu.cn
+Subject: =?gb2312?B?ofEgs8/GuNOissU6z+7Ev7ncwO3Iy9Sxeno=?=
+X-mailer: Foxmail 5.0 [cn]
+Mime-Version: 1.0
+Content-Type: multipart/mixed; boundary="----------=_1119569222-21029-553"
+X-StampID: O697fbd202b06803d9aca4a09a741ab66
+X-UIDL: P##"!9dI"!=3?"!,SI"!
+
+发信人: LEXWAY (奇好), 信区: Career
+标  题: 诚聘英才:项目管理人员
+发信站: BBS 水木清华站 (Mon Jun  6 16:06:32 2005), 站内
+    本公司是一家高科技公司,位于北京市海淀区上地信息产业基地,现因工作需要,招聘一
+名项目管理人员,从事一些项目的管理工作, 主要是一些科技、文化项目的营销、策划、公
+关等，基本要求如下：
+1、形象较好，沟通交流能力较强，善于语言表达；
+2、为人灵活，分析解决问题能力较强，善于处理各种工作事务，有过相关学生工作经验或
+ 社会经验的优先；
+3、富有创业精神和吃苦能力，最好具有长久发展的能力和潜力；
+4、各方面综合发展，对具体专业没有限制。
+    一旦录用，将获得富有竞争力的报酬。
+    联系方式：62988535 胡总
+             邮箱:hujinxin63096@sohu.com
+

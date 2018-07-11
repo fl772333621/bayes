@@ -1,0 +1,66 @@
+Return-Path: <ke@ns.6test.edu.cn>
+Received: from tsinghua.org.cn ([210.77.143.228])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id i8K3rCQj002714
+	for <cao@ccert.edu.cn>; Mon, 20 Sep 2004 11:53:13 +0800
+Received: (eyou send program); Mon, 20 Sep 2004 12:02:59 +0800
+Received: (eyou send program); Mon, 20 Sep 2004 12:02:55 +0800
+X-EYOU-ORIGINAL-IP: 202.38.99.65
+X-EYOU-ENVELOPE-MAILFROM: toefl-bounces@server.cool-meeting.com
+Received: from unknown (HELO server.cool-meeting.com) (unknown@202.38.99.65)
+ by 210.77.143.228 with SMTP; Mon, 20 Sep 2004 12:02:55 +0800
+Received: from server.cool-meeting.com (localhost.localdomain [127.0.0.1])
+	by server.cool-meeting.com (8.12.8/8.12.8) with ESMTP id i8K3qele008596
+	for <cao@ccert.edu.cn>; Mon, 20 Sep 2004 11:52:48 +0800
+Received: from ns.6test.edu.cn ([202.38.99.18])
+	by server.cool-meeting.com (8.12.8/8.12.8) with ESMTP id i8K3qbkr008592
+	for <cao@ccert.edu.cn>; Mon, 20 Sep 2004 11:52:37 +0800
+Received: from [202.112.3.177] (helo=[202.112.3.177])
+	by ns.6test.edu.cn with asmtp (Exim 4.12) id 1C9FSw-000IDV-00
+	for toefl@server.cool-meeting.com; Mon, 20 Sep 2004 12:07:50 +0800
+Mime-Version: 1.0 (Apple Message framework v619)
+Message-Id: <FEFD67E1-0AB7-11D9-AFFB-000D93AF6D96@ns.6test.edu.cn>
+Content-Type: text/plain; charset=EUC-CN; format=flowed
+To: cao@ccert.edu.cn
+From: CHEN Maoke <ke@ns.6test.edu.cn>
+Date: Mon, 20 Sep 2004 11:48:55 +0800
+X-Mailer: Apple Mail (2.619)
+Content-Transfer-Encoding: 8bit
+X-MIME-Autoconverted: from base64 to 8bit by server.cool-meeting.com id
+	i8K3qbkr008592
+Subject: =?gb2312?B?UmU6ILCutcTIy7G7vNLA78jLyM/OqsO709DHsM2+1PXDtLDs?=
+X-BeenThere: toefl@server.cool-meeting.com
+X-Mailman-Version: 2.1.2
+Precedence: list
+List-Id: &#26446;&#26143;&#21644;&#20182;&#30340;&#23398;&#29983;&#20204;
+	<toefl.server.cool-meeting.com>
+List-Unsubscribe: <http://server.cool-meeting.com/mailman/listinfo/toefl>,
+	<mailto:toefl-request@server.cool-meeting.com?subject=unsubscribe>
+List-Archive: <http://server.cool-meeting.com/mailman/private/toefl>
+List-Post: <mailto:toefl@server.cool-meeting.com>
+List-Help: <mailto:toefl-request@server.cool-meeting.com?subject=help>
+List-Subscribe: <http://server.cool-meeting.com/mailman/listinfo/toefl>,
+	<mailto:toefl-request@server.cool-meeting.com?subject=subscribe>
+Sender: toefl-bounces@server.cool-meeting.com
+Errors-To: toefl-bounces@server.cool-meeting.com
+X-UIDL: 'IG"!cQ%"!G;\!!iF8!!
+
+我十分理解你这位亲戚的境况和感受，因为我和她有一点相象
+我gg也是军人，而我是thu的博士
+我们刚开始认识的时候我也是觉着挺聊的来的
+一方面我这个人比较内向，平时话很少
+而我们当时经常一打电话就会通宵的聊，印象中自己从小到大从没有说过那么多话
+不过有一点不一样的是，我自己当时对我们的感情挺没有信心的
+但是我父母非常支持
+也许因为我gg人的确很好，很老实，对我也非常好
+记得当时妈妈说过的一句话让我很感动，也更加坚定了我和他携手的决心
+她说：人生这么短暂，遇到一个知己不容易，其实其他的一切，包括钱财，包括事业
+都并不是最重要的
+所以说如果仅仅是因为觉着军人没有前途就劝他们分开，我觉得倒大可不必
+而且她都已经成人了，应该有自己的辨别能力
+关键还是看人和自己的感觉
+不管怎样，都要祝福她^_^
+: 是我的一个亲戚
+:   她喜欢上一个军人，可是家里人都说没有前途，而且她是研究生毕业，工作好，可是就
+: 是忙，没有时间认识人，好不容易认识一个，也很难找到合适的，所以这次能碰上一个她
+: ...................
+

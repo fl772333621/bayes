@@ -1,0 +1,22 @@
+Return-Path: <zhuang@rbl.ccert.edu.cn>
+Received: from rbl.ccert.edu.cn (rbl.ccert.edu.cn [202.112.57.71])
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id i983AKfe000722
+	for <guo@ccert.edu.cn>; Fri, 8 Oct 2004 11:10:21 +0800 (CST)
+Received: from rbl.ccert.edu.cn (localhost.localdomain [127.0.0.1])
+	by rbl.ccert.edu.cn (8.12.11/8.12.11) with ESMTP id i983GLpV020850
+	for <guo@ccert.edu.cn>; Fri, 8 Oct 2004 11:16:21 +0800
+Received: (from qa@localhost)
+	by rbl.ccert.edu.cn (8.12.11/8.12.11/Submit) id i983GLSf020849;
+	Fri, 8 Oct 2004 11:16:21 +0800
+Date: Fri, 8 Oct 2004 11:16:21 +0800
+Message-Id: <200410080316.i983GLSf020849@rbl.ccert.edu.cn>
+Subject: =?gb2312?B?ofEgs8/GuNeowPu0+sDtuaSzzMqmo6E=?=
+To: guo@ccert.edu.cn
+From: Tran Quang Anh <zhuang@cernet.edu.cn>
+Content-Type: multipart/mixed; boundary="----------=_1097205381-1044-228"
+MIME-Version: 1.0
+X-UIDL: 0ZW"!'d/!!L`k!!JVS"!
+
+台湾专利商标事务所北京办事处，诚聘具有计算机、电子、通信、自动化、光电材料等本科以上学历的应届毕业生或具有一定专利代理经验的理工科专业人士加入我们的团队，主要从事专利申请文件的撰写和翻译工作，要求具备扎实的相关专业基础知识，较强的文字表达功底，优良的英文翻译水平，一经录用，待遇从优！（欢迎符合以上条件者将详细的个人简历投送至我公司信箱：baobao@aipo.com.tw，刘先生收，谢谢！）
+PS：替朋友发贴，请不要回站内信箱。
+

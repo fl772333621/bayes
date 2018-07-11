@@ -1,0 +1,45 @@
+Return-Path: <fu@home.ccert.edu.cn>
+Received: from home.ccert.edu.cn (localhost [127.0.0.1])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id i9K1YYKo021692;
+	Wed, 20 Oct 2004 09:34:34 +0800
+Received: (from majordomo@localhost)
+	by home.ccert.edu.cn (8.13.1/8.13.1/Submit) id i9K1YYhT021691;
+	Wed, 20 Oct 2004 09:34:34 +0800
+X-Authentication-Warning: home.ccert.edu.cn: majordomo set sender to owner-ccertstaff using -f
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with SMTP id i9K1YSEX021686
+	for <feng@ccert.edu.cn>; Wed, 20 Oct 2004 09:34:28 +0800
+Received: (eyou send program); Wed, 20 Oct 2004 09:31:13 +0800
+Message-ID: <298235873.27414@mail.tsinghua.edu.cn>
+Received: from unknown (HELO mail.tsinghua.edu.cn) (unknown@127.0.0.1)
+ by 127.0.0.1 with SMTP; Wed, 20 Oct 2004 09:31:13 +0800
+X-scanvirus: By Symantec Scan Engine
+X-scanresult: CLEAN
+Received: (eqmail ); 20 Oct 2004 01:31:12 -0000
+Received: from unknown (HELO sony) (duanhx@202.112.50.6)
+  by localhost with SMTP; 20 Oct 2004 01:31:12 -0000
+Message-ID: <01bb01c4b646$7ef2e4f0$cae86fa6@sony>
+From: "fu" <fu@tsinghua.edu.cn>
+To: feng@ccert.edu.cn
+Subject: =?gb2312?B?UmU6IL3xzOzKx87SveG76TLE6rzNxO7I1Sg0KQ==?=
+Date: Wed, 20 Oct 2004 09:45:35 +0800
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2900.2180
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+Content-Transfer-Encoding: 8bit
+X-MIME-Autoconverted: from base64 to 8bit by home.ccert.edu.cn id i9K1YYEX021689
+Sender: owner-ccertstaff@home.ccert.edu.cn
+Precedence: bulk
+X-UIDL: $E""!5?\"!^&>!!l&g!!
+
+路过，祝福一下!
+墙里秋千墙外道，墙外行人，墙里佳人笑，笔渐不闻声渐悄，多情却被无情扰!
+: 我这人坏毛病不少，最可恶的就是喜欢告状，芝麻绿豆大的都告的全世界都知道。每次总是夸大其词，而且我还有个特别的功夫，就是在完全陈述事实的同时，把舆论力量集中到我这边，到最后连gg的妈妈都觉得gg不对，每次我告完状，gg总是假装生气地说：“看看，又告状了，我都不和你计较”
+: 不过有一次见到我舅舅，舅舅私地下说：“你老欺负人家***”,俺回家就和gg说，gg乐了，说：“群众的眼光是雪亮的！”
+: 申请欠了很多钱，等了我们工作以后，我们俩就一分一分的攒钱还债，我最大的乐趣就是看着自己存折的钱一点一点往上涨，于是日常开销以gg的工资为主，俺的工资一点点往上涨，俺没事就拿出来看看，很满足的感觉，但谁都不能动我的存折，一动我就像被割肉一样，最记得公司发了奖金，gg帮我存了，回来一看，约，存折头一次突破1w！不太可能啊，我知道自己的钱有多少。gg乐了，说:"我知道你也就这点出息，就从我的存折取了点钱帮你凑满1W",heihei
+: ...................
+

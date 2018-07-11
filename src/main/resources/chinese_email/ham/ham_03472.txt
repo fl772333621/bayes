@@ -1,0 +1,63 @@
+Return-Path: <shen@ns.6test.edu.cn>
+Received: from tsinghua.org.cn ([210.77.143.231])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id iB1FF1XW026310
+	for <lu@ccert.edu.cn>; Wed, 1 Dec 2004 23:15:02 +0800
+Received: (eyou send program); Wed, 01 Dec 2004 23:08:08 +0800
+Received: (eyou send program); Wed, 01 Dec 2004 23:08:07 +0800
+X-EYOU-ORIGINAL-IP: 210.77.143.235
+X-EYOU-ENVELOPE-MAILFROM: toefl-bounces@server.cool-meeting.com
+Received: from unknown (HELO eyou.net) (unknown@210.77.143.235)
+ by 210.77.143.231 with SMTP; Wed, 01 Dec 2004 23:08:07 +0800
+Received: (eyou send program); Wed, 01 Dec 2004 23:23:15 +0800
+Message-ID: <301914595.28267@eyou.net>
+Received: from 202.38.99.65 by 210.77.143.235 with SMTP; Wed, 01 Dec 2004 23:23:13 +0800
+Received: from server.cool-meeting.com (localhost.localdomain [127.0.0.1])
+	by server.cool-meeting.com (8.12.8/8.12.8) with ESMTP id iB1Fi3lZ007332
+	for <lu@ccert.edu.cn>; Wed, 1 Dec 2004 23:44:24 +0800
+Received: from ns.6test.edu.cn ([202.38.99.18])
+	by server.cool-meeting.com (8.12.8/8.12.8) with ESMTP id iB1Fhvkr007328
+	for <lu@ccert.edu.cn>; Wed, 1 Dec 2004 23:43:57 +0800
+Received: from [210.25.128.109] (helo=wlj)
+	by ns.6test.edu.cn with asmtp (Exim 4.12) id 1CZWkW-000HAq-00
+	for Toefl@server.cool-meeting.com; Wed, 01 Dec 2004 23:50:36 +0800
+Message-ID: <01e901c4d7ba$46827460$6f416fa6@wlj>
+From: "shen" <shen@ns.6test.edu.cn>
+To: lu@ccert.edu.cn
+Date: Wed, 1 Dec 2004 23:25:57 +0800
+MIME-Version: 1.0
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2800.1437
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1441
+Cc: 
+Subject: =?gb2312?B?UmU6ILnY09qwrsGi0MXR0Lei1tDQxKOsztKyu7XDsrvLtcG9vuQ=?=
+X-BeenThere: toefl@server.cool-meeting.com
+X-Mailman-Version: 2.1.2
+Precedence: list
+List-Id: &#26446;&#26143;&#21644;&#20182;&#30340;&#23398;&#29983;&#20204;
+	<toefl.server.cool-meeting.com>
+List-Unsubscribe: <http://server.cool-meeting.com/mailman/listinfo/toefl>,
+	<mailto:toefl-request@server.cool-meeting.com?subject=unsubscribe>
+List-Archive: <http://server.cool-meeting.com/mailman/private/toefl>
+List-Post: <mailto:toefl@server.cool-meeting.com>
+List-Help: <mailto:toefl-request@server.cool-meeting.com?subject=help>
+List-Subscribe: <http://server.cool-meeting.com/mailman/listinfo/toefl>,
+	<mailto:toefl-request@server.cool-meeting.com?subject=subscribe>
+Content-Type: multipart/mixed; boundary="===============094321040159053182=="
+Sender: toefl-bounces@server.cool-meeting.com
+Errors-To: toefl-bounces@server.cool-meeting.com
+X-UIDL: Nn;!!lQW"!O=9!!Slb"!
+
+我是一名前几个月应聘到这个部门的员工，看见这么多人对这个话题在争论，想说几句。
+这次招聘是我们部门发起的，当时的面试组织者都是部门的员工，不是HR。这是因为部门员工对岗位工作和岗位需要什么类型的人最了解。
+作为我们部门的一名员工，如果我们让面试者在应聘过程中感到没有受到足够尊重，我表示深深的歉意，当时的面试官也会非常诚恳地道歉，因为我们的本意绝对尊重每一位来应聘的面试者。如果有些地方我们疏忽了，希望大家能够谅解，也非常感谢大家在这里指出来，我们以后才能更加注意和改进。
+作为也曾和大家一样的面试者，我也可以理解楼主的心情，我希望我的一些解释能让大家谅解面试过程中的一些不足之处。
+1。我也曾经参加过晚上六点的面试，当时也觉得这个时间比较突兀。上班以后才知道，上班时间的工作大家非常忙碌，会议室也几乎不空闲，所以部门面试都是业余时间，下午六点下班，组织者没有人吃了晚饭，也没有人有加班费，他们都只是为了找到最合适工作岗位的同事。
+2。公司很少有公款吃喝，员工加班也是自己解决晚饭；不过水是应该提供给大家的，如果当时疏忽了，请原谅。大家想喝水，完全可以直截了当提出来，或者当场指出来。
+3。面试过程中的有些问题可能会比较尖锐，或者问题比较强势，其实我们的本意绝不是不尊敬大家。其实启用毕业生在公司里是很有压力的，会受到各方面的质疑和担心，但部门经理一直认为很多优秀毕业生也很有潜力，所以他也花了很多时间培养新人。所以招聘来的员工，不能单单是温室里的花朵，面对各种棘手的场面也能泰然处之，不卑不亢。如果我们的问题让您感到不舒适，希望您能谅解。其实，面试者有可能就会成为同事，所以大家其实都不会刁难或瞧不起，我觉得部门里的同事都非常谦逊，而且合作愉快。
+最后，希望大家找到自己合适的工作！
+: 先说说我得面试经历。
+: 首先，突然一天早上收到他们的电话，说下午6点面试，不要迟到。还
+: 必须自带简历和照片。口气很生硬。当然，为了找工作，我也就答应了。
+: ...................
+

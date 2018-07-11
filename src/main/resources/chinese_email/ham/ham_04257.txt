@@ -1,0 +1,38 @@
+Return-Path: <wua@home.ccert.edu.cn>
+Received: from home.ccert.edu.cn (localhost [127.0.0.1])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id j0O3tiHl014739;
+	Mon, 24 Jan 2005 11:55:44 +0800
+Received: (from majordomo@localhost)
+	by home.ccert.edu.cn (8.13.1/8.13.1/Submit) id j0O3tibO014738;
+	Mon, 24 Jan 2005 11:55:44 +0800
+X-Authentication-Warning: home.ccert.edu.cn: majordomo set sender to owner-ccertstaff using -f
+Received: from ccertspark (tu203021.ip.tsinghua.edu.cn [166.111.203.21])
+	(authenticated bits=0)
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id j0O3thP4014734
+	for <qian@ccert.edu.cn>; Mon, 24 Jan 2005 11:55:44 +0800
+Reply-To: <wua@cernet.edu.cn>
+From: "wua" <wua@ccert.edu.cn>
+To: qian@ccert.edu.cn
+Subject: =?gb2312?B?UmU6ILbpwuS1xNbc0Mez26Oo16rU2KOp?=
+Date: Mon, 24 Jan 2005 12:05:48 +0800
+Message-ID: <001e01c501c9$fca4cc00$15cb6fa6@ccertspark>
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+X-Priority: 3 (Normal)
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook, Build 10.0.6626
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.3790.181
+Importance: Normal
+Content-Transfer-Encoding: 8bit
+X-MIME-Autoconverted: from base64 to 8bit by home.ccert.edu.cn id j0O3tiP4014736
+Sender: owner-ccertstaff@home.ccert.edu.cn
+Precedence: bulk
+X-UIDL: @-_"!,[H"!a8Q"!5ci!!
+
+不知道大话西游和前面的片子有什么不同，只是一个经典的话题被用被大学生们认为是经典的搞笑语言，表现表达出来了。就被惯与经典，有点可笑。还是把它当成一个搞笑片为好，只是受点欢迎罢了
+: 堕落的周星驰
+: 一个曾经的经典故事结束了。
+: 周星驰最初给人的印象只是一个搞笑专家，他的名字就是搞笑的代名词。年轻时只是觉得他够搞笑，看过他的片子后哈哈一笑，就算了————直到看到大话西游。
+: ...................
+

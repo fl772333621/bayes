@@ -1,0 +1,31 @@
+Return-Path: <wang@withub.org>
+Received: from autoforward.mail.sohu.com ([61.135.132.166])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id j0R1CjZu023959
+	for <yun@ccert.edu.cn>; Thu, 27 Jan 2005 09:12:45 +0800
+Received: from mx23.mail.sohu.com (unknown [192.168.41.141])
+	by autoforward.mail.sohu.com (Postfix) with ESMTP id 281518EA77
+	for <yun@ccert.edu.cn>; Thu, 27 Jan 2005 09:24:39 +0800 (CST)
+Received: by mx23.mail.sohu.com (Postfix)
+	id CED9414016; Thu, 27 Jan 2005 09:24:38 +0800 (CST)
+Delivered-To: chen741120@mx23.mail.sohu.com
+Received: from withub.org (unknown [218.80.208.20])
+	by sohumx13.sohu.com (Postfix) with SMTP id D44EA05BE35
+	for <yun@ccert.edu.cn>; Thu, 27 Jan 2005 09:24:33 +0800 (CST)
+Received: (qmail 46827 invoked by uid 1009); 27 Jan 2005 01:16:49 -0000
+Message-ID: <20050127011649.46826.qmail@withub.org>
+To: yun@ccert.edu.cn
+Subject: =?gb2312?B?UmU6ILGxvqm089Gnt6jRp9S61dDJ+sTaxLujqNeq1NijqQ==?=
+From: "wang" <wang@withub.org>
+Date: Thu, 27 Jan 2005 9:16:49 +0800
+X-Priority: 3
+X-Mailer: iGENUS webmail 3.0 beta powered by wuqiong@igenus.org
+X-Originating-IP: [192.168.1.254]
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----0973427521165f310c2805ed7b8ab6fb"
+X-Sohu-Antivirus: 0
+X-UIDL: c`[!!(;B"!:@g"!1F*#!
+
+我觉得其实这个不能单纯埋怨某位教授，不能说录取自考考生了就赞叹老师“识才”，不录取了就指责他们“歧视”，就好象过去完全按照分数录取大家会指责“只要书呆子”，现在增加复试比重又说教师们“故意偏袒”。自考生整体呈现出的较低素质使其中一部分勤奋上进的人需要付出更多的东努力来获得社会的承认和认肯，其中最难的一关就是人们的意识关，不要说自考生，就是本校和外校的正规本科毕业考生，复试时老师都会有偏袒，这不单纯是某种护短和偏执，而是情感上的一种信任，我想诸位以后如果成为名校教授，也难保不偏袒自己的学生，只是未必有这个文章描述的那么偏激。在教育资源还很短缺，教育资源在获得社会优势地位还有很高帮助的时候，一个起点低的人和起点高的人获得同样的竞争机会乃至超出很难。
+: 北大教授侮辱自考生事件当事人自述兼评“陈瑞华被指侮辱自考生事件”　　&lt;FONT color=#0000ff&gt;新闻背景：&lt;/FONT&gt;&lt;a href="http://learning.sohu.com/20050414/n225177271.shtml" target="_blank" &gt;&lt;FONT color=#0000ff&gt;北大教授被指侮辱自考生 称混吃混喝蹭课听&lt;/FONT&gt;&lt;
+

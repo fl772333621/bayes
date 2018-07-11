@@ -1,0 +1,25 @@
+Return-Path: <mei@rbl.ccert.edu.cn>
+Received: from rbl.ccert.edu.cn (rbl.ccert.edu.cn [202.112.57.71])
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id i9D0t3sb029375
+	for <ning@ccert.edu.cn>; Wed, 13 Oct 2004 08:55:03 +0800 (CST)
+Received: from rbl.ccert.edu.cn (localhost.localdomain [127.0.0.1])
+	by rbl.ccert.edu.cn (8.12.11/8.12.11) with ESMTP id i9D10RFD008530
+	for <ning@ccert.edu.cn>; Wed, 13 Oct 2004 09:00:29 +0800
+Received: (from qa@localhost)
+	by rbl.ccert.edu.cn (8.12.11/8.12.11/Submit) id i9D10RKw008529;
+	Wed, 13 Oct 2004 09:00:27 +0800
+Date: Wed, 13 Oct 2004 09:00:27 +0800
+Message-Id: <200410130100.i9D10RKw008529@rbl.ccert.edu.cn>
+Subject: =?gb2312?B?UmU6IEdHy7XL+8Lowuiz9seusO/O0ru51vrRp7T7v+6jrNXi0fm6z8rKwvCjvw==?=
+To: ning@ccert.edu.cn
+From: Tran Quang Anh <mei@cernet.edu.cn>
+Content-Type: multipart/mixed; boundary="----------=_1097629229-1014-154"
+MIME-Version: 1.0
+X-UIDL: Hm!"!3*L"!goJ"!<7("!
+
+bt啊,助学贷款的利息和银行存款利息差不多,干嘛提前还?
+: 我现在刚毕业，要还款，GG说让他妈妈出钱还，以后我存了钱再还他妈妈就可以了，不用付利息。
+: 我现在的工作一年还清贷款比较有希望，但可能还要还2000左右的利息（总共3万左右），GG觉得把利息付银行挺亏的。
+: 我和GG还没结婚，但感情挺好，只是觉得还没嫁给他就和他们家扯上钱的关系，感觉不太舒服，欠了他妈妈人情似的，这样合适吗？
+: ...................
+

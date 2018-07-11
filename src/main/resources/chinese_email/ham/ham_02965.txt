@@ -1,0 +1,25 @@
+Return-Path: <yun@rbl.ccert.edu.cn>
+Received: from rbl.ccert.edu.cn (rbl.ccert.edu.cn [202.112.57.71])
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id i920sjRd009578
+	for <kang@ccert.edu.cn>; Sat, 2 Oct 2004 08:54:45 +0800 (CST)
+Received: from rbl.ccert.edu.cn (localhost.localdomain [127.0.0.1])
+	by rbl.ccert.edu.cn (8.12.11/8.12.11) with ESMTP id i9210R4O000685
+	for <kang@ccert.edu.cn>; Sat, 2 Oct 2004 09:00:27 +0800
+Received: (from qa@localhost)
+	by rbl.ccert.edu.cn (8.12.11/8.12.11/Submit) id i9210Rpw000684;
+	Sat, 2 Oct 2004 09:00:27 +0800
+Date: Sat, 2 Oct 2004 09:00:27 +0800
+Message-Id: <200410020100.i9210Rpw000684@rbl.ccert.edu.cn>
+Subject: =?gb2312?B?UmU6ILWxuqbFwsqnyKXSu7j2yMu1xMqxuvKhraGt?=
+To: kang@ccert.edu.cn
+From: Tran Quang Anh <yun@cernet.edu.cn>
+Content-Type: multipart/mixed; boundary="----------=_1096678827-996-312"
+MIME-Version: 1.0
+X-UIDL: GA7!!7,O!!d6d"!gW\"!
+
+愿赌服输
+:     《星战》里面把恐惧算成了Dark Side的一方面，当你害怕失去一个东西或者失去一个人的时候，你会失去自我，被一些东西甚至是邪恶所控制，难以自拔，我自己似乎也有这样的感觉，尝着痛苦，但是却没有办法走出。   
+:     跟她在一起，很多时候你难以感觉出来她对你的在意、肯定和欣赏，包括她的眼神，她的看法，她的行为。总感觉相爱应该是一个相互的过程，你对她的在意，为了她改变，为了她付出，她也应该对你在意，有些时候只是等待她的一个肯定，哪怕是眼神，似乎都那么困难。
+:     我无法忍受她有些时候活在自己的世界里的感觉，没有交流，没有默契，感觉你热诚的目光频频投向她的时候，她却一脸茫然，她似乎根本没有体会到你付出的艰辛和痛苦，感觉她把一切都当作理所当然，我是男人就这样的命运。有些时候心里有很多的痛楚，却很难启齿，鼓起勇气的时候，却又引起大家的冲突和冷战，奢望她的理解，却很少得到。
+: ...................
+

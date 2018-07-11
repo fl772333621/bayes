@@ -1,0 +1,59 @@
+Return-Path: <luo@cugb.edu.cn>
+Received: from tsinghua.org.cn ([210.77.143.231])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id j056rfIb019368
+	for <zhao@ccert.edu.cn>; Wed, 5 Jan 2005 14:53:44 +0800
+Received: (eyou send program); Wed, 05 Jan 2005 14:47:29 +0800
+Received: (eyou send program); Wed, 05 Jan 2005 14:47:29 +0800
+X-EYOU-ORIGINAL-IP: 210.77.143.235
+X-EYOU-ENVELOPE-MAILFROM: liuquan@cugb.edu.cn
+Received: from unknown (HELO eyou.net) (unknown@210.77.143.235)
+ by 210.77.143.231 with SMTP; Wed, 05 Jan 2005 14:47:29 +0800
+Received: (eyou send program); Wed, 05 Jan 2005 15:01:37 +0800
+Message-ID: <304908497.13373@eyou.net>
+Received: from 166.111.8.16 by 210.77.143.235 with SMTP; Wed, 05 Jan 2005 15:01:36 +0800
+Received: (eyou send program); Wed, 05 Jan 2005 15:02:40 +0800
+Message-ID: <304908560.20392@mails.tsinghua.edu.cn>
+Received: (eyou send program); Wed, 05 Jan 2005 15:02:40 +0800
+Message-ID: <304908559.08041@mails.tsinghua.edu.cn>
+Received: from unknown (HELO mails.tsinghua.edu.cn) (unknown@127.0.0.1)
+ by 127.0.0.1 with SMTP; Wed, 05 Jan 2005 15:02:40 +0800
+X-scanvirus: By Symantec Scan Engine
+X-scanresult: CLEAN
+X-Received: ccert.edu.cn,202.112.57.12,20050105150236
+Received: from ccert.edu.cn (HELO home.ccert.edu.cn) (202.112.57.12)
+  by localhost with SMTP; 5 Jan 2005 07:02:36 -0000
+Received: from home.ccert.edu.cn (localhost [127.0.0.1])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id j056IrT0018704;
+	Wed, 5 Jan 2005 14:18:53 +0800
+Received: (from majordomo@localhost)
+	by home.ccert.edu.cn (8.13.1/8.13.1/Submit) id j056IruZ018703;
+	Wed, 5 Jan 2005 14:18:53 +0800
+X-Authentication-Warning: home.ccert.edu.cn: majordomo set sender to owner-ccert_forum using -f
+Received: from sky.cugb.edu.cn (cugb.edu.cn [202.204.105.2] (may be forged))
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id j056IqvB018698
+	for <zhao@ccert.edu.cn>; Wed, 5 Jan 2005 14:18:53 +0800
+Received: from cugb.edu.cn ([127.0.0.1]) by sky.cugb.edu.cn
+          (Netscape Messaging Server 4.15) with ESMTP id I9TZOS00.00G for
+          <ccert_forum@ccert.edu.cn>; Wed, 5 Jan 2005 14:36:28 +0800 
+From: "luo" <luo@cugb.edu.cn>
+To: zhao@ccert.edu.cn
+Message-ID: <162e4905.4905162e@cugb.edu.cn>
+Date: Wed, 05 Jan 2005 14:36:28 +0800
+X-Mailer: Netscape Webmail
+MIME-Version: 1.0
+Content-Language: zh-CN
+Subject: =?gb2312?B?UmU6IEdHy7XL+8Lowuiz9seusO/O0ru51vrRp7T7v+6jrNXi0fm6z8rKwvCjvw==?=
+X-Accept-Language: zh-CN
+Content-Type: text/plain; charset=gb2312
+Content-Disposition: inline
+Content-Transfer-Encoding: 8bit
+X-MIME-Autoconverted: from quoted-printable to 8bit by home.ccert.edu.cn id j056IrvB018701
+Sender: owner-ccert_forum@home.ccert.edu.cn
+Precedence: bulk
+X-UIDL: GIX"!>I^!!U/<!!l3T!!
+
+何必呢？万一将来有个什么不快。。。就2000块的便宜。。。也会被人揪出来说三道四的。。。。嗯 防患于未然啊。。。。
+: 我现在刚毕业，要还款，GG说让他妈妈出钱还，以后我存了钱再还他妈妈就可以了，不用付利息。
+: 我现在的工作一年还清贷款比较有希望，但可能还要还2000左右的利息（总共3万左右），GG觉得把利息付银行挺亏的。
+: 我和GG还没结婚，但感情挺好，只是觉得还没嫁给他就和他们家扯上钱的关系，感觉不太舒服，欠了他妈妈人情似的，这样合适吗？
+

@@ -1,0 +1,40 @@
+Return-Path: <huang@rbl.ccert.edu.cn>
+Received: from rbl.ccert.edu.cn (rbl.ccert.edu.cn [202.112.57.71])
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id i9J20ALD017679
+	for <liao@ccert.edu.cn>; Tue, 19 Oct 2004 10:00:11 +0800 (CST)
+Received: from rbl.ccert.edu.cn (localhost.localdomain [127.0.0.1])
+	by rbl.ccert.edu.cn (8.12.11/8.12.11) with ESMTP id i9J25xmE028667
+	for <liao@ccert.edu.cn>; Tue, 19 Oct 2004 10:05:59 +0800
+Received: (from qa@localhost)
+	by rbl.ccert.edu.cn (8.12.11/8.12.11/Submit) id i9J25xSQ028666;
+	Tue, 19 Oct 2004 10:05:59 +0800
+Date: Tue, 19 Oct 2004 10:05:59 +0800
+Message-Id: <200410190205.i9J25xSQ028666@rbl.ccert.edu.cn>
+Subject: =?gb2312?B?UmU6INC0uPjSqszuuN+/vNa+1Li1xMjLw8ejrLzmzLi149DQ0rW/tLeooaM=?=
+To: liao@ccert.edu.cn
+From: Tran Quang Anh <huang@cernet.edu.cn>
+Content-Type: multipart/mixed; boundary="----------=_1098151559-25795-274"
+MIME-Version: 1.0
+X-UIDL: 2:f"!~#W!!Db["!bQj"!
+
+我记得新东方的老师说：美国人到了北京，出了机场，看见那么多超短裙，还认为到红灯区了呢
+: 标  题: Re: 写给要填高考志愿的人们，兼谈点行业看法。
+: 发信站: 水木社区 (Sat Jun 11 12:54:36 2005), 站内
+: 
+: 没看到过，看来北京太保守，上海也没见这么开放亚
+: 你不是说特定的场所吧，disco，nightclub之类的地方/
+: : 喂,你们几个是不是故意玩我啊...嘿嘿
+: : 难道你们在学校里面就不出去走走? 再说学校里也有很多这样的啊
+: 
+: 
+: --
+: 最近看过的电影
+: Stage Beauty             舞台美人    7.5/10
+: Head-On                  勇往直前    7.5/10
+: Les Choristes          放牛班的春天   8+/10
+: The Phantom of the Opera 歌剧魅影    8.5/10
+: A Letter From An Unknown Woman 一个陌生女人的来信 7.5/10
+: 
+: 
+: ※ 来源:·水木社区 newsmth.net·[FROM: 202.205.10.*]
+

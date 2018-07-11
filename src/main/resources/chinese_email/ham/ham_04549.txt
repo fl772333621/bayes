@@ -1,0 +1,61 @@
+Return-Path: <cen@ns.6test.edu.cn>
+Received: from tsinghua.org.cn ([210.77.143.232])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with SMTP id j2BFAuiG021429
+	for <yan@ccert.edu.cn>; Fri, 11 Mar 2005 23:10:56 +0800
+Received: (eyou send program); Fri, 11 Mar 2005 23:23:11 +0800
+Message-ID: <310554591.01109@tsinghua.org.cn>
+X-EYOU-AUTOFORWARD: tsinghua.org.cn
+Received: (eyou send program); Fri, 11 Mar 2005 23:23:11 +0800
+Message-ID: <310554591.32523@tsinghua.org.cn>
+Received: from unknown (HELO eyou.net) (210.77.143.235)
+ by 210.77.143.232 with SMTP; Fri, 11 Mar 2005 23:23:11 +0800
+X-EYOU-SPAMVALUE: 10
+Received: (eyou anti_spam gateway 3.0); Fri, 11 Mar 2005 23:14:54 +0800
+Message-ID: <310554094.08717@eyou.net>
+Received: from 202.38.99.65 by 210.77.143.235 with SMTP; Fri, 11 Mar 2005 23:14:53 +0800
+Received: from server.cool-meeting.com (localhost.localdomain [127.0.0.1])
+	by server.cool-meeting.com (8.12.8/8.12.8) with ESMTP id j2BDScQ9001492
+	for <yan@ccert.edu.cn>; Fri, 11 Mar 2005 21:29:00 +0800
+Received: from ns.6test.edu.cn ([202.38.99.18])
+	by server.cool-meeting.com (8.12.8/8.12.8) with ESMTP id j2BDSVPT001488
+	for <yan@ccert.edu.cn>; Fri, 11 Mar 2005 21:28:31 +0800
+Received: from [61.48.25.70] (helo=[192.168.0.251])
+	by ns.6test.edu.cn with asmtp (Exim 4.12) id 1D9mWB-000Igy-00
+	for toefl@server.cool-meeting.com; Fri, 11 Mar 2005 23:57:39 +0800
+Message-ID: <4231B7E3.2080707@ns.6test.edu.cn>
+Date: Fri, 11 Mar 2005 23:23:15 +0800
+From: CHEN Maoke <cen@ns.6test.edu.cn>
+User-Agent: Mozilla Thunderbird 0.9 (Macintosh/20041103)
+X-Accept-Language: en-us, en
+MIME-Version: 1.0
+To: yan@ccert.edu.cn
+Content-Type: multipart/mixed; boundary="------------090201030209040603040506"
+Cc: 
+Subject: [TOEFL] [Fwd: [Fwd: =?gb2312?b?1KS08LHnzajWql1d?=
+X-BeenThere: toefl@gradinfo.net.edu.cn
+X-Mailman-Version: 2.1.2
+Precedence: list
+List-Id: &#26446;&#26143;&#21644;&#20182;&#30340;&#23398;&#29983;&#20204;
+	<toefl.gradinfo.net.edu.cn>
+List-Unsubscribe: <http://server.cool-meeting.com/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=unsubscribe>
+List-Archive: <http://server.cool-meeting.com/mailman/private/toefl>
+List-Post: <mailto:toefl@gradinfo.net.edu.cn>
+List-Help: <mailto:toefl-request@gradinfo.net.edu.cn?subject=help>
+List-Subscribe: <http://server.cool-meeting.com/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=subscribe>
+Sender: toefl-bounces@gradinfo.net.edu.cn
+Errors-To: toefl-bounces@gradinfo.net.edu.cn
+X-UIDL: 0l3!!k!C!!^\-"!oPG!!
+
+不明白了，单身宿舍多好啊，一个月就交个50、100的房租，跟80年代一样，
+偶就想住单身宿舍～
+自己买房，一辈子就被贷款套牢了
+偶同学，俩人工资1万2，不敢吃不敢穿，学校组织旅游便宜也不敢去，
+贷款要还20年啊
+如果20年之后死了呢？谁知道将来怎么样啊，那时候再去吃穿旅游不就晚了？
+: 我和LP两人都是外地来北京读书，清华博硕毕业后，都在北京工作
+: LP在中央国有事业单位工作，工资不高每月到手3k左右，我在国企工作
+: 到手也只有6k不到，两人的父母都是工薪阶层，没有多少积蓄，
+: ...................
+

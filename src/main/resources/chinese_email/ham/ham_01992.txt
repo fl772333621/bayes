@@ -1,0 +1,61 @@
+Return-Path: <yuan@compass.net.edu.cn>
+Received: from tsinghua.org.cn ([210.77.143.228])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id iAI2UKmW004679
+	for <lei@ccert.edu.cn>; Thu, 18 Nov 2004 10:30:21 +0800
+Received: (eyou send program); Thu, 18 Nov 2004 10:42:48 +0800
+Received: (eyou send program); Thu, 18 Nov 2004 10:42:44 +0800
+X-EYOU-ORIGINAL-IP: 210.77.143.235
+X-EYOU-ENVELOPE-MAILFROM: toefl-bounces@server.cool-meeting.com
+Received: from unknown (HELO eyou.net) (unknown@210.77.143.235)
+ by 210.77.143.228 with SMTP; Thu, 18 Nov 2004 10:42:44 +0800
+Received: (eyou send program); Thu, 18 Nov 2004 10:38:29 +0800
+Message-ID: <300745509.22057@eyou.net>
+Received: from 202.38.99.65 by 210.77.143.235 with SMTP; Thu, 18 Nov 2004 10:38:27 +0800
+Received: from server.cool-meeting.com (localhost.localdomain [127.0.0.1])
+	by server.cool-meeting.com (8.12.8/8.12.8) with ESMTP id iAHEx8li014719
+	for <lei@ccert.edu.cn>; Wed, 17 Nov 2004 22:59:42 +0800
+Received: from compass.net.edu.cn ([202.38.188.130])
+	by server.cool-meeting.com (8.12.8/8.12.8) with ESMTP id iAHEwvkr014715
+	for <lei@ccert.edu.cn>; Wed, 17 Nov 2004 22:58:58 +0800
+Received: from [166.111.166.150] (tu166150.tsinghua.edu.cn [166.111.166.150])
+	by compass.net.edu.cn (8.9.2/8.9.2) with ESMTP id WAA10301
+	for <lei@ccert.edu.cn>;
+	Wed, 17 Nov 2004 22:48:04 +0800 (CST)
+Message-ID: <419B63FC.6010806@compass.net.edu.cn>
+Date: Wed, 17 Nov 2004 22:45:16 +0800
+From: Shaozhi Ye <yuan@compass.net.edu.cn>
+User-Agent: Mozilla Thunderbird 0.9 (Windows/20041103)
+X-Accept-Language: en-us, en
+MIME-Version: 1.0
+To: lei@ccert.edu.cn
+Content-Type: text/plain; charset=GB2312
+Content-Transfer-Encoding: 8bit
+X-MIME-Autoconverted: from quoted-printable to 8bit by server.cool-meeting.com
+	id iAHEwvkr014715
+Subject: =?gb2312?B?UmU6IMDPyse2zNDFtee7sMmnyMXKx7K7yse74cjDTU2+9bXDuty3s6O/?=
+X-BeenThere: toefl@server.cool-meeting.com
+X-Mailman-Version: 2.1.2
+Precedence: list
+List-Id: &#26446;&#26143;&#21644;&#20182;&#30340;&#23398;&#29983;&#20204;
+	<toefl.server.cool-meeting.com>
+List-Unsubscribe: <http://server.cool-meeting.com/mailman/listinfo/toefl>,
+	<mailto:toefl-request@server.cool-meeting.com?subject=unsubscribe>
+List-Archive: <http://server.cool-meeting.com/mailman/private/toefl>
+List-Post: <mailto:toefl@server.cool-meeting.com>
+List-Help: <mailto:toefl-request@server.cool-meeting.com?subject=help>
+List-Subscribe: <http://server.cool-meeting.com/mailman/listinfo/toefl>,
+	<mailto:toefl-request@server.cool-meeting.com?subject=subscribe>
+Sender: toefl-bounces@server.cool-meeting.com
+Errors-To: toefl-bounces@server.cool-meeting.com
+X-UIDL: 6b"#!/2U!!GP'#!W8E!!
+
+那作一个最坏的假设吧！就是我对他有意图，而他对我没有意图，那
+我天天给他发信息，他会不会很烦？如果会，就应该是不会回的咯，
+或者偶尔回一回的咯。
+现在的情况是，他每条必回，偶尔我太晚给他发。他睡觉了，第二天
+早上起床也会给我回，不过有时候回得积极，有时候不积极，就这样
+: sigh，不是说这次。
+: 都半年了啊，也不短了。。。
+: 男女之间，半年时间，还每天这么多短信，都不会衰减。
+: ...................
+

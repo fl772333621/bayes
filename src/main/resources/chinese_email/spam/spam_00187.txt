@@ -1,0 +1,21 @@
+Return-Path: <li@borland.com>
+Received: from borland.com ([218.81.159.178])
+	by home.ccert.edu.cn (MIMEDefang) with ESMTP id NOQUEUE
+	for <hu@ccert.edu.cn>; Mon, 20 Jun 2005 11:20:36 +0800 (CST)
+Message-ID: <200506201120.0.101140288646139@home.ccert.edu.cn>
+From: 上海金领派维修网 <li@microsoft.com>
+To: hu@ccert.edu.cn
+Subject: =?gb2312?B?yc+6o73wwezFybXnxNTXqNK1zqzQ3rf+zvE=?=
+X-Priority: 3
+X-MSMail-Priority: Normal
+Reply-To: 上海金领派维修网 <li@microsoft.com>
+mime-version: 1.0
+content-type: multipart/mixed;
+	boundary="qzsoft_directmail_seperator"
+
+新老电脑用户您好！
+    我们是上海金领派维修网 （原NEC、HP、DELL电脑专业维修服务商），现已开通http://www.jlpai.com病毒
+清除、数据恢复、网络工程和维护、IT外包服务；台式，笔记本电脑、显示器、打印机、传真机等办公设备专业
+维修上门服务网站，还可拨打13621873345、13501934527、021-64043882上海地区上门服务报修电话，敬请光临。
+
+

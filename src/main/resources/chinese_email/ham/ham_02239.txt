@@ -1,0 +1,27 @@
+Return-Path: <gao@rbl.ccert.edu.cn>
+Received: from rbl.ccert.edu.cn (rbl.ccert.edu.cn [202.112.57.71])
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id i98CHlKa009247
+	for <lei@ccert.edu.cn>; Fri, 8 Oct 2004 20:17:47 +0800 (CST)
+Received: from rbl.ccert.edu.cn (localhost.localdomain [127.0.0.1])
+	by rbl.ccert.edu.cn (8.12.11/8.12.11) with ESMTP id i98CNn5x021835
+	for <lei@ccert.edu.cn>; Fri, 8 Oct 2004 20:23:49 +0800
+Received: (from qa@localhost)
+	by rbl.ccert.edu.cn (8.12.11/8.12.11/Submit) id i98CNnah021834;
+	Fri, 8 Oct 2004 20:23:49 +0800
+Date: Fri, 8 Oct 2004 20:23:49 +0800
+Message-Id: <200410081223.i98CNnah021834@rbl.ccert.edu.cn>
+Subject: =?gb2312?B?UmU6INC0uPjSqszuuN+/vNa+1Li1xMjLw8ejrLzmzLi149DQ0rW/tLeooaM=?=
+To: lei@ccert.edu.cn
+From: Tran Quang Anh <gao@cernet.edu.cn>
+Content-Type: multipart/mixed; boundary="----------=_1097238229-26230-48"
+MIME-Version: 1.0
+X-UIDL: nPT!!*,L!!<D:!!Q4R"!
+
+想俺当年报志愿 根本不知道那些专业都是干啥的，
+以为工程好，报了一个电子工程，一个生物工程，一个商学院。
+然后糊里糊涂进了第一志愿。
+: 看那么多人问，很想跟大家一起探讨一下，欢迎拍砖，当然，反对谩骂。
+: 感觉这个东西跟job很有关系，好的学校加专业是找到一个好工作的开始，所以发在这，希望斑竹别珊。
+: 读了四年，考了半年研，找了半年工作的一些感想。
+: ...................
+

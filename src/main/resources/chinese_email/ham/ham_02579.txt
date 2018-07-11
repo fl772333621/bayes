@@ -1,0 +1,62 @@
+Return-Path: <xin@ccert.edu.cn>
+Received: from tsinghua.org.cn ([210.77.143.228])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id i8M3MMJJ019119
+	for <luo@ccert.edu.cn>; Wed, 22 Sep 2004 11:22:23 +0800
+Received: (eyou send program); Wed, 22 Sep 2004 11:32:15 +0800
+Received: (eyou send program); Wed, 22 Sep 2004 11:27:33 +0800
+X-EYOU-ORIGINAL-IP: 166.111.8.16
+X-EYOU-ENVELOPE-MAILFROM: zhenghui@ccert.edu.cn
+Received: from unknown (HELO mails.tsinghua.edu.cn) (unknown@166.111.8.16)
+ by 210.77.143.228 with SMTP; Wed, 22 Sep 2004 11:27:33 +0800
+Received: (eyou send program); Wed, 22 Sep 2004 11:21:32 +0800
+Message-ID: <295823292.09935@mails.tsinghua.edu.cn>
+Received: (eyou send program); Wed, 22 Sep 2004 11:21:23 +0800
+Message-ID: <295823283.06147@mails.tsinghua.edu.cn>
+Received: from unknown (HELO mails.tsinghua.edu.cn) (unknown@127.0.0.1)
+ by 127.0.0.1 with SMTP; Wed, 22 Sep 2004 11:21:23 +0800
+X-scanvirus: By Symantec Scan Engine
+X-scanresult: CLEAN
+Received: (eqmail ); 22 Sep 2004 03:21:05 -0000
+Received: from ccert.edu.cn (HELO home.ccert.edu.cn) (202.112.57.12)
+  by mails.tsinghua.edu.cn with SMTP; 22 Sep 2004 03:21:05 -0000
+Received: from home.ccert.edu.cn (localhost [127.0.0.1])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id i8M3CwYL018917;
+	Wed, 22 Sep 2004 11:12:58 +0800
+Received: (from majordomo@localhost)
+	by home.ccert.edu.cn (8.13.1/8.13.1/Submit) id i8M3CwNu018916;
+	Wed, 22 Sep 2004 11:12:58 +0800
+X-Authentication-Warning: home.ccert.edu.cn: majordomo set sender to owner-ccertstaff using -f
+Received: from ccertspark (puma.ccert.edu.cn [202.112.50.50])
+	(authenticated bits=0)
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id i8M3AW5w018861;
+	Wed, 22 Sep 2004 11:10:32 +0800
+From: "xin" <xin@ccert.edu.cn>
+To: luo@ccert.edu.cn
+Cc: <tan@ccert.edu.cn>
+Subject: =?gb2312?B?UmU6INDEy8A=?=
+Date: Wed, 22 Sep 2004 11:23:56 +0800
+Message-ID: <000a01c4a053$988c2e70$323270ca@ccertspark>
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="----=_NextPart_000_000B_01C4A096.A6AF6E70"
+X-Priority: 3 (Normal)
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook, Build 10.0.6626
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.3790.181
+Importance: Normal
+Sender: owner-ccertstaff@home.ccert.edu.cn
+Precedence: bulk
+X-UIDL: %\O!!9SP!!/gV!!bZO!!
+
+彻底晕倒
+不离婚的话呢，俩人为了孩子住一块憋屈不说，时间一长，父母感情不正常对孩子百害无利。只好等孩子成人了结束感情。
+接下来
+要是孩子判给妈妈
+有良心的男人呢，就每个月发多点钱给他们母子，时不时带孩子过过好生活
+没良心的呢，玩女人的钱都不够花呢，管你们个P，该干吗干吗去吧
+要是孩子判给爸爸
+母亲嘛，女人嘛，受不了身上掉下的肉嘛，抛不开嘛，放不下嘛，肯定心中一辈子有个
+牵挂，哪怕再婚，哪怕再有孩子，哪怕自己过的爽的再不能爽，有几个能彻底放下这个
+孩子让他跟他生父过
+: 这招怎么没用,我就不信她exlg能抛弃了她母子了,毕竟感情基础还有的吧
+

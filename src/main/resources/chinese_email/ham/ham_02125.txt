@@ -1,0 +1,25 @@
+Return-Path: <hong@rbl.ccert.edu.cn>
+Received: from rbl.ccert.edu.cn (rbl.ccert.edu.cn [202.112.57.71])
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id i8U81rD0023382
+	for <he@ccert.edu.cn>; Thu, 30 Sep 2004 16:01:53 +0800 (CST)
+Received: from rbl.ccert.edu.cn (localhost.localdomain [127.0.0.1])
+	by rbl.ccert.edu.cn (8.12.11/8.12.11) with ESMTP id i8U87TeW027012
+	for <he@ccert.edu.cn>; Thu, 30 Sep 2004 16:07:29 +0800
+Received: (from qa@localhost)
+	by rbl.ccert.edu.cn (8.12.11/8.12.11/Submit) id i8U87TqF027011;
+	Thu, 30 Sep 2004 16:07:29 +0800
+Date: Thu, 30 Sep 2004 16:07:29 +0800
+Message-Id: <200409300807.i8U87TqF027011@rbl.ccert.edu.cn>
+Subject: =?gb2312?B?UmU6ILnY09rNy9GnzsrM4g==?=
+To: he@ccert.edu.cn
+From: Tran Quang Anh <hong@cernet.edu.cn>
+Content-Type: multipart/mixed; boundary="----------=_1096531649-996-248"
+MIME-Version: 1.0
+X-UIDL: g2(!!g8!"!^63!!eC8"!
+
+你们做的是哪一方面的小软件阿？呵呵
+: 来这里不久，但感触不少。我是去年9月上的博士，硕士毕业后工作了1年多。由于我是考回以前的导师，所以面临着很多的问题，两地分居，上学不象工作，没有足够的钱花费等等。我也觉得，从工作到学习的却有点不适用，在钱的问题上，落差很大。于是，在课程修完一部分的情况
+: 既然开始了，就坚持到底的。我总对周围的人说，我暂时不读了。他们就劝我，还是读完吧，争取早点毕业就是了。当然我的情况比其他女生要好一点点（或许是哦），我结婚了，还有就是我中途工作过。其实工作也就那么回事。如果你碰到的领导一般，也一样会无聊的。不过我是个
+: 兄弟姐妹们，坚持啊！
+: ...................
+

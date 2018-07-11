@@ -1,0 +1,25 @@
+Return-Path: <gong@rbl.ccert.edu.cn>
+Received: from rbl.ccert.edu.cn (rbl.ccert.edu.cn [202.112.57.71])
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id i97HvGMX023649
+	for <ni@ccert.edu.cn>; Fri, 8 Oct 2004 01:57:16 +0800 (CST)
+Received: from rbl.ccert.edu.cn (localhost.localdomain [127.0.0.1])
+	by rbl.ccert.edu.cn (8.12.11/8.12.11) with ESMTP id i97I3GlN024945
+	for <ni@ccert.edu.cn>; Fri, 8 Oct 2004 02:03:17 +0800
+Received: (from qa@localhost)
+	by rbl.ccert.edu.cn (8.12.11/8.12.11/Submit) id i97I3Gku024944;
+	Fri, 8 Oct 2004 02:03:16 +0800
+Date: Fri, 8 Oct 2004 02:03:16 +0800
+Message-Id: <200410071803.i97I3Gku024944@rbl.ccert.edu.cn>
+Subject: =?gb2312?B?UmU6INXi0rvE6rXEx/PWsMDhyrejrM+jzfu21GRkbW3T0Mv5vei8+A==?=
+To: ni@ccert.edu.cn
+From: Tran Quang Anh <gong@cernet.edu.cn>
+Content-Type: multipart/mixed; boundary="----------=_1097172197-1044-56"
+MIME-Version: 1.0
+X-UIDL: O-&#!AMG!!a0$#!o8^"!
+
+写得很好，估计很多人都会经历这些的，共勉。
+: 这一年的工作历程真的很辛苦，我在这一年成熟了那么多，自己都没有想到。虽然现在的心态还算不错，但这是几经波折才得来的，其中的滋味有时连自己都体会不清楚。
+: 我不知道现在是麻木期，还是自己想的很开了，抑或是因为有了其他的精神寄托所以精神转移，也不知道当一段时间之后遇到同班同学后会是什么样的心理，不想去想，因为这不过是庸人自扰罢了。
+: 曾以为怎么这一阵子总是走霉运，但慢慢想过来其实满是自己的错，怨不得别人。也许一直走的太顺了，该是老天给我点警告的时候了，也许是他要安排我去做另外的一些事情。
+: ...................
+

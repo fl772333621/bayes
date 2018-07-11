@@ -1,0 +1,59 @@
+Return-Path: <zhong@ccert.edu.cn>
+Received: from tsinghua.org.cn ([210.77.143.231])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id iBF2XPIw017076
+	for <weng@ccert.edu.cn>; Wed, 15 Dec 2004 10:33:26 +0800
+Received: (eyou send program); Wed, 15 Dec 2004 10:26:47 +0800
+Received: (eyou send program); Wed, 15 Dec 2004 10:26:47 +0800
+X-EYOU-ORIGINAL-IP: 210.77.143.235
+X-EYOU-ENVELOPE-MAILFROM: starry@ccert.edu.cn
+Received: from unknown (HELO eyou.net) (unknown@210.77.143.235)
+ by 210.77.143.231 with SMTP; Wed, 15 Dec 2004 10:26:47 +0800
+Received: (eyou send program); Wed, 15 Dec 2004 10:41:26 +0800
+Message-ID: <303078486.18907@eyou.net>
+Received: from 166.111.8.16 by 210.77.143.235 with SMTP; Wed, 15 Dec 2004 10:41:15 +0800
+Received: (eyou send program); Wed, 15 Dec 2004 10:41:19 +0800
+Message-ID: <303078479.26059@mails.tsinghua.edu.cn>
+Received: (eyou send program); Wed, 15 Dec 2004 10:41:18 +0800
+Message-ID: <303078478.05837@mails.tsinghua.edu.cn>
+Received: from unknown (HELO mails.tsinghua.edu.cn) (unknown@127.0.0.1)
+ by 127.0.0.1 with SMTP; Wed, 15 Dec 2004 10:41:18 +0800
+X-scanvirus: By Symantec Scan Engine
+X-scanresult: CLEAN
+X-Received: ccert.edu.cn,202.112.57.12,20041215104106
+Received: from ccert.edu.cn (HELO home.ccert.edu.cn) (202.112.57.12)
+  by localhost with SMTP; 15 Dec 2004 02:41:06 -0000
+Received: from home.ccert.edu.cn (localhost [127.0.0.1])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id iBF2WHkL017047;
+	Wed, 15 Dec 2004 10:32:17 +0800
+Received: (from majordomo@localhost)
+	by home.ccert.edu.cn (8.13.1/8.13.1/Submit) id iBF2WH0w017046;
+	Wed, 15 Dec 2004 10:32:17 +0800
+X-Authentication-Warning: home.ccert.edu.cn: majordomo set sender to owner-ccertstaff using -f
+Received: from starry ([202.112.50.191])
+	(authenticated bits=0)
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id iBF2WGIG017040
+	for <weng@ccert.edu.cn>; Wed, 15 Dec 2004 10:32:16 +0800
+Message-Id: <200412150232.iBF2WGIG017040@home.ccert.edu.cn>
+Date: Wed, 15 Dec 2004 10:45:40 +0800
+From: "zhong" <zhong@ccert.edu.cn>
+To: weng@ccert.edu.cn
+Subject: =?gb2312?B?UmU6IMfr09BCRrXExa7J+rDvw6ajqNLstdi5/bXEo6k=?=
+X-mailer: Foxmail 5.0 [cn]
+Mime-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="=====003_Dragon234248736003_====="
+Sender: owner-ccertstaff@home.ccert.edu.cn
+Precedence: bulk
+X-UIDL: U0\"!2UN!!~F7!!dQ]!!
+
+: 和MM异地，怎样才能很好的维持感情呢。
+: 女生希望男生怎么做啊。最好能具体一点。
+: 希望JJMM们赐教。谢谢。
+   我跟gg从高中毕业起就一直异地到现在，四年了。虽然期间分分合合两次，但每次分手之后，再回头，就会发现感情更深了：），并且觉得再也不要做这种分手的傻事情了，那只会相互折磨，结果都一样，都要回头的。虽然现在我不敢肯定未来怎么样，但是至少现在我们感情还很好，而且也很有信心会更好的。
+   既然楼主想问的是男生要怎么做，我就只回答这部分好了：
+   首先，我觉得最基本的首先应该是两个人的感情都要很真挚，都一心一意想维护这段感情，并且已经从心底认定对方就是你这辈子想要一起过的人，如果没有这种认知，肯定会分手的。我们两次分手的结果就是让我们认清了这一点，两个人基本上都不能接受别人做为自己的另一半了，所以只能回头。如果楼主觉得跟这个mm分手了，还可以接受别人，那就悬了。
+   其次，要经常和mm联系，不一定天天电话，但至少有短信之类的消息，让mm知道你今天干什么了，这样才不会造成两个人更远的距离，让mm觉得你们除了不能见面，但对彼此的生活还是比较了解的。
+   第三，要经常和mm提到自己的生活圈子，例如好朋友的事情啊什么的，节假日见面的时候，要能见到双方的好朋友，吃个饭，唱个歌什么的，这样，让双方的交际圈能有点交集，让彼此的朋友能接受自己，让距离近一些。例如，我gg就和我的好朋友关系不错，我们两个要是有什么事情，一些不好自己说的话，可以叫朋友帮忙沟通。
+   其他的细节，很多啦，都围绕着“不要让双方的距离更加远”这个原则，楼主就自己摸索吧，没准能做的比我gg更好呢，bless~
+   最重要的一点，不要认为对方很遥远，有什么事情即使说出来了，也帮不了自己什么就不说了，记住，要把她当成就在你身边一样的倾诉，有事情一定要说出来，大家一起商量，千万不要自己憋在心里不说，因为不在一起，mm就没法知道你有什么事情了，只能你自己告诉她，让她一直都在参与你的生活中。
+

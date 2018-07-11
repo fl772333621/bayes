@@ -1,0 +1,38 @@
+Return-Path: <long@rbl.ccert.edu.cn>
+Received: from rbl.ccert.edu.cn (rbl.ccert.edu.cn [202.112.57.71])
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id i96MdaT9011168
+	for <zhang@ccert.edu.cn>; Thu, 7 Oct 2004 06:39:36 +0800 (CST)
+Received: from rbl.ccert.edu.cn (localhost.localdomain [127.0.0.1])
+	by rbl.ccert.edu.cn (8.12.11/8.12.11) with ESMTP id i96MjXB7005688
+	for <zhang@ccert.edu.cn>; Thu, 7 Oct 2004 06:45:34 +0800
+Received: (from qa@localhost)
+	by rbl.ccert.edu.cn (8.12.11/8.12.11/Submit) id i96MjXqI005687;
+	Thu, 7 Oct 2004 06:45:33 +0800
+Date: Thu, 7 Oct 2004 06:45:33 +0800
+Message-Id: <200410062245.i96MjXqI005687@rbl.ccert.edu.cn>
+Subject: =?gb2312?B?UmU6ILbU1tzI87eixqzX07HIvc/K7M+ktcS088/Ax+u9+A==?=
+To: zhang@ccert.edu.cn
+From: Tran Quang Anh <long@cernet.edu.cn>
+Content-Type: multipart/mixed; boundary="----------=_1097102734-996-728"
+MIME-Version: 1.0
+X-UIDL: W13"!9L6!!`K>"!B!^!!
+
+刚刚下载了以前没看过的发哥的片子，没时间全看，请推荐几个经典的吧，谢谢。
+1.等待黎明
+2.花旗少林
+3.吉星拱照
+  好像是跟张艾嘉演的 一般 喜欢张的话可以看看
+4.监狱风云II
+5.监狱风云I
+6.江湖龙虎斗
+7.梦中人
+8.倾城之恋
+  张爱玲小说改编的 女主角挺古典 喜欢小说的话可以看看
+9.秋天的童话
+  这个很好看 女主角是钟楚红
+10.原振侠与卫斯理
+   这个非常一般 感觉主角是钱小豪 不推荐 
+11.义胆红唇
+12.阿郎的故事
+（最经典的喋血双雄、英雄本色等都看过了。）
+

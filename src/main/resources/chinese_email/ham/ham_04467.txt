@@ -1,0 +1,36 @@
+Return-Path: <wua@cernet.edu.cn>
+Received: from tsinghua.org.cn ([210.77.143.228])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id i9I3ODWU017206
+	for <he@ccert.edu.cn>; Mon, 18 Oct 2004 11:24:15 +0800
+Received: (eyou send program); Mon, 18 Oct 2004 11:35:16 +0800
+Received: (eyou send program); Mon, 18 Oct 2004 11:34:23 +0800
+X-EYOU-ORIGINAL-IP: 202.112.5.66
+X-EYOU-ENVELOPE-MAILFROM: sundh@cernet.edu.cn
+Received: from unknown (HELO sea.net.edu.cn) (unknown@202.112.5.66)
+ by 210.77.143.228 with SMTP; Mon, 18 Oct 2004 11:34:23 +0800
+Received: from 8jmd55gawpz3tjh ([202.112.50.7])
+	(authenticated bits=0)
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id i9I3QnJx025282;
+	Mon, 18 Oct 2004 11:26:50 +0800 (CST)
+Message-ID: <005601c4b4c2$5abe90f0$073270ca@8jmd55gawpz3tjh>
+From: "wua" <wua@cernet.edu.cn>
+To: he@ccert.edu.cn
+Subject: =?gb2312?B?UmU6ILyxzspKSk1No7rLzU1Nz+PLrtOmuMPU9cO00aG5uqO/?=
+Date: Mon, 18 Oct 2004 11:27:10 +0800
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="----=_NextPart_000_0054_01C4B505.682A67D0"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2800.1437
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1441
+X-UIDL: 9~V"!W]Q!![/&!!+Rk"!
+
+J’adore纯净、永恒的造型，体现了CD一贯的格调：高雅而迷人。细长的瓶颈，用金色的领巾围了一周，更加显得高贵不凡。瓶身光滑透明没有一点修饰，J’adore这几个字母很美地隐藏在水晶瓶盖上。
+初调：清新的常春藤叶，甜美的柑桔果，还有一丝淡淡的黄兰香，在这幽幽的时刻，你也能聆听到来自心底的声音；
+中调：随着兰花一同沉醉，紫罗兰也来分享你的忧愁，连最后的玫瑰也将它浓郁的芬芳带来，在这里，你不该再忧伤；
+基调：将回忆中最悲痛的片段封存起来，大马士革的李子、最后一滴的葡萄酒，混合着麝香与木头味的黑醋栗会将所有的不快乐统统拋开。
+星座：双子座(女)
+: 双子mm?CD哪个金色瓶子，像个保龄球瓶子哪个把，味道不错，很夏天的
+: 貌似叫“真我”？n多年前被星座热推，呵呵，一款经典
+

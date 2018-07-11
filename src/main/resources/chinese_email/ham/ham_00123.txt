@@ -1,0 +1,56 @@
+Return-Path: <ning@ns.6test.edu.cn>
+Received: from tsinghua.org.cn ([210.77.143.231])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id iBU8Or8Y021247
+	for <zhou@ccert.edu.cn>; Thu, 30 Dec 2004 16:24:55 +0800
+Received: (eyou send program); Thu, 30 Dec 2004 16:18:33 +0800
+Received: (eyou send program); Thu, 30 Dec 2004 16:18:33 +0800
+X-EYOU-ORIGINAL-IP: 210.77.143.235
+X-EYOU-ENVELOPE-MAILFROM: toefl-bounces@server.cool-meeting.com
+Received: from unknown (HELO eyou.net) (unknown@210.77.143.235)
+ by 210.77.143.231 with SMTP; Thu, 30 Dec 2004 16:18:33 +0800
+Received: (eyou send program); Thu, 30 Dec 2004 16:32:53 +0800
+Message-ID: <304395573.06171@eyou.net>
+Received: from 202.38.99.65 by 210.77.143.235 with SMTP; Thu, 30 Dec 2004 16:32:48 +0800
+Received: from server.cool-meeting.com (localhost.localdomain [127.0.0.1])
+	by server.cool-meeting.com (8.12.8/8.12.8) with ESMTP id iBU90TlY022770
+	for <zhou@ccert.edu.cn>; Thu, 30 Dec 2004 17:00:35 +0800
+Received: from ns.6test.edu.cn ([202.38.99.18])
+	by server.cool-meeting.com (8.12.8/8.12.8) with ESMTP id iBU90Mkr022766
+	for <zhou@ccert.edu.cn>; Thu, 30 Dec 2004 17:00:22 +0800
+Received: from tu066132.tsinghua.edu.cn ([166.111.66.132] helo=kaka)
+	by ns.6test.edu.cn with asmtp (Exim 4.12) id 1CjwHI-000G11-00
+	for Toefl@server.cool-meeting.com; Thu, 30 Dec 2004 17:07:28 +0800
+Date: Thu, 30 Dec 2004 16:38:46 +0800
+From: "ning" <ning@ns.6test.edu.cn>
+To: zhou@ccert.edu.cn
+X-mailer: Foxmail 5.0 [cn]
+Mime-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Message-Id: <E1CjwHI-000G11-00@ns.6test.edu.cn>
+Content-Transfer-Encoding: 8bit
+X-MIME-Autoconverted: from base64 to 8bit by server.cool-meeting.com id
+	iBU90Mkr022766
+Cc: 
+Subject: =?gb2312?B?ofEgvePDw8PHLMjnufvV4srCt6LJ+rW9wcvE48PHye3JzyzE48PH1PXDtLDsPw==?=
+X-BeenThere: toefl@server.cool-meeting.com
+X-Mailman-Version: 2.1.2
+Precedence: list
+List-Id: &#26446;&#26143;&#21644;&#20182;&#30340;&#23398;&#29983;&#20204;
+	<toefl.server.cool-meeting.com>
+List-Unsubscribe: <http://server.cool-meeting.com/mailman/listinfo/toefl>,
+	<mailto:toefl-request@server.cool-meeting.com?subject=unsubscribe>
+List-Archive: <http://server.cool-meeting.com/mailman/private/toefl>
+List-Post: <mailto:toefl@server.cool-meeting.com>
+List-Help: <mailto:toefl-request@server.cool-meeting.com?subject=help>
+List-Subscribe: <http://server.cool-meeting.com/mailman/listinfo/toefl>,
+	<mailto:toefl-request@server.cool-meeting.com?subject=subscribe>
+Sender: toefl-bounces@server.cool-meeting.com
+Errors-To: toefl-bounces@server.cool-meeting.com
+X-UIDL: m!$#!Z$\"!O8N"!#eE!!
+
+我和老公大学同学,去年4月结的婚,10月生的孩子,属于未婚先孕,就在我还有两个月要生孩子的时候,婆婆从外边抱回去了一个40天的小孩,当女儿养着,对此我心里有所不满,觉得对我们的孩子太不公平,本来一家4口都应该疼我们的孩子,但我也没表现出来,去年9月28日,第一次矛盾:婆婆说都不说一声,去我们屋子里,打开我们的柜子把我给我们孩子准备的小衣服拿出去给那孩子穿了,其实这没什么,就一件衣服而已,可婆婆连个招呼都没打.我有点不高兴,公公婆婆看出来了,就问我怎么了,我就直说了,我说我们孩子马上要出生了,(预产期10月2日)我就给孩子准备了那么一件衣服,我就说了,觉得对我们孩子不公平,婆婆说,她抱回来的那个孩子她自己愿意养着,她有的是钱,谁都管不着,也不碍谁的事,说我刚进门没几天就想骑到她头上了.
+去年11月由于老公工作调动,我们搬出去住了,我一个人带着孩子,今年4月,公婆叫我们回去和他们同住,我已经想到肯定会有矛盾发生的,就怕闹矛盾,我提出还是搬出去住,可公公婆婆不答应 ,平时婆婆和保姆带着抱来的那个孩子,我一个人带着我们的孩子
+  而且他们家重男轻女,我生的是个女孩,婆婆曾经说过这样的话:他们家有的是钱,找个什么样的儿媳妇找不到,希望我和老公再要一个孩子,就是他们的孙子,但又怕我老公把工作丢掉,婆婆说:到时可以去医院找人开证明,说我女儿有什么什么毛病,想生第二个, 还有就是还说,我要是再怀孕了,就叫我老公先和我离婚,然后我生下儿子后再复婚,为的就是我老公的工作,大家说说有这样的大人吗 ,我都感觉他们把我当成生孩子的机器了
+搬回去一个月,5月22日,矛盾发生了,还是因为两个小孩子,我当时一狠心就丢下7个多月大女儿回了娘家,我知道当时我不可能把孩子抱走的,因为每次我和我老公生气,不管谁错谁对,他们都联合起来对付我,到现在，老公说我心狠，要和我离婚，婆婆也在一旁怂恿，老公很孝顺,但孝顺的都有点窝囊了,他妈妈说什么是什么,他们打算起诉离婚，姐妹们,我该怎么办
+

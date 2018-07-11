@@ -1,0 +1,25 @@
+Return-Path: <zhan@rbl.ccert.edu.cn>
+Received: from rbl.ccert.edu.cn (rbl.ccert.edu.cn [202.112.57.71])
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id i9E8CSJh005785
+	for <qing@ccert.edu.cn>; Thu, 14 Oct 2004 16:12:28 +0800 (CST)
+Received: from rbl.ccert.edu.cn (localhost.localdomain [127.0.0.1])
+	by rbl.ccert.edu.cn (8.12.11/8.12.11) with ESMTP id i9E8Huvo029108
+	for <qing@ccert.edu.cn>; Thu, 14 Oct 2004 16:17:57 +0800
+Received: (from qa@localhost)
+	by rbl.ccert.edu.cn (8.12.11/8.12.11/Submit) id i9E8HuZ6029107;
+	Thu, 14 Oct 2004 16:17:56 +0800
+Date: Thu, 14 Oct 2004 16:17:56 +0800
+Message-Id: <200410140817.i9E8HuZ6029107@rbl.ccert.edu.cn>
+Subject: =?gb2312?B?UmU6INK7uPbQobezxNW8r8u8uePS5g==?=
+To: qing@ccert.edu.cn
+From: Tran Quang Anh <zhan@cernet.edu.cn>
+Content-Type: multipart/mixed; boundary="----------=_1097741877-2811-40"
+MIME-Version: 1.0
+X-UIDL: 9B3"!-C'"!9h/"!$I,#!
+
+刷刷~
+: sign，不知道大家对家的地理位置的不便有没有体会，有些细节不到时候还体会不到。我就是这样。我住在文慧桥西侧，租的房子。照说这个位置还不错，离西直门不到一公里。可是真是不方便啊。门前街上常年堵车不说，上哪儿都得绕路。
+: 最近我开始在西内草厂胡同上一个培训班，每天晚上6点到9点。说来只不过是从西直门的西北角到东北角，可是不管怎样都得花半个小时。走路有两公里半吧，要走半个小时。如果坐车，只能坐一站路到西直门，或者从西内向东坐一站，一共也要步行20到25分钟，还有等车的时间。打
+: 还有，从我家到人大附近，到动物园，到新街口，都是直线距离不远，但是没有车坐。
+: ...................
+

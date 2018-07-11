@@ -1,0 +1,80 @@
+Return-Path: <gan@compass.net.edu.cn>
+Received: from tsinghua.org.cn ([210.77.143.232])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with SMTP id j3R2gia6018915
+	for <yang@ccert.edu.cn>; Wed, 27 Apr 2005 10:43:01 +0800
+Received: (eyou send program); Wed, 27 Apr 2005 10:59:12 +0800
+Message-ID: <314570752.02796@tsinghua.org.cn>
+X-EYOU-AUTOFORWARD: tsinghua.org.cn
+Received: (eyou send program); Wed, 27 Apr 2005 10:59:12 +0800
+Message-ID: <314570752.02271@tsinghua.org.cn>
+Received: from unknown (HELO eyou.net) (210.77.143.235)
+ by 210.77.143.232 with SMTP; Wed, 27 Apr 2005 10:59:12 +0800
+X-EYOU-SPAMVALUE: 0
+Received: (eyou anti_spam gateway 3.0); Wed, 27 Apr 2005 10:48:42 +0800
+Message-ID: <314570122.07378@eyou.net>
+Received: from 202.112.49.111 by 210.77.143.235 with SMTP; Wed, 27 Apr 2005 10:48:41 +0800
+Received: from Garfield. (localhost [IPv6:::1])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with ESMTP id j3R2seCi007798
+	for <yang@ccert.edu.cn>; Wed, 27 Apr 2005 10:55:20 +0800 (CST)
+	(envelope-from toefl-bounces@gradinfo.net.edu.cn)
+Received: from compass.net.edu.cn (compass.net.edu.cn [202.38.188.130])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with ESMTP id j3R2sZbF007794
+	for <yang@ccert.edu.cn>; Wed, 27 Apr 2005 10:54:37 +0800 (CST)
+	(envelope-from liyue@compass.net.edu.cn)
+Received: from tu203074.ip.tsinghua.edu.cn ([166.111.203.74] helo=thtfcomputer)
+	by compass.net.edu.cn with asmtp (Exim 3.36 #1 (Debian))
+	id 1DQcmG-0005l3-00
+	for <yang@ccert.edu.cn>; Wed, 27 Apr 2005 10:59:53 +0800
+From: "gan" <gan@compass.net.edu.cn>
+To: yang@ccert.edu.cn
+Date: Wed, 27 Apr 2005 10:56:30 +0800
+Message-ID: <000701c54ad4$cab8ad70$0100a8c0@thtfcomputer>
+MIME-Version: 1.0
+X-Priority: 3 (Normal)
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook, Build 10.0.2627
+Importance: Normal
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+Cc: 
+Subject: =?gb2312?B?ofEgsbG+qdH0ueLA9snht7+12LL6vq28zdPQz965q8u+W9eq1Nhd?=
+X-BeenThere: toefl@gradinfo.net.edu.cn
+X-Mailman-Version: 2.1.5
+Precedence: list
+List-Id: "&#26446; &#26143; &#21644; &#20182; &#30340; &#23398; &#29983;
+	&#20204; " <toefl.gradinfo.net.edu.cn>
+List-Unsubscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=unsubscribe>
+List-Archive: <http://gradinfo.net.edu.cn/mailman/private/toefl>
+List-Post: <mailto:toefl@gradinfo.net.edu.cn>
+List-Help: <mailto:toefl-request@gradinfo.net.edu.cn?subject=help>
+List-Subscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=subscribe>
+Content-Type: multipart/mixed; boundary="===============2049800409=="
+Sender: toefl-bounces@gradinfo.net.edu.cn
+Errors-To: toefl-bounces@gradinfo.net.edu.cn
+X-UIDL: N]!#!(%M"!J<*"!`n<"!
+
+北京阳光丽舍房地产投资顾问有限公司是一家集
+房地产市场研究与项目策划、投资顾问、销售代
+理、地产经纪、物业管理等全程服务于一体的专
+业大型房地产经纪公司。公司还积极拓展市场，
+率先组建网络部，把行业中传统模式与Internet
+有机结合，始终以诚实、信用、公平、公正作为
+企业的宗旨。公司在本市各大城区下设21家分支
+机构及多处现场售楼部，分别遍布于北京市各个
+枢纽地段，构成了强大的营销网。
+现诚聘以下人才:
+文秘:8名,      业务代表:16名,
+经理助理:2名,  行政助理:3名,
+英语业务:2名,  楼盘销售:12名,
+电脑操作:2名,  客户陪同:12名,
+以上人员要求高中以上学历35岁以下,语言表达
+能力强,爱岗敬业,形象好.
+本公司注重个人能力,一经录用签定正式合同,上
+三险.
+联系电话:83258806,84118058,联系人:丁主任,
+传真:84110649 
+地址:安定门,地坛体育馆对面三秀涵雅604室.
+简历发送到：zqy8883@sohu.com 
+招聘信息转自：校园招聘大全———www.jobmm.com，欢迎访问！
+

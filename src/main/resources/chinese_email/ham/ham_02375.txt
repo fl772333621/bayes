@@ -1,0 +1,93 @@
+Return-Path: <pan@mails.tsinghua.edu.cn>
+Received: from tsinghua.org.cn ([210.77.143.232])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with SMTP id j3LCkSgu010878
+	for <cao@ccert.edu.cn>; Thu, 21 Apr 2005 20:46:40 +0800
+Received: (eyou send program); Thu, 21 Apr 2005 21:02:53 +0800
+Message-ID: <314088573.18410@tsinghua.org.cn>
+X-EYOU-AUTOFORWARD: tsinghua.org.cn
+Received: (eyou send program); Thu, 21 Apr 2005 21:02:53 +0800
+Message-ID: <314088573.08775@tsinghua.org.cn>
+Received: from unknown (HELO eyou.net) (210.77.143.235)
+ by 210.77.143.232 with SMTP; Thu, 21 Apr 2005 21:02:53 +0800
+X-EYOU-SPAMVALUE: 0
+Received: (eyou anti_spam gateway 3.0); Thu, 21 Apr 2005 20:52:29 +0800
+Message-ID: <314087949.03114@eyou.net>
+Received: from 202.112.49.111 by 210.77.143.235 with SMTP; Thu, 21 Apr 2005 20:52:28 +0800
+Received: from Garfield. (localhost [IPv6:::1])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with ESMTP id j3LCx8Su060974
+	for <cao@ccert.edu.cn>; Thu, 21 Apr 2005 20:59:20 +0800 (CST)
+	(envelope-from toefl-bounces@gradinfo.net.edu.cn)
+Received: from whisper.6test.edu.cn (SERVER.COOL-MEETING.COM [202.38.99.65])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with ESMTP id j3LCx44W060958
+	for <cao@ccert.edu.cn>; Thu, 21 Apr 2005 20:59:04 +0800 (CST)
+	(envelope-from sxx03@mails.tsinghua.edu.cn)
+Received: from mails.tsinghua.edu.cn ([166.111.8.16])
+	by whisper.6test.edu.cn with smtp (Exim 4.50) id 1DObJQ-0001C9-1o
+	for toefl@server.cool-meeting.com; Thu, 21 Apr 2005 21:01:44 +0800
+Received: (eyou send program); Thu, 21 Apr 2005 20:49:42 +0800
+Message-ID: <314087782.17290@mails.tsinghua.edu.cn>
+Received: from 202.38.188.130 by mails.tsinghua.edu.cn with HTTP;
+	Thu, 21 Apr 2005 20:49:42 +0800
+X-WebMAIL-MUA: [202.38.188.130]
+From: pan@mails.tsinghua.edu.cn
+To: cao@ccert.edu.cn
+Date: Thu, 21 Apr 2005 20:49:42 +0800
+X-Priority: 3
+Content-Type: multipart/mixed; boundary="----------=_1114087608-987-697"
+Cc: 
+Subject: =?gb2312?B?ofEgW7nbxqzI1bzHXcuryfrDwMGrtO8vzum1zy6wrMLXLkp1bi4xMQ==?=
+X-BeenThere: toefl@gradinfo.net.edu.cn
+X-Mailman-Version: 2.1.5
+Precedence: list
+Reply-To: pan@mails.tsinghua.edu.cn
+List-Id: "&#26446; &#26143; &#21644; &#20182; &#30340; &#23398; &#29983;
+	&#20204; " <toefl.gradinfo.net.edu.cn>
+List-Unsubscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=unsubscribe>
+List-Archive: <http://gradinfo.net.edu.cn/mailman/private/toefl>
+List-Post: <mailto:toefl@gradinfo.net.edu.cn>
+List-Help: <mailto:toefl-request@gradinfo.net.edu.cn?subject=help>
+List-Subscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=subscribe>
+Sender: toefl-bounces@gradinfo.net.edu.cn
+Errors-To: toefl-bounces@gradinfo.net.edu.cn
+MIME-Version: 1.0
+X-UIDL: Go-"![lA"!6J1!!P<l"!
+
+您今天看的哪部片子?:
+双生美莲达  / 八佰伴影城 上海第8届国际电影节...座无虚席啊
+片子作者是谁?:
+伍迪.艾伦
+您对摄影画面的评分?5*经典4*值得研究3*到位2*需提高:
+4.5* 双虚线的蒙太奇, 作为看的第一部这种章法, 蒙太奇的切入点值得研究
+您对演员表演的评分?5*经典4*值得研究3*到位2*需提高:
+4.5* 眼神表现很有力, 还有就是人物间的触觉,
+        另外悲观节奏理智为主, 乐观节奏心灵为主
+您对人物性格的评分?5*经典4*值得研究3*到位2*需提高:
+5* 2套人物性格, 塑造和表演方面都不错, 美莲达, 丈夫, 妻子3个表现最好
+您对叙事剧情的评分?5*经典4*值得研究3*到位2*需提高:
+5* 刚看了&lt;&lt;导演功课&gt;&gt;, 说 叙事应该是一条悬念贯穿, 目的达到, 就结束了
+        说故事, 就是牢牢抓住观众心理, 步步发展
+        本片里面的悲观节奏和乐观节奏的推进都很好,
+悲观节奏中
+        第1个转折点, 是介绍party, 否定了介绍的却迷上了作曲家
+        第2个转折点, 是3人晚餐, 作曲家和妻子表白
+乐观节奏中
+        开头是马场, 美莲达和丈夫的"对话"-触摸
+        第1个转折点, 是介绍给美莲达的人, 丈夫不喜欢
+        第2个转折点, 是妻子跟介绍的人xx, 丈夫欣然离婚, 却听到美莲达 恋爱了
+        结局是戏剧性的-大家都忘不了心里的人
+您对主题寓意的评分?5*经典4*值得研究3*到位2*需提高:
+5*
+人生如戏, 对白里面很多话, 在谈讨人生的意义.
+        比如"幸福关键是把握 能够抓到的东西", "modest hope-&gt;happiness",
+大而言之, 主观情绪和客观"巧合", 往往促成完全不同的结局, 我们的生活不也是如此么?
+        一句话, 生活幸福, 关键在搭配! 我们就是自己故事的导演... 从容得去作~
+总体的星星评级?5*经典4*值得研究3*值得一看2*需提高:
+5* 哲理片~~ 构篇巧思, 情感表现真实
+这部片,您特别喜欢的地方是什么? (最多160字,^q换行):
+哲理对白
+看了这部片子,您最想去做什么?(最多160字,每行1件事):
+拍一部生活哲理片~~ 记得初中写周记的时候 对这个感兴趣来着
+        原来理智节奏, 也可以如此深刻.
+

@@ -1,0 +1,26 @@
+Return-Path: <yan@rbl.ccert.edu.cn>
+Received: from rbl.ccert.edu.cn (rbl.ccert.edu.cn [202.112.57.71])
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id i983E3UF000791
+	for <xu@ccert.edu.cn>; Fri, 8 Oct 2004 11:14:05 +0800 (CST)
+Received: from rbl.ccert.edu.cn (localhost.localdomain [127.0.0.1])
+	by rbl.ccert.edu.cn (8.12.11/8.12.11) with ESMTP id i983K2ac022792
+	for <xu@ccert.edu.cn>; Fri, 8 Oct 2004 11:20:04 +0800
+Received: (from qa@localhost)
+	by rbl.ccert.edu.cn (8.12.11/8.12.11/Submit) id i983K2iX022791;
+	Fri, 8 Oct 2004 11:20:02 +0800
+Date: Fri, 8 Oct 2004 11:20:02 +0800
+Message-Id: <200410080320.i983K2iX022791@rbl.ccert.edu.cn>
+Subject: =?gb2312?B?UmU6IMj9uPbUwrXE0KHT8cPX?=
+To: xu@ccert.edu.cn
+From: Tran Quang Anh <yan@cernet.edu.cn>
+Content-Type: multipart/mixed; boundary="----------=_1097205604-1044-234"
+MIME-Version: 1.0
+X-UIDL: DPC"!epK!!8N9"!A[2!!
+
+: 三个月的小玉米，身长64cm，体重15斤出头。与同月龄的宝宝相比大好多，抱出去别人都以为已经4、5个月了
+: 三个月的小玉米从刚满两个月时候学会了开始咿咿哦哦的跟人对话，喜欢看鲜艳的颜色和动来动去的物体。早上是她最favorate的时刻，睡得美美的醒来，看着窗帘缝里露出的光亮就开始一个人傻乐 :D 能一个人玩好一会儿。
+: 三个月的小玉米有了倾心喜爱的物品，一个是奶瓶，还有一个是妈妈的乳房^&amp;*^*%
+: ...................
+真的是个胖丫头哎
+养得真不错
+

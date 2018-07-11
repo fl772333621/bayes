@@ -1,0 +1,51 @@
+Return-Path: <lin@stu.ee.tsinghua.edu.cn>
+Received: from tsinghua.org.cn ([210.77.143.232])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with SMTP id j3P2M9gV016596
+	for <zhan@ccert.edu.cn>; Mon, 25 Apr 2005 10:22:20 +0800
+Received: (eyou send program); Mon, 25 Apr 2005 10:38:36 +0800
+Message-ID: <314396716.18350@tsinghua.org.cn>
+X-EYOU-AUTOFORWARD: tsinghua.org.cn
+Received: (eyou send program); Mon, 25 Apr 2005 10:38:36 +0800
+Message-ID: <314396716.12007@tsinghua.org.cn>
+Received: from unknown (HELO eyou.net) (210.77.143.235)
+ by 210.77.143.232 with SMTP; Mon, 25 Apr 2005 10:38:36 +0800
+X-EYOU-SPAMVALUE: 0
+Received: (eyou anti_spam gateway 3.0); Mon, 25 Apr 2005 10:28:09 +0800
+Message-ID: <314396089.02072@eyou.net>
+Received: from 202.112.49.111 by 210.77.143.235 with SMTP; Mon, 25 Apr 2005 10:28:08 +0800
+Received: from Garfield. (localhost [IPv6:::1])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with ESMTP id j3P2Y5nE089391
+	for <zhan@ccert.edu.cn>; Mon, 25 Apr 2005 10:34:52 +0800 (CST)
+	(envelope-from toefl-bounces@gradinfo.net.edu.cn)
+Received: from stu.ee.tsinghua.edu.cn (stu.ee.tsinghua.edu.cn [166.111.64.4])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with SMTP id j3P2Y1hp089387
+	for <zhan@ccert.edu.cn>; Mon, 25 Apr 2005 10:34:03 +0800 (CST)
+	(envelope-from xujf93@stu.ee.tsinghua.edu.cn)
+Received: (qmail 15468 invoked by uid 512); 25 Apr 2005 02:36:28 -0000
+Message-ID: <20050425023628.15467.qmail@stu.ee.tsinghua.edu.cn>
+From: lin@stu.ee.tsinghua.edu.cn
+To: zhan@ccert.edu.cn
+Date: Mon, 25 Apr 2005 10:36:28 +0800
+Mime-Version: 1.0
+Content-Type: multipart/mixed; boundary="----------=_1114395742-9980-240"
+Cc: 
+Subject: =?gb2312?B?ofEg0rLMuMbFz7G52M+1o6zGxcbF08DUttKysrvKx8LoKDIp?=
+X-BeenThere: toefl@gradinfo.net.edu.cn
+X-Mailman-Version: 2.1.5
+Precedence: list
+List-Id: "&#26446; &#26143; &#21644; &#20182; &#30340; &#23398; &#29983;
+	&#20204; " <toefl.gradinfo.net.edu.cn>
+List-Unsubscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=unsubscribe>
+List-Archive: <http://gradinfo.net.edu.cn/mailman/private/toefl>
+List-Post: <mailto:toefl@gradinfo.net.edu.cn>
+List-Help: <mailto:toefl-request@gradinfo.net.edu.cn?subject=help>
+List-Subscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=subscribe>
+Sender: toefl-bounces@gradinfo.net.edu.cn
+Errors-To: toefl-bounces@gradinfo.net.edu.cn
+X-UIDL: P:h!!I@h"!$8m!!fZS"!
+
+    二是同住。一所房子，一个家对于一个女人的含义远远要比男人重要，家是一个女人的领地，生活的根据地，这点可能男人很难以理解。因为男人对家倾注的感情和精力，以及待在家里的时间都远远不如女人。家里一切细节都是按照女人的习惯和爱好布置，这才是你自己的家，生活舒适的家。一个家里如果有两个女人，多半是要出事情的。女人都是偏执于细节的动物，也是控制欲很强的动物，这点跟野兽的领地权一样，是种本能。锅要放这里，勺要放那里，这样那样才会顺手；这是我的抽屉，这是我的梳妆台，专门放我东西的地方。一个家不能容两个女人就跟一山不能容二虎是一样的道理。还有就是生活习惯，价值观的差异，丢个剩菜啊，买件衣服啊，晚些睡觉啊，都是些生活的琐碎事情，但是一点一滴积怨太深，早晚会爆发出来，到时候，你会觉得，自己的生活被一点点地侵蚀，改变，在本应该最舒适的家里也要压抑自己，伪装自己，活得太累，原本和谐的关系也慢慢变了味道。这点参见网上炒得火热的“双面胶”，东北婆婆和上海小媳妇，小媳妇和老公原本过的惬意融洽，但婆婆的到来一切都颠覆了，饮食习惯，生活作息，甚至连媳妇的内衣裤都被拿出来洗，以观察媳妇的生理周期，虽然这只是个虚构的故事，故事必将矛盾扩大化，但生活中的矛盾都是相似的，只不过不是这样，而是那样而已。
+    所以，建议能不同住一定不要同住，有条件的话还是给公婆单独买一所房子，为了方便照顾，楼上楼下，对门都好，但是最好不要同一屋檐下朝夕相处，而且，最好不要给你家的钥匙。实在非得同住，一定保持距离，保有自己的私有领地，不要连自己的卧室都让人随便出入，那么你连最后一点隐私都没有了，也就连最后一点尊严都没有了。
+

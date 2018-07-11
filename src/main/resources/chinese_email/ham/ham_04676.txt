@@ -1,0 +1,39 @@
+Return-Path: <wen@tsinghua.edu.cn>
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id i9PEp4s6015972
+	for <tao@ccert.edu.cn>; Mon, 25 Oct 2004 22:51:04 +0800 (CST)
+Received: (eyou send program); Mon, 25 Oct 2004 22:36:29 +0800
+Message-ID: <298714989.06408@mail.tsinghua.edu.cn>
+Received: from unknown (HELO mail.tsinghua.edu.cn) (unknown@127.0.0.1)
+ by 127.0.0.1 with SMTP; Mon, 25 Oct 2004 22:36:29 +0800
+X-scanvirus: By Symantec Scan Engine
+X-scanresult: CLEAN
+Received: (eqmail ); 25 Oct 2004 14:36:26 -0000
+Received: from unknown (HELO sony) (duanhx@166.111.232.146)
+  by localhost with SMTP; 25 Oct 2004 14:36:26 -0000
+Message-ID: <005301c4baa2$082bc110$063270ca@sony>
+From: "wen" <wen@tsinghua.edu.cn>
+To: tao@ccert.edu.cn
+References: <296440622.22437@mail.tsinghua.edu.cn> <298702987.09967@mail.tsinghua.edu.cn>
+Subject: =?gb2312?B?ofEgvfS8sdX3bW3D98zs1Oezv8XAz+PJvbyw1rLO79Sw087N5qGj?=
+Date: Mon, 25 Oct 2004 22:50:54 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0050_01C4BAE5.15719960"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2900.2180
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+X-UIDL: lMD!!^:f!!'p6!!,;l"!
+
+小红帽，是我们的标志，源自ruo2005和北北在今年三月份的组队。
+明天又我们的帮主——洪七组队，去香山周围登山游玩。
+由于仓促，未能及早征mm，造成现在只有三位gg。
+不过，真的是本帮三大帅哥：洪七，jzw，and Jason.
+哈哈，先自吹一下。
+现紧急征mm同往。时间紧迫，无需报名，明天早晨9点直接到清华西门集合即可。
+或者随时拨打我的电话：13717683882
+要求：穿运动鞋，自带避暑设备，自带食品和水。
+各种费用一律AA。
+好了，其他的电话咨询吧。
+

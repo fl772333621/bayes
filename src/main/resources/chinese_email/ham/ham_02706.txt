@@ -1,0 +1,74 @@
+Return-Path: <gong@home.ccert.edu.cn>
+Received: from home.ccert.edu.cn (localhost [127.0.0.1])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id iB19D4cA022549;
+	Wed, 1 Dec 2004 17:13:04 +0800
+Received: (from majordomo@localhost)
+	by home.ccert.edu.cn (8.13.1/8.13.1/Submit) id iB19D4Mg022548;
+	Wed, 1 Dec 2004 17:13:04 +0800
+X-Authentication-Warning: home.ccert.edu.cn: majordomo set sender to owner-ccertstaff using -f
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id iB19CrxQ022537
+	for <zheng@ccert.edu.cn>; Wed, 1 Dec 2004 17:12:53 +0800
+Received: from WHITESNOW ([220.207.88.17])
+	(authenticated bits=0)
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id iB19PqxY011289;
+	Wed, 1 Dec 2004 17:25:56 +0800 (CST)
+Message-ID: <00e001c4d787$c47204e0$df54cfdc@WHITESNOW>
+From: "gong" <gong@cernet.edu.cn>
+To: zheng@ccert.edu.cn
+References: <200412010909.iB1994Gg010916@sea.net.edu.cn>
+Subject: =?gb2312?B?UmU6IM/Q18XO3srCo7rM+dK7z8Kxvr/GsOC1xL7N0rXH6b/2KFpaKQ==?=
+Date: Wed, 1 Dec 2004 17:25:50 +0800
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2900.2180
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+Content-Transfer-Encoding: 8bit
+X-MIME-Autoconverted: from base64 to 8bit by home.ccert.edu.cn id iB19D4xQ022543
+Sender: owner-ccertstaff@home.ccert.edu.cn
+Precedence: bulk
+X-UIDL: o1B!!BQ7"!8UO!!`kn"!
+
+wawa.... 
+: 标  题: Re: 闲着无事：贴一下本科班的就业情况(ZZ)
+: 发信站: 水木社区 (Mon Jun 13 00:10:42 2005), 站内
+: 
+: 贴个我们班的吧，22个人，赫赫
+: 
+: 
+: 新加坡国立大学(PHD candidate)
+: 国家开发银行
+: 中国建设银行
+: 赛迪顾问
+: 普天集团
+: 国家发改委
+: 大庆石油管理局
+: 斯伦贝谢
+: 清华大学**学院(PHD candidate)
+: 清华大学**学院
+: 清华大学**学院
+: 清华大学科技园
+: 宾夕法尼亚州立大学(PHD candidate)
+: 中国人民银行
+: 卡内基-梅隆大学(PHD candidate)
+: 巴黎高等师范学校(PHD candidate)
+: 中国电信北京研究院
+: 联想集团
+: 明尼苏达大学(PHD candidate)
+: 北京富士康
+: 卡内基-梅隆大学(PHD candidate)
+: 香港中文大学(PHD candidate)
+: 
+: 
+: 
+: : 有道理，偶咋没想到
+: 
+: 
+: 
+: --
+: 
+: ※ 来源:·水木社区 http://newsmth.net·[FROM: 210.82.181.*]
+

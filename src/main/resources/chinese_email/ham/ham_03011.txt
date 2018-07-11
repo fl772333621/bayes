@@ -1,0 +1,26 @@
+Return-Path: <mei@rbl.ccert.edu.cn>
+Received: from rbl.ccert.edu.cn (rbl.ccert.edu.cn [202.112.57.71])
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id i96BRGWg003634
+	for <gan@ccert.edu.cn>; Wed, 6 Oct 2004 19:27:16 +0800 (CST)
+Received: from rbl.ccert.edu.cn (localhost.localdomain [127.0.0.1])
+	by rbl.ccert.edu.cn (8.12.11/8.12.11) with ESMTP id i96BXCDZ004404
+	for <gan@ccert.edu.cn>; Wed, 6 Oct 2004 19:33:12 +0800
+Received: (from qa@localhost)
+	by rbl.ccert.edu.cn (8.12.11/8.12.11/Submit) id i96BXCRm004403;
+	Wed, 6 Oct 2004 19:33:12 +0800
+Date: Wed, 6 Oct 2004 19:33:12 +0800
+Message-Id: <200410061133.i96BXCRm004403@rbl.ccert.edu.cn>
+Subject: =?gb2312?B?UmU6ILn6xNq1xFBIRMLbzsQ=?=
+To: gan@ccert.edu.cn
+From: Tran Quang Anh <mei@cernet.edu.cn>
+Content-Type: multipart/mixed; boundary="----------=_1097062392-996-622"
+MIME-Version: 1.0
+X-UIDL: 4lV"!]c[!!+ac!!7<G"!
+
+你把你帖子里的“呀”去掉的话或许还不会招致这么多人的反感
+你这不是在批评，而是炫耀与讥讽
+想获得别人的尊重首先要尊重别人，即使他是你批评的对象
+学会做人真的有那么难？
+: 其实国内就是喜欢听好话。这样的大学什么时候才有进步呢？也许有些人还在陶醉于4大发明呢。。。。。悲哀
+: 其实管中窥豹，可见一般。国内的PHD的标准就是这样呀。。。。。我也看见北大的一个PHD ACCOUNTING的论文。也是一样的结构。晕！难道国内没有BUSINESS RESEARCH MATHODS吗？没有SPSS吗？如果只是收集资料的话。这样也算论文呀。还不如我MBA的一个ASSIGNMENT呢...
+

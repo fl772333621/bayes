@@ -1,0 +1,31 @@
+Return-Path: <ning@rbl.ccert.edu.cn>
+Received: from rbl.ccert.edu.cn (rbl.ccert.edu.cn [202.112.57.71])
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id i8TLuoXQ015838
+	for <tao@ccert.edu.cn>; Thu, 30 Sep 2004 05:56:50 +0800 (CST)
+Received: from rbl.ccert.edu.cn (localhost.localdomain [127.0.0.1])
+	by rbl.ccert.edu.cn (8.12.11/8.12.11) with ESMTP id i8TM2MNG023247
+	for <tao@ccert.edu.cn>; Thu, 30 Sep 2004 06:02:22 +0800
+Received: (from qa@localhost)
+	by rbl.ccert.edu.cn (8.12.11/8.12.11/Submit) id i8TM2MIj023246;
+	Thu, 30 Sep 2004 06:02:22 +0800
+Date: Thu, 30 Sep 2004 06:02:22 +0800
+Message-Id: <200409292202.i8TM2MIj023246@rbl.ccert.edu.cn>
+Subject: =?gb2312?B?ofEgzrXAts34wufK6bXqs8/GuMTayN3W97Hg?=
+To: tao@ccert.edu.cn
+From: Tran Quang Anh <ning@cernet.edu.cn>
+Content-Type: multipart/mixed; boundary="----------=_1096495342-996-236"
+MIME-Version: 1.0
+X-UIDL: !d`"!~(g"!8;K!!@R+!!
+
+工作职责： 
+1、对于日常营销的图书大类进行设计，编辑产品内容及促销内容； 
+2、结合本地流行文化特点，对现有产品进行分类组合，制定促销计划。 
+3、能够管理并协调整个内容团队的发展。 
+任职要求： 
+1、熟悉图书，有很好的文字编辑功底； 
+2、及时了解把握本地流行文化，即时做出相关的营销主题； 
+3、熟练计算机应用，精通dreamweaver等网页制做软件； 
+4、有很强的协调能力，及团队合作精神； 
+5、熟悉电子商务运作者优先，有出版社或大型媒体任职经验者优先。 
+联系信箱：welan_hr@126.com 
+

@@ -1,0 +1,25 @@
+Return-Path: <cen@rbl.ccert.edu.cn>
+Received: from rbl.ccert.edu.cn (rbl.ccert.edu.cn [202.112.57.71])
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id i9G2Rw3Z017636
+	for <fu@ccert.edu.cn>; Sat, 16 Oct 2004 10:27:59 +0800 (CST)
+Received: from rbl.ccert.edu.cn (localhost.localdomain [127.0.0.1])
+	by rbl.ccert.edu.cn (8.12.11/8.12.11) with ESMTP id i9G2XbUP014480
+	for <fu@ccert.edu.cn>; Sat, 16 Oct 2004 10:33:37 +0800
+Received: (from qa@localhost)
+	by rbl.ccert.edu.cn (8.12.11/8.12.11/Submit) id i9G2Xb9d014479;
+	Sat, 16 Oct 2004 10:33:37 +0800
+Date: Sat, 16 Oct 2004 10:33:37 +0800
+Message-Id: <200410160233.i9G2Xb9d014479@rbl.ccert.edu.cn>
+Subject: =?gb2312?B?UmU6IM7SysfIy7TztcQgztLAtMu1wb2+5CDIy7TzILGxtPMgx+W7qrXEvq253Le9w+Y=?=
+To: fu@ccert.edu.cn
+From: Tran Quang Anh <cen@cernet.edu.cn>
+Content-Type: multipart/mixed; boundary="----------=_1097894017-2811-78"
+MIME-Version: 1.0
+X-UIDL: !nZ"!_Q2!!I==!!i]m"!
+
+清华没人提到经管就会以为是金融，大家对外只会说自己是经管的，而不会说自己是金融、经济还是会计、信管的。况且经管各学科交叉本来就很厉害，将来工作差别也不大，就没必要分的那么细致。我前面之所以单拿金融说，就是金融推研比较难，外校考也很难，会计也是同样，而推/考其他专业相对容易一点�
+: 这就是清华对经管的一个误区 
+: 以为经管就是金融
+: 这个 在人大提到经管 学生更多的想到是商院   经管本身并不是一个东东
+: ...................
+

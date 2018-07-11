@@ -1,0 +1,29 @@
+Return-Path: <qiu@rbl.ccert.edu.cn>
+Received: from rbl.ccert.edu.cn (rbl.ccert.edu.cn [202.112.57.71])
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id i98CI013009256
+	for <cheng@ccert.edu.cn>; Fri, 8 Oct 2004 20:18:01 +0800 (CST)
+Received: from rbl.ccert.edu.cn (localhost.localdomain [127.0.0.1])
+	by rbl.ccert.edu.cn (8.12.11/8.12.11) with ESMTP id i98CO20d021950
+	for <cheng@ccert.edu.cn>; Fri, 8 Oct 2004 20:24:03 +0800
+Received: (from qa@localhost)
+	by rbl.ccert.edu.cn (8.12.11/8.12.11/Submit) id i98CO2oA021949;
+	Fri, 8 Oct 2004 20:24:02 +0800
+Date: Fri, 8 Oct 2004 20:24:02 +0800
+Message-Id: <200410081224.i98CO2oA021949@rbl.ccert.edu.cn>
+Subject: =?gb2312?B?UmU6IKH+xOO/vMnP0dC+v8n6o6zO0r7NvN64+MTjo6yjrMTj1LjS4te3x/PV4tH5tcTFrsjLwvCj
+vw==?=
+To: cheng@ccert.edu.cn
+From: Tran Quang Anh <qiu@cernet.edu.cn>
+Content-Type: multipart/mixed; boundary="----------=_1097238243-26230-72"
+MIME-Version: 1.0
+X-UIDL: +>b!!M,2!!Gme!!e39"!
+
+你要是爱她，就为她去做你能够做到的一切
+这样的要求真的已经是很低了，而且真的是为你好
+我要是女生，发现连对你提的一些基本的期望你都不愿意去努力
+都在怀疑和困惑
+原因只有一个 
+你还不懂得爱别人，也不懂得别人的爱
+: 我知道自己不优秀，成绩不好样子也不帅，我离你又很远。心离的比路还要远，
+: 你说你考上研究生会嫁给我，难到我是研究生我才会学会怎么爱你，怎么和你共度一生吗？
+

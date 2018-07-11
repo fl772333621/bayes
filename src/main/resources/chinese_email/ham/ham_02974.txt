@@ -1,0 +1,32 @@
+Return-Path: <chi@163.com>
+Received: from 163.com (smtp.163.com [202.108.44.212])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j3EFb7YL020428
+	for <guo@ccert.edu.cn>; Thu, 14 Apr 2005 23:37:08 +0800 (CST)
+Message-Id: <200504141537.j3EFb7YL020428@sea.net.edu.cn>
+Received: from ibm-t23 (unknown [59.66.138.126])
+	by smtp4 (Coremail) with SMTP id HMAaSBOOXkJyl_4F.3
+	for <guo@ccert.edu.cn>; Thu, 14 Apr 2005 23:36:53 +0800 (CST)
+X-Originating-IP: [59.66.138.126]
+Date: Thu, 14 Apr 2005 23:36:11 +0800
+From: "chi" <chi@163.com>
+To: guo@ccert.edu.cn
+Subject: =?gb2312?B?ofEg1dDGuExpbnV4z8LI7bz+uaSzzMqmus3Ptc2zt9bO9tSxIHp6?=
+X-mailer: Foxmail 5.0 [cn]
+Mime-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="=====003_Dragon620026323713_====="
+X-UIDL: ,8S"!jj^"!mUX"!!K=!!
+
+发信人: crimson (zz), 信区: Career
+标  题: 招聘Linux下软件工程师和系统分析员
+发信站: BBS 水木清华站 (Mon Jun 13 23:44:57 2005), 站内
+因项目需求，中科院自动化研究所生物认证中心招聘Linux下软件工程师和系统分析员，
+要求：
+1.熟悉linux环境下C/C++程序设计
+2.熟悉Server/Client网络程序设计
+3.对安全套接口有一定了解
+4.熟悉RPC(Remote Procedure Call)程序设计
+5.熟悉Mysql
+联系人：侯老师，电话：010－82610276， email:xwhou@nlpr.ia.ac.cn
+勿回本站信箱，谢谢！
+

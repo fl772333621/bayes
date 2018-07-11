@@ -1,0 +1,26 @@
+Return-Path: <zhuang@rbl.ccert.edu.cn>
+Received: from rbl.ccert.edu.cn (rbl.ccert.edu.cn [202.112.57.71])
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id i982DceO029746
+	for <yuan@ccert.edu.cn>; Fri, 8 Oct 2004 10:13:38 +0800 (CST)
+Received: from rbl.ccert.edu.cn (localhost.localdomain [127.0.0.1])
+	by rbl.ccert.edu.cn (8.12.11/8.12.11) with ESMTP id i982JXLx026713
+	for <yuan@ccert.edu.cn>; Fri, 8 Oct 2004 10:19:34 +0800
+Received: (from qa@localhost)
+	by rbl.ccert.edu.cn (8.12.11/8.12.11/Submit) id i982JXuS026712;
+	Fri, 8 Oct 2004 10:19:33 +0800
+Date: Fri, 8 Oct 2004 10:19:33 +0800
+Message-Id: <200410080219.i982JXuS026712@rbl.ccert.edu.cn>
+Subject: =?gb2312?B?UmU6IMqyw7TXqNK1usPV0rmk1/ejvw==?=
+To: yuan@ccert.edu.cn
+From: Tran Quang Anh <zhuang@cernet.edu.cn>
+Content-Type: multipart/mixed; boundary="----------=_1097201974-1044-192"
+MIME-Version: 1.0
+X-UIDL: ,Af!!b!Q"!LiI!!D9R"!
+
+理想？理想只是学校里的学生的想法，除去干几年还不是俗人一个？理想是建立在金钱的基础之上的。没有好工作好收入，那个理想叫做空想。挑个十年以内热门的就行了。
+我觉得考个好学校却不考虑专业这是个极端愚蠢的错误，看看清华毕业十年的非热门专业的人的收入和上财中财学注会金融的同学的收入就知道了（不要说特例）。前面也讨论过，清华非热门专业硕士出来也就3，4千。这个点钱在北京能干吗？连老婆孩子父母都养不好，吃不好，住不好，玩不好。还谈什么理想，扯淡�
+: 这些都是短见...
+: 现在挣钱的将来未必
+: 还是找个好学校优先吧
+: ...................
+

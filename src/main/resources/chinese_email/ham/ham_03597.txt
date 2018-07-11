@@ -1,0 +1,45 @@
+Return-Path: <xiao@tsinghua.edu.cn>
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j1H2I67M013007
+	for <jian@ccert.edu.cn>; Thu, 17 Feb 2005 10:18:06 +0800 (CST)
+Received: (eyou send program); Thu, 17 Feb 2005 10:01:43 +0800
+Message-ID: <308605703.11041@mail.tsinghua.edu.cn>
+Received: from unknown (HELO mail.tsinghua.edu.cn) (unknown@127.0.0.1)
+ by 127.0.0.1 with SMTP; Thu, 17 Feb 2005 10:01:43 +0800
+X-scanvirus: By Symantec Scan Engine
+X-scanresult: CLEAN
+Received: (eqmail ); 17 Feb 2005 02:01:43 -0000
+Received: from unknown (HELO sony) (duanhx@202.112.35.253)
+  by localhost with SMTP; 17 Feb 2005 02:01:43 -0000
+Message-ID: <005701c51496$e72db730$0201a8c0@sony>
+From: "xiao" <xiao@tsinghua.edu.cn>
+To: jian@ccert.edu.cn
+Subject: =?gb2312?B?ofEgvOGz1ru5yse3xcb6o78=?=
+Date: Thu, 17 Feb 2005 10:17:58 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0054_01C514D9.F42A0360"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2900.2180
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+X-UIDL: M6F"!Q?(#!aED"!Q`D!!
+
+我以为只有电视剧中才会有。。。
+今天妈妈电话里跟我说，爸爸跟她争论起来了
+不同意我现在跟他的交往
+我们只见过一次，朋友介绍的
+之后就是两地，他南方，我北方
+网络联系的，感觉彼此很有共同语言
+但是我不知道为什么家里那么反对
+感情真的很好，被他的真挚细腻的感情打动
+爸爸则不相信他是真心对我的
+还要千里迢迢去南方找他，将来受委屈都没有人可以倾诉。。。
+我感到很两难，一方面跟他相处很顺利，很开心
+一方面受到家里的巨大阻挠，感觉真的很巨大，
+不知道该怎么办了
+其实我俩一开始就清楚，彼此要真的走到一起很难的
+也曾经试图放弃，然而，最终大家都没有做到
+反而觉得越来越好，但是横在我们之间的客观阻碍（主要是两地）
+实在难以逾越，再加上父母的强烈反对。。。我现在。。。心情难以言表
+

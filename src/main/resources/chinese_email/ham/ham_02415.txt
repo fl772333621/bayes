@@ -1,0 +1,25 @@
+Return-Path: <xie@rbl.ccert.edu.cn>
+Received: from rbl.ccert.edu.cn (rbl.ccert.edu.cn [202.112.57.71])
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id i9B4PfHT028804
+	for <cen@ccert.edu.cn>; Mon, 11 Oct 2004 12:25:42 +0800 (CST)
+Received: from rbl.ccert.edu.cn (localhost.localdomain [127.0.0.1])
+	by rbl.ccert.edu.cn (8.12.11/8.12.11) with ESMTP id i9B4V3uR011323
+	for <cen@ccert.edu.cn>; Mon, 11 Oct 2004 12:31:04 +0800
+Received: (from qa@localhost)
+	by rbl.ccert.edu.cn (8.12.11/8.12.11/Submit) id i9B4V3uU011322;
+	Mon, 11 Oct 2004 12:31:03 +0800
+Date: Mon, 11 Oct 2004 12:31:03 +0800
+Message-Id: <200410110431.i9B4V3uU011322@rbl.ccert.edu.cn>
+Subject: =?gb2312?B?UmU6IMyrv8nQpr/Jwa/By1JlOiDKtc6ytbrKx87Sv7S5/bXE1+7Aw7XE1f7WzrrN1b3V+bXn07A=?=
+To: cen@ccert.edu.cn
+From: Tran Quang Anh <xie@cernet.edu.cn>
+Content-Type: multipart/mixed; boundary="----------=_1097469064-1014-92"
+MIME-Version: 1.0
+X-UIDL: 7A)"!eZ%#!#5h"!/*R"!
+
+你的反驳还真是无力...什么内容都没有
+: ~~~~~~~~~~~~~~~~~~~~~知道有多少人看过这片子吗？知道这片子的票房吗？这些带来高票房收的观众都不如您英明神武聪明绝顶？
+: ~~~~~~~~~~~~~~~~~~~~~为什么你腻味别人就一定得腻味？是枯躁艰苦的生活让您对生活失去了乐趣了才这样冷血和没有感情吗？
+: ~~~~~~~~~~~~~~~~~~~~~对韩国电影的认可是可以佐证一大堆知名影人的评价的，人家表演怎么样自然有公论，您好象没有资格说人家演技怎么样吧？
+: ...................
+

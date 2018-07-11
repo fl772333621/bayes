@@ -1,0 +1,37 @@
+Return-Path: <cheng@cernet.edu.cn>
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id j071tm0M007458
+	for <han@ccert.edu.cn>; Fri, 7 Jan 2005 09:56:07 +0800
+Received: from sony (tu204189.ip.tsinghua.edu.cn [166.111.204.189])
+	(authenticated bits=0)
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id j0727Ut0003396;
+	Fri, 7 Jan 2005 10:07:30 +0800 (CST)
+Message-ID: <029801c4f45d$a2c87ac0$8ae86fa6@sony>
+From: "cheng" <cheng@cernet.edu.cn>
+To: han@ccert.edu.cn
+Subject: =?gb2312?B?UmU6IMjVsb6z9sHL0vXP1bXE0rvV0A==?=
+Date: Fri, 7 Jan 2005 10:07:22 +0800
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="----=_NextPart_000_028F_01C4F4A0.ADCAF2C0"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2800.1106
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1106
+X-UIDL: 9$:!!-1m!!p3B"!j6f!!
+
+: 标  题: 日本出了阴险的一招
+: 发信站: 水木社区 (Fri Jun 10 18:21:38 2005), 站内
+: 
+ 中国的否决权对于日本是 不是会拥有否决权 的，作废了
+        这样？呵呵
+: --
+: 　　天地玄黄 宇宙洪荒 日月盈昃 辰宿列张 寒来暑往 秋收冬藏
+: 　
+: 　　闰馀成岁 律吕调阳 雲腾致雨 露结为霜 金生丽水 玉出崑冈
+: 　
+: 　　剑号巨阙 珠称夜光 果珍李柰 菜重芥姜 海咸河淡 鳞潜羽翔
+: 
+: 
+: ※ 来源:·水木社区 newsmth.net·[FROM: 59.66.130.*]
+

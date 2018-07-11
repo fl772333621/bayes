@@ -1,0 +1,39 @@
+Return-Path: <lei@imfirewall.com>
+Received: from im02 ([221.226.93.89])
+	by home.ccert.edu.cn (MIMEDefang) with ESMTP id NOQUEUE
+	for <xia@ccert.edu.cn>; Wed, 22 Jun 2005 12:07:57 +0800 (CST)
+Received: from IM03 ([192.168.0.87]) by im02 with Microsoft SMTPSVC(5.0.2195.6713);
+	 Wed, 22 Jun 2005 11:51:36 +0800
+From: "lei" <lei@imfirewall.com>
+Subject: =?gb2312?B?vajJ6Lj8usO1xLncwO3Gvcyo?=
+To: xia@ccert.edu.cn
+Content-Type: text/plain;charset="GB2312"
+Date: Wed, 22 Jun 2005 11:50:12 +0800
+X-Priority: 2
+X-Mailer: FoxMail 3.11 Release [cn]
+Return-Path: lei@imfirewall.com
+Message-ID: <IM02RjPItdJIWv4wOU800002e78@im02>
+X-OriginalArrivalTime: 22 Jun 2005 03:51:36.0863 (UTC) FILETIME=[B05C82F0:01C576DD]
+
+您好：
+         我是华创软件的技术支持姜雅婷，在这个飞速发展的年代，信息的传递是至关重要的，特别是是网络信息交流已
+
+      成为目前最方便，快捷的工具了。而与此同时它是否给您的企业带来了某些弊端呢？比如员工上班聊天造成商业机密泄漏
+
+      以及工作效率的下降。华创软件是致力于即时通信的监督管理，安全防范的高端软件，为企业在员工安全高效使用IM上
+
+      提供一个良好的管理的平台。http://www.p2pmanage.com 这是我们公司的网址，里面有我们产品的具体信息。如果
+
+      您对我们的产品有兴趣或者在使用(试用）产品时出现任何困难，我将以最大的力量帮助您解决这方面的所有问题。
+
+
+　　　　　　　　祝
+
+        商祺！
+
+　　　　　　　
+
+　　　　　　　　                                                                    support：姜雅婷
+　　　　　　　　                                                                  support@imfirewall.com
+　　　　　　　　　　                                                                 2005-06－08
+

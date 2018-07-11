@@ -1,0 +1,30 @@
+Return-Path: <zhao@moon.bjnet.edu.cn>
+Received: from moon.bjnet.edu.cn (moon.bjnet.edu.cn [202.112.4.65])
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id iB3CEDLU029632
+	(version=TLSv1/SSLv3 cipher=EDH-RSA-DES-CBC3-SHA bits=168 verify=NO)
+	for <ni@ccert.edu.cn>; Fri, 3 Dec 2004 20:14:13 +0800 (CST)
+Received: from thh (tu167127.tsinghua.edu.cn [166.111.167.127])
+	(authenticated bits=0)
+	by moon.bjnet.edu.cn (8.12.9/8.12.9) with ESMTP id iB3BEJYI006727
+	for <ni@ccert.edu.cn>; Fri, 3 Dec 2004 19:14:21 +0800 (CST)
+Message-Id: <200412031114.iB3BEJYI006727@moon.bjnet.edu.cn>
+Date: Fri, 3 Dec 2004 20:13:50 +0800
+From: "zhao" <zhao@moon.bjnet.edu.cn>
+To: ni@ccert.edu.cn
+Subject: =?gb2312?B?UmU6IL3xzOy21EdH09DQqcqnzfuhraGt?=
+X-mailer: Foxmail 5.0 [cn]
+Mime-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: 8bit
+X-MIME-Autoconverted: from base64 to 8bit by sea.net.edu.cn id iB3CEDLU029632
+X-UIDL: HHC"!enC"!;bG!!$@1"!
+
+呵，人与人就是不同啊，这种情况你的GG做得很不好
+还有啊，如果我有女朋友的话会经常常为我女友买东西的，不会那么小气
+不过没办法，你喜欢GG，呵呵，这种事你要是经常说他也会不高兴的
+: 今天是六一，又因为我通过了一个挺重要的考试，所以本来很高兴
+: 晚上和GG商量去学校外面吃饭，学校后门有一家挺便宜的小饭馆，
+: 我觉得那里的老板人很好，所以想多支持他们的生意，就提议去那里吃
+: ...................
+

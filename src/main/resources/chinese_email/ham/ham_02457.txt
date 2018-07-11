@@ -1,0 +1,42 @@
+Return-Path: <wen@tsinghua.edu.cn>
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id iAH4Gm6h020184
+	for <lai@ccert.edu.cn>; Wed, 17 Nov 2004 12:16:48 +0800 (CST)
+Received: (eyou send program); Wed, 17 Nov 2004 12:01:52 +0800
+Message-ID: <300664112.28028@mail.tsinghua.edu.cn>
+Received: from unknown (HELO mail.tsinghua.edu.cn) (unknown@127.0.0.1)
+ by 127.0.0.1 with SMTP; Wed, 17 Nov 2004 12:01:52 +0800
+X-scanvirus: By Symantec Scan Engine
+X-scanresult: CLEAN
+Received: (eqmail ); 17 Nov 2004 04:01:49 -0000
+Received: from unknown (HELO sony) (duanhx@166.111.204.105)
+  by localhost with SMTP; 17 Nov 2004 04:01:49 -0000
+Message-ID: <00b501c4cc5c$3d608610$d63270ca@sony>
+From: "wen" <wen@tsinghua.edu.cn>
+To: lai@ccert.edu.cn
+References: <300658772.10576@mail.tsinghua.edu.cn>
+Subject: =?gb2312?B?ofEgob7H5buqv8a8vNSwtLTStc3FttOzz8a4vLzK9cjL1LGhvyAo16rU2Ck=?=
+Date: Wed, 17 Nov 2004 12:16:39 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_00B2_01C4CC9F.4ABEA150"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2900.2180
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+X-UIDL: +Zd"!8&p"!ne_!!&`J!!
+
+【 以下文字转载自 ParttimeJob 讨论区 】
+发信人: estival (飘过飘过 ), 信区: ParttimeJob
+标  题: 【清华科技园创业团队诚聘技术人员】
+发信站: 水木社区 (Sun Jun 12 10:08:21 2005), 站内
+商助科技是由留学回国的清华校友在清华科技园创办的互联网服务公司。自成立以来发展迅速，客户群已涵盖国内各大知名企业。现在寻求技术人员加入团队。兼职或全职均可。
+&gt;1. 在读学生或有本科以上学历; 计算机、电子或其他理工专业。
+&gt;2. 对编程有浓厚的兴趣，喜爱技术工作。
+&gt;3. 敬业、钻研、互助；良好的团队工作意识和沟通能力。
+&gt;4. 精通JAVA，JSP、SERVLET、JAVASCRIPT、HTML。
+&gt;5. 熟悉 ORACLE 或 MYSQL 数据库。
+&gt;6. 具有MVC/Struts开发经验的会优先考虑。
+联系方式： resume@shangzhu.com
+感谢你的关注！
+

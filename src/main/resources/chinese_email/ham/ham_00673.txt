@@ -1,0 +1,39 @@
+Return-Path: <kang@ccert.edu.cn>
+Received: from tsinghua.org.cn ([210.77.143.231])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id j073JI3Z019370
+	for <ding@ccert.edu.cn>; Fri, 7 Jan 2005 11:19:19 +0800
+Received: (eyou send program); Fri, 07 Jan 2005 11:10:33 +0800
+Received: (eyou send program); Fri, 07 Jan 2005 11:10:32 +0800
+X-EYOU-ORIGINAL-IP: 210.77.143.235
+X-EYOU-ENVELOPE-MAILFROM: starry@ccert.edu.cn
+Received: from unknown (HELO eyou.net) (unknown@210.77.143.235)
+ by 210.77.143.231 with SMTP; Fri, 07 Jan 2005 11:10:32 +0800
+Received: (eyou send program); Fri, 07 Jan 2005 11:24:37 +0800
+Message-ID: <305068277.02653@eyou.net>
+Received: from 202.112.57.12 by 210.77.143.235 with SMTP; Fri, 07 Jan 2005 11:24:36 +0800
+Received: from starry ([202.112.50.9])
+	(authenticated bits=0)
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id j073J5HO019328;
+	Fri, 7 Jan 2005 11:19:05 +0800
+Message-Id: <200501070319.j073J5HO019328@home.ccert.edu.cn>
+Date: Fri, 7 Jan 2005 11:30:53 +0800
+From: "kang" <kang@ccert.edu.cn>
+To: ding@ccert.edu.cn
+Cc: "zhenghui" <hou@ccert.edu.cn>,
+        "chenguangying" <pan@ccert.edu.cn>,
+        "zjwu" <tu@ccert.edu.cn>
+Subject: =?gb2312?B?UmU6IDbUwjXI1W1ttdrSu7TOycvQxLXYzdvN27Tzv96joaOho6E=?=
+X-mailer: Foxmail 5.0 [cn]
+Mime-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: 8bit
+X-MIME-Autoconverted: from base64 to 8bit by home.ccert.edu.cn id j073JI3Z019370
+X-UIDL: ZT""!eW?!!#6K!!KB_!!
+
+嗯，我跟gg走在路上碰见他认识的人，他也是松开我跟人家打招呼，我也气的不让他碰我
+的手来着。我以为就我这样呢，嘿嘿
+心里当然很气愤啦，这是什么意思呢！又不是啥见不得人的事！
+不过你好好哄哄估计也就没啥事了，呵呵
+: 昨天我和mm本来好好的牵着手在校园里漫步，可是突然看到一个熟人，我下意识的赶紧就放开了mm的手。结果mm很生气而且再也不让我碰她的手了，无论我说了多少好话道了多少次歉半天都无济于事。最后吃饭的时候她实在忍不住了哇哇的大哭一场，我在旁边真是不知所措。我不知道
+

@@ -1,0 +1,36 @@
+Return-Path: <ou@ccert.edu.cn>
+Received: from tsinghua.org.cn ([210.77.143.228])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id iAJ0CKlA018754
+	for <jiang@ccert.edu.cn>; Fri, 19 Nov 2004 08:12:21 +0800
+Received: (eyou send program); Fri, 19 Nov 2004 08:24:54 +0800
+Received: (eyou send program); Fri, 19 Nov 2004 08:24:54 +0800
+X-EYOU-ORIGINAL-IP: 210.77.143.235
+X-EYOU-ENVELOPE-MAILFROM: yxl@ccert.edu.cn
+Received: from unknown (HELO eyou.net) (unknown@210.77.143.235)
+ by 210.77.143.228 with SMTP; Fri, 19 Nov 2004 08:24:54 +0800
+Received: (eyou send program); Fri, 19 Nov 2004 08:20:36 +0800
+Message-ID: <300823636.21908@eyou.net>
+Received: from 202.112.57.12 by 210.77.143.235 with SMTP; Fri, 19 Nov 2004 08:20:35 +0800
+Received: from RavProxy ([211.147.9.206])
+	(authenticated bits=0)
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id iAJ0C6Hm018750
+	for <jiang@ccert.edu.cn>; Fri, 19 Nov 2004 08:12:13 +0800
+Message-Id: <200411190012.iAJ0C6Hm018750@home.ccert.edu.cn>
+From: "ou" <ou@ccert.edu.cn>
+To: jiang@ccert.edu.cn
+Subject: =?gb2312?B?UmU6ILTzvNKw787Sv7S/tM7SuMPI57rOus3Az7Dlz+C0pg==?=
+X-mailer: Foxmail 4.2 [cn]
+Mime-Version: 1.0
+Content-Type: text/plain;
+      charset="GB2312"
+Date: Fri, 19 Nov 2004 8:24:36 +0800
+Content-Transfer-Encoding: 8bit
+X-MIME-Autoconverted: from quoted-printable to 8bit by home.ccert.edu.cn id iAJ0CKlA018754
+X-UIDL: V/m"!B4^!!)9G!!4DH"!
+
+sigh,没有很好的建议，尽量避免独处吧
+:     大家高抬贵手，不要re上十大。
+: 在他手下读研快两年了，还剩三年。可是最近越来越受不了他了。
+:     老板不到50岁，我不知道是不是这个年纪的人都会觉得寂寞，以前他偶尔找我聊天我还能忍受，后来我就不大愿和他聊生活方面的问题，宁愿说课题，让他骂一顿都行。可是我发现每次去找他走的时候他就爱拉着我说一堆闲话。偶尔还会动一下我手上的小饰物或者之类的行为。
+: ...................
+

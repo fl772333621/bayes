@@ -1,0 +1,37 @@
+Return-Path: <fan@rbl.ccert.edu.cn>
+Received: from rbl.ccert.edu.cn (rbl.ccert.edu.cn [202.112.57.71])
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id i980Af4U027534
+	for <cao@ccert.edu.cn>; Fri, 8 Oct 2004 08:10:41 +0800 (CST)
+Received: from rbl.ccert.edu.cn (localhost.localdomain [127.0.0.1])
+	by rbl.ccert.edu.cn (8.12.11/8.12.11) with ESMTP id i980Ggie027485
+	for <cao@ccert.edu.cn>; Fri, 8 Oct 2004 08:16:42 +0800
+Received: (from qa@localhost)
+	by rbl.ccert.edu.cn (8.12.11/8.12.11/Submit) id i980Gg9O027484;
+	Fri, 8 Oct 2004 08:16:42 +0800
+Date: Fri, 8 Oct 2004 08:16:42 +0800
+Message-Id: <200410080016.i980Gg9O027484@rbl.ccert.edu.cn>
+Subject: =?gb2312?B?ofEg0LS148/rt6ijrLnY09rV0rmk1/fW0LXE0NSx8NLyy9g=?=
+To: cao@ccert.edu.cn
+From: Tran Quang Anh <fan@cernet.edu.cn>
+Content-Type: multipart/mixed; boundary="----------=_1097194602-1044-168"
+MIME-Version: 1.0
+X-UIDL: O]O"!)=`"!9Q]"!4'9!!
+
+我只想提醒大家，性别这个因素在很多很多场合下，都能改变求职者的命运。
+当年我找工作的时候，有个待遇很好的地方，我很有兴趣，
+就向在里面工作的师兄打听，师兄给我打电话的时候半开玩笑地说，
+他们老板觉得今年该招女生了。
+我当成笑话，没有当真，可后来这个公司招了两个人，全是女的。
+后来我自己工作了，才知道性别这个因素有时候根本是在招聘前就决定了的。
+其原因，根本就不是什么性别歧视，也没有什么性别合适不合适的。
+说白了，就是要保持在性别上的diversify，而背后，要考虑各方面的舆论。
+比如一个部门的头儿是男的，去年招聘的是两个女生，今年就决不可能再招两个女生。
+因为这样的话公司里别的人就不知道要怎么议论他了。
+建议大家找工作的时候，最好能了解一下该公司或该部门以前招聘的是什么人，
+有时候能让你有些心理准备。
+我就曾经跟我的头儿一起去做面试官，
+他亲口跟一个女生说：我认为我们这个职位不太适合女生。
+可事实上我们team里面半数都是女的....
+最后，招人很多的大公司应该不容易出现这样的问题。
+可惜的是，往往招人少的地方待遇比较好.....
+

@@ -1,0 +1,29 @@
+Return-Path: <he@cernet.edu.cn>
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id i8M1xb0l016804
+	for <xu@ccert.edu.cn>; Wed, 22 Sep 2004 09:59:38 +0800
+Received: from 8jmd55gawpz3tjh ([202.112.50.7])
+	(authenticated bits=0)
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id i8M29hfH001327
+	for <xu@ccert.edu.cn>; Wed, 22 Sep 2004 10:09:43 +0800 (CST)
+Message-ID: <003101c4a049$3b203600$073270ca@8jmd55gawpz3tjh>
+From: "he" <he@cernet.edu.cn>
+To: xu@ccert.edu.cn
+Subject: =?gb2312?B?UmU6IL3oyMvG+M7Kzsq437+8sajKssO01r7UuLHIvc+6w6O/o6i8saOs1NrP37XIo6k=?=
+Date: Wed, 22 Sep 2004 10:09:45 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_002E_01C4A08C.4927FEC0"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2800.1437
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1441
+X-UIDL: oQN"!N%-"!gM:"!Fi$#!
+
+: 今年我一个弟弟和一个妹妹同时参加高考，然后他们双方家长都让我给个参谋意见，看看报什么专业，什么学校比较好。我自己也没有什么合适的建议，想在这里看看众位高人有什么建议，谢谢拉！！！
+: （他们两个人在他们全年级都是前30名的。属于他们学校的尖子生。他们学校每年能考到清华和北大的学生一般不下5个。）
+如果上不了好学校的好专业还是换学校，特别学校的差别不大的时候
+去年清华有80多学生没有报道
+其中30多直接出国读本科,50个左右因为专业问题重新参加高考
+教育部通报给各高校的数据中提到的
+

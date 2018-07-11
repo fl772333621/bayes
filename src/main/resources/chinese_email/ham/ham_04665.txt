@@ -1,0 +1,23 @@
+Return-Path: <wen@rbl.ccert.edu.cn>
+Received: from rbl.ccert.edu.cn (rbl.ccert.edu.cn [202.112.57.71])
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id i983AKfe000722
+	for <jian@ccert.edu.cn>; Fri, 8 Oct 2004 11:10:21 +0800 (CST)
+Received: from rbl.ccert.edu.cn (localhost.localdomain [127.0.0.1])
+	by rbl.ccert.edu.cn (8.12.11/8.12.11) with ESMTP id i983GLpV020850
+	for <jian@ccert.edu.cn>; Fri, 8 Oct 2004 11:16:21 +0800
+Received: (from qa@localhost)
+	by rbl.ccert.edu.cn (8.12.11/8.12.11/Submit) id i983GLSf020849;
+	Fri, 8 Oct 2004 11:16:21 +0800
+Date: Fri, 8 Oct 2004 11:16:21 +0800
+Message-Id: <200410080316.i983GLSf020849@rbl.ccert.edu.cn>
+Subject: =?gb2312?B?ofEguLjH173a?=
+To: jian@ccert.edu.cn
+From: Tran Quang Anh <wen@cernet.edu.cn>
+Content-Type: multipart/mixed; boundary="----------=_1097205381-1044-228"
+MIME-Version: 1.0
+X-UIDL: 0ZW"!'d/!!L`k!!JVS"!
+
+父亲节 Father\'s Day 
+　　人们在庆祝母亲节的同时，并没有忘记父亲的功绩。1909年就开始有入建议确定父亲节。据说第一个提出这种建议的是华盛顿的约翰·布鲁斯·多德夫人。多德夫人的母亲早亡，其父独自一人承担起抚养教育孩子的重任，把他们全部培养成人。1909年，多德夫人感念父亲养育之恩，准备为他举行庆祝活动，同时，想到所有的父亲对家庭和社会的贡献，于是给当地一家教士协会写信，建议把6月的第三个星期日定为父亲节。该协会将建议提交会员讨论，获得了通过。1910年6月，人们便在此庆祝了第一个父亲节。当时，凡是父亲已故的人都佩戴一朵白玫瑰，父亲在世的人则佩戴红玫瑰。这种习俗一直流传至今。但是开始时父亲节的日期各不相同，而且有的地方用蒲公英作为父亲节的象征，有的地方则用衬有一片绿叶的白丁香作为父亲节的象征。直到1934年6月，美国国会才统一规定6月的第三个星期日为父亲节。
+　　后来，全世界有二十多个国家通过教堂仪式、送卡和礼物来纪念父亲节。每年全美国要在五千六百万令人尊敬的父亲们身上花去十多亿美元礼品费，但在礼品的种类上除了领带和雪茄烟外其它东西很少。很多人认为给父亲买礼物最难。其实有很多有趣的、合适的礼物是会令父亲们开心的。
+

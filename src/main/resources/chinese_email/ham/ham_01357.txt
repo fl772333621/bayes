@@ -1,0 +1,41 @@
+Return-Path: <zhan@home.ccert.edu.cn>
+Received: from home.ccert.edu.cn (localhost [127.0.0.1])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id iB19D4cA022549;
+	Wed, 1 Dec 2004 17:13:04 +0800
+Received: (from majordomo@localhost)
+	by home.ccert.edu.cn (8.13.1/8.13.1/Submit) id iB19D4Mg022548;
+	Wed, 1 Dec 2004 17:13:04 +0800
+X-Authentication-Warning: home.ccert.edu.cn: majordomo set sender to owner-ccertstaff using -f
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id iB19CrxQ022537
+	for <cao@ccert.edu.cn>; Wed, 1 Dec 2004 17:12:53 +0800
+Received: from WHITESNOW ([220.207.88.17])
+	(authenticated bits=0)
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id iB19PqxY011289;
+	Wed, 1 Dec 2004 17:25:56 +0800 (CST)
+Message-ID: <00e001c4d787$c47204e0$df54cfdc@WHITESNOW>
+From: "zhan" <zhan@cernet.edu.cn>
+To: cao@ccert.edu.cn
+References: <200412010909.iB1994Gg010916@sea.net.edu.cn>
+Subject: =?gb2312?B?ofEgvq215NOwxqyhtrHP0rXJ+qG3xa7Qx8rFysA=?=
+Date: Wed, 1 Dec 2004 17:25:50 +0800
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2900.2180
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+Content-Transfer-Encoding: 8bit
+X-MIME-Autoconverted: from base64 to 8bit by home.ccert.edu.cn id iB19D4xQ022543
+Sender: owner-ccertstaff@home.ccert.edu.cn
+Precedence: bulk
+X-UIDL: o1B!!BQ7"!8UO!!`kn"!
+
+(综合讯)看过好莱坞经典名片《毕业生》的人一定不会忘记电影中引诱女儿男友的风骚妇人罗宾逊太太。 
+　　据BBC报道，扮演罗宾逊太太的演员安妮·班克罗夫特因癌症在纽约病逝，享年73岁。 
+　　班克罗夫特曾经得到五次奥斯卡奖提名，并在1963年以扮演电影《热泪心声》（The Miracle Worker）中教会盲、聋、哑的海伦·凯勒与他人沟通的家庭女教师而得到奥斯卡奖。 
+　　虽然班克罗夫特是一名出色的演员，但是她在2003年曾经抱怨说，《毕业生》中罗宾逊太太这个角色给她后期的演艺生涯都造成负面影响。 
+　　她指出，虽然自己演艺成就不凡，但是人们从不谈论她的其他角色，甚至她得到奥斯卡奖的演出也被罗宾逊太太的风头压倒。 
+　　班克罗夫特的丈夫是著名喜剧演员梅尔·布鲁克斯。 
+

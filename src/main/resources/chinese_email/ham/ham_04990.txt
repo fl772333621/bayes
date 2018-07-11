@@ -1,0 +1,25 @@
+Return-Path: <zhu@rbl.ccert.edu.cn>
+Received: from rbl.ccert.edu.cn (rbl.ccert.edu.cn [202.112.57.71])
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id i9G08rJt015597
+	for <yu@ccert.edu.cn>; Sat, 16 Oct 2004 08:08:53 +0800 (CST)
+Received: from rbl.ccert.edu.cn (localhost.localdomain [127.0.0.1])
+	by rbl.ccert.edu.cn (8.12.11/8.12.11) with ESMTP id i9G0EVlm030752
+	for <yu@ccert.edu.cn>; Sat, 16 Oct 2004 08:14:32 +0800
+Received: (from qa@localhost)
+	by rbl.ccert.edu.cn (8.12.11/8.12.11/Submit) id i9G0EVSi030751;
+	Sat, 16 Oct 2004 08:14:31 +0800
+Date: Sat, 16 Oct 2004 08:14:31 +0800
+Message-Id: <200410160014.i9G0EVSi030751@rbl.ccert.edu.cn>
+Subject: =?gb2312?B?UmU6IM6qyrLDtMTQ09HX3Mzhs/ZYWNKqx/Ojvw==?=
+To: yu@ccert.edu.cn
+From: Tran Quang Anh <zhu@cernet.edu.cn>
+Content-Type: multipart/mixed; boundary="----------=_1097885672-2811-72"
+MIME-Version: 1.0
+X-UIDL: )+[!!?A)"!%/l"!~XO"!
+
+        结婚了也不让他XX
+: 和男友交往时间不长，他提出要带我去见他家人。好象他家人经常催问他个人的问题。平时他经常向我提出XX要求。都被我拒绝。男友经常夸我漂亮，似乎我最吸引他的就是我的外貌。
+: 我不明白，他看中的究竟是我什么？
+: 因为他常提出那样要求，导致我产生不安感。虽然我有过感情经历，他也有过，而且我们年龄都不算小了。但我不明白，和他发生关系后会产生什么样的结果，尽管他提出要带我去见他的家人，提出明年就要和我结婚。
+: ...................
+

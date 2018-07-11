@@ -1,0 +1,47 @@
+Return-Path: <chi@home.ccert.edu.cn>
+Received: from home.ccert.edu.cn (localhost [127.0.0.1])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id iB18VL5K021664;
+	Wed, 1 Dec 2004 16:31:21 +0800
+Received: (from majordomo@localhost)
+	by home.ccert.edu.cn (8.13.1/8.13.1/Submit) id iB18VL5D021663;
+	Wed, 1 Dec 2004 16:31:21 +0800
+X-Authentication-Warning: home.ccert.edu.cn: majordomo set sender to owner-ccertstaff using -f
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by home.ccert.edu.cn (8.13.1/8.13.1) with ESMTP id iB18TQiA021624;
+	Wed, 1 Dec 2004 16:29:26 +0800
+Received: from WHITESNOW ([220.207.88.17])
+	(authenticated bits=0)
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id iB18gH8d010373;
+	Wed, 1 Dec 2004 16:42:22 +0800 (CST)
+Message-ID: <008101c4d781$ae4f1d70$df54cfdc@WHITESNOW>
+From: "chi" <chi@cernet.edu.cn>
+To: lai@ccert.edu.cn
+Cc: <zhan@ccert.edu.cn>
+References: <002101c4d77c$91024c60$15cb6fa6@ccertspark>
+Subject: =?gb2312?B?UmU6IGdn19zKx7K7us3O0sy4veG76bXEysKjrLezo6E=?=
+Date: Wed, 1 Dec 2004 16:42:15 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_007E_01C4D7C4.B6AB2D90"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2900.2180
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+Sender: owner-ccertstaff@home.ccert.edu.cn
+Precedence: bulk
+X-UIDL: ;\A"!a2E!!GTa"!0W,!!
+
+hai咔咔，当初我都觉得象是被gf逼婚
+比我自己的计划早了不少
+: 标  题: gg总是不和我谈结婚的事，烦！
+: 发信站: 水木社区 (Tue Jun  7 20:36:35 2005), 站内
+: 
+: 家里又总是给我压力。我也和gg提过几次了，总得有个计划吧。但他总是回避谈这个，只是笼统地说等我毕业就登记。他父母打电话过来也没问过。他和父母沟通很少。唉，总不能让我每次都这么主动提出吧？就像嫁不出去似的
+: --
+: 方盼接道张,张盼接道方
+: 张秋屈元高,高元屈秋张
+: 
+: 
+: ※ 修改:·crywolf 于 Jun  7 20:37:30 修改本文·[FROM: 60.25.57.*]
+: ※ 来源:·水木社区 newsmth.net·[FROM: 60.25.57.*]
+

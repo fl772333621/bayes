@@ -1,0 +1,33 @@
+Return-Path: <gao@rbl.ccert.edu.cn>
+Received: from rbl.ccert.edu.cn (rbl.ccert.edu.cn [202.112.57.71])
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id i98CHeIY009237
+	for <sun@ccert.edu.cn>; Fri, 8 Oct 2004 20:17:41 +0800 (CST)
+Received: from rbl.ccert.edu.cn (localhost.localdomain [127.0.0.1])
+	by rbl.ccert.edu.cn (8.12.11/8.12.11) with ESMTP id i98CNgjp021658
+	for <sun@ccert.edu.cn>; Fri, 8 Oct 2004 20:23:43 +0800
+Received: (from qa@localhost)
+	by rbl.ccert.edu.cn (8.12.11/8.12.11/Submit) id i98CNgm0021657;
+	Fri, 8 Oct 2004 20:23:42 +0800
+Date: Fri, 8 Oct 2004 20:23:42 +0800
+Message-Id: <200410081223.i98CNgm0021657@rbl.ccert.edu.cn>
+Subject: =?gb2312?B?UmU6IMutwLSwss6/0rvPws7SsMk=?=
+To: sun@ccert.edu.cn
+From: Tran Quang Anh <gao@cernet.edu.cn>
+Content-Type: multipart/mixed; boundary="----------=_1097238223-26230-30"
+MIME-Version: 1.0
+X-UIDL: 0Ei"!Q9A!!ko-"!~Q6!!
+
+  有的时候，亲人确实容易犯一点无心的错误，
+  我清楚的记得，高考开始前十几分钟，
+  我和几个宿舍里的同学，还有我们的父母，站在考场外聊天，
+  一个觉得自己女儿成绩很好的，和我妈妈是同事的阿姨非要看我的会考成绩
+ （在高中毕业证最后一页），说看看我和她女儿比比，
+  结果我的很多都是99，100的，她女儿的基本是90出头，
+  当场她女儿的脸色就非常难看，很丧气的进了考场，
+  你说当妈的，就不能考虑多一点点，不要总想着满足自己的好奇心，
+  这种情况下非说要比这个，这样对女儿有什么好处？
+: 今天得到一个公司的面试通知，正在屋里专心背词汇（因为和计算机英语相关），
+: 突然男朋友打个电话来，“考考你，你知道楚庄王姓什么嘛？”
+:     “知道啊，楚国的王都姓熊的啊”
+: ...................
+
