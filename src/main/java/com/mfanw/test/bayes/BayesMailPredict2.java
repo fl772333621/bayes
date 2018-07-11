@@ -25,7 +25,7 @@ import com.mfanw.test.bayes.utils.PrintUtils;
 public class BayesMailPredict2 {
 
 	/**
-	 * 正常邮件的个数
+	 *正常邮件的个数
 	 */
 	public static long NORMAL_EMAIL_SIZE;
 	/**
@@ -106,7 +106,8 @@ public class BayesMailPredict2 {
 					spamRates *= predit.getSpamRate();
 				}
 			}
-			double probability = spamRates * Consts.SPAM_RATE / (spamRates * Consts.SPAM_RATE + normalRates * (1 - Consts.SPAM_RATE));
+			double probability = spamRates * Consts.SPAM_RATE
+					/ (spamRates * Consts.SPAM_RATE + normalRates * (1 - Consts.SPAM_RATE));
 			if (probability > 0.5) {
 				System.err.println(child.getName() + "\t 这是垃圾邮件 \t" + probability);
 			} else {
